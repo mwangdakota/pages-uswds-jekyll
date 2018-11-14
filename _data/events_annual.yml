@@ -11,6 +11,8 @@
   events:
     - eventname: HIMSS19 Global Conference & Exhibition
       href: https://www.himssconference.org/about/general-info/himss-global-conference-save-date
+    - eventname: SPIE Photonics West
+      href: http://spie.org/conferences-and-exhibitions/photonics-west?SSO=1
     - eventname: AUTM Annual Meeting
       href: https://autm.net/annual-meeting
 - month: Mar
