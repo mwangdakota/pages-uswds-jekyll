@@ -205,14 +205,21 @@
     - Capacity Building, Education, and Training for the Emerging Fourth Sector Eco-system (EA10)
     - Other Education-Related Topics (EA11)
   companies:
+    - name: Edify Technologies, Inc.
+    - name: Killer Snails, LLC
+    - name: CueThink
+    - name: Alchemie Solutions, Inc.
+    - name: Couragion Corporation
+    - name: Speak Agent, Inc.
+    - name: Zyrobotics LLC
+    - name: ThoughtSTEM, LLC
+    - name: Looking Glass Ventures, LLC
     - name: Modular Robotics Incorporated
     - name: Zyante Inc
       allow_recent: true
-    - name: Killer Snails, LLC
     - name: Teachley, LLC.
     - name: Simbulus Inc
     - name: Workplace Technologies Research Inc.
-    - name: Edify Technologies, Inc.
     - name: Triad Interactive Media
     - name: starMobile, Inc.
     
