@@ -990,30 +990,6 @@
   expDate: 09/30/2020
   title: 'SBIR Phase II:  A computational and experimental platform for the automated
     design of organisms used in the production of biochemicals'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project has the potential to help enhance disease resistance in poultry and increase yields due to the delivery of only healthy, fully vaccinated chicks to farms. These healthier chicks will reduce the need for antibiotics in poultry, aiding to combat antimicrobial resistance.  This technology has immediate applications in other food animal industries and fisheries, and allows for data capture on numbers of animals and types of treatments given. Broader applications would include any image capture and analysis that relies on analytics to identify target areas for delivery of substances to live animals or humans.
-
-
-    This SBIR Phase II project will allow for the advancement and commercialization of imaging technologies for the use of screening and targeting live animals. This proposal brings innovation in the care of food animals allowing for producers to move away from flock health and focus on the care of individual animals. This will be a dramatic change for the poultry industry, but is necessary in the face of antibiotic removal to be able to improve the current vaccination efficiencies and screen chicks for health status. Individualized care is currently not possible due to the high throughput needed to keep pace with large scale commercial hatchery operation. The technical challenges this proposal will overcome include 1) the safe and effective handling of chicks in an automated system that can process 100,000 chicks per hour, 2) the development of imaging systems for health checks and target recognition, 3) the delivery of the appropriate dose of vaccine with the correct amount of agents (virus, bacteria, parasite, and other agents) while not damaging the agents during delivery, and 4) development of a system that is rugged and robust enough to survive in a hatchery environment.
-  awardeeAddress: 2804 Glen Burnie Dr
-  awardeeCity: Raleigh
-  awardeeCountryCode: US
-  awardeeName: APPLIED LIFESCIENCES & SYSTEMS POULTRY, INC.
-  awardeeStateCode: NC
-  awardeeZipCode: '276073009'
-  fundsObligatedAmt: '750000'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1758659'
-  piEmail: ramin.karimpour@als-s.com
-  piFirstName: Ramin
-  piLastName: Karimpour
-  piPhone: '9783376198'
-  poName: Ruth M. Shuman
-  date: 02/06/2018
-  startDate: 02/01/2018
-  expDate: 01/31/2020
-  title: 'SBIR Phase II:  Innovative High Throughput Automated System for Individualized
-    Poultry Vaccination and Recognition and Removal of Unhealthy Chicks'
 - abstractText: "The broader impact/commercial potential of this Small Business Technology
     Transfer (STTR) project will be the development of a platform technology for high-throughput
     protein expression. The current standard for expressing panels of proteins involves
@@ -3103,6 +3079,616 @@
   expDate: 03/31/2019
   title: 'SBIR Phase II:  An Intelligent Mental Health Therapy System'
 - abstractText: |-
+    This SBIR Phase I project will culminate in an application which teaches beginners to compose their own music. Music is traditionally taught using physical instruments and sheet music, both of which are complex and present imposing financial and practical barriers to creativity. As a result, even though parents value music education highly and research has shown that studying music is beneficial to cognitive and emotional development, the majority of beginning music students drop out during the first year of instruction, before having a chance to express their creativity through music. By using mobile devices as modular teaching tools, the proposed solution will make composition accessible as a first step in learning music. Increasing creativity in beginning music education will decrease the dropout rate for people already studying music, and also make music education accessible for the millions of families nationwide who value music but cannot afford private lessons. By expanding a market for lessons that is already roughly $3 billion per year in the United States, this project has significant revenue and growth potential, in addition to increasing the accessibility and quality of education in the U.S. and worldwide.
+
+    This project uses an intuitive gestural composition interface to make it possible for beginners to compose music visually and hear it played back in real time. By using simplified representative block notation, the proposed software makes composition accessible even to those with no knowledge of music notation and no experience on an instrument. Using a musical system based on music theory and arranging concepts, the complexity of music composition is reduced at the beginning to make a user's first compositions sound good to them, encouraging them to explore further. More complexity is gradually introduced through a scaffolded, project-based curriculum as users learn musical concepts through creative exploration and engaging games. This curriculum includes a gradual step-by-step transition between simplified block notation and full traditional music notation. The curriculum will be developed in two phases: 1) piloting a modular teaching tool that allows music teachers to increase the creativity and individualization of their assignments by incorporating composition into their teaching, and 2) developing an autonomous teaching tool for the consumer market that combines free creation with educational games to teach musical concepts with or without the aid of a teacher.
+  awardeeAddress: 1232 Detroit St.
+  awardeeCity: Denver
+  awardeeCountryCode: US
+  awardeeName: Edify Technologies, Inc.
+  awardeeStateCode: CO
+  awardeeZipCode: '802063330'
+  fundsObligatedAmt: '165000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1548401'
+  piEmail: zack@edify.co
+  piFirstName: Zachary
+  piLastName: Sulsky
+  piPhone: '7208377001'
+  poName: Glenn H. Larsen
+  date: 11/17/2015
+  startDate: 01/01/2016
+  expDate: 12/31/2016
+  title: 'SBIR Phase I:  Music Education Through Composition on Mobile Devices'
+- abstractText: |-
+    This SBIR Phase I project is dedicated to producing software that makes it easy for people with special needs, especially those on the autism spectrum, to compose their own music. A wide base of evidence shows that music can be a powerful emotional and creative outlet for people with disabilities. Multiple studies show that music can help children on the autism spectrum improve their skills in social interaction, verbal communication,initiating behavior, and social-emotional reciprocity. However, public access to music education has declined dramatically in the United States over the last 40 years. The 6.6 million students in the US with special needs face further barriers to music education because of the significant financial resources and demanding degree of physical dexterity required by instrument lessons. Within this context, private sector innovation is more necessary than ever to increase the accessibility of music education. By offering affordable and intuitive software this project has the potential to make a major impact on the economy by helping to reduce education and health care costs for parents of children with special needs, school special education programs, and adults with disabilities. Just as importantly, democratizing the joy of musical creativity will make a powerful contribution to unlocking the passion, talents, and productivity of people with special needs.
+
+
+    To make it easy for people with special needs to make their own music, this project will employ gestural composition, responsive design, and data science to produce a software interface that adapts to a users' accessibility preferences based on their previous interactions with the program. A second focus of the project is to produce interactive music lessons focused on self-expression and socio-emotional intelligence. Lessons will utilize and expand upon the creative interface to guide users to write songs that express their mood. Robust user testing and intelligent application of machine learning will be required to ensure that the interface smoothly evolves to enable user creativity. Considerable experimentation will also be required to build lessons which strike a balance between supporting users through linear instruction and empowering users to make expressive decisions and take ownership of their emotions. To mitigate the project's technical risk special needs experts and health professionals will be consulted at every stage of user testing and development. In sum, these innovations address the significant and urgent challenge of opening music up as a medium of creativity, communication and self-expression for people with special needs, especially those on the autism spectrum.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 1232 Detroit St.
+  awardeeCity: Denver
+  awardeeCountryCode: US
+  awardeeName: Edify Technologies, Inc.
+  awardeeStateCode: CO
+  awardeeZipCode: '802063330'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1819802'
+  piEmail: jacob@edify.co
+  piFirstName: Jacob
+  piLastName: Zax
+  piMiddeInitial: M
+  piPhone: '3039029093'
+  poName: Rajesh Mehta
+  date: 06/13/2018
+  startDate: 06/15/2018
+  expDate: 11/30/2018
+  title: 'SBIR Phase I: Enabling Musical Creativity for People with Special Needs'
+- abstractText: |-
+    This project will address the need for accessible, creative music education. Over 90% of Americans believe music education is valuable, but very few people ever learn enough to create their own music. Instrument lessons are a great way for some beginners to learn about music; however, instrument lessons are expensive and difficult, and focus on performance and technique at the expense of creativity. This project uses a simple audiovisual composition interface to empower music learners to create their own original music on mobile devices from the very beginning of their music education. By combining this intuitive composition interface with data tracking and analysis, this project creates the opportunity to provide music makers with personalized, adaptive feedback as they compose. Currently, $3 billion are spent each year in the United States on instrument lessons, even though they are unaffordable for many potential customers. By leveraging the proliferation of mobile devices worldwide, this project will deliver an accessible, low-cost digital music education option, creating a new market that includes customers who are currently priced out. Expanding participation in creative music education will increase the quantity and quality of music composed worldwide, while also building a sustainable, revenue-generating business and creating new jobs.
+
+    Through data-driven agile software development, this project will address the need for accessible music education through the creation of a technology platform that delivers adaptive learning to musical beginners. Because the platform upon which this project is built is already empowering the creation of thousands of songs each week and collecting usage data from live users, this project is uniquely positioned to tackle the complex problem of providing algorithmic feedback on creative work at scale. Research and development will proceed in four stages: (1) expanding internal tools to allow for direct analysis of the thousands of songs being created on the platform each week; (2) developing an algorithmic approach to analyzing songs and reporting the results to users; (3) applying analysis to match users with relevant communities and collaborators; and (4) implementing adaptive learning approaches to help users more effectively learn to create music. This staged development process will result in an innovative and highly differentiated technology that enables beginners with no musical experience to compose their own music, and uses data to actively support their individual needs as they learn.
+  awardeeAddress: 1232 Detroit St.
+  awardeeCity: Denver
+  awardeeCountryCode: US
+  awardeeName: Edify Technologies, Inc.
+  awardeeStateCode: CO
+  awardeeZipCode: '802063330'
+  fundsObligatedAmt: '927999'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1660072'
+  piEmail: jacob@edify.co
+  piFirstName: Jacob
+  piLastName: Zax
+  piMiddeInitial: M
+  piPhone: '3039029093'
+  poName: Rajesh Mehta
+  date: 02/21/2017
+  startDate: 03/01/2017
+  expDate: 05/31/2019
+  title: 'SBIR Phase II:  Empowering Music Learning Through Composition on Mobile
+    Devices'
+- abstractText: |-
+    This SBIR Phase 1 project will create an engaging online learning game using venomous marine snails as a conduit to explore scientific issues in nature through creative problem solving. The USA is currently ranked 52nd in the world in science, technology, engineering, and mathematics (STEM) education. This is detrimental intellectually and economically to the future of American society. Recent studies have indicated it is not what we teach, but how we teach that enhances student-learning abilities, particularly as it pertains to STEM. A strong case is being made for using learning games to convey educational content. This project is driven by the research objectives to understand how children learn specific science content and why certain game elements are better suited to convey scientific material. The outcome of this project will be a propriety digital learning game including a unique parent/player assessment tool used to measure novel STEM content during game playing and extending opportunities for learners to engage in ongoing scientific research ("citizen science"). Commercialization of the products created in this project will transform scientific discoveries in predatory marine snail research for social and economic benefit to meet the NSF's mission of supporting education initiatives that improve the lives of U.S. Citizens, and generate income for tax revenue and jobs via the employment of software designers, educators and scientists.
+
+    This project will build proprietary assessment tools into online games that continuously engage users in the scientific process of discovery and application of science learning using a novel player/parent data aggregator dashboard. Our inventive two-sided player/parent dashboard will allow players to measure their progress and attain unique, educational rewards such as unlocking new game components, and identifying local citizen science projects to enhance their STEM learning. The goal of this project is to disrupt the status quo of STEM learning and address STEM learning market needs by combining gameplay, content learning, and assessment tools to develop high-quality, creative, science learning games. A three-component Play-Break-Fix strategy will be used to design and develop all games: 1. Iterative prototyping to generate novel ideas and integrate any existing content. 2. Repetitive evaluation to test the usability of demos and the initial feasibility of the learning games created and parent/player dashboard concept. 3. Commercialization testing of the products from this project that are the best of the build and analyze model. The parent/player assessment dashboard developed in this project will provide a template for furthering parental engagement with children's learning to significantly improve STEM knowledge and will engage players in citizen science experiences that will strengthen their connection to STEM learning.
+  awardeeAddress: 3203 Beverley Road
+  awardeeCity: Brooklyn
+  awardeeCountryCode: US
+  awardeeName: Killer Snails, LLC
+  awardeeStateCode: NY
+  awardeeZipCode: '112265519'
+  fundsObligatedAmt: '150000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1549231'
+  piEmail: jessica.o.hendrix@gmail.com
+  piFirstName: Jessica
+  piLastName: Hendrix
+  piPhone: '9178488036'
+  poName: Glenn H. Larsen
+  date: 12/21/2015
+  startDate: 01/01/2016
+  expDate: 06/30/2016
+  title: 'SBIR Phase I:  Learning from nature - Marine educational games that assess
+    scientific knowledge transfer through game play'
+- abstractText: |-
+    This SBIR Phase II project will develop an easy to use real-time formative assessment tool for educators that will be uniquely aligned to each student and deployed via a virtual reality learning game that uses venomous marine snails as a conduit for exploring scientific issues in nature. The USA is currently ranked 52nd in the world in science, technology, engineering, and mathematics (STEM) education. This is detrimental intellectually and economically to the future of American society. Recent studies indicate it is not what is taught, but how it is taught that enhances student-learning abilities, particularly as it pertains to STEM. As a result, this project is driven by the research objectives to understand how children learn specific science content and why certain game elements are better suited to convey scientific material. The outcome of this project is a proprietary multi-tiered formative assessment tool that can measure real time student learning of novel STEM content obtained through a virtual reality learning game experience. This project will enable teachers to nimbly tailor future instruction with individualized student learning goals.  Commercialization of the products created in this project will transform scientific learning and measurable engagement in educational games for social and economic benefit to meet the NSF?s mission of supporting education initiatives that improve the lives of U.S. Citizens, and generate income for tax revenue and jobs via the employment of software designers, educators and scientists.
+
+    The proprietary technology developed in this SBIR Phase II will be a first-of-its-kind assessment dashboard that will link virtual reality and web-based learning environments with formative assessment to fuel instruction and deepen learning. This project will build proprietary assessment tools into online and virtual reality games which continuously engage users in the process of scientific inquiry and discovery using novel formative assessments customized to each player. The proprietary assessment dashboard allows teachers and players to measure their progress in real-time and identify opportunities to enhance their STEM learning. Using Unity as the platform, player actions and decisions will be met with tailored formative assessments and ongoing feedback throughout game play. This feedback helps teachers delineate where their students are along their learning progressions and fuels further instruction. The novel approach of this assessment dashboard transforms qualitative and quantitative learning and has the potential to significantly enhance student engagement and commitment to scientific inquiry to support emerging science changemakers. The research objective of the player/teacher dashboard is to align feedback on student learning during game play with dynamic quantitative and qualitative formative assessment that create a seamless demonstration of knowledge acquisition while providing teachers with multiple opportunities to engage learners in deeper and more meaningful levels of inquiry before, during, and after gameplay. The products generated from this project are aligned to the Next Generation Science Standards (NGSS) and the International Baccalaureate (IB) program to ensure the content is of the highest caliber and distribution is to a large global customer base. The anticipated results from exposing teachers and students to this project will be increased competencies in STEM, which will transform players into lifelong learners and enhance engagement in STEM fields and careers.
+  awardeeAddress: 3203 Beverley Road
+  awardeeCity: Brooklyn
+  awardeeCountryCode: US
+  awardeeName: Killer Snails, LLC
+  awardeeStateCode: NY
+  awardeeZipCode: '112265519'
+  fundsObligatedAmt: '929999'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1660065'
+  piEmail: jessica.o.hendrix@gmail.com
+  piFirstName: Jessica
+  piLastName: Hendrix
+  piPhone: '9178488036'
+  poName: Rajesh Mehta
+  date: 02/24/2017
+  startDate: 03/01/2017
+  expDate: 08/31/2019
+  title: 'SBIR Phase II:  Learning From Nature: Marine Educational Games With Big
+    IDEAS (Innovative Differentiated Educational Assessments in Science)'
+- abstractText: |-
+    This Small Business Innovation Research (SBIR) Phase I project proposal explores an innovative approach to improving math problem solving skills using a game-based peer-to-peer mobile learning platform. Mathematics education is struggling in the U.S today. By the time our students reach middle school, many of them are already disengaged with and even afraid of mathematics. Research shows that schools often emphasize low-level procedures over higher order problem-solving skills and learners are taught using a top-down, one-strategy-fits-all approach. However, students bring their own strategies and techniques to problem solving and need opportunities to share these processes and get effective feedback. In Phase I, the firm will prototype a mobile version of a social learning platform that supports a student's thinking and learning process for pre-algebra topics in grades 6-8. The core of the platform is the scaffolded creation, curation and evaluation of multimedia vignettes of a student's thought process. The Phase I research will focus on evaluating this approach and concept framework and developing data mining algorithms required to convert inherently qualitative information into measurable and actionable data.
+
+    The broader impact/commercial potential of this project offers tremendous promise for changing math education and engagement both in and out of the classroom. The CueThink platform should help students develop confidence and skills in solving complex problems, refine their math communication and improve their meta-cognition through the review of other students work and equip teachers with real-world examples of multiple learning styles and typical student errors and misconceptions. This enables CueThink to harness a substantial market opportunity for online instructional technology for math both inside and outside the school classroom - $2.4 billion market in 5 years. In addition, the team has identified portable opportunities for their solution in special education and higher education STEM learning, both of which should have a strong positive social impact while offering a huge scale-up potential via new markets. The company team brings to the table a diverse mix of educational, technical and business skills that will be critical to successful commercialization of the proposed math education innovation.
+  awardeeAddress: 8 Furbish Pond Lane
+  awardeeCity: North Reading
+  awardeeCountryCode: US
+  awardeeName: CueThink
+  awardeeStateCode: MA
+  awardeeZipCode: 018642636
+  fundsObligatedAmt: '150000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1248801'
+  piEmail: sheela@cuethink.com
+  piFirstName: Sheela
+  piLastName: Sethuraman
+  piPhone: '7816400526'
+  poName: Glenn H. Larsen
+  date: 11/08/2012
+  startDate: 01/01/2013
+  expDate: 06/30/2013
+  title: 'SBIR Phase I:  Development of a Media-Rich, Game-Based Social Learning Paradigm
+    for Improving Math Process Skills Both Inside and Outside the Classroom'
+- abstractText: |-
+    This SBIR Phase I project proposes to research and develop a web-based prototype that provides teachers with individualized, interactive, and timely supports for improving students? problem-solving skills and math communication.  Despite the expectations placed on math teachers by the Common Core State Standards, most of them are insufficiently prepared to teach students how to become effective problem solvers. Research shows that the largest struggle for teachers is not learning new strategies to teaching but actually implementing them in the classroom.  This project addresses this challenge by offering professional development that is embedded and ongoing and sets the stage for educators to develop essential 21st Century skills including critical thinking, communication, collaboration and creativity. These are essential job skills not only for educators but for the young minds they coach and mentor. Additionally, teachers who themselves approach problem solving with confidence and enthusiasm inspire students to do the same. This has great implications for how many students will continue to seek and enroll in STEM programs.   The annual market for professional development is expected to grow to $1.8 to $2 billion dollars within 5 years just for math and science in K-12 schools, a significant market for this project to target.
+
+
+    The proposed project will result in a prototype that works seamlessly with the existing student-facing peer-to-peer application, developed by the same company and already in the marketplace. In order to achieve this level of embedded instruction, the project intends to build a sophisticated recommendation engine that not only analyzes the teacher's user profile but also their actions in using the student-facing platform and responds with suggested pathways to improve their teaching. This is a unique approach to professional development, enabling educators to determine how to introduce, instruct, and assess problem-solving skills in a sustained manner.  This study is anchored in National Council on Teachers of Mathematics' (NCTM) "Principles to Actions: Ensuring Mathematical Success for All" and is designed to directly address three of their eight recommended essential practices and six of the specific recommended actions. The proposed project consists of a five-month iterative, formative evaluation-based development phase followed by a one-month pilot study where classroom teachers will evaluate the functional prototype.
+  awardeeAddress: 8 Furbish Pond Lane
+  awardeeCity: North Reading
+  awardeeCountryCode: US
+  awardeeName: CueThink
+  awardeeStateCode: MA
+  awardeeZipCode: 018642636
+  fundsObligatedAmt: '177500'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1549094'
+  piEmail: sheela@cuethink.com
+  piFirstName: Sheela
+  piLastName: Sethuraman
+  piPhone: '7816400526'
+  poName: Glenn H. Larsen
+  date: 10/27/2015
+  startDate: 01/01/2016
+  expDate: 12/31/2016
+  title: 'SBIR Phase I: An embedded and in-context professional learning platform
+    for math problem-solving instruction'
+- abstractText: |-
+    This Small Business Innovation Research (SBIR) Phase 2 project proposal refines and scales the project's initial platform for improving mathematics problem solving. Math classrooms today spend most of their time practicing procedures and rarely spend time engaged in deep study of mathematical concepts. In addition, by the time students reach middle school, a number of them have either developed math anxiety or are not adequately challenged. This mobile collaborative platform supports process-driven, student led solutions. Students can create, curate and evaluate multimedia vignettes of their own thinking process. In Phase 2, the team will continue to refine the product, targeting students in Grade 5-12. It will also build a multi-faceted dashboard to help educators customize content, create learning pathways and determine student strengths and weaknesses. In addition, the company intends to extend the product to support English Language Learners and students with learning difficulties.
+
+    The broader impact/commercial potential of this project offers tremendous promise for changing math education and engagement both in and out of the classroom. This platform will help students develop confidence and skills in solving complex problems, refine their math communication and improve their meta-cognition through the review of other students' work and equip teachers with tangible data about growth measures.  This enables the company to address multiple markets starting with the $1.6 billion 5-12 market segment and subsequently addressing several adjacent market segments that are growing rapidly. The team brings a strong and diverse mix of educational, technical and business skills that will be critical to successful commercialization of the proposed math education innovation.
+  awardeeAddress: 8 Furbish Pond Lane
+  awardeeCity: North Reading
+  awardeeCountryCode: US
+  awardeeName: CueThink
+  awardeeStateCode: MA
+  awardeeZipCode: 018642636
+  fundsObligatedAmt: '908645'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1353623'
+  piEmail: sheela@cuethink.com
+  piFirstName: Sheela
+  piLastName: Sethuraman
+  piPhone: '7816400526'
+  poName: Glenn H. Larsen
+  date: 03/20/2014
+  startDate: 04/01/2014
+  expDate: 07/31/2016
+  title: 'SBIR Phase II:  Development of a Media-Rich, Game-Based Social Learning
+    Platform for Improving Math Process Skills'
+- abstractText: |-
+    This project proposes to develop an innovative approach to improve and sustain math educators' problem solving teaching skills. Despite the expectations placed on math teachers by the Common Core State Standards, most are insufficiently prepared to teach students how to become critical thinkers. Much of this problem is due to limited pedagogical skills of teachers in providing adequate problem solving instruction and supports on top of teachers' own limited problem solving skills. This project remedies this with its integrated modules and powerful analytics engine that suggests learning pathways for both expert and novice teachers. They anchor their research in National Council of Teacher's of Mathematics Principles to Action. It will help teachers develop confidence and skills in planning and evaluating their lessons, as well as understanding student misconceptions and intervening in a timely manner. Teachers who approach problem solving with confidence inspire students to approach difficult math tasks the same way. This has great implications for how many students will continue to enroll in Science, Technology, Engineering and Math programs. In addition, the project sets the stage for educators to develop 21st Century skills including critical thinking, communication and collaboration - essential job skills for the young minds they mentor.
+
+    This effort refines and scales up their product, which is a web and mobile application that works seamlessly in conjunction with our current student-facing platform, to provide teachers with timely supports for improving students' problem-solving skills and math communication. This project will deliver professional development continuously and in-context using virtual peers, rich rubrics, interactive tools and actionable data. The analytics engine leverages adaptive learning models in order to build robust modules. The Data Collector Layer will contain interfaces for users to get recommendations, receive user feedback and provide other analysis reports. The Analytics Core Layer will be implemented using a collection of machine learning algorithms. The Service Layer will calculate recommendations based on user profile, user feedback, pre-stored best practices and other use cases. The Persistence Layer will store and get calculated data to recommendation engine's own database. The company plans to conduct several formative evaluations during the course of the project, as well as two pilot studies at the end of each year with a control and experiment group. The results will enable them to determine the effectiveness of ongoing, just-in-time supports for improving teachers' skills and confidence inside and outside the classroom.
+  awardeeAddress: 8 Furbish Pond Lane
+  awardeeCity: North Reading
+  awardeeCountryCode: US
+  awardeeName: CueThink
+  awardeeStateCode: MA
+  awardeeZipCode: 018642636
+  fundsObligatedAmt: '1267318'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1660216'
+  piEmail: sheela@cuethink.com
+  piFirstName: Sheela
+  piLastName: Sethuraman
+  piPhone: '7816400526'
+  poName: Rajesh Mehta
+  date: 03/14/2017
+  startDate: 03/15/2017
+  expDate: 02/28/2021
+  title: 'SBIR Phase II:  An embedded and in-context professional learning platform
+    for math problem-solving instruction'
+- abstractText: |-
+    This Small Business Innovation Research Phase I project makes the theoretical touchable for organic chemistry students by building a game for mobile devices based on mechanisms. Mechanisms are maps of bond-breaking and bond-making events illustrating how an organic reactant is transformed into a product. This underpinning concept is a powerful tool used both in the teaching and the practice of organic chemistry. Organic chemistry is traditionally the gateway class for students progressing into STEM careers, such as medicine and engineering. The course has earned its roadblock reputation with attrition rates in the range of 30-50%. The fail-rate for under-represented minorities and first generation students is even higher than that of the general student population. Students' previous learning in chemistry or other sciences does not adequately prepare them for the cognitive load of structure and pattern recognition required to master organic chemistry. This project will produce the mechanism game and bring a tactile interface to learning chemistry. The game is designed to span the entire curriculum, into graduate levels. The accessibility and relatively economical cost-structure of the mechanism game is particularly attractive to the market of students needing to excel in organic chemistry to achieve their career goals.
+
+    The technical innovation of this project is delivering the content of chemical mechanisms using a touch-screen, game-based format. By layering audio, visual, and kinesthetic cues in the user interface of the game, students will 'feel' bond-breaking and making, acidity, and resonance. The mechanism game is an intrinsically motivating system for students to know when they are moving through a reaction mechanism correctly, helping students gain the intuition necessary for success in organic chemistry. The important piece of this project is the development of this new learning tool as a game, as opposed to an interactive tutorial. The research will focus on the iterative process of creating engaging game-play by field-testing with players as the game is developed. The technical challenge of the project is devising a game that can tolerate the scientific scrutiny of academic chemists while remaining appealing to even the casual game player. The key metric for success will be testing the mechanism game with chemistry professors and instructors to determine whether they would recommend the game to their organic chemistry students.
+  awardeeAddress: 4735 Walnut Lake Road
+  awardeeCity: Bloomfield Hills
+  awardeeCountryCode: US
+  awardeeName: Alchemie Solutions, Inc.
+  awardeeStateCode: MI
+  awardeeZipCode: '483011328'
+  fundsObligatedAmt: '179927'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1548225'
+  piEmail: julia@alchem.ie
+  piFirstName: Julia
+  piLastName: Winter
+  piPhone: '2485318117'
+  poName: Glenn H. Larsen
+  date: 11/17/2015
+  startDate: 01/01/2016
+  expDate: 12/31/2016
+  title: 'SBIR Phase I:  Game-based learning for organic chemistry using mechanisms'
+- abstractText: |-
+    This Small Business Innovation Research Phase II project answers the call that science students go beyond memorizing facts to understand content on a deeper, conceptual level. In chemistry, this goal is particularly difficult to achieve because the underlying concepts describe the behaviors of particles that are not directly observable to students. College instructors are also under added pressure to transform their teaching methods to help ensure student retention and success. In the subject area of organic chemistry, this transformation is even more important, due to the relatively high fail-rate in the course, especially for under-represented minorities and first generation students. The mobile learning tools and data collection platform in this project would help to solve both of these issues with an innovative method for intuitive learning and assessment which helps to make molecules and reactions come alive with game-based mobile applications. The game apps are playable by students of all ages, so the concepts of organic chemistry, as well as other science courses, become familiar and accessible as early as middle school. The broader vision is to open the pipeline for students to progress into STEM careers which have been difficult to reach in the past.
+
+    This project makes the theoretical touchable for organic chemistry students by building mobile game-based learning tools based on mechanisms, a key underlying concept used to teaching the course. This project will produce the Mechanisms suite of game apps, and bring an intuitive, tactile interface to learning chemistry. The research and development of this phase of the project will expand the user interaction model from Phase I to multiple modules of content for students. The data from the mobile learning tools will be synthesized with machine learning techniques to create an adaptive method to ensure the applications provide the appropriate level of challenge to the student learner. Clinical and longitudinal efficacy studies will be part of the research effort as the game modules are developed and released. The data platform will be optimized to integrate with multiple learning management systems and to be readily expandable to subjects beyond organic chemistry. The dashboard of the platform will allow both instructors and students to access the data and inform learning processes to achieve greater comprehension and success in the course. Commercialization will be achieved through direct-to-student downloads, subscriptions of the data platform by institutions, and licensing the technology to courseware providers.
+  awardeeAddress: 4735 Walnut Lake Road
+  awardeeCity: Bloomfield Hills
+  awardeeCountryCode: US
+  awardeeName: Alchemie Solutions, Inc.
+  awardeeStateCode: MI
+  awardeeZipCode: '483011328'
+  fundsObligatedAmt: '717355'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1659983'
+  piEmail: julia@alchem.ie
+  piFirstName: Julia
+  piLastName: Winter
+  piPhone: '2485318117'
+  poName: Rajesh Mehta
+  date: 03/09/2017
+  startDate: 03/01/2017
+  expDate: 02/28/2019
+  title: 'SBIR Phase II:  Game-Based Learning for Organic Chemistry Using Mechanisms'
+- abstractText: |-
+    This SBIR Phase I project will improve the awareness and perception of careers that require science, technology, engineering, and math (STEM) competencies. Career influencers such as parents, educators, and counselors are often not in the position to inform students of potential options and expose unnecessary bias. If kids understood the opportunities, they could pursue academic pathways to amass skills that better prepare them to enter the workforce. STEM competencies are in high-demand and many high-skill jobs sit vacant for long periods of time. This results in lost productivity and exorbitant recruiting fees to pluck qualified candidates from existing jobs. Our nation could be more successful with access to highly skilled resources, especially in the face of the retiring baby boomer population. Career exploration and readiness focused on helping individuals select rewarding and suitable degrees, training, and careers will increase the likelihood that individuals stay in those careers, exhibit greater creativity, and decrease the number of people who invest in education they never use. As more individuals are inspired to pursue STEM, taxpayers will benefit from increased innovation which in turn will provide tax dollars to invest in such things as healthcare, national security, education, or humanitarian assistance.
+
+    The project will combine big data, perceived capacity building, continuous STEM programming, and self-reflection to create a commercialized STEM career and self-discovery application and companion data visualization tool. Together, the career application and visualization tool will boost the intent of students to pursue STEM competencies and careers and improve the retention, productivity, and innovation of STEM workers. The project will address the technical hurdles of amassing and managing massive amounts of structured and unstructured data, designing a notification and tracking mechanism to deliver students ongoing programming, developing a smart recommendation engine to drive the best fit STEM careers for students, performing database mining and predictive modeling and creating data visualizations to derive meaningful workforce development insights. The research team will design survey tools and conduct controlled experiments and usability tests to collect student data and business/education entity feedback. The team will analyze experimental, historical, and survey data to validate and refine the data models, scoring algorithms, and application content and functionality. The ultimate goals of the R&D and experiments are to validate that the resulting application, predictive models, scoring algorithms, and data visualizations have the desired result of boosting student outcomes regarding STEM intentions and pursuits.
+  awardeeAddress: 649 Marion Street
+  awardeeCity: Denver
+  awardeeCountryCode: US
+  awardeeName: Couragion Corporation
+  awardeeStateCode: CO
+  awardeeZipCode: '802183431'
+  fundsObligatedAmt: '179999'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1548757'
+  piEmail: melissa@couragion.com
+  piFirstName: Melissa
+  piLastName: Risteff
+  piPhone: '7204601744'
+  poName: Glenn H. Larsen
+  date: 11/17/2015
+  startDate: 01/01/2016
+  expDate: 12/31/2016
+  title: 'SBIR Phase I:  Couragion STEM Career Literacy'
+- abstractText: |-
+    This project will improve the awareness and perception of careers that require science, technology, engineering, and math (STEM) competencies. Advocacy is a critical component of career readiness, yet current advocates (parents, guardians, educators, or members of the community) are often not in the position to inform students of potential career options. Career and workforce readiness programs are resource constrained, don't meet the needs of differing learning styles, have inherent bias, and are largely focused on compliance over student competency building. Many underrepresented youths who would otherwise succeed in STEM are often deterred by a lack of role models. If youth understood the opportunities, they could pursue academic pathways to amass skills that better prepare them to enter the workforce. Furthermore, educators need professional learning experiences and access to insights about their students in order to improve STEM teaching and learning. Helping individuals select rewarding and suitable degrees, training, and careers will increase the likelihood of higher job retention. As more individuals are inspired to pursue and stay in STEM, taxpayers will benefit from increased innovation which in turn will provide tax dollars to invest in such things as healthcare, national security, education, or humanitarian assistance.
+
+    The project will address technical challenges of amassing and distributing massive amounts of 3rd party STEM (Science, Technology, Engineering, and Math) resource data (both structured and unstructured), developing an information management system for educators and families, developing adaptive learning skill modules, advancing a second generation smart recommendation engine based on big data, machine learning and predictive modeling techniques, and performing database mining and creating data visualizations to derive meaningful workforce development insights. In addition, the project will involve controlled experiments and usability tests whereby a large amount of anonymized and aggregated student data and business/education entity feedback will be collected. The ultimate goals of the R&D and experiments are to validate that the resulting application, predictive models, information management practices, advocacy networks, and data visualizations have the desired outcome of boosting immediate and near-term student outcomes regarding STEM career intentions and actions.
+  awardeeAddress: 649 Marion Street
+  awardeeCity: Denver
+  awardeeCountryCode: US
+  awardeeName: Couragion Corporation
+  awardeeStateCode: CO
+  awardeeZipCode: '802183431'
+  fundsObligatedAmt: '909999'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1660021'
+  piEmail: melissa@couragion.com
+  piFirstName: Melissa
+  piLastName: Risteff
+  piPhone: '7204601744'
+  poName: Rajesh Mehta
+  date: 02/24/2017
+  startDate: 03/01/2017
+  expDate: 08/31/2019
+  title: 'SBIR Phase II:  Science, Technology, Engineering, and Math (STEM) Career
+    Literacy & Advocacy'
+- abstractText: "This SBIR Phase I project will determine how a system can be developed
+    that replaces second-language textbooks with an intelligent, personalized solution
+    that delivers custom content directly from teacher to student. This system would
+    address challenges posed by low student engagement, high material costs, a need
+    for personalized learning, and a lack of content availability on mobile devices.
+    It will be the first platform to apply open educational resources (OER) to second-language
+    acquisition at scale. This affords an opportunity to observe OER adoption and
+    to understand the dynamics of mulch-author collaboration, forking and merging
+    projects, and editorial systems for maintaining quality. The system could transform
+    the field from a closed system driven by top-down publishing processes into an
+    open system that is more responsive to the evolving needs of educators and students.
+    This will reduce material costs, increase content availability (particularly in
+    critical languages), and enable customization of materials to each program model,
+    class and individual student, thus improving learning efficacy. Educators will
+    also be able to collaborate on large-scale course development projects and share
+    back to the education community. Other fields, including math, science and social
+    studies may be able to utilize a similar system, if proven feasible. \n\nThis
+    SBIR Phase I project will result in a cloud-based platform for second-language
+    learning content that aims to disrupt the current publishing model and produce
+    a transformation in how teachers teach and how students learn. It will empower
+    the community of language educators to contribute content to a shared repository
+    that all may reuse, revise or remix in their own lessons, units and courses using
+    the clone-fork-merge methodology widely used in software development. It further
+    enables rapid deployment to mufti-platform learning environments, including mobile
+    devices, and integration with education information systems. As proven by open-source
+    software, the creativity unleashed by massive-scale collaboration can increase
+    content availability at a faster pace than top-down publishing can -- and at a
+    lower cost and with a far greater degree of flexibility and customization. The
+    Phase I research goals are to measure student and teacher engagement, impact and
+    commercial viability. Researchers will indirectly observe 1,000 beta users' anonymous
+    behavior over 4 months and measure non-personal data, as well as solicit survey
+    responses from a sub-group of participating educators. By analyzing aggregate
+    public behaviors that are minimally influenced, researchers aim to simulate the
+    dynamics of a robust open education community."
+  awardeeAddress: 155 Gibbs Street, Suite 536
+  awardeeCity: Rockville
+  awardeeCountryCode: US
+  awardeeName: Speak Agent, Inc.
+  awardeeStateCode: MD
+  awardeeZipCode: '208500393'
+  fundsObligatedAmt: '150000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1448520'
+  piEmail: ben@speakagent.com
+  piFirstName: Benjamin
+  piLastName: Grimley
+  piMiddeInitial: L
+  piPhone: '2407530358'
+  poName: Glenn H. Larsen
+  date: 12/11/2014
+  startDate: 01/01/2015
+  expDate: 12/31/2015
+  title: 'SBIR Phase I:  A Massive Open Online Authoring Platform for Language Learning
+    Content'
+- abstractText: |-
+    This Phase II project aims to help address the achievement gap for English Learners, who consistently average 21% below native English speakers on reading scale scores starting in 4th grade and are twice as likely to drop out of school. Eighty percent of teachers believe that materials for English Learners are sub-standard, which contributes to this gap. The project provides an online crowd-authoring and sharing platform that gives K-6 language teachers the tools to meet their unique instructional needs on demand. It is the first and only platform to enable practicing teachers to rapidly build digital language lessons and interactive games that align to their specific requirements, without any technical know-how. The platform provides built-in rich media resources that adhere to best practices based on the cognitive theory of multimedia learning. Any teacher may access these open educational resources at no cost, provided they make their own creations available for public reuse, revision and remixing. The project seeks to understand the dynamics of collaboration and quality assurance for interactive content at a massive scale. Crowd-authoring can invest educators with the power to transform language learning into a field that is highly responsive to the evolving needs of educators and learners.
+
+    This Phase II project will pioneer mass customization of interactive games and media in the field of second language acquisition. The project aims for teachers to create 175,000 custom digital lessons and interactive games using media resources provided by the project. Phase II will develop four new types of games that improve language acquisition using audiovisual experimentation, realtime chat with artificial intelligences, and a new technology that transforms visuals and narratives composed by students into grammatically accurate text and audio. Phase II will integrate these innovations into a crowd-authoring and quality assurance system capable of scaling to 100,000 new teacher-made learning objects per month. By giving language educators tools to rapidly create, share and customize content to meet their precise needs, the project seeks to significantly improve learning outcomes. Phase II will implement real-time formative assessment reports for teachers to evaluate student experiences and issues with the custom teacher-made interactive content. A controlled full-year, multi-site educational impact study will measure whether the project affects vocabulary acquisition, comprehension, grammar and sentence formation, and whether any skill gains transfer to other contexts. It will also reveal deep data insights about the process by which K-6 students acquire a second language.
+  awardeeAddress: 155 Gibbs Street, Suite 536
+  awardeeCity: Rockville
+  awardeeCountryCode: US
+  awardeeName: Speak Agent, Inc.
+  awardeeStateCode: MD
+  awardeeZipCode: '208500393'
+  fundsObligatedAmt: '1101062'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1632488'
+  piEmail: ben@speakagent.com
+  piFirstName: Benjamin
+  piLastName: Grimley
+  piMiddeInitial: L
+  piPhone: '2407530358'
+  poName: Rajesh Mehta
+  date: 08/09/2016
+  startDate: 08/15/2016
+  expDate: 01/31/2020
+  title: 'SBIR Phase II:  A Massive Open Online Platform for Language Learning Content'
+- abstractText: "This SBIR Phase I project focuses on developing an accessible educational
+    platform that combines mobile interfaces and adaptive educational tablet applications
+    (Apps) to support the needs of children with special needs. Tablet devices are
+    known to provide an interactive experience that has revolutionized learning for
+    children. Unfortunately, while these tablet devices are intuitive to utilize and
+    easy for many children, those with disabilities are largely overlooked due to
+    difficulties in effecting pinch-and-swipe gestures. This project thus addresses
+    a direct need in our society by providing an integrated educational experience,
+    focused on math education that addresses the diverse needs of children, while
+    providing a solution for variations found in their disabilities. The contributions
+    of this project include 1) the design of accessible math Apps usable by K-12 children
+    with and without disabilities and 2) the design of apps that adapt educational
+    content and provide feedback to parents and teachers based on real-time analytics.
+    Given that there are over 93 million children worldwide living with a disability
+    and, in the United States, children with disabilities are entitled to a free appropriate
+    public education, there is a large potential of making both a commercial, as well
+    as a societal, impact in this space.   \n\nThis SBIR Phase I project addresses
+    an unmet need by developing an innovative solution to enable children with motor
+    disabilities access to mobile devices and Apps that could engage them fully into
+    the educational system. This solution capitalizes on the availability of pervasive
+    technologies by combining an accessible tablet interface and educational Apps
+    that adapt to each child's abilities in order to provide an accessible mobile
+    solution. Tablet devices are known to provide an interactive experience that has
+    revolutionized learning for children. Unfortunately, while these tablet devices
+    are intuitive to utilize and easy for many children, those with motor limitations
+    tend to have difficulties due to the fine motor skills required for interaction.
+    As such, to address the growing utilization of tablets in the classroom environment,
+    the specific research objectives of this effort include the design of methods
+    that enable the embedding of educational math content into accessible tablet apps
+    for training and evaluating cognitive skills, the design of methods that enable
+    adaptation of the educational content based on real-time analysis of interaction
+    data and correlated performance of the child, and the hosting of interactive design
+    sessions with teachers, parents, and children to evaluate the usability of the
+    system."
+  awardeeAddress: '3522 Ashford Dunwoody Suite #105'
+  awardeeCity: Atlanta
+  awardeeCountryCode: US
+  awardeeName: Zyrobotics LLC
+  awardeeStateCode: GA
+  awardeeZipCode: '303192002'
+  fundsObligatedAmt: '179967'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1447682'
+  piEmail: jmaccalla@zyrobotics.com
+  piFirstName: Johnetta
+  piLastName: MacCalla
+  piPhone: '6789529976'
+  poName: Glenn H. Larsen
+  date: 12/11/2014
+  startDate: 01/01/2015
+  expDate: 12/31/2015
+  title: 'SBIR Phase I:  An Accessible Platform for Engaging Children with Motor Impairments
+    in the Classroom Environment'
+- abstractText: "This SBIR Phase II project focuses on developing an accessible educational
+    platform that combines mobile interfaces and adaptive educational tablet applications
+    (Apps) to support the needs of children with special needs. Tablet devices are
+    known to provide an interactive experience that has revolutionized learning for
+    children. Unfortunately, while these tablet devices are intuitive to utilize and
+    easy for many children, those with disabilities are largely overlooked due to
+    difficulties in effecting pinch-and-swipe gestures. This project thus addresses
+    a direct need in our society by providing an integrated educational experience,
+    focused on math education that addresses the diverse needs of children, while
+    providing a solution for variations found in their disabilities. The contributions
+    of this project include 1) the design of accessible math Apps usable by K-12 children
+    with and without disabilities and 2) the design of apps that adapt educational
+    content and provide feedback to parents and teachers based on real-time analytics.
+    Given that there are over 93 million children worldwide living with a disability
+    and, in the United States, children with disabilities are entitled to a free appropriate
+    public education, there is a large potential of making both a commercial, as well
+    as a societal, impact in this space.   \n\nThis SBIR Phase II project addresses
+    an unmet need by developing an innovative solution to enable children with motor
+    disabilities access to mobile devices and Apps that could engage them fully into
+    the educational system. This solution capitalizes on the availability of pervasive
+    technologies by combining an accessible tablet interface and educational Apps
+    that adapt to each child?s abilities in order to provide an accessible mobile
+    solution. Tablet devices are known to provide an interactive experience that has
+    revolutionized learning for children. Unfortunately, while these tablet devices
+    are intuitive to utilize and easy for many children, those with motor limitations
+    tend to have difficulties due to the fine motor skills required for interaction.
+    As such, to address the growing utilization of tablets in the classroom environment,
+    the specific research objectives of this effort include the design of methods
+    that enable the embedding of educational math content into accessible tablet apps
+    for training and evaluating cognitive skills, the design of methods that enable
+    adaptation of the educational content based on real-time analysis of interaction
+    data and correlated performance of the child, and the hosting of interactive design
+    sessions with teachers, parents, and children to evaluate the usability of the
+    system."
+  awardeeAddress: '3522 Ashford Dunwoody Suite #105'
+  awardeeCity: Atlanta
+  awardeeCountryCode: US
+  awardeeName: Zyrobotics LLC
+  awardeeStateCode: GA
+  awardeeZipCode: '303192002'
+  fundsObligatedAmt: '1015769'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1555852'
+  piEmail: jmaccalla@zyrobotics.com
+  piFirstName: Johnetta
+  piLastName: MacCalla
+  piPhone: '6789529976'
+  poName: Rajesh Mehta
+  date: 02/12/2016
+  startDate: 02/15/2016
+  expDate: 10/31/2019
+  title: 'SBIR Phase II:  An Accessible Platform for Engaging Children with Motor
+    Impairments in the Classroom Environment'
+- abstractText: |-
+    This SBIR Phase I project would result in the development of an intelligent automated tutoring system for teaching coding to K-12 students. Millions of 6-14 year old students in the U.S. have an interest in learning how to mod ("modify") popular video games, but lack the necessary skillset: coding. Coding is a highly valuable STEM subject, but is not currently a core subject in U.S. schools. Because the U.S. is not producing enough skilled workers in computing fields, there will be 56,000 jobs that go unfilled by U.S. workers every year. This project aims to expose millions of students to coding in the next 5 years by making modding accessible to them. In order to teach millions of students at scale, this project will develop a complex automated tutoring system which intelligently guides students through their coding education, detects and helps students when they run into errors, and provides students with a near-endless supply of puzzles and educational content. This project plans to tackle ongoing problems in the field of computer science education. The automated tutoring system developed through this project will be a foundation for automated tutoring systems that teach other STEM subjects.
+
+    The main technical innovation of this project is a browser-based IDE for writing code and executing it within the runtime environment of video games. This inherently gamified coding environment opens new doors in computer science education. Around this coding environment, an automated tutoring system is being built. This project aims to tackle several problems in computer science education. These problems include: (1) a stealth assessment system that identifies when a student does not understand a coding concept and that guides the student towards understanding, (2) a novice-friendly error detection and reporting system that points students to the part of their code where the error originated, (3) an automated Stack Overflow-like resource for novice programmers that suggests possible solutions when the novice encounters an error, (4) a random puzzle generator that creates a near-endless supply of coding educational content for different skill levels, (5) tutorials and puzzles that gamify the transition from a visual programming language to a syntactically complex programming language, and (6) teacher tools and APIs that allow teachers to integrate the software into their classrooms. By solving these problems in computer science education, this project aims to make an effective coding education tool that scales.
+  awardeeAddress: '8650 Genesee Ave. #928025'
+  awardeeCity: San Diego
+  awardeeCountryCode: US
+  awardeeName: ThoughtSTEM, LLC
+  awardeeStateCode: CA
+  awardeeZipCode: '921928025'
+  fundsObligatedAmt: '150000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1520569'
+  piEmail: stephen@thoughtstem.com
+  piFirstName: Stephen
+  piLastName: Foster
+  piMiddeInitial: R
+  piPhone: '3187922035'
+  poName: Glenn H. Larsen
+  date: 05/21/2015
+  startDate: 07/01/2015
+  expDate: 12/31/2015
+  title: 'SBIR Phase I:  An automated tutoring software that teaches K-12 students
+    coding through integration with popular video games'
+- abstractText: |-
+    This Phase II project proposes to develop a computer science (CS) educational software that has the potential to inspire millions of U.S. K-12 students to learn computer programming.  This software will leverage the motivational power of a popular video game, to teach CS to students by teaching them to reprogram the video game itself.  The United States currently has a severe deficit of students pursuing CS.  The Bureau of Labor Statistics predicts that over 1 million computing job openings will go unfilled by U.S. workers by 2022.  By leveraging the power of a popular video game, the technology proposed in this Phase II project has the potential to expose millions of K-12 students to coding in the next 5 years.  The commercial impact of the underlying technology developed in this Phase II project does not stop at the over 100 million users who currently play the popular video game with which the current educational software integrates.  Because the underlying technology is transferable to any moddable (i.e. reprogrammable) video game, the technology has the potential to be used to teach CS with other popular titles from the rapidly growing video game industry.
+
+    This Phase II project proposes to continue the development of a software product that is a web-based coding environment for novice programmers.  This software goes beyond the state-of-the-art technologies in this space (i.e., scratch.mit.edu) in several ways: 1) It uses automated tutoring techniques to customize the educational experiences for novices, 2) it facilitates writing programs that manipulate objects and terrain in a 3D environment, 3) it allows the novice user to reprogram a popular video game, 4) it has an in-browser, WebGL-based 3D runtime environment, 5) it supports both a novice-friendly visual programming language (Blockly) as well as a text-based language (JavaScript), 6) it leverages gamification techniques such as badges, points, and unlockable items, and 7) it supports multi-user, collaborative coding.  The objectives of this Phase II project concentrate on improving student experiences in order to increase customer retention and acquisition and to finish the development of a marketable product that will teach 5 million K-12 students in the next 5 years.  The first objective of this project involves developing and extending the browser-embedded game engine.  The second objective focuses on improving systems that match students with appropriate educational content and motivate students to continue learning.  Finally, the third objective involves implementing new systems that incentivize students to create and share with the community.
+  awardeeAddress: '8650 Genesee Ave. #928025'
+  awardeeCity: San Diego
+  awardeeCountryCode: US
+  awardeeName: ThoughtSTEM, LLC
+  awardeeStateCode: CA
+  awardeeZipCode: '921928025'
+  fundsObligatedAmt: '1095356'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1632539'
+  piEmail: stephen@thoughtstem.com
+  piFirstName: Stephen
+  piLastName: Foster
+  piMiddeInitial: R
+  piPhone: '3187922035'
+  poName: Rajesh Mehta
+  date: 07/31/2016
+  startDate: 08/01/2016
+  expDate: 09/30/2020
+  title: 'SBIR Phase II:  A Cloud-Based Tutoring Software For Teaching Coding to K-12
+    Students through Integration with Popular Video Games'
+- abstractText: "This SBIR Phase I project will research the feasibility of a cloud-based,
+    collaborative authoring tool to achieve an order-of-magnitude reduction in technical
+    skills required to author technology-enhanced assessments (TEAs). Additionally,
+    it will seek to advance the frontiers of TEA authoring beyond individual assessments
+    to encompass the creation of personalized TEA pathways for diverse learners. The
+    effort will explore novel technologies including a symbolic abstraction to enable
+    visual design and implementation of complex programming constructs, and the representation
+    of TEAs as \"intelligent objects\" interoperable with disparate and proprietary
+    assessment platforms. This effort seeks to break the stranglehold of large organizations
+    on a growing assessments market that marginalizes educators due to barriers of
+    cost and technology skills. It will empower educators by making available easy-to-use
+    tools that enable creation and sharing of open TEAs and TEA pathways to support
+    deeper learning at scale, allowing educators to distribute TEAs in a classroom
+    without being restricted by a proprietary assessment system, triggering the evolution
+    of a peer-to-peer marketplace for teacher-created assessments. This disruption
+    bears the potential to empower educator communities at scale and impact all learners
+    in secondary and tertiary education settings through equitable access to quality
+    assessments. \n\nThis project will feature two distinctive innovations. The first
+    is a visual programming environment with symbolic abstraction of complex programming
+    constructs that are imperative for the design and creation of TEAs. This will
+    enable intuitive authoring of complex TEAs by non-programmers (an impossibility
+    today) and break down the biggest friction point for achieving access to TEAs
+    at scale. The second is an open format for representation of TEAs as intelligent
+    objects that are platform agnostic and \"embeddable\" in any assessment delivery
+    system. This will facilitate distribution and usage of TEAs in browsers and thin
+    client environments without the need for server side functionality mandated by
+    proprietary systems. This will eventually break the stranglehold of proprietary
+    assessment delivery systems that tie TEA access to their platforms. The project
+    will pursue two primary research questions: How efficient and useful is the TEA
+    authoring experience for non-technical educators? Are the TEAs effective in eliciting
+    targeted reasoning and thinking processes? These research questions will help
+    validate the technical feasibility of our innovative use of the proposed tool
+    to enable easy TEA creation and distribution, and the efficacy of the complex
+    TEAs created using the proposed project in providing evidence of target learning."
+  awardeeAddress: 202 Sequoia Avenue
+  awardeeCity: Palo Alto
+  awardeeCountryCode: US
+  awardeeName: Looking Glass Ventures, LLC
+  awardeeStateCode: CA
+  awardeeZipCode: '943061043'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1646935'
+  piEmail: shivramv@gmail.com
+  piFirstName: Shivram
+  piLastName: Venkatasubramaniam
+  piPhone: '6503803627'
+  poName: Ben Schrag
+  date: 12/01/2016
+  startDate: 12/01/2016
+  expDate: 08/31/2017
+  title: 'SBIR Phase I:  EasyAuthor - An End User Authoring Tool for Open and Intelligent
+    Technology-Enhanced Assessments.'
+- abstractText: |-
+    This SBIR Phase II effort will create transformative open tools to enable affordable access at scale to high quality assessments (problems & questions) for foundational subjects in secondary and post-secondary education. The explosion of online student audiences, rapid growth of Open Educational Resources (OER), and the need to support individual learners are creating an unprecedented demand for digital assessments. Assessment authoring tools today are controlled by large organizations, require advanced skills and proprietary assessment delivery platforms with restrictive collaboration features. This inequity is particularly pronounced with respect to technology-enabled assessments (TEAs) which are sophisticated, digital assessments that enable deeper learning. This effort will democratize the process of authoring and sharing TEAs through the creation of intuitive end user tools that will enable educators without advanced technical skills to author and share TEAs. This has the potential to disrupt the status quo by empowering educators to take charge of the assessment creation and distribution landscape with ground-breaking tools that enable easy authoring and distribution of sophisticated TEAs without being restricted by a proprietary assessment system. Eventually, this will empower educators at scale by triggering the evolution of a peer-to-peer marketplace around the need for assessments, and impact hundreds of thousands of learners in secondary and tertiary education settings.
+
+
+    This project will follow through on two principal innovations. The first is an end-user tool that will dramatically reduce the time and expertise required to author technology-enhanced assessments. The tool will facilitate intuitive authoring of TEAs by using symbolic representation of programming constructs. The second innovation is a new standard for representation of technology-enhanced assessments that makes them usable in any delivery platform, thus making the assessments platform-neutral. This effort will also advance the frontiers of authoring beyond individual assessments to the creation of adaptive assessment pathways that will provide personalization for diverse learners. It will explore novel technologies including the representation of TEAs as intelligent and portable objects that are interoperable with disparate assessment platforms through application programming interfaces. The research studies will provide insight into how the proposed innovations can make authoring of TEAs more efficient while lowering the skills barrier for educators, and the degree to which such TEAs are effective in eliciting student reasoning and thinking processes in foundational subjects. This will be achieved through a combination of usability and validation studies in partnership with secondary and post-secondary educators drawn from different institutions.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 202 Sequoia Avenue
+  awardeeCity: Palo Alto
+  awardeeCountryCode: US
+  awardeeName: Looking Glass Ventures, LLC
+  awardeeStateCode: CA
+  awardeeZipCode: '943061043'
+  fundsObligatedAmt: '929999'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1758301'
+  piEmail: shivramv@gmail.com
+  piFirstName: Shivram
+  piLastName: Venkatasubramaniam
+  piPhone: '6503803627'
+  poName: Rajesh Mehta
+  date: 03/05/2018
+  startDate: 03/01/2018
+  expDate: 08/31/2020
+  title: 'SBIR Phase II:  An End User Authoring Tool for Open and Intelligent Technology-Enhanced
+    Assessments.'
+- abstractText: |-
     This Small Business Innovation Research (SBIR) Phase I project will develop and test a construction kit toy and accompanying activities for teaching and learning engineering design synthesis. Routine engineering analysis can be automated, but design synthesis still remains largely the province of creative and knowledgeable human beings.  The problem is that design synthesis is taught poorly, if at all. Construction kit toys offer a way to solve this problem: they invite young people into engineering design synthesis in playful yet intellectually challenging ways.   Beyond teaching specific domain knowledge, construction kits engage young learners in goal-directed experimental exploration, acquiring and practicing skills central to creativity and invention in engineering design. Current mechatronics construction kit toys are either too simple or limited to allow serious designing, or they are powerful but so technically demanding as to exclude many who otherwise might like to play. The specific innovation of our EYVO construction kit for mechatronics through elegant encapsulation of function and simplicity of physical design?will dramatically lower barriers for young people to engage significantly with engineering design synthesis.  This project will develop the EYVO prototype and accompanying educational materials, test it with children, and investigate its commercial potential.
 
 
@@ -3326,6 +3912,55 @@
   expDate: 12/31/2014
   title: 'SBIR Phase I:  Developing a personality and usage-based user model for an
     advanced personalized learning system for pre-collegiate and remedial mathematics'
+- abstractText: "This SBIR Phase II project develops a new web-based publishing paradigm
+    that creates interactive learning content for university-level science, technology,
+    engineering, and math (STEM) fields. The interactive content, featuring animations,
+    interactive question sets, and online tools, along with some text, may replace
+    or enhance traditional textbooks, with studies showing significant improvements
+    in student engagement and learning outcomes. The project addresses the nationwide
+    high dropout rates of STEM students, due in part to outmoded learning materials.
+    Such dropout rates not only prevent students from achieving their career goals,
+    but result in a shortage of college graduates in nationally-critical STEM fields.
+    The project creates novel web-based tools that empower teachers, and even students,
+    to straightforwardly contribute new interactive content, thus tapping the latent
+    talent and energy of many thousands of people. The project creates automated and
+    human-overseen processes that efficiently and effectively percolate the highest-quality
+    contributions to the top of lists, enabling content to be created and maintained
+    at large scale and low cost. The project's new publishing paradigm can disrupt
+    the existing publishing industry. The interactive quality content can increase
+    the number of students who successfully graduate in STEM fields, which can strengthen
+    the nation's economy and competitiveness. \n\nThe project develops a new web-based
+    content authoring and delivery framework that supports a novel curated-crowdsourced
+    publishing paradigm. The framework tightly integrates collaborative web-based
+    authoring with delivery of animated interactive web-based content. The project
+    develops elegant tools for instructors, and even students, to contribute new interactive
+    items. Such tools include a novel browser-based animation creation tool, which
+    allows powerful animations to be easily and quickly created via any web browser
+    without requiring application installation or requiring extensive tool training.
+    The project creates and tests new processes that, via a combination of peer evaluations,
+    usage data, and assessments, automatically percolate quality contributions to
+    the top, for final curation by instructors, authors, or editors. Such percolation
+    crowdsourcing can yield superior learning materials, at scale and cost-effectively,
+    while simultaneously yielding substantially lower prices than traditional textbooks."
+  awardeeAddress: 24652 Hutchinson Road
+  awardeeCity: Los Gatos
+  awardeeCountryCode: US
+  awardeeName: Zyante Inc
+  awardeeStateCode: CA
+  awardeeZipCode: '950339410'
+  fundsObligatedAmt: '1366989'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1430537'
+  piEmail: smita.bakshi@zyante.com
+  piFirstName: Smita
+  piLastName: Bakshi
+  piPhone: '5105414434'
+  poName: Rajesh Mehta
+  date: 08/25/2014
+  startDate: 09/01/2014
+  expDate: 08/31/2018
+  title: 'SBIR Phase II:  Developing a web-based authoring framework for animated
+    interactive university STEM web content via curated crowdsourcing'
 - abstractText: "This SBIR Phase II project develops novel adaptive techniques for
     web-based learning materials, and creates Algebra and Statistics content using
     those techniques. College textbooks and homework are being replaced with web-based
@@ -3378,101 +4013,6 @@
   expDate: 02/28/2019
   title: 'SBIR Phase II:  Developing a Structured Student-guided Personalized Learning
     System for Mathematics'
-- abstractText: "This SBIR Phase II project develops a new web-based publishing paradigm
-    that creates interactive learning content for university-level science, technology,
-    engineering, and math (STEM) fields. The interactive content, featuring animations,
-    interactive question sets, and online tools, along with some text, may replace
-    or enhance traditional textbooks, with studies showing significant improvements
-    in student engagement and learning outcomes. The project addresses the nationwide
-    high dropout rates of STEM students, due in part to outmoded learning materials.
-    Such dropout rates not only prevent students from achieving their career goals,
-    but result in a shortage of college graduates in nationally-critical STEM fields.
-    The project creates novel web-based tools that empower teachers, and even students,
-    to straightforwardly contribute new interactive content, thus tapping the latent
-    talent and energy of many thousands of people. The project creates automated and
-    human-overseen processes that efficiently and effectively percolate the highest-quality
-    contributions to the top of lists, enabling content to be created and maintained
-    at large scale and low cost. The project's new publishing paradigm can disrupt
-    the existing publishing industry. The interactive quality content can increase
-    the number of students who successfully graduate in STEM fields, which can strengthen
-    the nation's economy and competitiveness. \n\nThe project develops a new web-based
-    content authoring and delivery framework that supports a novel curated-crowdsourced
-    publishing paradigm. The framework tightly integrates collaborative web-based
-    authoring with delivery of animated interactive web-based content. The project
-    develops elegant tools for instructors, and even students, to contribute new interactive
-    items. Such tools include a novel browser-based animation creation tool, which
-    allows powerful animations to be easily and quickly created via any web browser
-    without requiring application installation or requiring extensive tool training.
-    The project creates and tests new processes that, via a combination of peer evaluations,
-    usage data, and assessments, automatically percolate quality contributions to
-    the top, for final curation by instructors, authors, or editors. Such percolation
-    crowdsourcing can yield superior learning materials, at scale and cost-effectively,
-    while simultaneously yielding substantially lower prices than traditional textbooks."
-  awardeeAddress: 24652 Hutchinson Road
-  awardeeCity: Los Gatos
-  awardeeCountryCode: US
-  awardeeName: Zyante Inc
-  awardeeStateCode: CA
-  awardeeZipCode: '950339410'
-  fundsObligatedAmt: '1366989'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1430537'
-  piEmail: smita.bakshi@zyante.com
-  piFirstName: Smita
-  piLastName: Bakshi
-  piPhone: '5105414434'
-  poName: Rajesh Mehta
-  date: 08/25/2014
-  startDate: 09/01/2014
-  expDate: 08/31/2018
-  title: 'SBIR Phase II:  Developing a web-based authoring framework for animated
-    interactive university STEM web content via curated crowdsourcing'
-- abstractText: |-
-    This SBIR Phase 1 project will create an engaging online learning game using venomous marine snails as a conduit to explore scientific issues in nature through creative problem solving. The USA is currently ranked 52nd in the world in science, technology, engineering, and mathematics (STEM) education. This is detrimental intellectually and economically to the future of American society. Recent studies have indicated it is not what we teach, but how we teach that enhances student-learning abilities, particularly as it pertains to STEM. A strong case is being made for using learning games to convey educational content. This project is driven by the research objectives to understand how children learn specific science content and why certain game elements are better suited to convey scientific material. The outcome of this project will be a propriety digital learning game including a unique parent/player assessment tool used to measure novel STEM content during game playing and extending opportunities for learners to engage in ongoing scientific research ("citizen science"). Commercialization of the products created in this project will transform scientific discoveries in predatory marine snail research for social and economic benefit to meet the NSF's mission of supporting education initiatives that improve the lives of U.S. Citizens, and generate income for tax revenue and jobs via the employment of software designers, educators and scientists.
-
-    This project will build proprietary assessment tools into online games that continuously engage users in the scientific process of discovery and application of science learning using a novel player/parent data aggregator dashboard. Our inventive two-sided player/parent dashboard will allow players to measure their progress and attain unique, educational rewards such as unlocking new game components, and identifying local citizen science projects to enhance their STEM learning. The goal of this project is to disrupt the status quo of STEM learning and address STEM learning market needs by combining gameplay, content learning, and assessment tools to develop high-quality, creative, science learning games. A three-component Play-Break-Fix strategy will be used to design and develop all games: 1. Iterative prototyping to generate novel ideas and integrate any existing content. 2. Repetitive evaluation to test the usability of demos and the initial feasibility of the learning games created and parent/player dashboard concept. 3. Commercialization testing of the products from this project that are the best of the build and analyze model. The parent/player assessment dashboard developed in this project will provide a template for furthering parental engagement with children's learning to significantly improve STEM knowledge and will engage players in citizen science experiences that will strengthen their connection to STEM learning.
-  awardeeAddress: 3203 Beverley Road
-  awardeeCity: Brooklyn
-  awardeeCountryCode: US
-  awardeeName: Killer Snails, LLC
-  awardeeStateCode: NY
-  awardeeZipCode: '112265519'
-  fundsObligatedAmt: '150000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1549231'
-  piEmail: jessica.o.hendrix@gmail.com
-  piFirstName: Jessica
-  piLastName: Hendrix
-  piPhone: '9178488036'
-  poName: Glenn H. Larsen
-  date: 12/21/2015
-  startDate: 01/01/2016
-  expDate: 06/30/2016
-  title: 'SBIR Phase I:  Learning from nature - Marine educational games that assess
-    scientific knowledge transfer through game play'
-- abstractText: |-
-    This SBIR Phase II project will develop an easy to use real-time formative assessment tool for educators that will be uniquely aligned to each student and deployed via a virtual reality learning game that uses venomous marine snails as a conduit for exploring scientific issues in nature. The USA is currently ranked 52nd in the world in science, technology, engineering, and mathematics (STEM) education. This is detrimental intellectually and economically to the future of American society. Recent studies indicate it is not what is taught, but how it is taught that enhances student-learning abilities, particularly as it pertains to STEM. As a result, this project is driven by the research objectives to understand how children learn specific science content and why certain game elements are better suited to convey scientific material. The outcome of this project is a proprietary multi-tiered formative assessment tool that can measure real time student learning of novel STEM content obtained through a virtual reality learning game experience. This project will enable teachers to nimbly tailor future instruction with individualized student learning goals.  Commercialization of the products created in this project will transform scientific learning and measurable engagement in educational games for social and economic benefit to meet the NSF?s mission of supporting education initiatives that improve the lives of U.S. Citizens, and generate income for tax revenue and jobs via the employment of software designers, educators and scientists.
-
-    The proprietary technology developed in this SBIR Phase II will be a first-of-its-kind assessment dashboard that will link virtual reality and web-based learning environments with formative assessment to fuel instruction and deepen learning. This project will build proprietary assessment tools into online and virtual reality games which continuously engage users in the process of scientific inquiry and discovery using novel formative assessments customized to each player. The proprietary assessment dashboard allows teachers and players to measure their progress in real-time and identify opportunities to enhance their STEM learning. Using Unity as the platform, player actions and decisions will be met with tailored formative assessments and ongoing feedback throughout game play. This feedback helps teachers delineate where their students are along their learning progressions and fuels further instruction. The novel approach of this assessment dashboard transforms qualitative and quantitative learning and has the potential to significantly enhance student engagement and commitment to scientific inquiry to support emerging science changemakers. The research objective of the player/teacher dashboard is to align feedback on student learning during game play with dynamic quantitative and qualitative formative assessment that create a seamless demonstration of knowledge acquisition while providing teachers with multiple opportunities to engage learners in deeper and more meaningful levels of inquiry before, during, and after gameplay. The products generated from this project are aligned to the Next Generation Science Standards (NGSS) and the International Baccalaureate (IB) program to ensure the content is of the highest caliber and distribution is to a large global customer base. The anticipated results from exposing teachers and students to this project will be increased competencies in STEM, which will transform players into lifelong learners and enhance engagement in STEM fields and careers.
-  awardeeAddress: 3203 Beverley Road
-  awardeeCity: Brooklyn
-  awardeeCountryCode: US
-  awardeeName: Killer Snails, LLC
-  awardeeStateCode: NY
-  awardeeZipCode: '112265519'
-  fundsObligatedAmt: '929999'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1660065'
-  piEmail: jessica.o.hendrix@gmail.com
-  piFirstName: Jessica
-  piLastName: Hendrix
-  piPhone: '9178488036'
-  poName: Rajesh Mehta
-  date: 02/24/2017
-  startDate: 03/01/2017
-  expDate: 08/31/2019
-  title: 'SBIR Phase II:  Learning From Nature: Marine Educational Games With Big
-    IDEAS (Innovative Differentiated Educational Assessments in Science)'
 - abstractText: "This SBIR phase I project offers a unique approach to teaching the
     difficult content of operating with fractions through estimation. Extensive cognitive
     science research shows the importance of estimating on children's sense-making,
@@ -3646,6 +4186,57 @@
   expDate: 06/30/2000
   title: 'SBIR Phase I:  Understanding ''Construction/Deconstruction'' and the Role
     of Resistance in Accelerated Learning'
+- abstractText: "This Small Business Innovation Research (SBIR) Phase I project concerns
+    the development of an assessment tool that will enable users to profile a decision-maker's
+    cognitive agility and expertise in high-level business situations.  It is appropriate
+    for evaluating decision makers in organizations and for evaluating students.  It
+    is based on results from WTRI's recent basic research that has uncovered mechanisms
+    that may be involved in the determination of business expertise.  It uses knowledge
+    elicitation technology that WTRI has developed over several years to support research
+    on the identification of intuitive expertise (in the sense of Dreyfus, 1997).
+    \ The project outlines a plan to develop an on-line internet based version that
+    is self-scoring and has been tested among well-known experts. The product will
+    also be field-tested for its ability to predict general vs. industry specific
+    expertise.  The expected outcome is an easy to administer technology that can
+    used by professional evaluators, professors, students or individuals and will
+    assist in staff development and education.  The profiles of expertise generated
+    by the product will identify hidden strengths, areas of weakness, and suggestions
+    for further development.  A long-term goal is to create versions that can be distributed
+    by qualified resellers and universities. \n\nIn the current climate of rapid workplace
+    change, decision-makers need to continually evaluate their ability to adapt to
+    changes and re-invent their organization's value and competitive future.  Few
+    assessment tools address the cognitive underpinnings involved in the skill set
+    involved.  Rather, they evaluate personal traits or sub-skills that have some
+    correlation with leadership, broadly defined.  Using an empirically verified model
+    of expertise in business strategy development and performance prediction, WTRI
+    has built an assessment tool that locates an individual against this model, much
+    like chess players are evaluated against a notion of a Chess Grand Master.  When
+    applied to individual client situations, this tool has shown itself to have powerful
+    predictive capability and has successfully informed staff development efforts.
+    \ Its distinctive feature is assessment of the ability to analyze disparate sources
+    of information in order to make strategy level decisions and supporting tactical
+    plans.  Making it more widely available and usable by non-scientists would greater
+    contribute to efforts to increase the performance of both organizations and decision
+    makers.  Organizations, distributors and several institutions of higher learning
+    have expressed interest in this project to address what they consider to be an
+    unmet need area."
+  awardeeAddress: 3333 Camino Del Rio S
+  awardeeCity: San Diego
+  awardeeCountryCode: US
+  awardeeName: Workplace Technologies Research Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '921083837'
+  fundsObligatedAmt: '100000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '0441737'
+  piEmail: Lia@wtri.com
+  piFirstName: Lia
+  piLastName: DiBello
+  piPhone: '6192328054'
+  date: 11/24/2004
+  startDate: 01/01/2005
+  expDate: 06/30/2005
+  title: 'SBIR Phase I:     Cognitive Agility Assessment Tool'
 - abstractText: "This Small Business Innovation Research (SBIR) Phase I project aims
     to enable users to develop expertise in Project Management in the context of emulated
     businesses, using 3D Virtual World platforms with the goal of developing expertise
@@ -3698,57 +4289,6 @@
   expDate: 06/30/2014
   title: 'SBIR Phase I: Learning PM Skills Through "Experience"; Realistic Rehearsal
     for Project Teams in 3D Virtual Environments.'
-- abstractText: "This Small Business Innovation Research (SBIR) Phase I project concerns
-    the development of an assessment tool that will enable users to profile a decision-maker's
-    cognitive agility and expertise in high-level business situations.  It is appropriate
-    for evaluating decision makers in organizations and for evaluating students.  It
-    is based on results from WTRI's recent basic research that has uncovered mechanisms
-    that may be involved in the determination of business expertise.  It uses knowledge
-    elicitation technology that WTRI has developed over several years to support research
-    on the identification of intuitive expertise (in the sense of Dreyfus, 1997).
-    \ The project outlines a plan to develop an on-line internet based version that
-    is self-scoring and has been tested among well-known experts. The product will
-    also be field-tested for its ability to predict general vs. industry specific
-    expertise.  The expected outcome is an easy to administer technology that can
-    used by professional evaluators, professors, students or individuals and will
-    assist in staff development and education.  The profiles of expertise generated
-    by the product will identify hidden strengths, areas of weakness, and suggestions
-    for further development.  A long-term goal is to create versions that can be distributed
-    by qualified resellers and universities. \n\nIn the current climate of rapid workplace
-    change, decision-makers need to continually evaluate their ability to adapt to
-    changes and re-invent their organization's value and competitive future.  Few
-    assessment tools address the cognitive underpinnings involved in the skill set
-    involved.  Rather, they evaluate personal traits or sub-skills that have some
-    correlation with leadership, broadly defined.  Using an empirically verified model
-    of expertise in business strategy development and performance prediction, WTRI
-    has built an assessment tool that locates an individual against this model, much
-    like chess players are evaluated against a notion of a Chess Grand Master.  When
-    applied to individual client situations, this tool has shown itself to have powerful
-    predictive capability and has successfully informed staff development efforts.
-    \ Its distinctive feature is assessment of the ability to analyze disparate sources
-    of information in order to make strategy level decisions and supporting tactical
-    plans.  Making it more widely available and usable by non-scientists would greater
-    contribute to efforts to increase the performance of both organizations and decision
-    makers.  Organizations, distributors and several institutions of higher learning
-    have expressed interest in this project to address what they consider to be an
-    unmet need area."
-  awardeeAddress: 3333 Camino Del Rio S
-  awardeeCity: San Diego
-  awardeeCountryCode: US
-  awardeeName: Workplace Technologies Research Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '921083837'
-  fundsObligatedAmt: '100000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '0441737'
-  piEmail: Lia@wtri.com
-  piFirstName: Lia
-  piLastName: DiBello
-  piPhone: '6192328054'
-  date: 11/24/2004
-  startDate: 01/01/2005
-  expDate: 06/30/2005
-  title: 'SBIR Phase I:     Cognitive Agility Assessment Tool'
 - abstractText: |-
     This Small Business Innovation Research (SBIR) Phase I project proposes a dynamic modeling technology that helps manufacturers visualize the top and bottom line financial impact of changes made at the strategic, tactical and operational levels of a business.  WTRI has a long history of research and applications that work with the way that people become intuitive experts, the ways that experts use technologies and the cognitive triggers underlying shifts in cognitive frameworks and capabilities.  One of the intellectual merits of the proposed research is that it will further add to knowledge on how technologies extend complex cognitive capabilities in manufacturing settings.  This tool promises to address two well-known problems limiting manufacturing competitiveness: decision making rigidity (e.g., recipe driven solutions) and the inability to think simultaneously on strategic and tactical levels.  Currently, complex and difficult to use versions of these models exist and have proven successful when used by WTRI principals and maintained by the firm's technicians. The research will explore the core features of the technology that have made it successful.  It will result in the development of cost effective versions that can be easily used by customers and which can be modified to their business issues without extensive re-programming.
 
@@ -3943,78 +4483,6 @@
   startDate: 02/15/2007
   expDate: 01/31/2010
   title: 'SBIR Phase II:   Strategic Model for Manufacturing Organizations (DSMMO)'
-- abstractText: |-
-    This SBIR Phase I project will culminate in an application which teaches beginners to compose their own music. Music is traditionally taught using physical instruments and sheet music, both of which are complex and present imposing financial and practical barriers to creativity. As a result, even though parents value music education highly and research has shown that studying music is beneficial to cognitive and emotional development, the majority of beginning music students drop out during the first year of instruction, before having a chance to express their creativity through music. By using mobile devices as modular teaching tools, the proposed solution will make composition accessible as a first step in learning music. Increasing creativity in beginning music education will decrease the dropout rate for people already studying music, and also make music education accessible for the millions of families nationwide who value music but cannot afford private lessons. By expanding a market for lessons that is already roughly $3 billion per year in the United States, this project has significant revenue and growth potential, in addition to increasing the accessibility and quality of education in the U.S. and worldwide.
-
-    This project uses an intuitive gestural composition interface to make it possible for beginners to compose music visually and hear it played back in real time. By using simplified representative block notation, the proposed software makes composition accessible even to those with no knowledge of music notation and no experience on an instrument. Using a musical system based on music theory and arranging concepts, the complexity of music composition is reduced at the beginning to make a user's first compositions sound good to them, encouraging them to explore further. More complexity is gradually introduced through a scaffolded, project-based curriculum as users learn musical concepts through creative exploration and engaging games. This curriculum includes a gradual step-by-step transition between simplified block notation and full traditional music notation. The curriculum will be developed in two phases: 1) piloting a modular teaching tool that allows music teachers to increase the creativity and individualization of their assignments by incorporating composition into their teaching, and 2) developing an autonomous teaching tool for the consumer market that combines free creation with educational games to teach musical concepts with or without the aid of a teacher.
-  awardeeAddress: 1232 Detroit St.
-  awardeeCity: Denver
-  awardeeCountryCode: US
-  awardeeName: Edify Technologies, Inc.
-  awardeeStateCode: CO
-  awardeeZipCode: '802063330'
-  fundsObligatedAmt: '165000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1548401'
-  piEmail: zack@edify.co
-  piFirstName: Zachary
-  piLastName: Sulsky
-  piPhone: '7208377001'
-  poName: Glenn H. Larsen
-  date: 11/17/2015
-  startDate: 01/01/2016
-  expDate: 12/31/2016
-  title: 'SBIR Phase I:  Music Education Through Composition on Mobile Devices'
-- abstractText: |-
-    This SBIR Phase I project is dedicated to producing software that makes it easy for people with special needs, especially those on the autism spectrum, to compose their own music. A wide base of evidence shows that music can be a powerful emotional and creative outlet for people with disabilities. Multiple studies show that music can help children on the autism spectrum improve their skills in social interaction, verbal communication,initiating behavior, and social-emotional reciprocity. However, public access to music education has declined dramatically in the United States over the last 40 years. The 6.6 million students in the US with special needs face further barriers to music education because of the significant financial resources and demanding degree of physical dexterity required by instrument lessons. Within this context, private sector innovation is more necessary than ever to increase the accessibility of music education. By offering affordable and intuitive software this project has the potential to make a major impact on the economy by helping to reduce education and health care costs for parents of children with special needs, school special education programs, and adults with disabilities. Just as importantly, democratizing the joy of musical creativity will make a powerful contribution to unlocking the passion, talents, and productivity of people with special needs.
-
-
-    To make it easy for people with special needs to make their own music, this project will employ gestural composition, responsive design, and data science to produce a software interface that adapts to a users' accessibility preferences based on their previous interactions with the program. A second focus of the project is to produce interactive music lessons focused on self-expression and socio-emotional intelligence. Lessons will utilize and expand upon the creative interface to guide users to write songs that express their mood. Robust user testing and intelligent application of machine learning will be required to ensure that the interface smoothly evolves to enable user creativity. Considerable experimentation will also be required to build lessons which strike a balance between supporting users through linear instruction and empowering users to make expressive decisions and take ownership of their emotions. To mitigate the project's technical risk special needs experts and health professionals will be consulted at every stage of user testing and development. In sum, these innovations address the significant and urgent challenge of opening music up as a medium of creativity, communication and self-expression for people with special needs, especially those on the autism spectrum.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 1232 Detroit St.
-  awardeeCity: Denver
-  awardeeCountryCode: US
-  awardeeName: Edify Technologies, Inc.
-  awardeeStateCode: CO
-  awardeeZipCode: '802063330'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819802'
-  piEmail: jacob@edify.co
-  piFirstName: Jacob
-  piLastName: Zax
-  piMiddeInitial: M
-  piPhone: '3039029093'
-  poName: Rajesh Mehta
-  date: 06/13/2018
-  startDate: 06/15/2018
-  expDate: 11/30/2018
-  title: 'SBIR Phase I: Enabling Musical Creativity for People with Special Needs'
-- abstractText: |-
-    This project will address the need for accessible, creative music education. Over 90% of Americans believe music education is valuable, but very few people ever learn enough to create their own music. Instrument lessons are a great way for some beginners to learn about music; however, instrument lessons are expensive and difficult, and focus on performance and technique at the expense of creativity. This project uses a simple audiovisual composition interface to empower music learners to create their own original music on mobile devices from the very beginning of their music education. By combining this intuitive composition interface with data tracking and analysis, this project creates the opportunity to provide music makers with personalized, adaptive feedback as they compose. Currently, $3 billion are spent each year in the United States on instrument lessons, even though they are unaffordable for many potential customers. By leveraging the proliferation of mobile devices worldwide, this project will deliver an accessible, low-cost digital music education option, creating a new market that includes customers who are currently priced out. Expanding participation in creative music education will increase the quantity and quality of music composed worldwide, while also building a sustainable, revenue-generating business and creating new jobs.
-
-    Through data-driven agile software development, this project will address the need for accessible music education through the creation of a technology platform that delivers adaptive learning to musical beginners. Because the platform upon which this project is built is already empowering the creation of thousands of songs each week and collecting usage data from live users, this project is uniquely positioned to tackle the complex problem of providing algorithmic feedback on creative work at scale. Research and development will proceed in four stages: (1) expanding internal tools to allow for direct analysis of the thousands of songs being created on the platform each week; (2) developing an algorithmic approach to analyzing songs and reporting the results to users; (3) applying analysis to match users with relevant communities and collaborators; and (4) implementing adaptive learning approaches to help users more effectively learn to create music. This staged development process will result in an innovative and highly differentiated technology that enables beginners with no musical experience to compose their own music, and uses data to actively support their individual needs as they learn.
-  awardeeAddress: 1232 Detroit St.
-  awardeeCity: Denver
-  awardeeCountryCode: US
-  awardeeName: Edify Technologies, Inc.
-  awardeeStateCode: CO
-  awardeeZipCode: '802063330'
-  fundsObligatedAmt: '927999'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1660072'
-  piEmail: jacob@edify.co
-  piFirstName: Jacob
-  piLastName: Zax
-  piMiddeInitial: M
-  piPhone: '3039029093'
-  poName: Rajesh Mehta
-  date: 02/21/2017
-  startDate: 03/01/2017
-  expDate: 05/31/2019
-  title: 'SBIR Phase II:  Empowering Music Learning Through Composition on Mobile
-    Devices'
 - abstractText: |-
     This Small Business Innovation Research (SBIR) Phase I innovation addresses deficiencies in science content knowledge exhibited by many elementary school teachers. Project Near-Earth Object is a game-based professional development product that teachers can also use as a self-assessment tool to evaluate their content knowledge in science. It uses interactive science experiments in the form of fast-paced mini-games to increase pre-service and in-service elementary teachers' ability to teach science topics. Research indicates that teacher competence in the content area greatly affects elementary students? interest in and success in science. The innovation relies not only on gaming, but also on a narrative in which players are "recruited" by a league of scientists to help Earth prepare for a pending asteroid collision; they must stop a villain determined to destroy the Earth's anti-asteroid defense. In the interactive science experiments, teachers: use simulations to gather information related to the problem; test hypotheses to solve to science problems; and collaborate using social networking.  The innovation uses computer-adapted differentiated instruction, meaning that each mini-game has six levels of difficulty and the computer adapts difficulty levels according to the learner's performance. Other features include scaffolding of instruction, instant feedback, video tutorials, mobile access, and a backend administrative dashboard for viewing performance data.
 
@@ -4720,75 +5188,6 @@
   expDate: 08/31/2020
   title: 'SBIR Phase II:  Envimetric - Soil and water contamination predictive modeling
     tools'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project will be to enable affordable access to quantum annealing quantum computers and to take the complexity out of the programming and application hosting tasks, which currently poses a major barrier of entry for potential users. The company expects quantum computing technology in the next few years to disrupt significant portions of the high-performance-computing environment for optimization problems, which has previously been characterized by slow and incremental performance improvements. This project would yield a platform that both increases the efficiency and lowers the cost of analyzing complex optimization problems, which could spur fast-paced innovation in wide areas of the economy that tackle such issues. These sectors include energy distribution, pharmaceutical design, cancer research, data analytics, cybersecurity, autonomous systems, planning and scheduling activities, financial services such as risk management and portfolio optimization, and basic and applied research in physics and chemistry.  In each of these disciplines, there are optimization-based computational problems that are currently intractable. The results of this research should enable a much larger community of experts to use the power of quantum computing to solve these important but currently intractable problems.
-
-    This Small Business Technology Transfer (STTR) Phase I project addresses the need for a cloud-based platform for using quantum annealing computing technology. Quantum annealing computers have come to market in the last few years, and research laboratories and universities have used these machines to explore algorithms that could eventually be solved efficiently on them. Despite advances in performance of quantum annealing computers, little effort has been directed toward developing programming environments and tools that provide simple and inexpensive access to quantum computing capabilities. This project researches a platform-as-a-service (PaaS) with a suite of front-end and back-end tools that efficiently transform high-level computing problems into binary optimization formulations suitable for quantum annealing, simplifying and automating the low-level details and domain knowledge currently necessary to perform useful calculations. This project will further develop the PaaS to include a classical-quantum computing environment and framework for analysis of large data sets using standard distributed computing tools. The research explores the best software tools and platform methods to integrate emerging quantum computing capabilities into workflows by streamlining and making affordable the processing of data and by decomposing real-world problems into sub-problems amenable to quantum computers of today and in the future.
-  awardeeAddress: 125 University Ave, Ste 260
-  awardeeCity: Palo Alto
-  awardeeCountryCode: US
-  awardeeName: QC Ware Corp.
-  awardeeStateCode: CA
-  awardeeZipCode: '943011664'
-  fundsObligatedAmt: '224258'
-  fundProgramName: STTR PHASE I
-  id: '1648832'
-  piEmail: asier.ozaeta@qcware.com
-  piFirstName: Asier
-  piLastName: Ozaeta
-  piPhone: '6126073651'
-  poName: Peter Atherton
-  date: 12/16/2016
-  startDate: 01/01/2017
-  expDate: 12/31/2017
-  title: 'STTR Phase I:  A Cloud-Based Development Framework and Tool Suite for an
-    Adiabatic Quantum Computer'
-- abstractText: "The broader impact/commercial potential of this Small Business Innovation
-    Research (SBIR) Phase II project will to enable inexpensive access to quantum
-    computing (QC) and to take the complexity out of the programming and application
-    hosting tasks, which currently pose a major barrier to entry for potential users.
-    QC technology is expected to disrupt significant portions of the high-performance
-    computing environment for optimization problems, which has previously been characterized
-    by slow and incremental performance improvements. This project would yield a platform
-    that both increases the efficiency and lowers the cost of analyzing complex optimization
-    problems, which could spur fast-paced innovation in wide areas of the economy
-    that tackle such issues. \n\nThis Small Business Innovation Research (SBIR) Phase
-    II project addresses the need for a cloud-based platform for using QC technology.
-    Early-generation quantum computers have been introduced by multiple hardware vendors.
-    Despite advances in performance of QC processors, little effort has been directed
-    toward developing programming environments and applications that can provide simple
-    and inexpensive access to QC capabilities and that can exploit the power that
-    QC systems will have in the near future. This project will develop a suite of
-    front-end and back-end tools that efficiently transform high-level computing problems
-    into formulations for circuit-model QC systems, abstracting away the physical
-    low-level details and domain knowledge currently necessary to build QC applications.
-    The project will further develop a set of applications in optimization, search,
-    and machine learning. The proposed research will explore the best software tools
-    and platform methods for integrating emerging QC capabilities into enterprise
-    and research workflows by streamlining and making affordable the decomposition
-    and formulation of real-world problems into implementations that run on quantum
-    processors.\n\nThis award reflects NSF's statutory mission and has been deemed
-    worthy of support through evaluation using the Foundation's intellectual merit
-    and broader impacts review criteria."
-  awardeeAddress: 125 University Ave, Ste 260
-  awardeeCity: Palo Alto
-  awardeeCountryCode: US
-  awardeeName: QC Ware Corp.
-  awardeeStateCode: CA
-  awardeeZipCode: '943011664'
-  fundsObligatedAmt: '1421129'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1758536'
-  piEmail: randall.correll@qcware.com
-  piFirstName: Randall
-  piLastName: Correll
-  piPhone: '7038672395'
-  poName: Peter Atherton
-  date: 04/04/2018
-  startDate: 04/01/2018
-  expDate: 09/30/2020
-  title: 'SBIR Phase II:  A Cloud-Based Development Framework and Tool Suite for Quantum
-    Computing'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be to allow consumers to buy vehicles enhanced by Advanced Driver Assistance Systems (ADAS) that are more robust and more accurate. Advanced Driver Assistance Systems in general, and fully autonomous vehicles in particular, promise a number of advantages, such as: (1) reducing the number of traffic fatalities in the US and abroad, (2) enabling humans to spend less time driving and more time on other activities, and (3) reducing fossil-fuel emissions. Practical implementations of Advanced Driver Assistance Systems require a few key elements: sensors, perception systems, motion planning systems, and control/actuation systems. Based on extensive discussions with key individuals at automakers and automotive suppliers, developing robust and accurate perception systems is the biggest obstacle toward developing mass-producible autonomous road vehicles.
 
@@ -6293,6 +6692,75 @@
   expDate: 01/31/2019
   title: 'SBIR Phase II:  Novel Solid-State Cerenkov Detector for Portable and Wearable
     Neutron Radiation Sensors'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project will be to enable affordable access to quantum annealing quantum computers and to take the complexity out of the programming and application hosting tasks, which currently poses a major barrier of entry for potential users. The company expects quantum computing technology in the next few years to disrupt significant portions of the high-performance-computing environment for optimization problems, which has previously been characterized by slow and incremental performance improvements. This project would yield a platform that both increases the efficiency and lowers the cost of analyzing complex optimization problems, which could spur fast-paced innovation in wide areas of the economy that tackle such issues. These sectors include energy distribution, pharmaceutical design, cancer research, data analytics, cybersecurity, autonomous systems, planning and scheduling activities, financial services such as risk management and portfolio optimization, and basic and applied research in physics and chemistry.  In each of these disciplines, there are optimization-based computational problems that are currently intractable. The results of this research should enable a much larger community of experts to use the power of quantum computing to solve these important but currently intractable problems.
+
+    This Small Business Technology Transfer (STTR) Phase I project addresses the need for a cloud-based platform for using quantum annealing computing technology. Quantum annealing computers have come to market in the last few years, and research laboratories and universities have used these machines to explore algorithms that could eventually be solved efficiently on them. Despite advances in performance of quantum annealing computers, little effort has been directed toward developing programming environments and tools that provide simple and inexpensive access to quantum computing capabilities. This project researches a platform-as-a-service (PaaS) with a suite of front-end and back-end tools that efficiently transform high-level computing problems into binary optimization formulations suitable for quantum annealing, simplifying and automating the low-level details and domain knowledge currently necessary to perform useful calculations. This project will further develop the PaaS to include a classical-quantum computing environment and framework for analysis of large data sets using standard distributed computing tools. The research explores the best software tools and platform methods to integrate emerging quantum computing capabilities into workflows by streamlining and making affordable the processing of data and by decomposing real-world problems into sub-problems amenable to quantum computers of today and in the future.
+  awardeeAddress: 125 University Ave, Ste 260
+  awardeeCity: Palo Alto
+  awardeeCountryCode: US
+  awardeeName: QC Ware Corp.
+  awardeeStateCode: CA
+  awardeeZipCode: '943011664'
+  fundsObligatedAmt: '224258'
+  fundProgramName: STTR PHASE I
+  id: '1648832'
+  piEmail: asier.ozaeta@qcware.com
+  piFirstName: Asier
+  piLastName: Ozaeta
+  piPhone: '6126073651'
+  poName: Peter Atherton
+  date: 12/16/2016
+  startDate: 01/01/2017
+  expDate: 12/31/2017
+  title: 'STTR Phase I:  A Cloud-Based Development Framework and Tool Suite for an
+    Adiabatic Quantum Computer'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase II project will to enable inexpensive access to quantum
+    computing (QC) and to take the complexity out of the programming and application
+    hosting tasks, which currently pose a major barrier to entry for potential users.
+    QC technology is expected to disrupt significant portions of the high-performance
+    computing environment for optimization problems, which has previously been characterized
+    by slow and incremental performance improvements. This project would yield a platform
+    that both increases the efficiency and lowers the cost of analyzing complex optimization
+    problems, which could spur fast-paced innovation in wide areas of the economy
+    that tackle such issues. \n\nThis Small Business Innovation Research (SBIR) Phase
+    II project addresses the need for a cloud-based platform for using QC technology.
+    Early-generation quantum computers have been introduced by multiple hardware vendors.
+    Despite advances in performance of QC processors, little effort has been directed
+    toward developing programming environments and applications that can provide simple
+    and inexpensive access to QC capabilities and that can exploit the power that
+    QC systems will have in the near future. This project will develop a suite of
+    front-end and back-end tools that efficiently transform high-level computing problems
+    into formulations for circuit-model QC systems, abstracting away the physical
+    low-level details and domain knowledge currently necessary to build QC applications.
+    The project will further develop a set of applications in optimization, search,
+    and machine learning. The proposed research will explore the best software tools
+    and platform methods for integrating emerging QC capabilities into enterprise
+    and research workflows by streamlining and making affordable the decomposition
+    and formulation of real-world problems into implementations that run on quantum
+    processors.\n\nThis award reflects NSF's statutory mission and has been deemed
+    worthy of support through evaluation using the Foundation's intellectual merit
+    and broader impacts review criteria."
+  awardeeAddress: 125 University Ave, Ste 260
+  awardeeCity: Palo Alto
+  awardeeCountryCode: US
+  awardeeName: QC Ware Corp.
+  awardeeStateCode: CA
+  awardeeZipCode: '943011664'
+  fundsObligatedAmt: '1421129'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1758536'
+  piEmail: randall.correll@qcware.com
+  piFirstName: Randall
+  piLastName: Correll
+  piPhone: '7038672395'
+  poName: Peter Atherton
+  date: 04/04/2018
+  startDate: 04/01/2018
+  expDate: 09/30/2020
+  title: 'SBIR Phase II:  A Cloud-Based Development Framework and Tool Suite for Quantum
+    Computing'
 - abstractText: |-
     The broader impact/commercial potential of this project is to create a suite of consumer hardware and software products that provide realistic tactile feedback to users who are touching objects in virtual reality (VR) and augmented reality (AR). As evidenced by the current proliferation of low-cost head-mounted displays and motion tracking systems, three-dimensional interaction technologies are revolutionizing how people interact with computers, media, and each other. Since they are currently limited to vision and audio, endowing consumer-level human-computer interfaces with high-fidelity tactile feedback will vastly increase user immersion, making games more fun, online interactions more effective, and tools more efficient. Consequently, this project has the potential to expand the commercial reach of the burgeoning VR/AR market, opening up myriad opportunities for companies particularly in the gaming, entertainment, and e-commerce sectors. The innovation of this project also promises to enhance scientific and technological understanding of haptic human-computer interaction by establishing a new paradigm that blends minimal wearable hardware with sophisticated software algorithms. Finally, commercializing novel interactive technology also has the potential to help inspire a diverse array of young people to pursue a career in the critical areas of science, technology, engineering, and math.
 
@@ -7893,28 +8361,6 @@
   title: 'SBIR Phase I:  Novel Proteolysis-based Tools for Metabolic Engineering of
     Amino Acid Producing Strains'
 - abstractText: |-
-    This Small Business Innovation Research (SBIR) Phase I project aims to produce microbes capable of cost-effective production of amino acids used as animal feed supplements.  Technical research herein will test the feasibility of applying cutting edge synthetic biology and metabolic engineering techniques to develop engineered strains capable of sustainable and cost-effective production of purified animal feed supplements.
-
-    The broader impact/commercial potential of this project is to provide a reliable, sustainable and safe source of animal feed supplements using biotechnology. Many plant-based animals feeds, such as those based on maize, are deficient in key nutrients needed for growth. To improve feed efficiency and animal growth rates, these deficiencies have been historically overcome with supplementation with animal waste or protein-rich plant products including soy. Recent BSE (Mad Cow Disease) outbreaks combined with dioxine toxicity (from supplementation with fish products) however, have discouraged the use of animal products. Further, supplementation with soy supplies excess, unnecessary amino acids that the animals excrete as nitrogen-rich waste, a significant environmental pollutant. Feed supplementation using purified amino acids produced via biotechnology offers a superior approach from a safety and environmental sustainability perspective.
-  awardeeAddress: 27 Drydock Ave Floor 8
-  awardeeCity: Boston
-  awardeeCountryCode: US
-  awardeeName: Ginkgo BioWorks
-  awardeeStateCode: MA
-  awardeeZipCode: '022102413'
-  fundsObligatedAmt: '180000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1248790'
-  piEmail: austin@ginkgobioworks.com
-  piFirstName: Austin
-  piLastName: Che
-  piPhone: '8144225362'
-  poName: Ruth M. Shuman
-  date: 12/10/2012
-  startDate: 01/01/2013
-  expDate: 12/31/2013
-  title: 'SBIR Phase I:  Bioproduction of Feedstock Amino Acids'
-- abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to produce low-cost and customizable aromas that are inspired by plant extracts.  The fragrance industry uses fragrant extracts from flowers and other plant materials as basic building blocks for haute-couture finished fragrances. These extracts are expensive due to the limited availability of suitable plant materials, and due to the fact that the extracts are too complicated to replicate by mixing pure chemicals. This project will generate novel fragrance blends via fermentation ("cultured aromas"). These cultured aromas will be customized for the exacting requirements of professional perfumers, offering a degree of creativity that does not exist with plant extracts. This technology will present a disruptive entry into the multi-billion dollar market for finished fragrances. Beyond fragrances, this technology will allow the development of new customizable extracts with the beneficial properties of plant extracts, including flavors, dyes, and antioxidant activity.
 
     This SBIR Phase I project proposes to apply advanced synthetic biology tools to produce sustainable alternatives to complex plant extracts. Conventional metabolic engineering projects focus on the optimized production of a single target compound; this project instead will engineer microbial strains that produce a range of components found in high-value plant extracts used in the fragrance industry. The goal is to rapidly screen and characterize novel plant enzymes for use in conjunction with existing strains that produce key fragrance molecules. These novel enzymes are expected to produce multiple fragrance molecules and the profile of the resulting blends will be compared to those derived from plants via high throughput metabolomics. The cultured aroma blends can then be customized to a perfumers' specification by tuning the biosynthetic pathways.
@@ -7936,6 +8382,28 @@
   startDate: 01/01/2015
   expDate: 12/31/2015
   title: 'SBIR Phase I:  Creating Plant Inspired Fragrences Via Fermentation'
+- abstractText: |-
+    This Small Business Innovation Research (SBIR) Phase I project aims to produce microbes capable of cost-effective production of amino acids used as animal feed supplements.  Technical research herein will test the feasibility of applying cutting edge synthetic biology and metabolic engineering techniques to develop engineered strains capable of sustainable and cost-effective production of purified animal feed supplements.
+
+    The broader impact/commercial potential of this project is to provide a reliable, sustainable and safe source of animal feed supplements using biotechnology. Many plant-based animals feeds, such as those based on maize, are deficient in key nutrients needed for growth. To improve feed efficiency and animal growth rates, these deficiencies have been historically overcome with supplementation with animal waste or protein-rich plant products including soy. Recent BSE (Mad Cow Disease) outbreaks combined with dioxine toxicity (from supplementation with fish products) however, have discouraged the use of animal products. Further, supplementation with soy supplies excess, unnecessary amino acids that the animals excrete as nitrogen-rich waste, a significant environmental pollutant. Feed supplementation using purified amino acids produced via biotechnology offers a superior approach from a safety and environmental sustainability perspective.
+  awardeeAddress: 27 Drydock Ave Floor 8
+  awardeeCity: Boston
+  awardeeCountryCode: US
+  awardeeName: Ginkgo BioWorks
+  awardeeStateCode: MA
+  awardeeZipCode: '022102413'
+  fundsObligatedAmt: '180000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1248790'
+  piEmail: austin@ginkgobioworks.com
+  piFirstName: Austin
+  piLastName: Che
+  piPhone: '8144225362'
+  poName: Ruth M. Shuman
+  date: 12/10/2012
+  startDate: 01/01/2013
+  expDate: 12/31/2013
+  title: 'SBIR Phase I:  Bioproduction of Feedstock Amino Acids'
 - abstractText: |-
     This Small Business Innovation Research Phase I project proposes to develop a set of novel, versatile measurement tools for use during fermentation and scale-up in metabolic engineering. The tools will be based on the production of odorants and enable real-time time monitoring of gene expression levels during fermentation. Metabolic engineering holds great promise for enabling a range of important applications including cellulosic biofuels, therapeutics production, and bio-based, environmentally-friendly chemical manufacturing. But any such project requires that an engineered organism expressing the relevant biosynthetic pathway be scaled up from lab-sized cultures to large-scale commercial fermentation. This is not a straightforward task, and is different for every project, because the fermentation conditions required for each engineered strain are different. The new measurement tools will enable more detailed quantification of cell state during fermentation so that strain and pathway optimization is more informed.
 
@@ -8177,28 +8645,5 @@
   expDate: 03/31/2015
   title: 'SBIR Phase II:  A Robust Caller-ID Alternative for Securing Telephony Based
     Transactions'
-- abstractText: |-
-    This Small Business Innovation Research (SBIR) Phase II project will develop and produce a robust, hand-held, video-rate three-dimensional surface metrology system with vertical and lateral resolution of several micrometers, in order to bridge a critical existing metrology gap for precision-machined surfaces.  Many modern manufactured parts, such as turbine blades, drive shafts, orthopedics, and various additive manufactured components require in-situ metrology with high resolution for accurate characterization during manufacturing and/or maintenance operations.  Current high-resolution surface measurement systems are slow, vibration-sensitive and laboratory-based and thus are impractical for everyday use by manufacturing technicians.  Meanwhile, shop-floor inspection is often only visual, and thus qualitative rather than quantitative, leading both to rejections of acceptable components as well as potential acceptance of failing ones.  The absence of high-precision, in-situ metrology has hindered manufacturers from applying real-time data analysis and closed-loop process controls that can improve yields and reduce manufacturing costs.  This research program will yield a hand-held, easy-to-use, robust, and quantitative shop-floor measurement system, allowing manufacturers to improve lifetimes, performance, and yield as they rapidly assess the features under test and feed the results back to improve process control.
-
-    During Phase I, a breadboard system was designed and implemented using a polarization-based fringe projection method and micropolarizer phase-mask technology to achieve vibration insensitive measurement in a compact package.  This Phase II program leverages that research to design a video-rate, compact, robust and portable system for handheld surface measurements in shop-floor environments. This will first involve improvements to measurement resolution with an improved optical design and new self-calibrating measurement modes; new optical elements will lower noise artifacts caused by imperfections in the earlier design and to reduce system size.  Once performance of the new design is verified, an ergonomic, compact, robust, wireless housing for the instrument must be created to enable shop-floor use; the system must handle drops of over one meter onto concrete, have useful battery life for extended field operations, be light enough to not fatigue users and have intuitive controls and feedback.  A final, critically important development effort will create automated software routines for measurement, analysis, and system diagnostics to enable adoption by unskilled personnel in manufacturing environments.  Lastly, extensive applications testing in the field will allow optimization of the system to handle a wide range of potential use cases and environments.
-  awardeeAddress: 3280 E Hemisphere Loop, Ste 146
-  awardeeCity: Tucson
-  awardeeCountryCode: US
-  awardeeName: 4 D Technology Corporation
-  awardeeStateCode: AZ
-  awardeeZipCode: '857065024'
-  fundsObligatedAmt: '1348048'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1556049'
-  piEmail: erik.novak@4dtechnology.com
-  piFirstName: Erik
-  piLastName: Novak
-  piPhone: '5202945600'
-  poName: Ben Schrag
-  date: 02/17/2016
-  startDate: 03/01/2016
-  expDate: 08/31/2020
-  title: 'SBIR Phase II:  High-Resolution Shop Floor Video-Rate Surface Metrology
-    System'
 ---
 
