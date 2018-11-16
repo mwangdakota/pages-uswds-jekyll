@@ -52,7 +52,7 @@ awards_api:
   active_date_is_now: true
   fundProgramName: phase i
   reset: false
-  recent_date: 2017-06-01
+  recent_date: 2016-01-01
   printFields:
     - id
     - awardeeName
@@ -82,7 +82,7 @@ topics_api:
   active_date_is_now: true
   fundProgramName: phase i
   reset: false
-  recent_date: 2017-06-01
+  recent_date: 2016-01-01
   allow_recent_all: true
   printFields:
     - id
