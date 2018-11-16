@@ -214,15 +214,7 @@
     - name: Zyrobotics LLC
     - name: ThoughtSTEM, LLC
     - name: Looking Glass Ventures, LLC
-    - name: Modular Robotics Incorporated
-    - name: Zyante Inc
-      allow_recent: true
-    - name: Teachley, LLC.
-    - name: Simbulus Inc
-    - name: Workplace Technologies Research Inc.
-    - name: Triad Interactive Media
-    - name: starMobile, Inc.
-    
+        
 - topic: Energy and Power Systems (EW)
   permalink: /topics/energy-power/
   topic_code: ew
