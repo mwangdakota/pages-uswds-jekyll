@@ -25,6 +25,7 @@
     - name: Big Blue Technologies LLC
     - name: Elementum 3D
     - name: Construction Robotics, LLC
+    - name: unspun, Inc.
 
 - topic: Advanced Materials (MI)
   permalink: /topics/advanced-materials/
@@ -350,7 +351,6 @@
     - Medical Devices (MD1)
   companies:
     - name: Neural Analytics
-    - name: Aperiomics, Inc.
     
 - topic: Nanotechnology (MN)
   permalink: /topics/nanotechnology/
@@ -369,7 +369,8 @@
   companies:
     - name: Xallent LLC
     - name: Hummingbird Nano, Inc.
-
+    - name: Astrileux Corporation
+    
 - topic: Other Topics (OT)
   permalink: /topics/other/
   topic_code: ot
