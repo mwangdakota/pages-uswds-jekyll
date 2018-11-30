@@ -7646,5 +7646,27 @@
   expDate: 08/31/2020
   title: 'SBIR Phase II:  High-Resolution Shop Floor Video-Rate Surface Metrology
     System'
+- abstractText: |-
+    This SBIR Phase I project addresses the lack of materials available for advanced 3D printing. 3D printing is and will likely be used to produce products that encompass every aspect of day-to-day life. Current technology is primarily focused on the aerospace and medical fields. New metallic materials and more efficient processing methods are needed to transition to other more ubiquitous markets. This project is aimed at broadening the materials selection through a new production technique that complements existing technologies. The growth of the 3D printing industry will bring very competitive manufacturing jobs back to The United States.
+    This project will investigate the feasibility of an innovative reactive additive manufacturing (RAM) process to create a range of materials including nickel metal matrix composites, tungsten carbide composites, and nickel titanium intermetallic compounds. Each material system will be designed, fabricated, and characterized for a range of properties including microstructure, product phases, density, porosity, and hardness. For each of the three materials systems, the iterative development process will include modification of composition and process parameters to determine their effect on the material microstructure and properties and determine the feasibility of the RAM process to produce each material type commercially. The expected outcome of this activity is that the RAM process will be proven feasible for one or more of the investigated materials systems. The results of this work will be developed further and will subsequently lead to commercialization and sales of the novel materials mixtures and RAM process parameters for use in commercial powder bed fusion additive manufacturing systems already in use.
+  awardeeAddress: 405 Young Ct
+  awardeeCity: Erie
+  awardeeCountryCode: US
+  awardeeName: Elementum 3D
+  awardeeStateCode: CO
+  awardeeZipCode: '805162401'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1647373'
+  piEmail: jacob@elementum3d.com
+  piFirstName: Jacob
+  piLastName: Nuechterlein
+  piMiddeInitial: S
+  piPhone: '7205459013'
+  poName: Rajesh Mehta
+  date: 11/30/2016
+  startDate: 12/01/2016
+  expDate: 05/31/2017
+  title: 'SBIR Phase I:  Reactive Additive Manufacturing'
 ---
 
