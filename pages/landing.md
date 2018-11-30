@@ -10,8 +10,7 @@ hero:
     text: We take 0% equity
   button:
     href: /apply/
-    text: "Apply now"
-    subtext: "Deadline: {{site.deadline}}"
+    text: "Learn More"
   caption: A microscopic image of the metals in a plant seedling being studied for its ability to clean contaminated environments. Photo courtesy of <a href="https://seedfund.nsf.gov/awardees/phase-2/details/?company=sigray">Sigray</a>, a small business revolutionizing x-ray research equipment through its patented innovations on x-ray source and optic technology.
 ---
 
