@@ -212,58 +212,6 @@
   expDate: 11/30/2019
   title: 'STTR Phase II:  Continuous Production and Collection of Magnesium via Carbothermal
     Reduction'
-- abstractText: |-
-    This SBIR Phase I project addresses the lack of materials available for advanced 3D printing. 3D printing is and will likely be used to produce products that encompass every aspect of day-to-day life. Current technology is primarily focused on the aerospace and medical fields. New metallic materials and more efficient processing methods are needed to transition to other more ubiquitous markets. This project is aimed at broadening the materials selection through a new production technique that complements existing technologies. The growth of the 3D printing industry will bring very competitive manufacturing jobs back to The United States.
-
-
-    This project will investigate the feasibility of an innovative reactive additive manufacturing (RAM) process to create a range of materials including nickel metal matrix composites, tungsten carbide composites, and nickel titanium intermetallic compounds. Each material system will be designed, fabricated, and characterized for a range of properties including microstructure, product phases, density, porosity, and hardness. For each of the three materials systems, the iterative development process will include modification of composition and process parameters to determine their effect on the material microstructure and properties and determine the feasibility of the RAM process to produce each material type commercially. The expected outcome of this activity is that the RAM process will be proven feasible for one or more of the investigated materials systems. The results of this work will be developed further and will subsequently lead to commercialization and sales of the novel materials mixtures and RAM process parameters for use in commercial powder bed fusion additive manufacturing systems already in use.
-  awardeeAddress: 405 Young Ct
-  awardeeCity: Erie
-  awardeeCountryCode: US
-  awardeeName: Elementum 3D
-  awardeeStateCode: CO
-  awardeeZipCode: '805162401'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1647373'
-  piEmail: jacob@elementum3d.com
-  piFirstName: Jacob
-  piLastName: Nuechterlein
-  piMiddeInitial: S
-  piPhone: '7205459013'
-  poName: Rajesh Mehta
-  date: 11/30/2016
-  startDate: 12/01/2016
-  expDate: 05/31/2017
-  title: 'SBIR Phase I:  Reactive Additive Manufacturing'
-- abstractText: |-
-    This SBIR Phase II project will address the lack of high application temperature materials available for additive manufacturing. Additive manufacturing, often called 3D printing, provides increased design freedom and complex features such as part consolidation and conformal cooling channels. The performance and efficiency of gas turbines and other applications can be increased by combining design improvements enabled by additive manufacturing with a suitable high temperature material. Unfortunately, existing materials either do not have sufficient high temperature performance or are not compatible with high quality printing methods. This project will develop new nickel superalloy composite additive manufacturing materials for use with high temperature gas turbine components. Successful completion of this project will result in more efficient turbines to reduce energy costs, transportation costs, and carbon emissions. The manufacturing, power generation, and aerospace industries are expected to be impacted from this project. In addition, history has demonstrated that new materials and manufacturing technologies often lead to additional unexpected innovations. This project will help the country lead in the innovation of high performance materials technology to address the needs of the $86 billion gas turbine market and to grow advanced manufacturing jobs in the US.
-
-
-
-    This project will utilize innovative reactive additive manufacturing materials technology to develop 3D printable advanced high temperature superalloys. During additive fabrication, high melting temperature product phases will be synthesized in-situ within a superalloy matrix to significantly improve high temperature performance and improve printability. This innovative reactive additive manufacturing technology has been shown to be applicable to a wide range of materials systems including nickel superalloys in an NSF Phase I project. Metal matrix composites produced using this technology have demonstrated greatly increased strength, wear resistance, and high temperature performance relative to comparable traditional alloys. In addition, this technology has demonstrated the ability to eliminate micro and macro cracking problems with alloys that had previously been considered unprintable. This project aims to further develop one or more high temperature superalloys compatible with laser powder bed fusion additive manufacturing for use in the hot sections of gas turbines. The scope of the project includes theoretical and experimental development and evaluation of novel material feedstocks, additive manufacturing processing conditions, and heat treatments. Evaluation of printed components will include measurement of density, hardness, standard and high temperature tensile properties, creep, and microstructure and phase analysis. Turbine components will be additively fabricated for pilot studies.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 405 Young Ct
-  awardeeCity: Erie
-  awardeeCountryCode: US
-  awardeeName: Sinter Print Inc
-  awardeeStateCode: CO
-  awardeeZipCode: '805162400'
-  fundsObligatedAmt: '1393092'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1758865'
-  piEmail: jacob@elementum3d.com
-  piFirstName: Jacob
-  piLastName: Nuechterlein
-  piMiddeInitial: S
-  piPhone: '7205459013'
-  poName: Linda Molnar
-  date: 02/26/2018
-  startDate: 03/01/2018
-  expDate: 02/28/2022
-  title: 'SBIR Phase II:  Reactive Additive Manufacturing of Advanced Superalloys
-    for Turbine Engines'
 - abstractText: "This Small Business Innovation Research Phase I project is aimed
     at developing an automated mortar dispensing system, a major component of a semi-automated
     masonry (SAM) robotic system.  The current technology challenge is the development
@@ -367,6 +315,55 @@
   startDate: 08/01/2013
   expDate: 04/30/2017
   title: 'SBIR Phase II:  Semi-Automated Masonry (SAM) Robotic System'
+- abstractText: |-
+    This SBIR Phase I project will demonstrate a novel method for additively manufacturing textile products. Presently, the clothing manufacturing industry still relies on manual sewing machines that were invented over one hundred and seventy years ago. This system limits the manufacturing process and textile capability; an abundance of steps leads to waste, inefficiencies, and segmented products. Further, due to the low cost of foreign labor, the US textile industry has essentially stalled, as 97.3 percent of all clothing sold in the United States in 2015 was imported. This project seeks to develop a novel method for manufacturing textile products by employing additive manufacturing methodologies to automate the production process, while simultaneously enabling complete customization and on-demand production. This technology will enable premium and competitive textile manufacturing to return from overseas, creating high value-added jobs and a designer community in the United States while also generating tax revenue. In the same way that 3D Printing technology has revolutionized the hard goods manufacturing process, this project seeks to create an entire new industry of additively manufactured textile products, enabling significant opportunities for future innovation.
+
+    This project develops a novel technology to manufacture near-net-shape three dimensional textile products. To develop this technology, this project will first prove feasibility through creating constituent textile panels of non-standard shapes with 3D topography, laying the foundation for continued development into fully three-dimensional, seamless, finished products produced in-situ. By additively producing garments from a unique 3D model, complete customization to each individual consumer is possible on a large scale- though this has never before been accomplished. Further, through the on-demand production of clothing customized to individual consumers, the need for substantial inventory buildup is eliminated. In this way, additively manufactured textile products are both more desirable to consumers and more economical to producers. As such, the societal and environmental benefits of automated and on-demand textile manufacturing within the United States are significant, including eliminating massive amounts of waste from typical cut-and-sew manufacturing techniques, revamping a struggling American manufacturing industry, and minimizing the economical, environmental, and geopolitical implications of the United States' current dependence on a convoluted global supply chain.
+  awardeeAddress: 2990 Capital Dr
+  awardeeCity: Eugene
+  awardeeCountryCode: US
+  awardeeName: unspun, Inc.
+  awardeeStateCode: OR
+  awardeeZipCode: '974031842'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1721773'
+  piEmail: beth@unspuntech.com
+  piFirstName: Elizabeth
+  piLastName: Esponnette
+  piMiddeInitial: F
+  piPhone: '2075778745'
+  poName: Rajesh Mehta
+  date: 07/11/2017
+  startDate: 07/01/2017
+  expDate: 02/28/2018
+  title: 'SBIR Phase I: An additive method for manufacturing customized textile products'
+- abstractText: |-
+    This Small Business Innovation Research (SBIR) Phase II project will demonstrate an additive manufacturing process to produce 3-D woven textile products at scale. Presently, the clothing manufacturing industry still relies on manual sewing machines that were invented over one-hundred and seventy years ago. This system limits the manufacturing process and textile capability; an abundance of steps leads to waste, inefficiencies, and segmented products. Further, due to the low cost of foreign labor, the US textile industry has effectively come to a halt: 97.3 percent of all clothing sold in the United States in 2015 was imported. This project seeks to develop a novel method for manufacturing woven textile products by employing additive manufacturing methodologies to automate the production process, while simultaneously enabling complete customization and on-demand production. This technology will enable premium and competitive textile manufacturing to return from overseas, creating high value-added jobs and a designer community in the United States while also generating tax revenue. In the same way that 3-D printing technology has revolutionized the hard goods manufacturing process, this project seeks to create an entire new industry of additively manufactured textile products, enabling significant opportunities for future innovation.
+
+    This project develops a novel technology to manufacture near-net-shape three dimensional woven textile products. To develop this technology, this project first proved feasibility through creating constituent textile panels of non-standard shapes with 3-D topography in Phase I, laying the foundation for continued development into fully three-dimensional, seamless, finished products produced in-situ through Phase II. By additively producing garments from a unique 3-D model complete customization to each individual consumer is possible on a large scale, though this has never before been accomplished. Further, through the on-demand production of clothing customized to individual consumers, the need for substantial inventory buildup is eliminated. In this way, additively manufactured textile products are both more desirable to consumers and more economical to producers. As such, the societal and environmental benefits of automated and on-demand textile manufacturing within the United States are significant, including eliminating massive amounts of waste from typical cut-and-sew manufacturing techniques, revamping a struggling American manufacturing industry, and minimizing the economical, environmental, and geopolitical implications of the United States? current dependence on a convoluted global supply chain.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 2990 Capital Dr
+  awardeeCity: Eugene
+  awardeeCountryCode: US
+  awardeeName: unspun, Inc.
+  awardeeStateCode: OR
+  awardeeZipCode: '974031842'
+  fundsObligatedAmt: '750000'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1831088'
+  piEmail: beth@unspuntech.com
+  piFirstName: Elizabeth
+  piLastName: Esponnette
+  piMiddeInitial: F
+  piPhone: '2075778745'
+  poName: Linda Molnar
+  date: 09/14/2018
+  startDate: 09/15/2018
+  expDate: 08/31/2020
+  title: 'SBIR Phase II:  An additive method for manufacturing customized textile
+    products'
 - abstractText: "This Small Business Innovation Research Phase I project will address
     the challenge of retrofit cleaning and pretreatment of steam condenser tubes prior
     to the deposition of a performance-enhancing coating. By eliminating the buildup
@@ -5382,53 +5379,6 @@
   startDate: 03/01/2016
   expDate: 02/28/2018
   title: 'SBIR Phase II:  A Novel Non-Invasive Intracranial Pressure Monitoring Method'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to improve our ability to fight infectious diseases that negatively impact agricultural yields and reduce the efficiency of global food production and distribution systems. This innovation will enhance scientific and technological understanding by leveraging the power of high-throughput sequencing and bioinformatics to provide a pathogen identification and surveillance tool with demonstrated efficacy against known and unknown infectious agents. This platform is fast, sensitive, and cost-effective, and can be used for any animal sample to detect virtually all possible microbes ? even microbes that have never before been characterized. Hundreds of samples can be rapidly screened without relying upon known genetic/genomic data of microbes. The global molecular diagnostics market is expected to grow at a compound annual growth rate (CAGR) of over 14% from 2012 to 2017, with infectious disease testing being the leading application at 26% share, therefore the commercial opportunity of this project is vast.
-
-
-    The proposed project tackles problems arising from low-throughput targeted detection technologies such as PCR, hybridization arrays, and culture. Current diagnostic methods rely on what is already known about target microbe genetics, and provide limited information in the form of presence/absence of a known target sequence. The proposed research objectives are related to lowering the technical risks associated with a high-throughput unbiased pathogen detection platform based on DNA sequencing and Bayesian statistics. The ultimate goal is to develop, standardize and validate our metagenomics pathogen identification platform for use in agricultural detection and biosurveillance contexts, using aquaculture related fish species and their infectious agents as a relevant application. This project  proposes to: 1) characterize relative performance of sequencing platforms for pathogen identification; 2) validate and benchmark our agricultural detection platform using fish samples and spike-ins diagnosed using established methods; and 3) evaluate the use of host gene expression signatures as supporting evidence for infection. The team will obtain metagenomic sequence data from infected fish, compare their analysis results against current methods, and establish the limit of detection using known quantities of pathogenic material.
-  awardeeAddress: 45945 Trefoil Lane
-  awardeeCity: Sterling
-  awardeeCountryCode: US
-  awardeeName: Aperiomics, Inc.
-  awardeeStateCode: VA
-  awardeeZipCode: '201660000'
-  fundsObligatedAmt: '179960'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1415670'
-  piEmail: ecastron@aperiomics.com
-  piFirstName: Eduardo
-  piLastName: Castro-Nallar
-  piPhone: '2027698411'
-  poName: Jesus Soriano Molla
-  date: 05/20/2014
-  startDate: 07/01/2014
-  expDate: 06/30/2015
-  title: 'SBIR Phase I:  Rapid Pathogen Diagnostics and Biosurveillance using Multiplexed
-    High-throughput Sequencing'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to improve our ability to fight infectious diseases that negatively impact agricultural yields and reduce the efficiency of global food production and distribution systems. This innovation will enhance scientific and technological understanding by leveraging the power of high-throughput sequencing and bioinformatics to provide a pathogen identification and surveillance tool with demonstrated efficacy against known and unknown infectious agents. This platform is fast, sensitive, and cost-effective, and can be used for any animal sample to detect virtually all possible microbes even microbes that have never before been characterized. Hundreds of samples can be rapidly screened without relying upon known genetic/genomic data of microbes. The global molecular diagnostics market is expected to grow at a compound annual growth rate (CAGR) of over 14% from 2012 to 2017, with infectious disease testing being the leading application at 26% share, therefore the commercial opportunity of this project is vast.
-
-    The proposed project follows up on the validation of the diagnostic platform (SBIR Phase I) and delves deeper into improving virus detection and genetic data generation. In addition, this proposal seeks to develop a basal informatics infrastructure that together with sample preparation improvements will be conducive of scalable, high-throughput analysis of several samples. Current diagnostic methods rely on what is already known about target microbe genetics, and provide limited information in the form of presence/absence of a known target sequence. The SBIR Phase I was instrumental to lowering the technical risks associated with a high-throughput unbiased pathogen detection platform based on DNA sequencing and Bayesian statistics. In the pursue of standardizing and validating our metagenomics pathogen identification platform, this project proposes to: 1) improve viral detection capabilities and accuracy, 2) develop new functionalities, and 3) incorporate Phase I and Phase II advances into an integrated in-house web-accessible interface.
-  awardeeAddress: 45085 University Dr
-  awardeeCity: Ashburn
-  awardeeCountryCode: US
-  awardeeName: Aperiomics, Inc.
-  awardeeStateCode: VA
-  awardeeZipCode: '201472766'
-  fundsObligatedAmt: '1143384'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1534469'
-  piEmail: ychen@aperiomics.com
-  piFirstName: Yuan
-  piLastName: Chen
-  piPhone: '7032290406'
-  poName: Ben Schrag
-  date: 09/11/2015
-  startDate: 09/15/2015
-  expDate: 10/31/2019
-  title: 'SBIR Phase II:  Rapid Pathogen Diagnostics and Biosurveillance using Multiplexed
-    High-throughput Sequencing'
 - abstractText: "This Small Business Innovation Research Phase I project will focus
     on the development of a multiple integrated tip scanning probe device for use
     in semiconductor device failure isolation and analysis. The underlying motivating
@@ -5600,6 +5550,104 @@
   expDate: 09/30/2018
   title: 'SBIR Phase II:  Innovative Platform Technology for Rapid Three Dimensional
     Fabrication of Capillary Electrophoresis Chips: Phase II Proposal'
+- abstractText: "This Small Business Innovation Research (SBIR) Phase I project aims
+    to evaluate the feasibility of customized next generation nanoscale technology
+    which enables high volume manufacture of integrated circuits, leading to faster
+    computing power and performance. Current progress in reaching next generation
+    performance is limited by significant technical challenges in meeting high volume
+    manufacturing requirements driving up the cost of electronics. These problems
+    have plagued the industry for over 10 years. The research activity here considers
+    alternative approaches in addressing   the production rate issues which ultimately
+    reduce cost to chipmakers and reduce energy consumption in the semiconductor industry,
+    thereby providing greener high performance electronics at lower cost. \n\nThe
+    broader impact/commercial potential of this project are firstly to accelerate
+    the arrival of next generation computing technology creating faster, smaller more
+    powerful mobile devices and providing evolutionary advances in quality of life
+    for a globally-social electronic community, and secondly to develop electronics
+    which meet the world?s demand at reasonable cost and without substantial adverse
+    impact on the environment, and thirdly to maintain the competitiveness in global
+    supply and accessibility of next generation electronics."
+  awardeeAddress: 4225 Executive Sq Ste 490
+  awardeeCity: La Jolla
+  awardeeCountryCode: US
+  awardeeName: Astrileux Corporation
+  awardeeStateCode: CA
+  awardeeZipCode: '920378411'
+  fundsObligatedAmt: '150000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1343877'
+  piEmail: supriya@astrileux.com
+  piFirstName: Supriya
+  piLastName: Jaiswal
+  piPhone: '8585312432'
+  poName: Steven Konsek
+  date: 12/19/2013
+  startDate: 01/01/2014
+  expDate: 06/30/2014
+  title: 'SBIR Phase I:  Novel Technologies to Enable High Volume EUV Manufacturing
+    of Integrated Circuits'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to drive the next generation of advanced computing power and performance, by manufacturing integrated circuits, the fundamental units of electronic systems, at length scales of 7 nm and smaller. Today?s central processing units (CPUs) each contain 7.2 Bn chips and over 1.2 sextillion chips are manufactured per year to meet computing demands. Next generation technology is expected to enable artificial intelligence and machine learning through both conventional computing and potentially neuromorphic paradigms, bringing to reality transformative applications such as self-driving cars and smart buildings. As Moore?s law continues to set the pace of technological advancement, chipmakers will deploy new EUV (Extreme Ultraviolet) lithography tools, using light of 13.5 nm to pattern integrated circuits or chip architecture into silicon wafers, for the next three generations of technology. Chipmakers strive to bring about the readiness of EUV technology in 2019. The global demand for next generation electronics is forever increasing as the population grows above 7 Bn. However, the global supply of electronics constantly faces challenges to reduce costs and deliver technology beyond Moore?s Law.
+
+    The proposed project addresses the challenges related to high volume manufacturing at the 7 nm node for lithography tools and its components. For example, an EUV photomask, a high commodity component, patterns and replicates integrated circuit design into silicon wafers. Current EUV photomasks have a sub-optimal manufacturing yield of ~60% and suffer from defectivity which arises during fabrication of its architecture. During operational use the photomask sustains damage from the debris generated by the EUV plasma light source that implants in the mask and inevitably replicates in the wafer, destroying the integrated chip pattern. In high volume manufacturing, these issues manifest in the wafer yield, the reusability of a mask, and drive the need for high cost real-time inspection and metrology. A new EUV photomask which promises greater robustness to defects, a higher manufacturing yield, more reusability of masks in operations and a longer lifetime is presented. The goals of the project are to evaluate new integrated architecture for the EUV mask design, develop a higher yield fabrication process and characterize the EUV performance. More robust photomasks reduce the capital outlay required for in-situ metrology and inspection and ultimately bring down the cost of next generation electronics.
+  awardeeAddress: 4225 Executive Sq Ste 490
+  awardeeCity: La Jolla
+  awardeeCountryCode: US
+  awardeeName: Astrileux Corporation
+  awardeeStateCode: CA
+  awardeeZipCode: '920378411'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1747341'
+  piEmail: supriya@astrileux.com
+  piFirstName: Supriya
+  piLastName: Jaiswal
+  piPhone: '8585312432'
+  poName: Richard Schwerdtfeger
+  date: 12/18/2017
+  startDate: 01/01/2018
+  expDate: 12/31/2018
+  title: 'SBIR Phase I:  High Fidelity EUV PhotoMasks'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase II project are to accelerate the arrival of next generation
+    computing technology creating faster, smaller more powerful mobile devices, renewing
+    the expected technological pace of development set by Moore's law, and to enable
+    global access to next generation electronics. The technology developed here will
+    enable new extreme ultraviolet lithography in semiconductor manufacturing.  The
+    developments will promote learning, understanding and capability in commercialization
+    and scalability of nanotechnology engineering. \n\nThis Small Business Innovation
+    Research (SBIR) Phase II project aims to evaluate the feasibility of new extreme
+    ultraviolet (EUV) technologies which enable high volume manufacture of Integrated
+    Circuits at 14nm and smaller. Currently capital equipment manufacturers are facing
+    significant challenges in meeting the International Technology Roadmap for Semiconductors
+    requirements for high volume manufacturing of integrated circuit chips.  This
+    has caused severe ramifications to chipmakers on the success of next generation
+    IC manufacturing and fabrication facility costs. Successful results from the work
+    proposed would represent notable progress in high volume manufacturing using EUV
+    capital equipment. The intellectual merit of this proposed work forms the basis
+    of new state of the art industry architecture designed for volume manufacturing;
+    a pursuit that would subsequently encourage new markets and applications using
+    next generation technology overcoming cost challenges in high volume manufacturing
+    processes."
+  awardeeAddress: 4225 Executive Sq Ste 490
+  awardeeCity: La Jolla
+  awardeeCountryCode: US
+  awardeeName: Astrileux Corporation
+  awardeeStateCode: CA
+  awardeeZipCode: '920378411'
+  fundsObligatedAmt: '1048654'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1457418'
+  piEmail: supriya@astrileux.com
+  piFirstName: Supriya
+  piLastName: Jaiswal
+  piPhone: '8585312432'
+  poName: Linda Molnar
+  date: 02/18/2015
+  startDate: 03/01/2015
+  expDate: 08/31/2018
+  title: 'SBIR Phase II:  Novel Technologies to Enable High Volume, Extreme Ultraviolet
+    Manufacturing of Integrated Circuits'
 - abstractText: |-
     This Small Business Technology Transfer (STTR) Phase I project enables the development of laser-induced refractive index change (LIRIC) for non-invasive vision correction in cornea and hydrogel materials.  In the United States, 150 million adults use some form of vision correction, and this number is projected to increase steadily with the aging population. LIRIC has the potential to transform how laser refractive surgery is performed and how hydrogel-based solutions (e.g., contact lenses, intraocular lenses) are produced.  For use in the cornea, LIRIC is a process that can alter the optical quality of the cornea without cutting, ablating or removing tissue. Also, only a thin layer of the cornea is treated, which allows a patient to continuously adjust their optics as their prescription changes over their lifetime. This is vastly different from current laser refractive surgery techniques, which are highly invasive and do not allow for future adjustment. In hydrogel materials, traditional manufacturing techniques use diamond-turned molds to achieve desired lens shape. LIRIC can change the production paradigm by enabling just-in-time manufacturing, reducing inventory costs. Additionally, because arbitrary refractive corrections are achievable with LIRIC, patients will be able to receive prescriptions with customized corrections.  This capability is unavailable using today's typical manufacturing methods.
 
@@ -6155,104 +6203,6 @@
   expDate: 08/31/2019
   title: 'SBIR Phase II:  A hardware FPGA implementation of H.265/HEVC low latency
     video encoder algorithms for professional applications'
-- abstractText: "This Small Business Innovation Research (SBIR) Phase I project aims
-    to evaluate the feasibility of customized next generation nanoscale technology
-    which enables high volume manufacture of integrated circuits, leading to faster
-    computing power and performance. Current progress in reaching next generation
-    performance is limited by significant technical challenges in meeting high volume
-    manufacturing requirements driving up the cost of electronics. These problems
-    have plagued the industry for over 10 years. The research activity here considers
-    alternative approaches in addressing   the production rate issues which ultimately
-    reduce cost to chipmakers and reduce energy consumption in the semiconductor industry,
-    thereby providing greener high performance electronics at lower cost. \n\nThe
-    broader impact/commercial potential of this project are firstly to accelerate
-    the arrival of next generation computing technology creating faster, smaller more
-    powerful mobile devices and providing evolutionary advances in quality of life
-    for a globally-social electronic community, and secondly to develop electronics
-    which meet the world?s demand at reasonable cost and without substantial adverse
-    impact on the environment, and thirdly to maintain the competitiveness in global
-    supply and accessibility of next generation electronics."
-  awardeeAddress: 4225 Executive Sq Ste 490
-  awardeeCity: La Jolla
-  awardeeCountryCode: US
-  awardeeName: Astrileux Corporation
-  awardeeStateCode: CA
-  awardeeZipCode: '920378411'
-  fundsObligatedAmt: '150000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1343877'
-  piEmail: supriya@astrileux.com
-  piFirstName: Supriya
-  piLastName: Jaiswal
-  piPhone: '8585312432'
-  poName: Steven Konsek
-  date: 12/19/2013
-  startDate: 01/01/2014
-  expDate: 06/30/2014
-  title: 'SBIR Phase I:  Novel Technologies to Enable High Volume EUV Manufacturing
-    of Integrated Circuits'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to drive the next generation of advanced computing power and performance, by manufacturing integrated circuits, the fundamental units of electronic systems, at length scales of 7 nm and smaller. Today?s central processing units (CPUs) each contain 7.2 Bn chips and over 1.2 sextillion chips are manufactured per year to meet computing demands. Next generation technology is expected to enable artificial intelligence and machine learning through both conventional computing and potentially neuromorphic paradigms, bringing to reality transformative applications such as self-driving cars and smart buildings. As Moore?s law continues to set the pace of technological advancement, chipmakers will deploy new EUV (Extreme Ultraviolet) lithography tools, using light of 13.5 nm to pattern integrated circuits or chip architecture into silicon wafers, for the next three generations of technology. Chipmakers strive to bring about the readiness of EUV technology in 2019. The global demand for next generation electronics is forever increasing as the population grows above 7 Bn. However, the global supply of electronics constantly faces challenges to reduce costs and deliver technology beyond Moore?s Law.
-
-    The proposed project addresses the challenges related to high volume manufacturing at the 7 nm node for lithography tools and its components. For example, an EUV photomask, a high commodity component, patterns and replicates integrated circuit design into silicon wafers. Current EUV photomasks have a sub-optimal manufacturing yield of ~60% and suffer from defectivity which arises during fabrication of its architecture. During operational use the photomask sustains damage from the debris generated by the EUV plasma light source that implants in the mask and inevitably replicates in the wafer, destroying the integrated chip pattern. In high volume manufacturing, these issues manifest in the wafer yield, the reusability of a mask, and drive the need for high cost real-time inspection and metrology. A new EUV photomask which promises greater robustness to defects, a higher manufacturing yield, more reusability of masks in operations and a longer lifetime is presented. The goals of the project are to evaluate new integrated architecture for the EUV mask design, develop a higher yield fabrication process and characterize the EUV performance. More robust photomasks reduce the capital outlay required for in-situ metrology and inspection and ultimately bring down the cost of next generation electronics.
-  awardeeAddress: 4225 Executive Sq Ste 490
-  awardeeCity: La Jolla
-  awardeeCountryCode: US
-  awardeeName: Astrileux Corporation
-  awardeeStateCode: CA
-  awardeeZipCode: '920378411'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1747341'
-  piEmail: supriya@astrileux.com
-  piFirstName: Supriya
-  piLastName: Jaiswal
-  piPhone: '8585312432'
-  poName: Richard Schwerdtfeger
-  date: 12/18/2017
-  startDate: 01/01/2018
-  expDate: 12/31/2018
-  title: 'SBIR Phase I:  High Fidelity EUV PhotoMasks'
-- abstractText: "The broader impact/commercial potential of this Small Business Innovation
-    Research (SBIR) Phase II project are to accelerate the arrival of next generation
-    computing technology creating faster, smaller more powerful mobile devices, renewing
-    the expected technological pace of development set by Moore's law, and to enable
-    global access to next generation electronics. The technology developed here will
-    enable new extreme ultraviolet lithography in semiconductor manufacturing.  The
-    developments will promote learning, understanding and capability in commercialization
-    and scalability of nanotechnology engineering. \n\nThis Small Business Innovation
-    Research (SBIR) Phase II project aims to evaluate the feasibility of new extreme
-    ultraviolet (EUV) technologies which enable high volume manufacture of Integrated
-    Circuits at 14nm and smaller. Currently capital equipment manufacturers are facing
-    significant challenges in meeting the International Technology Roadmap for Semiconductors
-    requirements for high volume manufacturing of integrated circuit chips.  This
-    has caused severe ramifications to chipmakers on the success of next generation
-    IC manufacturing and fabrication facility costs. Successful results from the work
-    proposed would represent notable progress in high volume manufacturing using EUV
-    capital equipment. The intellectual merit of this proposed work forms the basis
-    of new state of the art industry architecture designed for volume manufacturing;
-    a pursuit that would subsequently encourage new markets and applications using
-    next generation technology overcoming cost challenges in high volume manufacturing
-    processes."
-  awardeeAddress: 4225 Executive Sq Ste 490
-  awardeeCity: La Jolla
-  awardeeCountryCode: US
-  awardeeName: Astrileux Corporation
-  awardeeStateCode: CA
-  awardeeZipCode: '920378411'
-  fundsObligatedAmt: '1048654'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1457418'
-  piEmail: supriya@astrileux.com
-  piFirstName: Supriya
-  piLastName: Jaiswal
-  piPhone: '8585312432'
-  poName: Linda Molnar
-  date: 02/18/2015
-  startDate: 03/01/2015
-  expDate: 08/31/2018
-  title: 'SBIR Phase II:  Novel Technologies to Enable High Volume, Extreme Ultraviolet
-    Manufacturing of Integrated Circuits'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project will be high performance error correction for flash memory. Error correction plays a critical row in making digital devices reliable. Shrinking semiconductor geometries results in more errors. This has created a special problem for flash memory where the need for more rigorous error correction is approaching a practical limit with the widely used Bose Chaudhuri Hocquengham error correction. Low Density Parity Check (LDPC) is a recognized solution that  can approach the theoretical limits of what is possible. This LDPC based technology can improve lifetime of flash by without the added cost of the existing BCH solution. This technology helps Flash Memory enterprises to use higher density flash to improve storage capacity and cut the storage product costs. Without the superior performance, small size and low power consumption of the LDPC technology, the migration to low cost high capacity flash memories will be seriously slowed. In the absence of a comparable alternative approach, there will be serious limitations on the performance of a vast array of products that depend on highly reliable and economical flash storage.
 
@@ -7696,5 +7646,27 @@
   expDate: 08/31/2020
   title: 'SBIR Phase II:  High-Resolution Shop Floor Video-Rate Surface Metrology
     System'
+- abstractText: |-
+    This SBIR Phase I project addresses the lack of materials available for advanced 3D printing. 3D printing is and will likely be used to produce products that encompass every aspect of day-to-day life. Current technology is primarily focused on the aerospace and medical fields. New metallic materials and more efficient processing methods are needed to transition to other more ubiquitous markets. This project is aimed at broadening the materials selection through a new production technique that complements existing technologies. The growth of the 3D printing industry will bring very competitive manufacturing jobs back to The United States.
+    This project will investigate the feasibility of an innovative reactive additive manufacturing (RAM) process to create a range of materials including nickel metal matrix composites, tungsten carbide composites, and nickel titanium intermetallic compounds. Each material system will be designed, fabricated, and characterized for a range of properties including microstructure, product phases, density, porosity, and hardness. For each of the three materials systems, the iterative development process will include modification of composition and process parameters to determine their effect on the material microstructure and properties and determine the feasibility of the RAM process to produce each material type commercially. The expected outcome of this activity is that the RAM process will be proven feasible for one or more of the investigated materials systems. The results of this work will be developed further and will subsequently lead to commercialization and sales of the novel materials mixtures and RAM process parameters for use in commercial powder bed fusion additive manufacturing systems already in use.
+  awardeeAddress: 405 Young Ct
+  awardeeCity: Erie
+  awardeeCountryCode: US
+  awardeeName: Elementum 3D
+  awardeeStateCode: CO
+  awardeeZipCode: '805162401'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1647373'
+  piEmail: jacob@elementum3d.com
+  piFirstName: Jacob
+  piLastName: Nuechterlein
+  piMiddeInitial: S
+  piPhone: '7205459013'
+  poName: Rajesh Mehta
+  date: 11/30/2016
+  startDate: 12/01/2016
+  expDate: 05/31/2017
+  title: 'SBIR Phase I:  Reactive Additive Manufacturing'
 ---
 
