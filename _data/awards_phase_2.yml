@@ -136,7 +136,7 @@
   awardeeName: Solchroma Technologies Inc
   awardeeStateCode: MA
   awardeeZipCode: '021442131'
-  fundsObligatedAmt: '757678'
+  fundsObligatedAmt: '761762'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1660204'
   piEmail: roger.diebold@solchroma.com
@@ -8860,57 +8860,6 @@
   expDate: 08/31/2020
   title: 'SBIR Phase II:  Advanced Computational Imaging System for 3D Surface Microgeometry
     and Reflectance Properties Measurement'
-- abstractText: |-
-    The broader impact/commercial potential of this project is to enable vast deployment of energy storage to increase installation of renewable energy for reduced pollution and greenhouse gases, to improve energy security, and to improve energy efficiency and safety. The project will realize a dramatic reduction in cost and size of Energy Storage Systems (ESS) that will allow penetration of ESS into markets served by fossil fuels. One key market is grid ancillary services which includes Frequency Regulation (FR) that regulates grid frequency and stability. With the potential of this project, the FR market for battery based ESS is expected to grow from $100M/yr to over $4B/yr. This project has the societal benefits of replacing fossil fuel based ?peaker? plants that are commonly used to perform FR, with clean Li-ion battery based ESS. Furthermore, by providing lower cost FR capability for the grid, the project will enable grid penetration of more renewable energy, which requires additional FR capability.
-
-    This Small Business Innovation Research (SBIR) Phase II project will develop a highly compact integrated modular inverter/energy storage system to revolutionize deployment of energy storage system for grid, micro-grid, energy efficiency, and energy reliability support. The development effort proposed here includes an advanced energy storage system consisting of an extremely compact 150kW high frequency 3-level inverter, an integrated 100kWhr compact Li-ion battery system, proprietary battery management systems and internet communications capability. This will provide a highly integrated and scalable 150kW Energy Storage System with an integrated battery string inverter with 60% reduced system cost and 10X reduced size that will open new markets for energy storage and renewable energy. The project will develop key technology innovations which work together with advanced Li-ion batteries to form a revolutionary new product. These innovations include: high frequency 3-level inverter with innovative high frequency control and output filter to achieve >10X reduction in volume; a novel topology that integrates inverters into each cell string and eliminates many components resulting in 60% system cost reduction; a modular and scalable design that is fault tolerant and allows easy optimization for multiple system uses.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 15230 W. Woodland Dr.
-  awardeeCity: New Berlin
-  awardeeCountryCode: US
-  awardeeName: Imagen Energy, LLC
-  awardeeStateCode: WI
-  awardeeZipCode: '531511915'
-  fundsObligatedAmt: '626856'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1831221'
-  piEmail: jason@imagenenergy.com
-  piFirstName: Jason
-  piLastName: Katcha
-  piPhone: '4147040274'
-  poName: Muralidharan S. Nair
-  date: 09/17/2018
-  startDate: 09/15/2018
-  expDate: 08/31/2020
-  title: 'SBIR Phase II:  Extremely Compact, High Efficiency, Integrated Converter
-    and Energy Storage System'
-- abstractText: |-
-    This SBIR Phase II project aims to transform the lives and future economic opportunities of young people and their communities through democratized access to cross-curricular computer science, engineering, and cybersecurity education. Daily life, economies, innovation, and national security all depend on having a strong and skilled STEM workforce. For this workforce to exist, our schools must provide the necessary education and experience to prepare students for such careers. Unfortunately, a vast majority of K-12 educators today are not equipped with the resources to do so successfully. The importance of solving this problem cannot be overstated; developing a plentitude of competent STEM professionals is critical to ensure economic and security stability. These project goals are aligned with NSF?s mission to promote the progress of science; to advance the national health, prosperity, and welfare; and to secure the national defense. The resulting technology innovation is of potential service to more than 50 million primary and secondary school students and 3.5 million educators nationally, with an ability to impact their course of study, improve STEM outcomes, increase hands-on project-based experience, and improve future economic opportunities.
-
-
-    This technology innovation emerges at the intersection of cloud-based software technology, real-time collaboration tools, and learning management systems. This reimagined technology tool easily connects, attracts, and fosters delivery of cross-curricular, educational computing literacy resources aligned with national and state educational standards. The project aims to empower and support educators and students in tackling the many new opportunities and growing number of resources in computer science (CS) and engineering education at home, in classrooms, and in community centers. As the CS education landscape evolves with new and exciting technical curriculum, this innovation analyzes the willingness of educators to create or adopt new computer science education, the effectiveness of real-time collaboration tools on CS education outcomes, and measures student awareness and feelings about computer science and engineering disciplines. This technology innovation promotes customer participation and a unique ability to provide support at the ground level in real-time. There are solutions that provide massive online CS courses and curricula; however, none targeting K-12 classrooms or educators which support and integrate cross-curricular computer science, engineering, and cybersecurity education. Offering cloud-based, synchronous technology tools this technology enables real-time, expert mentoring and pair-programming in a K12 virtual learning environment on a massive scale.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 407 Riverview Lane
-  awardeeCity: Melbourne Beach
-  awardeeCountryCode: US
-  awardeeName: Codecraft Works, LLC
-  awardeeStateCode: FL
-  awardeeZipCode: '329512716'
-  fundsObligatedAmt: '741395'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1831060'
-  piEmail: rthawal@codecraftworks.com
-  piFirstName: Rahul
-  piLastName: Thawal
-  piPhone: '3214195725'
-  poName: Rajesh Mehta
-  date: 09/17/2018
-  startDate: 09/15/2018
-  expDate: 08/31/2020
-  title: 'SBIR Phase II:  A Co-creation, Cross-curricular, Standard Aligned Computer
-    Science, Engineering, and Cybersecurity Education Technology Platform'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research (SBIR) Phase II project will be observed through a direct reduction in
     the energy consumption required by large industrial facilities, commercial buildings,
@@ -9014,6 +8963,57 @@
   expDate: 08/31/2020
   title: 'SBIR Phase II:  Electrolytic Generation of Low-Cost, High-Density Carbon
     Nanotubes for High-Performance Lithium-Ion Batteries'
+- abstractText: |-
+    The broader impact/commercial potential of this project is to enable vast deployment of energy storage to increase installation of renewable energy for reduced pollution and greenhouse gases, to improve energy security, and to improve energy efficiency and safety. The project will realize a dramatic reduction in cost and size of Energy Storage Systems (ESS) that will allow penetration of ESS into markets served by fossil fuels. One key market is grid ancillary services which includes Frequency Regulation (FR) that regulates grid frequency and stability. With the potential of this project, the FR market for battery based ESS is expected to grow from $100M/yr to over $4B/yr. This project has the societal benefits of replacing fossil fuel based ?peaker? plants that are commonly used to perform FR, with clean Li-ion battery based ESS. Furthermore, by providing lower cost FR capability for the grid, the project will enable grid penetration of more renewable energy, which requires additional FR capability.
+
+    This Small Business Innovation Research (SBIR) Phase II project will develop a highly compact integrated modular inverter/energy storage system to revolutionize deployment of energy storage system for grid, micro-grid, energy efficiency, and energy reliability support. The development effort proposed here includes an advanced energy storage system consisting of an extremely compact 150kW high frequency 3-level inverter, an integrated 100kWhr compact Li-ion battery system, proprietary battery management systems and internet communications capability. This will provide a highly integrated and scalable 150kW Energy Storage System with an integrated battery string inverter with 60% reduced system cost and 10X reduced size that will open new markets for energy storage and renewable energy. The project will develop key technology innovations which work together with advanced Li-ion batteries to form a revolutionary new product. These innovations include: high frequency 3-level inverter with innovative high frequency control and output filter to achieve >10X reduction in volume; a novel topology that integrates inverters into each cell string and eliminates many components resulting in 60% system cost reduction; a modular and scalable design that is fault tolerant and allows easy optimization for multiple system uses.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 15230 W. Woodland Dr.
+  awardeeCity: New Berlin
+  awardeeCountryCode: US
+  awardeeName: Imagen Energy, LLC
+  awardeeStateCode: WI
+  awardeeZipCode: '531511915'
+  fundsObligatedAmt: '626856'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1831221'
+  piEmail: jason@imagenenergy.com
+  piFirstName: Jason
+  piLastName: Katcha
+  piPhone: '4147040274'
+  poName: Muralidharan S. Nair
+  date: 09/17/2018
+  startDate: 09/15/2018
+  expDate: 08/31/2020
+  title: 'SBIR Phase II:  Extremely Compact, High Efficiency, Integrated Converter
+    and Energy Storage System'
+- abstractText: |-
+    This SBIR Phase II project aims to transform the lives and future economic opportunities of young people and their communities through democratized access to cross-curricular computer science, engineering, and cybersecurity education. Daily life, economies, innovation, and national security all depend on having a strong and skilled STEM workforce. For this workforce to exist, our schools must provide the necessary education and experience to prepare students for such careers. Unfortunately, a vast majority of K-12 educators today are not equipped with the resources to do so successfully. The importance of solving this problem cannot be overstated; developing a plentitude of competent STEM professionals is critical to ensure economic and security stability. These project goals are aligned with NSF?s mission to promote the progress of science; to advance the national health, prosperity, and welfare; and to secure the national defense. The resulting technology innovation is of potential service to more than 50 million primary and secondary school students and 3.5 million educators nationally, with an ability to impact their course of study, improve STEM outcomes, increase hands-on project-based experience, and improve future economic opportunities.
+
+
+    This technology innovation emerges at the intersection of cloud-based software technology, real-time collaboration tools, and learning management systems. This reimagined technology tool easily connects, attracts, and fosters delivery of cross-curricular, educational computing literacy resources aligned with national and state educational standards. The project aims to empower and support educators and students in tackling the many new opportunities and growing number of resources in computer science (CS) and engineering education at home, in classrooms, and in community centers. As the CS education landscape evolves with new and exciting technical curriculum, this innovation analyzes the willingness of educators to create or adopt new computer science education, the effectiveness of real-time collaboration tools on CS education outcomes, and measures student awareness and feelings about computer science and engineering disciplines. This technology innovation promotes customer participation and a unique ability to provide support at the ground level in real-time. There are solutions that provide massive online CS courses and curricula; however, none targeting K-12 classrooms or educators which support and integrate cross-curricular computer science, engineering, and cybersecurity education. Offering cloud-based, synchronous technology tools this technology enables real-time, expert mentoring and pair-programming in a K12 virtual learning environment on a massive scale.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 407 Riverview Lane
+  awardeeCity: Melbourne Beach
+  awardeeCountryCode: US
+  awardeeName: Codecraft Works, LLC
+  awardeeStateCode: FL
+  awardeeZipCode: '329512716'
+  fundsObligatedAmt: '741395'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1831060'
+  piEmail: rthawal@codecraftworks.com
+  piFirstName: Rahul
+  piLastName: Thawal
+  piPhone: '3214195725'
+  poName: Rajesh Mehta
+  date: 09/17/2018
+  startDate: 09/15/2018
+  expDate: 08/31/2020
+  title: 'SBIR Phase II:  A Co-creation, Cross-curricular, Standard Aligned Computer
+    Science, Engineering, and Cybersecurity Education Technology Platform'
 - abstractText: |-
     The broader impact/commercial potential of this project is to increase overall crop health and production with the proposed smartphone compatible crop health sensor. More specifically, crop disease remains a significant threat to global food security, and with the ability to perform pre-visual screening, the proposed platform enables cost efficient, quantitative detection of crop disease, empowering farmers to take action to reduce disease impact. Initially the sensor platform provides a timely solution for cost effective, high throughput, and pre-visual screening of citrus Huanglongbing disease (HLB), enabling citrus growers to effectively manage HLB in their groves and remain profitable. The pre-visual, cost efficient and quantitative detection capability also translates to detection of diseases in other crops. In addition, the sensing technology developed can be used for quantitative assessment of crop nutrient and water stress, enabling farmers to optimally manage crop health, providing a means to optimize profits, increase crop yields, and reduce environmental impacts. This is critical to ensuring national and global food security, and protecting national water supplies by reducing eutrophication of water bodies due to misdiagnosis and mistreatment of crop stressors.
 
@@ -9576,6 +9576,31 @@
   title: 'SBIR Phase II:  Diamagnetically Directed Self-Assembly of Light Emitting
     Diodes for Fabricating Large Area, Direct View Displays'
 - abstractText: |-
+    This SBIR Phase II Project aims to tackle the two greatest barriers to technology adoption associated with metal additive manufacturing (AM) - cost and quantities. Current metal AM platforms use expensive core components and consumable materials in high-priced machines that produce 99.9% dense parts. The proposed project calls into question the performance requirements that most American manufacturers have for industrial grade stainless steel parts. While these manufacturers require high performance, they cannot currently afford to take advantage of AM benefits due to the high capital expenditure, maintenance, and operating costs associated with current commercial technologies. This proposal re-examines the material performance, machine cost and reliability requirements necessary for a novel metal AM system to satisfy most American manufacturers' needs. In developing a low-cost AM alternative, the goal of the proposal is to allow an estimated over 50,000 American manufacturers to capitalize on the benefits of AM and simultaneously compete in an ultra-competitive, highly globalized manufacturing industry. In addition, procurement for low to medium volume order quantities (1000 - 20,000 pieces) is incredibly challenging with respect to high cost and long lead times. The proposed invention of a low-cost machine allows for never seen scalability in metal AM, allowing for smaller manufacturers to scale by taking advantage of meaningful order quantities and compete with the resources of large conglomerates. This research has broad implications in many industries and could be fundamentally enabling for the growth and prosperity of American manufacturing.
+
+
+    The proposed project re-examines the need for high technology, high cost core components in currently available commercial metallic AM machines. Through an innovative deconstruction of the inkjet print head-based, binder jetting process, a method for producing metal end-use parts has been created. The 3DEO process is based on a novel combination of two low-tech and low cost, established technologies. The creation of a robust prototype with this novel method is a highly challenging, multi-faceted project involving key advances in materials science trough the development of a novel binder system compatible with the new process as well as a fundamental evaluation and improvement of material properties of the as-built parts. In addition, completely re-designed sintering cycles and a lengthy evaluation of shrinkage characteristics will be core challenges to overcome to achieve the tight tolerances manufacturing partners require. As such, these challenges will require tight cross-disciplinary collaboration for a meaningful outcome. The goal of the proposed research is to fabricate powder metallurgy parts of adequate structural integrity to satisfy industrial end-use requirements.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 14000 Van Ness Ave Ste C
+  awardeeCity: Gardena
+  awardeeCountryCode: US
+  awardeeName: 3DEO, Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '902492942'
+  fundsObligatedAmt: '899999'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1757478'
+  piEmail: matt.petros@3deo.co
+  piFirstName: Matthew
+  piLastName: Petros
+  piPhone: '8188352354'
+  poName: Linda Molnar
+  date: 03/05/2018
+  startDate: 03/01/2018
+  expDate: 02/29/2020
+  title: 'SBIR Phase II:  An Affordable Metal Additive Manufacturing Machine'
+- abstractText: |-
     This SBIR Phase II project will create an industrial process for bonding ceramics to metals at the molecular level. Attempts thus far have not been successful in creating robust bonds due to incongruities of the materials being bonded. The objective of this project is to develop a sophisticated, computer controlled, automated bonding machine that will rapidly and safely impact-bond net-shaped ceramic carbides to tool steel in configurations that were previously not available. An automated bonding machine will allow for a cost-effective way to rapidly produce high quality near-net or net-shaped parts. It is expected that as this simple method is popularized, new opportunities for design configurations will be realized in multiple industries; as single parts can take advantage of the properties multiple material, such as the strength and wear resistance of ceramics, with the properties of another, such as the light weight properties of aluminum. Engineers may incorporate cheaper, lighter, stronger, and multipurpose material parts into new product designs. For instance, many new ceramic and metal bonded parts may be fabricated for the automotive, aerospace, chemical, defense, excavation, and nuclear industries. This project will ultimately result in the creation of U.S. manufacturing, sales, and engineering jobs as the mass production of ceramic and metal bonded parts become commercially available.
 
 
@@ -9602,31 +9627,6 @@
   expDate: 08/31/2020
   title: 'SBIR Phase II:  Impact Bonding of Near Net-Shaped Ceramics to Metals Driven
     by Hydrogen Produced from Rapid Oxidation of Aluminum'
-- abstractText: |-
-    This SBIR Phase II Project aims to tackle the two greatest barriers to technology adoption associated with metal additive manufacturing (AM) - cost and quantities. Current metal AM platforms use expensive core components and consumable materials in high-priced machines that produce 99.9% dense parts. The proposed project calls into question the performance requirements that most American manufacturers have for industrial grade stainless steel parts. While these manufacturers require high performance, they cannot currently afford to take advantage of AM benefits due to the high capital expenditure, maintenance, and operating costs associated with current commercial technologies. This proposal re-examines the material performance, machine cost and reliability requirements necessary for a novel metal AM system to satisfy most American manufacturers' needs. In developing a low-cost AM alternative, the goal of the proposal is to allow an estimated over 50,000 American manufacturers to capitalize on the benefits of AM and simultaneously compete in an ultra-competitive, highly globalized manufacturing industry. In addition, procurement for low to medium volume order quantities (1000 - 20,000 pieces) is incredibly challenging with respect to high cost and long lead times. The proposed invention of a low-cost machine allows for never seen scalability in metal AM, allowing for smaller manufacturers to scale by taking advantage of meaningful order quantities and compete with the resources of large conglomerates. This research has broad implications in many industries and could be fundamentally enabling for the growth and prosperity of American manufacturing.
-
-
-    The proposed project re-examines the need for high technology, high cost core components in currently available commercial metallic AM machines. Through an innovative deconstruction of the inkjet print head-based, binder jetting process, a method for producing metal end-use parts has been created. The 3DEO process is based on a novel combination of two low-tech and low cost, established technologies. The creation of a robust prototype with this novel method is a highly challenging, multi-faceted project involving key advances in materials science trough the development of a novel binder system compatible with the new process as well as a fundamental evaluation and improvement of material properties of the as-built parts. In addition, completely re-designed sintering cycles and a lengthy evaluation of shrinkage characteristics will be core challenges to overcome to achieve the tight tolerances manufacturing partners require. As such, these challenges will require tight cross-disciplinary collaboration for a meaningful outcome. The goal of the proposed research is to fabricate powder metallurgy parts of adequate structural integrity to satisfy industrial end-use requirements.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 14000 Van Ness Ave Ste C
-  awardeeCity: Gardena
-  awardeeCountryCode: US
-  awardeeName: 3DEO, Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '902492942'
-  fundsObligatedAmt: '899999'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1757478'
-  piEmail: matt.petros@3deo.co
-  piFirstName: Matthew
-  piLastName: Petros
-  piPhone: '8188352354'
-  poName: Linda Molnar
-  date: 03/05/2018
-  startDate: 03/01/2018
-  expDate: 02/29/2020
-  title: 'SBIR Phase II:  An Affordable Metal Additive Manufacturing Machine'
 - abstractText: |-
     This SBIR Phase II effort will create transformative open tools to enable affordable access at scale to high quality assessments (problems & questions) for foundational subjects in secondary and post-secondary education. The explosion of online student audiences, rapid growth of Open Educational Resources (OER), and the need to support individual learners are creating an unprecedented demand for digital assessments. Assessment authoring tools today are controlled by large organizations, require advanced skills and proprietary assessment delivery platforms with restrictive collaboration features. This inequity is particularly pronounced with respect to technology-enabled assessments (TEAs) which are sophisticated, digital assessments that enable deeper learning. This effort will democratize the process of authoring and sharing TEAs through the creation of intuitive end user tools that will enable educators without advanced technical skills to author and share TEAs. This has the potential to disrupt the status quo by empowering educators to take charge of the assessment creation and distribution landscape with ground-breaking tools that enable easy authoring and distribution of sophisticated TEAs without being restricted by a proprietary assessment system. Eventually, this will empower educators at scale by triggering the evolution of a peer-to-peer marketplace around the need for assessments, and impact hundreds of thousands of learners in secondary and tertiary education settings.
 
@@ -10958,7 +10958,7 @@
   awardeeName: Bascom Hunter Technologies
   awardeeStateCode: LA
   awardeeZipCode: '708064549'
-  fundsObligatedAmt: '881106'
+  fundsObligatedAmt: '889106'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1632136'
   piEmail: lala@bascomhunter.com
@@ -11295,7 +11295,7 @@
   awardeeName: Cognitive Robotics
   awardeeStateCode: CO
   awardeeZipCode: '804031103'
-  fundsObligatedAmt: '1410690'
+  fundsObligatedAmt: '1426690'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1556058'
   piEmail: mhorowit@caltech.edu

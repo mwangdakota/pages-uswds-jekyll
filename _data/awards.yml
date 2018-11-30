@@ -145,29 +145,6 @@
   title: 'SBIR Phase I:  Intensification of propylene oxide manufacture via solid-catalyst
     design'
 - abstractText: |-
-    The broader impact/commercial potential of this project is the rapid, cost-effective detection of natural gas leakage to improve public safety, mitigate global climate change, and decrease product loss.  Natural gas is the largest provider of power in the United States.  However, more than 80 Tg of leakage occurs at well pads and pipelines during production alone.  Such leakage poses a public health risk, with 1300 significant incidents reported from 1997 ? 2016, resulting in 50 fatalities, 180 injuries, and $2B in costs. Additionally, methane is a greenhouse gas with a warming potential that is 84 times higher than CO2.  In 2015, natural gas leakage accounted for 198 million tons of CO2 equivalents, corresponding to a carbon tax value of more than $2B.  Finally, energy companies want to reduce leakage to avoid product loss, with 80 Tg of methane having a value of $12B.  This project will directly impact the aforementioned areas by improving the efficiencies and costs associated with natural gas leak detection.  With over 2.2 million miles of local utility gas distribution pipelines 1.2 million well pads in the U.S. alone, the commercial prospects for an improved natural gas leak detection system are very promising with expected revenues exceeding $70M.
-
-    This Small Business Technology Transfer (STTR) Phase I project will involve the development of a comprehensive natural gas leakage detection solution that integrates compact, low-cost sensors with state-of-the-art analytics.  The solution, which can be used in drone-based and handheld monitoring, will enable energy providers to detect natural gas leakage from well pads and pipelines.  In Phase I, technical feasibility will be demonstrated by the development of a lightweight gas sensor based on incoherent, cavity-enhanced spectrometry and a natural gas camera based on filtered infrared imaging. These sensors will be integrated with global positioning system, wind speed/direction, and data analytics platform.  The Phase I solution will be laboratory tested to characterize its analytical performance, before undergoing field testing on controlled natural gas leaks.  In Phase II, the sensor hardware, electronics, and firmware will be refined to meet the stringent size, weight, power, and environmental constraints of drone-based and handheld deployment.  Likewise, the analytics platform will be refined to incorporate the STTR sensors, interpret the infrared camera data, and provide comprehensive leak detection reports.  The Phase II prototypes will be field tested under real-world conditions with a variety of potential customers for both well pad monitoring and pipeline distribution system monitoring.
-  awardeeAddress: 1931 Old Middlefield Road
-  awardeeCity: Mountain View
-  awardeeCountryCode: US
-  awardeeName: Nikira Labs Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '940432578'
-  fundsObligatedAmt: '224348'
-  fundProgramName: STTR PHASE I
-  id: '1745840'
-  piEmail: manish.gupta@nikiralabs.com
-  piFirstName: Manish
-  piLastName: Gupta
-  piPhone: '6509060274'
-  poName: Anna Brady-Estevez
-  date: 12/23/2017
-  startDate: 01/01/2018
-  expDate: 06/30/2019
-  title: 'STTR Phase I:  Development and Validation of Low-Cost Natural Gas Leak Detection
-    Sensors and Analytics for Drone-Based and Handheld Deployments'
-- abstractText: |-
     This SBIR Phase I project will explore the potential benefits of a sine wave shaped wheel compared to a traditional circular wheel for the central pivot irrigation industry. The central pivot irrigation industry is an essential segment of the agriculture industry and this project aims to deliver a superior wheel that solves the persistent issue of trench-digging that leads to equipment breakdown, down time, lost profits, and crop-loss. The broader significance of eliminating trench-digging would be significant savings for farmers, distributors and consumers. Agriculture is the largest industry in the world, and developing a wheel that eliminates an issue that plagues the industry is the central goal of this project. The development of a sine wave wheel also potentially impact other fields as the technology can be used in over one-hundred different industries.
 
 
@@ -190,6 +167,29 @@
   startDate: 01/01/2018
   expDate: 12/31/2018
   title: 'SBIR Phase I:  The Reinvention of the Wheel. For Agricultural Uses and Beyond.'
+- abstractText: |-
+    The broader impact/commercial potential of this project is the rapid, cost-effective detection of natural gas leakage to improve public safety, mitigate global climate change, and decrease product loss.  Natural gas is the largest provider of power in the United States.  However, more than 80 Tg of leakage occurs at well pads and pipelines during production alone.  Such leakage poses a public health risk, with 1300 significant incidents reported from 1997 ? 2016, resulting in 50 fatalities, 180 injuries, and $2B in costs. Additionally, methane is a greenhouse gas with a warming potential that is 84 times higher than CO2.  In 2015, natural gas leakage accounted for 198 million tons of CO2 equivalents, corresponding to a carbon tax value of more than $2B.  Finally, energy companies want to reduce leakage to avoid product loss, with 80 Tg of methane having a value of $12B.  This project will directly impact the aforementioned areas by improving the efficiencies and costs associated with natural gas leak detection.  With over 2.2 million miles of local utility gas distribution pipelines 1.2 million well pads in the U.S. alone, the commercial prospects for an improved natural gas leak detection system are very promising with expected revenues exceeding $70M.
+
+    This Small Business Technology Transfer (STTR) Phase I project will involve the development of a comprehensive natural gas leakage detection solution that integrates compact, low-cost sensors with state-of-the-art analytics.  The solution, which can be used in drone-based and handheld monitoring, will enable energy providers to detect natural gas leakage from well pads and pipelines.  In Phase I, technical feasibility will be demonstrated by the development of a lightweight gas sensor based on incoherent, cavity-enhanced spectrometry and a natural gas camera based on filtered infrared imaging. These sensors will be integrated with global positioning system, wind speed/direction, and data analytics platform.  The Phase I solution will be laboratory tested to characterize its analytical performance, before undergoing field testing on controlled natural gas leaks.  In Phase II, the sensor hardware, electronics, and firmware will be refined to meet the stringent size, weight, power, and environmental constraints of drone-based and handheld deployment.  Likewise, the analytics platform will be refined to incorporate the STTR sensors, interpret the infrared camera data, and provide comprehensive leak detection reports.  The Phase II prototypes will be field tested under real-world conditions with a variety of potential customers for both well pad monitoring and pipeline distribution system monitoring.
+  awardeeAddress: 1931 Old Middlefield Road
+  awardeeCity: Mountain View
+  awardeeCountryCode: US
+  awardeeName: Nikira Labs Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '940432578'
+  fundsObligatedAmt: '224348'
+  fundProgramName: STTR PHASE I
+  id: '1745840'
+  piEmail: manish.gupta@nikiralabs.com
+  piFirstName: Manish
+  piLastName: Gupta
+  piPhone: '6509060274'
+  poName: Anna Brady-Estevez
+  date: 12/23/2017
+  startDate: 01/01/2018
+  expDate: 06/30/2019
+  title: 'STTR Phase I:  Development and Validation of Low-Cost Natural Gas Leak Detection
+    Sensors and Analytics for Drone-Based and Handheld Deployments'
 - abstractText: "This STTR Phase I project will support the development of a powerful
     new track-and-trace platform in the global fight against counterfeit products
     in high-risk supply chains. From pharmaceuticals to aviation to defense, many
@@ -286,6 +286,45 @@
   expDate: 11/30/2018
   title: 'STTR Phase I:  Microfluidic quartz resonator based blood plasma coagulation
     monitors'
+- abstractText: "This Small Business Innovation Research Phase I project will research
+    and develop a universal carbon detector for liquid chromatography using flame
+    ionization detection. The commercialization of this innovation is a product that
+    will allow scientists to measure compounds with greater ease and accuracy, and
+    drastically simplify the number and types of detectors required in liquid chromatography.
+    The broader impacts of this product include faster drug and product development,
+    more accurate purity analysis, better environmental sampling and more efficient
+    research in many market sectors where liquid chromatography is used. The proposed
+    activity will result in a product that competes in the $500M UV detector market,
+    offering universal carbon detection without the need for a chromophore and linear
+    detector response. \n\nThe intellectual merit of this project is the development
+    of a low-cost, universal detector that is capable of responding to nearly all
+    organic molecules with high sensitivity and linearity. Previous attempts to utilize
+    the flame ionization detector have failed because of the lack of technologies
+    necessary for the complete vaporization of analytes and removal of organic solvents.
+    We have identified an oxidation-reduction microreactor that converts all organic
+    molecules to methane vapors. We anticipate the proposed detector will have a sensitivity
+    on-par with flame ionization detectors in gas chromatography. The technology would
+    bring unparalleled molecular quantification to a wide variety of industries including
+    pharmaceuticals, biofuels, environmental testing, chemicals and foods."
+  awardeeAddress: 7561 Corporate Way
+  awardeeCity: Eden Prairie
+  awardeeCountryCode: US
+  awardeeName: Activated Research Company
+  awardeeStateCode: MN
+  awardeeZipCode: '553442022'
+  fundsObligatedAmt: '224995'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1721397'
+  piEmail: andrew.jones@activatedresearch.com
+  piFirstName: Andrew
+  piLastName: Jones
+  piPhone: '6127872721'
+  poName: Ben Schrag
+  date: 06/30/2017
+  startDate: 07/01/2017
+  expDate: 01/31/2019
+  title: 'SBIR Phase I:  A universal carbon detector for liquid phase chemical detection
+    of organic molecules'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project will be functional neuronal cells derived from human adult adipocytes that will have applications in regenerative medicine.  The goal is to develop dopaminergic (DA) neural progenitor cells (NPCs) from transdifferentiated human adult adipocytes using a DA cell induction cocktail.  This will have application in cellular therapeutics and research tools for Parkinson's Disease (PD), and other neuronal diseases. In addition, these studies will impact the field of stem cell research and regenerative medicine, since this will be the first demonstration that functional neuronal cells, the main building blocks of brain, spinal cord, and peripheral nervous systems, can be produced from mature fat cells that can be used as cellular therapeutics for several neurological disorders.
 
@@ -337,45 +376,6 @@
   expDate: 03/31/2019
   title: 'SBIR Phase I: Hydrothermal Growth Strontium Beryllium Borate (SBBO) for
     deep UV Nonlinear Optical Applications.'
-- abstractText: "This Small Business Innovation Research Phase I project will research
-    and develop a universal carbon detector for liquid chromatography using flame
-    ionization detection. The commercialization of this innovation is a product that
-    will allow scientists to measure compounds with greater ease and accuracy, and
-    drastically simplify the number and types of detectors required in liquid chromatography.
-    The broader impacts of this product include faster drug and product development,
-    more accurate purity analysis, better environmental sampling and more efficient
-    research in many market sectors where liquid chromatography is used. The proposed
-    activity will result in a product that competes in the $500M UV detector market,
-    offering universal carbon detection without the need for a chromophore and linear
-    detector response. \n\nThe intellectual merit of this project is the development
-    of a low-cost, universal detector that is capable of responding to nearly all
-    organic molecules with high sensitivity and linearity. Previous attempts to utilize
-    the flame ionization detector have failed because of the lack of technologies
-    necessary for the complete vaporization of analytes and removal of organic solvents.
-    We have identified an oxidation-reduction microreactor that converts all organic
-    molecules to methane vapors. We anticipate the proposed detector will have a sensitivity
-    on-par with flame ionization detectors in gas chromatography. The technology would
-    bring unparalleled molecular quantification to a wide variety of industries including
-    pharmaceuticals, biofuels, environmental testing, chemicals and foods."
-  awardeeAddress: 7561 Corporate Way
-  awardeeCity: Eden Prairie
-  awardeeCountryCode: US
-  awardeeName: Activated Research Company
-  awardeeStateCode: MN
-  awardeeZipCode: '553442022'
-  fundsObligatedAmt: '224995'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1721397'
-  piEmail: andrew.jones@activatedresearch.com
-  piFirstName: Andrew
-  piLastName: Jones
-  piPhone: '6127872721'
-  poName: Ben Schrag
-  date: 06/30/2017
-  startDate: 07/01/2017
-  expDate: 01/31/2019
-  title: 'SBIR Phase I:  A universal carbon detector for liquid phase chemical detection
-    of organic molecules'
 - abstractText: "The broader impact/commercial potential of this STTR Phase I project
     is to develop a new water flood technology to increase oil recovery.  The best
     current technology is limited to 30 - 50% recovery leaving significant resources
@@ -925,7 +925,7 @@
   poName: Rajesh Mehta
   date: 12/21/2017
   startDate: 01/01/2018
-  expDate: 12/31/2018
+  expDate: 01/31/2019
   title: 'STTR Phase I:  Developing a Technological Intervention to Improve Adolescent
     Executive Functioning'
 - abstractText: |-
@@ -2294,6 +2294,30 @@
   startDate: 06/01/2018
   expDate: 05/31/2019
   title: 'SBIR Phase I: A bacterial intracellular delivery platform for liver cancer'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is the ability to address secure communications with virtually no overhead at reasonable cost.  The asynchronous engine developed in this program will enable robust encryption and decryption while offering improvements in power efficiency, data throughput and security.  According to SDM, the market for encryption and decryption technology could be as high as $38.5 billion by 2020.  Additionally, there is a recognized need for encryption and authentication of power and chemical/process plants in the U.S., currently dangerously underserved.  The initial market is estimated to be $270M and the serviceable addressable market is $2.7B.  This program's primary focus will be on the asynchronous engine for the industrial and data center industries with a total market of $27B.  In addition, the proposed technology will be flexible enough to be incorporated into encryption-decryption products in many other industries.  These include consumer goods and services, such as mobile communications devices, entertainment and transportation (vehicles, airplanes).
+
+    This Small Business Innovation Research (SBIR) Phase I project will address the need for cyber security for Internet-of-Things (loT) systems using an innovative approach: an asynchronous engine using chaotic functions to generate an infinite length key for encryption and decryption.   During the past few decades, information has emerged as the most valuable asset for both individuals and corporations.  Cyber-attacks no longer exclusively target military or large enterprises; everyone from private citizens to businesses to governments requires secure communications.  The methods of encryption rely on digital schemes to encrypt and decrypt messages using general-purpose CPUs and software; which means that loT devices impend hacking of information, system function, corporate profits, and national security.  Our unique approach will include a discrete-logic program with reconfigurable chaotic oscillators loaded into a field programmable gate array (FPGA).  This hybrid system will be tested with different loT devices and network configurations.  The long-term goal of the hybrid encryption-decryption engine is to build a hardware encryption device to secure peer-to-peer communication.  The innovative solution will allow the attached device to execute much faster than current solutions of similar complexity while reducing or eliminating overhead, and allowing one-time pad encryption.
+  awardeeAddress: 15213 Falconhead Grove Loop
+  awardeeCity: Austin
+  awardeeCountryCode: US
+  awardeeName: Tamosi, LLC
+  awardeeStateCode: TX
+  awardeeZipCode: '787386882'
+  fundsObligatedAmt: '221880'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1747207'
+  piEmail: juan.rincon@tamosi.com
+  piFirstName: Juan
+  piLastName: Rincon
+  piMiddeInitial: S
+  piPhone: '5129929163'
+  poName: Peter Atherton
+  date: 01/05/2018
+  startDate: 01/01/2018
+  expDate: 01/31/2019
+  title: 'SBIR Phase I:  Secure eXtreme Communication : Hybrid Co-Processor Device
+    for IoT Secure Communication'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research (SBIR) Phase I project, if successful, will be the implementation of
     an effective point-of-care (POC) test that will not only impact the lives of patients,
@@ -2658,6 +2682,31 @@
   title: 'SBIR Phase I:  Prototyping a Laboratory Kit to Assist Undergraduate Instructors
     in Teaching Self-Assembly'
 - abstractText: |-
+    This STTR Phase I project will remove the most critical roadblock to making long-lasting batteries from safe and economical zinc and air. Zinc is plentiful in the U.S. and zinc-air batteries have the potential to hold more than five times the energy of current lithium-ion batteries, but a key challenge for making rechargeable zinc-air batteries is that the zinc inside the battery naturally forms sharp needles called dendrites during recharging. Over time these dendrites can grow large enough to damage the inner workings of the battery, reducing efficiency and lifetime. This project will borrow principles from an adjacent field, the electroplating industry, to create new organic chemicals that will seek out and stop dendrite growth within the battery during recharging. Chemical additives have a long history in electroplating for controlling the shape of metal surfaces, and the same principles can apply to additives designed here to control zinc growth during battery recharging. This new technology will make zinc-air batteries cheaper and longer-lasting to eventually replace existing battery technologies, enabling longer-distance electric vehicles, reducing equipment weight for soldiers, contributing a valuable technology to the economy, and helping to maintain the role of the U.S. as a leader in energy storage technology.
+
+
+
+    This STTR Phase I project will identify the critical chemistry necessary to elegantly and economically suppress zinc dendrite formation, alleviating one of the most significant challenges complicating the full commercial emergence of Zn-Air battery technology. Eschewing the established tactic of applying existing chemicals from the catalog, this project will take inspiration from the PI?s experience designing additives for similar environments in the electroplating industry to introduce novel proprietary organic chemistry addressing the dendrite bottleneck directly. The key technical challenge will be to optimize the molecular features to simultaneously provide efficient dendrite suppression and low voltage loss. A broad series of molecules will be created to combine strong interactions with zinc, modest polarization, low cost and straightforward scalability. Evaluating and iterating upon these candidates in bench-scale electrochemical analyses and performance tests in coin and pouch cell batteries will yield a dendrite-suppressing product to bring significant value to Zn-Air technology and other Zn-based battery markets. At its successful conclusion, this project will not only produce products for these markets, but it will also provide molecular design principles useful for the development of other metal-based battery additives, and promote the merits of novel additive development for the broader battery industry.
+  awardeeAddress: 4 Foxwood Ln
+  awardeeCity: Pepper Pike
+  awardeeCountryCode: US
+  awardeeName: Octet Scientific, LLC
+  awardeeStateCode: OH
+  awardeeZipCode: '441245249'
+  fundsObligatedAmt: '225000'
+  fundProgramName: STTR PHASE I
+  id: '1746210'
+  piEmail: onas.bolton@octetsci.com
+  piFirstName: Onas
+  piLastName: Bolton
+  piMiddeInitial: J
+  piPhone: '3136102718'
+  poName: Linda Molnar
+  date: 12/23/2017
+  startDate: 01/01/2018
+  expDate: 02/28/2019
+  title: 'STTR Phase I:  Organic Additives to Improve Performance in Zinc-Air Batteries'
+- abstractText: |-
     This Small Business Technology Transfer Phase I Project will develop a metal-free route to the production of high performance plastics and composites. Specifically, this project focuses on a unique class of materials based upon a thermoset that displays high strength-to-weight ratio and exceptional fracture toughness. A challenge to broader adoption of these materials stems from the current reliance on metal-based reagents and catalysts for their production. The metals impose a significant recurring cost of production, show sensitivity to air, and remain as contaminants in the final products. This innovation provides the first metal-free access to such materials. Additionally, the unique metal-free catalyst system is capable of producing resin and polymer feedstocks that are not available from metal-based reagents, and may offer advantages in processing and performance. The projected commercial impacts of the innovation will be enhanced material performance, lower cost products, and broadened (new) fields of use. The existing market is estimated to be $578M with 4.9% annual growth through 2023.
 
     The intellectual merit of this project is the invention and development of the first metal-free route to olefin metathesis polymers and oligomers. Prior art has demonstrated on small scale the ability to use a unique organocatalyst to produce polymer and resin feedstocks that are easily processable into high performance thermosets and composites. The organocatalyst approach is a divergence from all previous methods of producing materials via olefin metathesis and therefore warrants validation and optimization toward commercial scale-up. The Phase I research aims will include (1) scale-up through the design and implementation of flow reactor technologies, (2) mechanical analyses and product specification sheets for thermoset prototypes, and (3) evaluation of new resins and polymers for use in fiber reinforced composite materials.  The results should be useful commercially and academically.
@@ -2727,31 +2776,6 @@
   expDate: 12/31/2018
   title: 'SBIR Phase I:  Development of a Smart Health Management System for Respiratory
     Patients'
-- abstractText: |-
-    This STTR Phase I project will remove the most critical roadblock to making long-lasting batteries from safe and economical zinc and air. Zinc is plentiful in the U.S. and zinc-air batteries have the potential to hold more than five times the energy of current lithium-ion batteries, but a key challenge for making rechargeable zinc-air batteries is that the zinc inside the battery naturally forms sharp needles called dendrites during recharging. Over time these dendrites can grow large enough to damage the inner workings of the battery, reducing efficiency and lifetime. This project will borrow principles from an adjacent field, the electroplating industry, to create new organic chemicals that will seek out and stop dendrite growth within the battery during recharging. Chemical additives have a long history in electroplating for controlling the shape of metal surfaces, and the same principles can apply to additives designed here to control zinc growth during battery recharging. This new technology will make zinc-air batteries cheaper and longer-lasting to eventually replace existing battery technologies, enabling longer-distance electric vehicles, reducing equipment weight for soldiers, contributing a valuable technology to the economy, and helping to maintain the role of the U.S. as a leader in energy storage technology.
-
-
-
-    This STTR Phase I project will identify the critical chemistry necessary to elegantly and economically suppress zinc dendrite formation, alleviating one of the most significant challenges complicating the full commercial emergence of Zn-Air battery technology. Eschewing the established tactic of applying existing chemicals from the catalog, this project will take inspiration from the PI?s experience designing additives for similar environments in the electroplating industry to introduce novel proprietary organic chemistry addressing the dendrite bottleneck directly. The key technical challenge will be to optimize the molecular features to simultaneously provide efficient dendrite suppression and low voltage loss. A broad series of molecules will be created to combine strong interactions with zinc, modest polarization, low cost and straightforward scalability. Evaluating and iterating upon these candidates in bench-scale electrochemical analyses and performance tests in coin and pouch cell batteries will yield a dendrite-suppressing product to bring significant value to Zn-Air technology and other Zn-based battery markets. At its successful conclusion, this project will not only produce products for these markets, but it will also provide molecular design principles useful for the development of other metal-based battery additives, and promote the merits of novel additive development for the broader battery industry.
-  awardeeAddress: 4 Foxwood Ln
-  awardeeCity: Pepper Pike
-  awardeeCountryCode: US
-  awardeeName: Octet Scientific, LLC
-  awardeeStateCode: OH
-  awardeeZipCode: '441245249'
-  fundsObligatedAmt: '225000'
-  fundProgramName: STTR PHASE I
-  id: '1746210'
-  piEmail: onas.bolton@octetsci.com
-  piFirstName: Onas
-  piLastName: Bolton
-  piMiddeInitial: J
-  piPhone: '3136102718'
-  poName: Linda Molnar
-  date: 12/23/2017
-  startDate: 01/01/2018
-  expDate: 12/31/2018
-  title: 'STTR Phase I:  Organic Additives to Improve Performance in Zinc-Air Batteries'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research (SBIR) project is the development a scalable, automated, genetic transformation
     platform that is 10,000X faster than the current state-of-the-art.  The fields
@@ -2848,12 +2872,12 @@
     This SBIR Phase I project will develop a new approach for Additive Manufacturing (AM) of objects made from ceramics, metals, and polymers. Developed a generation ago, AM had the potential to transform the design and manufacture of products. However, legacy AM approaches have failed primarily because of the high cost of inputs, and because output lacks precision, quality and durability. Our proposed approach has broad industry potential. The broader societal impact is to change the entire competitive stance of US manufacturing by revolutionizing industrial design and enhancing local manufacturing. This project has the potential to advance science and the prosperity of US manufacturing industries. Its commercial impact may span industries from product design to aerospace, space, defense, and human health.
 
     This SBIR Phase I project will demonstrate the integrated production of objects made from ceramics, metals, and polymers additively at room temperature from stock inputs such as rods and discs. Over 95% of metallic AM output today uses metallic powders as inputs. These inputs are costly, explosive, and harmful to human health if ingested. Furthermore, current AM output suffers from imprecision, poor quality, inconsistency, and lack of durability. Additionally, legacy Metallic AM platforms are large, expensive, operate at high temperatures, and are isolated from the engineers who rely on them. The key objectives of this project are (1) to demonstrate the feasibility of a room-temperature fabrication approach and (2) to achieve several crucial milestones involving the precision of location, thickness, strength, uniformity and reliability of AM output.
-  awardeeAddress: 72 E. Shrewsbury Pl
-  awardeeCity: Princeton
+  awardeeAddress: 900 Grand Ave, Suite A
+  awardeeCity: New Haven
   awardeeCountryCode: US
   awardeeName: Obsidian Advanced Manufacturing LLC
-  awardeeStateCode: NJ
-  awardeeZipCode: 085496315
+  awardeeStateCode: CT
+  awardeeZipCode: 065114973
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
   id: '1745845'
@@ -2864,7 +2888,7 @@
   poName: Linda Molnar
   date: 12/19/2017
   startDate: 01/01/2018
-  expDate: 12/31/2018
+  expDate: 03/31/2019
   title: 'SBIR Phase I:  Integrated  Additive Manufacturing'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project will be the development of a fermentation-based technology that enables the renewable and sustainable production of medium-chain fatty acids - an important class of widely used industrial chemicals - using glycerol-rich waste streams as feedstocks. These chemical products constitute a growing multi-billion dollar market with applications in the flavoring, fragrances, personal care, plastics, textile, and pharmaceutical industries. This technology also will create new high-value uses for existing glycerol-rich waste streams generated within the bio-diesel industry, which can greatly improve the economic competitiveness of bio-diesel with fossil diesel, especially in an era of low oil prices. Thus, commercialization of this fermentation-based technology will serve as a foundation for developing additional eco-friendly technologies for the production of other industrial chemicals that contribute to the ~$800 billion/year petrochemical industry, in turn creating new jobs for helping the environment, benefiting society, and building a sustainable future. In addition, this SBIR project will establish a carbon conservation technology as the basis for developing the next-generation of fermentation-based chemical production technologies.
@@ -4248,84 +4272,6 @@
   title: 'STTR Phase I:  Implementation of a Biometric Data Software Platform to Augment
     Mental Health Treatment'
 - abstractText: |-
-    This SBIR Phase I project will develop an extended depth imaging variation of optical coherence tomography (OCT). OCT is an optical imaging method that can visualize tissue structures up to 1mm deep with microscopic resolution. It has been well adapted for retinal imaging but although available for skin imaging application, the performance and price point are not sufficient to encourage market adoption. Building on NSF supported research at Duke University, this project will extend the depth range of OCT from the current 1-2 mm, which is only the most superficial layer of skin, to 3-4 mm, enabling full imaging of skin layers down to the dermal junction. This will enable dermatologists to access OCT without a large financial outlay and provide a non-invasive imaging modality in the office setting.
-
-    Extended depth imaging is also applicable to dental imaging and may allow dentists to reduce the need for X-ray imaging by providing cross sectional images of teeth and gums. Since these OCT instruments are highly portable, the deep imaging system can be widely used, across lab benches, in the field or shared throughout a medical office. This project will support the development of new products and the teams that design and build them. Extended depth imaging OCT uses a novel design to dramatically increase the depth penetration of OCT into skin, teeth and other samples. By using distinct illumination and collection apertures, extended depth (or dual axis) OCT can triangulate the signal to layers deep beneath the tissue surface. Compared to previous OCT systems, this increases the imaging depth by a factor of 2. This innovation will be combined with proprietary spectrometer design, which was developed to take advantage of 3D printing methods, to develop a disruptive new instrument for imaging with the performance and price necessary for commercial success in clinical dermatology and dentistry. This proposal will build a prototype system and test it on several types of animal tissue.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 1312 Dollar Ave
-  awardeeCity: Durham
-  awardeeCountryCode: US
-  awardeeName: Lumedica, Inc
-  awardeeStateCode: NC
-  awardeeZipCode: '277011120'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820008'
-  piEmail: william.brown@lumedicasystems.com
-  piFirstName: William
-  piLastName: Brown
-  piPhone: '9198861863'
-  poName: Henry Ahn
-  date: 07/09/2018
-  startDate: 07/01/2018
-  expDate: 12/31/2018
-  title: 'SBIR Phase I:  Extended depth imaging with OCT'
-- abstractText: "The broader impact/commercial potential of this Small Business Innovation
-    Research (SBIR) project entails alleviation of a human eye condition that has
-    obscured the scientific community for almost a century. Refractive eye error is
-    the most pervasive condition affecting the ocular health of the U.S. population,
-    across all ethnicities. Presbyopia, a widespread form of such refractive error,
-    affects 125 million Americans, and over 1.8 billion people worldwide today. It
-    is caused by reduction of focusing and re-focusing ability of the human eye lens
-    with natural aging. The symptoms range from blurred vision, haziness, and eye
-    strain to headaches, which are sometimes severe enough to affect the quality of
-    life and work ability of subjects. Since the early 1900s, presbyopia has been
-    traditionally treated with fixed power multi-focal and progressive eyeglasses
-    that do not solve the core problem of age-related loss of accommodative ability.
-    The principal goal of this SBIR work is development of key high performance tunable
-    Smart Eyeglasses with good stability and restoration algorithms that will help
-    restore this lost ability. This 21st century device, the world?s first smart auto-focus
-    eyewear, will offer personalized full field normal vision restoration to presbyopic
-    subjects and generate jobs and revenues worth billions of dollars. \n\nThis SBIR
-    Phase I project proposes to implement the feasibility of commercialization of
-    21st Century variable power smart eyeglasses that will restore the natural accommodation
-    of human eye that is lost to presbyopia due to aging. These adaptive glasses use
-    a combination of fluidic lenses with variable power, ultra-light actuators, distance
-    sensors, and embedded control electronics to continually produce full-field sharply
-    focused view for objects at variable distances. For this proposal, we focus on
-    the research and development of two important aspects of these devices which are
-    key to a successful commercialization. First, is improving the long-term stability
-    of the viscoelastic membranes of these adaptive glasses by using low drift materials
-    instead of PDMS, and secondly, incorporating a closed-loop feedback mechanism
-    using displacement sensors to account for the correction of drifts resulting from
-    the hysteresis and degradation of lens-driving piezo actuators. In the first task,
-    our goal is to achieve an optical power drift of less than 120 milli-Diopter/year,
-    and in the second task, achieve a drift less than 83 milli-Diopter/year. These
-    milestones will result in a lens with drift that is less than 0.25 Diopter over
-    its expected 3 year lifetime, critical for a commercial grade eyewear lens.\n\nThis
-    award reflects NSF's statutory mission and has been deemed worthy of support through
-    evaluation using the Foundation's intellectual merit and broader impacts review
-    criteria."
-  awardeeAddress: 352 S, Denver St.
-  awardeeCity: Salt Lake City
-  awardeeCountryCode: US
-  awardeeName: SharpEyes, LLC
-  awardeeStateCode: UT
-  awardeeZipCode: '841113000'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819427'
-  piEmail: tridib.ghosh@live.com
-  piFirstName: Tridib
-  piLastName: Ghosh
-  piPhone: '8014251565'
-  poName: Nancy Kamei
-  date: 07/02/2018
-  startDate: 07/01/2018
-  expDate: 12/31/2018
-  title: 'SBIR Phase I:  Tunable Lenses For Smart Eyeglasses with Low-Drift and Light-Weight'
-- abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project extends from years of research into the impact of Harmful Algal Blooms (HABs), and yet there is still no direct, field assay for toxic cells. The identification of HABs is critical to determine their patterns of occurrence, to protect water and food supplies, and to alert the general public when there is a problem. Harmful Algal Blooms are a world-wide fresh water, brackish water and marine phenomena that occur in every coastal and inland country and annually cause significant economic damage and take human lives. The detection of HABs and their toxins is currently completed by complex, expensive, and time consuming microscopic analyses that do not necessarily provide the critical and timely information that water quality mangers require. Raman spectroscopy provides a strong and distinct fingerprint of HAB cells and their toxins without the need for sample preparation, and can be used on-site at beaches, drinking water reservoirs, or within distributed networks of Raman sensors all communicating through the cloud to provide managers immediate and spatially distinct information on the presence and concentration of potentially toxic cells.
 
     This STTR Phase I project proposes to develop and market an in-situ 3D microscope with on-axis Raman spectroscopy to provide both morphological information and a chemical signature for identification of HAB cells to species, and in some cases specific strains, along with the presence and concentration of toxin on a per cell basis. The novel technical specifications include: 1) the use of Light Field (LF) microscopy to maximize the depth of field to allow for detection of low cell concentrations (< 1 cell/ mL). LF microscopy also provides a 3D image for more complete and accurate morphological assessment of cells and particulates, 2) Advanced software for color and texture feature extraction and classification of cells using Gabor wavelets and a novel color angle feature, which provide 100% classification accuracy in many cases, 3) the use of Resonance Micro-Raman Spectroscopy (RMRS) to collect spectral fingerprints on the inorganic and organic content of cells, particulates and dissolved compounds, and 4) the integration of these technologies into sensor packages as part of the IoT cloud computing thrust that is sure to gain traction over the next few years, and will provide regional protection of both large and small drinking water reservoirs, globally.
@@ -4820,6 +4766,31 @@
   expDate: 06/30/2019
   title: 'SBIR Phase I:   Online curriculum for creating purpose-driven Start-ups'
 - abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is the reuse of rubber compounds from spent tires in high performance products including new tires without significant loss in product performance. Only a very small portion of those tires are currently being ground up for this purpose because of the detrimental impact  on product properties. However, larger quantities could potentially be used if the ground rubber is treated by the process of our invention. This would have several benefits.  Manufacturers could reduce material cost, the rubber recycling industry would enjoy significant growth and unsightly tire dumps with associated pollution problems would disappear. Additionally, the tire industry will become more sustainable and other unacceptable uses of old tires currently practiced, such as their use as fuels in low cost operations, would be financially challenged as novel, more profitable uses that retain the integrity of the polymer matrix emerge.
+
+    This SBIR Phase I project proposes to build upon studies conducted by our company during the last few years. While it was widely known that recycled ground rubber will significantly reduce physical properties, limited information and understanding existed on the basic causes. Much hope was pinned by many companies and academic institutions on the potential merit of the ground up rubber but no significant commercial process previously emerged. This work aims to develop a recycling process which does not require a devulcanization step. This was first demonstrated with model sample geometries that simulate the environment which ground rubber particles experience when added to and being co-vulcanized with fresh rubber compounds.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 1212 Sunsetview
+  awardeeCity: Akron
+  awardeeCountryCode: US
+  awardeeName: Appia LLC
+  awardeeStateCode: OH
+  awardeeZipCode: '443137839'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1820122'
+  piEmail: gbohm@att.net
+  piFirstName: Georg
+  piLastName: Bohm
+  piPhone: '3302123661'
+  poName: Anna Brady-Estevez
+  date: 06/25/2018
+  startDate: 07/01/2018
+  expDate: 06/30/2019
+  title: 'SBIR Phase I:  Development of a Novel Rubber Recycling Process Not Involving
+    Devulcanization'
+- abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research
     (SBIR) project is significant as it offers a disruptive new mechanical approach to stroke
     treatment. Each year, 795,000 strokes occur in the U.S., 1.7 million strokes in Europe, and
@@ -4868,31 +4839,6 @@
   title: 'SBIR Phase I:  Development of a textile-based retrievable stent for stroke
     that can be personalized to a patient''s clot burden and retrieve long clots using
     torsion.'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is the reuse of rubber compounds from spent tires in high performance products including new tires without significant loss in product performance. Only a very small portion of those tires are currently being ground up for this purpose because of the detrimental impact  on product properties. However, larger quantities could potentially be used if the ground rubber is treated by the process of our invention. This would have several benefits.  Manufacturers could reduce material cost, the rubber recycling industry would enjoy significant growth and unsightly tire dumps with associated pollution problems would disappear. Additionally, the tire industry will become more sustainable and other unacceptable uses of old tires currently practiced, such as their use as fuels in low cost operations, would be financially challenged as novel, more profitable uses that retain the integrity of the polymer matrix emerge.
-
-    This SBIR Phase I project proposes to build upon studies conducted by our company during the last few years. While it was widely known that recycled ground rubber will significantly reduce physical properties, limited information and understanding existed on the basic causes. Much hope was pinned by many companies and academic institutions on the potential merit of the ground up rubber but no significant commercial process previously emerged. This work aims to develop a recycling process which does not require a devulcanization step. This was first demonstrated with model sample geometries that simulate the environment which ground rubber particles experience when added to and being co-vulcanized with fresh rubber compounds.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 1212 Sunsetview
-  awardeeCity: Akron
-  awardeeCountryCode: US
-  awardeeName: Appia LLC
-  awardeeStateCode: OH
-  awardeeZipCode: '443137839'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820122'
-  piEmail: gbohm@att.net
-  piFirstName: Georg
-  piLastName: Bohm
-  piPhone: '3302123661'
-  poName: Anna Brady-Estevez
-  date: 06/25/2018
-  startDate: 07/01/2018
-  expDate: 06/30/2019
-  title: 'SBIR Phase I:  Development of a Novel Rubber Recycling Process Not Involving
-    Devulcanization'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I is the improvement of public transportation services for people with disabilities, specifically people with visual impairments. Individuals with visual impairments are heavily dependent on public transit as an essential service for engaging in daily life and social activities. However, they often face challenges with (1) determining which bus to board, especially at busy bus stops when multiple buses approach, and (2) boarding the correct bus in a timely fashion before they leave the stop. By developing an advanced notification service for alerting bus drivers, SeeingBus will address the societal and market needs to mitigate these challenges and thereby promote independent use of public transportation among people with visual impairments. Improving accessibility of public transportation to people with disabilities along with enhancing perception of their service will boost ridership resulting in increased revenue for agencies. The project will contribute to the scientific community as well as society in general by advancing understanding of Smart City services needed for independent travel of people with disabilities.
 
@@ -5869,6 +5815,31 @@
   expDate: 11/30/2018
   title: 'SBIR Phase I:  Risk-Aware Motion Planning for Autonomous Vehicles'
 - abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to develop a drug discovery platform for preclinical cancer drug testing using a 3D tumor model technology. The technology is designed to reduce time and costs associated with the high failure rate (~95%) of cancer drugs by increasing the likelihood that candidate drugs advancing to animal studies will be effective. The robotic technology will provide a biologically relevant tumor model to test libraries of cancer drugs in the preclinical stage, and replace currently used 2D cancer cell models. This project aims to scale up the 3D tumor model technology to accommodate large drug libraries tested in the pharmaceutical industry, and verify that it meets industry standards and customer needs. The technology will expedite the introduction of effective cancer drugs into the market for patient use, and help reduce the more than half a million of lives that cancer claims annually. The proposed work will significantly facilitate the introduction of the technology into the market as a preclinical cancer drug screening tool by demonstrating its competitive advantages and capabilities to improve cancer drug discovery efforts.
+
+    This SBIR Phase I project proposes to develop and validate a 3D tumor model technology for high-throughput cancer drug screening in the pharmaceutical industry. Despite widespread interest in 3D cancer cell cultures, existing methods are not currently used in the industry due to their many disadvantages. The proposed technology provides a robust, high-throughput, and cost-effective approach to generate 3D cancer cell cultures for rapid drug screening, beyond what is currently available. This work will evaluate quantitatively the reliability and robustness of 3D cancer cell cultures and costs of cancer drug testing while considering competitive techniques. A major goal is to adapt the technology to a 1536-microwell plate format for highly efficient drug screening, which is not currently available on the market, and validate the capabilities of the technology to predict cancer drug responses in animal studies. This work will involve robotic protocol optimization, imaging analysis of 3D cultures for consistency, proof-of-concept cancer drug screening, and statistical evaluation of robustness. It is anticipated that the work will demonstrate the advantageous capacity and speed of the technology for drug testing, industry-level robustness, compatibility with different cancer cell types, ability to predict animal study drug responses, and low cost.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 526 S Main St Suite 1001
+  awardeeCity: Akron
+  awardeeCountryCode: US
+  awardeeName: OncoSolutions LLC
+  awardeeStateCode: OH
+  awardeeZipCode: '443114401'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1819594'
+  piEmail: stephanie.ham@oncosolutionsllc.com
+  piFirstName: Stephanie
+  piLastName: Ham
+  piMiddeInitial: L
+  piPhone: '4406375810'
+  poName: Ruth M. Shuman
+  date: 06/13/2018
+  startDate: 07/01/2018
+  expDate: 06/30/2019
+  title: 'SBIR Phase I:  3D Tumor Model Microtechnology for High Throughput Drug Screening'
+- abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to provide the capability to affordably and reliably connect underserved or unserved Americans to high speed internet using surface-mounted optical fiber, whether they live in a suburban neighborhood or in a remote rural area. The lack of high speed internet access is largely due to an inability to economically distribute broadband communications over the 'last mile' to businesses, homes, schools, and medical or government entities. An understanding of the installed durability of fiber using this technique will usher in new developments to deploy surface-mounted fiber nationwide. More accessible high-speed internet provides more information, opportunity, and economic productivity regardless of the locale. The digital divide between urban and rural Americans could be reduced or eliminated. Lower cost fiber deployments will make it easier to deploy new technologies, like 5G antennas and connected vehicles, and will shrink the cost to make cities smarter with ubiquitous sensors and cameras.
 
     The proposed project will demonstrate that optical fibers under protective coatings bonded to paved surfaces can provide reliable high speed communications while subjected to weather and traffic. It will allow estimation of the predicted life time of surface mounted fiber on pavement. The testing will place asphalt samples in an environmental test chamber to evaluate competing fiberoptic installations and to identify the best performers for a series of follow-on field and lab tests. This will allow the future targeting of financial resources on the most promising material and profile combinations. Test samples will undergo wide ranging temperature and humidity cycles and repetitive tire impacts under controlled conditions. This testing will identify statistical life predictions in years after only a few months of actual test time. The longer the predicted life, the larger the customer pool, and the wider the potential market penetration. Understanding the predicted lifetime of a fiber installation will open the door to more early adopters, to more pilot program users, and eventually to fiberoptic installers and long term customers.
@@ -6063,31 +6034,6 @@
   startDate: 06/15/2018
   expDate: 11/30/2018
   title: 'SBIR Phase I: Enabling Musical Creativity for People with Special Needs'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to develop a drug discovery platform for preclinical cancer drug testing using a 3D tumor model technology. The technology is designed to reduce time and costs associated with the high failure rate (~95%) of cancer drugs by increasing the likelihood that candidate drugs advancing to animal studies will be effective. The robotic technology will provide a biologically relevant tumor model to test libraries of cancer drugs in the preclinical stage, and replace currently used 2D cancer cell models. This project aims to scale up the 3D tumor model technology to accommodate large drug libraries tested in the pharmaceutical industry, and verify that it meets industry standards and customer needs. The technology will expedite the introduction of effective cancer drugs into the market for patient use, and help reduce the more than half a million of lives that cancer claims annually. The proposed work will significantly facilitate the introduction of the technology into the market as a preclinical cancer drug screening tool by demonstrating its competitive advantages and capabilities to improve cancer drug discovery efforts.
-
-    This SBIR Phase I project proposes to develop and validate a 3D tumor model technology for high-throughput cancer drug screening in the pharmaceutical industry. Despite widespread interest in 3D cancer cell cultures, existing methods are not currently used in the industry due to their many disadvantages. The proposed technology provides a robust, high-throughput, and cost-effective approach to generate 3D cancer cell cultures for rapid drug screening, beyond what is currently available. This work will evaluate quantitatively the reliability and robustness of 3D cancer cell cultures and costs of cancer drug testing while considering competitive techniques. A major goal is to adapt the technology to a 1536-microwell plate format for highly efficient drug screening, which is not currently available on the market, and validate the capabilities of the technology to predict cancer drug responses in animal studies. This work will involve robotic protocol optimization, imaging analysis of 3D cultures for consistency, proof-of-concept cancer drug screening, and statistical evaluation of robustness. It is anticipated that the work will demonstrate the advantageous capacity and speed of the technology for drug testing, industry-level robustness, compatibility with different cancer cell types, ability to predict animal study drug responses, and low cost.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 526 S Main St Suite 1001
-  awardeeCity: Akron
-  awardeeCountryCode: US
-  awardeeName: OncoSolutions LLC
-  awardeeStateCode: OH
-  awardeeZipCode: '443114401'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819594'
-  piEmail: stephanie.ham@oncosolutionsllc.com
-  piFirstName: Stephanie
-  piLastName: Ham
-  piMiddeInitial: L
-  piPhone: '4406375810'
-  poName: Ruth M. Shuman
-  date: 06/13/2018
-  startDate: 07/01/2018
-  expDate: 12/31/2018
-  title: 'SBIR Phase I:  3D Tumor Model Microtechnology for High Throughput Drug Screening'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project views an IoT firearms detection system in the lens of the military due to their immediate need of such a device and associated data. In addition, a foothold in the military will allow for and influence the adoption in downstream markets such as private security and law enforcement who have already expressed interest in piloting and adopting this technology once fully developed. However, the broader goal and impact of this system more importantly grants the potential to save lives. Whether this system will be used in the military, law enforcement, or private citizens in cases of home and self defense, successful implementation and commercialization of the first firearms detection system will grant the capabilities to objectively monitor and leverage firearm usage data.
 
@@ -6883,7 +6829,7 @@
   poName: Muralidharan S. Nair
   date: 01/02/2018
   startDate: 01/01/2018
-  expDate: 12/31/2018
+  expDate: 04/30/2019
   title: 'STTR Phase I:  Intelligent Planning and Control Software for EV Charging
     Infrastructure'
 - abstractText: "The broader impact of this Small Business Innovation Research (SBIR)
@@ -8536,6 +8482,28 @@
   expDate: 05/31/2019
   title: 'SBIR Phase I:  Atomic High Magnetic Field Probe'
 - abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is the enabling the expansion of the Internet of Things (IoT) through new functions and applications requiring greater wires-free power than available by battery. IoT is an ever-widening array of everyday objects interconnected via the Internet and transforming the way we live and work. "Smart devices" inter-networking in homes, businesses, vehicles, public spaces and elsewhere are an essential driver of the big data revolution, enabling innumerable societal benefits such as improved efficiencies, assure safety, and increase productivity. The growth of IoT devices has been enabled by the miniaturization, modularization, and cost reduction of common chipsets as well as increased intelligence in low-power consumption. IoT products that utilize existing wired power - e.g. smart lights, TVs, speakers, thermostats, security cameras, personal digital assistants, etc. - have dominated the market. Increasingly, however, stand-alone battery-powered IoT devices are gaining traction; but while battery technology is improving, the cost, complexity and downtime of battery replacement and/or recharging are major constraints. This project aims to develop a new type of indoor light harvesting technology capable of efficiently converting ambient indoor light into the electrical energy needed to power wire-free IoT products. 
+
+    The proposed project aims to demonstrate and develop perovskite PV technology with the efficiency, uniformity, and durability needed for high-impact indoor IoT applications. Visible light is the most ubiquitous ambient power source available in places where humans live, work and gather, but existing light harvesting methods - e.g. crystalline and amorphous silicon PV cells - do not efficiently convert typical indoor light to electricity. For example, state-of-the-art amorphous silicon cells give only 3.6-7% efficiency under typical indoor lighting conditions. In order to enable new IoT products, a photovoltaic material that operates above 30% efficiency under a range of indoor lighting conditions is needed to unlock new levels of power available for sensors and communications that batteries may not easily supply. This project will demonstrate cell designs, film deposition and processing techniques needed to fabricate high-efficiency perovskite PV and to scale perovskite PV from university laboratory sizes to commercial IoT product sizes. 
+  awardeeAddress: 4072 Scripps Ave
+  awardeeCity: Palo Alto
+  awardeeCountryCode: US
+  awardeeName: Iris Photovoltaics
+  awardeeStateCode: CA
+  awardeeZipCode: '943064537'
+  fundsObligatedAmt: '224902'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1747302'
+  piEmail: cdbailie@irispv.com
+  piFirstName: Colin
+  piLastName: Bailie
+  piPhone: '2142894070'
+  poName: Richard Schwerdtfeger
+  date: 12/18/2017
+  startDate: 01/01/2018
+  expDate: 11/30/2018
+  title: 'SBIR Phase I:  Perovskite photovoltaics for indoor power supply applications'
+- abstractText: |-
     This STTR Phase I project will undertake the development of iron coordination complexes as alternatives for gadolinium contrast agents which are currently used in clinical MRI diagnostic exams.  New MRI contrast agents are needed to serve the segment of the population who cannot tolerate Gd(III) agents.  This includes patients with kidney disease and those who have frequent MRI scans and may accumulate Gd(III).  The proposed research involves the study of new trivalent iron coordination complexes based on those initially studied in the co-PI?s university laboratory. New iron complexes will be prepared and studied as contrast agents in live mice to improve characteristics of the agents such as clearance from the body.  Fundamental studies of the iron complexes will add to the body of knowledge on the paramagnetic properties of iron.
     For the most promising Fe(III) contrast agents, the synthetic procedures will be adapted for large scale preparation and purity determination.  Iron MRI contrast agents may also be beneficial to society by reducing gadolinium in water supply.  Furthermore, iron as an abundant element is less expensive and more readily available in the USA than is gadolinium. The commercialization of iron MRI contrast agents will create jobs in chemical manufacturing, sales, and in health-related occupations.
 
@@ -8628,28 +8596,6 @@
   expDate: 12/31/2018
   title: 'SBIR Phase I:  Ureter Detection during Minimally Invasive or Robotic Surgery
     by Electrical Stimulus Evoked Responses'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is the enabling the expansion of the Internet of Things (IoT) through new functions and applications requiring greater wires-free power than available by battery. IoT is an ever-widening array of everyday objects interconnected via the Internet and transforming the way we live and work. "Smart devices" inter-networking in homes, businesses, vehicles, public spaces and elsewhere are an essential driver of the big data revolution, enabling innumerable societal benefits such as improved efficiencies, assure safety, and increase productivity. The growth of IoT devices has been enabled by the miniaturization, modularization, and cost reduction of common chipsets as well as increased intelligence in low-power consumption. IoT products that utilize existing wired power - e.g. smart lights, TVs, speakers, thermostats, security cameras, personal digital assistants, etc. - have dominated the market. Increasingly, however, stand-alone battery-powered IoT devices are gaining traction; but while battery technology is improving, the cost, complexity and downtime of battery replacement and/or recharging are major constraints. This project aims to develop a new type of indoor light harvesting technology capable of efficiently converting ambient indoor light into the electrical energy needed to power wire-free IoT products. 
-
-    The proposed project aims to demonstrate and develop perovskite PV technology with the efficiency, uniformity, and durability needed for high-impact indoor IoT applications. Visible light is the most ubiquitous ambient power source available in places where humans live, work and gather, but existing light harvesting methods - e.g. crystalline and amorphous silicon PV cells - do not efficiently convert typical indoor light to electricity. For example, state-of-the-art amorphous silicon cells give only 3.6-7% efficiency under typical indoor lighting conditions. In order to enable new IoT products, a photovoltaic material that operates above 30% efficiency under a range of indoor lighting conditions is needed to unlock new levels of power available for sensors and communications that batteries may not easily supply. This project will demonstrate cell designs, film deposition and processing techniques needed to fabricate high-efficiency perovskite PV and to scale perovskite PV from university laboratory sizes to commercial IoT product sizes. 
-  awardeeAddress: 4072 Scripps Ave
-  awardeeCity: Palo Alto
-  awardeeCountryCode: US
-  awardeeName: Iris Photovoltaics
-  awardeeStateCode: CA
-  awardeeZipCode: '943064537'
-  fundsObligatedAmt: '224902'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1747302'
-  piEmail: cdbailie@irispv.com
-  piFirstName: Colin
-  piLastName: Bailie
-  piPhone: '2142894070'
-  poName: Richard Schwerdtfeger
-  date: 12/18/2017
-  startDate: 01/01/2018
-  expDate: 11/30/2018
-  title: 'SBIR Phase I:  Perovskite photovoltaics for indoor power supply applications'
 - abstractText: "This SBIR Phase I project will develop a hand-held, point-of-care,
     sensing strip and instrument for immediate identification of which bacterial species
     are causing a urinary tract infection (UTI) in a companion animal. \nThis technology
@@ -10622,7 +10568,7 @@
   awardeeName: Solchroma Technologies Inc
   awardeeStateCode: MA
   awardeeZipCode: '021442131'
-  fundsObligatedAmt: '757678'
+  fundsObligatedAmt: '761762'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1660204'
   piEmail: roger.diebold@solchroma.com
@@ -19346,57 +19292,6 @@
   expDate: 08/31/2020
   title: 'SBIR Phase II:  Advanced Computational Imaging System for 3D Surface Microgeometry
     and Reflectance Properties Measurement'
-- abstractText: |-
-    The broader impact/commercial potential of this project is to enable vast deployment of energy storage to increase installation of renewable energy for reduced pollution and greenhouse gases, to improve energy security, and to improve energy efficiency and safety. The project will realize a dramatic reduction in cost and size of Energy Storage Systems (ESS) that will allow penetration of ESS into markets served by fossil fuels. One key market is grid ancillary services which includes Frequency Regulation (FR) that regulates grid frequency and stability. With the potential of this project, the FR market for battery based ESS is expected to grow from $100M/yr to over $4B/yr. This project has the societal benefits of replacing fossil fuel based ?peaker? plants that are commonly used to perform FR, with clean Li-ion battery based ESS. Furthermore, by providing lower cost FR capability for the grid, the project will enable grid penetration of more renewable energy, which requires additional FR capability.
-
-    This Small Business Innovation Research (SBIR) Phase II project will develop a highly compact integrated modular inverter/energy storage system to revolutionize deployment of energy storage system for grid, micro-grid, energy efficiency, and energy reliability support. The development effort proposed here includes an advanced energy storage system consisting of an extremely compact 150kW high frequency 3-level inverter, an integrated 100kWhr compact Li-ion battery system, proprietary battery management systems and internet communications capability. This will provide a highly integrated and scalable 150kW Energy Storage System with an integrated battery string inverter with 60% reduced system cost and 10X reduced size that will open new markets for energy storage and renewable energy. The project will develop key technology innovations which work together with advanced Li-ion batteries to form a revolutionary new product. These innovations include: high frequency 3-level inverter with innovative high frequency control and output filter to achieve >10X reduction in volume; a novel topology that integrates inverters into each cell string and eliminates many components resulting in 60% system cost reduction; a modular and scalable design that is fault tolerant and allows easy optimization for multiple system uses.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 15230 W. Woodland Dr.
-  awardeeCity: New Berlin
-  awardeeCountryCode: US
-  awardeeName: Imagen Energy, LLC
-  awardeeStateCode: WI
-  awardeeZipCode: '531511915'
-  fundsObligatedAmt: '626856'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1831221'
-  piEmail: jason@imagenenergy.com
-  piFirstName: Jason
-  piLastName: Katcha
-  piPhone: '4147040274'
-  poName: Muralidharan S. Nair
-  date: 09/17/2018
-  startDate: 09/15/2018
-  expDate: 08/31/2020
-  title: 'SBIR Phase II:  Extremely Compact, High Efficiency, Integrated Converter
-    and Energy Storage System'
-- abstractText: |-
-    This SBIR Phase II project aims to transform the lives and future economic opportunities of young people and their communities through democratized access to cross-curricular computer science, engineering, and cybersecurity education. Daily life, economies, innovation, and national security all depend on having a strong and skilled STEM workforce. For this workforce to exist, our schools must provide the necessary education and experience to prepare students for such careers. Unfortunately, a vast majority of K-12 educators today are not equipped with the resources to do so successfully. The importance of solving this problem cannot be overstated; developing a plentitude of competent STEM professionals is critical to ensure economic and security stability. These project goals are aligned with NSF?s mission to promote the progress of science; to advance the national health, prosperity, and welfare; and to secure the national defense. The resulting technology innovation is of potential service to more than 50 million primary and secondary school students and 3.5 million educators nationally, with an ability to impact their course of study, improve STEM outcomes, increase hands-on project-based experience, and improve future economic opportunities.
-
-
-    This technology innovation emerges at the intersection of cloud-based software technology, real-time collaboration tools, and learning management systems. This reimagined technology tool easily connects, attracts, and fosters delivery of cross-curricular, educational computing literacy resources aligned with national and state educational standards. The project aims to empower and support educators and students in tackling the many new opportunities and growing number of resources in computer science (CS) and engineering education at home, in classrooms, and in community centers. As the CS education landscape evolves with new and exciting technical curriculum, this innovation analyzes the willingness of educators to create or adopt new computer science education, the effectiveness of real-time collaboration tools on CS education outcomes, and measures student awareness and feelings about computer science and engineering disciplines. This technology innovation promotes customer participation and a unique ability to provide support at the ground level in real-time. There are solutions that provide massive online CS courses and curricula; however, none targeting K-12 classrooms or educators which support and integrate cross-curricular computer science, engineering, and cybersecurity education. Offering cloud-based, synchronous technology tools this technology enables real-time, expert mentoring and pair-programming in a K12 virtual learning environment on a massive scale.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 407 Riverview Lane
-  awardeeCity: Melbourne Beach
-  awardeeCountryCode: US
-  awardeeName: Codecraft Works, LLC
-  awardeeStateCode: FL
-  awardeeZipCode: '329512716'
-  fundsObligatedAmt: '741395'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1831060'
-  piEmail: rthawal@codecraftworks.com
-  piFirstName: Rahul
-  piLastName: Thawal
-  piPhone: '3214195725'
-  poName: Rajesh Mehta
-  date: 09/17/2018
-  startDate: 09/15/2018
-  expDate: 08/31/2020
-  title: 'SBIR Phase II:  A Co-creation, Cross-curricular, Standard Aligned Computer
-    Science, Engineering, and Cybersecurity Education Technology Platform'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research (SBIR) Phase II project will be observed through a direct reduction in
     the energy consumption required by large industrial facilities, commercial buildings,
@@ -19500,6 +19395,57 @@
   expDate: 08/31/2020
   title: 'SBIR Phase II:  Electrolytic Generation of Low-Cost, High-Density Carbon
     Nanotubes for High-Performance Lithium-Ion Batteries'
+- abstractText: |-
+    The broader impact/commercial potential of this project is to enable vast deployment of energy storage to increase installation of renewable energy for reduced pollution and greenhouse gases, to improve energy security, and to improve energy efficiency and safety. The project will realize a dramatic reduction in cost and size of Energy Storage Systems (ESS) that will allow penetration of ESS into markets served by fossil fuels. One key market is grid ancillary services which includes Frequency Regulation (FR) that regulates grid frequency and stability. With the potential of this project, the FR market for battery based ESS is expected to grow from $100M/yr to over $4B/yr. This project has the societal benefits of replacing fossil fuel based ?peaker? plants that are commonly used to perform FR, with clean Li-ion battery based ESS. Furthermore, by providing lower cost FR capability for the grid, the project will enable grid penetration of more renewable energy, which requires additional FR capability.
+
+    This Small Business Innovation Research (SBIR) Phase II project will develop a highly compact integrated modular inverter/energy storage system to revolutionize deployment of energy storage system for grid, micro-grid, energy efficiency, and energy reliability support. The development effort proposed here includes an advanced energy storage system consisting of an extremely compact 150kW high frequency 3-level inverter, an integrated 100kWhr compact Li-ion battery system, proprietary battery management systems and internet communications capability. This will provide a highly integrated and scalable 150kW Energy Storage System with an integrated battery string inverter with 60% reduced system cost and 10X reduced size that will open new markets for energy storage and renewable energy. The project will develop key technology innovations which work together with advanced Li-ion batteries to form a revolutionary new product. These innovations include: high frequency 3-level inverter with innovative high frequency control and output filter to achieve >10X reduction in volume; a novel topology that integrates inverters into each cell string and eliminates many components resulting in 60% system cost reduction; a modular and scalable design that is fault tolerant and allows easy optimization for multiple system uses.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 15230 W. Woodland Dr.
+  awardeeCity: New Berlin
+  awardeeCountryCode: US
+  awardeeName: Imagen Energy, LLC
+  awardeeStateCode: WI
+  awardeeZipCode: '531511915'
+  fundsObligatedAmt: '626856'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1831221'
+  piEmail: jason@imagenenergy.com
+  piFirstName: Jason
+  piLastName: Katcha
+  piPhone: '4147040274'
+  poName: Muralidharan S. Nair
+  date: 09/17/2018
+  startDate: 09/15/2018
+  expDate: 08/31/2020
+  title: 'SBIR Phase II:  Extremely Compact, High Efficiency, Integrated Converter
+    and Energy Storage System'
+- abstractText: |-
+    This SBIR Phase II project aims to transform the lives and future economic opportunities of young people and their communities through democratized access to cross-curricular computer science, engineering, and cybersecurity education. Daily life, economies, innovation, and national security all depend on having a strong and skilled STEM workforce. For this workforce to exist, our schools must provide the necessary education and experience to prepare students for such careers. Unfortunately, a vast majority of K-12 educators today are not equipped with the resources to do so successfully. The importance of solving this problem cannot be overstated; developing a plentitude of competent STEM professionals is critical to ensure economic and security stability. These project goals are aligned with NSF?s mission to promote the progress of science; to advance the national health, prosperity, and welfare; and to secure the national defense. The resulting technology innovation is of potential service to more than 50 million primary and secondary school students and 3.5 million educators nationally, with an ability to impact their course of study, improve STEM outcomes, increase hands-on project-based experience, and improve future economic opportunities.
+
+
+    This technology innovation emerges at the intersection of cloud-based software technology, real-time collaboration tools, and learning management systems. This reimagined technology tool easily connects, attracts, and fosters delivery of cross-curricular, educational computing literacy resources aligned with national and state educational standards. The project aims to empower and support educators and students in tackling the many new opportunities and growing number of resources in computer science (CS) and engineering education at home, in classrooms, and in community centers. As the CS education landscape evolves with new and exciting technical curriculum, this innovation analyzes the willingness of educators to create or adopt new computer science education, the effectiveness of real-time collaboration tools on CS education outcomes, and measures student awareness and feelings about computer science and engineering disciplines. This technology innovation promotes customer participation and a unique ability to provide support at the ground level in real-time. There are solutions that provide massive online CS courses and curricula; however, none targeting K-12 classrooms or educators which support and integrate cross-curricular computer science, engineering, and cybersecurity education. Offering cloud-based, synchronous technology tools this technology enables real-time, expert mentoring and pair-programming in a K12 virtual learning environment on a massive scale.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 407 Riverview Lane
+  awardeeCity: Melbourne Beach
+  awardeeCountryCode: US
+  awardeeName: Codecraft Works, LLC
+  awardeeStateCode: FL
+  awardeeZipCode: '329512716'
+  fundsObligatedAmt: '741395'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1831060'
+  piEmail: rthawal@codecraftworks.com
+  piFirstName: Rahul
+  piLastName: Thawal
+  piPhone: '3214195725'
+  poName: Rajesh Mehta
+  date: 09/17/2018
+  startDate: 09/15/2018
+  expDate: 08/31/2020
+  title: 'SBIR Phase II:  A Co-creation, Cross-curricular, Standard Aligned Computer
+    Science, Engineering, and Cybersecurity Education Technology Platform'
 - abstractText: |-
     The broader impact/commercial potential of this project is to increase overall crop health and production with the proposed smartphone compatible crop health sensor. More specifically, crop disease remains a significant threat to global food security, and with the ability to perform pre-visual screening, the proposed platform enables cost efficient, quantitative detection of crop disease, empowering farmers to take action to reduce disease impact. Initially the sensor platform provides a timely solution for cost effective, high throughput, and pre-visual screening of citrus Huanglongbing disease (HLB), enabling citrus growers to effectively manage HLB in their groves and remain profitable. The pre-visual, cost efficient and quantitative detection capability also translates to detection of diseases in other crops. In addition, the sensing technology developed can be used for quantitative assessment of crop nutrient and water stress, enabling farmers to optimally manage crop health, providing a means to optimize profits, increase crop yields, and reduce environmental impacts. This is critical to ensuring national and global food security, and protecting national water supplies by reducing eutrophication of water bodies due to misdiagnosis and mistreatment of crop stressors.
 
@@ -20062,6 +20008,31 @@
   title: 'SBIR Phase II:  Diamagnetically Directed Self-Assembly of Light Emitting
     Diodes for Fabricating Large Area, Direct View Displays'
 - abstractText: |-
+    This SBIR Phase II Project aims to tackle the two greatest barriers to technology adoption associated with metal additive manufacturing (AM) - cost and quantities. Current metal AM platforms use expensive core components and consumable materials in high-priced machines that produce 99.9% dense parts. The proposed project calls into question the performance requirements that most American manufacturers have for industrial grade stainless steel parts. While these manufacturers require high performance, they cannot currently afford to take advantage of AM benefits due to the high capital expenditure, maintenance, and operating costs associated with current commercial technologies. This proposal re-examines the material performance, machine cost and reliability requirements necessary for a novel metal AM system to satisfy most American manufacturers' needs. In developing a low-cost AM alternative, the goal of the proposal is to allow an estimated over 50,000 American manufacturers to capitalize on the benefits of AM and simultaneously compete in an ultra-competitive, highly globalized manufacturing industry. In addition, procurement for low to medium volume order quantities (1000 - 20,000 pieces) is incredibly challenging with respect to high cost and long lead times. The proposed invention of a low-cost machine allows for never seen scalability in metal AM, allowing for smaller manufacturers to scale by taking advantage of meaningful order quantities and compete with the resources of large conglomerates. This research has broad implications in many industries and could be fundamentally enabling for the growth and prosperity of American manufacturing.
+
+
+    The proposed project re-examines the need for high technology, high cost core components in currently available commercial metallic AM machines. Through an innovative deconstruction of the inkjet print head-based, binder jetting process, a method for producing metal end-use parts has been created. The 3DEO process is based on a novel combination of two low-tech and low cost, established technologies. The creation of a robust prototype with this novel method is a highly challenging, multi-faceted project involving key advances in materials science trough the development of a novel binder system compatible with the new process as well as a fundamental evaluation and improvement of material properties of the as-built parts. In addition, completely re-designed sintering cycles and a lengthy evaluation of shrinkage characteristics will be core challenges to overcome to achieve the tight tolerances manufacturing partners require. As such, these challenges will require tight cross-disciplinary collaboration for a meaningful outcome. The goal of the proposed research is to fabricate powder metallurgy parts of adequate structural integrity to satisfy industrial end-use requirements.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 14000 Van Ness Ave Ste C
+  awardeeCity: Gardena
+  awardeeCountryCode: US
+  awardeeName: 3DEO, Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '902492942'
+  fundsObligatedAmt: '899999'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1757478'
+  piEmail: matt.petros@3deo.co
+  piFirstName: Matthew
+  piLastName: Petros
+  piPhone: '8188352354'
+  poName: Linda Molnar
+  date: 03/05/2018
+  startDate: 03/01/2018
+  expDate: 02/29/2020
+  title: 'SBIR Phase II:  An Affordable Metal Additive Manufacturing Machine'
+- abstractText: |-
     This SBIR Phase II project will create an industrial process for bonding ceramics to metals at the molecular level. Attempts thus far have not been successful in creating robust bonds due to incongruities of the materials being bonded. The objective of this project is to develop a sophisticated, computer controlled, automated bonding machine that will rapidly and safely impact-bond net-shaped ceramic carbides to tool steel in configurations that were previously not available. An automated bonding machine will allow for a cost-effective way to rapidly produce high quality near-net or net-shaped parts. It is expected that as this simple method is popularized, new opportunities for design configurations will be realized in multiple industries; as single parts can take advantage of the properties multiple material, such as the strength and wear resistance of ceramics, with the properties of another, such as the light weight properties of aluminum. Engineers may incorporate cheaper, lighter, stronger, and multipurpose material parts into new product designs. For instance, many new ceramic and metal bonded parts may be fabricated for the automotive, aerospace, chemical, defense, excavation, and nuclear industries. This project will ultimately result in the creation of U.S. manufacturing, sales, and engineering jobs as the mass production of ceramic and metal bonded parts become commercially available.
 
 
@@ -20088,31 +20059,6 @@
   expDate: 08/31/2020
   title: 'SBIR Phase II:  Impact Bonding of Near Net-Shaped Ceramics to Metals Driven
     by Hydrogen Produced from Rapid Oxidation of Aluminum'
-- abstractText: |-
-    This SBIR Phase II Project aims to tackle the two greatest barriers to technology adoption associated with metal additive manufacturing (AM) - cost and quantities. Current metal AM platforms use expensive core components and consumable materials in high-priced machines that produce 99.9% dense parts. The proposed project calls into question the performance requirements that most American manufacturers have for industrial grade stainless steel parts. While these manufacturers require high performance, they cannot currently afford to take advantage of AM benefits due to the high capital expenditure, maintenance, and operating costs associated with current commercial technologies. This proposal re-examines the material performance, machine cost and reliability requirements necessary for a novel metal AM system to satisfy most American manufacturers' needs. In developing a low-cost AM alternative, the goal of the proposal is to allow an estimated over 50,000 American manufacturers to capitalize on the benefits of AM and simultaneously compete in an ultra-competitive, highly globalized manufacturing industry. In addition, procurement for low to medium volume order quantities (1000 - 20,000 pieces) is incredibly challenging with respect to high cost and long lead times. The proposed invention of a low-cost machine allows for never seen scalability in metal AM, allowing for smaller manufacturers to scale by taking advantage of meaningful order quantities and compete with the resources of large conglomerates. This research has broad implications in many industries and could be fundamentally enabling for the growth and prosperity of American manufacturing.
-
-
-    The proposed project re-examines the need for high technology, high cost core components in currently available commercial metallic AM machines. Through an innovative deconstruction of the inkjet print head-based, binder jetting process, a method for producing metal end-use parts has been created. The 3DEO process is based on a novel combination of two low-tech and low cost, established technologies. The creation of a robust prototype with this novel method is a highly challenging, multi-faceted project involving key advances in materials science trough the development of a novel binder system compatible with the new process as well as a fundamental evaluation and improvement of material properties of the as-built parts. In addition, completely re-designed sintering cycles and a lengthy evaluation of shrinkage characteristics will be core challenges to overcome to achieve the tight tolerances manufacturing partners require. As such, these challenges will require tight cross-disciplinary collaboration for a meaningful outcome. The goal of the proposed research is to fabricate powder metallurgy parts of adequate structural integrity to satisfy industrial end-use requirements.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 14000 Van Ness Ave Ste C
-  awardeeCity: Gardena
-  awardeeCountryCode: US
-  awardeeName: 3DEO, Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '902492942'
-  fundsObligatedAmt: '899999'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1757478'
-  piEmail: matt.petros@3deo.co
-  piFirstName: Matthew
-  piLastName: Petros
-  piPhone: '8188352354'
-  poName: Linda Molnar
-  date: 03/05/2018
-  startDate: 03/01/2018
-  expDate: 02/29/2020
-  title: 'SBIR Phase II:  An Affordable Metal Additive Manufacturing Machine'
 - abstractText: |-
     This SBIR Phase II effort will create transformative open tools to enable affordable access at scale to high quality assessments (problems & questions) for foundational subjects in secondary and post-secondary education. The explosion of online student audiences, rapid growth of Open Educational Resources (OER), and the need to support individual learners are creating an unprecedented demand for digital assessments. Assessment authoring tools today are controlled by large organizations, require advanced skills and proprietary assessment delivery platforms with restrictive collaboration features. This inequity is particularly pronounced with respect to technology-enabled assessments (TEAs) which are sophisticated, digital assessments that enable deeper learning. This effort will democratize the process of authoring and sharing TEAs through the creation of intuitive end user tools that will enable educators without advanced technical skills to author and share TEAs. This has the potential to disrupt the status quo by empowering educators to take charge of the assessment creation and distribution landscape with ground-breaking tools that enable easy authoring and distribution of sophisticated TEAs without being restricted by a proprietary assessment system. Eventually, this will empower educators at scale by triggering the evolution of a peer-to-peer marketplace around the need for assessments, and impact hundreds of thousands of learners in secondary and tertiary education settings.
 
@@ -21444,7 +21390,7 @@
   awardeeName: Bascom Hunter Technologies
   awardeeStateCode: LA
   awardeeZipCode: '708064549'
-  fundsObligatedAmt: '881106'
+  fundsObligatedAmt: '889106'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1632136'
   piEmail: lala@bascomhunter.com
@@ -21781,7 +21727,7 @@
   awardeeName: Cognitive Robotics
   awardeeStateCode: CO
   awardeeZipCode: '804031103'
-  fundsObligatedAmt: '1410690'
+  fundsObligatedAmt: '1426690'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1556058'
   piEmail: mhorowit@caltech.edu
@@ -28759,52 +28705,6 @@
   expDate: 05/31/2019
   title: 'Minnesota I-Corps Site (MIN-Corps): Catalyzing Innovation Through Collaboration'
 - abstractText: "The broader impact/commercial potential of this I-Corps project is
-    to provide a new means of creating broad-spectrum antimicrobial fabric treatments
-    with a low barrier to entry for manufacturers. This technology promises to deliver
-    antimicrobial coatings at lower overall economic and environmental costs, by reducing
-    solvent usage, waste, and coating loss. Antimicrobial treatments are already used
-    in medicine, as anti-infective treatments of bandages, catheters, and other medical
-    items, and in garments and textiles, as anti-odor treatments. The lower barrier
-    to entry for garment manufacturers is expected to enable more widespread adoption
-    of the technology, which in turn will reduce material and energy waste from excessive
-    laundering and save consumers money. The technology can be adapted to a wide range
-    of fiber types and can be applied without specialized equipment, facilitating
-    the integration into existing manufacturing processes and giving manufacturers
-    access to premium market segments with minimal upfront investment. \n\n\nThis
-    I-Corps project will help improve the market penetration of antimicrobial treatments,
-    which in turn will provide consumers with superior garment performance at reduced
-    environmental and economic costs. The technology uses a new form of soluble silver
-    metal, developed by prior NSF funded research, and an innovative method to coat
-    a variety of different fiber types with bioactive silver, which enables the antimicrobial
-    coatings to be applied at any stage in the manufacturing process. Proof of concept
-    has been demonstrated with basic prototyping, but development of the technology
-    for specific markets and applications demands a better understanding of customer
-    needs. This I-Corps team project is aimed at discovering those customer needs,
-    through extensive customer interviews, in order to inform the development and
-    engineering of products that meet each particular market specific need that is
-    identified.\n\nThis award reflects NSF's statutory mission and has been deemed
-    worthy of support through evaluation using the Foundation's intellectual merit
-    and broader impacts review criteria."
-  awardeeAddress: 2801 W Bancroft St., MS 218
-  awardeeCity: TOLEDO
-  awardeeCountryCode: US
-  awardeeName: University of Toledo
-  awardeeStateCode: OH
-  awardeeZipCode: '436063390'
-  fundsObligatedAmt: '50000'
-  fundProgramName: I-Corps
-  id: '1853675'
-  piEmail: Terry.Bigioni@utoledo.edu
-  piFirstName: Terry
-  piLastName: Bigioni
-  piMiddeInitial: P
-  piPhone: '4195304095'
-  poName: Nancy Kamei
-  date: 09/18/2018
-  startDate: 09/15/2018
-  expDate: 02/28/2019
-  title: 'NSF I-Corps: Silver materials for antimicrobial coatings'
-- abstractText: "The broader impact/commercial potential of this I-Corps project is
     a cost-effective method for preemptively monitoring bone screw loosening. The
     current medical diagnostic market is dominated by expensive and time-consuming
     scans and procedures such as X-rays, CT scans, and MRI scans. These scans are
@@ -28902,6 +28802,52 @@
   startDate: 09/15/2018
   expDate: 02/28/2019
   title: 'I-Corps:  Costumer Discovery for Demand-responsive Transverse Rumble Strips'
+- abstractText: "The broader impact/commercial potential of this I-Corps project is
+    to provide a new means of creating broad-spectrum antimicrobial fabric treatments
+    with a low barrier to entry for manufacturers. This technology promises to deliver
+    antimicrobial coatings at lower overall economic and environmental costs, by reducing
+    solvent usage, waste, and coating loss. Antimicrobial treatments are already used
+    in medicine, as anti-infective treatments of bandages, catheters, and other medical
+    items, and in garments and textiles, as anti-odor treatments. The lower barrier
+    to entry for garment manufacturers is expected to enable more widespread adoption
+    of the technology, which in turn will reduce material and energy waste from excessive
+    laundering and save consumers money. The technology can be adapted to a wide range
+    of fiber types and can be applied without specialized equipment, facilitating
+    the integration into existing manufacturing processes and giving manufacturers
+    access to premium market segments with minimal upfront investment. \n\n\nThis
+    I-Corps project will help improve the market penetration of antimicrobial treatments,
+    which in turn will provide consumers with superior garment performance at reduced
+    environmental and economic costs. The technology uses a new form of soluble silver
+    metal, developed by prior NSF funded research, and an innovative method to coat
+    a variety of different fiber types with bioactive silver, which enables the antimicrobial
+    coatings to be applied at any stage in the manufacturing process. Proof of concept
+    has been demonstrated with basic prototyping, but development of the technology
+    for specific markets and applications demands a better understanding of customer
+    needs. This I-Corps team project is aimed at discovering those customer needs,
+    through extensive customer interviews, in order to inform the development and
+    engineering of products that meet each particular market specific need that is
+    identified.\n\nThis award reflects NSF's statutory mission and has been deemed
+    worthy of support through evaluation using the Foundation's intellectual merit
+    and broader impacts review criteria."
+  awardeeAddress: 2801 W Bancroft St., MS 218
+  awardeeCity: TOLEDO
+  awardeeCountryCode: US
+  awardeeName: University of Toledo
+  awardeeStateCode: OH
+  awardeeZipCode: '436063390'
+  fundsObligatedAmt: '50000'
+  fundProgramName: I-Corps
+  id: '1853675'
+  piEmail: Terry.Bigioni@utoledo.edu
+  piFirstName: Terry
+  piLastName: Bigioni
+  piMiddeInitial: P
+  piPhone: '4195304095'
+  poName: Nancy Kamei
+  date: 09/18/2018
+  startDate: 09/15/2018
+  expDate: 02/28/2019
+  title: 'NSF I-Corps: Silver materials for antimicrobial coatings'
 - abstractText: "The broader impact/commercial potential of this I-Corps project is
     from a more cost-effective thin film technology to harvest sunlight and convert
     into electricity through the photovoltaic effect. The solar energy market is dominated
@@ -29307,31 +29253,6 @@
   startDate: 07/01/2018
   expDate: 12/31/2018
   title: 'I-Corps: Embedded Cooling'
-- abstractText: |-
-    The broader impact/commercial potential of this I-Corps project on healthcare, quality of life, and the medical device industry is tremendous. The novel technology and advancement of biodegradable metals and biomimetic interfaces will lead to next-generation medical devices and implants that promote tissue healing and eliminate secondary surgeries for implant removal. This will improve quality of life for patients who need medical implants to support bones and tissue damaged by disease or trauma, and reduce overall healthcare costs. The project will build the foundation for commercializing biodegradable metallic implants and devices, which, in turn, will increase the competitiveness of U.S. companies in the medical device industry. The products resulting from this project will reduce pain and complications, eliminate secondary surgeries, and accelerate healing and recovery for patients who need medical implants due to trauma or disease.
-
-    This I-Corps project will advance technology that eliminates the drawbacks of the non-degradable medical alloys on the market today. Magnesium (Mg) based alloys are a novel class of biodegradable metallic materials that have attractive mechanical and biological properties for a wide range of medical implant applications, such as orthopedic, spinal, dental, and craniofacial implants. The key challenge in commercializing Mg-based alloys for medical implant applications lies in controlling the degradation rate. NSF support has contributed to a novel class of biocompatible Mg alloys along with biomimetic surface treatment to provide tunable degradation rates, desirable bioactivity, and excellent mechanical strength for supporting faster healing and regeneration of damaged tissues. This novel solution contains non-toxic natural elements that induce healing and reduce inflammation, departed from traditional alloy design. The I-Corps project will transform this technology to commercially viable products that will benefit the customers in need.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: Research & Economic Development
-  awardeeCity: RIVERSIDE
-  awardeeCountryCode: US
-  awardeeName: University of California-Riverside
-  awardeeStateCode: CA
-  awardeeZipCode: '925210217'
-  fundsObligatedAmt: '50000'
-  fundProgramName: I-Corps
-  id: '1840332'
-  piEmail: huinan.liu@ucr.edu
-  piFirstName: Huinan
-  piLastName: Liu
-  piPhone: '9518272944'
-  poName: Nancy Kamei
-  date: 06/18/2018
-  startDate: 07/01/2018
-  expDate: 12/31/2019
-  title: 'I-Corps: Novel Biodegradable Metals and Biomimetic Interfaces with Enhanced
-    Strength and Bioactivity'
 - abstractText: "The broader impact/commercial potential of this I-Corps project is
     due to the zero-waste approach to resue spent coffee grounds (SCGs). This technology
     can potentially result in a more sustainable waste management practice. It can
@@ -29375,6 +29296,31 @@
   startDate: 07/01/2018
   expDate: 12/31/2018
   title: 'I-Corps:  Zero-waste Approach to Reuse Spent Coffee Grounds'
+- abstractText: |-
+    The broader impact/commercial potential of this I-Corps project on healthcare, quality of life, and the medical device industry is tremendous. The novel technology and advancement of biodegradable metals and biomimetic interfaces will lead to next-generation medical devices and implants that promote tissue healing and eliminate secondary surgeries for implant removal. This will improve quality of life for patients who need medical implants to support bones and tissue damaged by disease or trauma, and reduce overall healthcare costs. The project will build the foundation for commercializing biodegradable metallic implants and devices, which, in turn, will increase the competitiveness of U.S. companies in the medical device industry. The products resulting from this project will reduce pain and complications, eliminate secondary surgeries, and accelerate healing and recovery for patients who need medical implants due to trauma or disease.
+
+    This I-Corps project will advance technology that eliminates the drawbacks of the non-degradable medical alloys on the market today. Magnesium (Mg) based alloys are a novel class of biodegradable metallic materials that have attractive mechanical and biological properties for a wide range of medical implant applications, such as orthopedic, spinal, dental, and craniofacial implants. The key challenge in commercializing Mg-based alloys for medical implant applications lies in controlling the degradation rate. NSF support has contributed to a novel class of biocompatible Mg alloys along with biomimetic surface treatment to provide tunable degradation rates, desirable bioactivity, and excellent mechanical strength for supporting faster healing and regeneration of damaged tissues. This novel solution contains non-toxic natural elements that induce healing and reduce inflammation, departed from traditional alloy design. The I-Corps project will transform this technology to commercially viable products that will benefit the customers in need.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: Research & Economic Development
+  awardeeCity: RIVERSIDE
+  awardeeCountryCode: US
+  awardeeName: University of California-Riverside
+  awardeeStateCode: CA
+  awardeeZipCode: '925210217'
+  fundsObligatedAmt: '50000'
+  fundProgramName: I-Corps
+  id: '1840332'
+  piEmail: huinan.liu@ucr.edu
+  piFirstName: Huinan
+  piLastName: Liu
+  piPhone: '9518272944'
+  poName: Nancy Kamei
+  date: 06/18/2018
+  startDate: 07/01/2018
+  expDate: 12/31/2019
+  title: 'I-Corps: Novel Biodegradable Metals and Biomimetic Interfaces with Enhanced
+    Strength and Bioactivity'
 - abstractText: "The broader impact/commercial potential of this I-Corps project will
     supply commercial beekeepers with a way to remotely monitor and identify honey
     bee colonies in need of management in real time, regardless of location, allowing
@@ -29450,6 +29396,30 @@
   title: 'I-Corps:  Radiofrequency Ablation using Wirelessly Powered Catheter and
     Generator'
 - abstractText: |-
+    The broader impact/commercial potential of this I-Corps project will provide the pharmaceutical industry with a predictive biological assay for drug screening to improve the quality of human life. Currently, testing the toxicity of new drug compounds on cultured cells and in animals has not been able to predict the response in human patients, leading to significant consequences for human patients and the pharmaceutical development process. One potential solution is so-called ?lab-on-a-chip? devices which are small devices that can be used to work with human cells in a laboratory testing environment. However, these devices are inherently limited and result in inaccurate drug dose response measurements due to the material properties of the silicone chambers within which cells are cultured. The adoption of advanced 3D cell culture environments which are composed of water-based materials and containing architectural features of normal tissue, such as multiple cell types and perfusable blood vessels, will enable improved predictive toxicological screening of new drug candidates. A reduced time and cost of testing compounds will be advantageous for the pharmaceutical market, while the expected improved predictive response in human patients is expected to usher in a new paradigm for human therapies. Furthermore, this project has the potential to scale 3D cell culture toward therapeutic value for human implantation to repair or replace damaged tissues and organs.
+
+    This I-Corps project will explore commercial opportunities of our platform 3D cell culture system. This project is based on years of hardware, biomaterial, and tissue design development and validation for fabrication of advanced cell culture systems via 3D printing. We have demonstrated generation of various tissue models for lung, liver, and bone tissue applications and demonstrated long-term survival and function of human cells. The pursued approach for generating tissues has a high commercial potential by filling an essential need in preclinical drug compound testing for improved predictive tissue models. Additionally, utility of this technology can span into other unexplored markets for generation of complex tissue structures. Through exploration of commercialization routes for this innovation during the I-Corps project, we propose to investigate and validate new and emerging markets that could best utilize our platform.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 6100 MAIN ST
+  awardeeCity: Houston
+  awardeeCountryCode: US
+  awardeeName: William Marsh Rice University
+  awardeeStateCode: TX
+  awardeeZipCode: '770051827'
+  fundsObligatedAmt: '50000'
+  fundProgramName: I-Corps
+  id: '1837828'
+  piEmail: jmil@rice.edu
+  piFirstName: Jordan
+  piLastName: Miller
+  piPhone: '7132918518'
+  poName: Nancy Kamei
+  date: 06/15/2018
+  startDate: 07/01/2018
+  expDate: 03/31/2019
+  title: 'I-Corps:  Advanced Biofabrication of Vascular Tissue Constructs'
+- abstractText: |-
     The broader impact/commercial potential of this I-Corps project relates to the developments in precision/personalized medicine, and specifically, to much-needed improvements in accuracy and speed of finding genome variants using next-generation sequencing (NGS). The personalized medicine concepts are based on individual genome variants and the personalized medicine market is expected to reach $178 billion in 2022. The cost advantage of a fast and accurate variant-finding product will be proportional to the number of genomes analyzed by users in this market. There has been a recent exponential increase in the size and scope of whole genome sequencing projects from 10,000 publicly available human genomes in 2016 to the UK 100,000 Genomes Project to even larger, though less-clearly defined, sequencing projects involving 1,000,000 participants proposed in the US (Precision Medicine Initiative, and Million Veteran Program) and China. In a likely and important scenario of sequencing the whole US population in the foreseeable future, the cost saving could be several billion dollars, thus making such efforts more feasible.
 
     This I-Corps project will enable entrepreneurial education and customer discovery for a software that will be based on a novel comprehensive method of genome variant detection, GROM (Genome Rearrangement Omni-Mapper). GROM boasts lightning-speed runtimes, an order of magnitude faster than state-of-the-art variant detection pipelines. While drastically reducing computational time, GROM provides superior overall variant detection compared to commonly employed algorithms. These unique advantages over available tools both in speed and precision could make GROM a very desirable application in this field (utilized via either licensing or pay-per-use commercial models). This will require a better understanding of a potential market and customer discovery. The process will include an educational component at I-Corps workshops and a discovery component via meetings and active communication with numerous potential users of the technology in commercial and non-commercial entities. The customer discovery effort may result in developing an appropriate business plan for attracting investments in a potential startup that will perform further development and licensing of the product.
@@ -29497,30 +29467,6 @@
   startDate: 07/01/2018
   expDate: 12/31/2018
   title: 'I-Corps:  Commercial Viability Discovery of the Elastic Filament Velocimeetry'
-- abstractText: |-
-    The broader impact/commercial potential of this I-Corps project will provide the pharmaceutical industry with a predictive biological assay for drug screening to improve the quality of human life. Currently, testing the toxicity of new drug compounds on cultured cells and in animals has not been able to predict the response in human patients, leading to significant consequences for human patients and the pharmaceutical development process. One potential solution is so-called ?lab-on-a-chip? devices which are small devices that can be used to work with human cells in a laboratory testing environment. However, these devices are inherently limited and result in inaccurate drug dose response measurements due to the material properties of the silicone chambers within which cells are cultured. The adoption of advanced 3D cell culture environments which are composed of water-based materials and containing architectural features of normal tissue, such as multiple cell types and perfusable blood vessels, will enable improved predictive toxicological screening of new drug candidates. A reduced time and cost of testing compounds will be advantageous for the pharmaceutical market, while the expected improved predictive response in human patients is expected to usher in a new paradigm for human therapies. Furthermore, this project has the potential to scale 3D cell culture toward therapeutic value for human implantation to repair or replace damaged tissues and organs.
-
-    This I-Corps project will explore commercial opportunities of our platform 3D cell culture system. This project is based on years of hardware, biomaterial, and tissue design development and validation for fabrication of advanced cell culture systems via 3D printing. We have demonstrated generation of various tissue models for lung, liver, and bone tissue applications and demonstrated long-term survival and function of human cells. The pursued approach for generating tissues has a high commercial potential by filling an essential need in preclinical drug compound testing for improved predictive tissue models. Additionally, utility of this technology can span into other unexplored markets for generation of complex tissue structures. Through exploration of commercialization routes for this innovation during the I-Corps project, we propose to investigate and validate new and emerging markets that could best utilize our platform.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 6100 MAIN ST
-  awardeeCity: Houston
-  awardeeCountryCode: US
-  awardeeName: William Marsh Rice University
-  awardeeStateCode: TX
-  awardeeZipCode: '770051827'
-  fundsObligatedAmt: '50000'
-  fundProgramName: I-Corps
-  id: '1837828'
-  piEmail: jmil@rice.edu
-  piFirstName: Jordan
-  piLastName: Miller
-  piPhone: '7132918518'
-  poName: Nancy Kamei
-  date: 06/15/2018
-  startDate: 07/01/2018
-  expDate: 12/31/2018
-  title: 'I-Corps:  Advanced Biofabrication of Vascular Tissue Constructs'
 - abstractText: "The broader impact/commercial potential of this I-Corps project is
     in the use of precision genome editing, in conjunction with compute simulation
     techniques, to impact local eradication of invasive species, agricultural pests,
@@ -31712,6 +31658,108 @@
   startDate: 09/15/2018
   expDate: 02/28/2019
   title: 'I-Corps: Controlled-Trajectory Rapid Compression and Expansion Machine'
+- abstractText: "The broader impact/commercial potential of this I-Corps project is
+    to  monitor  sleep quality of individuals and report sleep quality index and sleep
+    architecture using an ambient connected sensor. This project will potentially
+    improve quality of care in some patient populations such as Alzheimer/Dementia
+    patients and infants by enabling sleep quality assessment using a non-intrusive
+    technology.   The passive sensor we have developed can precisely detect entire
+    sleep stages as well as any abnormalities related to breathing or movement during
+    sleep. The sensor is placed outside of bed and does not pose discomfort to the
+    patient. It is our goal to offer a sleep sensor that will be an essential part
+    of our healthy lifestyle choices.  The sensor must be non-intrusive and ambient
+    to be widely accepted. Wearable or body-contact sensors take away from the natural
+    sensation of sleep and might create a feeling of being monitored. For this reason,
+    we believe an ideal sleep monitor should be ambient and easily blend in with the
+    accessories on the bedside table. This monitor will enable the same kind of diagnostic
+    power available in a hospital, to the comfort of our bedrooms. \n\nThis I-Corps
+    project proposes a sleep monitor based on a passive infrared sensing technology
+    which utilizes a pyroelectric material for temperature sensing.  The material
+    is lithium tantalate, a crystal that has pyroelectric properties. A change in
+    ambient temperature creates a change in polarization of the crystal. This change
+    creates a potential across the crystal and a charge is generated similar to a
+    capacitor.  The generated charge is collected by electrodes thus we obtain the
+    voltage response of the pyroelectric detector.  Under constant and ambient temperature,
+    the response quickly approaches steady state. Due to the thermal time constant,
+    the crystal will quickly thermalize to its environment after input. Thus, we observe
+    a 'voltage pulse' mechanism when there is a fast change (physical movement) against
+    the background. This property makes our sensor very sensitive to fluctuations
+    against the background temperature distribution and allows it to accurately detect
+    fine movements such as chest motion during breathing.  We use these fine chest
+    movements to detect respiration and heart rate which in turn are used to  determine
+    the sleep stage.  We use respiration rate variability to determine sleep stages
+    and derive sleep quality index using sophisticated signal processing methods.\n\nThis
+    award reflects NSF's statutory mission and has been deemed worthy of support through
+    evaluation using the Foundation's intellectual merit and broader impacts review
+    criteria."
+  awardeeAddress: 5250 Campanile Drive
+  awardeeCity: San Diego
+  awardeeCountryCode: US
+  awardeeName: San Diego State University Foundation
+  awardeeStateCode: CA
+  awardeeZipCode: '921822190'
+  fundsObligatedAmt: '50000'
+  fundProgramName: I-Corps
+  id: '1848689'
+  piEmail: yozturk@mail.sdsu.edu
+  piFirstName: Yusuf
+  piLastName: Ozturk
+  piPhone: '6195944550'
+  poName: Nancy Kamei
+  date: 08/16/2018
+  startDate: 09/15/2018
+  expDate: 02/28/2019
+  title: 'I-Corps: Ambient Sleep Architecture Monitor'
+- abstractText: |-
+    The broader impact and commercial potential of this I-Corps project are as follows: Cryo-Electron Microscopy (Cryo-EM) is a method for obtaining 3D structures of biological molecules. The method has growing importance in basic life science research and in the pharmaceutical sector for defining how drugs interact with their targets. Cryo-EM as a whole has matured into a powerful tool in recent years, culminating in the 2017 Nobel Prize in Chemistry, but the process of protein 'sample preparation' for 3D study has not advanced appreciably and is widely considered to represent the major bottleneck in the overall method. This bottleneck also presents a major commercial opportunity. The present project advances new nanofluidic-based technology aimed at addressing this bottleneck. Successful development of this technology will yield a consumable product ready for commercialization. Fulfillment of this goal will greatly advance and open new possibilities in cryo-EM structure determination. The resulting acceleration and enhancement of basic science and drug discovery would translate to broad societal benefit.
+
+    This I-Corps project advances a new technology, supported by prototype data, to breach the major bottleneck in the rapidly growing cryo-EM field, with broad impact in life science and drug discovery. Cryo-EM is performed by taking images of frozen proteins using an electron microscope, then processing the images with a computer to obtain a 3D protein structure. To image and obtain a structure, the protein sample must first be frozen into a thin layer (~50-200 nm). With existing technology, this process is poorly controlled, lacks reproducibility and substantially adds to the time required to get a structure. Our device is designed to directly mitigate these sample preparation problems. It is a self-contained, freezable fluid cell nanofabricated to specification, giving full control over sample geometry and protein environment. Protein is passively loaded into the fluid cell, the loaded device is frozen, and can then be imaged directly. Materials on the top and bottom of the fluid cell are selected to transmit the electron beam through the protein sample with minimal noise. Successful prototype testing and data collection has shown the viability of the core design, with future work focused on refining the design and materials and streamlining manufacturing for eventual commercialization.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 415 SOUTH ST MAILSTOP 116
+  awardeeCity: WALTHAM
+  awardeeCountryCode: US
+  awardeeName: Brandeis University
+  awardeeStateCode: MA
+  awardeeZipCode: 024532728
+  fundsObligatedAmt: '50000'
+  fundProgramName: I-Corps
+  id: '1844868'
+  piEmail: menapace@brandeis.edu
+  piFirstName: Rebecca
+  piLastName: Menapace
+  piPhone: '7817362176'
+  poName: Nancy Kamei
+  date: 08/16/2018
+  startDate: 09/15/2018
+  expDate: 02/28/2019
+  title: 'I-Corps: A freezable fluid cell for high-resolution cryo-electron microscopy'
+- abstractText: |-
+    The broader impact/commercial potential of this I-Corps project is pivoted around the emerging whole slide imaging market segment in digital pathology. The digital pathology market is predicted to reach over $800 million by 2025. The motivation of this project stems from the gigabyte size of whole slide images (WSIs), which are digital images of glass slides produced at near optical resolution. With rapid increase in the number of WSIs produced by hospitals and pathology labs, the storage and management of WSIs has become an urgent problem to tackle for next-generation image analytics. The commercial viability of the project can significantly impact researchers, medical professionals, software developers, and IT staff who wish to manage large number of WSIs using modern cluster computing and big data techniques. Thus, next-generation image analytics (e.g., using deep learning) for automatic detection and analysis of cellular and morphological features in human tissues can be performed faster on large numbers of WSIs. The potential societal benefit of the project includes enabling improved diagnosis of diseases by pathologists using next-generation image analytics and the creation of a tech startup leading to new jobs. This project will provide training to two Ph.D. students from underrepresented groups in STEM.
+
+    This I-Corps project is based on a software technology that aims to solve the fundamental problem of scalable storage of WSIs and fast retrieval of tiles using a commodity cluster and big data techniques. The value proposition of the technology is efficient and cost-effective storage of large-scale WSIs and fast retrieval of tiles to enable next-generation image analytics for human disease diagnosis. The technology encompasses intelligent data partitioning using space-filling curves, in-memory data structures, and effective organization of tiles to enable fast retrieval of tiles during image analysis. It employs space-efficient storage formats to maximize storage efficiency. On an average, it required a few seconds to retrieve a single tile on 80 WSIs using a 16-node cluster. Therefore, we believe next-generation image analytics on WSIs (e.g., using deep learning) can run faster on large number of WSIs, which can consume terabytes of storage, through faster access of image tiles. As the technology relies on commodity hardware and open source software, it is cost-effective and can be easily deployed as a product or a service. The technology has the potential to advance the state-of-the-art in WSI storage and management using a big data approach.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 5100 Rockhill Road
+  awardeeCity: Kansas City
+  awardeeCountryCode: US
+  awardeeName: University of Missouri-Kansas City
+  awardeeStateCode: MO
+  awardeeZipCode: '641102499'
+  fundsObligatedAmt: '50000'
+  fundProgramName: I-Corps
+  id: '1841752'
+  piEmail: raopr@umkc.edu
+  piFirstName: Praveen
+  piLastName: Rao
+  piMiddeInitial: R
+  piPhone: '8162351303'
+  poName: Nancy Kamei
+  date: 08/16/2018
+  startDate: 09/15/2018
+  expDate: 02/28/2019
+  title: 'I-Corps:  Scalable Storage of Whole Slide Images and Fast Retrieval of Tiles
+    for Next-Generation Image Analytics'
 - abstractText: "The broader impact / commercial potential of this I-Corps project
     lies in enabling practical, long-term monitoring of environments, using sound,
     such as in livestock production, industrial settings, elder care, and surveillance/military
@@ -31856,108 +31904,6 @@
   startDate: 09/15/2018
   expDate: 02/28/2019
   title: 'I-Corps: Ecosystem Management - Selective Insect Control'
-- abstractText: "The broader impact/commercial potential of this I-Corps project is
-    to  monitor  sleep quality of individuals and report sleep quality index and sleep
-    architecture using an ambient connected sensor. This project will potentially
-    improve quality of care in some patient populations such as Alzheimer/Dementia
-    patients and infants by enabling sleep quality assessment using a non-intrusive
-    technology.   The passive sensor we have developed can precisely detect entire
-    sleep stages as well as any abnormalities related to breathing or movement during
-    sleep. The sensor is placed outside of bed and does not pose discomfort to the
-    patient. It is our goal to offer a sleep sensor that will be an essential part
-    of our healthy lifestyle choices.  The sensor must be non-intrusive and ambient
-    to be widely accepted. Wearable or body-contact sensors take away from the natural
-    sensation of sleep and might create a feeling of being monitored. For this reason,
-    we believe an ideal sleep monitor should be ambient and easily blend in with the
-    accessories on the bedside table. This monitor will enable the same kind of diagnostic
-    power available in a hospital, to the comfort of our bedrooms. \n\nThis I-Corps
-    project proposes a sleep monitor based on a passive infrared sensing technology
-    which utilizes a pyroelectric material for temperature sensing.  The material
-    is lithium tantalate, a crystal that has pyroelectric properties. A change in
-    ambient temperature creates a change in polarization of the crystal. This change
-    creates a potential across the crystal and a charge is generated similar to a
-    capacitor.  The generated charge is collected by electrodes thus we obtain the
-    voltage response of the pyroelectric detector.  Under constant and ambient temperature,
-    the response quickly approaches steady state. Due to the thermal time constant,
-    the crystal will quickly thermalize to its environment after input. Thus, we observe
-    a 'voltage pulse' mechanism when there is a fast change (physical movement) against
-    the background. This property makes our sensor very sensitive to fluctuations
-    against the background temperature distribution and allows it to accurately detect
-    fine movements such as chest motion during breathing.  We use these fine chest
-    movements to detect respiration and heart rate which in turn are used to  determine
-    the sleep stage.  We use respiration rate variability to determine sleep stages
-    and derive sleep quality index using sophisticated signal processing methods.\n\nThis
-    award reflects NSF's statutory mission and has been deemed worthy of support through
-    evaluation using the Foundation's intellectual merit and broader impacts review
-    criteria."
-  awardeeAddress: 5250 Campanile Drive
-  awardeeCity: San Diego
-  awardeeCountryCode: US
-  awardeeName: San Diego State University Foundation
-  awardeeStateCode: CA
-  awardeeZipCode: '921822190'
-  fundsObligatedAmt: '50000'
-  fundProgramName: I-Corps
-  id: '1848689'
-  piEmail: yozturk@mail.sdsu.edu
-  piFirstName: Yusuf
-  piLastName: Ozturk
-  piPhone: '6195944550'
-  poName: Nancy Kamei
-  date: 08/16/2018
-  startDate: 09/15/2018
-  expDate: 02/28/2019
-  title: 'I-Corps: Ambient Sleep Architecture Monitor'
-- abstractText: |-
-    The broader impact and commercial potential of this I-Corps project are as follows: Cryo-Electron Microscopy (Cryo-EM) is a method for obtaining 3D structures of biological molecules. The method has growing importance in basic life science research and in the pharmaceutical sector for defining how drugs interact with their targets. Cryo-EM as a whole has matured into a powerful tool in recent years, culminating in the 2017 Nobel Prize in Chemistry, but the process of protein 'sample preparation' for 3D study has not advanced appreciably and is widely considered to represent the major bottleneck in the overall method. This bottleneck also presents a major commercial opportunity. The present project advances new nanofluidic-based technology aimed at addressing this bottleneck. Successful development of this technology will yield a consumable product ready for commercialization. Fulfillment of this goal will greatly advance and open new possibilities in cryo-EM structure determination. The resulting acceleration and enhancement of basic science and drug discovery would translate to broad societal benefit.
-
-    This I-Corps project advances a new technology, supported by prototype data, to breach the major bottleneck in the rapidly growing cryo-EM field, with broad impact in life science and drug discovery. Cryo-EM is performed by taking images of frozen proteins using an electron microscope, then processing the images with a computer to obtain a 3D protein structure. To image and obtain a structure, the protein sample must first be frozen into a thin layer (~50-200 nm). With existing technology, this process is poorly controlled, lacks reproducibility and substantially adds to the time required to get a structure. Our device is designed to directly mitigate these sample preparation problems. It is a self-contained, freezable fluid cell nanofabricated to specification, giving full control over sample geometry and protein environment. Protein is passively loaded into the fluid cell, the loaded device is frozen, and can then be imaged directly. Materials on the top and bottom of the fluid cell are selected to transmit the electron beam through the protein sample with minimal noise. Successful prototype testing and data collection has shown the viability of the core design, with future work focused on refining the design and materials and streamlining manufacturing for eventual commercialization.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 415 SOUTH ST MAILSTOP 116
-  awardeeCity: WALTHAM
-  awardeeCountryCode: US
-  awardeeName: Brandeis University
-  awardeeStateCode: MA
-  awardeeZipCode: 024532728
-  fundsObligatedAmt: '50000'
-  fundProgramName: I-Corps
-  id: '1844868'
-  piEmail: menapace@brandeis.edu
-  piFirstName: Rebecca
-  piLastName: Menapace
-  piPhone: '7817362176'
-  poName: Nancy Kamei
-  date: 08/16/2018
-  startDate: 09/15/2018
-  expDate: 02/28/2019
-  title: 'I-Corps: A freezable fluid cell for high-resolution cryo-electron microscopy'
-- abstractText: |-
-    The broader impact/commercial potential of this I-Corps project is pivoted around the emerging whole slide imaging market segment in digital pathology. The digital pathology market is predicted to reach over $800 million by 2025. The motivation of this project stems from the gigabyte size of whole slide images (WSIs), which are digital images of glass slides produced at near optical resolution. With rapid increase in the number of WSIs produced by hospitals and pathology labs, the storage and management of WSIs has become an urgent problem to tackle for next-generation image analytics. The commercial viability of the project can significantly impact researchers, medical professionals, software developers, and IT staff who wish to manage large number of WSIs using modern cluster computing and big data techniques. Thus, next-generation image analytics (e.g., using deep learning) for automatic detection and analysis of cellular and morphological features in human tissues can be performed faster on large numbers of WSIs. The potential societal benefit of the project includes enabling improved diagnosis of diseases by pathologists using next-generation image analytics and the creation of a tech startup leading to new jobs. This project will provide training to two Ph.D. students from underrepresented groups in STEM.
-
-    This I-Corps project is based on a software technology that aims to solve the fundamental problem of scalable storage of WSIs and fast retrieval of tiles using a commodity cluster and big data techniques. The value proposition of the technology is efficient and cost-effective storage of large-scale WSIs and fast retrieval of tiles to enable next-generation image analytics for human disease diagnosis. The technology encompasses intelligent data partitioning using space-filling curves, in-memory data structures, and effective organization of tiles to enable fast retrieval of tiles during image analysis. It employs space-efficient storage formats to maximize storage efficiency. On an average, it required a few seconds to retrieve a single tile on 80 WSIs using a 16-node cluster. Therefore, we believe next-generation image analytics on WSIs (e.g., using deep learning) can run faster on large number of WSIs, which can consume terabytes of storage, through faster access of image tiles. As the technology relies on commodity hardware and open source software, it is cost-effective and can be easily deployed as a product or a service. The technology has the potential to advance the state-of-the-art in WSI storage and management using a big data approach.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 5100 Rockhill Road
-  awardeeCity: Kansas City
-  awardeeCountryCode: US
-  awardeeName: University of Missouri-Kansas City
-  awardeeStateCode: MO
-  awardeeZipCode: '641102499'
-  fundsObligatedAmt: '50000'
-  fundProgramName: I-Corps
-  id: '1841752'
-  piEmail: raopr@umkc.edu
-  piFirstName: Praveen
-  piLastName: Rao
-  piMiddeInitial: R
-  piPhone: '8162351303'
-  poName: Nancy Kamei
-  date: 08/16/2018
-  startDate: 09/15/2018
-  expDate: 02/28/2019
-  title: 'I-Corps:  Scalable Storage of Whole Slide Images and Fast Retrieval of Tiles
-    for Next-Generation Image Analytics'
 - abstractText: |-
     The broader impact/commercial potential of this I-Corps project is the use of autonomous robotic systems to save lives across multiple disaster levels by multiplying human efforts in areas such as disaster response, extending to reduced response times and improved rescue efforts during disaster relief. Using autonomous systems, such as drones, that run software which allows for the use of biosensors and on-board machine learning, natural disaster responders can find survivors faster and reduce casualties. The technology understands mission objectives (intent-driven), coordinates with others (collaborative autonomy) and is voice enabled (natural language conversational interface), allowing it to work well with both humans and machines. These and other features lend this technology to broad commercial applications, offering the best strategy to mitigate multiple disaster levels - at the district or provincial level by assessing strengths and vulnerabilities to various hazards; at the community level like search and rescue during a flood or fire; and at the household level like ambulatory drone service care for the aging.
 
@@ -32311,31 +32257,6 @@
   startDate: 07/01/2018
   expDate: 12/31/2018
   title: 'I-Corps: Nanoenabled Electronic Nose'
-- abstractText: |-
-    The broader impact/commercial potential of this I-Corps project involves the optimization of human resource deployment via technology. More specifically, this endeavor leverages systems research to inform software with machine learning to inform how to organize work across industries and align that work with available human resources in a manner that optimizes outcomes. This technology can serve to benefit diverse industries; however, it offers unique value for healthcare settings which often have scare human resources deployed in rapidly changing environments. In clinical environments, how care is organized can have significant implications for cost, quality, and outcomes. This software will collect and analyze large volumes of data related to individuals and the environment to organize and assign work optimally (i.e. to improve clinical outcomes, decrease costs and increase efficiency). This technology has significant commercial potential beyond healthcare environments to any industry that routinely organizes and assigns work to a workforce where considerations of individual characteristics and environmental characteristics have significance.
-
-    This I-Corps project involves pursuits focused on better understanding the application potential of research-driven technology in various industries with a specific focus on inpatient clinical environments (i.e. hospitals). The technology automates and optimizes nurse staffing in hospital settings. It uses a data-driven algorithm informed by qualitative and quantitative research to make nurse-patient assignments that improve outcomes, save time, and reduce stress. The research driving this technology is inclusive of a review and synthesis of relevant nursing, health systems, and work science literature as well as qualitative research involving interviews of nurses and quantitative research assessing relationships between inpatient clinical work environments and patient outcomes. The technology integrates research data from nurses, patients, and hospital structural factors to inform algorithms driving nurse-patient matches. Machine learning elements of the software facilitate this optimization process. The software also serves as a mechanism for collecting a unique data set that records patient-nurse ?exposures? on the individual level and on an unprecedented scale. Such a data set is of great value to health services researchers, hospital quality improvement teams, and to our team as it seeks to improve and customize the algorithm with potential to decrease costs of care and improve patient and nurse outcomes.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: Research Services
-  awardeeCity: Philadelphia
-  awardeeCountryCode: US
-  awardeeName: University of Pennsylvania
-  awardeeStateCode: PA
-  awardeeZipCode: '191046205'
-  fundsObligatedAmt: '50000'
-  fundProgramName: I-Corps
-  id: '1840740'
-  piEmail: bartd@nursing.upenn.edu
-  piFirstName: Bart
-  piLastName: De Jonghe
-  piMiddeInitial: C
-  piPhone: '2155861213'
-  poName: Nancy Kamei
-  date: 06/18/2018
-  startDate: 07/01/2018
-  expDate: 12/31/2018
-  title: 'I-Corps: Human Resource Optimization Software'
 - abstractText: "The broader impact/commercial potential of this I-Corps project will
     be the improvement of the quality of lives of both the individuals with Autism
     Spectrum Disorder (ASD) and their caregivers. The prevalence of autism has increased
@@ -32392,6 +32313,56 @@
   title: 'I-Corps: A Quantitative Approach to Detecting Meltdowns in Individuals with
     Autism Spectrum Disorder'
 - abstractText: |-
+    The broader impact/commercial potential of this I-Corps project is based on a device which passively adjusts the mechanical advantage of a motor-driven actuator. This device, known as the Elastomeric Passive Transmission (EPT), improves the force and speed of tendon-driven actuation systems with minimal impact to their size, weight, and cost. Approximately 40,000 people per year suffer from major upper limb loss in the United States. The grip strength, grasping speed, and active degrees-of-freedom of even the most advanced prosthetic hands used by these patients pale in comparison to those of a human hand. User studies have shown that 90% of patients with myoelectric prostheses consider their prosthetic hand to be too slow and 79% consider it to be too heavy. By incorporating the EPT into their designs, prosthetic limb manufacturers can increase the force and speed of their devices with reduced cost and weight. In addition to improving the performance of prosthetics, the EPT has the potential to bring performance benefits to grippers and manipulators in the field of robotic automation.
+
+    This I-Corps project is leverages advances in additive manufacturing to produce simple, low-cost components to improve the performance of electromechanical systems. Each EPT is a composite consisting of both hard and soft polyurethane sections. The hard polyurethane serves as the core of the EPT ensuring that it does not slip on the motor shaft. This core is surrounded by a ring of soft, stretchable struts which give the system its dynamic spooling radius. The EPTs are 3D-printed in two parts and bonded together during the final curing stage. This leads to a single component transmission system which can passively sense the environment and adjust the output of a motor to improve performance and control. The benefits of EPTs have been demonstrated through integration into a 3D-printed prosthetic hand which demonstrates high speed and high force in an inexpensive and lightweight package.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 373 Pine Tree Road
+  awardeeCity: Ithaca
+  awardeeCountryCode: US
+  awardeeName: Cornell University
+  awardeeStateCode: NY
+  awardeeZipCode: '148502820'
+  fundsObligatedAmt: '50000'
+  fundProgramName: I-Corps
+  id: '1838514'
+  piEmail: rfs247@cornell.edu
+  piFirstName: Robert
+  piLastName: Shepherd
+  piPhone: '6072555014'
+  poName: Nancy Kamei
+  date: 06/18/2018
+  startDate: 07/01/2018
+  expDate: 12/31/2018
+  title: 'I-Corps: Elastomeric Passive Transmission for Dynamic Adjustment of Mechanical
+    Advantage'
+- abstractText: |-
+    The broader impact/commercial potential of this I-Corps project involves the optimization of human resource deployment via technology. More specifically, this endeavor leverages systems research to inform software with machine learning to inform how to organize work across industries and align that work with available human resources in a manner that optimizes outcomes. This technology can serve to benefit diverse industries; however, it offers unique value for healthcare settings which often have scare human resources deployed in rapidly changing environments. In clinical environments, how care is organized can have significant implications for cost, quality, and outcomes. This software will collect and analyze large volumes of data related to individuals and the environment to organize and assign work optimally (i.e. to improve clinical outcomes, decrease costs and increase efficiency). This technology has significant commercial potential beyond healthcare environments to any industry that routinely organizes and assigns work to a workforce where considerations of individual characteristics and environmental characteristics have significance.
+
+    This I-Corps project involves pursuits focused on better understanding the application potential of research-driven technology in various industries with a specific focus on inpatient clinical environments (i.e. hospitals). The technology automates and optimizes nurse staffing in hospital settings. It uses a data-driven algorithm informed by qualitative and quantitative research to make nurse-patient assignments that improve outcomes, save time, and reduce stress. The research driving this technology is inclusive of a review and synthesis of relevant nursing, health systems, and work science literature as well as qualitative research involving interviews of nurses and quantitative research assessing relationships between inpatient clinical work environments and patient outcomes. The technology integrates research data from nurses, patients, and hospital structural factors to inform algorithms driving nurse-patient matches. Machine learning elements of the software facilitate this optimization process. The software also serves as a mechanism for collecting a unique data set that records patient-nurse ?exposures? on the individual level and on an unprecedented scale. Such a data set is of great value to health services researchers, hospital quality improvement teams, and to our team as it seeks to improve and customize the algorithm with potential to decrease costs of care and improve patient and nurse outcomes.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: Research Services
+  awardeeCity: Philadelphia
+  awardeeCountryCode: US
+  awardeeName: University of Pennsylvania
+  awardeeStateCode: PA
+  awardeeZipCode: '191046205'
+  fundsObligatedAmt: '50000'
+  fundProgramName: I-Corps
+  id: '1840740'
+  piEmail: bartd@nursing.upenn.edu
+  piFirstName: Bart
+  piLastName: De Jonghe
+  piMiddeInitial: C
+  piPhone: '2155861213'
+  poName: Nancy Kamei
+  date: 06/18/2018
+  startDate: 07/01/2018
+  expDate: 12/31/2018
+  title: 'I-Corps: Human Resource Optimization Software'
+- abstractText: |-
     The broader impact/commercial potential of this I-Corps project is to understand the problems that the industry and federal agencies face during the operation of underwater vehicles for applications such as, ocean monitoring, inspection of coastal structures, rescue missions and/or hydrographic survey. Autonomous underwater vehicles (AUVs) are key for multiple underwater missions including detecting and mapping submerged wrecks, ocean bed-floor, polluted water, as well as surveillance of coastal zones and coastal structures. In many circumstances AUVs are preferred over conventional towed instruments or marine surface vehicles because AUVs can get closer to the area of interest, they can cover large areas without constant monitoring or hover hazardous areas without putting at risk humans life. Although current AUVs have many capabilities, one main limitation is their inability to perform precise station-keeping which allows the vehicle to hold its position and adjust for currents. New technology in underwater propulsion will permit the development and control of a new generation of highly maneuverable vessels that have to operate in more challenging environments. The proposed work is expected to increase the partnership between academia, marine industries and national defense agencies. In addition, it will promote the progress of science and national security using bio-inspired technology.
 
     This I-Corps project focuses in the propulsion technology and control strategy for AUVs that needs to operate in tight space, low-speed with high mobility and perform station-keeping missions. Bio-inspired undulating fin can provide multiple advantages including: superior maneuverability to control forward motion and directional maneuver with a single undulating fin; precise maneuvers suitable for station-keeping and maneuvers in tight spaces; reduce risk to get tangled in marine plants and ropes with less impact on the marine ecosystem; relative low speed with likely lower acoustic signature.
@@ -32417,31 +32388,6 @@
   expDate: 12/31/2018
   title: 'I-Corps: Bio-Inspired Underwater Vessels for Coastal Monitoring, Inspection
     and Station-Keeping'
-- abstractText: |-
-    The broader impact/commercial potential of this I-Corps project is based on a device which passively adjusts the mechanical advantage of a motor-driven actuator. This device, known as the Elastomeric Passive Transmission (EPT), improves the force and speed of tendon-driven actuation systems with minimal impact to their size, weight, and cost. Approximately 40,000 people per year suffer from major upper limb loss in the United States. The grip strength, grasping speed, and active degrees-of-freedom of even the most advanced prosthetic hands used by these patients pale in comparison to those of a human hand. User studies have shown that 90% of patients with myoelectric prostheses consider their prosthetic hand to be too slow and 79% consider it to be too heavy. By incorporating the EPT into their designs, prosthetic limb manufacturers can increase the force and speed of their devices with reduced cost and weight. In addition to improving the performance of prosthetics, the EPT has the potential to bring performance benefits to grippers and manipulators in the field of robotic automation.
-
-    This I-Corps project is leverages advances in additive manufacturing to produce simple, low-cost components to improve the performance of electromechanical systems. Each EPT is a composite consisting of both hard and soft polyurethane sections. The hard polyurethane serves as the core of the EPT ensuring that it does not slip on the motor shaft. This core is surrounded by a ring of soft, stretchable struts which give the system its dynamic spooling radius. The EPTs are 3D-printed in two parts and bonded together during the final curing stage. This leads to a single component transmission system which can passively sense the environment and adjust the output of a motor to improve performance and control. The benefits of EPTs have been demonstrated through integration into a 3D-printed prosthetic hand which demonstrates high speed and high force in an inexpensive and lightweight package.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 373 Pine Tree Road
-  awardeeCity: Ithaca
-  awardeeCountryCode: US
-  awardeeName: Cornell University
-  awardeeStateCode: NY
-  awardeeZipCode: '148502820'
-  fundsObligatedAmt: '50000'
-  fundProgramName: I-Corps
-  id: '1838514'
-  piEmail: rfs247@cornell.edu
-  piFirstName: Robert
-  piLastName: Shepherd
-  piPhone: '6072555014'
-  poName: Nancy Kamei
-  date: 06/18/2018
-  startDate: 07/01/2018
-  expDate: 12/31/2018
-  title: 'I-Corps: Elastomeric Passive Transmission for Dynamic Adjustment of Mechanical
-    Advantage'
 - abstractText: "The broader impact/commercial potential of this I-Corps project is
     in facilitating innovations in a wide range of industries working on advanced
     computing-based applications as the result of a reliable neuromorphic chip (where
@@ -33338,54 +33284,6 @@
   expDate: 04/30/2019
   title: 'I-Corps: Air-Stable and Low-Cost Metal Inks for Wearable Electronics and
     Sensors'
-- abstractText: |-
-    The broad impact/commercial potential of this I-Corps project is to protect security and privacy of mobile device users with memorable, usable, and secure authentication schemes. According to statista.com, the number of smartphone users in the world will be more than five billion by 2019. The popularity of these mobile devices is due to a unique set of features including ubiquitous Internet access through communication technologies such as Wifi and 4G/LTE, easy to use touch-based inputs, and numerous applications and games. In the meantime, the security of mobile devices is becoming a major concern as device users are storing sensitive data such as personal contacts and utilizing sensitive applications like banking and stock trading. Strong authentication as the forefront defense mechanism can prevent unauthorized access to a mobile device that may lead to lack of accountability, data loss or stealing, and identity theft. Due to the popularity of mobile devices and their uses in government, business, and even military applications, securing mobile devices with secure, memorable, and usable authentication is of great societal importance.
-
-    This I-Corps project focuses on exploring the market potential for multi-dimensional authentication schemes. The new paradigm of multi-dimensional authentication schemes can achieve better memorability, security, and usability at the same time. The new schemes fuse information from multiple dimensions to form a password, allowing the schemes to enlarge the password space and improve memorability by reducing memory interference. The information fusion can increase usability as fewer input gestures are required for passwords of the same security strength. The schemes can also be shoulder-surfing resistant. A successful authentication requires a user to respond to a random challenge so that a set of predefined rules are satisfied after adjustments made by the user. The schemes can also be used for continuously monitoring device user behavior to ensure the current device users is a user authorized to use the device. Through this project, we will be able to investigate the needs from various customer segments and polish our technologies and prototypes to meet the needs.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 2121 Euclid Avenue
-  awardeeCity: Cleveland
-  awardeeCountryCode: US
-  awardeeName: Cleveland State University
-  awardeeStateCode: OH
-  awardeeZipCode: '441152214'
-  fundsObligatedAmt: '50000'
-  fundProgramName: I-Corps
-  id: '1832820'
-  piEmail: y.zhu61@csuohio.edu
-  piFirstName: Ye
-  piLastName: Zhu
-  piPhone: '2166873630'
-  poName: Nancy Kamei
-  date: 04/04/2018
-  startDate: 04/01/2018
-  expDate: 09/30/2019
-  title: 'I-Corps:  Securing Mobile Devices with Memorable, Usable, and Secure Authentication'
-- abstractText: |-
-    The broader impact/commercial potential of this I-Corps project is to create a new service technology to improve physical activity engagement by developing personalized physical activity prescriptions with market-available exergames and fitness mobile applications (fitness app). This technology is a theory- and research-based service process that targets maintaining physical activity engagement. The application has the potential to improve fitness function in individuals at any age and in any physical condition when he/she engages in physical activity. The technology can have several broader impacts on society: (1) as a nation, we are in need of creative solutions to improve the general health and fitness of our citizens; (2) according to the US Census bureau, in 2050, the 65+ age population is predicted to be over 80 million (twice that in 2012) who need to be fit; and (3) chronic illnesses result in significant reduction in productivity of the working population - the severity of illness can be reduced by improving the fitness of the individual.
-
-    This I-Corps project aims (1) to determine what the customer segments and value propositions are for the technology; (2) to identify in what format the application should be delivered to make a market/product fit; and (3) to establish the readiness to transit the technology as an automated marketable service product. As of today, the technology exists as a manually prescribing procedure for patients who suffer from fatigue symptom. It has been thoroughly validated by pilot tests. Personalization features gauge and match multi-level factors, so the likelihood of adherence to the physical activity prescription is very high. The Exergame Grading Scheme is used to rate intensity of fitness attributes and energy expenditure of exergames and fitness app. The personalized physical activity prescriptions are generated by the Exergame Grading Scheme based algorithm, so that the prescription can challenge the individual's functional capacity. The intellectual merit lies in: (1) identifying the right combination of hardware/software technologies that can accurately implement the product; and (2) implementing a solution that is scalable in mass volumes with low cost per unit.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 3702 Spectrum Blvd.
-  awardeeCity: Tampa
-  awardeeCountryCode: US
-  awardeeName: University of South Florida
-  awardeeStateCode: FL
-  awardeeZipCode: '336129446'
-  fundsObligatedAmt: '50000'
-  fundProgramName: I-Corps
-  id: '1831047'
-  piEmail: hwang5@health.usf.edu
-  piFirstName: Hsiao-Lan
-  piLastName: Wang
-  piPhone: '8139745216'
-  poName: Nancy Kamei
-  date: 04/04/2018
-  startDate: 04/01/2018
-  expDate: 09/30/2019
-  title: 'I-Corps:  Use of eHealth to Personalize Exergame Prescriptions'
 - abstractText: "The broader impact/commercial potential of this I-Corps project is
     related to the development of fluorescent materials. Commercial potential is expected
     to emerge when replacing costly existing technologies (like quantum dots) with
@@ -33436,6 +33334,54 @@
   expDate: 09/30/2019
   title: 'I-Corps:  Fluorescent Dyes and Pigments by Small Molecule Isolation Lattices,
     SMILES'
+- abstractText: |-
+    The broad impact/commercial potential of this I-Corps project is to protect security and privacy of mobile device users with memorable, usable, and secure authentication schemes. According to statista.com, the number of smartphone users in the world will be more than five billion by 2019. The popularity of these mobile devices is due to a unique set of features including ubiquitous Internet access through communication technologies such as Wifi and 4G/LTE, easy to use touch-based inputs, and numerous applications and games. In the meantime, the security of mobile devices is becoming a major concern as device users are storing sensitive data such as personal contacts and utilizing sensitive applications like banking and stock trading. Strong authentication as the forefront defense mechanism can prevent unauthorized access to a mobile device that may lead to lack of accountability, data loss or stealing, and identity theft. Due to the popularity of mobile devices and their uses in government, business, and even military applications, securing mobile devices with secure, memorable, and usable authentication is of great societal importance.
+
+    This I-Corps project focuses on exploring the market potential for multi-dimensional authentication schemes. The new paradigm of multi-dimensional authentication schemes can achieve better memorability, security, and usability at the same time. The new schemes fuse information from multiple dimensions to form a password, allowing the schemes to enlarge the password space and improve memorability by reducing memory interference. The information fusion can increase usability as fewer input gestures are required for passwords of the same security strength. The schemes can also be shoulder-surfing resistant. A successful authentication requires a user to respond to a random challenge so that a set of predefined rules are satisfied after adjustments made by the user. The schemes can also be used for continuously monitoring device user behavior to ensure the current device users is a user authorized to use the device. Through this project, we will be able to investigate the needs from various customer segments and polish our technologies and prototypes to meet the needs.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 2121 Euclid Avenue
+  awardeeCity: Cleveland
+  awardeeCountryCode: US
+  awardeeName: Cleveland State University
+  awardeeStateCode: OH
+  awardeeZipCode: '441152214'
+  fundsObligatedAmt: '50000'
+  fundProgramName: I-Corps
+  id: '1832820'
+  piEmail: y.zhu61@csuohio.edu
+  piFirstName: Ye
+  piLastName: Zhu
+  piPhone: '2166873630'
+  poName: Nancy Kamei
+  date: 04/04/2018
+  startDate: 04/01/2018
+  expDate: 09/30/2019
+  title: 'I-Corps:  Securing Mobile Devices with Memorable, Usable, and Secure Authentication'
+- abstractText: |-
+    The broader impact/commercial potential of this I-Corps project is to create a new service technology to improve physical activity engagement by developing personalized physical activity prescriptions with market-available exergames and fitness mobile applications (fitness app). This technology is a theory- and research-based service process that targets maintaining physical activity engagement. The application has the potential to improve fitness function in individuals at any age and in any physical condition when he/she engages in physical activity. The technology can have several broader impacts on society: (1) as a nation, we are in need of creative solutions to improve the general health and fitness of our citizens; (2) according to the US Census bureau, in 2050, the 65+ age population is predicted to be over 80 million (twice that in 2012) who need to be fit; and (3) chronic illnesses result in significant reduction in productivity of the working population - the severity of illness can be reduced by improving the fitness of the individual.
+
+    This I-Corps project aims (1) to determine what the customer segments and value propositions are for the technology; (2) to identify in what format the application should be delivered to make a market/product fit; and (3) to establish the readiness to transit the technology as an automated marketable service product. As of today, the technology exists as a manually prescribing procedure for patients who suffer from fatigue symptom. It has been thoroughly validated by pilot tests. Personalization features gauge and match multi-level factors, so the likelihood of adherence to the physical activity prescription is very high. The Exergame Grading Scheme is used to rate intensity of fitness attributes and energy expenditure of exergames and fitness app. The personalized physical activity prescriptions are generated by the Exergame Grading Scheme based algorithm, so that the prescription can challenge the individual's functional capacity. The intellectual merit lies in: (1) identifying the right combination of hardware/software technologies that can accurately implement the product; and (2) implementing a solution that is scalable in mass volumes with low cost per unit.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 3702 Spectrum Blvd.
+  awardeeCity: Tampa
+  awardeeCountryCode: US
+  awardeeName: University of South Florida
+  awardeeStateCode: FL
+  awardeeZipCode: '336129446'
+  fundsObligatedAmt: '50000'
+  fundProgramName: I-Corps
+  id: '1831047'
+  piEmail: hwang5@health.usf.edu
+  piFirstName: Hsiao-Lan
+  piLastName: Wang
+  piPhone: '8139745216'
+  poName: Nancy Kamei
+  date: 04/04/2018
+  startDate: 04/01/2018
+  expDate: 09/30/2019
+  title: 'I-Corps:  Use of eHealth to Personalize Exergame Prescriptions'
 - abstractText: |-
     The broader impact/commercial potential of this I-Corps project is the expansion of facial recognition technologies into the emissive infrared bands and the reduction of false negatives in the presence of large facial pose variation.  Visible 2-D image-based machine learning techniques dominate the commercial facial recognition landscape while heterogeneous facial recognition techniques including 3-D to 2-D matching and infrared to visible matching have not seen similar widespread commercial deployment.  The patented technology originates from an NSF Award and brings a crucial algorithmic component for commercial deployment that enhances heterogeneous facial recognition techniques while not relying on machine learning nor its concomitant large training database requirements.  This in turn opens up the potential for improved automated surveillance against a given watch-list deployable in a host of public and private spaces and under a wider range of surveillance conditions than currently possible using 2-D commercial matching algorithms.
 
@@ -34246,6 +34192,28 @@
   expDate: 06/30/2019
   title: 'I-Corps: Improving the Energy Efficiency of Transport Refrigeration Units'
 - abstractText: |-
+    The broader/commercial impact of this I-Corps project is to potentially reduce significantly the number of deaths of premature babies in low to middle income countries. Premature birth is globally the number one cause of death in children under the age of 5, with respiratory distress syndrome (RDS) being the leading cause of these deaths. RDS is usually addressed by using a bCPAP (bubble continuous positive airway pressure) machine that provides the baby with a humidified blend of air and oxygen at a controlled temperature and pressure. The goal of this project is to develop a state-of-the-art, low-cost bCPAP machine that aids preterm babies in low to middle income countries. While bCPAP devices are standard in wealthy nations, their $8-10k cost often makes them unaffordable for countries with fewer resources.
+
+    This I-Corps project will explore the commercial potential of a novel bubble continuous positive airway pressure (bCPAP) machine.  Some of the innovative features of this device include a cassette format for ease of maintenance and repair, a battery backup for uninterrupted care, robust component selection for extended lifetime use and a drug delivery add on for potential treatment of comorbidities. If successfully implemented, this product would potentially help provide quality affordable healthcare to underserved populations and reduce premature deaths due to respiratory distress syndrome.
+  awardeeAddress: 360 HUNTINGTON AVE
+  awardeeCity: BOSTON
+  awardeeCountryCode: US
+  awardeeName: Northeastern University
+  awardeeStateCode: MA
+  awardeeZipCode: '021155005'
+  fundsObligatedAmt: '50000'
+  fundProgramName: I-Corps
+  id: '1802429'
+  piEmail: tigrantsubmissions@gmail.com
+  piFirstName: Solomon
+  piLastName: Mensah
+  piPhone: '3479010712'
+  poName: Anita J. LaSalle
+  date: 12/23/2017
+  startDate: 01/01/2018
+  expDate: 12/31/2018
+  title: 'I-Corps: cPAP device for premature infants'
+- abstractText: |-
     The broader impact/commercial potential of this I-Corps project is the applications of a technology, the Level Set Discrete Element Method (LS-DEM), to solve real-world problems.  Specifically, the project will look at the commercial viability of the technology in geotechnical engineering, civil engineering, food storage, additive manufacturing processes, pharmaceutical production lines, and mining and excavation industries among many others.  LS-DEM has capabilities that exceed current techniques within engineering practice, enabling more accurate analysis of engineering designs, enhancing optimization of existing engineering processes, and reducing engineering costs both in terms of time and money. Additionally, the potential exists for large improvements in the safety of both existing and new infrastructure from the increased understanding of physical processes that this technology can provide. Overall, the proposed technology has the potential to be a transformative technology that positively impacts many commercial industries.
 
     This I-Corps project investigates potential commercial applications and markets for the Level Set Discrete Element Method (LS-DEM) technology.  The intellectual merit of this method is to allow the rapid simulation and modeling of discrete objects with any shape, overcoming a major challenge within the field. Modeling of discrete objects is important in many commercial applications and shape is pivotal for correctly understanding systems.  For example, spherical objects behave very differently than rectangular objects, yet current discrete methods are mostly limited to spherical approximations in large granular systems. This results in less accurate and less informative results that LS-DEM overcomes by effectively and exactly replicating any component's shape.  LS-DEM has proven through past research to be highly accurate and predictive engineering tool. This work will investigate various commercial applications, where a better understanding of discrete object interactions can impact our engineering and scientific understanding of the system or systems in question.
@@ -34268,28 +34236,6 @@
   startDate: 01/01/2018
   expDate: 12/31/2018
   title: 'I-Corps: Multi-physics Software for Arbitrarily-shaped Objects'
-- abstractText: |-
-    The broader/commercial impact of this I-Corps project is to potentially reduce significantly the number of deaths of premature babies in low to middle income countries. Premature birth is globally the number one cause of death in children under the age of 5, with respiratory distress syndrome (RDS) being the leading cause of these deaths. RDS is usually addressed by using a bCPAP (bubble continuous positive airway pressure) machine that provides the baby with a humidified blend of air and oxygen at a controlled temperature and pressure. The goal of this project is to develop a state-of-the-art, low-cost bCPAP machine that aids preterm babies in low to middle income countries. While bCPAP devices are standard in wealthy nations, their $8-10k cost often makes them unaffordable for countries with fewer resources.
-
-    This I-Corps project will explore the commercial potential of a novel bubble continuous positive airway pressure (bCPAP) machine.  Some of the innovative features of this device include a cassette format for ease of maintenance and repair, a battery backup for uninterrupted care, robust component selection for extended lifetime use and a drug delivery add on for potential treatment of comorbidities. If successfully implemented, this product would potentially help provide quality affordable healthcare to underserved populations and reduce premature deaths due to respiratory distress syndrome.
-  awardeeAddress: 360 HUNTINGTON AVE
-  awardeeCity: BOSTON
-  awardeeCountryCode: US
-  awardeeName: Northeastern University
-  awardeeStateCode: MA
-  awardeeZipCode: '021155005'
-  fundsObligatedAmt: '50000'
-  fundProgramName: I-Corps
-  id: '1802429'
-  piEmail: mensah.s@husky.neu.edu
-  piFirstName: Solomon
-  piLastName: Mensah
-  piPhone: '3477540252'
-  poName: Anita J. LaSalle
-  date: 12/23/2017
-  startDate: 01/01/2018
-  expDate: 12/31/2018
-  title: 'I-Corps: cPAP device for premature infants'
 - abstractText: |-
     The broader impact / commercial potential of this I-Corps project is to better identify the commercial opportunity for three-dimensional nanostructured materials made via high-throughput holographic methods. These materials have a truss-like structure at submicron length scales, giving them better properties like improved strength-to-weight ratio. An analogy would be how we use trusses for bridges instead of solid hunks of steel. This manufacturing method will enable industrial-scale manufacturing of materials useful in multiple US industries. For example, membrane separations are used, for example, in biomedical testing, drug and therapeutic production, scientific research, and water treatment. Optical devices such as cameras, microscopes, and lighting could also be improved by various types of these three-dimensional nanostructured materials.
 
@@ -35143,6 +35089,27 @@
   expDate: 12/31/2018
   title: 'I-Corps: Data Analytics and Automated Candidate Assessment'
 - abstractText: |-
+    The broader/commercial impact of this I-Corps project is a miniaturized, on-demand pharmaceutical manufacturing platform that is scalable and efficient to deploy, highly automated, and fast on product release. The project's aim is to reduce manufacturing and inventory cost and in turn overcome drug shortages. Broadly speaking, the current global pharmaceutical industry is prone to supply chain disruptions, drug shortages, and drug price hikes. One major contributing factor are legacy factories and processes which are limited to intermittent and slow production. Moreover, the outdated infrastructure has weaknesses in terms of product yield and environmental impact. Given the pressure of meeting demand for clinical trial supplies, uncertainties over approvals, and other resource constraints, drug development activities have often only been a series of process scale-ups with less emphasis on innovating on the next-gen manufacturing processes, which can be fundamentally better in all aspects in the long term. Consequently, this project is a significant push towards a more flexible, economical, greener, and, ultimately, more sustainable drug manufacturing infrastructure.
+
+    This I-Corps project explores the commercial potential of a microfluidic-based, continuous-flow pharmaceutical manufacturing device. It represents a paradigm shift from conventional, labor-intensive, batch drug manufacturing processes. Microfluidics (MFDs) are fabricated microchannels which are up to a thousand times smaller than a conventional batch reactor for the same throughput. In turn, MFDs offer up to a thousand times increase in the surface area to volume ratio, allowing for extremely rapid heat and mass transfer and a suite of other advantages; Since the process is continuous, the system can be spatially integrated with state-of-the-art analytical sensors and computer-based controllers, by which the product quality can be assured not only by process design, but also by advanced process control. From a synthesis and purification perspective, MFDs allow for precise handling of previously inaccessible, but highly efficient, pressurized, and often exothermic pathways. This results in greener and safer processes with higher throughput and less waste. On the formulation side, MFDs provide homogeneous crystallization environments, leading to monodisperse crystal size distributions, which leads to superior reproducibility in key product quality such as shape and size.
+  awardeeAddress: Young Hall
+  awardeeCity: West Lafayette
+  awardeeCountryCode: US
+  awardeeName: Purdue University
+  awardeeStateCode: IN
+  awardeeZipCode: '479072114'
+  fundsObligatedAmt: '50000'
+  fundProgramName: I-Corps
+  id: '1745798'
+  piEmail: zknagy@purdue.edu
+  piFirstName: Zoltan
+  piLastName: Nagy
+  poName: Nancy Kamei
+  date: 07/12/2017
+  startDate: 07/01/2017
+  expDate: 12/31/2018
+  title: 'I-Corps: Miniaturized, End-to-End Pharmaceutical Manufacturing Platform'
+- abstractText: |-
     The broader impact/commercial potential of this I-Corps project lies in offering modular and reconfigurable mobile robotics solutions for deployment in environments that maybe unsafe for humans.  Modularity offers a unique opportunity to address needs in multiple markets with a single solution when coupled with a suite of specific attachment modules.  It is envisioned that the platform will first be adopted by law enforcement.  Other market that will be explored include defense applications, where there seems to be interest in throwable robots.  Robotic assistance for environmental management is another potential market area.
 
     This I-Corps project is based on developments in small mobile robots for applications in search, rescue and reconnaissance.  This modular platform is designed to support efforts in the context of "robotics science of safety."  Novel aspects in design provide more advanced mobility characteristics than currently available platforms. The locomotion designs spawns new questions and opportunities for basic research in legged locomotion.  A modular form-factor makes this robot accessible to a larger audience, with an inexpensive baseline model that can be upgraded with sensor and hardware packages as needed by the customers.  Throwable, and miniature sized robots are currently an asset to operations involving reconnaissance, inspection and characterization in dangerous environments.  Driven by customer feedback, the features of this robot can carefully evolve to meet the needs of each customer segment.
@@ -35165,27 +35132,6 @@
   startDate: 07/01/2017
   expDate: 12/31/2018
   title: 'I-Corps: Modular throwable robot for inspection and characterization'
-- abstractText: |-
-    The broader/commercial impact of this I-Corps project is a miniaturized, on-demand pharmaceutical manufacturing platform that is scalable and efficient to deploy, highly automated, and fast on product release. The project's aim is to reduce manufacturing and inventory cost and in turn overcome drug shortages. Broadly speaking, the current global pharmaceutical industry is prone to supply chain disruptions, drug shortages, and drug price hikes. One major contributing factor are legacy factories and processes which are limited to intermittent and slow production. Moreover, the outdated infrastructure has weaknesses in terms of product yield and environmental impact. Given the pressure of meeting demand for clinical trial supplies, uncertainties over approvals, and other resource constraints, drug development activities have often only been a series of process scale-ups with less emphasis on innovating on the next-gen manufacturing processes, which can be fundamentally better in all aspects in the long term. Consequently, this project is a significant push towards a more flexible, economical, greener, and, ultimately, more sustainable drug manufacturing infrastructure.
-
-    This I-Corps project explores the commercial potential of a microfluidic-based, continuous-flow pharmaceutical manufacturing device. It represents a paradigm shift from conventional, labor-intensive, batch drug manufacturing processes. Microfluidics (MFDs) are fabricated microchannels which are up to a thousand times smaller than a conventional batch reactor for the same throughput. In turn, MFDs offer up to a thousand times increase in the surface area to volume ratio, allowing for extremely rapid heat and mass transfer and a suite of other advantages; Since the process is continuous, the system can be spatially integrated with state-of-the-art analytical sensors and computer-based controllers, by which the product quality can be assured not only by process design, but also by advanced process control. From a synthesis and purification perspective, MFDs allow for precise handling of previously inaccessible, but highly efficient, pressurized, and often exothermic pathways. This results in greener and safer processes with higher throughput and less waste. On the formulation side, MFDs provide homogeneous crystallization environments, leading to monodisperse crystal size distributions, which leads to superior reproducibility in key product quality such as shape and size.
-  awardeeAddress: Young Hall
-  awardeeCity: West Lafayette
-  awardeeCountryCode: US
-  awardeeName: Purdue University
-  awardeeStateCode: IN
-  awardeeZipCode: '479072114'
-  fundsObligatedAmt: '50000'
-  fundProgramName: I-Corps
-  id: '1745798'
-  piEmail: zknagy@purdue.edu
-  piFirstName: Zoltan
-  piLastName: Nagy
-  poName: Nancy Kamei
-  date: 07/12/2017
-  startDate: 07/01/2017
-  expDate: 12/31/2018
-  title: 'I-Corps: Miniaturized, End-to-End Pharmaceutical Manufacturing Platform'
 - abstractText: |-
     The broader impact/commercial potential of this I-Corps project is to provide automatic prosthetic tuning technology that will enable the optimization of metabolic energy expenditure in impaired gait of amputee users. This product will simplify the process of tuning and will increase the performance of powered prosthetic legs to better assist users and provide more balance while maintaining a lower energy expenditure on residual muscles. Due to the product's user-friendly structure, it could easily be used in less-equipped environments, which will make the technology more accessible and eliminate the discomfort of long commutes to the prosthetic laboratory or clinics. This is a cost-effective solution for not only broader use of powered prosthetic legs, but also better efficiency of prosthetic laboratory and clinics to serve more prosthetic users. This will reduce the cost of maintaining powered prosthetic legs and, broaden the facilities that would offer these types of services. Also, since the system is automated a clinician will replace some of the tasks typically done by prosthetic experts, which is expected to reduce overall costs.
 
@@ -35981,7 +35927,7 @@
   piEmail: SEBondos@medicine.tamhsc.edu
   piFirstName: Sarah
   piLastName: Bondos
-  piPhone: '9798455399'
+  piPhone: '9794360807'
   poName: Anita J. LaSalle
   date: 02/16/2017
   startDate: 03/01/2017
@@ -36579,30 +36525,6 @@
   startDate: 11/01/2018
   expDate: 04/30/2019
   title: PaySpray
-- abstractText: |-
-    This technology will help mobile app developers do their due diligence and easily scan their apps for any legal and security issues, thereby not only protecting their brand, but also ensuring the security and privacy of end users. The technology also preserves the open-source software ecosystem, by enabling mobile app developers to proactively scan their app and identifying any inadvertent open-source license violations. Based on the reported results, app developers can either comply with the licensing terms of the software being used or switch over to a more permissive Open-Source Software (OSS).
-
-    App stores are quickly getting crowded, with currently over 6 million apps. Therefore, app developers often rely on Open-Source Software (OSS) to reduce the development cost and quickly bring their apps to market. Unfortunately, careless use of OSS can introduce severe legal and security risks. If ignored, such risks can not only jeopardize the security and privacy of end users, but also cause high financial losses to businesses owning such apps and damage their brand. However, tracking all OSS components, their versions, and inter-dependencies can be tedious and error-prone, particularly if the OSS is imported with little to no knowledge of its provenance. This problem is exacerbated by the esoteric licensing terms of these OSS, as developers may lack awareness about the legal ramifications of their use. The PI's research team has built a fully-automated software system that analyzes mobile app binaries to detect usage of all Open-Source Software (OSS) components being used, and report associated security and legal risks.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: Office of Sponsored Programs
-  awardeeCity: Atlanta
-  awardeeCountryCode: US
-  awardeeName: Georgia Tech Research Corporation
-  awardeeStateCode: GA
-  awardeeZipCode: '303320420'
-  fundsObligatedAmt: '50000'
-  fundProgramName: I-Corps
-  id: '1851927'
-  piEmail: rama@cc.gatech.edu
-  piFirstName: Umakishore
-  piLastName: Ramachandran
-  piPhone: '4048945136'
-  poName: Vipin Chaudhary
-  date: 10/26/2018
-  startDate: 11/01/2018
-  expDate: 04/30/2019
-  title: 'I-Corps: OSSPolice'
 - abstractText: "The broader impact/commercial potential of this I-Corps project supports
     a faster design cycle of industrial filters to meet an ever-growing demand. This
     demand stems from an accelerated industrial development in the world, leading
@@ -36652,6 +36574,30 @@
   startDate: 11/01/2018
   expDate: 04/30/2019
   title: Heterogenous Porous Media Simulations
+- abstractText: |-
+    This technology will help mobile app developers do their due diligence and easily scan their apps for any legal and security issues, thereby not only protecting their brand, but also ensuring the security and privacy of end users. The technology also preserves the open-source software ecosystem, by enabling mobile app developers to proactively scan their app and identifying any inadvertent open-source license violations. Based on the reported results, app developers can either comply with the licensing terms of the software being used or switch over to a more permissive Open-Source Software (OSS).
+
+    App stores are quickly getting crowded, with currently over 6 million apps. Therefore, app developers often rely on Open-Source Software (OSS) to reduce the development cost and quickly bring their apps to market. Unfortunately, careless use of OSS can introduce severe legal and security risks. If ignored, such risks can not only jeopardize the security and privacy of end users, but also cause high financial losses to businesses owning such apps and damage their brand. However, tracking all OSS components, their versions, and inter-dependencies can be tedious and error-prone, particularly if the OSS is imported with little to no knowledge of its provenance. This problem is exacerbated by the esoteric licensing terms of these OSS, as developers may lack awareness about the legal ramifications of their use. The PI's research team has built a fully-automated software system that analyzes mobile app binaries to detect usage of all Open-Source Software (OSS) components being used, and report associated security and legal risks.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: Office of Sponsored Programs
+  awardeeCity: Atlanta
+  awardeeCountryCode: US
+  awardeeName: Georgia Tech Research Corporation
+  awardeeStateCode: GA
+  awardeeZipCode: '303320420'
+  fundsObligatedAmt: '50000'
+  fundProgramName: I-Corps
+  id: '1851927'
+  piEmail: rama@cc.gatech.edu
+  piFirstName: Umakishore
+  piLastName: Ramachandran
+  piPhone: '4048945136'
+  poName: Vipin Chaudhary
+  date: 10/26/2018
+  startDate: 11/01/2018
+  expDate: 04/30/2019
+  title: 'I-Corps: OSSPolice'
 - abstractText: "The broader impact/commercial potential of this I-Corps project is
     the transformation of the way technical writers and research teams write and edit
     technical documentation, including data dissemination reports, research proposals,
@@ -39422,30 +39368,6 @@
     Many universities have several of the necessary pieces for Data Intensive Science in place-- reasonably sized computing clusters, a few PB of storage and even a high-speed connection-- yet performing the analyses of data intensive science is very painful and slow. Data is never there when needed, large storage systems often fail despite having massive RAID configurations, and moving data from disk-to-disk at the full network speed still requires complex skills. The project offers a broad community buy-in through the Big Data Hubs, a unique combination of skills, facilities and science challenges to test, evaluate and deploy different hardware and software combinations that can be used in the design of a much larger, national-scale system. The goal is to design and run detailed benchmarks for various test science projects requiring different combinations of data transfer, data processing and massive compute, and use the results to design and build a low-cost, scalable petascale appliance including inexpensive hardware nodes and a simple software stack that can be replicated across many universities, supercomputer centers and large NSF facilities. The proposed system could become an enormous multiplier on the existing NSF investments in high end computing and fast networks. It could also accelerate the pace of standardization of data storage across the nation. The public, open data products, often discussed in the Data Management Plans at the end of NSF proposals could find an easy-to-use home. Various educational projects could simply rely upon a robust storage infrastructure with a simple API, and build a variety of delivery services for the educational community.
 
     This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 100 Bigelow St.
-  awardeeCity: Holyoke
-  awardeeCountryCode: US
-  awardeeName: The Massachusetts Green High Performance Computing Center, Inc.
-  awardeeStateCode: MA
-  awardeeZipCode: 010405984
-  fundsObligatedAmt: '428797'
-  fundProgramName: BD Spokes -Big Data Regional I
-  id: '1747507'
-  piEmail: jtgoodhue@mghpcc.org
-  piFirstName: John
-  piLastName: Goodhue
-  piPhone: '4135524902'
-  poName: Alejandro Suarez
-  date: 06/07/2018
-  startDate: 06/15/2018
-  expDate: 05/31/2020
-  title: 'Collaborative Research: Building the Community for the Open Storage Network'
-- abstractText: |-
-    The scientific community is facing a major challenge dealing with the increasing amount of open scientific data emerging from research projects on all scales-- from large facilities to small research labs. Over the last five years the NSF has funded more than 200 high-speed connections to the Internet-2 backbone operating at 10-100Gbps speeds. The goal of this project is to develop a prototype module for a high performance distributed storage system that extends the usability of the existing high-speed interconnects. This project is a pilot for a potential national-scale storage infrastructure for open scientific data, which at full scale could serve hundred sites and many hundreds of Petabytes.  Many of the technologies associated with such a distributed system already exist; the key challenge in this project is social engineering: how can one design a simple enough yet robust storage node that can be easily replicated, is attractive for universities and research projects to adopt, is easy to manage and can support the various patterns for large scale scientific analyses?
-
-    Many universities have several of the necessary pieces for Data Intensive Science in place-- reasonably sized computing clusters, a few PB of storage and even a high-speed connection-- yet performing the analyses of data intensive science is very painful and slow. Data is never there when needed, large storage systems often fail despite having massive RAID configurations, and moving data from disk-to-disk at the full network speed still requires complex skills. The project offers a broad community buy-in through the Big Data Hubs, a unique combination of skills, facilities and science challenges to test, evaluate and deploy different hardware and software combinations that can be used in the design of a much larger, national-scale system. The goal is to design and run detailed benchmarks for various test science projects requiring different combinations of data transfer, data processing and massive compute, and use the results to design and build a low-cost, scalable petascale appliance including inexpensive hardware nodes and a simple software stack that can be replicated across many universities, supercomputer centers and large NSF facilities. The proposed system could become an enormous multiplier on the existing NSF investments in high end computing and fast networks. It could also accelerate the pace of standardization of data storage across the nation. The public, open data products, often discussed in the Data Management Plans at the end of NSF proposals could find an easy-to-use home. Various educational projects could simply rely upon a robust storage infrastructure with a simple API, and build a variety of delivery services for the educational community.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
   awardeeAddress: Office of Contract & Grant Admin
   awardeeCity: La Jolla
   awardeeCountryCode: US
@@ -39460,6 +39382,30 @@
   piLastName: Norman
   piMiddeInitial: L
   piPhone: '8588225461'
+  poName: Alejandro Suarez
+  date: 06/07/2018
+  startDate: 06/15/2018
+  expDate: 05/31/2020
+  title: 'Collaborative Research: Building the Community for the Open Storage Network'
+- abstractText: |-
+    The scientific community is facing a major challenge dealing with the increasing amount of open scientific data emerging from research projects on all scales-- from large facilities to small research labs. Over the last five years the NSF has funded more than 200 high-speed connections to the Internet-2 backbone operating at 10-100Gbps speeds. The goal of this project is to develop a prototype module for a high performance distributed storage system that extends the usability of the existing high-speed interconnects. This project is a pilot for a potential national-scale storage infrastructure for open scientific data, which at full scale could serve hundred sites and many hundreds of Petabytes.  Many of the technologies associated with such a distributed system already exist; the key challenge in this project is social engineering: how can one design a simple enough yet robust storage node that can be easily replicated, is attractive for universities and research projects to adopt, is easy to manage and can support the various patterns for large scale scientific analyses?
+
+    Many universities have several of the necessary pieces for Data Intensive Science in place-- reasonably sized computing clusters, a few PB of storage and even a high-speed connection-- yet performing the analyses of data intensive science is very painful and slow. Data is never there when needed, large storage systems often fail despite having massive RAID configurations, and moving data from disk-to-disk at the full network speed still requires complex skills. The project offers a broad community buy-in through the Big Data Hubs, a unique combination of skills, facilities and science challenges to test, evaluate and deploy different hardware and software combinations that can be used in the design of a much larger, national-scale system. The goal is to design and run detailed benchmarks for various test science projects requiring different combinations of data transfer, data processing and massive compute, and use the results to design and build a low-cost, scalable petascale appliance including inexpensive hardware nodes and a simple software stack that can be replicated across many universities, supercomputer centers and large NSF facilities. The proposed system could become an enormous multiplier on the existing NSF investments in high end computing and fast networks. It could also accelerate the pace of standardization of data storage across the nation. The public, open data products, often discussed in the Data Management Plans at the end of NSF proposals could find an easy-to-use home. Various educational projects could simply rely upon a robust storage infrastructure with a simple API, and build a variety of delivery services for the educational community.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 100 Bigelow St.
+  awardeeCity: Holyoke
+  awardeeCountryCode: US
+  awardeeName: The Massachusetts Green High Performance Computing Center, Inc.
+  awardeeStateCode: MA
+  awardeeZipCode: 010405984
+  fundsObligatedAmt: '428797'
+  fundProgramName: BD Spokes -Big Data Regional I
+  id: '1747507'
+  piEmail: jtgoodhue@mghpcc.org
+  piFirstName: John
+  piLastName: Goodhue
+  piPhone: '4135524902'
   poName: Alejandro Suarez
   date: 06/07/2018
   startDate: 06/15/2018
