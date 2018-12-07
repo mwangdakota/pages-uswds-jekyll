@@ -34,6 +34,7 @@ $(function() {
       .toString()
       .trim()
       .toLowerCase()
+      .replace('&amp;', '') 
       .replace(/\s+/g, '-')
       .replace(/[^\w\-]+/g, '')
       .replace(/\-\-+/g, '-')
@@ -64,6 +65,8 @@ $(function() {
           $listContainer = $(list.listContainer);
           $listContainer.show();
           $listContainer.find('.results-company-title').text(company.values().awardeeName);
+          var listTitle = $listContainer.find('.results-company-title').text();
+          $listContainer.find('.results-company-title').text(listTitle.replace('&amp;', '&'));
           $listContainer.find('.results-company-title').show();
           $listContainer.find('.results-phase').show();
         }

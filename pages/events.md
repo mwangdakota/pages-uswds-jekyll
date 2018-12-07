@@ -12,7 +12,7 @@ layout: secondary
 
 ## Upcoming
 
-We regularly host webinars for startups and small businesses to learn about the application process and what we look for when we review proposals.
+We regularly host webinars for startups and small businesses to learn about the application process and what we look for when we review proposals. Please check back in early 2019 for an updated webinar schedule.
 
 <!-- {% include events-table.html %} -->
 
