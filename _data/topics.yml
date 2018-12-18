@@ -42,7 +42,7 @@
   piFirstName: Matthew
   piLastName: Petros
   piPhone: '8188352354'
-  poName: Linda Molnar
+  poName: lmolnar
   date: 03/05/2018
   startDate: 03/01/2018
   expDate: 02/29/2020
@@ -89,7 +89,7 @@
   piFirstName: Arturo
   piLastName: Villegas Vaquero
   piPhone: '7324764599'
-  poName: Linda Molnar
+  poName: lmolnar
   date: 03/24/2017
   startDate: 03/15/2017
   expDate: 08/31/2019
@@ -137,7 +137,7 @@
   piLastName: Boyd
   piMiddeInitial: P
   piPhone: '3342249495'
-  poName: Linda Molnar
+  poName: lmolnar
   date: 09/11/2016
   startDate: 09/15/2016
   expDate: 02/28/2021
@@ -206,7 +206,7 @@
   piFirstName: Aaron
   piLastName: Palumbo
   piPhone: '9706923384'
-  poName: Linda Molnar
+  poName: lmolnar
   date: 09/19/2017
   startDate: 09/15/2017
   expDate: 11/30/2019
@@ -258,7 +258,7 @@
   piFirstName: Nate
   piLastName: Podkaminer
   piPhone: '3154477654'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 06/13/2012
   startDate: 07/01/2012
   expDate: 12/31/2012
@@ -310,7 +310,7 @@
   piFirstName: Scott
   piLastName: Peters
   piPhone: '5857501437'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 07/29/2013
   startDate: 08/01/2013
   expDate: 04/30/2017
@@ -358,7 +358,7 @@
   piLastName: Esponnette
   piMiddeInitial: F
   piPhone: '2075778745'
-  poName: Linda Molnar
+  poName: lmolnar
   date: 09/14/2018
   startDate: 09/15/2018
   expDate: 08/31/2020
@@ -399,7 +399,7 @@
   piLastName: Paxson
   piMiddeInitial: T
   piPhone: '5096374936'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 06/12/2015
   startDate: 07/01/2015
   expDate: 12/31/2015
@@ -423,7 +423,7 @@
   piLastName: Paxson
   piMiddeInitial: T
   piPhone: '5096374936'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 03/28/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -477,7 +477,7 @@
   piLastName: Dosier
   piMiddeInitial: M
   piPhone: '9194103286'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 12/20/2013
   startDate: 01/01/2014
   expDate: 12/31/2014
@@ -531,7 +531,7 @@
   piLastName: Dosier
   piMiddeInitial: M
   piPhone: '9194103286'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 08/21/2015
   startDate: 09/01/2015
   expDate: 10/31/2020
@@ -554,7 +554,7 @@
   piFirstName: Chris
   piLastName: Kaffer
   piPhone: '7208793628'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 06/10/2015
   startDate: 07/01/2015
   expDate: 12/31/2015
@@ -578,7 +578,7 @@
   piLastName: Taynton
   piMiddeInitial: J
   piPhone: '6263532098'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 09/21/2016
   startDate: 10/01/2016
   expDate: 03/31/2019
@@ -617,7 +617,7 @@
   piFirstName: Atieh
   piLastName: Haghdoost
   piPhone: '5404499168'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 03/17/2017
   startDate: 03/01/2017
   expDate: 02/29/2020
@@ -663,7 +663,7 @@
   piFirstName: Matthew
   piLastName: Kero
   piPhone: '9063373355'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 04/28/2014
   startDate: 07/01/2014
   expDate: 06/30/2015
@@ -714,7 +714,7 @@
   piFirstName: Matthew
   piLastName: Kero
   piPhone: '9063373355'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 08/12/2015
   startDate: 08/15/2015
   expDate: 01/31/2019
@@ -724,12 +724,12 @@
     This Small Business Innovation Research (SBIR) Phase I project proposes to develop a metabolic engineering and synthetic biology toolkit for a scalable, industrial yeast host. Currently, the vast majority of synthetic biology tools are directed toward engineering E. coli or S. cerevisiae, model laboratory organisms that are often poorly suited for industrial fermentations. Furthermore, there is an absence of available synthetic biology tools for those hosts that are well suited for industrial fermentations. This research addresses this problem through the development of a foundational set of synthetic biology tools in an industrially tractable, but under researched yeast strain. The research objectives include construction and characterization of a series of expression vectors that facilitate transfer of genetic material into host cells, construction of a genetic library designed to perturb host metabolism and redirect carbon flux toward production of target small-molecules, and demonstration of an approach to reduce expression of competing metabolic pathways. Proof-of-principle application of the tools will be used to demonstrate improvements in malonic acid biosynthesis in engineered yeast.
 
     The broader/commercial impacts of the proposed project, if successful, will be technology that enables genetic modification and engineering of a robust, industrial yeast host, removing significant technical barriers that have traditionally inhibited both commercial and academic research. In addition, the industrial yeast host genetic toolkit may accelerate research and development on, and improve the commercial economics of, a range bio-chemicals with over $30B in aggregate market value. The vast majority of these products are currently produced petrochemically, but there are potential cost and environmental advantages if they can be produced biologically. The technology will first be applied to commercialize malonic acid, a high-value specialty chemical currently derived petrochemically.
-  awardeeAddress: 636 San Pablo Avenue
-  awardeeCity: Albany
+  awardeeAddress: 1249 8th St.
+  awardeeCity: Berkeley
   awardeeCountryCode: US
   awardeeName: Lygos Inc.
   awardeeStateCode: CA
-  awardeeZipCode: '947060000'
+  awardeeZipCode: '947101413'
   fundsObligatedAmt: '150000'
   fundProgramName: SMALL BUSINESS PHASE I
   id: '1345920'
@@ -737,7 +737,7 @@
   piFirstName: Jeffrey
   piLastName: Dietrich
   piPhone: '2817724475'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 11/07/2013
   startDate: 01/01/2014
   expDate: 06/30/2014
@@ -747,12 +747,12 @@
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is development of a microbial technology for the conversion of low-value sugars into high-value chemicals. Most industrial chemicals produced today are derived from petroleum and other nonrenewable raw materials. The long-term growth and sustainability of the chemical industry benefits from development of new routes to existing chemicals using renewable raw materials. Furthermore, due to higher infrastructure costs and stricter environmental requirements, many chemicals that were once produced in the United States are now produced abroad. This contributes to the U.S. trade deficit. This Phase II proposal aims to develop a fermentation technology where domestically grown agricultural materials (for example, corn and waste agricultural residues) are converted into high-value chemicals. The optimized fermentation process is estimated to be cost-competitive with the incumbent petrochemical route when scaled. If successful, this proposal will facilitate growth of a domestic bio-chemical manufacturing industry, targeting the $30 billion organic acids market.
 
     This SBIR Phase II project proposes to develop large-scale, high-throughput techniques to optimize gene expression in industrial yeast. A significant problem within the field of industrial biotechnology is the ability to engineer and optimize the fermentation performance of non-academic or model microbes. Most molecular metabolic engineering tools are developed for use in two model prokaryotic and eukaryotic microbes, E. coli and S. cerevisiae, and are not suitable for use with industrially relevant microbes. Without these tools it is costly and slow to commercialize new fermentation technologies. The goal of this Phase II project is to develop and implement a set of molecular biology tools designed for acid-tolerant yeast, and working to apply them toward improving small molecule production. Specifically, the molecular biology tools are useful for tuning (up- or down-regulation) user-defined gene transcription and translation. Engineered microbes harboring the desired genetic modification(s) are assayed for improved small molecule production from sugar in small scale fermentations. Successful genetic modifications are those that result in more efficient small molecule product formation from sugar, and ideally decreased biomass formation from sugar, providing a lower production cost in a scaled, commercial process.
-  awardeeAddress: 636 San Pablo Avenue
-  awardeeCity: Albany
+  awardeeAddress: 1249 8th St.
+  awardeeCity: Berkeley
   awardeeCountryCode: US
   awardeeName: Lygos Inc.
   awardeeStateCode: CA
-  awardeeZipCode: '947061129'
+  awardeeZipCode: '947101413'
   fundsObligatedAmt: '1425979'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1456071'
@@ -760,7 +760,7 @@
   piFirstName: Jeffrey
   piLastName: Dietrich
   piPhone: '2817724475'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 02/18/2015
   startDate: 03/01/2015
   expDate: 10/31/2020
@@ -853,12 +853,12 @@
     enzymes to enhance nature's catalytic repertoire. Being able to have an automated,
     computer-aided design tool that leverages new capabilities to create novel metabolic
     pathways employing synthetic enzymes will bring us closer to truly synthetic biology."
-  awardeeAddress: 2715 W Fort St
+  awardeeAddress: 3421 Thorndyke Ave W
   awardeeCity: Seattle
   awardeeCountryCode: US
   awardeeName: ARZEDA Corp.
   awardeeStateCode: WA
-  awardeeZipCode: '981991224'
+  awardeeZipCode: '981190000'
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
   id: '1321578'
@@ -866,7 +866,7 @@
   piFirstName: Alexandre
   piLastName: Zanghellini
   piPhone: '2064026506'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 06/21/2013
   startDate: 07/01/2013
   expDate: 06/30/2014
@@ -876,12 +876,12 @@
     This Small Business Innovation Research Phase I project proposes engineering novel biocatalysts for the production of butadiene. High value, renewable chemicals have the potential to become economic drivers for integrated biorefineries. Currently, effectively exploiting biomass is limited by the low specificity of chemical processes and the low catalytic diversity of naturally occurring dehydratases. We will apply a unique and groundbreaking enzyme design technology harnessing computational power to rapidly screen and design novel dehydratases not existing in nature. An ideal dehydratase active site targeting the substrate will be generated and grafted into a large library of proteins. The library will be computationally optimized for high substrate affinity and specificity, with top enzyme models selected for experimental characterization and assayed for catalytic activity. The anticipated result of this SBIR Phase 1 research project is a novel enzyme that converts 2,3-butandiol into butadiene in the test tube. Ultimately, this project will lead to a fermentation process to convert cellulosic sugars directly into butadiene, a higher value, renewable chemical.
 
     The broader impact/commercial potential of this project will enable integrated biorefineries to more effectively use biomass, diversify revenue streams and potentially reduce hazardous waste. Our proposed approach, which uses the only proven technology for the design of novel catalytic machineries, will lead to new dehydratases for the production of commercially high value renewable chemicals. Directed evolution, the current state of the art, cannot address the enormous combinatorial complexity inherent in generating novel enzymes. Butadiene is an existing building block used in a wide variety of applications, resulting in a multibillion-dollar market ($5.56M in 2008). Bio-butadiene can be used directly as a renewable drop-in chemical in these existing applications and, therefore, offers an attractive and immediate opportunity to help built a stable and profitable biorefinery industry. Furthermore, the knowledge gained in this project will be leveraged to generate a panel of dehydratase enzymes for the production of other renewable chemicals, thereby opening up the opportunity to access new markets and develop new and innovative products. This technology will help address many of the pressing needs of the biorefinery industry:  Develop new biofuels,increase profitability, and accelerate growth through efficient and effective conversion of biomass.
-  awardeeAddress: 2715 W Fort St
+  awardeeAddress: 3421 Thorndyke Ave W
   awardeeCity: Seattle
   awardeeCountryCode: US
   awardeeName: ARZEDA Corp.
   awardeeStateCode: WA
-  awardeeZipCode: '981991224'
+  awardeeZipCode: '981190000'
   fundsObligatedAmt: '149237'
   fundProgramName: SMALL BUSINESS PHASE I
   id: 0946132
@@ -889,7 +889,7 @@
   piFirstName: Daniela
   piLastName: Grabs
   piPhone: '4252460303'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 11/24/2009
   startDate: 01/01/2010
   expDate: 12/31/2010
@@ -981,7 +981,7 @@
   piFirstName: Alexandre
   piLastName: Zanghellini
   piPhone: '2064026506'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 02/18/2015
   startDate: 03/01/2015
   expDate: 09/30/2020
@@ -1029,7 +1029,7 @@
   piLastName: Sun
   piMiddeInitial: Z
   piPhone: '6467256686'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 12/22/2015
   startDate: 01/01/2016
   expDate: 06/30/2017
@@ -1077,7 +1077,7 @@
   piLastName: Sun
   piMiddeInitial: Z
   piPhone: '6467256686'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 02/26/2018
   startDate: 03/01/2018
   expDate: 02/29/2020
@@ -1127,7 +1127,7 @@
   piLastName: Fulbright
   piMiddeInitial: P
   piPhone: '5759329938'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 12/12/2016
   startDate: 12/15/2016
   expDate: 11/30/2017
@@ -1179,7 +1179,7 @@
   piLastName: Fulbright
   piMiddeInitial: P
   piPhone: '5759329938'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 03/08/2018
   startDate: 03/01/2018
   expDate: 02/29/2020
@@ -1202,7 +1202,7 @@
   piFirstName: David
   piLastName: Seftel
   piPhone: '6502403105'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 06/22/2016
   startDate: 07/01/2016
   expDate: 06/30/2017
@@ -1251,7 +1251,7 @@
   piFirstName: David
   piLastName: Seftel
   piPhone: '6502403105'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 03/08/2018
   startDate: 03/01/2018
   expDate: 02/29/2020
@@ -1289,7 +1289,7 @@
   piFirstName: Ajikumar
   piLastName: Parayil Kumaran
   piPhone: '6172998466'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 06/19/2013
   startDate: 07/01/2013
   expDate: 06/30/2014
@@ -1299,12 +1299,12 @@
     This Small Business Innovation Research (SBIR) Phase I project will address the potential of synthetic biology and metabolic engineering technologies to generate microbial strains over-producing a non-caloric natural sweetener. Current production and utilization of natural sweeteners is limited due to the high cost of the cultivation and production from native plant sources. So, although natural sweeteners have been used for thousands of years, and are known for their healthy and non-caloric properties, their high production cost prevents them from directly competing with synthetic sweeteners extensively used in beverages and carbonated soft drinks. Our objective is to develop a fermentation process for biosynthetic production allowing increased adoption of low-calorie, natural sweeteners in consumer markets. Metabolic engineering approaches will be used to transfer the natural biosynthetic pathway from the plant to a bacterial host and optimize the metabolic flux for the overproduction at a commercially viable level. We anticipate that a high-productivity strain will be obtained, suitable for continued commercialization efforts.  Overall, this project, if successful, will provide a new sustainable production route to the non-caloric natural sweeteners.
 
     The broader impact/commercial potential of this project is the development of a microbial process for the economical and sustainable production of non-caloric natural sweetener, with a potential $3 billion global market. The use of this sweetener will improve taste profiles and expand adoption of low-calorie beverages, confectionaries, baked goods, dairy products, and so on, thus benefitting public health by reducing incidence of diabetes and other obesity-related diseases.  Such benefits will translate to reduced healthcare cost both in the U.S. and globally.  Additionally, this research will develop generalizable synthetic biology techniques for the high-volume production of natural products with many applications for human health and wellness.
-  awardeeAddress: 790 Memorial Drive
+  awardeeAddress: 1030 Massachusetts Ave
   awardeeCity: Cambridge
   awardeeCountryCode: US
   awardeeName: Manus Biosynthesis, Inc.
   awardeeStateCode: MA
-  awardeeZipCode: 021394768
+  awardeeZipCode: 021385390
   fundsObligatedAmt: '180000'
   fundProgramName: SMALL BUSINESS PHASE I
   id: '1214339'
@@ -1313,7 +1313,7 @@
   piLastName: Pirie
   piMiddeInitial: M
   piPhone: '4252414152'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 05/24/2012
   startDate: 07/01/2012
   expDate: 06/30/2013
@@ -1358,7 +1358,7 @@
   piFirstName: Christine
   piLastName: Santos
   piPhone: '6172998466'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 06/20/2016
   startDate: 07/01/2016
   expDate: 12/31/2016
@@ -1402,7 +1402,7 @@
   piFirstName: Christine
   piLastName: Santos
   piPhone: '6172998466'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 08/30/2017
   startDate: 09/01/2017
   expDate: 08/31/2019
@@ -1414,12 +1414,12 @@
     This STTR Phase I project proposes a new nanomaterial delivery system to introduce reprogramming agents into immune cells efficiently and with low cell toxicity. This project will examine how the proposed nanostraw design, transfection protocol, and cell preparation improves immune cell delivery efficiency, and optimize the process to achieve >50% transfection efficiency with primary immune cells. Market analysis has found this level of transfection efficiency would be transformative to researchers and clinicians using primary immune cells. The transfection protocol will be optimized and codified into a simple to follow set of instructions. A turn-key instrument will be developed to carry out these procedures for use by life science researchers, with reduced device costs through improved manufacturing techniques to be competitive with currently available methods. The market-ready product will be evaluated by eight preclinical immune cell research beta sites to discover new treatment pathways.
 
     This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 2880 Zanker Rd Suite 203
-  awardeeCity: San Jose
+  awardeeAddress: 329 Oyster Pt, 3rd Floor
+  awardeeCity: South San Francisco
   awardeeCountryCode: US
   awardeeName: Navan Technologies Inc.
   awardeeStateCode: CA
-  awardeeZipCode: '951342122'
+  awardeeZipCode: '940801913'
   fundsObligatedAmt: '750000'
   fundProgramName: STTR PHASE II
   id: '1759075'
@@ -1427,7 +1427,7 @@
   piFirstName: Ryan
   piLastName: Swoboda
   piPhone: '9044027442'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 03/08/2018
   startDate: 03/01/2018
   expDate: 02/29/2020
@@ -1479,7 +1479,7 @@
   piFirstName: Kristy
   piLastName: Hawkins
   piPhone: '6268408735'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 06/20/2016
   startDate: 07/01/2016
   expDate: 06/30/2017
@@ -1502,7 +1502,7 @@
   piFirstName: Catherine
   piLastName: Thodey
   piPhone: '6507992851'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 06/20/2016
   startDate: 07/01/2016
   expDate: 06/30/2017
@@ -1557,7 +1557,7 @@
   piFirstName: Kristy
   piLastName: Hawkins
   piPhone: '6268408735'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 03/05/2018
   startDate: 03/01/2018
   expDate: 02/28/2022
@@ -1580,7 +1580,7 @@
   piFirstName: Ramin
   piLastName: Karimpour
   piPhone: '9783376198'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 02/06/2018
   startDate: 02/01/2018
   expDate: 01/31/2020
@@ -1651,7 +1651,7 @@
   piFirstName: Belinda
   piLastName: Pastrana
   piPhone: '7874586932'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 09/13/2016
   startDate: 09/15/2016
   expDate: 02/28/2021
@@ -1902,7 +1902,7 @@
   piFirstName: Mara
   piLastName: Macdonald
   piPhone: '5628816919'
-  poName: Linda Molnar
+  poName: lmolnar
   date: 11/26/2014
   startDate: 12/01/2014
   expDate: 11/30/2018
@@ -2003,7 +2003,7 @@
   piLastName: Salamone
   piMiddeInitial: C
   piPhone: '5617034007'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 05/06/2011
   startDate: 07/01/2011
   expDate: 12/31/2011
@@ -2149,7 +2149,7 @@
   piFirstName: Kathryn
   piLastName: Kosuda
   piPhone: '8579280327'
-  poName: Linda Molnar
+  poName: lmolnar
   date: 09/20/2016
   startDate: 10/01/2016
   expDate: 03/31/2021
@@ -2326,7 +2326,7 @@
   piLastName: Gunn
   piMiddeInitial: W
   piPhone: '2063840311'
-  poName: Linda Molnar
+  poName: lmolnar
   date: 05/19/2017
   startDate: 05/15/2017
   expDate: 04/30/2021
@@ -2452,7 +2452,7 @@
   piFirstName: Kevin
   piLastName: Jarrell
   piPhone: '7819376299'
-  poName: Anna Brady-Estevez
+  poName: Anna Brady
   date: 04/15/2014
   startDate: 05/01/2014
   expDate: 09/30/2020
@@ -2498,7 +2498,7 @@
   piFirstName: Ihor
   piLastName: Tarnavchyk
   piPhone: '7013188305'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 02/29/2016
   startDate: 03/01/2016
   expDate: 08/31/2019
@@ -2572,7 +2572,7 @@
   piLastName: Lyons
   piMiddeInitial: L
   piPhone: '6105510697'
-  poName: Anna Brady-Estevez
+  poName: Anna Brady
   date: 04/03/2014
   startDate: 04/15/2014
   expDate: 06/30/2019
@@ -2643,7 +2643,7 @@
   piLastName: Corgie
   piMiddeInitial: C
   piPhone: '6073512639'
-  poName: Anna Brady-Estevez
+  poName: Anna Brady
   date: 03/02/2015
   startDate: 03/01/2015
   expDate: 08/31/2018
@@ -2667,7 +2667,7 @@
   piLastName: Rush
   piMiddeInitial: M
   piPhone: '5103905121'
-  poName: Anna Brady-Estevez
+  poName: Anna Brady
   date: 12/11/2016
   startDate: 12/15/2016
   expDate: 12/31/2017
@@ -2718,7 +2718,7 @@
   piLastName: Rush
   piMiddeInitial: M
   piPhone: '5103905121'
-  poName: Anna Brady-Estevez
+  poName: Anna Brady
   date: 09/17/2018
   startDate: 09/15/2018
   expDate: 08/31/2020
@@ -3297,7 +3297,7 @@
   awardeeName: CueThink
   awardeeStateCode: MA
   awardeeZipCode: 018642636
-  fundsObligatedAmt: '1267318'
+  fundsObligatedAmt: '1277318'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1660216'
   piEmail: sheela@cuethink.com
@@ -3579,7 +3579,7 @@
   poName: Rajesh Mehta
   date: 02/12/2016
   startDate: 02/15/2016
-  expDate: 10/31/2019
+  expDate: 11/30/2018
   title: 'SBIR Phase II:  An Accessible Platform for Engaging Children with Motor
     Impairments in the Classroom Environment'
 - abstractText: |-
@@ -3677,7 +3677,7 @@
   piFirstName: Shivram
   piLastName: Venkatasubramaniam
   piPhone: '6503803627'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 12/01/2016
   startDate: 12/01/2016
   expDate: 08/31/2017
@@ -3727,7 +3727,7 @@
   piLastName: Casey
   piMiddeInitial: M
   piPhone: '6173084324'
-  poName: Muralidharan S. Nair
+  poName: Muralidharan Nair
   date: 11/17/2011
   startDate: 01/01/2012
   expDate: 12/31/2012
@@ -3750,7 +3750,7 @@
   piLastName: Casey
   piMiddeInitial: M
   piPhone: '6173084324'
-  poName: Muralidharan S. Nair
+  poName: Muralidharan Nair
   date: 09/23/2013
   startDate: 10/01/2013
   expDate: 02/28/2019
@@ -3846,7 +3846,7 @@
   piLastName: Ho
   piMiddeInitial: C
   piPhone: '5108477027'
-  poName: Muralidharan S. Nair
+  poName: Muralidharan Nair
   date: 03/07/2013
   startDate: 03/15/2013
   expDate: 05/31/2017
@@ -3891,7 +3891,7 @@
   piFirstName: Chad
   piLastName: Eckhardt
   piPhone: '9194139898'
-  poName: Muralidharan S. Nair
+  poName: Muralidharan Nair
   date: 06/03/2013
   startDate: 07/01/2013
   expDate: 06/30/2014
@@ -3914,7 +3914,7 @@
   piFirstName: Chad
   piLastName: Eckhardt
   piPhone: '9194139898'
-  poName: Muralidharan S. Nair
+  poName: Muralidharan Nair
   date: 08/28/2014
   startDate: 09/01/2014
   expDate: 02/28/2019
@@ -3937,7 +3937,7 @@
   piFirstName: Gokhan
   piLastName: Barin
   piPhone: '7735640937'
-  poName: Anna Brady-Estevez
+  poName: Anna Brady
   date: 07/10/2017
   startDate: 07/01/2017
   expDate: 12/31/2017
@@ -3962,7 +3962,7 @@
   piFirstName: Gokhan
   piLastName: Barin
   piPhone: '7735640937'
-  poName: Anna Brady-Estevez
+  poName: Anna Brady
   date: 09/04/2018
   startDate: 09/01/2018
   expDate: 08/31/2020
@@ -4025,7 +4025,7 @@
   piLastName: Later
   piMiddeInitial: W
   piPhone: '8015573557'
-  poName: Anna Brady-Estevez
+  poName: Anna Brady
   date: 03/26/2014
   startDate: 04/01/2014
   expDate: 04/30/2018
@@ -4049,7 +4049,7 @@
   piLastName: Reeds
   piMiddeInitial: P
   piPhone: '3014056957'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 12/26/2017
   startDate: 01/01/2018
   expDate: 12/31/2018
@@ -4148,7 +4148,7 @@
   piLastName: Reeds
   piMiddeInitial: P
   piPhone: '3014056957'
-  poName: Anna Brady-Estevez
+  poName: Anna Brady
   date: 09/02/2015
   startDate: 09/15/2015
   expDate: 08/31/2017
@@ -4172,7 +4172,7 @@
   piLastName: Dalton
   piMiddeInitial: R
   piPhone: '7036188866'
-  poName: Anna Brady-Estevez
+  poName: Anna Brady
   date: 07/10/2017
   startDate: 07/01/2017
   expDate: 06/30/2018
@@ -4207,7 +4207,7 @@
   piLastName: Dalton
   piMiddeInitial: R
   piPhone: '7036188866'
-  poName: Anna Brady-Estevez
+  poName: Anna Brady
   date: 09/17/2018
   startDate: 09/15/2018
   expDate: 08/31/2020
@@ -4329,6 +4329,30 @@
   startDate: 07/01/2017
   expDate: 06/30/2018
   title: 'SBIR Phase I:  Stateless - Taking from the Lab to a Production Environment'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project results from the fact that it builds on the trend to make IT infrastructure consumable as a service and unlocks this potential for network functions. In deploying the Stateless Network Functions as a Service solution, cloud providers, enterprises, and internet service providers are able to launch network functions, such as firewalls and load balancers, on demand, and the Stateless platform automates the management of these functions.  With cloud traffic expected to quadruple over the next several years (according to Cisco), a rapid growth in number of devices (with the Internet of Things emerging), and an ever-increasing complexity and scale of security threats, this project will provide operators with the agility to quickly and easily deploy infrastructure to keep up with these trends and threats.  In doing so, society will experience more reliable networked applications with reduced data breaches.
+
+    This Small Business Innovation Research (SBIR) Phase II project provides the research and development needed to realize the vision of a network function operating system.  Whereas the Phase I project established technical feasibility by demonstrating the technology that decouples network functions state from processing can be turned into a product and integrated into a production environment, the Phase II project will approach three new research directions that will support a complete platform.  (i) Network service chaining:  While not a new concept, it is one that has proven to be challenging with virtual appliances.  This project will add support to the Stateless platform to connect network functions into chains, elastically scale chains, and provide quality of service of the whole chain.  (ii) Observability:  This project will introduce the ability to abstract away the details when appropriate or peel away the layers of abstraction as needed, providing operators with a simple solution they have full control over.  (iii) Software development kit:  This project will introduce both the application programming interfaces as well as the isolation mechanisms to allow third parties, whether other vendors or data center operators, to introduce new network functionality based on the Stateless platform.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 1200 28th Street
+  awardeeCity: Boulder
+  awardeeCountryCode: US
+  awardeeName: Stateless, Inc
+  awardeeStateCode: CO
+  awardeeZipCode: '803091756'
+  fundsObligatedAmt: '750000'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1831184'
+  piEmail: murad@BeStateless.com
+  piFirstName: Murad
+  piLastName: Kablan
+  piPhone: '5086150768'
+  poName: Peter Atherton
+  date: 12/13/2018
+  startDate: 12/01/2018
+  expDate: 11/30/2020
+  title: 'SBIR Phase II: Stateless - Taking from the Lab to a Production Environment'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is group chat technology that enables knowledge workers to collaborate more effectively than ever before. It is the first tool built that empowers users to efficiently carry out both real-time and asynchronous conversations in the same system, with each user reading only those conversations that are important to them. In particular, the technology empowers teams to make decisions in virtual meetings that take place asynchronously over periods of hours or days. This is in contrast with existing group chat technology, where conversations usually end as soon as someone starts talking about something else. This ability to conduct long running, virtual meetings is invaluable for large teams that need to coordinate work across different locations and time zones. Large, distributed teams are fast becoming the norm for how organizations operate, as instant communication and globalization make such teams the workforce of the future. Coordinating the efforts of such teams is a huge pain point for companies, and this technology is a leap in the state of the art in this space.
 
@@ -4721,7 +4745,7 @@
   piFirstName: Simon
   piLastName: Bellemare
   piPhone: '6175025636'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 11/02/2015
   startDate: 01/01/2016
   expDate: 06/30/2016
@@ -4771,7 +4795,7 @@
   piFirstName: Simon
   piLastName: Bellemare
   piPhone: '6175025636'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 02/24/2017
   startDate: 03/01/2017
   expDate: 02/28/2021
@@ -4794,7 +4818,7 @@
   piFirstName: Erik
   piLastName: Novak
   piPhone: '5202945600'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 12/02/2014
   startDate: 01/01/2015
   expDate: 06/30/2015
@@ -4891,7 +4915,7 @@
   piFirstName: Brad
   piLastName: Kimbrough
   piPhone: '5202945600'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 12/20/2017
   startDate: 01/01/2018
   expDate: 06/30/2018
@@ -4914,7 +4938,7 @@
   piLastName: Philips
   piMiddeInitial: A
   piPhone: '6077380100'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 05/13/2015
   startDate: 07/01/2015
   expDate: 06/30/2016
@@ -4938,7 +4962,7 @@
   piLastName: Philips
   piMiddeInitial: A
   piPhone: '6077380100'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 09/06/2016
   startDate: 09/15/2016
   expDate: 08/31/2020
@@ -4986,7 +5010,7 @@
   piFirstName: Richard
   piLastName: Przybyla
   piPhone: '5417401779'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 12/27/2013
   startDate: 01/01/2014
   expDate: 06/30/2014
@@ -5031,7 +5055,7 @@
   piFirstName: Richard
   piLastName: Przybyla
   piPhone: '5417401779'
-  poName: Richard Schwerdtfeger
+  poName: Carl Schwerdtfeger
   date: 04/01/2015
   startDate: 04/01/2015
   expDate: 09/30/2018
@@ -5053,7 +5077,7 @@
   piFirstName: Cristian
   piLastName: Atria
   piPhone: '9787128742'
-  poName: Muralidharan S. Nair
+  poName: Muralidharan Nair
   date: 12/05/2013
   startDate: 01/01/2014
   expDate: 12/31/2014
@@ -5102,7 +5126,7 @@
   piFirstName: Cristian
   piLastName: Atria
   piPhone: '9787128742'
-  poName: Muralidharan S. Nair
+  poName: Muralidharan Nair
   date: 04/02/2015
   startDate: 04/15/2015
   expDate: 09/30/2020
@@ -5125,7 +5149,7 @@
   piLastName: Park
   piMiddeInitial: I
   piPhone: '4089152595'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 10/26/2012
   startDate: 01/01/2013
   expDate: 12/31/2013
@@ -5149,7 +5173,7 @@
   piLastName: Park
   piMiddeInitial: I
   piPhone: '4089152595'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 04/04/2014
   startDate: 04/15/2014
   expDate: 05/31/2018
@@ -5172,7 +5196,7 @@
   piFirstName: Evan
   piLastName: Thomas
   piPhone: '3035504671'
-  poName: Richard Schwerdtfeger
+  poName: Carl Schwerdtfeger
   date: 06/20/2016
   startDate: 07/01/2016
   expDate: 07/31/2017
@@ -5194,7 +5218,7 @@
   piFirstName: Daniel
   piLastName: Wilson
   piPhone: '9709809812'
-  poName: Richard Schwerdtfeger
+  poName: Carl Schwerdtfeger
   date: 08/30/2017
   startDate: 09/01/2017
   expDate: 02/29/2020
@@ -5216,7 +5240,7 @@
   piFirstName: Adam
   piLastName: Wolf
   piPhone: '5102078303'
-  poName: Richard Schwerdtfeger
+  poName: Carl Schwerdtfeger
   date: 12/17/2015
   startDate: 01/01/2016
   expDate: 12/31/2016
@@ -5239,7 +5263,7 @@
   piFirstName: Adam
   piLastName: Wolf
   piPhone: '5102078303'
-  poName: Richard Schwerdtfeger
+  poName: Carl Schwerdtfeger
   date: 04/11/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -5249,12 +5273,12 @@
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project consists of three major pieces.  First is the reduction of musculoskeletal injuries for manual laborers, which already affects 600,000 workers each year. This will improve the quality of life of laborers, since an injury at work affects both their work life and their personal life.  Second is to reduce the high costs associated to these injuries that need to be paid by employers, and which are estimated to be $15.2bn a year. These costs challenge the competitiveness of these companies.  Thirdly, the worker injuries affect employee morale, absenteeism, productivity loss and employee turnover, all of which are challenges to the efficient running of a company.
 
     This Small Business Innovation Research (SBIR) Phase I project will study the feasibility of automatically evaluating the risk of musculoskeletal injury in the workplace using smart wearable devices. These injuries affect hundreds of thousands of workers per year in the US, and cost US companies more than $15bn in direct costs. This research goal depends on the achievement of two technical objectives (i) to prove that the sensors and developed algorithms can differentiate lifting events from other worker activities, and (ii) to demonstrate that the data collected by the sensors can be used to accurately predict the output of the NIOSH lifting equation, an ergonomics risk model widely accepted in industry. Estimations of the outputs of the equation performed by our device will be compared by those computed manually by a certified ergonomist. These wearable devices can quantify the risk of musculoskeletal injuries continuously over time, providing a deeper understanding of the factors that affect risk and the ability to take measures to reduce that risk before an injury occurs.
-  awardeeAddress: 341 West 11th Street
+  awardeeAddress: 450 West 33rd Street
   awardeeCity: New York
   awardeeCountryCode: US
   awardeeName: One Million Metrics Corp
   awardeeStateCode: NY
-  awardeeZipCode: '100146235'
+  awardeeZipCode: '100010000'
   fundsObligatedAmt: '179999'
   fundProgramName: SMALL BUSINESS PHASE I
   id: '1548648'
@@ -5262,7 +5286,7 @@
   piFirstName: Haytham
   piLastName: Elhawary
   piPhone: '6174808200'
-  poName: Richard Schwerdtfeger
+  poName: Carl Schwerdtfeger
   date: 12/29/2015
   startDate: 01/01/2016
   expDate: 12/31/2016
@@ -5285,7 +5309,7 @@
   piFirstName: Haytham
   piLastName: Elhawary
   piPhone: '6174808200'
-  poName: Richard Schwerdtfeger
+  poName: Carl Schwerdtfeger
   date: 04/06/2017
   startDate: 04/01/2017
   expDate: 09/30/2021
@@ -5308,7 +5332,7 @@
   piFirstName: Sce
   piLastName: Pike
   piPhone: '8584498316'
-  poName: Richard Schwerdtfeger
+  poName: Carl Schwerdtfeger
   date: 12/04/2015
   startDate: 01/01/2016
   expDate: 12/31/2016
@@ -5330,7 +5354,7 @@
   piFirstName: Sce
   piLastName: Pike
   piPhone: '8584498316'
-  poName: Richard Schwerdtfeger
+  poName: Carl Schwerdtfeger
   date: 04/06/2017
   startDate: 04/01/2017
   expDate: 09/30/2018
@@ -5427,7 +5451,7 @@
   piFirstName: Kwame
   piLastName: Amponsah
   piPhone: '6072620515'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 12/02/2014
   startDate: 01/01/2015
   expDate: 12/31/2015
@@ -5476,7 +5500,7 @@
   piFirstName: Kwame
   piLastName: Amponsah
   piPhone: '6072620515'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 09/20/2016
   startDate: 10/01/2016
   expDate: 03/31/2019
@@ -5544,7 +5568,7 @@
   piFirstName: Eleanor
   piLastName: Hawes
   piPhone: '8592254521'
-  poName: Linda Molnar
+  poName: lmolnar
   date: 03/18/2016
   startDate: 04/01/2016
   expDate: 09/30/2018
@@ -5603,7 +5627,7 @@
   piFirstName: Supriya
   piLastName: Jaiswal
   piPhone: '8585312432'
-  poName: Richard Schwerdtfeger
+  poName: Carl Schwerdtfeger
   date: 12/18/2017
   startDate: 01/01/2018
   expDate: 12/31/2018
@@ -5635,17 +5659,17 @@
   awardeeName: Astrileux Corporation
   awardeeStateCode: CA
   awardeeZipCode: '920378411'
-  fundsObligatedAmt: '1048654'
+  fundsObligatedAmt: '1148154'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1457418'
   piEmail: supriya@astrileux.com
   piFirstName: Supriya
   piLastName: Jaiswal
   piPhone: '8585312432'
-  poName: Linda Molnar
+  poName: lmolnar
   date: 02/18/2015
   startDate: 03/01/2015
-  expDate: 08/31/2018
+  expDate: 01/31/2020
   title: 'SBIR Phase II:  Novel Technologies to Enable High Volume, Extreme Ultraviolet
     Manufacturing of Integrated Circuits'
 - abstractText: |-
@@ -5664,8 +5688,7 @@
   piEmail: lzheleznyak@cleriovision.com
   piFirstName: Len
   piLastName: Zheleznyak
-  piPhone: '6173597088'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 12/07/2015
   startDate: 01/01/2016
   expDate: 06/30/2017
@@ -5715,7 +5738,7 @@
   piEmail: lzheleznyak@cleriovision.com
   piFirstName: Len
   piLastName: Zheleznyak
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 09/13/2017
   startDate: 09/15/2017
   expDate: 08/31/2021
@@ -5762,7 +5785,7 @@
   piLastName: DeBruin
   piMiddeInitial: G
   piPhone: '2406722451'
-  poName: Richard Schwerdtfeger
+  poName: Carl Schwerdtfeger
   date: 08/09/2016
   startDate: 08/15/2016
   expDate: 01/31/2019
@@ -5855,7 +5878,7 @@
   piLastName: Domenikos
   piMiddeInitial: D
   piPhone: '6173917915'
-  poName: Muralidharan S. Nair
+  poName: Muralidharan Nair
   date: 08/20/2016
   startDate: 09/01/2016
   expDate: 02/29/2020
@@ -5878,7 +5901,7 @@
   piLastName: Redden
   piMiddeInitial: K
   piPhone: '3084403110'
-  poName: Muralidharan S. Nair
+  poName: Muralidharan Nair
   date: 11/18/2011
   startDate: 01/01/2012
   expDate: 06/30/2012
@@ -5902,7 +5925,7 @@
   piLastName: Redden
   piMiddeInitial: K
   piPhone: '3084403110'
-  poName: Muralidharan S. Nair
+  poName: Muralidharan Nair
   date: 04/04/2013
   startDate: 04/15/2013
   expDate: 02/28/2018
@@ -5942,7 +5965,7 @@
   piFirstName: Edward
   piLastName: Acworth
   piPhone: '6174181928'
-  poName: Muralidharan S. Nair
+  poName: Muralidharan Nair
   date: 05/13/2011
   startDate: 07/01/2011
   expDate: 06/30/2012
@@ -5965,7 +5988,7 @@
   piFirstName: Edward
   piLastName: Acworth
   piPhone: '6174181928'
-  poName: Muralidharan S. Nair
+  poName: Muralidharan Nair
   date: 11/23/2010
   startDate: 01/01/2011
   expDate: 12/31/2011
@@ -6014,7 +6037,7 @@
   piFirstName: Edward
   piLastName: Acworth
   piPhone: '6174181928'
-  poName: Muralidharan S. Nair
+  poName: Muralidharan Nair
   date: 09/21/2012
   startDate: 10/01/2012
   expDate: 03/31/2018
@@ -6062,7 +6085,7 @@
   piFirstName: Edward
   piLastName: Acworth
   piPhone: '6174181928'
-  poName: Muralidharan S. Nair
+  poName: Muralidharan Nair
   date: 02/29/2012
   startDate: 03/01/2012
   expDate: 11/30/2017
@@ -6085,7 +6108,7 @@
   piLastName: Odhner
   piMiddeInitial: U
   piPhone: '6175010085'
-  poName: Muralidharan S. Nair
+  poName: Muralidharan Nair
   date: 12/19/2014
   startDate: 01/01/2015
   expDate: 12/31/2015
@@ -6108,10 +6131,10 @@
   piLastName: Odhner
   piMiddeInitial: U
   piPhone: '6175010085'
-  poName: Muralidharan S. Nair
+  poName: Muralidharan Nair
   date: 08/22/2016
   startDate: 09/01/2016
-  expDate: 12/31/2018
+  expDate: 03/31/2019
   title: 'SBIR Phase II:  Versatile Robot Hands for Warehouse Automation'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is that it will offer the automotive industry higher reliability from the software systems powering automobiles, by enabling runtime monitoring while providing the maximum possible correctness guarantees for the generated monitors.  Cars will be safer and more rigorously assured.  This project will address a slew of recent problems with software failures, security compromises, and other unintentional software behaviors that occur inevitably as systems become more complex, potentially saving lives and making millions of vehicles safer, easier to upgrade, and better tested.  The commercial value follows the need of manufacturers to retain the basic vehicle safety guarantees while pursuing the commercial necessities of competing on complex software-driven features, ultimately minimizing software development costs and expensive car recalls.  The enhanced scientific and technological understanding from this technology will come as it is deployed in the field, giving manufacturers an impetus to formalize and standardize existing requirements, bolstering their understanding of the software systems in the car.  The technology will also foster the formalization of both open and proprietary specifications, further increasing the understanding of complex automotive systems by facilitating complete analysis.
@@ -6197,7 +6220,7 @@
   piFirstName: Adam
   piLastName: Malamy
   piPhone: '6502248786'
-  poName: Richard Schwerdtfeger
+  poName: Carl Schwerdtfeger
   date: 09/06/2016
   startDate: 09/15/2016
   expDate: 08/31/2019
@@ -6220,7 +6243,7 @@
   piFirstName: Paul
   piLastName: Budnik
   piPhone: '4083533824'
-  poName: Richard Schwerdtfeger
+  poName: Carl Schwerdtfeger
   date: 08/15/2016
   startDate: 09/01/2016
   expDate: 02/28/2019
@@ -6269,7 +6292,7 @@
   piFirstName: Christian
   piLastName: Adams
   piPhone: '3529897717'
-  poName: Richard Schwerdtfeger
+  poName: Carl Schwerdtfeger
   date: 12/21/2015
   startDate: 01/01/2016
   expDate: 06/30/2016
@@ -6291,7 +6314,7 @@
   piFirstName: Christian
   piLastName: Adams
   piPhone: '3529897717'
-  poName: Richard Schwerdtfeger
+  poName: Carl Schwerdtfeger
   date: 04/04/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -6314,7 +6337,7 @@
   piLastName: Glass
   piMiddeInitial: W
   piPhone: '5592452771'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 11/13/2012
   startDate: 01/01/2013
   expDate: 09/30/2013
@@ -6337,7 +6360,7 @@
   piLastName: Glass
   piMiddeInitial: W
   piPhone: '5592452771'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 09/04/2014
   startDate: 10/01/2014
   expDate: 02/28/2018
@@ -6385,7 +6408,7 @@
   piFirstName: Thomas
   piLastName: Riedl
   piPhone: '2178191322'
-  poName: Muralidharan S. Nair
+  poName: Muralidharan Nair
   date: 12/11/2014
   startDate: 01/01/2015
   expDate: 12/31/2015
@@ -6434,7 +6457,7 @@
   piFirstName: Thomas
   piLastName: Riedl
   piPhone: '2178191322'
-  poName: Muralidharan S. Nair
+  poName: Muralidharan Nair
   date: 04/13/2016
   startDate: 04/15/2016
   expDate: 06/30/2019
@@ -6470,7 +6493,7 @@
     with real customers.  If successful, the project will have delivered the critical
     enabling technology for the vision of pervasively connected devices with billions
     of devices connected to the Internet without the need to replace batteries."
-  awardeeAddress: UW BOX 352141
+  awardeeAddress: 4000 Mason Road Ste 300
   awardeeCity: Seattle
   awardeeCountryCode: US
   awardeeName: JEEVA WIRELESS INC
@@ -6483,7 +6506,7 @@
   piFirstName: Bryce
   piLastName: Kellogg
   piPhone: '4252758979'
-  poName: Muralidharan S. Nair
+  poName: Muralidharan Nair
   date: 06/20/2016
   startDate: 07/01/2016
   expDate: 06/30/2017
@@ -6526,7 +6549,7 @@
   piLastName: Parks
   piMiddeInitial: N
   piPhone: '2064783572'
-  poName: Muralidharan S. Nair
+  poName: Muralidharan Nair
   date: 02/06/2018
   startDate: 02/01/2018
   expDate: 01/31/2020
@@ -6549,7 +6572,7 @@
   piLastName: Prothero
   piMiddeInitial: D
   piPhone: '2066697094'
-  poName: Muralidharan S. Nair
+  poName: Muralidharan Nair
   date: 06/20/2016
   startDate: 07/01/2016
   expDate: 02/28/2017
@@ -6572,7 +6595,7 @@
   piLastName: Prothero
   piMiddeInitial: D
   piPhone: '2066697094'
-  poName: Muralidharan S. Nair
+  poName: Muralidharan Nair
   date: 09/21/2017
   startDate: 09/15/2017
   expDate: 08/31/2019
@@ -6721,7 +6744,7 @@
   piFirstName: Martin
   piLastName: Hosek
   piPhone: '9783873219'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 04/28/2011
   startDate: 07/01/2011
   expDate: 12/31/2011
@@ -6855,7 +6878,7 @@
   piFirstName: Masoud
   piLastName: Toloue
   piPhone: '5127078993'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 12/19/2012
   startDate: 01/01/2013
   expDate: 12/31/2013
@@ -6877,7 +6900,7 @@
   piFirstName: Masoud
   piLastName: Toloue
   piPhone: '5127078993'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 11/22/2010
   startDate: 01/01/2011
   expDate: 12/31/2011
@@ -6930,7 +6953,7 @@
   piFirstName: Masoud
   piLastName: Toloue
   piPhone: '5127078993'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 08/28/2012
   startDate: 09/01/2012
   expDate: 08/31/2014
@@ -6955,7 +6978,7 @@
   piLastName: Ford
   piMiddeInitial: P
   piPhone: '5127078993'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 07/28/2009
   startDate: 08/01/2009
   expDate: 06/30/2013
@@ -6977,7 +7000,7 @@
   piFirstName: Masoud
   piLastName: Toloue
   piPhone: '5127078993'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 11/05/2014
   startDate: 11/15/2014
   expDate: 04/30/2017
@@ -7000,7 +7023,7 @@
   piLastName: Van Hook
   piMiddeInitial: S
   piPhone: '5182733753'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 11/01/2010
   startDate: 01/01/2011
   expDate: 06/30/2011
@@ -7055,7 +7078,7 @@
   piLastName: McIntyre
   piMiddeInitial: R
   piPhone: '5186900399'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 09/21/2009
   startDate: 01/01/2010
   expDate: 12/31/2010
@@ -7079,7 +7102,7 @@
   piLastName: Carroll
   piMiddeInitial: A
   piPhone: '5186900399'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 05/04/2011
   startDate: 07/01/2011
   expDate: 12/31/2011
@@ -7102,7 +7125,7 @@
   piLastName: McIntyre
   piMiddeInitial: R
   piPhone: '5186900399'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 03/24/2012
   startDate: 04/01/2012
   expDate: 03/31/2016
@@ -7118,7 +7141,7 @@
   awardeeName: Ecovative Design LLC
   awardeeStateCode: NY
   awardeeZipCode: '121831518'
-  fundsObligatedAmt: '953372'
+  fundsObligatedAmt: '961372'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1058285'
   piEmail: gavin@ecovativedesign.com
@@ -7126,7 +7149,7 @@
   piLastName: McIntyre
   piMiddeInitial: R
   piPhone: '5186900399'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 02/17/2011
   startDate: 03/01/2011
   expDate: 02/28/2015
@@ -7150,7 +7173,7 @@
   piLastName: Zoss
   piMiddeInitial: B
   piPhone: '5106845655'
-  poName: Muralidharan S. Nair
+  poName: Muralidharan Nair
   date: 01/18/2013
   startDate: 01/15/2013
   expDate: 12/31/2013
@@ -7261,7 +7284,7 @@
   piLastName: Zoss
   piMiddeInitial: B
   piPhone: '5106845655'
-  poName: Muralidharan S. Nair
+  poName: Muralidharan Nair
   date: 07/28/2009
   startDate: 08/01/2009
   expDate: 09/30/2013
@@ -7285,7 +7308,7 @@
   piLastName: Amundson
   piMiddeInitial: R
   piPhone: '4155338062'
-  poName: Muralidharan S. Nair
+  poName: Muralidharan Nair
   date: 01/28/2010
   startDate: 02/01/2010
   expDate: 07/31/2012
@@ -7309,7 +7332,7 @@
   piLastName: Amundson
   piMiddeInitial: R
   piPhone: '4155338062'
-  poName: Muralidharan S. Nair
+  poName: Muralidharan Nair
   date: 09/14/2010
   startDate: 09/15/2010
   expDate: 02/28/2015
@@ -7332,7 +7355,7 @@
   piLastName: Kelly
   piMiddeInitial: R
   piPhone: '6177755585'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 05/18/2011
   startDate: 07/01/2011
   expDate: 06/30/2012
@@ -7355,7 +7378,7 @@
   piFirstName: Austin
   piLastName: Che
   piPhone: '8144225362'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 12/10/2012
   startDate: 01/01/2013
   expDate: 12/31/2013
@@ -7377,7 +7400,7 @@
   piFirstName: Patrick
   piLastName: Boyle
   piPhone: '6175154652'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 12/02/2014
   startDate: 01/01/2015
   expDate: 12/31/2015
@@ -7471,7 +7494,7 @@
   piLastName: Kelly
   piMiddeInitial: R
   piPhone: '6177755585'
-  poName: Ruth M. Shuman
+  poName: Ruth Shuman
   date: 04/09/2013
   startDate: 04/15/2013
   expDate: 09/30/2019
@@ -7521,7 +7544,7 @@
   piFirstName: Dan
   piLastName: Widmaier
   piPhone: '4152795585'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 04/23/2010
   startDate: 07/01/2010
   expDate: 06/30/2011
@@ -7570,7 +7593,7 @@
   piFirstName: Dan
   piLastName: Widmaier
   piPhone: '4152795585'
-  poName: Ben Schrag
+  poName: Benaiah Schrag
   date: 03/05/2012
   startDate: 03/01/2012
   expDate: 02/29/2016
@@ -7623,50 +7646,5 @@
   expDate: 03/31/2015
   title: 'SBIR Phase II:  A Robust Caller-ID Alternative for Securing Telephony Based
     Transactions'
-- abstractText: |-
-    This Small Business Innovation Research (SBIR) Phase II project will develop and produce a robust, hand-held, video-rate three-dimensional surface metrology system with vertical and lateral resolution of several micrometers, in order to bridge a critical existing metrology gap for precision-machined surfaces.  Many modern manufactured parts, such as turbine blades, drive shafts, orthopedics, and various additive manufactured components require in-situ metrology with high resolution for accurate characterization during manufacturing and/or maintenance operations.  Current high-resolution surface measurement systems are slow, vibration-sensitive and laboratory-based and thus are impractical for everyday use by manufacturing technicians.  Meanwhile, shop-floor inspection is often only visual, and thus qualitative rather than quantitative, leading both to rejections of acceptable components as well as potential acceptance of failing ones.  The absence of high-precision, in-situ metrology has hindered manufacturers from applying real-time data analysis and closed-loop process controls that can improve yields and reduce manufacturing costs.  This research program will yield a hand-held, easy-to-use, robust, and quantitative shop-floor measurement system, allowing manufacturers to improve lifetimes, performance, and yield as they rapidly assess the features under test and feed the results back to improve process control.
-
-    During Phase I, a breadboard system was designed and implemented using a polarization-based fringe projection method and micropolarizer phase-mask technology to achieve vibration insensitive measurement in a compact package.  This Phase II program leverages that research to design a video-rate, compact, robust and portable system for handheld surface measurements in shop-floor environments. This will first involve improvements to measurement resolution with an improved optical design and new self-calibrating measurement modes; new optical elements will lower noise artifacts caused by imperfections in the earlier design and to reduce system size.  Once performance of the new design is verified, an ergonomic, compact, robust, wireless housing for the instrument must be created to enable shop-floor use; the system must handle drops of over one meter onto concrete, have useful battery life for extended field operations, be light enough to not fatigue users and have intuitive controls and feedback.  A final, critically important development effort will create automated software routines for measurement, analysis, and system diagnostics to enable adoption by unskilled personnel in manufacturing environments.  Lastly, extensive applications testing in the field will allow optimization of the system to handle a wide range of potential use cases and environments.
-  awardeeAddress: 3280 E Hemisphere Loop, Ste 146
-  awardeeCity: Tucson
-  awardeeCountryCode: US
-  awardeeName: 4 D Technology Corporation
-  awardeeStateCode: AZ
-  awardeeZipCode: '857065024'
-  fundsObligatedAmt: '1348048'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1556049'
-  piEmail: erik.novak@4dtechnology.com
-  piFirstName: Erik
-  piLastName: Novak
-  piPhone: '5202945600'
-  poName: Ben Schrag
-  date: 02/17/2016
-  startDate: 03/01/2016
-  expDate: 08/31/2020
-  title: 'SBIR Phase II:  High-Resolution Shop Floor Video-Rate Surface Metrology
-    System'
-- abstractText: |-
-    This SBIR Phase I project addresses the lack of materials available for advanced 3D printing. 3D printing is and will likely be used to produce products that encompass every aspect of day-to-day life. Current technology is primarily focused on the aerospace and medical fields. New metallic materials and more efficient processing methods are needed to transition to other more ubiquitous markets. This project is aimed at broadening the materials selection through a new production technique that complements existing technologies. The growth of the 3D printing industry will bring very competitive manufacturing jobs back to The United States.
-    This project will investigate the feasibility of an innovative reactive additive manufacturing (RAM) process to create a range of materials including nickel metal matrix composites, tungsten carbide composites, and nickel titanium intermetallic compounds. Each material system will be designed, fabricated, and characterized for a range of properties including microstructure, product phases, density, porosity, and hardness. For each of the three materials systems, the iterative development process will include modification of composition and process parameters to determine their effect on the material microstructure and properties and determine the feasibility of the RAM process to produce each material type commercially. The expected outcome of this activity is that the RAM process will be proven feasible for one or more of the investigated materials systems. The results of this work will be developed further and will subsequently lead to commercialization and sales of the novel materials mixtures and RAM process parameters for use in commercial powder bed fusion additive manufacturing systems already in use.
-  awardeeAddress: 405 Young Ct
-  awardeeCity: Erie
-  awardeeCountryCode: US
-  awardeeName: Elementum 3D
-  awardeeStateCode: CO
-  awardeeZipCode: '805162401'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1647373'
-  piEmail: jacob@elementum3d.com
-  piFirstName: Jacob
-  piLastName: Nuechterlein
-  piMiddeInitial: S
-  piPhone: '7205459013'
-  poName: Rajesh Mehta
-  date: 11/30/2016
-  startDate: 12/01/2016
-  expDate: 05/31/2017
-  title: 'SBIR Phase I:  Reactive Additive Manufacturing'
 ---
 
