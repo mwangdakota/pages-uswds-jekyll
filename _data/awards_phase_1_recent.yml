@@ -22,32 +22,6 @@
   expDate: 02/28/2019
   title: 'SBIR Phase I:  All-Carbon, Chemically Cross-Linked 3D Nano Assemblies for
     Liquid Chromatography'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to enable a safer, more reliable, and more efficient electric power grid. The power grid is critical infrastructure on which all of America's economic sectors depend, and so its reliability and stability is of the utmost importance. The technology being developed is the ideal modeling and simulation platform to analyze and predict grid abnormalities and blackouts due to its unprecedented ability to simulate complex systems accurately. Its physics-based simulation engine can incorporate more detailed models of loads on the grid, thereby allowing system operators to better assess grid state and stability. The proposed technology is also uniquely capable of modeling distributed energy resources at the transmission and distribution scale, an industry need that has been deemed critical to increase the penetration of renewables on the grid. The technology has substantial potential for commercial impact, as there are thousands of transmission, distribution, generation, and consulting organizations that are potential customers. Combined, these factors can help enable a more robust, secure grid that operates with reduced cost and emissions. This Phase I project represents the first step in making this technology a commercial reality.
-
-    This Small Business Innovation Research Phase I project represents a significant departure from traditional methods that are used to model the electric power grid. The team's foundational research has already shown that the technology can simulate the U.S. Eastern Interconnection (half of the U.S. transmission grid) from any initial condition to evaluate complex contingencies - capabilities that are not possible with existing tools. The current- and voltage-based formulation used in the model is more flexible than is used in traditional power systems simulation software, enabling more realistic physics- and/or measurement-based models for more accurate simulation results. The Phase I project includes developing a secure and robust cloud platform for the technology that supports parallelized grid analyses, with a full library of component models and an intuitive web-based interface. This will enable system operators, utilities, and consultants to improve their planning studies and operations by enabling more accurate simulations at a higher throughput than is possible with today's software. The work done in Phase I will serve as a foundation for future advancements in power grid modeling and simulation, including integrated transmission and distribution system analysis and statistical analysis to assess the impact of uncertainties on the grid.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 6392 Melissa Street
-  awardeeCity: Pittsburgh
-  awardeeCountryCode: US
-  awardeeName: Pearl Street Technologies, LLC
-  awardeeStateCode: PA
-  awardeeZipCode: '152064703'
-  fundsObligatedAmt: '224956'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819399'
-  piEmail: bromberg@pearlstreettechnologies.com
-  piFirstName: David
-  piLastName: Bromberg
-  piMiddeInitial: M
-  piPhone: '4126064390'
-  poName: Peter Atherton
-  date: 06/15/2018
-  startDate: 06/15/2018
-  expDate: 05/31/2019
-  title: 'SBIR Phase I:  Cloud-Based Electric Power Grid Simulation Software With
-    Equivalent Circuit Methods'
 - abstractText: "This SBIR Phase I project focuses on the development and demonstration
     of a new high resolution X-ray detector to be utilized (initially) in medical
     diagnosis. The early work by NGS Detectors and collaborators has shown an improvement
@@ -98,6 +72,32 @@
   expDate: 05/31/2019
   title: 'SBIR Phase I:  The Transformation of X-ray Detectors for Medical Imaging'
 - abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to enable a safer, more reliable, and more efficient electric power grid. The power grid is critical infrastructure on which all of America's economic sectors depend, and so its reliability and stability is of the utmost importance. The technology being developed is the ideal modeling and simulation platform to analyze and predict grid abnormalities and blackouts due to its unprecedented ability to simulate complex systems accurately. Its physics-based simulation engine can incorporate more detailed models of loads on the grid, thereby allowing system operators to better assess grid state and stability. The proposed technology is also uniquely capable of modeling distributed energy resources at the transmission and distribution scale, an industry need that has been deemed critical to increase the penetration of renewables on the grid. The technology has substantial potential for commercial impact, as there are thousands of transmission, distribution, generation, and consulting organizations that are potential customers. Combined, these factors can help enable a more robust, secure grid that operates with reduced cost and emissions. This Phase I project represents the first step in making this technology a commercial reality.
+
+    This Small Business Innovation Research Phase I project represents a significant departure from traditional methods that are used to model the electric power grid. The team's foundational research has already shown that the technology can simulate the U.S. Eastern Interconnection (half of the U.S. transmission grid) from any initial condition to evaluate complex contingencies - capabilities that are not possible with existing tools. The current- and voltage-based formulation used in the model is more flexible than is used in traditional power systems simulation software, enabling more realistic physics- and/or measurement-based models for more accurate simulation results. The Phase I project includes developing a secure and robust cloud platform for the technology that supports parallelized grid analyses, with a full library of component models and an intuitive web-based interface. This will enable system operators, utilities, and consultants to improve their planning studies and operations by enabling more accurate simulations at a higher throughput than is possible with today's software. The work done in Phase I will serve as a foundation for future advancements in power grid modeling and simulation, including integrated transmission and distribution system analysis and statistical analysis to assess the impact of uncertainties on the grid.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 6392 Melissa Street
+  awardeeCity: Pittsburgh
+  awardeeCountryCode: US
+  awardeeName: Pearl Street Technologies, LLC
+  awardeeStateCode: PA
+  awardeeZipCode: '152064703'
+  fundsObligatedAmt: '224956'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1819399'
+  piEmail: bromberg@pearlstreettechnologies.com
+  piFirstName: David
+  piLastName: Bromberg
+  piMiddeInitial: M
+  piPhone: '4126064390'
+  poName: Peter Atherton
+  date: 06/15/2018
+  startDate: 06/15/2018
+  expDate: 05/31/2019
+  title: 'SBIR Phase I:  Cloud-Based Electric Power Grid Simulation Software With
+    Equivalent Circuit Methods'
+- abstractText: |-
     This Small Business Innovation Research Phase I project seeks to reduce the cost and complexity of incorporating energy-saving phase change materials (PCMs) into end-use products by developing a new class of form-stable PCM-modified resins that contain a unique reactive-polyolefin component. Importantly, the development of new PCMs for the passive thermal regulation of electric vehicle (EV) batteries has the potential to increase EV safety, range, and affordability, representing an addressable market currently valued at $87m and that is growing at 20% per year. Validation of these advantages should significantly benefit society by increasing electric vehicle performance and reducing the frequency of expensive battery replacement, thus increasing the adoption of energy efficient vehicles and reducing green-house gas emissions. This project can also result in an increase in the penetration of energy efficient PCM technology in additional markets worth a combined $370m, including building materials, textiles, electronics, and packaging, which can have a large positive economic impact on society. Finally, successful realization of the goals of this SBIR Phase I program will further enable scientific / technological understanding of PCMs that are based on organic materials.
 
     The intellectual merit of this project is the validation of a new paradigm for a bottoms-up approach to the design, production, and optimization of structurally-well-characterized reactive polyolefins of tunable molecular weight and narrow polydispersity that possess superior performance and stability characteristics as organic phase change materials (PCMs) for waste heat management as compared to conventional paraffin-based PCMs that have remained virtually unchanged for the past half century. To achieve this goal, reactive polyolefins that are the best candidates for commercialization will be identified through optimization of molecular structure, stereochemical tacticity, and the temperature and kinetics of main-chain and side-chain phase transitions. Reaction variables will also be optimized to provide the highest yields of reactive polyolefins under industrially-relevant and scalable process conditions. The development of PCM-modified thermoset resins based on reactive polyolefins will provide access to commercial waste heat management applications that employ physical constructs obtained from casting or injection molding and should benefit from lower production costs, a wider range of applications, and greater long-term stability.
@@ -145,29 +145,6 @@
   title: 'SBIR Phase I:  Intensification of propylene oxide manufacture via solid-catalyst
     design'
 - abstractText: |-
-    The broader impact/commercial potential of this project is the rapid, cost-effective detection of natural gas leakage to improve public safety, mitigate global climate change, and decrease product loss.  Natural gas is the largest provider of power in the United States.  However, more than 80 Tg of leakage occurs at well pads and pipelines during production alone.  Such leakage poses a public health risk, with 1300 significant incidents reported from 1997 ? 2016, resulting in 50 fatalities, 180 injuries, and $2B in costs. Additionally, methane is a greenhouse gas with a warming potential that is 84 times higher than CO2.  In 2015, natural gas leakage accounted for 198 million tons of CO2 equivalents, corresponding to a carbon tax value of more than $2B.  Finally, energy companies want to reduce leakage to avoid product loss, with 80 Tg of methane having a value of $12B.  This project will directly impact the aforementioned areas by improving the efficiencies and costs associated with natural gas leak detection.  With over 2.2 million miles of local utility gas distribution pipelines 1.2 million well pads in the U.S. alone, the commercial prospects for an improved natural gas leak detection system are very promising with expected revenues exceeding $70M.
-
-    This Small Business Technology Transfer (STTR) Phase I project will involve the development of a comprehensive natural gas leakage detection solution that integrates compact, low-cost sensors with state-of-the-art analytics.  The solution, which can be used in drone-based and handheld monitoring, will enable energy providers to detect natural gas leakage from well pads and pipelines.  In Phase I, technical feasibility will be demonstrated by the development of a lightweight gas sensor based on incoherent, cavity-enhanced spectrometry and a natural gas camera based on filtered infrared imaging. These sensors will be integrated with global positioning system, wind speed/direction, and data analytics platform.  The Phase I solution will be laboratory tested to characterize its analytical performance, before undergoing field testing on controlled natural gas leaks.  In Phase II, the sensor hardware, electronics, and firmware will be refined to meet the stringent size, weight, power, and environmental constraints of drone-based and handheld deployment.  Likewise, the analytics platform will be refined to incorporate the STTR sensors, interpret the infrared camera data, and provide comprehensive leak detection reports.  The Phase II prototypes will be field tested under real-world conditions with a variety of potential customers for both well pad monitoring and pipeline distribution system monitoring.
-  awardeeAddress: 1931 Old Middlefield Road
-  awardeeCity: Mountain View
-  awardeeCountryCode: US
-  awardeeName: Nikira Labs Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '940432578'
-  fundsObligatedAmt: '224348'
-  fundProgramName: STTR PHASE I
-  id: '1745840'
-  piEmail: manish.gupta@nikiralabs.com
-  piFirstName: Manish
-  piLastName: Gupta
-  piPhone: '6509060274'
-  poName: Anna Brady
-  date: 12/23/2017
-  startDate: 01/01/2018
-  expDate: 06/30/2019
-  title: 'STTR Phase I:  Development and Validation of Low-Cost Natural Gas Leak Detection
-    Sensors and Analytics for Drone-Based and Handheld Deployments'
-- abstractText: |-
     This SBIR Phase I project will explore the potential benefits of a sine wave shaped wheel compared to a traditional circular wheel for the central pivot irrigation industry. The central pivot irrigation industry is an essential segment of the agriculture industry and this project aims to deliver a superior wheel that solves the persistent issue of trench-digging that leads to equipment breakdown, down time, lost profits, and crop-loss. The broader significance of eliminating trench-digging would be significant savings for farmers, distributors and consumers. Agriculture is the largest industry in the world, and developing a wheel that eliminates an issue that plagues the industry is the central goal of this project. The development of a sine wave wheel also potentially impact other fields as the technology can be used in over one-hundred different industries.
 
 
@@ -190,6 +167,29 @@
   startDate: 01/01/2018
   expDate: 12/31/2018
   title: 'SBIR Phase I:  The Reinvention of the Wheel. For Agricultural Uses and Beyond.'
+- abstractText: |-
+    The broader impact/commercial potential of this project is the rapid, cost-effective detection of natural gas leakage to improve public safety, mitigate global climate change, and decrease product loss.  Natural gas is the largest provider of power in the United States.  However, more than 80 Tg of leakage occurs at well pads and pipelines during production alone.  Such leakage poses a public health risk, with 1300 significant incidents reported from 1997 ? 2016, resulting in 50 fatalities, 180 injuries, and $2B in costs. Additionally, methane is a greenhouse gas with a warming potential that is 84 times higher than CO2.  In 2015, natural gas leakage accounted for 198 million tons of CO2 equivalents, corresponding to a carbon tax value of more than $2B.  Finally, energy companies want to reduce leakage to avoid product loss, with 80 Tg of methane having a value of $12B.  This project will directly impact the aforementioned areas by improving the efficiencies and costs associated with natural gas leak detection.  With over 2.2 million miles of local utility gas distribution pipelines 1.2 million well pads in the U.S. alone, the commercial prospects for an improved natural gas leak detection system are very promising with expected revenues exceeding $70M.
+
+    This Small Business Technology Transfer (STTR) Phase I project will involve the development of a comprehensive natural gas leakage detection solution that integrates compact, low-cost sensors with state-of-the-art analytics.  The solution, which can be used in drone-based and handheld monitoring, will enable energy providers to detect natural gas leakage from well pads and pipelines.  In Phase I, technical feasibility will be demonstrated by the development of a lightweight gas sensor based on incoherent, cavity-enhanced spectrometry and a natural gas camera based on filtered infrared imaging. These sensors will be integrated with global positioning system, wind speed/direction, and data analytics platform.  The Phase I solution will be laboratory tested to characterize its analytical performance, before undergoing field testing on controlled natural gas leaks.  In Phase II, the sensor hardware, electronics, and firmware will be refined to meet the stringent size, weight, power, and environmental constraints of drone-based and handheld deployment.  Likewise, the analytics platform will be refined to incorporate the STTR sensors, interpret the infrared camera data, and provide comprehensive leak detection reports.  The Phase II prototypes will be field tested under real-world conditions with a variety of potential customers for both well pad monitoring and pipeline distribution system monitoring.
+  awardeeAddress: 1931 Old Middlefield Road
+  awardeeCity: Mountain View
+  awardeeCountryCode: US
+  awardeeName: Nikira Labs Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '940432578'
+  fundsObligatedAmt: '224348'
+  fundProgramName: STTR PHASE I
+  id: '1745840'
+  piEmail: manish.gupta@nikiralabs.com
+  piFirstName: Manish
+  piLastName: Gupta
+  piPhone: '6509060274'
+  poName: Anna Brady
+  date: 12/23/2017
+  startDate: 01/01/2018
+  expDate: 06/30/2019
+  title: 'STTR Phase I:  Development and Validation of Low-Cost Natural Gas Leak Detection
+    Sensors and Analytics for Drone-Based and Handheld Deployments'
 - abstractText: "This Small Business Innovation Research Phase I project will research
     and develop a universal carbon detector for liquid chromatography using flame
     ionization detection. The commercialization of this innovation is a product that
@@ -280,79 +280,6 @@
   expDate: 03/31/2019
   title: 'SBIR Phase I: Hydrothermal Growth Strontium Beryllium Borate (SBBO) for
     deep UV Nonlinear Optical Applications.'
-- abstractText: "This SBIR Phase I project entails the development of an EEG analysis
-    software application that identifies the epileptogenic zone (EZ - where seizures
-    start in brain) in medically refractory epilepsy (MRE) patients. Over 1 million
-    people in the US have MRE, meaning that they do not respond to medication. MRE
-    patients are frequently hospitalized, burdened by epilepsy-related disabilities,
-    and contribute to 80% of the $16 billion dollars spent annually in the US treating
-    epilepsy patients. There are 2 treatments: (i) surgical removal of the EZ, and
-    (ii) neurostimulation, where the EZ is electrically stimulated to suppress seizures.
-    Successful outcomes depend critically on accurately identifying the EZ from invasive
-    EEG recordings, which is a long costly process, leading to grim outcomes where
-    30%-70% of treated patients continue to have seizures. There has thus been an
-    intensive search for an accurate data analytics tool to reduce time, risks and
-    costs of invasive monitoring. This project involves further development of such
-    a tool that generates visual \"heat\" maps from EEG data. The tool, grounded in
-    dynamical systems theory and neuroengineering, has been validated with data from
-    20 patients, achieving 95% accuracy in predicting surgical outcomes. Reducing
-    monitoring time reduces the risk of infection from the brain being exposed, and
-    reduces hospital costs associated with lengthy stays and clinical staff reviewing
-    data. By providing more accurate definition of the EZ, the tool will also enable
-    use of a precise and entirely new laser ablation procedure that makes tiny lesions
-    in targeted structures as opposed to removing large portions of the brain. If
-    successful, the tool will be closer to commercialization under a sustainable business
-    model. Major EEG vendors and medical device companies are looking for accurate
-    software applications in epilepsy treatment to enhance their product suites, and
-    will be very interested in licensing the tool. \n\nThis Small Business Innovation
-    Research Phase I project involves development of a cutting-edge EEG tool that
-    uses dynamic network modeling and a highly innovative and patented theory of \"fragility\"
-    of nodes in a dynamic network to localize the EZ from invasive EEG recordings,
-    taking into account the extensive interconnection of neurons in the brain. The
-    more \"fragile\" an EEG channel, the more likely it is in the EZ. Project aims
-    are to (i) validate the tool on a large patient cohort, using invasive EEG data
-    before, during and after seizure events; (i) test the tool?s efficacy using noninvasive
-    scalp EEG recordings and (iii) design the user-interface and integrate this application
-    into the existing clinical workflow to facilitate prospective studies. These milestones
-    will minimize key risks in bringing this innovation to market, which are adoption,
-    perceived liability, regulatory approval and reimbursement. Adoption risk will
-    be mitigated if the tool is accurate, quick and easy-to-use, requiring essentially
-    the push of a button to receive fragility maps. Accuracy risk will be mitigated
-    if our completed retrospective study, including refinement of network models,
-    shows comparable performance to our preliminary data. The quick and easy-to-use
-    risks will be mitigated with the development of an intuitive interface that importantly
-    integrates with the existing EEG data acquisition and visualization tools. Regulatory
-    risk is low as a predicate device exists. Perceived liability of the tool in mis-diagnosis
-    is a low risk as the tool is not intended to replace the clinician's analysis,
-    but rather it provides an enhanced visualization of the EEG data (as demonstrated
-    in our retrospective study) already being collected and analyzed in the clinical
-    workflow. Finally, reimbursement risks will be mitigated if accurate identification
-    of the EZ using the tool has the potential to significantly reduce or even eliminate
-    the focal MRE segment reducing epilepsy-related costs by $6 billion/year. Consequently,
-    healthcare and insurance providers will have a strong incentive to pay for, or
-    reimburse epilepsy clinics for the tool.\n\nThis award reflects NSF's statutory
-    mission and has been deemed worthy of support through evaluation using the Foundation's
-    intellectual merit and broader impacts review criteria."
-  awardeeAddress: 6510 CHESTERFIELD AVE
-  awardeeCity: MC LEAN
-  awardeeCountryCode: US
-  awardeeName: Neurologic, LLC
-  awardeeStateCode: VA
-  awardeeZipCode: '221015229'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819793'
-  piEmail: gonzalj1@ccf.org
-  piFirstName: Jorge
-  piLastName: Gonzalez-Martinez
-  piMiddeInitial: A
-  piPhone: '2164456440'
-  poName: Henry Ahn
-  date: 06/14/2018
-  startDate: 06/15/2018
-  expDate: 01/31/2019
-  title: 'SBIR Phase I: A Novel Analytical Tool to Localize the Epileptogenic Zone
-    in Medically-Refractory Epilepsy'
 - abstractText: |-
     This SBIR Phase I project will develop key components of a next-generation lithium metal battery that greatly increases both energy density and safety compared to the best lithium-ion batteries. Such a technology has the potential to deliver significant societal value by improving the state-of-the-art in battery markets such as implantable medical devices, electrified flight, electric vehicles, and many others. In fact, improvements just in medical device batteries may cause a step-change improvement in device design and delivery of healthcare that could save tens of thousands of lives annually. This project will increase opportunities for US-based manufacturing and create jobs by leveraging existing domestic prototyping and manufacturing capabilities around the country. Once material and process costs come down with scale, this technology can also help to expedite mass-market adoption of electric vehicles, consumer electronics, wearables, and other portable devices. The proposed technology may eventually allow for the widespread adoption of sustainable electrified transportation, reduce US dependence on foreign oil, significantly reduce carbon emissions related to transportation, and build an edge for US-based battery R&D and manufacturing.
 
@@ -430,6 +357,79 @@
   expDate: 03/31/2019
   title: 'SBIR Phase I:  Compact, Low-cost, Automated 3D Ultrasound System for Regular
     and Accessible Breast Imaging'
+- abstractText: "This SBIR Phase I project entails the development of an EEG analysis
+    software application that identifies the epileptogenic zone (EZ - where seizures
+    start in brain) in medically refractory epilepsy (MRE) patients. Over 1 million
+    people in the US have MRE, meaning that they do not respond to medication. MRE
+    patients are frequently hospitalized, burdened by epilepsy-related disabilities,
+    and contribute to 80% of the $16 billion dollars spent annually in the US treating
+    epilepsy patients. There are 2 treatments: (i) surgical removal of the EZ, and
+    (ii) neurostimulation, where the EZ is electrically stimulated to suppress seizures.
+    Successful outcomes depend critically on accurately identifying the EZ from invasive
+    EEG recordings, which is a long costly process, leading to grim outcomes where
+    30%-70% of treated patients continue to have seizures. There has thus been an
+    intensive search for an accurate data analytics tool to reduce time, risks and
+    costs of invasive monitoring. This project involves further development of such
+    a tool that generates visual \"heat\" maps from EEG data. The tool, grounded in
+    dynamical systems theory and neuroengineering, has been validated with data from
+    20 patients, achieving 95% accuracy in predicting surgical outcomes. Reducing
+    monitoring time reduces the risk of infection from the brain being exposed, and
+    reduces hospital costs associated with lengthy stays and clinical staff reviewing
+    data. By providing more accurate definition of the EZ, the tool will also enable
+    use of a precise and entirely new laser ablation procedure that makes tiny lesions
+    in targeted structures as opposed to removing large portions of the brain. If
+    successful, the tool will be closer to commercialization under a sustainable business
+    model. Major EEG vendors and medical device companies are looking for accurate
+    software applications in epilepsy treatment to enhance their product suites, and
+    will be very interested in licensing the tool. \n\nThis Small Business Innovation
+    Research Phase I project involves development of a cutting-edge EEG tool that
+    uses dynamic network modeling and a highly innovative and patented theory of \"fragility\"
+    of nodes in a dynamic network to localize the EZ from invasive EEG recordings,
+    taking into account the extensive interconnection of neurons in the brain. The
+    more \"fragile\" an EEG channel, the more likely it is in the EZ. Project aims
+    are to (i) validate the tool on a large patient cohort, using invasive EEG data
+    before, during and after seizure events; (i) test the tool?s efficacy using noninvasive
+    scalp EEG recordings and (iii) design the user-interface and integrate this application
+    into the existing clinical workflow to facilitate prospective studies. These milestones
+    will minimize key risks in bringing this innovation to market, which are adoption,
+    perceived liability, regulatory approval and reimbursement. Adoption risk will
+    be mitigated if the tool is accurate, quick and easy-to-use, requiring essentially
+    the push of a button to receive fragility maps. Accuracy risk will be mitigated
+    if our completed retrospective study, including refinement of network models,
+    shows comparable performance to our preliminary data. The quick and easy-to-use
+    risks will be mitigated with the development of an intuitive interface that importantly
+    integrates with the existing EEG data acquisition and visualization tools. Regulatory
+    risk is low as a predicate device exists. Perceived liability of the tool in mis-diagnosis
+    is a low risk as the tool is not intended to replace the clinician's analysis,
+    but rather it provides an enhanced visualization of the EEG data (as demonstrated
+    in our retrospective study) already being collected and analyzed in the clinical
+    workflow. Finally, reimbursement risks will be mitigated if accurate identification
+    of the EZ using the tool has the potential to significantly reduce or even eliminate
+    the focal MRE segment reducing epilepsy-related costs by $6 billion/year. Consequently,
+    healthcare and insurance providers will have a strong incentive to pay for, or
+    reimburse epilepsy clinics for the tool.\n\nThis award reflects NSF's statutory
+    mission and has been deemed worthy of support through evaluation using the Foundation's
+    intellectual merit and broader impacts review criteria."
+  awardeeAddress: 6510 CHESTERFIELD AVE
+  awardeeCity: MC LEAN
+  awardeeCountryCode: US
+  awardeeName: Neurologic, LLC
+  awardeeStateCode: VA
+  awardeeZipCode: '221015229'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1819793'
+  piEmail: gonzalj1@ccf.org
+  piFirstName: Jorge
+  piLastName: Gonzalez-Martinez
+  piMiddeInitial: A
+  piPhone: '2164456440'
+  poName: Henry Ahn
+  date: 06/14/2018
+  startDate: 06/15/2018
+  expDate: 01/31/2019
+  title: 'SBIR Phase I: A Novel Analytical Tool to Localize the Epileptogenic Zone
+    in Medically-Refractory Epilepsy'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to optimize water utilization, thereby improving agricultural production. It is projected that the human population will exceed 9 billion by 2050.  To meet the expected demand, global food production must increase by more than 50% by 2050. This SBIR project will have impact not only in expanding fundamental knowledge of plant utilization of water but also in contributing to agricultural productivity, an urgent and practical need for human survival, in a sustainable manner.
 
@@ -4715,6 +4715,51 @@
   expDate: 09/30/2019
   title: 'SBIR Phase I: Refinement of the Floating Silicon Method to Produce Drop-In
     Silicon Wafers for High Efficiency Solar Cells'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) project is to use self-assembling nanoparticle systems made from
+    renewable, bio-based materials to replace manufacturing processes that conventionally
+    rely on high-energy reaction conditions and petroleum-based chemicals.  This innovation
+    will enhance technical understanding of the property-performance relationship
+    between chemistry formulations, nanoparticle morphology, and product performance.
+    \ This project will enable US manufacturers to reduce their production and disposal
+    of toxic waste and utilize locally produced feedstocks and inputs in manufacturing
+    process that are lower in carbon intensity, and will also create new markets for
+    US produced feedstocks and materials.\n \nThis SBIR Phase I project proposes to
+    optimize a green nanoparticle-forming solvent system that self-assamble to function
+    as \"microreactor\" vessels that can produce cathode materials which are used
+    in rechargeable battery systems for the growing energy storage market. Solution-based
+    synthesis methods have been used to prepare different cathode materials, but control
+    over product structure and quality requires detailed understanding of the solution
+    chemistry, which can be obscured by downstream variables that are introduced during
+    electrode formation.  This screening process will be streamlined by characterizing
+    and quantifying the properties of intermediates produced in order to determine
+    optimal chemistry formulation, particle size, and calcination conditions for battery
+    performance.  The approach will use rapid characterization methods that require
+    only microscale quantities of material in order to develop a sensitivity matrix
+    that relates the impact of renewable composition inputs and reaction variables
+    on cathode material size and morphology, allowing prediction of overall battery
+    performance.\n\nThis award reflects NSF's statutory mission and has been deemed
+    worthy of support through evaluation using the Foundation's intellectual merit
+    and broader impacts review criteria."
+  awardeeAddress: 524 East Weddell Dr.
+  awardeeCity: Sunnyvale
+  awardeeCountryCode: US
+  awardeeName: Sylvatex Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '940892139'
+  fundsObligatedAmt: '224063'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1819697'
+  piEmail: vklausmeier@sylvatex.com
+  piFirstName: Virginia
+  piLastName: Irwin Klausmeier
+  piPhone: '5412211362'
+  poName: Anna Brady
+  date: 06/15/2018
+  startDate: 06/15/2018
+  expDate: 05/31/2019
+  title: 'SBIR Phase I:  Development of Renewable Nanoparticle Platform for Green
+    Energy Production and Storage Applications'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to further the development of a patent pending technology aimed at producing flexible, lightweight, and low-cost semiconductor substrates. These flexible semiconductor films represent the next evolution of the silicon wafer, the foundation of over 90% of today's electronic devices, including computer chips, solar panels, microelectronics, and a wide range of sensors and similar 'internet of things' devices. The silicon wafer, in its current form, is essentially unchanged since its inception over 60 years ago. These wafers, although larger today, remain thick, rigid, fragile, and are limited to circular forms no larger than 450 millimeters (18 inches) in diameter. The ability to produce large-area, high-throughput quantities of this material, in a flexible, more durable format would be truly disruptive, and help to usher in the next generation of affordable, flexible, and pervasive electronic devices. Accelerating the commercialization of this 'wafer 2.0' will help to shape America's high-tech semiconductor manufacturing industry for the 21st century.
 
@@ -4765,51 +4810,6 @@
   expDate: 05/31/2019
   title: 'SBIR Phase I:  Project Trident: A Three-Pronged Automated Solution to Satellite
     Derived Littoral Bathymetry Mapping'
-- abstractText: "The broader impact/commercial potential of this Small Business Innovation
-    Research (SBIR) project is to use self-assembling nanoparticle systems made from
-    renewable, bio-based materials to replace manufacturing processes that conventionally
-    rely on high-energy reaction conditions and petroleum-based chemicals.  This innovation
-    will enhance technical understanding of the property-performance relationship
-    between chemistry formulations, nanoparticle morphology, and product performance.
-    \ This project will enable US manufacturers to reduce their production and disposal
-    of toxic waste and utilize locally produced feedstocks and inputs in manufacturing
-    process that are lower in carbon intensity, and will also create new markets for
-    US produced feedstocks and materials.\n \nThis SBIR Phase I project proposes to
-    optimize a green nanoparticle-forming solvent system that self-assamble to function
-    as \"microreactor\" vessels that can produce cathode materials which are used
-    in rechargeable battery systems for the growing energy storage market. Solution-based
-    synthesis methods have been used to prepare different cathode materials, but control
-    over product structure and quality requires detailed understanding of the solution
-    chemistry, which can be obscured by downstream variables that are introduced during
-    electrode formation.  This screening process will be streamlined by characterizing
-    and quantifying the properties of intermediates produced in order to determine
-    optimal chemistry formulation, particle size, and calcination conditions for battery
-    performance.  The approach will use rapid characterization methods that require
-    only microscale quantities of material in order to develop a sensitivity matrix
-    that relates the impact of renewable composition inputs and reaction variables
-    on cathode material size and morphology, allowing prediction of overall battery
-    performance.\n\nThis award reflects NSF's statutory mission and has been deemed
-    worthy of support through evaluation using the Foundation's intellectual merit
-    and broader impacts review criteria."
-  awardeeAddress: 524 East Weddell Dr.
-  awardeeCity: Sunnyvale
-  awardeeCountryCode: US
-  awardeeName: Sylvatex Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '940892139'
-  fundsObligatedAmt: '224063'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819697'
-  piEmail: vklausmeier@sylvatex.com
-  piFirstName: Virginia
-  piLastName: Irwin Klausmeier
-  piPhone: '5412211362'
-  poName: Anna Brady
-  date: 06/15/2018
-  startDate: 06/15/2018
-  expDate: 05/31/2019
-  title: 'SBIR Phase I:  Development of Renewable Nanoparticle Platform for Green
-    Energy Production and Storage Applications'
 - abstractText: |-
     The broader impact/commercial potential of this project covers a myriad of domains including wireless health-care, remote education, supply-chain management, public safety, anti-poverty initiatives, market-places, and entertainment. However, a more immediate work product from this effort is a powerful fully-digital mmWave software defined radio (SDR) platform that will be made available to academic researchers at very affordable rates; this will spur further research and make mmWave testbed experimentation within the reach of lightly-funded academic research groups. The ambitious goal of making this transformative technology the reference design of future mmWave radios represents a massive commercial opportunity which is not limited to the cellular ecosystem (base station, tablets and smartphones), but rather extends to new connected players such as cars, drones, virtual reality (VR) headsets and beyond.
 
@@ -5005,6 +5005,32 @@
   title: 'SBIR Phase I:  Cloud-Based Voice Analysis and Machine Learning to Improve
     Teaching with Data'
 - abstractText: |-
+    This SBIR Phase 1 project will create an educational technology that accelerates the acquisition of foundational English language skills by children (4 to 10 years old), by melding English and Spanish language instruction, delivered via a personalized digital learning platform. Using state-of-the-art text-to-speech and speech-to-text engines, students that are English Language Learners (ELL) will engage in deliberate literacy practice across the four modalities of language (listening, speaking, reading, writing). Over the last decade, the number of ELL students enrolling in public schools has steadily increased while there remains a shortage of bilingual or certified ELL teachers. Technology can help these teachers to personalize instruction and extend the school day which in turn increases engaged learning time. Achieving college and career readiness is an economic imperative for all students, especially ELL students given the importance of English communication skills to career success. While developing technologies for use in classrooms by young children can be a risky proposition due to the nature of the modern classroom, the reward far outweighs the risk. This project will produce a high-impact technology solution designed for young children that integrates the latest text-to-speech and speech-to-text technologies and is grounded in sound research about language skill acquisition across the four modalities.
+
+    The key innovation of this SBIR Phase 1 project is a plurilinguistic (e.g., Spanish and English) approach to literacy development across the four modalities of language (e.g., reading, writing, speaking, listening) where young students (aged 4-10 years old) are immersed in personalized learning experiences specifically tailored to support and accelerate language development. The first research goal is to test the feasibility for using and adapting proprietary English and Spanish language text-to-speech and speech-to-text engines with young children. The second research goal is to examine the impact of a dual-language personalized learning platform on children?s acquisition of foundational listening, speaking, reading, and writing skills. Participants will be ELL students whose first language is Spanish. The research is based on a plurilinguistic framework for second language acquisition; researchers hypothesize that a dual-language application that leverages students' first language to learn English will score significantly higher on independent measures of foundational literacy skills and self-efficacy for learning compared to students who are using an English-only personalized learning application. A mechanism of growth may be the amount of time students are immersed in deliberate practice of literacy skills. A dual-language personalized learning platform has the potential to extend teacher-led literacy instruction and increase the amount of time students spend engaged in learning English.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 8008 Strawberry Meadows Ct
+  awardeeCity: Raleigh
+  awardeeCountryCode: US
+  awardeeName: High Road Learning Inc
+  awardeeStateCode: NC
+  awardeeZipCode: '276131043'
+  fundsObligatedAmt: '211741'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1820041'
+  piEmail: carl.swartz@highroadlearning.com
+  piFirstName: Carl
+  piLastName: Swartz
+  piMiddeInitial: W
+  piPhone: '9192727145'
+  poName: Rajesh Mehta
+  date: 06/15/2018
+  startDate: 06/15/2018
+  expDate: 05/31/2019
+  title: 'SBIR Phase I:  Using Technology to Promote a Dual-language Approach to Personalizing
+    English-language Learners'' Growth in Literacy Ability'
+- abstractText: |-
     This Phase I SBIR project will investigate cure-in-place materials for filling and stabilizing open wounds to promote healing. Chronic wounds represent a significant and debilitating burden to patients, affecting more than 6.5 million people in the US alone. The incidence of chronic wounds is expected to rise with increasing rates of obesity and diabetes, but current treatment options show limited clinical efficacy. To address this unmet need, new materials that stimulate the body's healing mechanisms must be developed. This project will evaluate a promising new material that can be applied to a wound as a liquid and cured to a solid in contact with the wound. This cure-in-place process is expected to promote healing by ensuring intimate contact between the pro-healing material and the wound bed, mechanically stabilizing the wound area, and stimulating the body's healing responses. There are few cure-in-place materials in clinical use, so this project will also generate new fundamental engineering knowledge about these materials and their potential applications in human health. The advanced wound care market is currently valued at more than $8 billion, and it is growing. Therefore, innovative technologies in this space represent significant business opportunities that create economic growth.
 
     This project will investigate a novel cure-in-place process for generating a polysaccharide biomaterial that mimics the mechanical and structural properties of native extracellular matrix to stimulate wound healing. The material is generated by curing two aqueous precursor solutions to form a biodegradable, solid, and hydrated polymer matrix. This project will investigate a cure-in-place process by which the precursor solutions will be applied to the wound as liquids and cured in contact with the wound bed. If the extracellular matrix replacement biomaterial can be cured inside of a wound bed, then its pro-healing effects may be amplified due to its ability to fill an irregularly-shaped wound with complete contact with tissue and its capacity to mechanically stabilize the wound bed and stimulate pro-healing biochemistry. The scope of this effort will include developing an optimized formulation for the cure-in-place precursor solution, determining curing conditions for the biomaterial in contact with tissue, evaluating the material properties of the cure-in-place product, and evaluating cure-in-place application and wound healing efficacy in a porcine excisional wound model.
@@ -5029,6 +5055,31 @@
   expDate: 03/31/2019
   title: 'SBIR Phase I: Cure-in-Place Extracellular Matrix Replacement Scaffolds for
     Wound Healing'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to increase the returns of grain storage for farmers and reduce overall postharvest loss due to toxin and insect damage.  Ten billion bushels, over half of US grains, are stored on-farm each year for 3-12 months.  During this period, grain is susceptible to spoilage, infestation, and moisture loss?all of which impacts the price a farmer receives at the time of market delivery.  There is no easy way to monitor grain quality changes throughout the storage season to optimize for best times to run aeration controls to preserve, condition or maintain the grain.  This leaves farmers with a ?gut check? system of driving to each grain bin site and climbing up and inside units.  Since grain is priced based on moisture baselines, farmers are essentially selling water and weight, their final price outcome can vary significantly based on how well they managed grain conditions throughout the storage period.  In the US, an annual $3 to $ 5 billion dollars (3 ? 5%) of crop value is lost due to toxin, insect and moisture mismanagement that could be prevented through the introduction of affordable and accessible monitoring technology.
+
+    The proposed project would advance internet of things automation and wireless sensor applications as applied to production agriculture and the postharvest supply chain.  There are certain, manual processes of farm production that are strenuous due to time burdens and the lack of obtainable information to make decisions.  Monitoring grain assets, the product of farmers? toil and the safety net of global food supply, in farm bins, commercial storage, and barges is one such process. Sensing for when loss and spoilage risks occur, but more importantly connecting and turning the data into automation opportunities before they exist is the aim of this proposal.  Cable-based monitoring solutions exist, but adoption is restricted due to physical installation limitations, electricity/power constraints, and investment costs.  This project will validate the feasibility of a low-power, wireless sensor that can detect grain conditions and last a full postharvest cycle (18 months).  Such a device will create opportunities to track grain qualities across the agriculture value chain, beginning with its use to monitor and automate farm grain storage.  By characterizing, and testing against cable systems and within grain science 3D models, this project will prove the wireless sensor?s direct functionality within this first farm application.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 3033 E Stillwater Landing
+  awardeeCity: Urbana
+  awardeeCountryCode: US
+  awardeeName: Amber Agriculture
+  awardeeStateCode: IL
+  awardeeZipCode: '618027632'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1819370'
+  piEmail: lucas@amber.ag
+  piFirstName: Lucas
+  piLastName: Frye
+  piPhone: '3094725659'
+  poName: Carl Schwerdtfeger
+  date: 06/14/2018
+  startDate: 06/15/2018
+  expDate: 06/30/2019
+  title: 'SBIR Phase I:  Low-Power, Wireless Crop Quality Sensors for Grain Quality
+    Preservation and Storage Automation'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to develop single cell analysis technology to provide insight into cellular mechanisms, which has the potential to transform drug development and manufacturing. Single-cell analysis, or the ability to decipher cell-to-cell heterogeneity, is a limiting factor in biotechnology and clinical applications. This project aims to further develop a transformative platform technology for integrated single-cell analysis capable of addressing existing challenges with the current state-of-the-art. The platform will potentially shift the paradigm of drug development and manufacturing, enabling quick iteration and evaluation of new therapeutic compounds. This approach could significantly reduce the time and cost to bring new drugs to market and reduce the overall cost of treating patients, which is a substantial benefit to society. Beyond this initial application, this single-cell analysis platform could become a readily implemented research tool, enhancing our basic understanding of biology, facilitate engineering of cell function, as well as evaluating safety and efficacy of new drugs and treatments.
 
@@ -6075,29 +6126,6 @@
   expDate: 12/31/2018
   title: 'SBIR Phase I:  Alcohol Resistant Enzymes through High-Throughput Combinatorial
     Protein-Polymer Conjugate Synthesis'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is in the development of novel water treatment technologies that can improve access to clean water and reduce the cost of water treatment. The innovation is a drop-in-replacement nanofiltration membrane that is chlorine-resistant, highly permeable, and uniquely customizable. The chlorine resistance allows for the continuous chlorination of the membrane, which can reduce bio-fouling and thereby increase the lifespan of a membrane; this has been a chief innovation target for more than 30 years. The customizability aspect also facilitates capture of lead and other heavy-metals, broadening the reach of nanofiltration membranes to sectors that generate significant amounts of wastewater, such as semiconductor, mining, pulp-and-paper, and colorant industries. These improvements to nanofiltration technology have clear and direct societal and economic impact by facilitating water reuse and offering clean and affordable water solutions. SBIR project funding is enabling the transition of this promising membrane technology from the laboratory setting into the early commercialization stages of a valuable new product.
-
-    This SBIR Phase I project proposes to improve the commercial viability of novel nanofiltration membranes through the development of more-scalable and tunable synthesis and manufacturing protocols. The technology is based on self-assembling block copolymers with customizable chemical functionalities. Previous methods for the synthesis and casting of the polymers are not ideal, so new protocols are being developed. The changes to polymer and membrane manufacturing methods will be conducted systematically to develop new structure-property-performance relationships that will contribute new knowledge for broader membrane optimization efforts. A more thorough understanding of how polymer chemistry dictates membrane performance will also be cultivated by investing in the customization aspects of the technology. Finally, the performance characteristics of resulting nanofiltration membranes will be rigorously tested with respect to permeability, chlorine-resistance, separations, and heavy metal capture. The overall results will help advance nanofiltration membrane technology into a platform that is highly modular and can address a wider range of separations challenges than is currently possible.
-  awardeeAddress: 84 Tremont St 1
-  awardeeCity: Cambridge
-  awardeeCountryCode: US
-  awardeeName: Anfiro
-  awardeeStateCode: MA
-  awardeeZipCode: 021391332
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1746545'
-  piEmail: jm@anfiro.com
-  piFirstName: Jaime
-  piLastName: Mateus
-  piPhone: '9292634760'
-  poName: Anna Brady
-  date: 01/05/2018
-  startDate: 01/01/2018
-  expDate: 12/31/2018
-  title: 'SBIR Phase I:  Chlorine-resistant block polymer nanofiltration membranes
-    with added capacity for heavy-metal capture'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research (SBIR) project is to produce polymer composites that enable commercialization
     of alkaline electrochemical devices, such fuel cells and electrolyzers. The use
@@ -6148,6 +6176,29 @@
   expDate: 12/31/2018
   title: 'SBIR Phase I:  Ultrathin Polymer Electrolyte Composites with Exceptional
     Conductivity, Mechanical Strength and Chemical Durability'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is in the development of novel water treatment technologies that can improve access to clean water and reduce the cost of water treatment. The innovation is a drop-in-replacement nanofiltration membrane that is chlorine-resistant, highly permeable, and uniquely customizable. The chlorine resistance allows for the continuous chlorination of the membrane, which can reduce bio-fouling and thereby increase the lifespan of a membrane; this has been a chief innovation target for more than 30 years. The customizability aspect also facilitates capture of lead and other heavy-metals, broadening the reach of nanofiltration membranes to sectors that generate significant amounts of wastewater, such as semiconductor, mining, pulp-and-paper, and colorant industries. These improvements to nanofiltration technology have clear and direct societal and economic impact by facilitating water reuse and offering clean and affordable water solutions. SBIR project funding is enabling the transition of this promising membrane technology from the laboratory setting into the early commercialization stages of a valuable new product.
+
+    This SBIR Phase I project proposes to improve the commercial viability of novel nanofiltration membranes through the development of more-scalable and tunable synthesis and manufacturing protocols. The technology is based on self-assembling block copolymers with customizable chemical functionalities. Previous methods for the synthesis and casting of the polymers are not ideal, so new protocols are being developed. The changes to polymer and membrane manufacturing methods will be conducted systematically to develop new structure-property-performance relationships that will contribute new knowledge for broader membrane optimization efforts. A more thorough understanding of how polymer chemistry dictates membrane performance will also be cultivated by investing in the customization aspects of the technology. Finally, the performance characteristics of resulting nanofiltration membranes will be rigorously tested with respect to permeability, chlorine-resistance, separations, and heavy metal capture. The overall results will help advance nanofiltration membrane technology into a platform that is highly modular and can address a wider range of separations challenges than is currently possible.
+  awardeeAddress: 84 Tremont St 1
+  awardeeCity: Cambridge
+  awardeeCountryCode: US
+  awardeeName: Anfiro
+  awardeeStateCode: MA
+  awardeeZipCode: 021391332
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1746545'
+  piEmail: jm@anfiro.com
+  piFirstName: Jaime
+  piLastName: Mateus
+  piPhone: '9292634760'
+  poName: Anna Brady
+  date: 01/05/2018
+  startDate: 01/01/2018
+  expDate: 12/31/2018
+  title: 'SBIR Phase I:  Chlorine-resistant block polymer nanofiltration membranes
+    with added capacity for heavy-metal capture'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research (SBIR) project addresses the critical societal need to remediate widespread
     problems of toxic organic pollutants in soils, sediments and groundwater.  The
@@ -6202,6 +6253,60 @@
   expDate: 12/31/2018
   title: 'SBIR Phase I:  Remediation of recalcitrant and emerging environmental organic
     contaminants of concern using bacterial approaches'
+- abstractText: "This SBIR Phase 1 project is aimed at providing technology to address
+    the high costs of developing effective and safe drugs.  Bringing a new drug to
+    market typically involves screening 100?s of thousands of compounds for efficacy
+    and toxicity utilizing cell, tissue and animal models to ultimately select a lead
+    compound that will be tested in clinical trials.  This process can take years,
+    billions of dollars, and in the worse case leads to compounds that fail during
+    clinical trials due to safety concerns.  Advances in microfluidics and 3D-printing
+    have enabled the construction of tissue culture devices with nearly unlimited
+    numbers of tissue chambers and flow channel complexity.  Combined with optical
+    sensors with unprecedented sensitivity, instrumentation can be built that maintain
+    large numbers of biopsied tissue samples, while assessing the effects of exposure
+    of the tissue to libraries of drugs.  This technological platform provides resolution
+    of drug effects on human tissue with high sensitivity thereby reducing the cost
+    of animal testing and the risk of bringing toxic drugs to clinical trials and
+    the market.  In addition, the technology will impact the fields of personalized
+    medicine, where drugs could be tested on an individual?s own tumor or tissue,
+    and environmental health.  \n\nMeasuring in vitro cellular responses to pharmaceutical
+    compounds is critical for identifying toxic effects of candidate drugs prior to
+    costly in vivo animal and clinical testing. To address this need, instrumentation
+    to maintain and assess biopsied tissue in real time is being developed.  The technology
+    utilizes microfluidics for optimal maintenance of tissue viability and function,
+    and optoelectronics to measure oxygen uptake with unprecedented sensitivity. The
+    fluidics are driven by gas pressure, circumventing the need for unwieldy pumps,
+    and the channels are fabricated by 3D printing, allowing for nearly unlimited
+    numbers of chambers and flow channel complexity. The technological platform will
+    aid in the selection of lead compounds for clinical trials, estimation of doses
+    for first-in-human tests, and support applications to the FDA.  In this Phase
+    1 SBIR proposal we will build 2 96-channel turnkey instruments for a contract
+    research program and for beta testing by pharmaceutical companies. The functionality
+    of a low-capacity (8-channel) system has been previously demonstrated.  The funding
+    will support scaling up the throughput of the system as well as enabling additional
+    modes of operation. The instrumentation will be used for contract research and
+    for direct sales to the large market of drug discovery within the pharmaceutical
+    industry."
+  awardeeAddress: 6901 94th Ave SE
+  awardeeCity: Mercer Island
+  awardeeCountryCode: US
+  awardeeName: EnTox Sciences, LLC
+  awardeeStateCode: WA
+  awardeeZipCode: '980405441'
+  fundsObligatedAmt: '225000'
+  fundProgramName: STTR PHASE I
+  id: '1745862'
+  piEmail: EnTox13@gmail.com
+  piFirstName: Daniel
+  piLastName: Cook
+  piMiddeInitial: L
+  piPhone: '2067697980'
+  poName: Henry Ahn
+  date: 01/05/2018
+  startDate: 01/01/2018
+  expDate: 01/31/2019
+  title: 'STTR Phase I:  The BaroFuse, a Microfluidic Multichannel Measurement of
+    Tissue Oxygen Consumption For Drug Testing'
 - abstractText: "This SBIR Phase I project will fund development and release of a
     new way of using big data to maximize educational outcomes and the potential of
     each individual child.  The project will create individualized learning paths
@@ -6701,29 +6806,6 @@
   title: 'SBIR Phase I:  Driving Timely Point-of-Care Treatment in Hospitals with
     a High Precision Bayesian Machine Learning Platform'
 - abstractText: |-
-    This Small Business Innovation Research Phase I project will develop an easy to use internet-of-things (IoT) platform, called "Bluebird", for use in K-12 Science, Technology, Engineering, and Math (STEM) education. This project will employ a craft-oriented approach to STEM education, which breaks down gender barriers and engages students from diverse backgrounds.  It is estimated that 65% of primary school children will grow up to work in jobs that do not yet exist. This new workforce will be the result of what is being referred to as the "fourth industrial revolution", brought on by a fusion of technologies in the physical, digital, and biological spheres. The goal of this project is to develop an ecosystem of IoT technologies that prepare students for these industries. The platform to be developed will disrupt the current commercial landscape by providing an affordable and student-friendly alternative to devices which are either expensive or overly challenging for beginners to adopt.  The resulting product platform will serve the global smart education and learning market, which is expected to grow to $586 billion by 2021.
-
-    The intellectual merit of this project is to develop a "smart" education tool that will enable educators and learners to control the ways in which technology shapes their lives. This innovation will eliminate the major hurdles that create conceptual, practical, and economic barriers for students to gain literacy of information networks and human-centered design.  To achieve this goal, the team will research and develop a platform and an easy-to-use device that overcomes the technical challenges of providing IoT experiences in the classroom, where wireless internet is often unreliable, and the security and privacy of students must be safeguarded.  The key objectives for this project are 1) to develop a classroom-ready framework for IoT including curriculum that adheres to educational mandates; 2) to design and build low-cost and low-power hardware, firmware, and protocols for the platform; and 3) to design and implement a mobile application to facilitate communications and programming.  The anticipated result of this research is a platform that provides K-12 classroom access to IoT tools and skills. The design and manufacture of this project opens up a new market as Bluebird users craft their own IoT ideas, products, and services.
-  awardeeAddress: '652 Lafayette Ave #3'
-  awardeeCity: Brooklyn
-  awardeeCountryCode: US
-  awardeeName: Teknikio
-  awardeeStateCode: NY
-  awardeeZipCode: '112166738'
-  fundsObligatedAmt: '224545'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1747108'
-  piEmail: deren@teknikio.com
-  piFirstName: Sibel
-  piLastName: Guler
-  piMiddeInitial: D
-  piPhone: '6176973539'
-  poName: Benaiah Schrag
-  date: 12/26/2017
-  startDate: 01/01/2018
-  expDate: 12/31/2018
-  title: 'SBIR Phase I:  Bluebird: Integrated Internet-of-Things for Education'
-- abstractText: |-
     The broader impact/ commercial potential of this project is to commercialize previous research in tensegrity robots for new markets in disaster rescue, surveillance, scientific monitoring, and STEM (Science, Technology, Engineering and Math) education. Future deaths by both victims and first responders in disaster rescue in unchartered risky environments could be prevented by utilizing semi-autonomous technology to explore the regions of disasters, provide surveillance to inform first responders, and assist in the rescue of victims until human first responders can arrive. Current autonomous vehicles can be ineffective in navigating surface obstacles and climbing steep slopes to reach areas of interest. Aerial operations may be limited to dropping supplies, which may not be beneficial if victims are immobile or unconscious. The goal is to drop the proposed shape-shifting robots from aerial vehicles, so that these mobile robots can reach previously difficult areas for effective emergency response. This proposed technology will have broader impact in use for scientific monitoring and surveillance as well. A secondary market will be for K-12 students, teachers, parents and roboticists with the potential to have large impact in STEM education.  Robot kits will be developed for educational applications that will meet new Next Generation Science Standards.
 
     The Small Business Innovation Research (SBIR) Phase I project will focus on de-risking prior research in the development of spherical tensegrity structures as a robotic platform for the proposed target applications. To meet market needs, the specifications need to include impact testing from a drop from an aerial vehicle along with ground travel requirements of slope, rubble and speed. New hardware and software will be designed to meet these specifications. The following three control algorithms and actuation schemes will be developed and evaluated for target specifications and tested in simulation and in hardware for locomotion (1) Multi-cable rolling motion on inclined surfaces, (2) Dynamic rolling using Model Predictive Control (MPC), and (3) Deep reinforcement learning. For applications where the terrain has been mapped, a (4) Generative path-planning algorithm will be developed. (5) Control mechanisms for the internal sphere of the robot will be developed so that the tensegrity robot will be able to manipulate and orient a payload of sensing equipment (e.g., camera, ultrasound, infrared, laser, spectrometer) while traveling on rough terrain. (6) Associated sensor validation, fusion and estimation techniques will be developed to meet the specifications. The results will be a proof-of-concept prototype that meets the target specifications.
@@ -6747,6 +6829,29 @@
   expDate: 12/31/2018
   title: 'SBIR Phase I:  Shape-shifting robots for Disaster Rescue, Monitoring, and
     Education'
+- abstractText: |-
+    This Small Business Innovation Research Phase I project will develop an easy to use internet-of-things (IoT) platform, called "Bluebird", for use in K-12 Science, Technology, Engineering, and Math (STEM) education. This project will employ a craft-oriented approach to STEM education, which breaks down gender barriers and engages students from diverse backgrounds.  It is estimated that 65% of primary school children will grow up to work in jobs that do not yet exist. This new workforce will be the result of what is being referred to as the "fourth industrial revolution", brought on by a fusion of technologies in the physical, digital, and biological spheres. The goal of this project is to develop an ecosystem of IoT technologies that prepare students for these industries. The platform to be developed will disrupt the current commercial landscape by providing an affordable and student-friendly alternative to devices which are either expensive or overly challenging for beginners to adopt.  The resulting product platform will serve the global smart education and learning market, which is expected to grow to $586 billion by 2021.
+
+    The intellectual merit of this project is to develop a "smart" education tool that will enable educators and learners to control the ways in which technology shapes their lives. This innovation will eliminate the major hurdles that create conceptual, practical, and economic barriers for students to gain literacy of information networks and human-centered design.  To achieve this goal, the team will research and develop a platform and an easy-to-use device that overcomes the technical challenges of providing IoT experiences in the classroom, where wireless internet is often unreliable, and the security and privacy of students must be safeguarded.  The key objectives for this project are 1) to develop a classroom-ready framework for IoT including curriculum that adheres to educational mandates; 2) to design and build low-cost and low-power hardware, firmware, and protocols for the platform; and 3) to design and implement a mobile application to facilitate communications and programming.  The anticipated result of this research is a platform that provides K-12 classroom access to IoT tools and skills. The design and manufacture of this project opens up a new market as Bluebird users craft their own IoT ideas, products, and services.
+  awardeeAddress: '652 Lafayette Ave #3'
+  awardeeCity: Brooklyn
+  awardeeCountryCode: US
+  awardeeName: Teknikio
+  awardeeStateCode: NY
+  awardeeZipCode: '112166738'
+  fundsObligatedAmt: '224545'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1747108'
+  piEmail: deren@teknikio.com
+  piFirstName: Sibel
+  piLastName: Guler
+  piMiddeInitial: D
+  piPhone: '6176973539'
+  poName: Benaiah Schrag
+  date: 12/26/2017
+  startDate: 01/01/2018
+  expDate: 12/31/2018
+  title: 'SBIR Phase I:  Bluebird: Integrated Internet-of-Things for Education'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research (SBIR) Phase I project will be to develop and test feasibility of a web-based
     software and machine learning technology that is able to empower healthcare teams
@@ -7776,6 +7881,51 @@
   title: 'SBIR Phase I:  Combined endorectal prostatic Magnetic Resonance Imaging
     and Biopsy Device to Enable Single Combined Procedures'
 - abstractText: |-
+    The broader impact/commercial potential of this project is that it will serve as a one-stop power conversion solution across the power conversion industries. The proposed Power Converter can convert power directly from AC-DC, DC-DC, DC-AC and AC-AC in a single stage without an interim AC or DC link. The said power converter can take fixed frequency, variable frequency or DC voltage as input and can deliver another fixed frequency, variable frequency or DC voltage at the output. The voltage can be stepped up or down and the power can flow back and forth in the said power converter. Having all the power conversion features in one hardware can serve almost all power conversion applications such as aircraft/spacecraft/ship, hybrid/electrical vehicle, renewable energy, automation industry and almost all other power conversion needs by a mere change of software. Such technology has a potential to become a mass-produced commodity and in effect the cost of the power converter can be dramatically reduced across all industries, Market research organization has estimated that by 2020, the power converter market will be valued at $65 billion. Therefore, the commercial impact of this one stop power converter solution will be significant.
+
+    This Small Business Innovation Research (SBIR) Phase I project will introduce a multifunctional power converter with single stage power conversion. By employing bi-directional 4-quadrant wide band gap switch, intelligent filters at input and output, advanced pulse width modulation and commutation scheme a more efficient, robust, smaller foot print, low-weight power converter will be realized which will convert power from input to output much faster with reduced loss and at the same time it will not need any bulky DC or AC link in between. By operating less number of semiconductor switches at a given time the loss and size of the power converter will be reduced. By having intelligent filter, high power quality at the input and output will be achieved. The multifunctional use of this power converter will cut down the number of on board power converters in aircraft/spacecraft/ship in a system level which will provide multi-fold benefit in terms of fuel economy. By having less loss, the power consumption will be reduced and by having smaller size and weight the payload will be less, which will improve the fuel economy. By reducing number of on board power converters the on-board weight will be reduced further. Therefore, overall fuel economy will be significantly improved.
+  awardeeAddress: 5525 S Nicolet Dr
+  awardeeCity: New Berlin
+  awardeeCountryCode: US
+  awardeeName: Universal Real Time Power Conversion LLC
+  awardeeStateCode: WI
+  awardeeZipCode: '531518306'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1747029'
+  piEmail: dpanda68@yahoo.com
+  piFirstName: Debiprasad
+  piLastName: Panda
+  piPhone: '4408403393'
+  poName: Muralidharan Nair
+  date: 12/18/2017
+  startDate: 01/01/2018
+  expDate: 05/31/2019
+  title: 'SBIR Phase I:  Universal Power Converter for AC-DC, DC-DC, DC-AC and AC-AC
+    Applications'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to drive the next generation of advanced computing power and performance, by manufacturing integrated circuits, the fundamental units of electronic systems, at length scales of 7 nm and smaller. Today?s central processing units (CPUs) each contain 7.2 Bn chips and over 1.2 sextillion chips are manufactured per year to meet computing demands. Next generation technology is expected to enable artificial intelligence and machine learning through both conventional computing and potentially neuromorphic paradigms, bringing to reality transformative applications such as self-driving cars and smart buildings. As Moore?s law continues to set the pace of technological advancement, chipmakers will deploy new EUV (Extreme Ultraviolet) lithography tools, using light of 13.5 nm to pattern integrated circuits or chip architecture into silicon wafers, for the next three generations of technology. Chipmakers strive to bring about the readiness of EUV technology in 2019. The global demand for next generation electronics is forever increasing as the population grows above 7 Bn. However, the global supply of electronics constantly faces challenges to reduce costs and deliver technology beyond Moore?s Law.
+
+    The proposed project addresses the challenges related to high volume manufacturing at the 7 nm node for lithography tools and its components. For example, an EUV photomask, a high commodity component, patterns and replicates integrated circuit design into silicon wafers. Current EUV photomasks have a sub-optimal manufacturing yield of ~60% and suffer from defectivity which arises during fabrication of its architecture. During operational use the photomask sustains damage from the debris generated by the EUV plasma light source that implants in the mask and inevitably replicates in the wafer, destroying the integrated chip pattern. In high volume manufacturing, these issues manifest in the wafer yield, the reusability of a mask, and drive the need for high cost real-time inspection and metrology. A new EUV photomask which promises greater robustness to defects, a higher manufacturing yield, more reusability of masks in operations and a longer lifetime is presented. The goals of the project are to evaluate new integrated architecture for the EUV mask design, develop a higher yield fabrication process and characterize the EUV performance. More robust photomasks reduce the capital outlay required for in-situ metrology and inspection and ultimately bring down the cost of next generation electronics.
+  awardeeAddress: 4225 Executive Sq Ste 490
+  awardeeCity: La Jolla
+  awardeeCountryCode: US
+  awardeeName: Astrileux Corporation
+  awardeeStateCode: CA
+  awardeeZipCode: '920378411'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1747341'
+  piEmail: supriya@astrileux.com
+  piFirstName: Supriya
+  piLastName: Jaiswal
+  piPhone: '8585312432'
+  poName: Carl Schwerdtfeger
+  date: 12/18/2017
+  startDate: 01/01/2018
+  expDate: 06/30/2019
+  title: 'SBIR Phase I:  High Fidelity EUV PhotoMasks'
+- abstractText: |-
     This SBIR Phase I project aims to further the development a novel nanoparticle-based synthetic platelet technology for the treatment of internal, non-compressible hemorrhage after traumatic injury. Trauma is the leading killer of people aged 1-46, and uncontrollable hemorrhage after injury is the cause of 35% of pre-hospital trauma deaths and 90% of military combat casualties. This is because there are currently no pre-hospital treatment options for internal, non-compressible hemorrhage. If the patient reaches a medical treatment facility in time, the current standard of care is transfusion with blood products, including platelets. However, natural platelet products suffer from shortage in supply (due to donor shortage), difficulty in portability, high risk of bacterial contamination, very short shelf life (3-5 days), requirement of blood typing and cross matching, and multiple biologic side effects (e.g. immune response). Therefore, there exists a significant clinical need for a synthetic platelet surrogate that can address the above limitations and can be administered at point-of-injury or during en route care to stop the bleeding earlier and potentially save lives. Beyond the potential clinical and commercial impact, the proposed research will also provide multi-disciplinary educational and research opportunities in major STEM areas at undergraduate level to create future scientists and engineers.
 
     A synthetic platelet technology has been developed that can simulate the hemostatic mechanisms and capabilities of natural platelets while allowing large-scale manufacturing, sterilization, long shelf-life and portability. The technology consists of a platelet-mimetic lipid-based nanoparticle, heteromultivalently surface-decorated with three types of small synthetic peptide ligands that render cooperative mechanisms of binding to von Willebrand Factor (vWF) and collagen (platelet-mimetic injury site-selective adhesion mechanisms) and binding to stimulated form of GPIIb-IIIa on active platelets (platelet-mimetic injury site-directed aggregation mechanism). This patented design is unique in that it is currently the only design that combines these adhesion and aggregation properties of natural platelets on a single synthetic platform. Preliminary studies have established the platelet-mimetic functional mechanisms in vitro as well as its significant hemostatic therapy capability in vivo in small (mouse) and large (pig) animal models of hemorrhage in both prophylactic and emergency administration frameworks. Building on these promising results, this project aims to conduct translationally-directed studies to address technical hurdles associated with manufacturing the synthetic platelets with batch-to-batch consistency and long shelf life (>1 year) at a range of storage conditions (widely varying temperatures, altitudes, etc), which would be highly relevant in austere civilian and military applications.
@@ -7895,29 +8045,6 @@
   expDate: 12/31/2018
   title: 'SBIR Phase I:  Ureter Detection during Minimally Invasive or Robotic Surgery
     by Electrical Stimulus Evoked Responses'
-- abstractText: |-
-    The broader impact/commercial potential of this project is that it will serve as a one-stop power conversion solution across the power conversion industries. The proposed Power Converter can convert power directly from AC-DC, DC-DC, DC-AC and AC-AC in a single stage without an interim AC or DC link. The said power converter can take fixed frequency, variable frequency or DC voltage as input and can deliver another fixed frequency, variable frequency or DC voltage at the output. The voltage can be stepped up or down and the power can flow back and forth in the said power converter. Having all the power conversion features in one hardware can serve almost all power conversion applications such as aircraft/spacecraft/ship, hybrid/electrical vehicle, renewable energy, automation industry and almost all other power conversion needs by a mere change of software. Such technology has a potential to become a mass-produced commodity and in effect the cost of the power converter can be dramatically reduced across all industries, Market research organization has estimated that by 2020, the power converter market will be valued at $65 billion. Therefore, the commercial impact of this one stop power converter solution will be significant.
-
-    This Small Business Innovation Research (SBIR) Phase I project will introduce a multifunctional power converter with single stage power conversion. By employing bi-directional 4-quadrant wide band gap switch, intelligent filters at input and output, advanced pulse width modulation and commutation scheme a more efficient, robust, smaller foot print, low-weight power converter will be realized which will convert power from input to output much faster with reduced loss and at the same time it will not need any bulky DC or AC link in between. By operating less number of semiconductor switches at a given time the loss and size of the power converter will be reduced. By having intelligent filter, high power quality at the input and output will be achieved. The multifunctional use of this power converter will cut down the number of on board power converters in aircraft/spacecraft/ship in a system level which will provide multi-fold benefit in terms of fuel economy. By having less loss, the power consumption will be reduced and by having smaller size and weight the payload will be less, which will improve the fuel economy. By reducing number of on board power converters the on-board weight will be reduced further. Therefore, overall fuel economy will be significantly improved.
-  awardeeAddress: 5525 S Nicolet Dr
-  awardeeCity: New Berlin
-  awardeeCountryCode: US
-  awardeeName: Universal Real Time Power Conversion LLC
-  awardeeStateCode: WI
-  awardeeZipCode: '531518306'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1747029'
-  piEmail: dpanda68@yahoo.com
-  piFirstName: Debiprasad
-  piLastName: Panda
-  piPhone: '4408403393'
-  poName: Muralidharan Nair
-  date: 12/18/2017
-  startDate: 01/01/2018
-  expDate: 12/31/2018
-  title: 'SBIR Phase I:  Universal Power Converter for AC-DC, DC-DC, DC-AC and AC-AC
-    Applications'
 - abstractText: "This Small Business Innovation Research (SBIR) Phase I project is
     focused on developing a new probe technology for high magnetic field sensing and
     measurement.  The technology utilizes a circuit-free, atom-based field sensing
@@ -8024,28 +8151,6 @@
   expDate: 12/31/2018
   title: 'SBIR Phase I:  Optical Delivery System for In Situ Heating and Excitation
     in the Transmission Electron Microscope'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to drive the next generation of advanced computing power and performance, by manufacturing integrated circuits, the fundamental units of electronic systems, at length scales of 7 nm and smaller. Today?s central processing units (CPUs) each contain 7.2 Bn chips and over 1.2 sextillion chips are manufactured per year to meet computing demands. Next generation technology is expected to enable artificial intelligence and machine learning through both conventional computing and potentially neuromorphic paradigms, bringing to reality transformative applications such as self-driving cars and smart buildings. As Moore?s law continues to set the pace of technological advancement, chipmakers will deploy new EUV (Extreme Ultraviolet) lithography tools, using light of 13.5 nm to pattern integrated circuits or chip architecture into silicon wafers, for the next three generations of technology. Chipmakers strive to bring about the readiness of EUV technology in 2019. The global demand for next generation electronics is forever increasing as the population grows above 7 Bn. However, the global supply of electronics constantly faces challenges to reduce costs and deliver technology beyond Moore?s Law.
-
-    The proposed project addresses the challenges related to high volume manufacturing at the 7 nm node for lithography tools and its components. For example, an EUV photomask, a high commodity component, patterns and replicates integrated circuit design into silicon wafers. Current EUV photomasks have a sub-optimal manufacturing yield of ~60% and suffer from defectivity which arises during fabrication of its architecture. During operational use the photomask sustains damage from the debris generated by the EUV plasma light source that implants in the mask and inevitably replicates in the wafer, destroying the integrated chip pattern. In high volume manufacturing, these issues manifest in the wafer yield, the reusability of a mask, and drive the need for high cost real-time inspection and metrology. A new EUV photomask which promises greater robustness to defects, a higher manufacturing yield, more reusability of masks in operations and a longer lifetime is presented. The goals of the project are to evaluate new integrated architecture for the EUV mask design, develop a higher yield fabrication process and characterize the EUV performance. More robust photomasks reduce the capital outlay required for in-situ metrology and inspection and ultimately bring down the cost of next generation electronics.
-  awardeeAddress: 4225 Executive Sq Ste 490
-  awardeeCity: La Jolla
-  awardeeCountryCode: US
-  awardeeName: Astrileux Corporation
-  awardeeStateCode: CA
-  awardeeZipCode: '920378411'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1747341'
-  piEmail: supriya@astrileux.com
-  piFirstName: Supriya
-  piLastName: Jaiswal
-  piPhone: '8585312432'
-  poName: Carl Schwerdtfeger
-  date: 12/18/2017
-  startDate: 01/01/2018
-  expDate: 12/31/2018
-  title: 'SBIR Phase I:  High Fidelity EUV PhotoMasks'
 - abstractText: "This Small Business Innovation Research Phase I project is aimed
     at developing a superior platform for the preparation of samples for cryogenic
     Transmission Electron Microscopy (cryo-TEM). Cryo-TEM provides images of morphologies
@@ -8454,28 +8559,6 @@
   expDate: 12/31/2018
   title: 'SBIR Phase I:  Removal of VOCs using Novel Photocatalytic Table-Top Luminaires'
 - abstractText: |-
-    The broader impact/commercial potential of this project will be to innovate a novel patient tracking system, which will improve robotic surgery usability in an intra-operative environment. Robotic surgery is becoming ubiquitous across various medical procedures, and data continues to show improved clinical results. However, usability challenges impede broader adoption. This project will combine multiple tracking modalities, including mechanical and optical tracking, to create a hybrid tracking technology that allows for the advantages of each modality. This will optimize patient range of motion while minimizing line-of-sight challenges. This patient tracking technology can be used in conjunction with an existing robotic surgery system for dental implant procedures, which comprise a significant market opportunity. Dental implants are the standard of care for tooth replacement, and the dental implant market in the US is over $1 billion and growing nearly 8% per year with more than 14 million implants being placed annually worldwide. This technique can be used not only to revolutionize dental implant surgery, where the system is currently applied, but also to potentially create opportunities in other cranial procedures, which are otherwise burdened by invasive, cumbersome tracking technologies that impede intra-operative usability.
-
-    This Small Business Innovation Research (SBIR) Phase I project will demonstrate the feasibility of the first hybrid patient tracking device that combines mechanical and optical tracking methods. Optical tracking systems require that cameras have direct line-of-sight to several tracked markers in the surgical field, which poses a significant challenge to the surgeon and assistants that have to carefully avoid blocking the camera's field-of-view. Mechanical tracking systems limit a patient's range of motion and can be bulky. The success of this project will lead to the development of a robotic surgery system for dental implant procedures that encompasses: 1) pre-operative CT-based planning software, 2) a visual guidance system that provides on-screen graphics like a GPS system, 3) a hybrid optical and mechanical tracking system that monitors the patient position, and 4) a robot arm that physically grasps the drill at the same time as the surgeon in order to provide haptic feedback, constraining the surgeon to match the planned osteotomy. This system enables minimally invasive, flapless surgery that is shown to result in less pain for the patient and faster surgery. It is designed to be easy to use and seamlessly integrate into the surgeon's workflow.
-  awardeeAddress: 2800 Biscayne Blvd
-  awardeeCity: Miami
-  awardeeCountryCode: US
-  awardeeName: Neocis Inc
-  awardeeStateCode: FL
-  awardeeZipCode: '331374528'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1721384'
-  piEmail: amozes@neocisinc.com
-  piFirstName: Alon
-  piLastName: Mozes
-  piPhone: '3054092819'
-  poName: Muralidharan Nair
-  date: 07/11/2017
-  startDate: 07/01/2017
-  expDate: 02/28/2019
-  title: 'SBIR Phase I:  Hybrid Mechanical-Optical Patient Tracking for Robotic Surgery'
-- abstractText: |-
     This SBIR Phase I project will develop the necessary technology and manufacturing workflows to provide medical professionals with extremely realistic physical models of tissues and organs. The models will be manufactured rapidly (within a few hours), inexpensively, and on-demand. They will be patient-specific based on the patient?s CT and MRI scan data.  This will have profound implications on the planning of complex medical procedures such as tumor removal and will enable medical professionals and their teams to practice patient-specific surgical scenarios. This will improve surgical outcome, generate efficiencies in the operating room and decrease medical errors which, by some accounts, are the third largest cause of death in the United States. The ability to 3D print realistic human organ models will also provide medical students with a way to practice medical procedures with a wide degree of diversity. This will accelerate the learning rate and expand the breadth of training experiences.  Similarly, the models will provide a way for medical professionals to practice rare, high-risk procedures on-demand. The proposed 3D models will become a central part of the medical simulation toolbox and will enable a new generation of surgical planning and education.
 
     The ability to manufacture extremely realistic physical models rapidly, inexpensively, and on-demand relies on a novel multimaterial additive manufacturing process with a closed-feedback loop enabled by machine vision. This new process manufactures objects layer by layer, each layer made from a discrete set of elements, where each element is built from one material from a pallette of materials. The use of the closed-feedback loop system allows incorporating both liquids and solids with a wide range of mechanical and appearance properties. The development of a material palette that is necessary to mimic properties of real tissues will be a crucial part of the project. This material palette will be expanded by spatially combining base materials into composite structures. The second main thrust of the project relies on a software design workflow that translates geometric and material specifications describing a simulation model (e.g., an organ or a tissue) into multimaterial volumetric data. The volumetric data will be used as input to the multimaterial printing platform. The new design workflow requires development of modeling approaches that go beyond traditional, boundary-based CAD representations.
@@ -8498,6 +8581,28 @@
   expDate: 02/28/2019
   title: 'SBIR Phase I:  Multi-Material 3D Printing of  Personalized Medical Simulation
     Models'
+- abstractText: |-
+    The broader impact/commercial potential of this project will be to innovate a novel patient tracking system, which will improve robotic surgery usability in an intra-operative environment. Robotic surgery is becoming ubiquitous across various medical procedures, and data continues to show improved clinical results. However, usability challenges impede broader adoption. This project will combine multiple tracking modalities, including mechanical and optical tracking, to create a hybrid tracking technology that allows for the advantages of each modality. This will optimize patient range of motion while minimizing line-of-sight challenges. This patient tracking technology can be used in conjunction with an existing robotic surgery system for dental implant procedures, which comprise a significant market opportunity. Dental implants are the standard of care for tooth replacement, and the dental implant market in the US is over $1 billion and growing nearly 8% per year with more than 14 million implants being placed annually worldwide. This technique can be used not only to revolutionize dental implant surgery, where the system is currently applied, but also to potentially create opportunities in other cranial procedures, which are otherwise burdened by invasive, cumbersome tracking technologies that impede intra-operative usability.
+
+    This Small Business Innovation Research (SBIR) Phase I project will demonstrate the feasibility of the first hybrid patient tracking device that combines mechanical and optical tracking methods. Optical tracking systems require that cameras have direct line-of-sight to several tracked markers in the surgical field, which poses a significant challenge to the surgeon and assistants that have to carefully avoid blocking the camera's field-of-view. Mechanical tracking systems limit a patient's range of motion and can be bulky. The success of this project will lead to the development of a robotic surgery system for dental implant procedures that encompasses: 1) pre-operative CT-based planning software, 2) a visual guidance system that provides on-screen graphics like a GPS system, 3) a hybrid optical and mechanical tracking system that monitors the patient position, and 4) a robot arm that physically grasps the drill at the same time as the surgeon in order to provide haptic feedback, constraining the surgeon to match the planned osteotomy. This system enables minimally invasive, flapless surgery that is shown to result in less pain for the patient and faster surgery. It is designed to be easy to use and seamlessly integrate into the surgeon's workflow.
+  awardeeAddress: 2800 Biscayne Blvd
+  awardeeCity: Miami
+  awardeeCountryCode: US
+  awardeeName: Neocis Inc
+  awardeeStateCode: FL
+  awardeeZipCode: '331374528'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1721384'
+  piEmail: amozes@neocisinc.com
+  piFirstName: Alon
+  piLastName: Mozes
+  piPhone: '3054092819'
+  poName: Muralidharan Nair
+  date: 07/11/2017
+  startDate: 07/01/2017
+  expDate: 02/28/2019
+  title: 'SBIR Phase I:  Hybrid Mechanical-Optical Patient Tracking for Robotic Surgery'
 - abstractText: |-
     The broader impact/commercial potential of this project will be achieved through shifting the paradigm of waterway maintenance into a more regular occurrence, giving way to reduced pollutant levels in waterways, since they will be promptly removed instead of allowing them to accumulate toxins, and increase property values, utilization, and income within the marina industry. Additionally, embedded sensor intelligence and continuous waterway monitoring will grant the community and dredging regulatory agencies increased visibility and understanding of the health of the marine life in the waterway and allow them to more closely monitor environmental violations. With widespread adoption and further development, the innovation could potentially have far-reaching benefits in assisting with water and energy security by keeping inlet canals and reservoirs that comprise our society?s infrastructure clean and running at peak efficiency.
 
