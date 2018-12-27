@@ -144,7 +144,7 @@
   piLastName: Diebold
   piMiddeInitial: M
   piPhone: '4018290024'
-  poName: Carl Schwerdtfeger
+  poName: Rick Schwerdtfeger
   date: 04/04/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -396,7 +396,7 @@
   piLastName: Grierson
   piMiddeInitial: S
   piPhone: '6082179700'
-  poName: Carl Schwerdtfeger
+  poName: Rick Schwerdtfeger
   date: 09/19/2017
   startDate: 09/15/2017
   expDate: 08/31/2019
@@ -443,7 +443,7 @@
   piFirstName: Craig
   piLastName: Green
   piPhone: '4103713128'
-  poName: Carl Schwerdtfeger
+  poName: Rick Schwerdtfeger
   date: 04/06/2017
   startDate: 04/01/2017
   expDate: 09/30/2019
@@ -466,7 +466,7 @@
   piFirstName: Christian
   piLastName: Adams
   piPhone: '3529897717'
-  poName: Carl Schwerdtfeger
+  poName: Rick Schwerdtfeger
   date: 04/04/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -759,7 +759,7 @@
   piFirstName: leo
   piLastName: mathew
   piPhone: '5127757991'
-  poName: Carl Schwerdtfeger
+  poName: Rick Schwerdtfeger
   date: 04/06/2017
   startDate: 04/01/2017
   expDate: 09/30/2019
@@ -1133,6 +1133,30 @@
   title: 'SBIR Phase II:  An interactive digital textbook that supports earth science
     learning'
 - abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is provided by a novel data processing architecture, utilizing high-parallel in-memory computing for certain recurring and data intensive functions. Traditional computer architecture funnels all data through the central processing unit (CPU). Multiple CPU cores and very high clock frequencies are used to address the issue of ever increasing demands on data processing capability. However, the transportation capacity of data between memory and CPU cores has become a limiting factor creating a 'memory bottleneck'. This limitation is most noticeable in the recent and rapid development of artificial intelligence applications which deploy so called neuromorphic computing techniques, which in turn require a very high parallelism in computation and proportional demands on memory bandwidth. This project performs key repetitive operations within the memory itself, leveraging the inherent parallelism of the memory architecture, thereby avoiding a large percentage of the data transport otherwise required. The resulting elimination of the memory bottleneck provides a path forward for high complexity neuromorphic computing applications such as autonomous navigation used for self-driving cars. Reduced demands on data transport and CPU also significantly reduce power consumption, enabling a wide variety of mobile artificial intelligence applications.
+
+    The proposed project investigates the system level integration challenges of a memory-centric neuromorphic computing approach, and aims to demonstrate a seamless integration with existing software platforms currently using traditional neuromorphic computing processors. It is important for a novel hardware platform to be compatible with existing software in order to lower barriers to market entry. This Phase II project also develops the actual semiconductor product which has been investigated in Phase I as a feasibility demonstrator. The Phase II product is based on a non-volatile high density memory architecture, and as such is expected to provide the full capability in terms of both power and operations per second. Once the hardware is available in the second half of the project, these key parameters will be thoroughly characterized and benchmarked against the current state of the art technology. A projection will be made outlining the future scaling potential using ultra high density volatile and non-volatile memory geared towards high complexity neuromorphic computing beyond what is currently possible using existing approaches.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 182 Main St., Suite 304
+  awardeeCity: Burlington
+  awardeeCountryCode: US
+  awardeeName: Green Mountain Semiconductor, Inc.
+  awardeeStateCode: VT
+  awardeeZipCode: 054018349
+  fundsObligatedAmt: '750000'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1831151'
+  piEmail: whokenmaier@greenmountainsemi.com
+  piFirstName: Wolfgang
+  piLastName: Hokenmaier
+  piPhone: '8023438175'
+  poName: Rick Schwerdtfeger
+  date: 09/04/2018
+  startDate: 09/01/2018
+  expDate: 08/31/2020
+  title: 'SBIR Phase II:  In-Memory Artificial Neural Network'
+- abstractText: |-
     The broader impact/commercial potential of this project will be in helping batteries exceed the quality, performance, and safety demands of mass-market electric vehicles, renewable energy generation, and next-generation consumer electronic devices. The need for high-performance batteries is accelerating, and as batteries grow in energy density, size, and production volumes, so will the issues that persist with quality. Unless these issues are addressed, they will continue to have major implications for the performance, safety, and adoption of these important technologies. The challenge is that outside of R&D labs, the industry relies on essentially the same basic data as when batteries were first invented: voltage, current, and temperature. As a result, at commercial scales, only a small percentage of batteries are inspected in a meaningful way, with methods that only provide indirect information about physical condition. This Phase 2 project is focused on developing a new platform for production-level battery inspection that directly probes the physical condition of batteries with a high testing throughput. This could lead to better decisions in manufacturing environments and could decrease system costs, increase capacity and operational lifetime, and accelerate the scale-up of promising new materials.
 
     This Small Business Innovation Research (SBIR) Phase 2 project addresses the need for a physical mode of inspection in battery production environments that is capable of screening every cell with high fidelity. Currently, inspection in production-level environments are limited to electrical measurements and X-rays. Electrical methods provide only indirect and cell-averaged information about physical condition, and X-rays are not practically able to detect the distribution of electrolyte within batteries nor the formation of the solid electrolyte interphase (SEI) layer (both of which strongly affect long-term reliability, performance, and safety of batteries). This Phase 2 project aims to develop a platform that utilizes sound-based methods to inspect batteries in production-environments. This will involve developing a scaled, automated hardware system as well as software and computational methods for processing and analyzing the acoustic signals. The Phase 2 project will also include various testing and validation efforts to assess the ability of acoustic analysis to both directly determine the performance quality and reliability of cells beyond beginning of life capacity and resistance, as well as to improve the performance of strings of cells and modules.
@@ -1157,30 +1181,6 @@
   startDate: 09/01/2018
   expDate: 08/31/2020
   title: 'SBIR Phase II:  Electrochemical Acoustic Tools for the Analysis of Batteries'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is provided by a novel data processing architecture, utilizing high-parallel in-memory computing for certain recurring and data intensive functions. Traditional computer architecture funnels all data through the central processing unit (CPU). Multiple CPU cores and very high clock frequencies are used to address the issue of ever increasing demands on data processing capability. However, the transportation capacity of data between memory and CPU cores has become a limiting factor creating a 'memory bottleneck'. This limitation is most noticeable in the recent and rapid development of artificial intelligence applications which deploy so called neuromorphic computing techniques, which in turn require a very high parallelism in computation and proportional demands on memory bandwidth. This project performs key repetitive operations within the memory itself, leveraging the inherent parallelism of the memory architecture, thereby avoiding a large percentage of the data transport otherwise required. The resulting elimination of the memory bottleneck provides a path forward for high complexity neuromorphic computing applications such as autonomous navigation used for self-driving cars. Reduced demands on data transport and CPU also significantly reduce power consumption, enabling a wide variety of mobile artificial intelligence applications.
-
-    The proposed project investigates the system level integration challenges of a memory-centric neuromorphic computing approach, and aims to demonstrate a seamless integration with existing software platforms currently using traditional neuromorphic computing processors. It is important for a novel hardware platform to be compatible with existing software in order to lower barriers to market entry. This Phase II project also develops the actual semiconductor product which has been investigated in Phase I as a feasibility demonstrator. The Phase II product is based on a non-volatile high density memory architecture, and as such is expected to provide the full capability in terms of both power and operations per second. Once the hardware is available in the second half of the project, these key parameters will be thoroughly characterized and benchmarked against the current state of the art technology. A projection will be made outlining the future scaling potential using ultra high density volatile and non-volatile memory geared towards high complexity neuromorphic computing beyond what is currently possible using existing approaches.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 182 Main St., Suite 304
-  awardeeCity: Burlington
-  awardeeCountryCode: US
-  awardeeName: Green Mountain Semiconductor, Inc.
-  awardeeStateCode: VT
-  awardeeZipCode: 054018349
-  fundsObligatedAmt: '750000'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1831151'
-  piEmail: whokenmaier@greenmountainsemi.com
-  piFirstName: Wolfgang
-  piLastName: Hokenmaier
-  piPhone: '8023438175'
-  poName: Carl Schwerdtfeger
-  date: 09/04/2018
-  startDate: 09/01/2018
-  expDate: 08/31/2020
-  title: 'SBIR Phase II:  In-Memory Artificial Neural Network'
 - abstractText: |-
     This SBIR Phase II project seeks to develop a novel low-cost molecular filter for use in harsh environments. This is accomplished using commodity silica gel, commonly found as a desiccant in food packing, whose pores can be made to be only a few molecules wide. Accurate tuning of the size and shape of the silica gel pores enables certain molecules to pass through while others are blocked from passing. One promising application for these molecular filters is their use in grid-scale energy storage. Flow batteries could store city-sized quantities of renewable energy. However, they require the use of expensive molecular filters that are not easily replaced due to the harsh battery environments. The low-cost filters developed during this SBIR Phase II project have the potential to reduce the cost of flow batteries by as much as 15%, making them less expensive than grid-scale lithium ion batteries. Lower cost grid-scale storage means that more renewable energy generation (e.g., solar & wind) can be added without overwhelming the grid. Low cost molecular filter also has commercial upside with the potential to capture a significant fraction of the $2.7 billion-dollar market. Because of this, this project could generate nearly 15 jobs and $39 million dollars in tax revenue over the next 5 years.
 
@@ -1508,7 +1508,7 @@
   piFirstName: John
   piLastName: Moore
   piPhone: '6178710967'
-  poName: Carl Schwerdtfeger
+  poName: Rick Schwerdtfeger
   date: 09/05/2017
   startDate: 09/01/2017
   expDate: 02/29/2020
@@ -1581,7 +1581,7 @@
   piFirstName: Tristan
   piLastName: Rocheleau
   piPhone: '6072322162'
-  poName: Carl Schwerdtfeger
+  poName: Rick Schwerdtfeger
   date: 08/28/2017
   startDate: 09/01/2017
   expDate: 02/29/2020
@@ -1675,7 +1675,7 @@
   piFirstName: Rigers
   piLastName: Qeraj
   piPhone: '3472761475'
-  poName: Carl Schwerdtfeger
+  poName: Rick Schwerdtfeger
   date: 04/04/2017
   startDate: 04/01/2017
   expDate: 09/30/2021
@@ -1745,7 +1745,7 @@
   piFirstName: Ruvini
   piLastName: Dharmadasa
   piPhone: '5025691038'
-  poName: Carl Schwerdtfeger
+  poName: Rick Schwerdtfeger
   date: 04/03/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -2098,7 +2098,7 @@
   piFirstName: Abhijeet
   piLastName: Joshi
   piPhone: '3105718447'
-  poName: Carl Schwerdtfeger
+  poName: Rick Schwerdtfeger
   date: 07/31/2016
   startDate: 08/01/2016
   expDate: 01/31/2020
@@ -2667,7 +2667,7 @@
   piFirstName: Matthew
   piLastName: Smith
   piPhone: '4132180629'
-  poName: Carl Schwerdtfeger
+  poName: Rick Schwerdtfeger
   date: 09/20/2018
   startDate: 09/15/2018
   expDate: 08/31/2020
@@ -3692,6 +3692,28 @@
   title: 'SBIR Phase II:  A Novel Electroless Nickel/Immersion Gold (ENIG) Surface
     Finish for Better Reliability of Electronic Assemblies'
 - abstractText: |-
+    This Small Business Innovation Research (SBIR) Phase II project will develop and apply machine learning statistical tools to Internet of Things (IoT) water delivery and water quality sensors. This will enable prediction and preemptive response to water point failures. The resilience of these environmental services is dependent upon credible and continuous indicators of reliability, leveraged by funding agencies to incentivize performance among service providers. In many locations, these service providers are utilities providing access to clean water, safe sanitation, and reliable energy. However, in some rural areas, there remains a significant gap between the intent of service providers and the impacts measured over time. Achieving the SBIR Phase II core objectives will help close the loop on effective and clean water delivery.  IoT sensors and services will address one of the most critical public health gaps by enabling delivery of reliable and safe water.
+
+    IoT solutions for this environment may help address these information asymmetries and enable improved decisions and response. However, given the remote and power constrained environments and the high degree of variability between fixed infrastructure including age, materials, pipe diameters, power quality, rotating equipment vendors (pumps and generators), servicing, and functionality, any IOT solution would have to either be bespoke engineering, or compensate for these site-wise complexities through analytics. Instead, our SBIR II approach is to develop universal, solar powered cellular and satellite IOT hardware for each service type, and addresses site complexities through cloud-based sensor fusion and statistical learning. In this way, we significantly reduce hardware and logistical costs, and provide value to our customers through service delivery analytics. In Phase I, we demonstrated the application of simple sensors and sophisticated machine learning to identify off-nominal service delivery across a cohort of water pumps of various designs. We developed a universal electrical borehole sensor compatible with disparate fixed infrastructure, and we demonstrated solving the problem of heterogeneous customer hardware with a homogeneous sensor platform and adaptive machine learning backend.
+  awardeeAddress: 5548 NE 18th Ave
+  awardeeCity: Portland
+  awardeeCountryCode: US
+  awardeeName: SweetSense Inc.
+  awardeeStateCode: OR
+  awardeeZipCode: '972115543'
+  fundsObligatedAmt: '899475'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1738321'
+  piEmail: daniel.wilson@sweetsensors.com
+  piFirstName: Daniel
+  piLastName: Wilson
+  piPhone: '9709809812'
+  poName: Rick Schwerdtfeger
+  date: 08/30/2017
+  startDate: 09/01/2017
+  expDate: 02/29/2020
+  title: 'SBIR Phase II:  Predictive Algorithms for Water Point Failure'
+- abstractText: |-
     This Small Business Innovation Research (SBIR) Phase II project will accelerate the adoption of data intensive precision agriculture, increasing yields while decreasing farm inputs such as fertilizers and pesticides. This project removes the software bottleneck (time and labor) in processing large aerial surveys taken by Unmanned Aerial Systems, enabling a cost-effective and timely process to deliver actionable information to farmers. Using frequent high-quality aerial scans, farmers may optimize the use of fertilizers and more finely control the amount of pesticides and herbicides necessary to increase crop yield. Furthermore, farmers mitigate costs and losses by being able to spot problem areas, minimize the spread of plant diseases, and identify issues such as standing water, irrigation malfunctions, and persistent automated machinery errors in planting or cultivation. This project provides special benefit for rural customers having inadequate internet infrastructure by eliminating the need to upload massive imagery to the cloud for processing. The technology is part of a broad initiative in agriculture addressing the need for large increases in food production by 2050 in response to the projected growth of the world?s population to over 9 Billion people.
 
     This project will continue development of algorithms for on-the-fly orthorectification, stitching, and normalization of aerial image mosaics and their deployment in an easy-to-use software prototype. The Phase I already demonstrated industry-leading speeds for such image processing. The technology behind this research project is designed from the ground up to process massive data with less memory and increased speed relative to other approaches, enabled by a proprietary streaming image representation, that allows multichannel gigapixel and terapixel images to be treated as ordinary images. This Phase II supports new extensions to the software that simplify and accelerate delivering a stitched and analyzed map, such as prioritizing computation in regions of the image that a customer is exploring. This would effectively eliminate the delay between image acquisition on unmanned aerial vehicles and when it can be used. Crop consultants have identified this as a transformative capability, as it enables ground-truthing information derived from aerial imagery in the same field visit, saving time and labor. The performance gains in compute-limited environments supported by this project are a key link between new capabilities to gather information and a farmer?s ability to utilize it to increase productivity while reducing costs.
@@ -3709,34 +3731,12 @@
   piLastName: Gooch
   piMiddeInitial: A
   piPhone: '8018285038'
-  poName: Carl Schwerdtfeger
+  poName: Rick Schwerdtfeger
   date: 08/30/2017
   startDate: 09/01/2017
   expDate: 08/31/2019
   title: 'SBIR Phase II:  Immediate Delivery of Massive Aerial Imagery to Farmers
     and Crop Consultants'
-- abstractText: |-
-    This Small Business Innovation Research (SBIR) Phase II project will develop and apply machine learning statistical tools to Internet of Things (IoT) water delivery and water quality sensors. This will enable prediction and preemptive response to water point failures. The resilience of these environmental services is dependent upon credible and continuous indicators of reliability, leveraged by funding agencies to incentivize performance among service providers. In many locations, these service providers are utilities providing access to clean water, safe sanitation, and reliable energy. However, in some rural areas, there remains a significant gap between the intent of service providers and the impacts measured over time. Achieving the SBIR Phase II core objectives will help close the loop on effective and clean water delivery.  IoT sensors and services will address one of the most critical public health gaps by enabling delivery of reliable and safe water.
-
-    IoT solutions for this environment may help address these information asymmetries and enable improved decisions and response. However, given the remote and power constrained environments and the high degree of variability between fixed infrastructure including age, materials, pipe diameters, power quality, rotating equipment vendors (pumps and generators), servicing, and functionality, any IOT solution would have to either be bespoke engineering, or compensate for these site-wise complexities through analytics. Instead, our SBIR II approach is to develop universal, solar powered cellular and satellite IOT hardware for each service type, and addresses site complexities through cloud-based sensor fusion and statistical learning. In this way, we significantly reduce hardware and logistical costs, and provide value to our customers through service delivery analytics. In Phase I, we demonstrated the application of simple sensors and sophisticated machine learning to identify off-nominal service delivery across a cohort of water pumps of various designs. We developed a universal electrical borehole sensor compatible with disparate fixed infrastructure, and we demonstrated solving the problem of heterogeneous customer hardware with a homogeneous sensor platform and adaptive machine learning backend.
-  awardeeAddress: 5548 NE 18th Ave
-  awardeeCity: Portland
-  awardeeCountryCode: US
-  awardeeName: SweetSense Inc.
-  awardeeStateCode: OR
-  awardeeZipCode: '972115543'
-  fundsObligatedAmt: '899475'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1738321'
-  piEmail: daniel.wilson@sweetsensors.com
-  piFirstName: Daniel
-  piLastName: Wilson
-  piPhone: '9709809812'
-  poName: Carl Schwerdtfeger
-  date: 08/30/2017
-  startDate: 09/01/2017
-  expDate: 02/29/2020
-  title: 'SBIR Phase II:  Predictive Algorithms for Water Point Failure'
 - abstractText: |-
     This Small Business Technology Transfer (STTR) Phase II project aims to disrupt hemodialysis delivery for treating end-stage renal disease (ESRD), a significant health burden in the US. Trends are moving toward patient-managed, in-home treatments. The goal of this proposal is to accelerate adoption of safer home hemodialysis therapy through development of continuously operating, wearable hemodialysis systems enabled by ultrathin and highly permeable silicon nanomembranes. Despite the recognized economic, health and quality-of-life benefits of more frequent hemodialysis treatments, adoption of home hemodialysis using present systems is being limited by doctors? and patients? safety concerns. Simpler and safer hemodialysis therapies will require breakthroughs in both device components and form-factors. The development of a small-scale, highly efficient dialysis system enabled by silicon nanomembranes holds potential for increasing adoption of home dialysis and its related benefits for the 430,000 US ESRD patients.
 
@@ -4350,7 +4350,7 @@
   piLastName: DeBruin
   piMiddeInitial: G
   piPhone: '2406722451'
-  poName: Carl Schwerdtfeger
+  poName: Rick Schwerdtfeger
   date: 08/09/2016
   startDate: 08/15/2016
   expDate: 01/31/2019
@@ -4986,7 +4986,7 @@
   piLastName: stevenson
   piMiddeInitial: s
   piPhone: '6503957136'
-  poName: Carl Schwerdtfeger
+  poName: Rick Schwerdtfeger
   date: 09/19/2018
   startDate: 09/15/2018
   expDate: 08/31/2020
@@ -5188,7 +5188,7 @@
   piLastName: Rupnow
   piMiddeInitial: J
   piPhone: '2177786116'
-  poName: Carl Schwerdtfeger
+  poName: Rick Schwerdtfeger
   date: 09/17/2018
   startDate: 09/15/2018
   expDate: 08/31/2020
@@ -5289,7 +5289,7 @@
   piLastName: Demers
   piMiddeInitial: R
   piPhone: '6269930305'
-  poName: Carl Schwerdtfeger
+  poName: Rick Schwerdtfeger
   date: 09/14/2018
   startDate: 09/15/2018
   expDate: 02/29/2020
@@ -5500,6 +5500,31 @@
   startDate: 09/01/2018
   expDate: 08/31/2020
   title: 'SBIR Phase II:  Virtual Learning Assistants for Open Response Assessments'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project will be substantial: a successful project would transform the construction industry, making it far more efficient by reducing legal conflicts, schedule slips and poor decision making. The proposed work will enable the fast and easy creation of 100% complete visual documentation of a physical space; this documentation can be generated many times throughout the course of construction. In so doing, the proposed project will allow professionals in the construction industry to track progress and communicate with their teams far more efficiently than ever before. A second outcome of the project will be the creation of vast, detailed, never before seen datasets of construction projects and real estate, allowing technical innovations in artificial intelligence and computer vision to impact one of the largest industries in the nation and the world. For example, systems could be trained to automatically spot safety concerns, augmenting the efforts of safety managers and keeping workers safer than ever before.
+
+    This Small Business Innovation Research (SBIR) Phase II project will develop a fast, easy to use and cheap method to create photorealistic immersive models using off the shelf consumer hardware. Technical hurdles include validating the quality and efficacy of models generated with consumer hardware and automatic creation of routes through the 3D space without human annotation. Technical milestones involve using various sensor streams as well as other prior data to build these routes. With these hurdles cleared, advanced work may include automated analytics between and among 3D models of the same site captured over time. Because of the system's ease of use, it will enable the collection of large, totally novel datasets. The goal of the research is to produce a prototype that a layperson can use to create an immersive model of a physical site in order to document it with no annotation effort. The plan to reach these goals includes iterative software development against the hurdles listed above, as well as continuous user feedback to guide and refine development.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 3802 23rd St
+  awardeeCity: San Francisco
+  awardeeCountryCode: US
+  awardeeName: Openspace
+  awardeeStateCode: CA
+  awardeeZipCode: '941143321'
+  fundsObligatedAmt: '750000'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1830965'
+  piEmail: zoinks@gmail.com
+  piFirstName: Jeevan
+  piLastName: Kalanithi
+  piPhone: '4159947035'
+  poName: Peter Atherton
+  date: 09/04/2018
+  startDate: 09/01/2018
+  expDate: 08/31/2020
+  title: 'SBIR Phase II:  Fast Creation of Photorealistic 3D Models using Consumer
+    Hardware'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to develop an instrument platform that will facilitate development and translation of next generation diagnostics and therapeutics that are based on a class of nanovesicles called extracellular vesicles (EVs). EVs, which are nanoparticles shed by cells, are being investigated for early detection of diseases, including cancer, cardiovascular disease, and neurodegenerative disorders, from biofluids without the need of invasive tissue biopsies. The lack of tools and techniques to perform high-throughput characterization of EVs is limiting translation. The platform under development will enable an understanding EVs produced by cells. The global market for nanoparticle analysis instrumentation in the life sciences is estimated at $5.9 Billion. The EV market, which is a subset of this market, is rapidly growing, with a predicted compound annual growth rate (CAGR) of 47.3% over the next five years. Biological nanoparticles are playing an increasing role in life science applications and better, target-specific, faster tools are needed to characterize them in a high-throughput way.
 
@@ -5713,7 +5738,7 @@
   piFirstName: Sara
   piLastName: Spangelo
   piPhone: '6503072144'
-  poName: Carl Schwerdtfeger
+  poName: Rick Schwerdtfeger
   date: 03/15/2018
   startDate: 03/15/2018
   expDate: 02/29/2020
@@ -5738,7 +5763,7 @@
   piFirstName: Hunter
   piLastName: McDaniel
   piPhone: '5053106767'
-  poName: Carl Schwerdtfeger
+  poName: Rick Schwerdtfeger
   date: 03/09/2018
   startDate: 03/01/2018
   expDate: 02/29/2020
@@ -5890,7 +5915,7 @@
   piFirstName: Ardavan
   piLastName: Oskooi
   piPhone: '4159203025'
-  poName: Carl Schwerdtfeger
+  poName: Rick Schwerdtfeger
   date: 02/05/2018
   startDate: 02/01/2018
   expDate: 01/31/2020
@@ -6549,7 +6574,7 @@
   piFirstName: Adam
   piLastName: Wolf
   piPhone: '5102078303'
-  poName: Carl Schwerdtfeger
+  poName: Rick Schwerdtfeger
   date: 04/11/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -6916,56 +6941,6 @@
   expDate: 02/28/2019
   title: 'SBIR Phase II:  Enabling Techologies for Energy-Centric Mobile App Design
     to Extend Mobile Device Battery Life'
-- abstractText: "The broader impact/commercial potential of this project is that the
-    proposed system will enhance the ability of the 1.3 million people currently living
-    in the United States with a lower limb amputation to walk in unconstrained environments.
-    \ The proposed Quasi-Active Prosthetic Ankle System (QPAS) addresses the RH6:
-    Human Assistive Technologies area.  QPAS will be lightweight, have a long battery
-    life, and optimize the passive dynamics of amputee gait in unconstrained environments
-    by using battery energy to tune its physical system properties, ankle equilibrium
-    angle and torsional stiffness.  The device provides a unique set of features that
-    do not currently exist in the market, strengthening its value proposition.  The
-    amputee population is growing; 2,000 new lower limb amputation are performed each
-    week.  Therefore, QPAS will have strong market potential and the significant societal
-    impact of improving health by supporting a more active lifestyle for lower limb
-    amputees.  This will also lead to more community and family involvement.  Additionally,
-    because of the many possibilities to control QPAS, gait researchers will be able
-    to study amputee compensation preferences.  A better understanding of the kinematic
-    and kinetic preferences could lead to improvements in the design of purely passive
-    ankle prostheses.  \n\nThis Small Business Innovation Research (SBIR) Phase 2
-    project addresses the needs of lower limb amputees. Lower limb amputees suffer
-    from reduced self-selected walking speed, increased metabolic cost, increased
-    reaction loads on the sound limb, poor gait symmetry, and reduced stability with
-    increased risk of falling.  Passive prosthetic feet are only tuned for level ground
-    walking at one speed.  QPAS will utilize a patented compliant actuator to achieve
-    a unique set of features: passive energy storage with an articulating ankle joint,
-    adaptable ankle angle for slope gait, low electrical energy usage, a large range
-    of ankle motion, adaptable stiffness to optimize variable cadence level ground
-    and slope gait, and controlled energy delivery to ensure energy builds naturally
-    and smoothly.  In this phase 2 SBIR, an intuitive and autonomous controller will
-    be built for the QPAS and human subject evaluations will assist in refining the
-    device towards commercialization. QPAS will become a successful product by focusing
-    on improved amputee gait performance in unconstrained environments, and being
-    simple to fit and adjust, reliable and affordable."
-  awardeeAddress: 2414 W 12th Street, Ste. 4
-  awardeeCity: Tempe
-  awardeeCountryCode: US
-  awardeeName: SpringActive, Inc.
-  awardeeStateCode: AZ
-  awardeeZipCode: '852816955'
-  fundsObligatedAmt: '749986'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1660235'
-  piEmail: jeff.ward@springactive.com
-  piFirstName: Jeffrey
-  piLastName: Ward
-  piPhone: '4807043592'
-  poName: Muralidharan Nair
-  date: 02/24/2017
-  startDate: 03/01/2017
-  expDate: 02/28/2019
-  title: 'SBIR Phase II:  Quasi-Active Prosthetic Ankle System:  Dynamic Angle and
-    Stiffness Optimizations for Multiple Gait Activities'
 - abstractText: "This Small Business Innovation Research (SBIR) Phase II project will
     support the technological refinement and concomitant commercialization of the
     first accurate and portable instrument that can perform in the field nondestructive
@@ -7016,6 +6991,56 @@
   expDate: 02/28/2021
   title: 'SBIR Phase II:  Hardness Strength and Ductility Tester for Field Assessment
     of Structures'
+- abstractText: "The broader impact/commercial potential of this project is that the
+    proposed system will enhance the ability of the 1.3 million people currently living
+    in the United States with a lower limb amputation to walk in unconstrained environments.
+    \ The proposed Quasi-Active Prosthetic Ankle System (QPAS) addresses the RH6:
+    Human Assistive Technologies area.  QPAS will be lightweight, have a long battery
+    life, and optimize the passive dynamics of amputee gait in unconstrained environments
+    by using battery energy to tune its physical system properties, ankle equilibrium
+    angle and torsional stiffness.  The device provides a unique set of features that
+    do not currently exist in the market, strengthening its value proposition.  The
+    amputee population is growing; 2,000 new lower limb amputation are performed each
+    week.  Therefore, QPAS will have strong market potential and the significant societal
+    impact of improving health by supporting a more active lifestyle for lower limb
+    amputees.  This will also lead to more community and family involvement.  Additionally,
+    because of the many possibilities to control QPAS, gait researchers will be able
+    to study amputee compensation preferences.  A better understanding of the kinematic
+    and kinetic preferences could lead to improvements in the design of purely passive
+    ankle prostheses.  \n\nThis Small Business Innovation Research (SBIR) Phase 2
+    project addresses the needs of lower limb amputees. Lower limb amputees suffer
+    from reduced self-selected walking speed, increased metabolic cost, increased
+    reaction loads on the sound limb, poor gait symmetry, and reduced stability with
+    increased risk of falling.  Passive prosthetic feet are only tuned for level ground
+    walking at one speed.  QPAS will utilize a patented compliant actuator to achieve
+    a unique set of features: passive energy storage with an articulating ankle joint,
+    adaptable ankle angle for slope gait, low electrical energy usage, a large range
+    of ankle motion, adaptable stiffness to optimize variable cadence level ground
+    and slope gait, and controlled energy delivery to ensure energy builds naturally
+    and smoothly.  In this phase 2 SBIR, an intuitive and autonomous controller will
+    be built for the QPAS and human subject evaluations will assist in refining the
+    device towards commercialization. QPAS will become a successful product by focusing
+    on improved amputee gait performance in unconstrained environments, and being
+    simple to fit and adjust, reliable and affordable."
+  awardeeAddress: 2414 W 12th Street, Ste. 4
+  awardeeCity: Tempe
+  awardeeCountryCode: US
+  awardeeName: SpringActive, Inc.
+  awardeeStateCode: AZ
+  awardeeZipCode: '852816955'
+  fundsObligatedAmt: '749986'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1660235'
+  piEmail: jeff.ward@springactive.com
+  piFirstName: Jeffrey
+  piLastName: Ward
+  piPhone: '4807043592'
+  poName: Muralidharan Nair
+  date: 02/24/2017
+  startDate: 03/01/2017
+  expDate: 02/28/2019
+  title: 'SBIR Phase II:  Quasi-Active Prosthetic Ankle System:  Dynamic Angle and
+    Stiffness Optimizations for Multiple Gait Activities'
 - abstractText: |-
     This SBIR Phase II project will develop an easy to use real-time formative assessment tool for educators that will be uniquely aligned to each student and deployed via a virtual reality learning game that uses venomous marine snails as a conduit for exploring scientific issues in nature. The USA is currently ranked 52nd in the world in science, technology, engineering, and mathematics (STEM) education. This is detrimental intellectually and economically to the future of American society. Recent studies indicate it is not what is taught, but how it is taught that enhances student-learning abilities, particularly as it pertains to STEM. As a result, this project is driven by the research objectives to understand how children learn specific science content and why certain game elements are better suited to convey scientific material. The outcome of this project is a proprietary multi-tiered formative assessment tool that can measure real time student learning of novel STEM content obtained through a virtual reality learning game experience. This project will enable teachers to nimbly tailor future instruction with individualized student learning goals.  Commercialization of the products created in this project will transform scientific learning and measurable engagement in educational games for social and economic benefit to meet the NSF?s mission of supporting education initiatives that improve the lives of U.S. Citizens, and generate income for tax revenue and jobs via the employment of software designers, educators and scientists.
 
@@ -7328,7 +7353,7 @@
   piFirstName: Adam
   piLastName: Malamy
   piPhone: '6502248786'
-  poName: Carl Schwerdtfeger
+  poName: Rick Schwerdtfeger
   date: 09/06/2016
   startDate: 09/15/2016
   expDate: 08/31/2019
@@ -7435,6 +7460,28 @@
   title: 'SBIR Phase II:  Design and Optimization of a Biocompatible Protein-Based
     Retinal Implant for the Treatment of End-Stage Retinal Degeneration'
 - abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to address one of the primary barriers to the emergence of flexible electronics -the inability to assembly and interconnect thinned integrated circuits (ICs) onto flexible substrates in a reliable, cost-effective, high volume manner. Flexible electronics has been the subject of many industry journals, trade shows, technical conferences and market research reports. All describe a new age of ubiquitous electronics with devices embedded in the structures and items around us.  Flexible electronic devices, unlike today's devices that are rigid and boxy, can conform to natural, curved shapes that exist in the real world. However, flexible electronics have yet to have their predicted economic and social impact. A major reason is because the electronics industry has not yet found a reliable, low-cost method for assembling thin, flexible ICs onto flexible circuit boards. Today's 'pick-and-place' assembly technology cannot handle ICs thin enough to be flexible. Until a new method is developed and adopted, the potential of flexible electronics will likely not be realized.
+
+    This Small Business Innovation Research (SBIR) Phase II project will advance the integrated circuit (IC) aspects of a flexible hybrid electronics technology to a level at which these devices can be produced reliably and in volumes in a production-relevant environment. While most of the components of flexible hybrid electronics technology relating to printed electronics methods have been adequately researched and developed, little has been done on the integration of solid-state semiconductor devices onto highly flexible, organic substrates. Partial results have been reported in the literature, however, no attempt has been made to provide a comprehensive, wafer-to-end product approach suitable for commercial applications. This project will address this gap by focusing on all the steps for IC integration, including the preparation for assembly of ultra-thin, flexible semiconductor dies, their attachment onto a flexible circuit board using laser-enabled assembly technology, and their reliable electrical interconnection. The anticipated end results will be a complete flexible hybrid electronics integration technology developed to a level of pilot production readiness.
+  awardeeAddress: 42 Trowbridge St
+  awardeeCity: Cambridge
+  awardeeCountryCode: US
+  awardeeName: Uniqarta, Inc.
+  awardeeStateCode: MA
+  awardeeZipCode: 021384115
+  fundsObligatedAmt: '913675'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1632387'
+  piEmail: yuriy.atanasov@uniqarta.com
+  piFirstName: Yuriy
+  piLastName: Atanasov
+  piPhone: '7016309251'
+  poName: Rick Schwerdtfeger
+  date: 08/20/2016
+  startDate: 09/01/2016
+  expDate: 02/28/2019
+  title: 'SBIR Phase II:  IC Integration Technologies for Flexible Hybrid Electronics'
+- abstractText: |-
     The broader impact/commercial potential of this project includes: 1) Training of graduate students on complex research & development as well as enabling student understanding of service and hardware business models, 2) A potential economic impact that is between $0.9T and S1.7T (trillion) according to a McKinsey study of  IoT technology in smart city applications, 3) The improvement of the stature of the countries in the world market where this advanced technology solution will be offered, such as Ibero-America, 4) A significant improvement of the ability to handle large number of devices on a network without bogging down the overall network while enabling future bandwidth intensive applications, and 5) The ability to provide low-cost Internet connectivity for underserved populations through city-wide wireless network deployments.
 
     This Small Business Innovation Research (SBIR) Phase 2 project seeks to complete the development of a Spectrum Intelligent IoT Gateway initiated during Phase I. The key innovation of this system is a proprietary Spectrum Intelligence capability used to identify spectrum occupancy in the vicinity and modify transmission parameters in the network. The Intellectual Merits of this project include: 1) Implementing and testing a novel IoT Gateway with autonomous channel selection capability based on spectrum occupancy information; 2) Transferring spectrum sensing algorithms into an FPGA platform for its field deployment, and as the first step towards and spectrum sensing ASIC design; 3) Obtaining a model-based design for an enterprise network architecture of IoT Gateways; and 4) Implementing and testing new adaptive OFDM approaches to optimize power and frequency usage is 4g/5G wireless communications.
@@ -7479,28 +7526,6 @@
   expDate: 02/28/2019
   title: 'SBIR Phase II:  Automated Design Methods of Antibodies Directed to Protein
     and Carbohydrate Antigens'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to address one of the primary barriers to the emergence of flexible electronics -the inability to assembly and interconnect thinned integrated circuits (ICs) onto flexible substrates in a reliable, cost-effective, high volume manner. Flexible electronics has been the subject of many industry journals, trade shows, technical conferences and market research reports. All describe a new age of ubiquitous electronics with devices embedded in the structures and items around us.  Flexible electronic devices, unlike today's devices that are rigid and boxy, can conform to natural, curved shapes that exist in the real world. However, flexible electronics have yet to have their predicted economic and social impact. A major reason is because the electronics industry has not yet found a reliable, low-cost method for assembling thin, flexible ICs onto flexible circuit boards. Today's 'pick-and-place' assembly technology cannot handle ICs thin enough to be flexible. Until a new method is developed and adopted, the potential of flexible electronics will likely not be realized.
-
-    This Small Business Innovation Research (SBIR) Phase II project will advance the integrated circuit (IC) aspects of a flexible hybrid electronics technology to a level at which these devices can be produced reliably and in volumes in a production-relevant environment. While most of the components of flexible hybrid electronics technology relating to printed electronics methods have been adequately researched and developed, little has been done on the integration of solid-state semiconductor devices onto highly flexible, organic substrates. Partial results have been reported in the literature, however, no attempt has been made to provide a comprehensive, wafer-to-end product approach suitable for commercial applications. This project will address this gap by focusing on all the steps for IC integration, including the preparation for assembly of ultra-thin, flexible semiconductor dies, their attachment onto a flexible circuit board using laser-enabled assembly technology, and their reliable electrical interconnection. The anticipated end results will be a complete flexible hybrid electronics integration technology developed to a level of pilot production readiness.
-  awardeeAddress: 42 Trowbridge St
-  awardeeCity: Cambridge
-  awardeeCountryCode: US
-  awardeeName: Uniqarta, Inc.
-  awardeeStateCode: MA
-  awardeeZipCode: 021384115
-  fundsObligatedAmt: '913675'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1632387'
-  piEmail: yuriy.atanasov@uniqarta.com
-  piFirstName: Yuriy
-  piLastName: Atanasov
-  piPhone: '7016309251'
-  poName: Carl Schwerdtfeger
-  date: 08/20/2016
-  startDate: 09/01/2016
-  expDate: 02/28/2019
-  title: 'SBIR Phase II:  IC Integration Technologies for Flexible Hybrid Electronics'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project will be the development of genetically engineered tobacco plants that produce antibodies for the treatment of individuals infected with the Ebola virus. In the recent Ebola outbreak, a new antibody-based drug was shown to be effective in treating infected patients that was based on a transient tobacco-produced Ebola antibody cocktail called ZMapp (Mapp Biopharmaceutical, Inc, San Diego, CA). Unfortunately, Mapp Biopharmaceutical's supply of antibody was quickly depleted, as the manufacturing method was not able to keep up with demand. The technological innovation in this proposal is the targeted production of antibodies within the gland cells of the tobacco leaf surface structures called glandular secreting trichomes. The research objectives will be to demonstrate the secretion of antibodies to the Ebola virus from tobacco trichome glands. The goal is to generate a line of N. tabacum plants that is optimized for antibody production in plant trichomes to provide a biomanufacturing platform for the large-scale production of antibodies that may be used in the treatment of Ebola infection, and in the future, other diseases.
 
@@ -7595,28 +7620,6 @@
   title: 'SBIR Phase II:  Rapid Calculation of Earthquake Repair Costs for Pricing
     of Building Risk'
 - abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project can be found across the semiconductor industry with its initial market in wireless communications.  Due to the extraordinary properties of carbon nanotubes (CNTs), applications include low noise amplifiers (LNAs), mixers, and RF power amplifiers (PAs). Looking forward, carbon nanotube transistors (CFETs) can reshape analog radio frequency electronics, enabling the higher data rates and improved capacity demanded by next generation wireless systems due to their intrinsic linearity and associated low out of band interference . CFETs are highly efficient, dissipating less unwanted power than current state of the art technologies while handling high power levels. This translates into more battery life for mobile devices with lower cooling costs. With more linear RF transistors, many billions of dollars of spending on additional base stations, larger batteries, and radio spectrum can be avoided, at great savings to consumers and industry. More speculatively, the creation of reliable grwoth techniques for CFETs and associated manufacturing processes may offer an excellent sensor platform or better ways to form on chip interconnects. The key problems being investigating of in situ growth of high performance nanotubes are applicable to the fabrication of CNT based devices for many electronic applications.
-
-    This Small Business Innovation Research (SBIR) Phase II project will develop electronic devices for radio frequency applications using carbon nanotubes (CNTs).  CNTs are a one dimensional material with diameters in the nanometer range. CNTs have unique and highly desirable properties ranging from superior mobility to current carrying capability to thermal stability.  Calculations show CNT amplifiers will be inherently linear with noise suppressed to the lowest possible quantum limit. These properties allow for electronic devices that will perform better than existing technologies, such as silicon and gallium arsenide.  Just as importantly, the cost for making these devices will be dramatically lower due to the relatively simple method for material synthesis and device fabrication. This work will enable wafer scale arrays of high density in-situ tubes to be grown on silicon enabling the development of carbon electronic components a manner comparable to silicon devices. This work will enable cost effective wafer scale growth of devices which exploit the groundbreaking linearity that CNTs can deliver.
-  awardeeAddress: 232 Trafalgar Lane
-  awardeeCity: San Clemente
-  awardeeCountryCode: US
-  awardeeName: Carbon Technology, Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '926725481'
-  fundsObligatedAmt: '920698'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1632566'
-  piEmail: dawei.wang@carbontekinc.com
-  piFirstName: Dawei
-  piLastName: Wang
-  piPhone: '9496337183'
-  poName: Carl Schwerdtfeger
-  date: 08/15/2016
-  startDate: 08/15/2016
-  expDate: 01/31/2019
-  title: 'SBIR Phase II:  High Quality Carbon Nanotubes for Radio Frequency Applications'
-- abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project will be high performance error correction for flash memory. Error correction plays a critical row in making digital devices reliable. Shrinking semiconductor geometries results in more errors. This has created a special problem for flash memory where the need for more rigorous error correction is approaching a practical limit with the widely used Bose Chaudhuri Hocquengham error correction. Low Density Parity Check (LDPC) is a recognized solution that  can approach the theoretical limits of what is possible. This LDPC based technology can improve lifetime of flash by without the added cost of the existing BCH solution. This technology helps Flash Memory enterprises to use higher density flash to improve storage capacity and cut the storage product costs. Without the superior performance, small size and low power consumption of the LDPC technology, the migration to low cost high capacity flash memories will be seriously slowed. In the absence of a comparable alternative approach, there will be serious limitations on the performance of a vast array of products that depend on highly reliable and economical flash storage.
 
     This Small Business Innovation Research (SBIR) Phase II project will use a variety of  techniques to minimize the area and power requirements and enhance the performance of Low Density Parity Check (LDPC) error correction codes for flash memory. Many of these techniques are applicable to a wide range of error correction applications in digital communication and storage from WiFi to hard disk drives. The need for better error correction is crucial for flash memory but there is a widening demand for improved error correction. For example larger memories require better error correction to insure the system failure rate is low. In the next two years the company expects to develop a Verilog version of the LDPC decoder that is easily integrated with a flash controller. The project will work with potential customers/partners to ensure the code works with controllers. In the long run these techniques can be adapted to a wide range of applications as the need for more reliable data continues to rapidly expand.
@@ -7633,7 +7636,7 @@
   piFirstName: Paul
   piLastName: Budnik
   piPhone: '4083533824'
-  poName: Carl Schwerdtfeger
+  poName: Rick Schwerdtfeger
   date: 08/15/2016
   startDate: 09/01/2016
   expDate: 02/28/2019
@@ -7656,12 +7659,34 @@
   piFirstName: Steve
   piLastName: Yamamoto
   piPhone: '8582567154'
-  poName: Carl Schwerdtfeger
+  poName: Rick Schwerdtfeger
   date: 08/15/2016
   startDate: 09/01/2016
   expDate: 02/29/2020
   title: 'SBIR Phase II:  Reliable low-cost, low-power methane sensors for explosive
     limit detection'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project can be found across the semiconductor industry with its initial market in wireless communications.  Due to the extraordinary properties of carbon nanotubes (CNTs), applications include low noise amplifiers (LNAs), mixers, and RF power amplifiers (PAs). Looking forward, carbon nanotube transistors (CFETs) can reshape analog radio frequency electronics, enabling the higher data rates and improved capacity demanded by next generation wireless systems due to their intrinsic linearity and associated low out of band interference . CFETs are highly efficient, dissipating less unwanted power than current state of the art technologies while handling high power levels. This translates into more battery life for mobile devices with lower cooling costs. With more linear RF transistors, many billions of dollars of spending on additional base stations, larger batteries, and radio spectrum can be avoided, at great savings to consumers and industry. More speculatively, the creation of reliable grwoth techniques for CFETs and associated manufacturing processes may offer an excellent sensor platform or better ways to form on chip interconnects. The key problems being investigating of in situ growth of high performance nanotubes are applicable to the fabrication of CNT based devices for many electronic applications.
+
+    This Small Business Innovation Research (SBIR) Phase II project will develop electronic devices for radio frequency applications using carbon nanotubes (CNTs).  CNTs are a one dimensional material with diameters in the nanometer range. CNTs have unique and highly desirable properties ranging from superior mobility to current carrying capability to thermal stability.  Calculations show CNT amplifiers will be inherently linear with noise suppressed to the lowest possible quantum limit. These properties allow for electronic devices that will perform better than existing technologies, such as silicon and gallium arsenide.  Just as importantly, the cost for making these devices will be dramatically lower due to the relatively simple method for material synthesis and device fabrication. This work will enable wafer scale arrays of high density in-situ tubes to be grown on silicon enabling the development of carbon electronic components a manner comparable to silicon devices. This work will enable cost effective wafer scale growth of devices which exploit the groundbreaking linearity that CNTs can deliver.
+  awardeeAddress: 232 Trafalgar Lane
+  awardeeCity: San Clemente
+  awardeeCountryCode: US
+  awardeeName: Carbon Technology, Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '926725481'
+  fundsObligatedAmt: '920698'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1632566'
+  piEmail: dawei.wang@carbontekinc.com
+  piFirstName: Dawei
+  piLastName: Wang
+  piPhone: '9496337183'
+  poName: Rick Schwerdtfeger
+  date: 08/15/2016
+  startDate: 08/15/2016
+  expDate: 01/31/2019
+  title: 'SBIR Phase II:  High Quality Carbon Nanotubes for Radio Frequency Applications'
 - abstractText: |-
     The broader impact/commercial potential of this project can lead to a revolution in the consumer electronics market
     (mobile handsets, tablets, game consoles and wearables), wherein high performance, low power, small footprint
@@ -8572,7 +8597,7 @@
   piFirstName: Lingfei
   piLastName: Meng
   piPhone: '5859674452'
-  poName: Carl Schwerdtfeger
+  poName: Rick Schwerdtfeger
   date: 09/18/2018
   startDate: 09/15/2018
   expDate: 08/31/2020
@@ -8625,7 +8650,7 @@
   piFirstName: Alex
   piLastName: Heltzel
   piPhone: '7654648997'
-  poName: Carl Schwerdtfeger
+  poName: Rick Schwerdtfeger
   date: 09/17/2018
   startDate: 09/15/2018
   expDate: 08/31/2020
@@ -8842,6 +8867,32 @@
   title: 'STTR Phase II:  Occupancy Estimation and Energy Savings with True Presence
     Sensors'
 - abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to lay a foundation for vehicle to infrastructure communication focused on applications that add direct value to mobility. Many solutions are focused on getting information to the vehicle, while it is often the infrastructure that requires vehicle information to operate more efficiently. Currently, traffic signals enforce the right-of-way of everyone regardless of in-vehicle technology. This is why optimizing their effects on the road network can provide tremendous benefit. There are significant benefits to transit as well, like buses and light rail that, when given priority at intersections, improves on-time performance which is a major factor in ridership rates.
+
+    The proposed project advances the work of the joint standardization of the National Transportation Communications for Intelligent Transportation Systems Protocol (NTCIP) to achieve interoperability between various traffic signal controller vendors to enable shared control and organization between different operating agencies. It is not unusual to have sections of roadway be managed by local, county, and state within the same small area. These overlapping jurisdictions produce fractures within the road network resulting in the asynchronous timing of traffic signals. The aim is to consolidate the management into a signal network capable of coordinating large areas of traffic signals to increase mobility's overall efficiency. With a cloud solution that is capable of speaking to each networked intersection, vehicle telemetry data and route information can be used to proactively optimize signal timing. Working with prioritized vehicles such as buses, fire trucks, and ambulances, pilot studies will be conducted to perform priority and preemption along routes that cross jurisdictions. Each pilot case will be analysed based on key performance indicators set forth by the agencies.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 1109 Heatherstone Way
+  awardeeCity: Sunnyvale
+  awardeeCountryCode: US
+  awardeeName: SinWaves, Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '940871621'
+  fundsObligatedAmt: '750000'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1831086'
+  piEmail: tsmenard@sinwaves.com
+  piFirstName: Timothy
+  piLastName: Menard
+  piMiddeInitial: S
+  piPhone: '9079473450'
+  poName: Rick Schwerdtfeger
+  date: 09/04/2018
+  startDate: 09/01/2018
+  expDate: 08/31/2020
+  title: 'SBIR Phase II: A Cloud Managed Solution for Public Transit Signal Priority
+    and Emergency Vehicle Preemption of Traffic Lights'
+- abstractText: |-
     The broader impact/commercial potential of this project will address two societal needs. It will enable mass charging infrastructure for electric vehicles (EVs) at minimal cost, and will enable the provisioning of energy services to help integrate renewable energy
     sources. This is critical as electricity generation and transportation together consume close to two-thirds of all US energy and emit more than half of all US greenhouse gases. To drastically reduce greenhouse gases will therefore require electrification of our
     transportation and renewable generation of our electricity. California (CA) has a mandate to have 1.5 million zero-emission vehicles by 2025 and, currently, half of the nation's EVs are in CA. If the project is successful, the proposed technology, when deployed at scale,
@@ -8871,32 +8922,6 @@
   startDate: 09/01/2018
   expDate: 08/31/2020
   title: 'SBIR Phase II: Adaptive Charging Network for EV and Energy Services'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to lay a foundation for vehicle to infrastructure communication focused on applications that add direct value to mobility. Many solutions are focused on getting information to the vehicle, while it is often the infrastructure that requires vehicle information to operate more efficiently. Currently, traffic signals enforce the right-of-way of everyone regardless of in-vehicle technology. This is why optimizing their effects on the road network can provide tremendous benefit. There are significant benefits to transit as well, like buses and light rail that, when given priority at intersections, improves on-time performance which is a major factor in ridership rates.
-
-    The proposed project advances the work of the joint standardization of the National Transportation Communications for Intelligent Transportation Systems Protocol (NTCIP) to achieve interoperability between various traffic signal controller vendors to enable shared control and organization between different operating agencies. It is not unusual to have sections of roadway be managed by local, county, and state within the same small area. These overlapping jurisdictions produce fractures within the road network resulting in the asynchronous timing of traffic signals. The aim is to consolidate the management into a signal network capable of coordinating large areas of traffic signals to increase mobility's overall efficiency. With a cloud solution that is capable of speaking to each networked intersection, vehicle telemetry data and route information can be used to proactively optimize signal timing. Working with prioritized vehicles such as buses, fire trucks, and ambulances, pilot studies will be conducted to perform priority and preemption along routes that cross jurisdictions. Each pilot case will be analysed based on key performance indicators set forth by the agencies.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 1109 Heatherstone Way
-  awardeeCity: Sunnyvale
-  awardeeCountryCode: US
-  awardeeName: SinWaves, Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '940871621'
-  fundsObligatedAmt: '750000'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1831086'
-  piEmail: tsmenard@sinwaves.com
-  piFirstName: Timothy
-  piLastName: Menard
-  piMiddeInitial: S
-  piPhone: '9079473450'
-  poName: Carl Schwerdtfeger
-  date: 09/04/2018
-  startDate: 09/01/2018
-  expDate: 08/31/2020
-  title: 'SBIR Phase II: A Cloud Managed Solution for Public Transit Signal Priority
-    and Emergency Vehicle Preemption of Traffic Lights'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research (SBIR) project is to allow for the recycling of valuable materials from
     complex wastes that today cannot be recovered. The commercial impact from this
@@ -9038,7 +9063,7 @@
   piFirstName: Richard
   piLastName: Lytel
   piPhone: '6503930854'
-  poName: Carl Schwerdtfeger
+  poName: Rick Schwerdtfeger
   date: 08/17/2018
   startDate: 08/15/2018
   expDate: 07/31/2020
@@ -9287,7 +9312,7 @@
   piFirstName: Michael
   piLastName: Conward
   piPhone: '3053015558'
-  poName: Carl Schwerdtfeger
+  poName: Rick Schwerdtfeger
   date: 03/06/2018
   startDate: 03/01/2018
   expDate: 02/29/2020
@@ -9371,6 +9396,74 @@
   expDate: 08/31/2020
   title: 'SBIR Phase II:  An End User Authoring Tool for Open and Intelligent Technology-Enhanced
     Assessments.'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase II project is the enablement of advanced integration of
+    thinner, more flexible and heterogeneous semiconductor devices. It will accelerate
+    the adoption of next generation integrated circuit chips and bring significant
+    benefit to society through the development of high performance electronics. Driven
+    by portable devices in the mobile internet industry and the cost reduction requirements
+    in Internet of Things (IOT), integrated circuit chips are becoming thinner and
+    more flexible, whereas the working environments expose them to more extreme conditions.
+    This trend creates increasing challenges and reducing reliability due to their
+    higher inclination to failure. This proposed novel opto-mechanical system is able
+    to identify early indications of potential problems. It can accelerate the recent
+    industrial trends moving toward IOT and autonomous vehicle by significantly reducing
+    development cycle time and engineering labor.  \n\nThese emerging industrial trends
+    have induced many mechanical reliability issues, and are making it difficult to
+    meet required quality and reliability of semiconductor devices. Many of these
+    issues could be anticipated in integrated circuit design and on production lines
+    with an instrument capable of measuring the sensitivity at the micron level. The
+    objective of this proposed project is to develop a system for noncontact detection
+    of premature failure. An imaging approach and stereo cameras are used to measure
+    and track the sample. The anticipated result is to develop an instrument with
+    ten-fold performance improvement over instruments currently available.\n\nThis
+    award reflects NSF's statutory mission and has been deemed worthy of support through
+    evaluation using the Foundation's intellectual merit and broader impacts review
+    criteria."
+  awardeeAddress: 6370 Lusk Blvd F-110
+  awardeeCity: San Diego
+  awardeeCountryCode: US
+  awardeeName: C&B Tech
+  awardeeStateCode: CA
+  awardeeZipCode: '921212751'
+  fundsObligatedAmt: '750000'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1758583'
+  piEmail: soluda101@foxmail.com
+  piFirstName: Tong
+  piLastName: Cui
+  piPhone: '8586667361'
+  poName: Rick Schwerdtfeger
+  date: 02/26/2018
+  startDate: 03/01/2018
+  expDate: 02/29/2020
+  title: 'SBIR Phase II:  Novel Semiconductor Warpage Measurement Device'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project are numerous and include commercial, societal, environmental, and educational impacts. Commercially, an innovation of this magnitude would enable flexible design illumination, with great control over light placement, beam shape, stray light, and light pollution, all while decreasing the size and complexity of the optics and fixtures required. This will impact the amount of electricity used for lighting, helping to reduce global energy consumption, preserve our environment, and create economic and societal benefits. This project will also result in the employment several technical personnel to carry out the project's technical goals. Educational outreach will continue to impact the local community, students and researchers at nearby institutions, as well as visitors through seminars and workshops on solid-state lighting, materials research, and entrepreneurship. Furthermore, the technical results may also inform future materials research in the development of robust materials, components, and device architectures with optimal properties to advance other areas of solid-state lighting research.
+
+    The proposed project is aimed at achieving deployment of laser-stimulated phosphor technology for illumination in the commercial marketplace. Research in the field of solid-state lighting is advancing towards the goal of ultra-efficient and smart lighting. Exploring laser-stimulated phosphor emission could lead to next generation, energy-efficient light sources, surpassing the limitations of current lighting technologies. Optical modeling and thermal simulations will be used to optimize the optics, phosphor materials, and device architectures to achieve narrow-beam angle, low-etendue, and high color-quality white light sources, while maintaining efficient operating temperature. Secondary components will be designed, including the electronics, packaging, heat sinks; compatibility tested with fixtures and manufacturing processes; and implementation into a light engine compatible in design and functionality with customer-specific applications. Regulatory, safety, and performance testing will be completed to achieve industry-specific standards, by working with regulatory bodies to test lifetime and durability in operating conditions, implementation of safety mechanisms, and photometric testing to ensure performance metrics. Lastly, planning, partnerships, execution, data collection, and reporting of field trail testing of products in real life conditions will result in a fully deployed and tested product, ready for implementation.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 819 Reddick St.
+  awardeeCity: Santa Barbara
+  awardeeCountryCode: US
+  awardeeName: Fluency Lighting Technologies, Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '931033124'
+  fundsObligatedAmt: '746165'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1758320'
+  piEmail: kristin.denault@fluencylighting.com
+  piFirstName: Kristin
+  piLastName: Denault
+  piMiddeInitial: A
+  piPhone: '9142609785'
+  poName: Rick Schwerdtfeger
+  date: 02/26/2018
+  startDate: 03/01/2018
+  expDate: 02/29/2020
+  title: 'SBIR Phase II:  Laser-Stimulated Phosphor Light Sources for Next-Generation
+    Solid-State Lighting'
 - abstractText: "The broader impact/commercial potential of this project is its capability
     to create a positive impact on current and future wireless systems. Multifunctional
     reconfigurable antenna (MRA) technology targeted in this project enables a single
@@ -9467,74 +9560,6 @@
   expDate: 02/29/2020
   title: 'STTR Phase II:  An On-Demand, Computational and Microfluidic-Driven Cell-Free
     Protein Engineering Platform'
-- abstractText: "The broader impact/commercial potential of this Small Business Innovation
-    Research (SBIR) Phase II project is the enablement of advanced integration of
-    thinner, more flexible and heterogeneous semiconductor devices. It will accelerate
-    the adoption of next generation integrated circuit chips and bring significant
-    benefit to society through the development of high performance electronics. Driven
-    by portable devices in the mobile internet industry and the cost reduction requirements
-    in Internet of Things (IOT), integrated circuit chips are becoming thinner and
-    more flexible, whereas the working environments expose them to more extreme conditions.
-    This trend creates increasing challenges and reducing reliability due to their
-    higher inclination to failure. This proposed novel opto-mechanical system is able
-    to identify early indications of potential problems. It can accelerate the recent
-    industrial trends moving toward IOT and autonomous vehicle by significantly reducing
-    development cycle time and engineering labor.  \n\nThese emerging industrial trends
-    have induced many mechanical reliability issues, and are making it difficult to
-    meet required quality and reliability of semiconductor devices. Many of these
-    issues could be anticipated in integrated circuit design and on production lines
-    with an instrument capable of measuring the sensitivity at the micron level. The
-    objective of this proposed project is to develop a system for noncontact detection
-    of premature failure. An imaging approach and stereo cameras are used to measure
-    and track the sample. The anticipated result is to develop an instrument with
-    ten-fold performance improvement over instruments currently available.\n\nThis
-    award reflects NSF's statutory mission and has been deemed worthy of support through
-    evaluation using the Foundation's intellectual merit and broader impacts review
-    criteria."
-  awardeeAddress: 6370 Lusk Blvd F-110
-  awardeeCity: San Diego
-  awardeeCountryCode: US
-  awardeeName: C&B Tech
-  awardeeStateCode: CA
-  awardeeZipCode: '921212751'
-  fundsObligatedAmt: '750000'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1758583'
-  piEmail: soluda101@foxmail.com
-  piFirstName: Tong
-  piLastName: Cui
-  piPhone: '8586667361'
-  poName: Carl Schwerdtfeger
-  date: 02/26/2018
-  startDate: 03/01/2018
-  expDate: 02/29/2020
-  title: 'SBIR Phase II:  Novel Semiconductor Warpage Measurement Device'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project are numerous and include commercial, societal, environmental, and educational impacts. Commercially, an innovation of this magnitude would enable flexible design illumination, with great control over light placement, beam shape, stray light, and light pollution, all while decreasing the size and complexity of the optics and fixtures required. This will impact the amount of electricity used for lighting, helping to reduce global energy consumption, preserve our environment, and create economic and societal benefits. This project will also result in the employment several technical personnel to carry out the project's technical goals. Educational outreach will continue to impact the local community, students and researchers at nearby institutions, as well as visitors through seminars and workshops on solid-state lighting, materials research, and entrepreneurship. Furthermore, the technical results may also inform future materials research in the development of robust materials, components, and device architectures with optimal properties to advance other areas of solid-state lighting research.
-
-    The proposed project is aimed at achieving deployment of laser-stimulated phosphor technology for illumination in the commercial marketplace. Research in the field of solid-state lighting is advancing towards the goal of ultra-efficient and smart lighting. Exploring laser-stimulated phosphor emission could lead to next generation, energy-efficient light sources, surpassing the limitations of current lighting technologies. Optical modeling and thermal simulations will be used to optimize the optics, phosphor materials, and device architectures to achieve narrow-beam angle, low-etendue, and high color-quality white light sources, while maintaining efficient operating temperature. Secondary components will be designed, including the electronics, packaging, heat sinks; compatibility tested with fixtures and manufacturing processes; and implementation into a light engine compatible in design and functionality with customer-specific applications. Regulatory, safety, and performance testing will be completed to achieve industry-specific standards, by working with regulatory bodies to test lifetime and durability in operating conditions, implementation of safety mechanisms, and photometric testing to ensure performance metrics. Lastly, planning, partnerships, execution, data collection, and reporting of field trail testing of products in real life conditions will result in a fully deployed and tested product, ready for implementation.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 819 Reddick St.
-  awardeeCity: Santa Barbara
-  awardeeCountryCode: US
-  awardeeName: Fluency Lighting Technologies, Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '931033124'
-  fundsObligatedAmt: '746165'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1758320'
-  piEmail: kristin.denault@fluencylighting.com
-  piFirstName: Kristin
-  piLastName: Denault
-  piMiddeInitial: A
-  piPhone: '9142609785'
-  poName: Carl Schwerdtfeger
-  date: 02/26/2018
-  startDate: 03/01/2018
-  expDate: 02/29/2020
-  title: 'SBIR Phase II:  Laser-Stimulated Phosphor Light Sources for Next-Generation
-    Solid-State Lighting'
 - abstractText: |-
     This Small Business Innovation Research (SBIR) Phase II project will research and develop new functional materials for advanced additive manufacturing. The goal of this project is to develop high performance materials for light activated 3D printers. If successful, this will enable new tools for manufacturing and research. Applications of this project would enable affordable, waste-free, and energy-efficient manufacturing with the goal of lowering barriers to innovation. Specifically, this project has the potential to improve the quality of healthcare around the world, by dramatically lowering the costs of designing and manufacturing biomedical devices.
 
@@ -10011,6 +10036,29 @@
   expDate: 04/30/2021
   title: 'SBIR Phase II:  Label-free imaging for real-time, intraoperative blood vessel
     visualization'
+- abstractText: |-
+    This Small Business Innovation Research (SBIR) Phase II project has the objective of demonstrating that discrete, belt mounted internet-connected wearable devices used by industrial workers can detect high risk lifting activities, promote safe lifting practices and behavior change, and predict the risk of musculoskeletal injuries due to unsafe lifting. Each year over 600,000 workers suffer a musculoskeletal injury due to lifting related activities, which cost US companies over $15bn annually. Worker injuries affect employee morale, absenteeism, productivity loss and employee turnover, all of which are challenges to the efficient running of a company and are a unnecessary cause of human suffering. By developing a wearable device that can detect high risk lifting activity and provide immediate feedback to workers, safer lifting practices can be promoted and a reduction in the number of unsafe lifts registered, leading to a reduction in injuries.
+
+    The project includes three main technical objectives: i) the development of machine learning algorithms to detect lifting events from sensor data, and to measure risk related metrics associated to those lifting events. When a lift is considered high risk, real-time feedback will be provided to the worker; ii) the deployment of the device in an industrial setting at several customer sites for 12 months, with the number of high risk lifts performed by workers quantified over time to measure the ability of the system to drive behavior change in the workforce; and ii) the development of a model that can predict the likelihood of musculoskeletal injures based on the risk metrics measured. It is expected that the outcomes of the project demonstrate a significant reduction in the risk of suffering musculoskeletal injuries, paving the way for a clear return on investment value proposition for the industrial companies and their insurance carriers who are potential customers.
+  awardeeAddress: 450 West 33rd Street
+  awardeeCity: New York
+  awardeeCountryCode: US
+  awardeeName: One Million Metrics Corp
+  awardeeStateCode: NY
+  awardeeZipCode: '100010000'
+  fundsObligatedAmt: '1417997'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1660093'
+  piEmail: haytham@1mmcorp.com
+  piFirstName: Haytham
+  piLastName: Elhawary
+  piPhone: '6174808200'
+  poName: Rick Schwerdtfeger
+  date: 04/06/2017
+  startDate: 04/01/2017
+  expDate: 09/30/2021
+  title: 'SBIR Phase II:  Predicting Musculoskeletal Injury Risk of Material Handling
+    Workers with Novel Wearable Devices'
 - abstractText: "The broader impact/commercial potential of this project is to enable
     continuous sensing applications in a wide range of energy-constrained sensor-enabled
     devices. Without dramatic innovations in the development of ultralow power sensory
@@ -10060,29 +10108,59 @@
   startDate: 04/01/2017
   expDate: 03/31/2019
   title: 'SBIR Phase II:  Neural Algorithms for Multimodal Sensory Analysis'
-- abstractText: |-
-    This Small Business Innovation Research (SBIR) Phase II project has the objective of demonstrating that discrete, belt mounted internet-connected wearable devices used by industrial workers can detect high risk lifting activities, promote safe lifting practices and behavior change, and predict the risk of musculoskeletal injuries due to unsafe lifting. Each year over 600,000 workers suffer a musculoskeletal injury due to lifting related activities, which cost US companies over $15bn annually. Worker injuries affect employee morale, absenteeism, productivity loss and employee turnover, all of which are challenges to the efficient running of a company and are a unnecessary cause of human suffering. By developing a wearable device that can detect high risk lifting activity and provide immediate feedback to workers, safer lifting practices can be promoted and a reduction in the number of unsafe lifts registered, leading to a reduction in injuries.
-
-    The project includes three main technical objectives: i) the development of machine learning algorithms to detect lifting events from sensor data, and to measure risk related metrics associated to those lifting events. When a lift is considered high risk, real-time feedback will be provided to the worker; ii) the deployment of the device in an industrial setting at several customer sites for 12 months, with the number of high risk lifts performed by workers quantified over time to measure the ability of the system to drive behavior change in the workforce; and ii) the development of a model that can predict the likelihood of musculoskeletal injures based on the risk metrics measured. It is expected that the outcomes of the project demonstrate a significant reduction in the risk of suffering musculoskeletal injuries, paving the way for a clear return on investment value proposition for the industrial companies and their insurance carriers who are potential customers.
-  awardeeAddress: 450 West 33rd Street
-  awardeeCity: New York
+- abstractText: "This Small Business Innovation Research Phase II project focuses
+    on developing compact camera modules with lower noise and improved contrast using
+    a submicron pixel imaging sensor array. The commercial potential of this project
+    centers on developing compact cameras for endoscopes, navigational and robotic
+    surgical systems and more. Embedding these cameras in endoscope systems, and even
+    the surgical tools themselves, permits new treatments across a broad range of
+    medical specialties that otherwise are not possible. Switching to the minimally
+    invasive forms of some common surgeries could save an estimated $14 billion in
+    healthcare spending. Oncology, urology, gastroenterology, women's health and pediatric
+    medicine are just some of the specialties that will significantly benefit from
+    these ultra-compact cameras. A broader impact will ultimately come from utilizing
+    submicron pixels in unique ways in high density arrays. The sensor?s small size
+    and fast response times offer unique opportunities for spatial and temporal oversampling.
+    The resulting large numbers of pixels can be employed in a compact multi-aperture
+    arrangement to deliver significantly enhanced color mapping over traditional semiconductor
+    imaging arrays, multispectral imaging, 3-dimensional image reconstruction, motion
+    free auto-focusing, or some combination of the above, providing unique applications
+    in medical imaging, defense, robotics, and consumer electronics.  \n\nThe miniaturization
+    of camera systems calls for the continuous shrinking of pixel sizes. At a certain
+    point, however, the maximum photo-electrons a pixel can hold becomes limited,
+    yielding low signal-to-noise ratios and poor dynamic range. This project develops
+    a novel optical sensor that maintains sensitivity down to hundreds of nanometers.
+    As the size of this sensor decreases, the maximum measurable light intensity can
+    remain constant and the signal-to-noise increases, bringing significant improvements
+    to images? dynamic range and color/feature rendition. This result stands in stark
+    contrast to the behavior of conventional pixels where maximum intensity threshold
+    scales down with pixel size and noise increases with decreasing pixel size. Reducing
+    these image sensors to practice requires transitioning from gallium arsenide based
+    devices to silicon.  The work focuses on 1) finalizing design parameters, fabrication,
+    and characterization of the electrical properties and optical response of the
+    system and 2) fabrication and characterization of a linear photodetector array
+    for the creation of both linear images and 2-D images assembled from linear images
+    to characterize the noise, contrast and other image quality parameters of the
+    prototype."
+  awardeeAddress: 8725 W Higgins RD, STE 290
+  awardeeCity: Chicago
   awardeeCountryCode: US
-  awardeeName: One Million Metrics Corp
-  awardeeStateCode: NY
-  awardeeZipCode: '100010000'
-  fundsObligatedAmt: '1417997'
+  awardeeName: PixelEXX Systems, Inc
+  awardeeStateCode: IL
+  awardeeZipCode: '606312736'
+  fundsObligatedAmt: '768000'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1660093'
-  piEmail: haytham@1mmcorp.com
-  piFirstName: Haytham
-  piLastName: Elhawary
-  piPhone: '6174808200'
-  poName: Carl Schwerdtfeger
-  date: 04/06/2017
+  id: '1660145'
+  piEmail: rcarder@pixelexx.com
+  piFirstName: Renee
+  piLastName: Carder
+  piPhone: '6306663258'
+  poName: Rick Schwerdtfeger
+  date: 04/04/2017
   startDate: 04/01/2017
-  expDate: 09/30/2021
-  title: 'SBIR Phase II:  Predicting Musculoskeletal Injury Risk of Material Handling
-    Workers with Novel Wearable Devices'
+  expDate: 03/31/2019
+  title: 'SBIR Phase II:  Advancing Beyond the Photodiode - Deep Sub-micron Pixels
+    for Next-generation Image Sensors'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is in its ability to improve healthcare in fundamental ways, such as (1) low volume draws that will enable diagnostics in low-resource settings like drug stores, at home, or in developing countries, (2) higher quality small-volume samples to make Point-of-Care (POC) diagnostics more competitive with lab tests, enabling faster results in critical care/outpatient environments, and (3) low draw volumes, coupled with small volume diagnostic tests, that will enable improved care for patients at risk for hospital-acquired anemia, including neonates and patients with bone marrow damage caused by cancers or suppressed bone marrow due to cancer drugs. Our technology will enable medical testing from a small amount of blood, which could significantly impact global neonatal and pediatric healthcare, particularly in developing countries, and expand the market for blood containers.
 
@@ -10158,59 +10236,6 @@
   startDate: 04/01/2017
   expDate: 03/31/2019
   title: 'SBIR Phase II: PAX Rotor Optimization for Flexible Micro-Hydro'
-- abstractText: "This Small Business Innovation Research Phase II project focuses
-    on developing compact camera modules with lower noise and improved contrast using
-    a submicron pixel imaging sensor array. The commercial potential of this project
-    centers on developing compact cameras for endoscopes, navigational and robotic
-    surgical systems and more. Embedding these cameras in endoscope systems, and even
-    the surgical tools themselves, permits new treatments across a broad range of
-    medical specialties that otherwise are not possible. Switching to the minimally
-    invasive forms of some common surgeries could save an estimated $14 billion in
-    healthcare spending. Oncology, urology, gastroenterology, women's health and pediatric
-    medicine are just some of the specialties that will significantly benefit from
-    these ultra-compact cameras. A broader impact will ultimately come from utilizing
-    submicron pixels in unique ways in high density arrays. The sensor?s small size
-    and fast response times offer unique opportunities for spatial and temporal oversampling.
-    The resulting large numbers of pixels can be employed in a compact multi-aperture
-    arrangement to deliver significantly enhanced color mapping over traditional semiconductor
-    imaging arrays, multispectral imaging, 3-dimensional image reconstruction, motion
-    free auto-focusing, or some combination of the above, providing unique applications
-    in medical imaging, defense, robotics, and consumer electronics.  \n\nThe miniaturization
-    of camera systems calls for the continuous shrinking of pixel sizes. At a certain
-    point, however, the maximum photo-electrons a pixel can hold becomes limited,
-    yielding low signal-to-noise ratios and poor dynamic range. This project develops
-    a novel optical sensor that maintains sensitivity down to hundreds of nanometers.
-    As the size of this sensor decreases, the maximum measurable light intensity can
-    remain constant and the signal-to-noise increases, bringing significant improvements
-    to images? dynamic range and color/feature rendition. This result stands in stark
-    contrast to the behavior of conventional pixels where maximum intensity threshold
-    scales down with pixel size and noise increases with decreasing pixel size. Reducing
-    these image sensors to practice requires transitioning from gallium arsenide based
-    devices to silicon.  The work focuses on 1) finalizing design parameters, fabrication,
-    and characterization of the electrical properties and optical response of the
-    system and 2) fabrication and characterization of a linear photodetector array
-    for the creation of both linear images and 2-D images assembled from linear images
-    to characterize the noise, contrast and other image quality parameters of the
-    prototype."
-  awardeeAddress: 8725 W Higgins RD, STE 290
-  awardeeCity: Chicago
-  awardeeCountryCode: US
-  awardeeName: PixelEXX Systems, Inc
-  awardeeStateCode: IL
-  awardeeZipCode: '606312736'
-  fundsObligatedAmt: '768000'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1660145'
-  piEmail: rcarder@pixelexx.com
-  piFirstName: Renee
-  piLastName: Carder
-  piPhone: '6306663258'
-  poName: Carl Schwerdtfeger
-  date: 04/04/2017
-  startDate: 04/01/2017
-  expDate: 03/31/2019
-  title: 'SBIR Phase II:  Advancing Beyond the Photodiode - Deep Sub-micron Pixels
-    for Next-generation Image Sensors'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is in providing manufactured concrete blocks that can be used to build arches, including roofs.  This feature has never been done with manufactured concrete block, and holds the potential to greatly expand the uses, benefits and capabilities of concrete block to an entirely new market segment.  The structures expected to be made possible with this novel masonry system include inexpensive, high-performance, energy efficient buildings with increased fire safety ratings, resistance to termites, increased safety for tornadoes, hurricanes, tsunamis and other sever weather events, and greatly increased building life cycle time. This technology could have a large positive economic impact on masonry construction and on the concrete block manufacturing industry in particular, both across the US and around the globe.  This work is expected to provide a greater understanding of the anisotropic strength of manufactured concrete block, and how this anisotropic strength is to be maximized within a given structure; this scientific understanding is expected to benefit the catenary thrust-line analysis of masonry arches.  This technology is expected to make superior construction available to homeowners, businesses, government buildings and public works (including bridges) at greatly reduced cost.
 
@@ -10790,6 +10815,52 @@
   title: 'SBIR Phase II:  High-Speed TV-Band White Space Networks with Many-Antenna
     Multi-User Beamforming'
 - abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project will revolutionize the treatment of individuals with autism. One of every sixty-eight US children has autism (over 1.1 million). The estimated cost of providing Applied Behavior Analysis (ABA) therapy to those who could benefit is $7.5 billion dollars annually. Societal impacts include: 1) more individuals with autism across the globe will receive treatment regimens that will enable them to live more fulfilled lives and reach their full potential; 2) families whose children are good candidates for treatment and receive it will experience reduced stress and better family life; and 3) the additional lifetime cost of not effectively treating children with autism, which is approximately ten-fold the cost of treatment, will be reduced. Because high-quality, contextually rich ABA performance data will be collected for the first time, efforts to apply data analytics will contribute in two important ways: a) patterns may be discerned across individuals with autism to better understand variations in autism and create therapies to target these differences; b) expansion of the frontiers of data mining to provide guidance in real time will contribute to a number of areas within and beyond ABA therapy.
+
+    The proposed project will optimize therapy outcomes for individuals with autism by transforming agent-based guiding technology into an adaptive and intelligent ABA therapy assistant for supervisors and instructors. The project pushes the boundaries in providing cost-effective, adaptable, intelligent, real-time guidance and data-collection support to instructors that integrates naturally into the instructional process and is easy to learn and use. ABA therapy experts, supervisors and instructors will verify the analyses and resulting guidance incorporated into the technology.  Advanced theories of usability engineering, including some developed by the project team, will be used to build interfaces that supervisors and instructors can intuit without the need for learning new concepts and syntax. The project will utilize the collected logs from multiple sessions with multiple therapy recipients and multiple therapy providers to uncover hidden patterns and assist supervisors in selecting appropriate therapy steps personalized for the individual with autism. The project will build on a large body of recent work in visualization, machine learning on temporal predictive modeling and sequential pattern mining, including some of the previous results of the project team. Special attention will be paid to the recent work in educational data mining and intelligent tutoring.
+  awardeeAddress: 1500 JFK Blvd Suite 1825 2 Penn
+  awardeeCity: Philadelphia
+  awardeeCountryCode: US
+  awardeeName: Guiding Technologies Corporation
+  awardeeStateCode: PA
+  awardeeZipCode: '191021710'
+  fundsObligatedAmt: '932657'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1632257'
+  piEmail: johnnosek@verizon.net
+  piFirstName: John
+  piLastName: Nosek
+  piMiddeInitial: T
+  piPhone: '6096059273'
+  poName: Nancy Kamei
+  date: 08/03/2016
+  startDate: 08/01/2016
+  expDate: 07/31/2019
+  title: 'SBIR Phase II:  Using Data Mining to Optimally Customize Therapy for Individuals
+    with Autism'
+- abstractText: |-
+    This Phase II project is to the first personalized learning platform for hands-on education that works with the billions of mobile devices already in people's hands worldwide. Because the technology works on any mobile device and requires little instructor facilitation, it will be commercially successful in home settings when parents are busy and school settings where budget restrictions limit the number of facilitators. Beyond commercial impact, this project will help address the nation's need to prepare citizens for the 21st century economy, improve science literacy and help provide equal opportunities to underrepresented minorities in science, technology, engineering and mathematics (STEM). This project is an effective teaching tool because it employs personalized learning, where the content and pace of learning are optimized for the individual learner. Personalized learning has already been shown to result in higher learner engagement and increased retention of concepts in educational software. Through the use of proprietary augmented reality and adaptive learning technology, this project brings personalized learning to hands-on STEM education, enabling learners to develop problem solving skills in a more effective, engaging and lower cost way.
+
+    The key innovation in this project is a single software framework combining advanced augmented reality  (AR) and adaptive learning (AL) techniques to capture learners? interactions with real world objects (for example, circuit blocks, fraction bricks or chemistry models) via a mobile device camera, analyze the significance of the interactions and automatically provide personalized guidance to each learner.  The system will be the first to provide a high level API above the complexity of AR and AL, allowing designers of learning experience modules to focus solely on content and user experience instead of hundreds of thousands of lines of complex code associated with AR and AL. The methods employed will be the research, design and development of the augmented reality and adaptive learning engine, its integration with three learning experience modules: circuits, fractions, basic geometry, and an evaluation of the modules. To guide the development, pilot studies utilizing A/B testing with competing approaches, pre and post assessments, and behavioral analysis of users interacting with the system will be conducted periodically.
+  awardeeAddress: 5208 Lodestar Way
+  awardeeCity: Elk Grove
+  awardeeCountryCode: US
+  awardeeName: LightUp, Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '957586724'
+  fundsObligatedAmt: '945999'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1632721'
+  piEmail: founders@lightup.io
+  piFirstName: Tarun
+  piLastName: Pondicherry
+  piPhone: '7327051198'
+  poName: Rajesh Mehta
+  date: 08/03/2016
+  startDate: 08/01/2016
+  expDate: 04/30/2019
+  title: 'SBIR Phase II:  An augmented learning platform for mobile devices'
+- abstractText: |-
     The broader impact/commercial potential of this project lies in its ability to implement multiple-input
     multiple-output (MIMO) detectors of any size. This, in turn, impacts the broad needs of wireless
     communications industry that is always in search of more efficient use of the scarce spectral resources.
@@ -10834,52 +10905,6 @@
   expDate: 04/30/2019
   title: 'STTR Phase II:  Scalable Detector for Multiple-Input Multiple-Output (MIMO)
     Communication Systems'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project will revolutionize the treatment of individuals with autism. One of every sixty-eight US children has autism (over 1.1 million). The estimated cost of providing Applied Behavior Analysis (ABA) therapy to those who could benefit is $7.5 billion dollars annually. Societal impacts include: 1) more individuals with autism across the globe will receive treatment regimens that will enable them to live more fulfilled lives and reach their full potential; 2) families whose children are good candidates for treatment and receive it will experience reduced stress and better family life; and 3) the additional lifetime cost of not effectively treating children with autism, which is approximately ten-fold the cost of treatment, will be reduced. Because high-quality, contextually rich ABA performance data will be collected for the first time, efforts to apply data analytics will contribute in two important ways: a) patterns may be discerned across individuals with autism to better understand variations in autism and create therapies to target these differences; b) expansion of the frontiers of data mining to provide guidance in real time will contribute to a number of areas within and beyond ABA therapy.
-
-    The proposed project will optimize therapy outcomes for individuals with autism by transforming agent-based guiding technology into an adaptive and intelligent ABA therapy assistant for supervisors and instructors. The project pushes the boundaries in providing cost-effective, adaptable, intelligent, real-time guidance and data-collection support to instructors that integrates naturally into the instructional process and is easy to learn and use. ABA therapy experts, supervisors and instructors will verify the analyses and resulting guidance incorporated into the technology.  Advanced theories of usability engineering, including some developed by the project team, will be used to build interfaces that supervisors and instructors can intuit without the need for learning new concepts and syntax. The project will utilize the collected logs from multiple sessions with multiple therapy recipients and multiple therapy providers to uncover hidden patterns and assist supervisors in selecting appropriate therapy steps personalized for the individual with autism. The project will build on a large body of recent work in visualization, machine learning on temporal predictive modeling and sequential pattern mining, including some of the previous results of the project team. Special attention will be paid to the recent work in educational data mining and intelligent tutoring.
-  awardeeAddress: 1500 JFK Blvd Suite 1825 2 Penn
-  awardeeCity: Philadelphia
-  awardeeCountryCode: US
-  awardeeName: Guiding Technologies Corporation
-  awardeeStateCode: PA
-  awardeeZipCode: '191021710'
-  fundsObligatedAmt: '932657'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1632257'
-  piEmail: johnnosek@verizon.net
-  piFirstName: John
-  piLastName: Nosek
-  piMiddeInitial: T
-  piPhone: '6096059273'
-  poName: Nancy Kamei
-  date: 08/03/2016
-  startDate: 08/01/2016
-  expDate: 01/31/2019
-  title: 'SBIR Phase II:  Using Data Mining to Optimally Customize Therapy for Individuals
-    with Autism'
-- abstractText: |-
-    This Phase II project is to the first personalized learning platform for hands-on education that works with the billions of mobile devices already in people's hands worldwide. Because the technology works on any mobile device and requires little instructor facilitation, it will be commercially successful in home settings when parents are busy and school settings where budget restrictions limit the number of facilitators. Beyond commercial impact, this project will help address the nation's need to prepare citizens for the 21st century economy, improve science literacy and help provide equal opportunities to underrepresented minorities in science, technology, engineering and mathematics (STEM). This project is an effective teaching tool because it employs personalized learning, where the content and pace of learning are optimized for the individual learner. Personalized learning has already been shown to result in higher learner engagement and increased retention of concepts in educational software. Through the use of proprietary augmented reality and adaptive learning technology, this project brings personalized learning to hands-on STEM education, enabling learners to develop problem solving skills in a more effective, engaging and lower cost way.
-
-    The key innovation in this project is a single software framework combining advanced augmented reality  (AR) and adaptive learning (AL) techniques to capture learners? interactions with real world objects (for example, circuit blocks, fraction bricks or chemistry models) via a mobile device camera, analyze the significance of the interactions and automatically provide personalized guidance to each learner.  The system will be the first to provide a high level API above the complexity of AR and AL, allowing designers of learning experience modules to focus solely on content and user experience instead of hundreds of thousands of lines of complex code associated with AR and AL. The methods employed will be the research, design and development of the augmented reality and adaptive learning engine, its integration with three learning experience modules: circuits, fractions, basic geometry, and an evaluation of the modules. To guide the development, pilot studies utilizing A/B testing with competing approaches, pre and post assessments, and behavioral analysis of users interacting with the system will be conducted periodically.
-  awardeeAddress: 5208 Lodestar Way
-  awardeeCity: Elk Grove
-  awardeeCountryCode: US
-  awardeeName: LightUp, Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '957586724'
-  fundsObligatedAmt: '945999'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1632721'
-  piEmail: founders@lightup.io
-  piFirstName: Tarun
-  piLastName: Pondicherry
-  piPhone: '7327051198'
-  poName: Rajesh Mehta
-  date: 08/03/2016
-  startDate: 08/01/2016
-  expDate: 01/31/2019
-  title: 'SBIR Phase II:  An augmented learning platform for mobile devices'
 - abstractText: "The broader impact/commercial potential of this project results from
     the advancement of telerobotic control technology for subsea operations. As humans
     deploy and maintain ever more complex underwater hardware, conduct subsea scientific
@@ -11125,6 +11150,29 @@
   title: 'SBIR Phase II:  Development of a rapid assay for the personalized assessment
     of clot dysfunction due to trauma'
 - abstractText: |-
+    The broader impact/commercial potential of this project is the assistive use by blind people of thermal imaging. The resulting product provides a person who is blind or visually impaired with the relevant information about the layout of an unfamiliar public space in order to assist blind users in everyday activities. Thermal imaging can differentiate people and objects from their background without the need for complex image analysis. The shape and the temperature of the human body allows the location of people to be easily determined. The societal impact will be assisting users in navigation of complex public spaces. A blind person can use a smartphone?s haptic touchscreen display to examine the thermal image to determine the location of people in front of them. Information about the layout of an unfamiliar public space can be learned from the heat and shape of materials. Examples would be locating vending machines like ATMs and train passes. The market sector for this technology will likely extend beyond assisting blind users, to include additional commercial opportunities as well.
+
+    This Small Business Technology Transfer Research (STTR) Phase 2 project will leverage past National Science Foundation Funded research to develop a product that a blind/low vision user can use to receive practical navigation and interaction information about their environment from a multimodal thermogram (thermal image) interface on a smartphone. There are no practical assistive technologies for blind or low vision users that allow them to locate people, objects, and the layout information of their surroundings other than exploring with a cane. This development will address the objective of creating an interface that provides both practical utility and will be accepted by the target demographic of blind users. This project represents an excellent translational path from NSF-sponsored research programs to a product that is built from the ground up on solid theoretical underpinnings and empirical findings from multimodal human information processing. This development will use thermal radiation from people, machines, lighting and heat retention differences in building materials and convert this data into a user interface to facilitate blind navigation and environment interaction. The product resulting will be a multimodal (kinesthetic, vibro-tactile, and auditory) interface for blind users of a smartphone to interpret and gain useful value from thermal image information.
+  awardeeAddress: 18215 45th Ave N
+  awardeeCity: Plymouth
+  awardeeCountryCode: US
+  awardeeName: Moai Technologies L.L.C.
+  awardeeStateCode: MN
+  awardeeZipCode: '554464595'
+  fundsObligatedAmt: '890856'
+  fundProgramName: STTR PHASE II
+  id: '1534010'
+  piEmail: moaitechnologies@gmail.com
+  piFirstName: Brian
+  piLastName: Hanzal
+  piPhone: '6124818723'
+  poName: Muralidharan Nair
+  date: 09/14/2015
+  startDate: 09/15/2015
+  expDate: 02/28/2019
+  title: 'STTR Phase II:  An Assistive Tool to Locate People and Objects with a Multimodal
+    Thermogram Interface'
+- abstractText: |-
     The broader impact/commercial potential of this project stems from the possibility of
     obtaining real-time precise 3D depth information using a miniature robust sensor system
     opening up a myriad of opportunities for commercial application. Imaging sensors are
@@ -11161,29 +11209,6 @@
   startDate: 09/15/2015
   expDate: 06/30/2019
   title: 'SBIR Phase II:  Three-Dimensional Computational Optical Imaging Sensor'
-- abstractText: |-
-    The broader impact/commercial potential of this project is the assistive use by blind people of thermal imaging. The resulting product provides a person who is blind or visually impaired with the relevant information about the layout of an unfamiliar public space in order to assist blind users in everyday activities. Thermal imaging can differentiate people and objects from their background without the need for complex image analysis. The shape and the temperature of the human body allows the location of people to be easily determined. The societal impact will be assisting users in navigation of complex public spaces. A blind person can use a smartphone?s haptic touchscreen display to examine the thermal image to determine the location of people in front of them. Information about the layout of an unfamiliar public space can be learned from the heat and shape of materials. Examples would be locating vending machines like ATMs and train passes. The market sector for this technology will likely extend beyond assisting blind users, to include additional commercial opportunities as well.
-
-    This Small Business Technology Transfer Research (STTR) Phase 2 project will leverage past National Science Foundation Funded research to develop a product that a blind/low vision user can use to receive practical navigation and interaction information about their environment from a multimodal thermogram (thermal image) interface on a smartphone. There are no practical assistive technologies for blind or low vision users that allow them to locate people, objects, and the layout information of their surroundings other than exploring with a cane. This development will address the objective of creating an interface that provides both practical utility and will be accepted by the target demographic of blind users. This project represents an excellent translational path from NSF-sponsored research programs to a product that is built from the ground up on solid theoretical underpinnings and empirical findings from multimodal human information processing. This development will use thermal radiation from people, machines, lighting and heat retention differences in building materials and convert this data into a user interface to facilitate blind navigation and environment interaction. The product resulting will be a multimodal (kinesthetic, vibro-tactile, and auditory) interface for blind users of a smartphone to interpret and gain useful value from thermal image information.
-  awardeeAddress: 18215 45th Ave N
-  awardeeCity: Plymouth
-  awardeeCountryCode: US
-  awardeeName: Moai Technologies L.L.C.
-  awardeeStateCode: MN
-  awardeeZipCode: '554464595'
-  fundsObligatedAmt: '890856'
-  fundProgramName: STTR PHASE II
-  id: '1534010'
-  piEmail: moaitechnologies@gmail.com
-  piFirstName: Brian
-  piLastName: Hanzal
-  piPhone: '6124818723'
-  poName: Muralidharan Nair
-  date: 09/14/2015
-  startDate: 09/15/2015
-  expDate: 02/28/2019
-  title: 'STTR Phase II:  An Assistive Tool to Locate People and Objects with a Multimodal
-    Thermogram Interface'
 - abstractText: |-
     The broader impact/commercial impact of this Small Business Innovation Research (SBIR) Phase II project is in promoting the protection of human health, the environment, and our nation's natural resources by providing new sensors that enable fast, accurate, cost-effective sampling and analysis tools to monitor pollution and exposure. The innovations developed here will allow for the rapid identification and detection of hazardous compounds in water at substantially reduced cost. These technological innovations will translate into triple bottom-line savings of companies by enhancing our ability to protect people and the planet, while simultaneously providing cost and time savings to the business. The technology embodies the concepts of sustainability and ease of use, and will achieve broad commercial appeal by saving businesses money, time, and effort while also giving them more data on potential sources of pollution. Scientifically, this technology will enable more precise assessment of environmental pollution by providing more rapid measurement capability at a larger scale than is currently possible.
 
@@ -11694,7 +11719,7 @@
   piLastName: Tao
   piMiddeInitial: S
   piPhone: '8179652561'
-  poName: Carl Schwerdtfeger
+  poName: Rick Schwerdtfeger
   date: 09/17/2018
   startDate: 09/15/2018
   expDate: 08/31/2020
