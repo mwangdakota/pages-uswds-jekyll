@@ -50,7 +50,9 @@ module SiteData
 
         uri.query = URI.encode_www_form(params)
         res = Net::HTTP.get_response(uri)
-        new_awards = JSON.parse(res.body)['response']['award']
+        #new_awards = JSON.parse(res.body)['response']['award']
+        tmp_awards = JSON.parse(res.body)['response']['award']
+        new_awards = tmp_awards.reject {|x| x['fundProgramName'].downcase.include?("phase i ctrs for chem innovati")}
         break unless new_awards
         if awardeeName
           matching_awards = only_matching_awardees(new_awards, awardeeName)
