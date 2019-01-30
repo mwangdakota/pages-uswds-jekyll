@@ -7647,27 +7647,27 @@
   title: 'SBIR Phase II:  A Robust Caller-ID Alternative for Securing Telephony Based
     Transactions'
 - abstractText: |-
-This Small Business Innovation Research (SBIR) Phase II project will develop and produce a robust, hand-held, video-rate three-dimensional surface metrology system with vertical and lateral resolution of several micrometers, in order to bridge a critical existing metrology gap for precision-machined surfaces. Many modern manufactured parts, such as turbine blades, drive shafts, orthopedics, and various additive manufactured components require in-situ metrology with high resolution for accurate characterization during manufacturing and/or maintenance operations. Current high-resolution surface measurement systems are slow, vibration-sensitive and laboratory-based and thus are impractical for everyday use by manufacturing technicians. Meanwhile, shop-floor inspection is often only visual, and thus qualitative rather than quantitative, leading both to rejections of acceptable components as well as potential acceptance of failing ones. The absence of high-precision, in-situ metrology has hindered manufacturers from applying real-time data analysis and closed-loop process controls that can improve yields and reduce manufacturing costs. This research program will yield a hand-held, easy-to-use, robust, and quantitative shop-floor measurement system, allowing manufacturers to improve lifetimes, performance, and yield as they rapidly assess the features under test and feed the results back to improve process control.
-During Phase I, a breadboard system was designed and implemented using a polarization-based fringe projection method and micropolarizer phase-mask technology to achieve vibration insensitive measurement in a compact package. This Phase II program leverages that research to design a video-rate, compact, robust and portable system for handheld surface measurements in shop-floor environments. This will first involve improvements to measurement resolution with an improved optical design and new self-calibrating measurement modes; new optical elements will lower noise artifacts caused by imperfections in the earlier design and to reduce system size. Once performance of the new design is verified, an ergonomic, compact, robust, wireless housing for the instrument must be created to enable shop-floor use; the system must handle drops of over one meter onto concrete, have useful battery life for extended field operations, be light enough to not fatigue users and have intuitive controls and feedback. A final, critically important development effort will create automated software routines for measurement, analysis, and system diagnostics to enable adoption by unskilled personnel in manufacturing environments. Lastly, extensive applications testing in the field will allow optimization of the system to handle a wide range of potential use cases and environments.
-awardeeAddress: 3280 E Hemisphere Loop, Ste 146
-awardeeCity: Tucson
-awardeeCountryCode: US
-awardeeName: 4 D Technology Corporation
-awardeeStateCode: AZ
-awardeeZipCode: '857065024'
-fundsObligatedAmt: '1348048'
-fundProgramName: SMALL BUSINESS PHASE II
-id: '1556049'
-piEmail: erik.novak@4dtechnology.com
-piFirstName: Erik
-piLastName: Novak
-piPhone: '5202945600'
-poName: Ben Schrag
-date: 02/17/2016
-startDate: 03/01/2016
-expDate: 08/31/2020
-title: 'SBIR Phase II: High-Resolution Shop Floor Video-Rate Surface Metrology
-System'
+    This Small Business Innovation Research (SBIR) Phase II project will develop and produce a robust, hand-held, video-rate three-dimensional surface metrology system with vertical and lateral resolution of several micrometers, in order to bridge a critical existing metrology gap for precision-machined surfaces.  Many modern manufactured parts, such as turbine blades, drive shafts, orthopedics, and various additive manufactured components require in-situ metrology with high resolution for accurate characterization during manufacturing and/or maintenance operations.  Current high-resolution surface measurement systems are slow, vibration-sensitive and laboratory-based and thus are impractical for everyday use by manufacturing technicians.  Meanwhile, shop-floor inspection is often only visual, and thus qualitative rather than quantitative, leading both to rejections of acceptable components as well as potential acceptance of failing ones.  The absence of high-precision, in-situ metrology has hindered manufacturers from applying real-time data analysis and closed-loop process controls that can improve yields and reduce manufacturing costs.  This research program will yield a hand-held, easy-to-use, robust, and quantitative shop-floor measurement system, allowing manufacturers to improve lifetimes, performance, and yield as they rapidly assess the features under test and feed the results back to improve process control.
+    During Phase I, a breadboard system was designed and implemented using a polarization-based fringe projection method and micropolarizer phase-mask technology to achieve vibration insensitive measurement in a compact package.  This Phase II program leverages that research to design a video-rate, compact, robust and portable system for handheld surface measurements in shop-floor environments. This will first involve improvements to measurement resolution with an improved optical design and new self-calibrating measurement modes; new optical elements will lower noise artifacts caused by imperfections in the earlier design and to reduce system size.  Once performance of the new design is verified, an ergonomic, compact, robust, wireless housing for the instrument must be created to enable shop-floor use; the system must handle drops of over one meter onto concrete, have useful battery life for extended field operations, be light enough to not fatigue users and have intuitive controls and feedback.  A final, critically important development effort will create automated software routines for measurement, analysis, and system diagnostics to enable adoption by unskilled personnel in manufacturing environments.  Lastly, extensive applications testing in the field will allow optimization of the system to handle a wide range of potential use cases and environments.
+  awardeeAddress: 3280 E Hemisphere Loop, Ste 146
+  awardeeCity: Tucson
+  awardeeCountryCode: US
+  awardeeName: 4 D Technology Corporation
+  awardeeStateCode: AZ
+  awardeeZipCode: '857065024'
+  fundsObligatedAmt: '1348048'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1556049'
+  piEmail: erik.novak@4dtechnology.com
+  piFirstName: Erik
+  piLastName: Novak
+  piPhone: '5202945600'
+  poName: Ben Schrag
+  date: 02/17/2016
+  startDate: 03/01/2016
+  expDate: 08/31/2020
+  title: 'SBIR Phase II:  High-Resolution Shop Floor Video-Rate Surface Metrology
+    System'
 - abstractText: |-
     This SBIR Phase I project addresses the lack of materials available for advanced 3D printing. 3D printing is and will likely be used to produce products that encompass every aspect of day-to-day life. Current technology is primarily focused on the aerospace and medical fields. New metallic materials and more efficient processing methods are needed to transition to other more ubiquitous markets. This project is aimed at broadening the materials selection through a new production technique that complements existing technologies. The growth of the 3D printing industry will bring very competitive manufacturing jobs back to The United States.
     This project will investigate the feasibility of an innovative reactive additive manufacturing (RAM) process to create a range of materials including nickel metal matrix composites, tungsten carbide composites, and nickel titanium intermetallic compounds. Each material system will be designed, fabricated, and characterized for a range of properties including microstructure, product phases, density, porosity, and hardness. For each of the three materials systems, the iterative development process will include modification of composition and process parameters to determine their effect on the material microstructure and properties and determine the feasibility of the RAM process to produce each material type commercially. The expected outcome of this activity is that the RAM process will be proven feasible for one or more of the investigated materials systems. The results of this work will be developed further and will subsequently lead to commercialization and sales of the novel materials mixtures and RAM process parameters for use in commercial powder bed fusion additive manufacturing systems already in use.
