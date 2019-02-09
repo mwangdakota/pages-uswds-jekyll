@@ -4,7 +4,7 @@
   programDirector:
     - name: Linda Molnar
       last_name: Molnar
-      api_name: Linda Molnar
+      api_name: lmolnar
       email: lmolnar@nsf.gov
       photo: Molnar-compressed.jpg
       bio: "has more than 20 years of experience in the life science and chemical industries, integrating her scientific research and engineering background with commercialization for startups, and international, government, and business environments. She joined NSF as an SBIR/STTR Program Director in 2017. Previously, she was co-founder and CEO of Simpatica Medicine, Inc., an artificial intelligence precision medicine company based in San Francisco, California. Linda founded and worked with life science startup companies from many universities. She has also provided strategic consultancy to venture capital firms, public companies, non-profit institutes, and the federal government. Her background includes positions as Managing Director in the Life Sciences Merchant Banking group and Venture Group at Burrill & Company, Executive in Residence at Momentum Biosciences, Program Officer for the National Cancer Institute in the Office of the Director (Center for Strategic Scientific Initiatives), and research and business development roles at Caliper Life Sciences, NASA Ames Research Center, and Rohm & Haas Co. Linda completed the University of Pennsylvania’s Wharton Executive Management Program and holds a Ph.D. from the Program in Polymer Science and Technology (Materials Science and Chemical Engineering) from Massachusetts Institute of Technology and a B.S. in Chemistry (Biology) from the University of Pittsburgh."
@@ -33,7 +33,7 @@
   programDirector:
     - name: Steve Konsek
       last_name: Konsek
-      api_name: Ben Schrag
+      api_name: Steven Konsek
       email: skonsek@nsf.gov
       photo: Konsek-compressed.jpg
       bio: "joined the National Science Foundation’s SBIR/STTR program in 2012 and has served as both a Program Director for the SBIR/STTR and the Innovation Corps (I-Corps™) program. Prior to joining NSF, Steven was the Chief Technology Officer at Illumitex, a venture-backed company developing light emitting diode chips, packages and fixtures for general illumination. He previously served as Chief of Technical Staff at Glo, recognized as one of Europe’s top LED startups. Prior to Glo, Steven was the Director of Device R&D at Nantero, a memory startup. Throughout his career, Steven has developed innovative, game-changing technologies across a range of semiconductor applications. He holds numerous patents and publications in LEDs, memory, process integration and nanoscale devices. Steven has a Ph.D. in Physics from the University of Washington and a B.S. in Mathematics from Purdue University."
@@ -57,7 +57,7 @@
   programDirector:
     - name: Ruth Shuman
       last_name: Shuman
-      api_name: Ruth M. Shuman
+      api_name: Ruth Shuman
       email: rshuman@nsf.gov
       photo: Ruth-compressed.jpg
       bio: "joined the National Science Foundation in August 2009 as a Program Director for Biological Technologies in the SBIR/STTR Program. Before coming to NSF, she was the founder, president, and CEO of a successful venture-backed life science company, Gentra Systems, Inc., that developed, manufactured, and sold products for genetic testing and research to clinical and research laboratories worldwide. Following Gentra’s acquisition, she held various consulting/advisory positions with start-up companies, and was CEO-In-Residence for Life Science with the University of Minnesota’s Venture Center evaluating the business potential of University-developed technology. She began her career as a faculty member at North Carolina State University and was a pioneer in the development of gene transfer and genetic engineering technology. Ruth holds a Ph.D. from the University of Minnesota in the area of Genetics and Cell Biology."
@@ -120,7 +120,7 @@
   programDirector:
     - name: Anna Brady-Estevez
       last_name: Brady-Estevez
-      api_name: Anna Brady-Estevez
+      api_name: Anna Brady
       email: abrady@nsf.gov
       photo: Anna-compressed.jpg
       bio: "joined the National Science Foundation as SBIR/STTR Program Director leading Chemical and Environmental Technologies. In this role she brings breadth of background across entrepreneurship and venture capital, innovative research, and direction of corporate strategy and investments. Anna has served as a collaborator with numerous start-ups having worked as: an inventor for an early stage venture-backed start-up providing low-cost, low-energy portable water treatment, and a Principal Investor for an early stage venture firm. Anna’s contributions were recognized in 2009 when she was selected as one of ~30 Kauffman Fellows from around the globe, for leadership in innovation and venture capital. She served as Director of Corporate Strategy for leading multinationals including The AES Corporation and Cummins Inc., and advised numerous clients while serving as a management consultant for The Boston Consulting Group. Anna’s work in these roles resulted in over $6B of infrastructure investments with enhanced returns, identification of $B+ cost reduction opportunities, contributing to a core transformation team of a $T+ entity in oil & gas, and the implementation of several new technologies spanning: nanotechnology, advanced manufacturing, Big Data and Internet of Things, along with new equipment that enabled transforming energy economics. Earlier in her career, she performed research at the intersection of innovation and international relations with the Office of Naval Research at the US Embassy in Chile. Anna holds a PhD from Yale University in Chemical and Environmental Engineering, where she held a National Science Foundation Graduate Research Fellowship; and a BS in Chemical Engineering and BA in Spanish from The Johns Hopkins University."
@@ -169,7 +169,7 @@
   programDirector:
     - name: Anna Brady-Estevez
       last_name: Brady-Estevez
-      api_name: Anna Brady-Estevez
+      api_name: Anna Brady
       email: abrady@nsf.gov
       photo: Anna-compressed.jpg
       bio: "joined the National Science Foundation as SBIR/STTR Program Director leading Chemical and Environmental Technologies. In this role she brings breadth of background across entrepreneurship and venture capital, innovative research, and direction of corporate strategy and investments. Anna has served as a collaborator with numerous start-ups having worked as: an inventor for an early stage venture-backed start-up providing low-cost, low-energy portable water treatment, and a Principal Investor for an early stage venture firm. Anna’s contributions were recognized in 2009 when she was selected as one of ~30 Kauffman Fellows from around the globe, for leadership in innovation and venture capital. She served as Director of Corporate Strategy for leading multinationals including The AES Corporation and Cummins Inc., and advised numerous clients while serving as a management consultant for The Boston Consulting Group. Anna’s work in these roles resulted in over $6B of infrastructure investments with enhanced returns, identification of $B+ cost reduction opportunities, contributing to a core transformation team of a $T+ entity in oil & gas, and the implementation of several new technologies spanning: nanotechnology, advanced manufacturing, Big Data and Internet of Things, along with new equipment that enabled transforming energy economics. Earlier in her career, she performed research at the intersection of innovation and international relations with the Office of Naval Research at the US Embassy in Chile. Anna holds a PhD from Yale University in Chemical and Environmental Engineering, where she held a National Science Foundation Graduate Research Fellowship; and a BS in Chemical Engineering and BA in Spanish from The Johns Hopkins University."
@@ -223,7 +223,7 @@
   programDirector:
     - name: Muralidharan S. Nair
       last_name: Nair
-      api_name: Muralidharan S. Nair
+      api_name: Muralidharan Nair
       email: mnair@nsf.gov
       photo: Murali-compressed.jpg
       bio: "is a Program Director in the areas of Electronic Hardware, Robotics, and Wireless Technologies with the SBIR/STTR Program. Prior to joining NSF in January 2003, he was the Founder CEO of a Bluetooth wireless product company. In this capacity, he raised equity capital for worldwide operations in the U.S., China and India. He designed, planned and implemented the product development cycle, and managed the marketing strategy, strategic alliances and business development processes. Before that, he was a Senior Systems Engineer at L-3 Communications where he provided strategic advice to the Executive VP for a complete re-plan of the Hughes contract for real-time, embedded ground control software for the $350M PANAMSAT communications satellite. Prior to joining L-3 Communications, he was a Mission Planner at Motorola Iridium where he was involved in all aspects of satellite operations including orbit determination, generating guidance targets and orbital slot placement. Before joining Iridium, he was a faculty member at Embry-Riddle Aeronautical University, where he developed an entire Space Systems Design Lab from concept inception to fully operational mode and national prominence, and supervised five (5) space system designs, three (3) of which were winners in the National AIAA/Loral Design Competition. He is a recipient of a number of awards including NSF’s second highest award for meritorious service and the President’s Innovation Award for Space Systems Design courses while at Embry-Riddle. Murali is a graduate of the Indian Institute of Technology and the University of Texas. He is a registered professional engineer in the State of Florida."
@@ -241,7 +241,7 @@
   programDirector:
     - name: Anna Brady-Estevez
       last_name: Brady-Estevez
-      api_name: Anna Brady-Estevez
+      api_name: Anna Brady
       email: abrady@nsf.gov
       photo: Anna-compressed.jpg
       bio: "joined the National Science Foundation as SBIR/STTR Program Director leading Chemical and Environmental Technologies. In this role she brings breadth of background across entrepreneurship and venture capital, innovative research, and direction of corporate strategy and investments. Anna has served as a collaborator with numerous start-ups having worked as: an inventor for an early stage venture-backed start-up providing low-cost, low-energy portable water treatment, and a Principal Investor for an early stage venture firm. Anna’s contributions were recognized in 2009 when she was selected as one of ~30 Kauffman Fellows from around the globe, for leadership in innovation and venture capital. She served as Director of Corporate Strategy for leading multinationals including The AES Corporation and Cummins Inc., and advised numerous clients while serving as a management consultant for The Boston Consulting Group. Anna’s work in these roles resulted in over $6B of infrastructure investments with enhanced returns, identification of $B+ cost reduction opportunities, contributing to a core transformation team of a $T+ entity in oil & gas, and the implementation of several new technologies spanning: nanotechnology, advanced manufacturing, Big Data and Internet of Things, along with new equipment that enabled transforming energy economics. Earlier in her career, she performed research at the intersection of innovation and international relations with the Office of Naval Research at the US Embassy in Chile. Anna holds a PhD from Yale University in Chemical and Environmental Engineering, where she held a National Science Foundation Graduate Research Fellowship; and a BS in Chemical Engineering and BA in Spanish from The Johns Hopkins University."
@@ -299,7 +299,7 @@
   programDirector:
     - name: Muralidharan S. Nair
       last_name: Nair
-      api_name: Muralidharan S. Nair
+      api_name: Muralidharan Nair
       email: mnair@nsf.gov
       photo: Murali-compressed.jpg
       bio: "is a Program Director in the areas of Electronic Hardware, Robotics, and Wireless Technologies with the SBIR/STTR Program. Prior to joining NSF in January 2003, he was the Founder CEO of a Bluetooth wireless product company. In this capacity, he raised equity capital for worldwide operations in the U.S., China and India. He designed, planned and implemented the product development cycle, and managed the marketing strategy, strategic alliances and business development processes. Before that, he was a Senior Systems Engineer at L-3 Communications where he provided strategic advice to the Executive VP for a complete re-plan of the Hughes contract for real-time, embedded ground control software for the $350M PANAMSAT communications satellite. Prior to joining L-3 Communications, he was a Mission Planner at Motorola Iridium where he was involved in all aspects of satellite operations including orbit determination, generating guidance targets and orbital slot placement. Before joining Iridium, he was a faculty member at Embry-Riddle Aeronautical University, where he developed an entire Space Systems Design Lab from concept inception to fully operational mode and national prominence, and supervised five (5) space system designs, three (3) of which were winners in the National AIAA/Loral Design Competition. He is a recipient of a number of awards including NSF’s second highest award for meritorious service and the President’s Innovation Award for Space Systems Design courses while at Embry-Riddle. Murali is a graduate of the Indian Institute of Technology and the University of Texas. He is a registered professional engineer in the State of Florida."
@@ -322,7 +322,7 @@
   programDirector:
     - name: Rick Schwerdtfeger
       last_name: Schwerdtfeger
-      api_name: Richard Schwerdtfeger
+      api_name: Carl Schwerdtfeger
       email: rschwerd@nsf.gov
       photo: Rick-compressed.jpg
       bio: "joined the National Science Foundation in August 2016 as the SBIR/STTR Program Director for the Semiconductors and Photonics, and Internet of Things (IoT) portfolios. Prior to joining NSF, Rick was the CTO and Co-Founder of the Advanced RenewableEnergy Company, a clean-tech and semiconductor equipment company, where he led the technology development and customer deployment of nearly $200MM of equipment in the first 4 years. Additionally he was the COO of Pica Solar, a DOE-funded solar cell technologies start-up. Rick is also an advisory board member of ClearCove Systems, a waste water and renewable energy company. In addition to these entrepreneurial ventures, Rick was a Senior Project Scientist at the non-profit Edison Materials Technology Center, a Senior R&D Scientist at Saint Gobain, and the Crystal Growth Group leader at Alpha Spectra. He started his career as a Staff Scientist doing solar energy research at the National Renewable Energy Laboratory. Rick has grown some of the largest sapphire, calcium fluoride, sodium iodide, and copper indium diselenide crystals in the world, which have been used to lower costs of technology for energy, lighting, radiation detection and other industrial and photonic applications. Rick has spent his career taking the “art” out of science, and replacing it with good engineering, experimentation and automation to solve challenging problems in the renewable energy, clean water, smart grid and high-tech world. Rick holds a Ph.D. in Materials Science from the Colorado School of Mines, an M.S. in Applied Physics from Pittsburg State University, and a B.S. in Physics and Science Education from the University of Dubuque."
@@ -358,7 +358,7 @@
   programDirector:
     - name: Linda Molnar
       last_name: Molnar
-      api_name: Linda Molnar
+      api_name: lmolnar
       email: lmolnar@nsf.gov
       photo: Molnar-compressed.jpg
       bio: "has more than 20 years of experience in the life science and chemical industries, integrating her scientific research and engineering background with commercialization for startups, and international, government, and business environments. She joined NSF as an SBIR/STTR Program Director in 2017. Previously, she was co-founder and CEO of Simpatica Medicine, Inc., an artificial intelligence precision medicine company based in San Francisco, California. Linda founded and worked with life science startup companies from many universities. She has also provided strategic consultancy to venture capital firms, public companies, non-profit institutes, and the federal government. Her background includes positions as Managing Director in the Life Sciences Merchant Banking group and Venture Group at Burrill & Company, Executive in Residence at Momentum Biosciences, Program Officer for the National Cancer Institute in the Office of the Director (Center for Strategic Scientific Initiatives), and research and business development roles at Caliper Life Sciences, NASA Ames Research Center, and Rohm & Haas Co. Linda completed the University of Pennsylvania’s Wharton Executive Management Program and holds a Ph.D. from the Program in Polymer Science and Technology (Materials Science and Chemical Engineering) from Massachusetts Institute of Technology and a B.S. in Chemistry (Biology) from the University of Pittsburgh."
@@ -377,7 +377,7 @@
   programDirector:
     - name: Ben Schrag
       last_name: Schrag
-      api_name: Ben Schrag
+      api_name: Benaiah Schrag
       ttopic: OT
       email: bschrag@nsf.gov
       photo: Ben-compressed.jpg
@@ -393,7 +393,7 @@
   programDirector:
     - name: Rick Schwerdtfeger
       last_name: Schwerdtfeger
-      api_name: Richard Schwerdtfeger
+      api_name: Carl Schwerdtfeger
       email: rschwerd@nsf.gov
       photo: Rick-compressed.jpg
       bio: "joined the National Science Foundation in August 2016 as the SBIR/STTR Program Director for the Semiconductors and Photonics, and Internet of Things (IoT) portfolios. Prior to joining NSF, Rick was the CTO and Co-Founder of the Advanced RenewableEnergy Company, a clean-tech and semiconductor equipment company, where he led the technology development and customer deployment of nearly $200MM of equipment in the first 4 years. Additionally he was the COO of Pica Solar, a DOE-funded solar cell technologies start-up. Rick is also an advisory board member of ClearCove Systems, a waste water and renewable energy company. In addition to these entrepreneurial ventures, Rick was a Senior Project Scientist at the non-profit Edison Materials Technology Center, a Senior R&D Scientist at Saint Gobain, and the Crystal Growth Group leader at Alpha Spectra. He started his career as a Staff Scientist doing solar energy research at the National Renewable Energy Laboratory. Rick has grown some of the largest sapphire, calcium fluoride, sodium iodide, and copper indium diselenide crystals in the world, which have been used to lower costs of technology for energy, lighting, radiation detection and other industrial and photonic applications. Rick has spent his career taking the “art” out of science, and replacing it with good engineering, experimentation and automation to solve challenging problems in the renewable energy, clean water, smart grid and high-tech world. Rick holds a Ph.D. in Materials Science from the Colorado School of Mines, an M.S. in Applied Physics from Pittsburg State University, and a B.S. in Physics and Science Education from the University of Dubuque."
@@ -428,7 +428,7 @@
   programDirector:
     - name: Muralidharan S. Nair
       last_name: Nair
-      api_name: Muralidharan S. Nair
+      api_name: Muralidharan Nair
       email: mnair@nsf.gov
       photo: Murali-compressed.jpg
       bio: "is a Program Director in the areas of Electronic Hardware, Robotics, and Wireless Technologies with the SBIR/STTR Program. Prior to joining NSF in January 2003, he was the Founder CEO of a Bluetooth wireless product company. In this capacity, he raised equity capital for worldwide operations in the U.S., China and India. He designed, planned and implemented the product development cycle, and managed the marketing strategy, strategic alliances and business development processes. Before that, he was a Senior Systems Engineer at L-3 Communications where he provided strategic advice to the Executive VP for a complete re-plan of the Hughes contract for real-time, embedded ground control software for the $350M PANAMSAT communications satellite. Prior to joining L-3 Communications, he was a Mission Planner at Motorola Iridium where he was involved in all aspects of satellite operations including orbit determination, generating guidance targets and orbital slot placement. Before joining Iridium, he was a faculty member at Embry-Riddle Aeronautical University, where he developed an entire Space Systems Design Lab from concept inception to fully operational mode and national prominence, and supervised five (5) space system designs, three (3) of which were winners in the National AIAA/Loral Design Competition. He is a recipient of a number of awards including NSF’s second highest award for meritorious service and the President’s Innovation Award for Space Systems Design courses while at Embry-Riddle. Murali is a graduate of the Indian Institute of Technology and the University of Texas. He is a registered professional engineer in the State of Florida."
@@ -449,7 +449,7 @@
   programDirector:
     - name: Steve Konsek
       last_name: Konsek
-      api_name: Ben Schrag
+      api_name: Steven Konsek
       email: skonsek@nsf.gov
       photo: Konsek-compressed.jpg
       bio: "joined the National Science Foundation’s SBIR/STTR program in 2012 and has served as both a Program Director for the SBIR/STTR and the Innovation Corps (I-Corps™) program. Prior to joining NSF, Steven was the Chief Technology Officer at Illumitex, a venture-backed company developing light emitting diode chips, packages and fixtures for general illumination. He previously served as Chief of Technical Staff at Glo, recognized as one of Europe’s top LED startups. Prior to Glo, Steven was the Director of Device R&D at Nantero, a memory startup. Throughout his career, Steven has developed innovative, game-changing technologies across a range of semiconductor applications. He holds numerous patents and publications in LEDs, memory, process integration and nanoscale devices. Steven has a Ph.D. in Physics from the University of Washington and a B.S. in Mathematics from Purdue University."
@@ -471,7 +471,7 @@
   programDirector:
     - name: Rick Schwerdtfeger
       last_name: Schwerdtfeger
-      api_name: Richard Schwerdtfeger
+      api_name: Carl Schwerdtfeger
       email: rschwerd@nsf.gov
       photo: Rick-compressed.jpg
       bio: "joined the National Science Foundation in August 2016 as the SBIR/STTR Program Director for the Semiconductors and Photonics, and Internet of Things (IoT) portfolios. Prior to joining NSF, Rick was the CTO and Co-Founder of the Advanced RenewableEnergy Company, a clean-tech and semiconductor equipment company, where he led the technology development and customer deployment of nearly $200MM of equipment in the first 4 years. Additionally he was the COO of Pica Solar, a DOE-funded solar cell technologies start-up. Rick is also an advisory board member of ClearCove Systems, a waste water and renewable energy company. In addition to these entrepreneurial ventures, Rick was a Senior Project Scientist at the non-profit Edison Materials Technology Center, a Senior R&D Scientist at Saint Gobain, and the Crystal Growth Group leader at Alpha Spectra. He started his career as a Staff Scientist doing solar energy research at the National Renewable Energy Laboratory. Rick has grown some of the largest sapphire, calcium fluoride, sodium iodide, and copper indium diselenide crystals in the world, which have been used to lower costs of technology for energy, lighting, radiation detection and other industrial and photonic applications. Rick has spent his career taking the “art” out of science, and replacing it with good engineering, experimentation and automation to solve challenging problems in the renewable energy, clean water, smart grid and high-tech world. Rick holds a Ph.D. in Materials Science from the Colorado School of Mines, an M.S. in Applied Physics from Pittsburg State University, and a B.S. in Physics and Science Education from the University of Dubuque."
@@ -486,7 +486,7 @@
   programDirector:
     - name: Muralidharan S. Nair
       last_name: Nair
-      api_name: Muralidharan S. Nair
+      api_name: Muralidharan Nair
       email: mnair@nsf.gov
       photo: Murali-compressed.jpg
       bio: "is a Program Director in the areas of Electronic Hardware, Robotics, and Wireless Technologies with the SBIR/STTR Program. Prior to joining NSF in January 2003, he was the Founder CEO of a Bluetooth wireless product company. In this capacity, he raised equity capital for worldwide operations in the U.S., China and India. He designed, planned and implemented the product development cycle, and managed the marketing strategy, strategic alliances and business development processes. Before that, he was a Senior Systems Engineer at L-3 Communications where he provided strategic advice to the Executive VP for a complete re-plan of the Hughes contract for real-time, embedded ground control software for the $350M PANAMSAT communications satellite. Prior to joining L-3 Communications, he was a Mission Planner at Motorola Iridium where he was involved in all aspects of satellite operations including orbit determination, generating guidance targets and orbital slot placement. Before joining Iridium, he was a faculty member at Embry-Riddle Aeronautical University, where he developed an entire Space Systems Design Lab from concept inception to fully operational mode and national prominence, and supervised five (5) space system designs, three (3) of which were winners in the National AIAA/Loral Design Competition. He is a recipient of a number of awards including NSF’s second highest award for meritorious service and the President’s Innovation Award for Space Systems Design courses while at Embry-Riddle. Murali is a graduate of the Indian Institute of Technology and the University of Texas. He is a registered professional engineer in the State of Florida."
