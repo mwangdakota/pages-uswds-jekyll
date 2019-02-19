@@ -20,7 +20,7 @@ scripts:
 <div class="usa-section usa-content usa-grid" markdown="1">
 
 # Portfolio
-Since 2012, America’s Seed Fund powered by NSF has made more than 2,500 awards to startups and small businesses. Since 2014, our awardees have had 70 exits and have received $3.5 billion in private investment. We encourage you to explore this list of assorted companies we've funded.
+Since 2012, America’s Seed Fund powered by NSF has made more than 2,500 awards to startups and small businesses. Since 2014, our awardees have had 87 exits and have received $6.5 billion in private investment. We encourage you to explore this list of assorted companies we've funded.
 
 
 <form onsubmit="allAwards(this.a1.value); return false;" class="awards-search-form">
