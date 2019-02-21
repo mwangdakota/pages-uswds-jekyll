@@ -1,5 +1,5 @@
 ---
-title: Medical Devices
+title: Medical Devices (MD)
 permalink: /topics/medical-devices/
 layout: tech-topic
 topic_code: md
