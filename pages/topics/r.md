@@ -1,5 +1,5 @@
 ---
-title: Robotics
+title: Robotics (R)
 permalink: /topics/robotics/
 layout: tech-topic
 topic_code: r
