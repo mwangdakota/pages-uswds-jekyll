@@ -1,24 +1,22 @@
 ---
-title: Internet of Things (IoT)
-permalink: /topics/IoT/
+title: Internet of Things (I)
+permalink: /topics/internet-of-things/
 layout: tech-topic
-topic_code: 
-  -i
+topic_code: i
 section_image: "/assets/img/bg/iotas-2c-i.jpg"
 section_image_caption: |
   Showcasing [IOTAS]({{ site.baseurl }}/portfolio/details/?company=iotas-inc#iotas-inc)'s' Home app, featuring a unique floor plan view and Smart Stories™.
 ---
 
-The Internet of Things (IoT) is a rapidly evolving field that involves the interconnection and interaction of smart objects (objects or devices with embedded sensors, onboard data processing capability, and a means of communication) to provide automated services that would otherwise not be possible. IoT is not a single technology, but rather involves the convergence of sensor, information, communication, and actuation technologies. Today, most of what we consider as IoT is a variety of largely stand-alone devices and isolated systems, such as wearable fitness monitors, home thermostats and lighting, remote video streaming, smartphones, and smart watches. Emerging IoT implementations will use smaller and more energy- efficient embedded sensor technologies, enhanced communications, advanced data analytics, and more sophisticated actuators to collect and aggregate information and enable intelligent systems that understand context, track and manage complex interactions, and anticipate requirements. 
+The Internet of Things (IoT) is a rapidly evolving field that involves the interconnection and interaction of smart objects (objects or devices with embedded sensors, onboard data processing capability, and a means of communication) to provide automated services that would otherwise not be possible. IoT is not a single technology, but rather involves the convergence of sensor, actuator, information, and communication technologies. Emerging IoT implementations will use smaller and more energy-efficient embedded sensor technologies, more sophisticated actuators, enhanced communications, and advanced data analytics to collect and aggregate information and enable intelligent systems that understand context, track and manage complex interactions, and anticipate requirements. Market verticals that are potentially impacted by innovations in this area include connected cities and homes, smart transportation, smart agriculture, industrial IoT, and retail IoT. Proposals are encouraged that address key challenges across the full range of IoT applications involving hardware devices and sensors. Advances focusing on software, cybersecurity, and computing technologies should apply under one of the Information Technologies (IT) subtopics.
 
-IoT is expected to become ubiquitous, with implementations in the smart home for management of energy use, control of appliances, monitoring of food and other consumables; consumer applications such as health and fitness monitoring, condition diagnosis; manufacturing and industrial settings for supply chain management, robotic manufacturing, quality control, health and safety compliance; utility grids and other critical infrastructure for grid optimization, automated fault diagnosis, automated cyber security monitoring and response; and automotive/transportation for optimization for driving conditions, assessing driver alertness, collision/accident avoidance, and managing vehicle health. 
+### I1. IoT Communications 
 
-Market verticals that are potentially impacted by innovations in this area include Connected Cities and Homes, Smart Transportation, Smart Agriculture, Industrial IoT, and Retail IoT. Proposals are encouraged that address key challenges across the full range of IoT applications 
+### I2. IoT Energy and Power Systems 
 
-### IoT1. IoT Sensors and Actuators 
+### I3. IoT Integrated Systems 
 
-### IoT2. IoT Energy and Power Systems 
+### I4. IoT Sensors and Actuators 
 
-### IoT3. IoT Communications 
+### I5. Other IoT Technologies
 
-### IoT4. IoT Integrated Systems 
