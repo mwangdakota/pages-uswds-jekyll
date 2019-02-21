@@ -1,5 +1,5 @@
 ---
-title: Other Topics
+title: Other Topics (OT)
 permalink: /topics/other-topics/
 layout: tech-topic
 topic_code: ot
