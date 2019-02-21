@@ -273,6 +273,9 @@
     - Infrastructure and Smart Grids (EP2)
     - Other Energy and Power Systems Technologies (EP3)
   companies:
+    - name: VECARIUS
+    - name: Imprint Energy, Inc.
+    - name: GridBridge, Inc
 
 - topic: Environmental Technologies (ET)
   permalink: /topics/environmental-technologies/
