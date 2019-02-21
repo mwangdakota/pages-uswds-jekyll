@@ -1,5 +1,5 @@
 ---
-title: Instrumentation and Hardware Systems 
+title: Instrumentation and Hardware Systems (IH)
 permalink: /topics/instrumentation-and-hardware-systems/
 layout: tech-topic
 topic_code: ih
