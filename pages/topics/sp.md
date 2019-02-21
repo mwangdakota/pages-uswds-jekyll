@@ -1,5 +1,5 @@
 ---
-title: Space (SEP)
+title: Space (SP)
 permalink: /topics/space/
 layout: tech-topic
 topic_code: sp
