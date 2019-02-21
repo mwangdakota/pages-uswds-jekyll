@@ -1,5 +1,5 @@
 ---
-title: Advanced Manufacturing
+title: Advanced Manufacturing (M)
 permalink: /topics/advanced-manufacturing/
 layout: tech-topic
 topic_code: m
