@@ -11,14 +11,17 @@ section_image_caption: |
 
 The Chemical and Advanced Energy Technologies topic covers a wide range of technology areas of current and emerging commercial significance pertaining to the broad chemical industry, energy, power generation, and related industrial sectors. Sensing, data and advanced analytics technologies relevant to these fields are also appropriate for Chemical Technologies. Beyond improvement on technical specifications, it is important to also clearly identify the competitive landscape of what is currently possible, and why the proposed innovation will have high impact commercially and/or from a societal benefit standpoint.  
 
-### CT1. Advanced Chemical Processes and Products
+### CT1. Catalytic Products and Processes
 
-### CT2. Catalytic Products and Processes
+### CT2. Chemical Processes and Products
 
-### CT3. Power Generation and Advanced Infrastructure
+### CT3. Data Technologies, Sensing and Analytics for Chemicals, and/or Energy
 
-### CT4. Advanced Hydrocarbons, Petrochemicals and Natural Resources
+### CT4. Energy Technologies
 
-### CT5. Advanced Energy Technologies
+### CT5. Hydrocarbons, Petrochemicals and Natural Resources
 
-### CT6. Data Technologies, Sensing and Analytics for Chemicals, and/or Energy
+### CT6. Power Generation and Infrastructure
+
+### CT7. Other Chemical Technologies
+
