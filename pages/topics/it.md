@@ -1,5 +1,5 @@
 ---
-title: Information Technologies
+title: Information Technologies (IT)
 permalink: /topics/information-technologies/
 layout: tech-topic
 topic_code: it
