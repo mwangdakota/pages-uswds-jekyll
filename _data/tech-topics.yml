@@ -337,7 +337,7 @@
   permalink: /topics/instrumentation-and-hardware-systems/
   topic_code: ih
   programDirector:
-- name: Rick Schwerdtfeger
+    - name: Rick Schwerdtfeger
       last_name: Schwerdtfeger
       api_name: Carl Schwerdtfeger
       email: rschwerd@nsf.gov
