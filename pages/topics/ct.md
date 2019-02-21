@@ -1,6 +1,6 @@
 ---
 title: Chemical and Environmental Technologies (CT)
-permalink: /topics/chemical-and-environmental/
+permalink: /topics/chemical-and-advanced-energy-technologies/
 layout: tech-topic
 topic_code: ct
 section_image: "/assets/img/bg/kepley-2c-ct.jpg"
