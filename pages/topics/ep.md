@@ -1,5 +1,5 @@
 ---
-title: Energy and Power Systems
+title: Energy and Power Systems (EP)
 permalink: /topics/energy-and-power-systems/
 layout: tech-topic
 topic_code: ep
