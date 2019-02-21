@@ -453,7 +453,7 @@
     
 - topic: Quantum Information Technologies (QT)
   permalink: /topics/quantum-information-technologies/
-  topic_code: qi
+  topic_code: qt
   programDirector:
     - name: Peter Atherton
       last_name: Atherton
