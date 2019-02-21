@@ -1,5 +1,5 @@
 ---
-title: Advanced Materials
+title: Advanced Materials (AM)
 permalink: /topics/advanced-materials/
 layout: tech-topic
 topic_code: am
