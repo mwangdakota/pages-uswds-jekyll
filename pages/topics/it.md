@@ -19,11 +19,13 @@ This topic encourages the submission of proposals that present ground-breaking i
 ### IT4. Cybersecurity, Authentication, and Privacy 
 
 ### IT5. Cybersecurity for the Internet of Things
-Note: This subtopic is focused on cybersecurity innovations pertaining to IoT. Hardware innovations related to IoT should be submitted to the Internet of Things (I) topic.
+*Note: This subtopic is focused on cybersecurity innovations pertaining to IoT. Hardware innovations related to IoT should be submitted to the Internet of Things (I) topic.*
 
 ### IT6. Human-Computer Interaction, Virtual Reality, and Augmented Reality
 
 ### IT7. Image and Video 
+*Note: Image- and video-based innovations that rely on the use of artificial intelligence should be
+submitted under the AI3 subtopic.*
 
 ### IT8. Mobile Computing and Internet of Things
 *Note: This subtopic includes IT-based innovations pertaining to IoT devices. Hardware innovations related to IoT should be submitted to the Internet of Things (I) topic.*
