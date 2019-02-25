@@ -8,7 +8,7 @@ section_image_caption: |
    Jane's Carousel in Brooklyn Bridge Park (artists: Sydney Shea & Carol Hsiung for drawing, and Joel Artista for mural) made possible by [Mental Canvas LLC]({{ site.baseurl }}/portfolio/details/?company=mental-canvas-llc#mental-canvas-llc), the first to translate hand illustrations into 3D.
 ---
 
-This topic encourages the submission of proposals that present ground-breaking innovations in the generation, analysis, use, transmission, or protection of information, where such innovations offer the potential for substantial commercial returns and a positive impact on society and the world. The subtopics below provide specific examples of technologies and applications, although given the enormous range and diversity in the field of IT these examples are inevitably incomplete. 
+This topic encourages the submission of proposals that present ground-breaking innovations in the generation, analysis, use, transmission, or protection of information, where such innovations offer the potential for substantial commercial returns and positive societal impact. The subtopics below provide specific examples of technologies and applications, although given the enormous range and diversity in the field of IT these examples are inevitably incomplete. 
 
 ### IT1. Big Data and Advanced Analytics 
 
