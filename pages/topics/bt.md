@@ -36,5 +36,5 @@ Proposed projects should be focused on using or modifying living organisms, syst
 
 ### BT12. Synthetic Biology and Metabolic Engineering
 
-### BT13. Other Biotechnology Technologies
+### BT13. Other Biological Technologies
 
