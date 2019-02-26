@@ -1,0 +1,26 @@
+---
+title: Research and Development
+permalink: /research-and-development/
+layout: secondary
+---
+<section class="usa-section">
+<div class="usa-content utility-content usa-grid">
+<div class="usa-width-one-whole">
+
+<h1>What is research and development (R&D)?</h1>
+
+<p class="text-medium" markdown="1">
+America’s Seed Fund powered by the NSF requires that small businesses use the funding they receive in Phase I and Phase II for R&D. 
+The goal of the small business’s project should be to determine the scientific and technical feasibility of a new concept or innovation that could be developed into new products, processes, or services. 
+R&D supported by the NSF’s program can be:
+
+* A systematic, intensive study directed toward greater knowledge or understanding of the subject studied; 
+* A systematic study directed specifically toward applying new knowledge to meet a recognized need; or 
+* A systematic application of knowledge toward the production of useful materials, devices, and systems or methods, including design, development, and improvement of prototypes and new processes to meet specific requirements.
+
+Find out if your company’s technology innovation is a good fit for America’s Seed Fund powered by NSF by submitting your company’s Project Pitch. Read our Apply page for more information.
+</p>
+
+</div>
+</div>
+</section>
