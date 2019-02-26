@@ -9,7 +9,7 @@ layout: secondary
 
 <h1>Project Pitch (Required)</h1>
 
-<p class="text-medium" markdown="1">
+<p markdown="1">
 The Project Pitch allows startups and small businesses to get quick feedback at the start of their application for Phase I funding from America’s Seed Fund powered by NSF. 
 
 Startups or entrepreneurs who submit a three-page Project Pitch* will know within three weeks if they meet the program’s objectives to support innovative technologies that show promise of commercial and/or societal impact and involve a level of technical risk. They will also get additional guidance and feedback from NSF staff. 
