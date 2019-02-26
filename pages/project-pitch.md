@@ -3,13 +3,12 @@ title: Project Pitch
 permalink: /project-pitch/
 layout: secondary
 ---
-<section class="usa-section">
-<div class="usa-content utility-content usa-grid">
-<div class="usa-width-one-whole">
+<section class="section-header background-light-blue">
+<div class="usa-section usa-content usa-grid">
+<div class="usa-width-one-whole" markdown="1">
 
-<h1>Project Pitch (Required)</h1>
+# Project Pitch (Required)
 
-<p markdown="1">
 The Project Pitch allows startups and small businesses to get quick feedback at the start of their application for Phase I funding from America’s Seed Fund powered by NSF. 
 
 Startups or entrepreneurs who submit a three-page Project Pitch* will know within three weeks if they meet the program’s objectives to support innovative technologies that show promise of commercial and/or societal impact and involve a level of technical risk. They will also get additional guidance and feedback from NSF staff. 
@@ -33,7 +32,6 @@ Describe the background and current status of the applicant small business, incl
 Visit the online form to submit your Project Pitch or to preview the required fields. More details about the NSF’s new process and eligibility requirements are on our Apply page. 
 
 **Each small business can only submit one Project Pitch at a time and up to two Project Pitches per submission window. Any small business with a pending Project Pitch must wait for a response before submitting another Project Pitch. Any small business that has received an invitation to submit a full proposal must wait for a resolution of the full proposal before submitting a new or revised Project Pitch.
-</p>
 
 </div>
 </div>
