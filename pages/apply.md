@@ -1,6 +1,6 @@
 ---
 title: Apply
-permalink: /apply2/
+permalink: /apply/
 layout: secondary-narrow
 timeline:
   - title: anytime before<br> the deadline 
