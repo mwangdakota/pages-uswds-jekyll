@@ -5,9 +5,9 @@ layout: secondary
 ---
 <section class="section-header background-light-blue">
 <div class="usa-section usa-content usa-grid">
-<div class="usa-width-one-whole" markdown="1">
+<div class="usa-width-one-whole" >
 
-# Project Pitch
+<h1>Project Pitch</h1>
 
 The required Project Pitch allows startups and small businesses to get quick feedback at the start of their application for Phase I funding from America’s Seed Fund powered by NSF. 
 
