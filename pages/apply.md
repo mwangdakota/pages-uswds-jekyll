@@ -10,14 +10,8 @@ timeline:
       - step-3
   - title: at least 45 days<br>(six weeks) prior to<br> the end of the<br> submission window
     steps:
-      - step-4
-      - step-2
-      - step-3
   - title: upon invitation
     steps:
-      - step-1
-      - step-2
-      - step-3
   - title: 1-3 months after<br> the window closes 
     description: Applications undergo panel and merit reviews.
     inactive_description: Applications undergo panel and merit reviews.
