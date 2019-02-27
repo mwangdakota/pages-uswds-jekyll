@@ -1,5 +1,5 @@
 ---
-title: Register with SAM.gov (required)
+title: NEW Submit your Project Pitch (required)
 ---
 **Processing time:** Up to one month
 
