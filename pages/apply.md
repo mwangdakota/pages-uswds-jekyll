@@ -49,22 +49,15 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 
 <p class="text-medium">
 Learn about our recommended Phase I application timeline, how to prepare your proposal, and what to expect once you submit.
-{% if site.app_process == "inactive" %}
-Details for the next {{ site.deadline }} deadline will be posted in {{ site.solicitation_released }} in the upcoming solicitations.
-{% endif %}
 </p>
 
-<ol class="timeline {% if site.app_process == "inactive" %} timeline-inactive {% endif %}">
+<ol class="timeline">
 {% assign step_counter = 1 %}
 {% for milestone in page.timeline %}
   <li class="timeline-step{% if milestone.deadline %} timeline-step-deadline{% endif %}">
-    {% if site.app_process == "active" %}
       {% assign milestone_description = milestone.description %}
       {% assign milestone_note = milestone.note %}
-    {% else %}
-      {% assign milestone_description = milestone.inactive_description %}
-      {% assign milestone_note = milestone.inactive_note %}
-    {% endif %}
+    
 
     <span class="time">{{ milestone.title | liquify }}</span>
     <span class="time-description">
@@ -76,13 +69,12 @@ Details for the next {{ site.deadline }} deadline will be posted in {{ site.soli
     <ol class="usa-accordion">
       {% for step in milestone.steps %}
       {% assign timeline_item_ = site.timeline | where:"slug", step %}
-      <li value="{{ step_counter }}" class="step {{ step }} {% if site.app_process == "inactive" and timeline_item_[0].becomes_inactive == true %} step-inactive {% endif %}">
+      <li value="{{ step_counter }}" class="step {{ step }}">
         {% include components/accordion-item.html slug=step %}
       </li>
       {% assign step_counter = step_counter | plus: 1 %}
       {% endfor %}
     </ol>
-    {% endif %}
   </li>
 {% endfor %}
 </ol>
