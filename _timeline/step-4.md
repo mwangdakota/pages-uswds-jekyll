@@ -1,7 +1,9 @@
 ---
 title: *NEW* Submit your Project Pitch (required)
-description: Find out if your project is a good fit for the program
 ---
-**Processing time:** Up to one month
+Find out if your project is a good fit for the program
+Processing time: Up to three weeks 
 
-You MUST register to do business with the U.S. government through [System for Award Management (SAM)](https://www.sam.gov/SAM/). The SAM registration process is free, but can take up to one month to complete. You MUST have an active SAM.gov registration number to register with NSF and submit a proposal through FastLane. Registration expires after one year.
+Submit your Project Pitch using our online form.
+
+*Each company can submit one Project Pitch at a time and a total of two Project Pitches during a submission window. Any small business with a pending Project Pitch must wait for a response before submitting another Project Pitch. Any small business that has received an invitation to submit a full proposal must wait for a resolution of the full proposal before submitting a new or revised Project Pitch.*
