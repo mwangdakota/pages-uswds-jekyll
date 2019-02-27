@@ -14,7 +14,9 @@ The goal of the small business’s project should be to determine the scientific
 R&D supported by the NSF’s program can be:
 
 * A systematic, intensive study directed toward greater knowledge or understanding of the subject studied; 
+
 * A systematic study directed specifically toward applying new knowledge to meet a recognized need; or 
+
 * A systematic application of knowledge toward the production of useful materials, devices, and systems or methods, including design, development, and improvement of prototypes and new processes to meet specific requirements.
 
 Find out if your company’s technology innovation is a good fit for America’s Seed Fund powered by NSF by submitting your company’s Project Pitch. Read our Apply page for more information.
