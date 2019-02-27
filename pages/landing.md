@@ -17,7 +17,11 @@ hero:
 
 <head><script type="text/javascript"> setTimeout(function(){var a=document.createElement("script"); var b=document.getElementsByTagName("script")[0]; a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0041/5508.js?"+Math.floor(new Date().getTime()/3600000); a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1); </script>
 </head>
-
+<section class="usa-section usa-content  background-gray-dark" style="padding-top:2rem; padding-bottom: 0rem;">
+<div class="usa-grid">
+<h2 class="text-medium" style="color:#fff;"><strong>Due to new registration requirements, the Phase I proposal deadline has been extended from June 14 to July 10.</strong></h2><br>
+</div>
+</section>
 <section class="usa-section usa-content section-intro background-light-neutral">
 <div class="usa-grid">
 <div class="usa-width-one-third" markdown="1">
