@@ -31,7 +31,7 @@ Describe the background and current status of the applicant small business, incl
 
 Visit the online form to submit your Project Pitch or to preview the required fields. More details about the NSF’s new process and eligibility requirements are on our Apply page. 
 
-**Each small business can only submit one Project Pitch at a time and up to two Project Pitches per submission window. Any small business with a pending Project Pitch must wait for a response before submitting another Project Pitch. Any small business that has received an invitation to submit a full proposal must wait for a resolution of the full proposal before submitting a new or revised Project Pitch.
+*Each small business can only submit one Project Pitch at a time and up to two Project Pitches per submission window. Any small business with a pending Project Pitch must wait for a response before submitting another Project Pitch. Any small business that has received an invitation to submit a full proposal must wait for a resolution of the full proposal before submitting a new or revised Project Pitch.
 
 </div>
 </div>
