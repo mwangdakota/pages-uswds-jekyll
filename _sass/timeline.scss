@@ -97,11 +97,11 @@ $timeline-right-padding: 5rem;
     }
 
     .step-inactive {
-      &::before {
+    /*  &::before {
         border-color: $color-gray-lightest;
         color: $color-gray-light;
-      }
-      .step-label-expired {
+      }*/
+  /*    .step-label-expired {
         font-family: $font-mono;
         font-size: $font-size-xxxs;
         font-weight: 400;
@@ -111,7 +111,7 @@ $timeline-right-padding: 5rem;
         background-color: $color-secondary-lightest;
         padding: 1px 4px;
         margin-left: $space-xxs;
-      }
+      }*/
     }
 
     // setup accordion arrow
