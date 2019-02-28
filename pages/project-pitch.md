@@ -19,22 +19,22 @@ layout: secondary
 
 <p><strong>1. The Technology Innovation. (Up to 500 words)</strong></p>
 
-<p><strong>Describe the technical innovation that would be the focus of a Phase I project, including a brief discussion of the origins of the innovation as well as explanation as to why it meets the program’s mandate to focus on supporting research and development (R&D) of unproven, high-impact innovations.</strong></p>
+<p>Describe the technical innovation that would be the focus of a Phase I project, including a brief discussion of the origins of the innovation as well as explanation as to why it meets the program’s mandate to focus on supporting research and development (R&D) of unproven, high-impact innovations.</p>
 <br>
 
 <p><strong>2. The Technical Objectives and Challenges. (Up to 500 words)</strong></p>
 
-<p><strong>Describe the R&D or technical work to be done in a Phase I project, including a discussion of how and why the proposed work will help prove that the product or service is technically feasible and/or significantly reduce technical risk. Discuss how, ultimately, this work could contribute to making the new product, service, or process commercially viable and impactful. This section should also convey that the proposed work meets the definition of R&D, rather than straightforward engineering or incremental product development tasks.</strong></p>
+<p>Describe the R&D or technical work to be done in a Phase I project, including a discussion of how and why the proposed work will help prove that the product or service is technically feasible and/or significantly reduce technical risk. Discuss how, ultimately, this work could contribute to making the new product, service, or process commercially viable and impactful. This section should also convey that the proposed work meets the definition of R&D, rather than straightforward engineering or incremental product development tasks.</p>
 <br>
 
 <p><strong>3. The Market Opportunity. (Up to 250 words)</strong></p>
 
-<p><strong>Describe the customer profile and pain point(s) that will be the near-term commercial focus related to this technical project.</strong></p>
+<p>Describe the customer profile and pain point(s) that will be the near-term commercial focus related to this technical project.></p>
 <br>
 
 <p><strong>4. The Company and Team. (Up to 250 words)</strong></p>
 
-<p><strong>Describe the background and current status of the applicant small business, including key team members who will lead the technical and/or commercial efforts discussed in this Project Pitch.</strong></p>
+<p>>Describe the background and current status of the applicant small business, including key team members who will lead the technical and/or commercial efforts discussed in this Project Pitch.</p>
 <br>
 <p>Visit the online form to submit your Project Pitch or to preview the required fields. More details about the NSF’s new process and eligibility requirements are on our Apply page. </p>
 
