@@ -19,7 +19,7 @@ layout: secondary
 <br>
 <p><strong>1. The Technology Innovation. (Up to 500 words)</strong></p>
 
-<p>Describe the technical innovation that would be the focus of a Phase I project, including a brief discussion of the origins of the innovation as well as explanation as to why it meets the program’s mandate to focus on supporting [research and development (R&D)]({{ site.baseurl }}/research-and-development/) of unproven, high-impact innovations.</p>
+<p>Describe the technical innovation that would be the focus of a Phase I project, including a brief discussion of the origins of the innovation as well as explanation as to why it meets the program’s mandate to focus on supporting <a href="../research-and-development">research and development (R&D)</a> of unproven, high-impact innovations.</p>
 <br>
 
 <p><strong>2. The Technical Objectives and Challenges. (Up to 500 words)</strong></p>
