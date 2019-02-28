@@ -1,4 +1,5 @@
 ---
 title: Register your company
-description: If your company hasn't worked with the government before, you'll need to register with these systems. *You **MUST** have completed your SAM registration BEFORE you can begin entering your proposal in FastLane. Start as soon as possible!*
+description: Review the solicitation 
+We only accept proposals from companies that have been officially invited to submit (via the Project Pitch process). You can check out our current SBIR solicitation or STTR solicitation to get a sense of NSF’s objectives.
 ---
