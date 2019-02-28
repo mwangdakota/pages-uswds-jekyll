@@ -3,19 +3,19 @@ title: Apply
 permalink: /apply/
 layout: secondary-narrow
 timeline:
-  - title: anytime before<br> the deadline 
+  - title: anytime
     steps:
       - step-1
       - step-2
       - step-3
-      - step-4
-  - title: 90 days before<br> the deadline
+  - title: at least 45 days<br> (six weeks) prior<br> to the end of<br> the submission window
     description: Call for proposals (solicitation) released {{ site.solicitation_released }}.
-    inactive_description: Call for proposals (solicitation) released.
+    inactive_description: Call for proposals (solicitation) released
+    steps:
+      - step-4
+  - title: upon invitation
     steps:
       - step-5
-  - title: 60 days before<br> the deadline
-    steps:
       - step-6
       - step-7
   - title: "Deadline"
