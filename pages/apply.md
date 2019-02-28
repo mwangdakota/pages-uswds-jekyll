@@ -38,7 +38,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <h1 class="page-title">How to apply</h1>
 
 <p class="text-medium">
-Learn about our recommended Phase I application timeline, how to prepare your proposal, and what to expect once you submit.
+Learn about our Phase I application timeline, how to prepare your Project Pitch, and what to expect once you submit your Project Pitch or full proposal.
 {% if site.app_process == "inactive" %}
 Details for the next {{ site.deadline }} deadline will be posted in {{ site.solicitation_released }} in the upcoming solicitations.
 {% endif %}
@@ -66,7 +66,7 @@ Details for the next {{ site.deadline }} deadline will be posted in {{ site.soli
     <ol class="usa-accordion">
       {% for step in milestone.steps %}
       {% assign timeline_item_ = site.timeline | where:"slug", step %}
-      <li value="{{ step_counter }}" class="step {{ step }} {% if site.app_process == "inactive" and timeline_item_[0].becomes_inactive == true %} step-inactive {% endif %}">
+      <li value="{{ step_counter }}" class="step {{ step }} {% if timeline_item_[0].becomes_inactive == true %} step-inactive {% endif %}">
         {% include components/accordion-item.html slug=step %}
       </li>
       {% assign step_counter = step_counter | plus: 1 %}
