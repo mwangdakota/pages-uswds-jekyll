@@ -7690,5 +7690,76 @@
   startDate: 12/01/2016
   expDate: 05/31/2017
   title: 'SBIR Phase I:  Reactive Additive Manufacturing'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase II project is to develop visual search for product recognition
+    in the furniture and home décor vertical.  Text-based searches have revolutionized
+    the ability of people to complete tasks more quickly and efficiently as they are
+    able to find the information they desire in an organized, compiled, and logical
+    manner. Visual search provides the next level of disruption in search capabilities
+    by allowing users to find information even more rapidly and accurately by using
+    images. The deep learning-based software being developed will allow consumers
+    to find products they are interested in, and co-purchase related products, quickly.
+    Further, users will be more engaged through exposure to designer photographs of
+    products (inspirational photography). By helping customers find exactly what they
+    are looking for in a timely manner, user engagement and productivity will be increased.
+    Further, related style-based recommendations will increase purchasing overall.
+    \ Increased spending stimulates economic growth by increasing taxable revenue
+    by retailers, and through increased sales taxes generated from the purchases.
+    \n\nThis Small Business Innovative Research Phase II project seeks to develop
+    a visual search engine that is poised to disrupt retail and ecommerce by switching
+    the focus from text-based to visual search-based exploration. The platform initially
+    targets interior décor and furniture where deep learning techniques are trained
+    to recognize products across a wide range of conditions. In Phase II, the software
+    deep learning architectures will be generalized to enable a broader range of products,
+    and to allow customers more control over design decisions and choices. A client-facing
+    REST API will allow retailers, designers, and media companies to programmatically
+    access functionality of the platform, and build their own user interfaces and
+    apps on top of the deep learning technology. Lastly, it is proposed to develop
+    a white-label app that can be customized for individual retailers who want to
+    distribute this visual search capability to their customers.  Achieving these
+    objectives will create state-of-the-art performance in visual search for applications
+    in interior design, apparel search, real estate search, and product look-up."
+  awardeeAddress: 450 Townsend St. Suite 207
+  awardeeCity: San Francisco
+  awardeeCountryCode: US
+  awardeeName: GrokStyle Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '941071510'
+  fundsObligatedAmt: '747959'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1738489'
+  piEmail: founders@grokstyle.com
+  piFirstName: Sean
+  piLastName: Bell
+  piPhone: '6072806026'
+  poName: Peter Atherton
+  date: 09/14/2017
+  startDate: 09/15/2017
+  expDate: 08/31/2019
+  title: 'SBIR Phase II:  Innovative visual search and similarity for decor, apparel,
+    and style'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project will be in the field of healthcare.  The United States spends approximately $9,000 per person per year on healthcare.  Ultrasound medical imaging is a medical imaging technology that could lower costs by providing an alternative to higher-cost imaging techniques.  The technology created during this Phase II project is expected to increase the quality, value, and accessibility of medical ultrasound, which would in turn reduce medical imaging costs in the US healthcare system.  Furthermore, the company's technology is expected to bring ultrasound to more clinical settings and improve system-wide efficiencies in the diagnosis and treatment of disease.  The technology also has commercial potential in the international market, with $5.8B spent annually on medical ultrasound devices worldwide.  Finally, by improving the utility of ultrasound, the technology will lead to improved patient care and may ultimately save lives.
+
+    This Small Business Innovation Research (SBIR) Phase II project will develop deep learning technology for ultrasound imaging in medicine.  Ultrasound imaging has numerous benefits including real-time image acquisition, non-invasive scanning, low-cost devices, and no known side-effects (it is non-ionizing).  However, variability in quality has encumbered its adoption and utility.  As a result, more expensive imaging is typically utilized, often exposing patients to ionizing radiation.  Our objective is to develop, improve, and test machine learning techniques, based on deep learning, to improve ultrasound acquisition and interpretation.  We expect this project will create novel technologies that make ultrasound easier to use and improve the quality of ultrasound examinations.  The end result will improve the quality, value, and accessibility of medical ultrasound examinations, will result in cost savings to the healthcare system, will produce improvements in patient care, and will support a sustainable business opportunity.
+  awardeeAddress: 1479 Folsom Street
+  awardeeCity: San Francisco
+  awardeeCountryCode: US
+  awardeeName: Bay Labs, Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '941033734'
+  fundsObligatedAmt: '1376062'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1556103'
+  piEmail: mgmt@baylabs.io
+  piFirstName: Charles
+  piLastName: Cadieu
+  piMiddeInitial: F
+  piPhone: '5162200119'
+  poName: Peter Atherton
+  date: 04/13/2016
+  startDate: 04/15/2016
+  expDate: 03/31/2020
+  title: 'SBIR Phase II:  Guided Positioning System for Ultrasound'
 ---
 
