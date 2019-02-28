@@ -1,4 +1,4 @@
 ---
 title: Review the solicitation
-description: Read the [{{ site.data.solicitations['SBIR'].title }}]({{ site.data.solicitations['SBIR'].url }}) and the [{{ site.data.solicitations['STTR'].title }}]({{ site.data.solicitations['STTR'].url }}), which includes everything you need to know about applying for funding.
+description: If your company hasn’t worked with the government before, you’ll need to register with these systems. You MUST have completed your SAM registration BEFORE you can begin entering your proposal in FastLane. Start as soon as possible!
 ---
