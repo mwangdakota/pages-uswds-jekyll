@@ -16,7 +16,8 @@ timeline:
       - step-5
       - step-6
       - step-7
-  - title: <span style="color:red">Submission window will close on June 13</span><br>Another submission window will open on June 14. 
+  - title: <span style="color:red">Submission window will close on June 13</span>
+  - title: Another submission window will open on June 14
   - title: 1-3 months after<br> the window closes
     description: Applications undergo panel and merit reviews.
     inactive_description: Applications undergo panel and merit reviews.
