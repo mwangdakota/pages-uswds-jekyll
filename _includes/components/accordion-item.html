@@ -3,7 +3,7 @@
 
 
 
-  {% if site.app_process == "inactive" and timeline_item[0].becomes_inactive == true %}
+  {% if timeline_item[0].becomes_inactive == true %}
 
   <h2><button class="usa-accordion-button" disabled="disabled" aria-expanded="false" aria-controls="{{ timeline_item[0].title | slugify }}">
     {{ timeline_item[0].title | default: "" }} <span class="step-label-expired">Expired</span>
