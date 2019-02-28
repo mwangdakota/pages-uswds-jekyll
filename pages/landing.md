@@ -10,8 +10,7 @@ hero:
     text: We take 0% equity
   button:
     href: /apply/
-    text: "Apply now"
-    subtext: "Deadline: {{site.deadline}}"
+    text: "Start your application"
   caption: A microscopic image of the metals in a plant seedling being studied for its ability to clean contaminated environments. Photo courtesy of <a href="https://seedfund.nsf.gov/awardees/phase-2/details/?company=sigray">Sigray</a>, a small business revolutionizing x-ray research equipment through its patented innovations on x-ray source and optic technology.
 ---
 
@@ -19,7 +18,7 @@ hero:
 </head>
 <section class="usa-section usa-content  background-gray-dark" style="padding-top:2rem; padding-bottom: 0rem;">
 <div class="usa-grid">
-<h2 class="text-medium" style="color:#fff;"><strong>Due to new registration requirements, the Phase I proposal deadline has been extended from June 14 to July 10.</strong></h2><br>
+<h2 class="text-medium" style="color:#fff;"><strong>Submit a Project Pitch NOW and find out if your project is a good fit. </strong></h2><br>
 </div>
 </section>
 <section class="usa-section usa-content section-intro background-light-neutral">
