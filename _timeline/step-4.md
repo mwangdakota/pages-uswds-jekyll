@@ -1,6 +1,6 @@
 ---
 title: NEW Submit your Project Pitch (required)
-description: Find out if your project is a good fit for the program. Processing time: Up to three weeks 
+description: If your company hasn’t worked with the government before, you’ll need to register with these systems. You MUST have completed your SAM registration BEFORE you can begin entering your proposal in FastLane. Start as soon as possible!
 ---
 Submit your Project Pitch using our online form.
 
