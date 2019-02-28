@@ -16,7 +16,7 @@ layout: secondary
 <p>If your Project Pitch is a good fit for the program, you will receive an official invitation from NSF to submit a full proposal. If you’re not invited to submit, you’ll be told why your project is not appropriate for the program. </p>
 
 <p>Along with your company information, you’ll have to outline four key elements in your Project Pitch:</p>
-
+<br>
 <p><strong>1. The Technology Innovation. (Up to 500 words)</strong></p>
 
 <p>Describe the technical innovation that would be the focus of a Phase I project, including a brief discussion of the origins of the innovation as well as explanation as to why it meets the program’s mandate to focus on supporting research and development (R&D) of unproven, high-impact innovations.</p>
@@ -29,12 +29,12 @@ layout: secondary
 
 <p><strong>3. The Market Opportunity. (Up to 250 words)</strong></p>
 
-<p>Describe the customer profile and pain point(s) that will be the near-term commercial focus related to this technical project.></p>
+<p>Describe the customer profile and pain point(s) that will be the near-term commercial focus related to this technical project.</p>
 <br>
 
 <p><strong>4. The Company and Team. (Up to 250 words)</strong></p>
 
-<p>>Describe the background and current status of the applicant small business, including key team members who will lead the technical and/or commercial efforts discussed in this Project Pitch.</p>
+<p>Describe the background and current status of the applicant small business, including key team members who will lead the technical and/or commercial efforts discussed in this Project Pitch.</p>
 <br>
 <p>Visit the online form to submit your Project Pitch or to preview the required fields. More details about the NSF’s new process and eligibility requirements are on our Apply page. </p>
 
