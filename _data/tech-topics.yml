@@ -80,8 +80,8 @@
     - Virtual Agents and Assistants (AI15)
     - Other AI Technologies (AI16)
   companies:
-    - Bay Labs, Inc.
-    - GrokStyle Inc.
+    - name: Bay Labs, Inc.
+    - name: GrokStyle Inc.
     
 - topic: Biological Technologies (BT)
   permalink: /topics/biological-technologies/
