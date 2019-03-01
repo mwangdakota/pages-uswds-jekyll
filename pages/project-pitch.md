@@ -38,7 +38,7 @@ layout: secondary
 <br>
 <p>Visit the <a href="https://nsfgov.secure.force.com/sbir/">online form</a> to submit your Project Pitch or to preview the required fields. More details about the NSF’s new process and eligibility requirements are on our Apply page. </p>
 
-<p><em>*Each small business can only submit one Project Pitch at a time and up to two Project Pitches per submission window. Any small business with a pending Project Pitch must wait for a response before submitting another Project Pitch. Any small business that has received an invitation to submit a full proposal must wait for a resolution of the full proposal before submitting a new or revised Project Pitch.</em></p>
+<p><em>*Each small business can only submit one Project Pitch at a time and up to two Project Pitches per submission window. <strong>(The submission windows for 2019 are March 4-June 13 and June 14-December 12).</strong> Any small business with a pending Project Pitch must wait for a response before submitting another Project Pitch. Any small business that has received an invitation to submit a full proposal must wait for a resolution of the full proposal before submitting a new or revised Project Pitch.</em></p>
 
 </div>
 </div>
