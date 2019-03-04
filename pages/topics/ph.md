@@ -8,15 +8,17 @@ section_image_caption: |
   [Arable Labs Inc.]({{ site.baseurl}}/portfolio/details/?company=arable-labs-inc#arable-labs-inc)’s advanced microclimate and crop growth monitoring device, the Mark.
 ---
 
+The Photonics topic addresses the research and development of new materials, devices, components, and systems that have the potential for revolutionary change in the optics and photonics industries. Photonic technologies can include anything generally operating in or using photons in the electromagnetic spectrum from gamma rays down to long radio waves. Examples include photovoltaics, lasers, various light emitting diode technologies (LED, OLED, QLED), radiation detectors, and novel communications technologies.
 
-The Photonics topic addresses the research and development of new materials, devices, components, and systems that have the potential for revolutionary change in the optics and photonics industries. 
+### PH1. Advanced Metrology and Sensors 
 
-### PH1. Lighting and Displays 
+### PH2. Advanced Optical Components and Systems 
 
-### PH2. Communications, Information, and Data Storage 
+### PH3. Communications, Information, and Data Storage 
 
-### PH3. Energy 
+### PH4. Energy 
 
-### PH4. Advanced Metrology and Sensors 
+### PH5. Lighting and Displays 
 
-### PH5. Advanced Optical Components and Systems 
+### PH6. Other Photonics Technologies
+
