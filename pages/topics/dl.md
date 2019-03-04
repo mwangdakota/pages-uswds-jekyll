@@ -1,5 +1,5 @@
 ---
-title: Distributed Ledger (OT)
+title: Distributed Ledger (DL)
 permalink: /topics/distributed-ledger/
 layout: tech-topic
 topic_code: dl
@@ -7,30 +7,35 @@ section_image: "/assets/img/bg/neural-analytics-2c-sh.jpg"
 section_image_caption: |
   The [Neural Analytics]({{ site.baseurl }}/portfolio/details/?company=neural-analytics#neural-analytics) Lucid™ M1 transcranial Doppler Ultrasound System is indicated as an adjunct to the standard clinical practices for measuring and displaying cerebral blood flow velocity within the major conducting arteries and veins of the head and neck. Additionally, the Lucid™ M1 System measures the occurrence of transient emboli signals within the blood stream.
 ---
-### Digital Health
-The Digital Health subtopics aim to support the early-stage development of novel devices, components, systems, algorithms, networks, applications, or services that will enable the transformation of healthcare from reactive, hospital-centered, and indemnity-based to proactive, person-centered, preventive, and cost-efficient. The Digital Health subtopics are not aimed at supporting clinical trials, the clinical validation of information technologies, or medical devices or studies performed primarily for regulatory purposes. Limited studies with human subjects may be acceptable to the extent that they are performed in support of feasibility, proof-of-concept studies of early-stage technologies. Proposals that request support for clinical studies will be deemed non-compliant with the SBIR/STTR solicitations and may be returned without review.
 
-### DH1. Business Models for User-Centered Healthcare
-DH1. Business Models for User-Centered Healthcare
-Proposed projects should include transformative business models that are enabled by novel technologies and are designed for the benefit of healthcare providers, consumers, patients and/or their caregivers. Such technology-driven business models will: reduce the cost of healthcare; facilitate the shift of public and private incentives toward patient-centric goals; empower patients and healthy individuals to participate in their own health and treatment, such as educating customers, accessing, and visualizing health data and knowledge; reduce the impact of socio-economic status, gender, and ethnicity in the participation of people in their own health treatment. Overall, these new business models are expected to improve health-related behaviors; improve patient-physician communication, patient engagement, and care coordination. Proposed projects must a) focus on the development of technology that enables such novel business model(s); and b) demonstrate the expected economic benefit of the novel business model in user-centered healthcare.
+The Distributed Ledger topic area covers a wide range of technology areas of current and emerging commercial significance and impact spanning all areas of distributed ledger including blockchains, Directed Acyclic Graphs (DAGs), and related capabilities (cryptography, smart contracts, etc.). Applications of these technologies and approaches across any range of industries and commercial uses are appropriate for this topic area. It is important that the proposed project involve novel, distinctive approaches and/or disruptive innovations that enable high potential impact and competitive advantage in its field of use. These subtopic areas are meant to serve as examples of what entrepreneurs may propose in this space; all distributed ledger proposals with technical innovation and significant commercial potential are welcome, regardless of the specific area of focus of the project.  
 
-### DH2. Digital Health Information Infrastructure
-Proposed projects may include technologies that will enable: interoperable, distributed, federated, and scalable digital infrastructure; languages and tools for effective sharing and use of electronic health record data, data representation for such including semantic metadata, and networked applications that access such data; continuously extensible universal exchange language for current and future health and wellness data originating from diverse sources in multiple formats; data methods for controlling and maintaining data integrity, provenance, security, privacy, and reliability of original as well as aggregated data, providing trustworthy patient identification and authentication and access control protocols, and maintaining sensitivity to the legal, cultural, and ethical issues associated with universally accessible digital health data in the United States; or systems methods for measuring and optimizing operations to improve quality and productivity of healthcare delivery systems. New medical cyber-physical systems that reduce disparities in the access to high-quality and cost-efficient healthcare are encouraged.
+### DL1: Autonomous Systems and Economies
 
-### DH3. From Data to Decisions
-Proposed projects may include methods and algorithms that: aggregate multi-scale clinical, biomedical, contextual, and environmental data about each patient (e.g., in electronic health records - EHRs, personal health records - PHR, etc.); enable unified and extensible metadata standards; serve as decision support tools to facilitate optimized patient-centered, evidence-based decisions; evaluate the safety, effectiveness, efficiency, and clinical outcomes of mobile health applications; integrate patient information with delivery systems performance and economic models to support operations management decisions; support inferences based on individual or population health data, multiple sources of potentially conflicting information, while complying with applicable policies and preferences; enable the secondary use of health data to support the assisted and automated discovery of reliable knowledge from aggregated population health records and the predictive modeling and simulation of health and disease.
+### DL2: Blockchain, DAGs, and Next Gen Protocols 
 
-### DH4. Interoperability of Health Record Systems, Medical Sensors, Devices and Robotics
-Proposed projects may include protocols and interface standards to enable interoperable, temporally synchronized, medical prosthetic and embedded devices and devices for the continuous capture, storage, and transmission of physiological state and environmental data; assistive technology systems and devices for improved health and healthcare that incorporate sensory inputs and computational intelligence ranging from internal and external sensors, wearable prosthetics, and cognitive orthotics to surgical-assist robots and social robots; sensors, analysis tools, and activators needed to assess and limit adverse environmental effects on health and wellbeing; simulation and modeling methods and software tools that aid in the design and evaluation of sophisticated medical devices and how they communicate to medical information systems in the clinic, home, and in and around the person.
+### DL3: Convergence with Big Data, and AI
 
-### DH5. Empowering Individuals and Communities
-This subtopic aims to support health communications and informatics innovations that focus on reducing disparities and increasing patient literacy and adherence in the healthcare continuum from prevention, screening and diagnosis to treatment and survivorship. Proposed projects must, without exception, be informed by socio-economic and behavioral principles underlying current disparities in patient participation in healthcare and wellness. Specifically, proposed projects must employ the theories, methods, and analytic techniques of the social, behavioral, economic, and learning sciences in order to commercialize products and services that address the barriers that hinder, and the factors that enhance, our ability to broaden access of individuals and communities to healthcare in the United States.
+### DL4: Convergence with IoT, Crowdsourcing and Crowdsensing
 
-This subtopic strongly encourages multidisciplinary projects that will develop new quantitative and predictive approaches to empowering patients to participate in their own health and treatment such as custom-educating, accessing and visualizing health data and knowledge; assisting people to participate in their own health treatment by limiting the impact of socio-economic status, gender, ethnicity or education. Successful projects will develop technology solutions to challenges in the management of underserved public health conditions; organizational and service system deficiencies encountered by community healthcare providers; lack of effectiveness in rehabilitation strategies and programs for socio-culturally diverse individuals who have widely varying goals, material and social resources and clinical needs. Non-limiting examples of applications are: chronic disease, mental disease, cognitive and behavioral intervention drawing on a lineage of psychological therapy, domestic violence, substance abuse, or community reintegration for people with psychiatric disabilities. Finally, this subtopic strongly encourages projects that develop novel culture-sensitive, user-tailored and context-aware human-computer interfaces for a variety of tasks including patient, family and caregiver access to electronic health records (EHRs) and personal health records (PHRs).
+### DL5: Cryptography and Security 
 
-### Medical Devices
-The Medical Devices subtopic aims to support the early stage development of novel products, processes, or services that will enable the delivery of high-quality, economically-efficient healthcare in the U.S. as well as globally. The MD subtopic is not aimed at supporting or conducting clinical trials, clinical efficacy or safety studies, the development of pre-clinical or clinical-stage drug candidates or medical devices, or work performed primarily for regulatory purposes.  Limited studies with human subjects may be acceptable to the extent that they are performed in support of feasibility, proof-of-concept studies of early-stage technologies. Proposals that request support for clinical studies will be deemed non-compliant with the SBIR/STTR solicitations and may be returned without review.
+### DL6: Decentralized Applications (dApps); Smart Contracts
 
-### MD1. Medical Devices
-Proposed project should focus on using engineering approaches to develop transformative methods and technologies that will solve problems in medicine. Proposed projects may include devices and systems that provide new strategies for the prevention, monitoring, and treatment of health conditions (such as sensors, actuators, implantable and bioelectronic devices for therapeutic monitoring, theranostics, or electroceuticals); advance end-of-life or palliative care; reduce drug counterfeiting; and enable new and more efficient risk-management methods to better address safety issues of drugs and medical devices; motion or structural biomechanical technologies for the improvement of human motion, and sensors, actuators, and intelligent systems for surgical robotics. Proposers are encouraged to form an interdisciplinary team that includes relevant engineering as well as biology/health-related expertise.
+### DL7: Distributed Consensus; Fault Tolerance Mechanisms
 
+### DL8:  Distributed Ledger in Edge and Cloud Computing
+
+### DL9: Distributed Ledger Interoperability
+
+### DL10:  Distributed Ledger in Network Architecture and Management
+
+### DL11: Financial Technologies
+
+### DL12: Human-to-Technology Interface
+
+### DL13: Scalability Solutions 
+
+### DL14: Trusted Identity; Identity Management
+
+### DL15:  Other Distributed Ledger Technologies

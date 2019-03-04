@@ -3,39 +3,30 @@ title: Apply
 permalink: /apply/
 layout: secondary-narrow
 timeline:
-  - title: anytime before<br> the deadline 
+  - title: anytime
     steps:
       - step-1
       - step-2
       - step-3
+  - title: prior to the end of <br>the submission window
+    steps:
       - step-4
-  - title: 90 days before<br> the deadline
-    description: Call for proposals (solicitation) released {{ site.solicitation_released }}.
-    inactive_description: Call for proposals (solicitation) released.
+  - title: upon invitation
     steps:
       - step-5
-  - title: 60 days before<br> the deadline
-    steps:
       - step-6
       - step-7
-  - title: "Deadline"
-    description: "Applications due by 5:00 p.m. in your local time zone."
-    inactive_description: "Applications due by 5:00 p.m. in your local time zone."
-    note: "Note: Applications due by 5:00 p.m. in your local time zone. Your time zone is based on your company's address as you listed it in your application."
-    inactive_note: "Note: Your time zone is based on your company's address as you listed it in your application."
-    deadline: true
-  - title: 1-3 months after<br> the deadline
-    description: Applications undergo panel and merit reviews.
+  - title: <span style="color:red">Submission window will close on June 13</span>
+  - title: Another submission window will open on June 14
+  - title: 1-3 months after<br> the window closes
+    description: Applications undergo merit reviews.
     inactive_description: Applications undergo panel and merit reviews.
-    inactive_note:
-  - title: 4-6 months after<br> the deadline
+  - title: 4-6 months after<br> the window closes
     description: We'll notify you whether your proposal is accepted or declined.
     inactive_description: We'll notify you whether your proposal is accepted or declined.
-    inactive_note:
-  - title: 5-6 months after<br> the deadline
+  - title: 5-6 months after<br> the window closes
     description: If your proposal is accepted, you'll receive funding of up to $225,000.
     inactive_description: If your proposal is accepted, you'll receive funding of up to $225,000.
-    inactive_note:
 ---
 <head>
 <script type="text/javascript">
@@ -48,7 +39,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <h1 class="page-title">How to apply</h1>
 
 <p class="text-medium">
-Learn about our recommended Phase I application timeline, how to prepare your proposal, and what to expect once you submit.
+Learn about our Phase I application timeline, how to prepare your Project Pitch, and what to expect once you submit your Project Pitch or full proposal.
 {% if site.app_process == "inactive" %}
 Details for the next {{ site.deadline }} deadline will be posted in {{ site.solicitation_released }} in the upcoming solicitations.
 {% endif %}
@@ -76,7 +67,7 @@ Details for the next {{ site.deadline }} deadline will be posted in {{ site.soli
     <ol class="usa-accordion">
       {% for step in milestone.steps %}
       {% assign timeline_item_ = site.timeline | where:"slug", step %}
-      <li value="{{ step_counter }}" class="step {{ step }} {% if site.app_process == "inactive" and timeline_item_[0].becomes_inactive == true %} step-inactive {% endif %}">
+      <li value="{{ step_counter }}" class="step {{ step }} {% if timeline_item_[0].becomes_inactive == true %} step-inactive {% endif %}" >
         {% include components/accordion-item.html slug=step %}
       </li>
       {% assign step_counter = step_counter | plus: 1 %}

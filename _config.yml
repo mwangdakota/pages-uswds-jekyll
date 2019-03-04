@@ -4,13 +4,13 @@ theme: uswds-jekyll
 url: https://seedfund.nsf.gov
 baseurl: ""
 permalink: pretty
-deadline: June 2019
+deadline: June 13
 past_deadline: December 2018
 solicitation_released: March 2019
 
 
-# app_process: active
-app_process: inactive
+app_process: active
+# app_process: inactive
 
 styles:
   - /assets/css/styles.css
