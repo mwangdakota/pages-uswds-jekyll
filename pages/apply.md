@@ -19,7 +19,7 @@ timeline:
   - title: <span style="color:red">Submission window will close on June 13</span>
   - title: Another submission window will open on June 14
   - title: 1-3 months after<br> the window closes
-    description: Applications undergo panel and merit reviews.
+    description: Applications undergo merit reviews.
     inactive_description: Applications undergo panel and merit reviews.
   - title: 4-6 months after<br> the window closes
     description: We'll notify you whether your proposal is accepted or declined.
