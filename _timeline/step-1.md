@@ -2,9 +2,9 @@
 title: See what we fund
 ---
 
-### Criteria
+### What we look for
 
-Here are the criteria we use to determine which companies to fund:
+Here’s what we look for when determining which companies to fund:
 
 - **Game-changing:** Your innovation could make a difference to people worldwide or revolutionize an industry.
 - **High-risk:** Your product is based on unproven technology that needs further testing (and funding for that testing).
