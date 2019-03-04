@@ -18,7 +18,7 @@ The goal of the small business’s project should be to determine the scientific
 
 * A systematic application of knowledge toward the production of useful materials, devices, and systems or methods, including design, development, and improvement of prototypes and new processes to meet specific requirements.
 
-Find out if your company’s technology innovation is a good fit for America’s Seed Fund powered by NSF by submitting your company’s [Project Pitch]({{ site.baseurl }}/project-pitch/). Read our Apply page for more information.
+Find out if your company’s technology innovation is a good fit for America’s Seed Fund powered by NSF by submitting your company’s [Project Pitch]({{ site.baseurl }}/project-pitch/). [Read our Apply page for more information]({{ site.baseurl }}/apply/).
 
 
 </div>
