@@ -8,7 +8,7 @@ timeline:
       - step-1
       - step-2
       - step-3
-  - title: at least 45 days<br> (six weeks) prior<br> to the end of the<br> submission window
+  - title: prior to the end of <br>the submission window
     steps:
       - step-4
   - title: upon invitation
