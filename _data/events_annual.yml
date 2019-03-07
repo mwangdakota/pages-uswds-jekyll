@@ -31,9 +31,6 @@
   events:
     - eventname: ACA Summit
       href: https://www.angelcapitalassociation.org/2018-summit/
-    - eventname: SBIR Road Tour
-      href: http://www.sbirroadtour.com/
-      desc: NSF program directors join other funding agencies on a bus tour to speak about funding opportunities.
     - eventname: MIT Energy Conference
       href: https://www.mitenergyconference.org/
 - month: May
