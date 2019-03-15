@@ -19,7 +19,7 @@ Read the [Peer Review Guidelines](https://seedfund.nsf.gov/resources/review/peer
 {% if site.app_process == "active" %}
 ## Q&A webinars
 
-Thinking of applying for Phase I funding? Ask all your application-related questions during our [Q&A webinars](https://seedfund.nsf.gov/events/). Can’t make it to a webinar? Check out our videos covering [program basics](https://youtu.be/oJSYhyJ06Wk) and [tips and tricks for submitting a proposal](https://youtu.be/sogjxLBLhzk). (We offer a [PDF version of program basics]({{site.baseurl}}/assets/files/press/overview2018.pdf), too.)
+Thinking of applying for Phase I funding? Ask all your application-related questions during our [Q&A webinars](https://seedfund.nsf.gov/events/). Can’t make it to a webinar? Watch a [recorded webinar](https://youtu.be/xZO8o1mDiO0) about the Project Pitch Pilot. (We offer a [PDF version of program basics]({{site.baseurl}}/assets/files/press/overview2019.pdf), too.)
 
 {% else %}
 ## Q&A videos
