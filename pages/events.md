@@ -12,7 +12,7 @@ layout: secondary
 
 ## Upcoming
 
-We regularly host webinars for startups and small businesses to learn about the application process and what we look for when we review proposals. 
+We regularly host webinars for startups and small businesses to learn about the application process and what we look for when we review proposals. Can’t make it to a webinar? Watch a [recorded webinar](https://youtu.be/xZO8o1mDiO0) about the Project Pitch Pilot.
 
 <!-- {% include events-table.html %} -->
 
