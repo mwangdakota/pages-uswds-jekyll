@@ -7713,5 +7713,164 @@
   expDate: 03/31/2015
   title: 'SBIR Phase II:  A Robust Caller-ID Alternative for Securing Telephony Based
     Transactions'
+- abstractText: |-
+    This Small Business Innovation Research (SBIR) Phase II project will develop and produce a robust, hand-held, video-rate three-dimensional surface metrology system with vertical and lateral resolution of several micrometers, in order to bridge a critical existing metrology gap for precision-machined surfaces.  Many modern manufactured parts, such as turbine blades, drive shafts, orthopedics, and various additive manufactured components require in-situ metrology with high resolution for accurate characterization during manufacturing and/or maintenance operations.  Current high-resolution surface measurement systems are slow, vibration-sensitive and laboratory-based and thus are impractical for everyday use by manufacturing technicians.  Meanwhile, shop-floor inspection is often only visual, and thus qualitative rather than quantitative, leading both to rejections of acceptable components as well as potential acceptance of failing ones.  The absence of high-precision, in-situ metrology has hindered manufacturers from applying real-time data analysis and closed-loop process controls that can improve yields and reduce manufacturing costs.  This research program will yield a hand-held, easy-to-use, robust, and quantitative shop-floor measurement system, allowing manufacturers to improve lifetimes, performance, and yield as they rapidly assess the features under test and feed the results back to improve process control.
+    During Phase I, a breadboard system was designed and implemented using a polarization-based fringe projection method and micropolarizer phase-mask technology to achieve vibration insensitive measurement in a compact package.  This Phase II program leverages that research to design a video-rate, compact, robust and portable system for handheld surface measurements in shop-floor environments. This will first involve improvements to measurement resolution with an improved optical design and new self-calibrating measurement modes; new optical elements will lower noise artifacts caused by imperfections in the earlier design and to reduce system size.  Once performance of the new design is verified, an ergonomic, compact, robust, wireless housing for the instrument must be created to enable shop-floor use; the system must handle drops of over one meter onto concrete, have useful battery life for extended field operations, be light enough to not fatigue users and have intuitive controls and feedback.  A final, critically important development effort will create automated software routines for measurement, analysis, and system diagnostics to enable adoption by unskilled personnel in manufacturing environments.  Lastly, extensive applications testing in the field will allow optimization of the system to handle a wide range of potential use cases and environments.
+  awardeeAddress: 3280 E Hemisphere Loop, Ste 146
+  awardeeCity: Tucson
+  awardeeCountryCode: US
+  awardeeName: 4 D Technology Corporation
+  awardeeStateCode: AZ
+  awardeeZipCode: '857065024'
+  fundsObligatedAmt: '1348048'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1556049'
+  piEmail: erik.novak@4dtechnology.com
+  piFirstName: Erik
+  piLastName: Novak
+  piPhone: '5202945600'
+  poName: Ben Schrag
+  date: 02/17/2016
+  startDate: 03/01/2016
+  expDate: 08/31/2020
+  title: 'SBIR Phase II:  High-Resolution Shop Floor Video-Rate Surface Metrology
+    System'
+- abstractText: |-
+    This SBIR Phase I project addresses the lack of materials available for advanced 3D printing. 3D printing is and will likely be used to produce products that encompass every aspect of day-to-day life. Current technology is primarily focused on the aerospace and medical fields. New metallic materials and more efficient processing methods are needed to transition to other more ubiquitous markets. This project is aimed at broadening the materials selection through a new production technique that complements existing technologies. The growth of the 3D printing industry will bring very competitive manufacturing jobs back to The United States.
+    This project will investigate the feasibility of an innovative reactive additive manufacturing (RAM) process to create a range of materials including nickel metal matrix composites, tungsten carbide composites, and nickel titanium intermetallic compounds. Each material system will be designed, fabricated, and characterized for a range of properties including microstructure, product phases, density, porosity, and hardness. For each of the three materials systems, the iterative development process will include modification of composition and process parameters to determine their effect on the material microstructure and properties and determine the feasibility of the RAM process to produce each material type commercially. The expected outcome of this activity is that the RAM process will be proven feasible for one or more of the investigated materials systems. The results of this work will be developed further and will subsequently lead to commercialization and sales of the novel materials mixtures and RAM process parameters for use in commercial powder bed fusion additive manufacturing systems already in use.
+  awardeeAddress: 405 Young Ct
+  awardeeCity: Erie
+  awardeeCountryCode: US
+  awardeeName: Elementum 3D
+  awardeeStateCode: CO
+  awardeeZipCode: '805162401'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1647373'
+  piEmail: jacob@elementum3d.com
+  piFirstName: Jacob
+  piLastName: Nuechterlein
+  piMiddeInitial: S
+  piPhone: '7205459013'
+  poName: Rajesh Mehta
+  date: 11/30/2016
+  startDate: 12/01/2016
+  expDate: 05/31/2017
+  title: 'SBIR Phase I:  Reactive Additive Manufacturing'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase II project is to develop visual search for product recognition
+    in the furniture and home décor vertical.  Text-based searches have revolutionized
+    the ability of people to complete tasks more quickly and efficiently as they are
+    able to find the information they desire in an organized, compiled, and logical
+    manner. Visual search provides the next level of disruption in search capabilities
+    by allowing users to find information even more rapidly and accurately by using
+    images. The deep learning-based software being developed will allow consumers
+    to find products they are interested in, and co-purchase related products, quickly.
+    Further, users will be more engaged through exposure to designer photographs of
+    products (inspirational photography). By helping customers find exactly what they
+    are looking for in a timely manner, user engagement and productivity will be increased.
+    Further, related style-based recommendations will increase purchasing overall.
+    \ Increased spending stimulates economic growth by increasing taxable revenue
+    by retailers, and through increased sales taxes generated from the purchases.
+    \n\nThis Small Business Innovative Research Phase II project seeks to develop
+    a visual search engine that is poised to disrupt retail and ecommerce by switching
+    the focus from text-based to visual search-based exploration. The platform initially
+    targets interior décor and furniture where deep learning techniques are trained
+    to recognize products across a wide range of conditions. In Phase II, the software
+    deep learning architectures will be generalized to enable a broader range of products,
+    and to allow customers more control over design decisions and choices. A client-facing
+    REST API will allow retailers, designers, and media companies to programmatically
+    access functionality of the platform, and build their own user interfaces and
+    apps on top of the deep learning technology. Lastly, it is proposed to develop
+    a white-label app that can be customized for individual retailers who want to
+    distribute this visual search capability to their customers.  Achieving these
+    objectives will create state-of-the-art performance in visual search for applications
+    in interior design, apparel search, real estate search, and product look-up."
+  awardeeAddress: 450 Townsend St. Suite 207
+  awardeeCity: San Francisco
+  awardeeCountryCode: US
+  awardeeName: GrokStyle Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '941071510'
+  fundsObligatedAmt: '747959'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1738489'
+  piEmail: founders@grokstyle.com
+  piFirstName: Sean
+  piLastName: Bell
+  piPhone: '6072806026'
+  poName: Peter Atherton
+  date: 09/14/2017
+  startDate: 09/15/2017
+  expDate: 08/31/2019
+  title: 'SBIR Phase II:  Innovative visual search and similarity for decor, apparel,
+    and style'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project will be in the field of healthcare.  The United States spends approximately $9,000 per person per year on healthcare.  Ultrasound medical imaging is a medical imaging technology that could lower costs by providing an alternative to higher-cost imaging techniques.  The technology created during this Phase II project is expected to increase the quality, value, and accessibility of medical ultrasound, which would in turn reduce medical imaging costs in the US healthcare system.  Furthermore, the company's technology is expected to bring ultrasound to more clinical settings and improve system-wide efficiencies in the diagnosis and treatment of disease.  The technology also has commercial potential in the international market, with $5.8B spent annually on medical ultrasound devices worldwide.  Finally, by improving the utility of ultrasound, the technology will lead to improved patient care and may ultimately save lives.
+    This Small Business Innovation Research (SBIR) Phase II project will develop deep learning technology for ultrasound imaging in medicine.  Ultrasound imaging has numerous benefits including real-time image acquisition, non-invasive scanning, low-cost devices, and no known side-effects (it is non-ionizing).  However, variability in quality has encumbered its adoption and utility.  As a result, more expensive imaging is typically utilized, often exposing patients to ionizing radiation.  Our objective is to develop, improve, and test machine learning techniques, based on deep learning, to improve ultrasound acquisition and interpretation.  We expect this project will create novel technologies that make ultrasound easier to use and improve the quality of ultrasound examinations.  The end result will improve the quality, value, and accessibility of medical ultrasound examinations, will result in cost savings to the healthcare system, will produce improvements in patient care, and will support a sustainable business opportunity.
+  awardeeAddress: 1479 Folsom Street
+  awardeeCity: San Francisco
+  awardeeCountryCode: US
+  awardeeName: Bay Labs, Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '941033734'
+  fundsObligatedAmt: '1376062'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1556103'
+  piEmail: mgmt@baylabs.io
+  piFirstName: Charles
+  piLastName: Cadieu
+  piMiddeInitial: F
+  piPhone: '5162200119'
+  poName: Peter Atherton
+  date: 04/13/2016
+  startDate: 04/15/2016
+  expDate: 03/31/2020
+  title: 'SBIR Phase II:  Guided Positioning System for Ultrasound'
+- abstractText: "The broader impact/commercial potential of this STTR Phase II project
+    will result in significant economic activity through the utilization of waste
+    carbon dioxide. The photo-catalytic reactors funded in the project will lead to
+    novel methods to chemically store energy from the sun.  Each year, human activity
+    releases 38 billion tons of carbon dioxide into the atmosphere.  Dimensional Energy
+    envisions a future in which we can utilize this carbon dioxide as a feedstock
+    for industrial production of hydrocarbon fuels and chemical intermediaries by
+    harnessing the power of the sun. \n\nThis STTR Phase II project proposes to develop
+    HI-Light - a photo-thermo-catalytic reactor platform technology that enables the
+    conversion of CO2 and water to synthesis gas at a rate significantly greater than
+    the state of the art.  The unique feature of the technology is that it uses embedded
+    optical waveguides to evenly distribute light within the reactor, increasing the
+    efficacy of the catalyst and ultimately the productivity of the system.  In Phase
+    I a fully functional integrated prototype reactor was constructed, demonstrating
+    continuous operation, and showing productivity in terms of the grams of hydrocarbon
+    produced per gram of catalyst per hour more than 10x greater than the state of
+    the art.  The approach solves the two major roadblocks in photo-conversion of
+    CO2: (1) the semiconductor catalysts can only use photons with energies greater
+    than their bandgap, which is a small fraction of those present in sunlight and
+    (2) a large fraction of the catalyst material in these reactors is under-utilized
+    due to sub-optimal light and reactant delivery.  Our unique reactor uses a patented,
+    multi-scale approach to enhance light and reagent transport directly to the reaction
+    site and makes use of traditionally unused photons to provide heat and enhance
+    reaction efficiency.\n\nThis award reflects NSF's statutory mission and has been
+    deemed worthy of support through evaluation using the Foundation's intellectual
+    merit and broader impacts review criteria."
+  awardeeAddress: 107 Penny Ln
+  awardeeCity: Ithaca
+  awardeeCountryCode: US
+  awardeeName: Dimensional Energy Inc.
+  awardeeStateCode: NY
+  awardeeZipCode: '148506273'
+  fundsObligatedAmt: '734607'
+  fundProgramName: STTR PHASE II
+  id: '1831166'
+  piEmail: jason@dimensionalenergy.net
+  piFirstName: Jason
+  piLastName: Salfi
+  piPhone: '5107083648'
+  poName: Anna Brady
+  date: 09/07/2018
+  startDate: 09/15/2018
+  expDate: 08/31/2020
+  title: 'STTR Phase II: HI-LIGHT - Solar Thermal Chemical Reactor Technology for
+    Converting CO2 to Hydrocarbons'
 ---
 
