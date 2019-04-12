@@ -42,7 +42,7 @@
   piFirstName: Matthew
   piLastName: Petros
   piPhone: '8188352354'
-  poName: lmolnar
+  poName: Linda Molnar
   date: 03/05/2018
   startDate: 03/01/2018
   expDate: 02/29/2020
@@ -89,7 +89,7 @@
   piFirstName: Arturo
   piLastName: Villegas Vaquero
   piPhone: '7324764599'
-  poName: lmolnar
+  poName: Linda Molnar
   date: 03/24/2017
   startDate: 03/15/2017
   expDate: 08/31/2019
@@ -137,7 +137,7 @@
   piLastName: Boyd
   piMiddeInitial: P
   piPhone: '3342249495'
-  poName: lmolnar
+  poName: Linda Molnar
   date: 09/11/2016
   startDate: 09/15/2016
   expDate: 02/28/2021
@@ -206,7 +206,7 @@
   piFirstName: Aaron
   piLastName: Palumbo
   piPhone: '9706923384'
-  poName: lmolnar
+  poName: Linda Molnar
   date: 09/19/2017
   startDate: 09/15/2017
   expDate: 11/30/2019
@@ -358,7 +358,7 @@
   piLastName: Esponnette
   piMiddeInitial: F
   piPhone: '2075778745'
-  poName: lmolnar
+  poName: Linda Molnar
   date: 09/14/2018
   startDate: 09/15/2018
   expDate: 08/31/2020
@@ -426,7 +426,7 @@
   poName: Benaiah Schrag
   date: 03/28/2017
   startDate: 04/01/2017
-  expDate: 03/31/2019
+  expDate: 09/30/2019
   title: 'SBIR Phase II:  Anti-fouling surface modifications for purification membranes'
 - abstractText: "This Small Business Innovation Research (SBIR) Phase I project will
     test the efficacy of high-volume scaled microorganisms with the ability to induce
@@ -581,7 +581,7 @@
   poName: Benaiah Schrag
   date: 09/21/2016
   startDate: 10/01/2016
-  expDate: 03/31/2019
+  expDate: 06/30/2019
   title: 'SBIR Phase II:  Development of Advanced Composite Materials for Athletic
     Equipment'
 - abstractText: "This Small Business Innovation Research (SBIR) Phase II project will
@@ -720,6 +720,126 @@
   expDate: 01/31/2019
   title: 'SBIR Phase II:  Development of High Speed Process Technology for the Manufacturing
     of Cost Effective Polymer Rebar'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase I project is considerable because a variety of complementary
+    new technologies is ushering in a new era in which visual messages are becoming
+    a first-class media type along-side text and speech.  Today, both amateur and
+    professional videographers still have to enter the virtual darkroom to sift through
+    video, edit it, and produce engaging content.  Video creation is waiting for its
+    Polaroid moment, when a technological solution will transform the post-production
+    time required to create engaging video.  If successful, the technology developed
+    in this project will greatly increase the utility of any video capture device
+    and would have implications outside of Internet media in areas such as life recording
+    and knowledge transfer. The countless video clips of important or memorable events
+    that are today commonly archived and forgotten could instead be automatically
+    summarized and made available in a usable and engaging format. \n\nThis Small
+    Business Innovation Research (SBIR) Phase I project aims to evaluate the technical
+    viability of an automatic video summarization system based on neural networks
+    and adapted to measurements of human psychology.  As people collectively record
+    more videos than they can possibly consume (the video deluge problem), a technology
+    that automatically turns raw videos into relevant and engaging summaries becomes
+    increasingly critical.  The company's proposed platform would streamline video
+    sharing, search, and viewing, all of which are staples of our online lives.  Scientifically
+    we are at a unique time in the capabilities of artificial visual systems, with
+    some systems rivaling human performance in limited domains.  Furthermore, the
+    field of visual psychology has also seen recent progress in relating visual semantic
+    information to cognitive phenomena, like memorability of images.  Taken together,
+    it may now be possible to automatically predict the cognitive relevance of visual
+    information and produce effective video summarizations.  This project combines
+    deep neural networks for visual object recognition, recurrent networks for contextually
+    embedded temporal information, and user measurement of interest, memorability,
+    and uniqueness.  The primary technical objective is to determine whether a system
+    can automatically predict human-produced video summarizations."
+  awardeeAddress: 1479 Folsom Street
+  awardeeCity: San Francisco
+  awardeeCountryCode: US
+  awardeeName: Bay Labs, Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '941033734'
+  fundsObligatedAmt: '148754'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1416612'
+  piEmail: mgmt@baylabs.io
+  piFirstName: Charles
+  piLastName: Cadieu
+  piMiddeInitial: F
+  piPhone: '5162200119'
+  poName: Peter Atherton
+  date: 05/12/2014
+  startDate: 07/01/2014
+  expDate: 06/30/2015
+  title: 'SBIR Phase I:  Semantic Video Analysis for Video Summarization and Recommendation'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project will be in the field of healthcare.  The United States spends approximately $9,000 per person per year on healthcare.  Ultrasound medical imaging is a medical imaging technology that could lower costs by providing an alternative to higher-cost imaging techniques.  The technology created during this Phase II project is expected to increase the quality, value, and accessibility of medical ultrasound, which would in turn reduce medical imaging costs in the US healthcare system.  Furthermore, the company's technology is expected to bring ultrasound to more clinical settings and improve system-wide efficiencies in the diagnosis and treatment of disease.  The technology also has commercial potential in the international market, with $5.8B spent annually on medical ultrasound devices worldwide.  Finally, by improving the utility of ultrasound, the technology will lead to improved patient care and may ultimately save lives.
+
+    This Small Business Innovation Research (SBIR) Phase II project will develop deep learning technology for ultrasound imaging in medicine.  Ultrasound imaging has numerous benefits including real-time image acquisition, non-invasive scanning, low-cost devices, and no known side-effects (it is non-ionizing).  However, variability in quality has encumbered its adoption and utility.  As a result, more expensive imaging is typically utilized, often exposing patients to ionizing radiation.  Our objective is to develop, improve, and test machine learning techniques, based on deep learning, to improve ultrasound acquisition and interpretation.  We expect this project will create novel technologies that make ultrasound easier to use and improve the quality of ultrasound examinations.  The end result will improve the quality, value, and accessibility of medical ultrasound examinations, will result in cost savings to the healthcare system, will produce improvements in patient care, and will support a sustainable business opportunity.
+  awardeeAddress: 1479 Folsom Street
+  awardeeCity: San Francisco
+  awardeeCountryCode: US
+  awardeeName: Bay Labs, Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '941033734'
+  fundsObligatedAmt: '1376062'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1556103'
+  piEmail: mgmt@baylabs.io
+  piFirstName: Charles
+  piLastName: Cadieu
+  piMiddeInitial: F
+  piPhone: '5162200119'
+  poName: Peter Atherton
+  date: 04/13/2016
+  startDate: 04/15/2016
+  expDate: 03/31/2020
+  title: 'SBIR Phase II:  Guided Positioning System for Ultrasound'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase II project is to develop visual search for product recognition
+    in the furniture and home décor vertical.  Text-based searches have revolutionized
+    the ability of people to complete tasks more quickly and efficiently as they are
+    able to find the information they desire in an organized, compiled, and logical
+    manner. Visual search provides the next level of disruption in search capabilities
+    by allowing users to find information even more rapidly and accurately by using
+    images. The deep learning-based software being developed will allow consumers
+    to find products they are interested in, and co-purchase related products, quickly.
+    Further, users will be more engaged through exposure to designer photographs of
+    products (inspirational photography). By helping customers find exactly what they
+    are looking for in a timely manner, user engagement and productivity will be increased.
+    Further, related style-based recommendations will increase purchasing overall.
+    \ Increased spending stimulates economic growth by increasing taxable revenue
+    by retailers, and through increased sales taxes generated from the purchases.
+    \n\nThis Small Business Innovative Research Phase II project seeks to develop
+    a visual search engine that is poised to disrupt retail and ecommerce by switching
+    the focus from text-based to visual search-based exploration. The platform initially
+    targets interior décor and furniture where deep learning techniques are trained
+    to recognize products across a wide range of conditions. In Phase II, the software
+    deep learning architectures will be generalized to enable a broader range of products,
+    and to allow customers more control over design decisions and choices. A client-facing
+    REST API will allow retailers, designers, and media companies to programmatically
+    access functionality of the platform, and build their own user interfaces and
+    apps on top of the deep learning technology. Lastly, it is proposed to develop
+    a white-label app that can be customized for individual retailers who want to
+    distribute this visual search capability to their customers.  Achieving these
+    objectives will create state-of-the-art performance in visual search for applications
+    in interior design, apparel search, real estate search, and product look-up."
+  awardeeAddress: 450 Townsend St. Suite 207
+  awardeeCity: San Francisco
+  awardeeCountryCode: US
+  awardeeName: GrokStyle Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '941071510'
+  fundsObligatedAmt: '747959'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1738489'
+  piEmail: founders@grokstyle.com
+  piFirstName: Sean
+  piLastName: Bell
+  piPhone: '6072806026'
+  poName: Peter Atherton
+  date: 09/14/2017
+  startDate: 09/15/2017
+  expDate: 08/31/2019
+  title: 'SBIR Phase II:  Innovative visual search and similarity for decor, apparel,
+    and style'
 - abstractText: |-
     This Small Business Innovation Research (SBIR) Phase I project proposes to develop a metabolic engineering and synthetic biology toolkit for a scalable, industrial yeast host. Currently, the vast majority of synthetic biology tools are directed toward engineering E. coli or S. cerevisiae, model laboratory organisms that are often poorly suited for industrial fermentations. Furthermore, there is an absence of available synthetic biology tools for those hosts that are well suited for industrial fermentations. This research addresses this problem through the development of a foundational set of synthetic biology tools in an industrially tractable, but under researched yeast strain. The research objectives include construction and characterization of a series of expression vectors that facilitate transfer of genetic material into host cells, construction of a genetic library designed to perturb host metabolism and redirect carbon flux toward production of target small-molecules, and demonstration of an approach to reduce expression of competing metabolic pathways. Proof-of-principle application of the tools will be used to demonstrate improvements in malonic acid biosynthesis in engineered yeast.
 
@@ -1573,7 +1693,7 @@
   awardeeName: APPLIED LIFESCIENCES & SYSTEMS POULTRY, INC.
   awardeeStateCode: NC
   awardeeZipCode: '276073009'
-  fundsObligatedAmt: '750000'
+  fundsObligatedAmt: '760000'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1758659'
   piEmail: ramin.karimpour@als-s.com
@@ -1765,7 +1885,7 @@
   piFirstName: Lucinda
   piLastName: Camras
   piPhone: '4023121595'
-  poName: Nancy Kamei
+  poName: Ruth Shuman
   date: 02/17/2016
   startDate: 03/01/2016
   expDate: 11/30/2019
@@ -1901,8 +2021,7 @@
   piEmail: mara.macdonald@cytovale.com
   piFirstName: Mara
   piLastName: Macdonald
-  piPhone: '5628816919'
-  poName: lmolnar
+  poName: Linda Molnar
   date: 11/26/2014
   startDate: 12/01/2014
   expDate: 11/30/2018
@@ -1979,7 +2098,7 @@
   piFirstName: Matthew
   piLastName: Callaghan
   piPhone: '9172071344'
-  poName: Nancy Kamei
+  poName: Ruth Shuman
   date: 11/25/2014
   startDate: 12/01/2014
   expDate: 03/31/2019
@@ -2053,7 +2172,7 @@
   poName: Henry Ahn
   date: 09/07/2016
   startDate: 09/15/2016
-  expDate: 02/28/2019
+  expDate: 04/30/2019
   title: 'SBIR Phase II:  Novel Treatment for Stress Urinary Incontinence'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research (SBIR) Phase I project will be to increase global access to vaccines
@@ -2149,7 +2268,7 @@
   piFirstName: Kathryn
   piLastName: Kosuda
   piPhone: '8579280327'
-  poName: lmolnar
+  poName: Linda Molnar
   date: 09/20/2016
   startDate: 10/01/2016
   expDate: 03/31/2021
@@ -2224,7 +2343,7 @@
   piLastName: Wagner
   piMiddeInitial: L
   piPhone: '7742800525'
-  poName: Nancy Kamei
+  poName: Ruth Shuman
   date: 08/29/2016
   startDate: 09/01/2016
   expDate: 12/31/2019
@@ -2326,7 +2445,7 @@
   piLastName: Gunn
   piMiddeInitial: W
   piPhone: '2063840311'
-  poName: lmolnar
+  poName: Linda Molnar
   date: 05/19/2017
   startDate: 05/15/2017
   expDate: 04/30/2021
@@ -2452,7 +2571,7 @@
   piFirstName: Kevin
   piLastName: Jarrell
   piPhone: '7819376299'
-  poName: Anna Brady
+  poName: Anna Brady-Estevez
   date: 04/15/2014
   startDate: 05/01/2014
   expDate: 09/30/2020
@@ -2572,7 +2691,7 @@
   piLastName: Lyons
   piMiddeInitial: L
   piPhone: '6105510697'
-  poName: Anna Brady
+  poName: Anna Brady-Estevez
   date: 04/03/2014
   startDate: 04/15/2014
   expDate: 06/30/2019
@@ -2643,7 +2762,7 @@
   piLastName: Corgie
   piMiddeInitial: C
   piPhone: '6073512639'
-  poName: Anna Brady
+  poName: Anna Brady-Estevez
   date: 03/02/2015
   startDate: 03/01/2015
   expDate: 08/31/2018
@@ -2667,7 +2786,7 @@
   piLastName: Rush
   piMiddeInitial: M
   piPhone: '5103905121'
-  poName: Anna Brady
+  poName: Anna Brady-Estevez
   date: 12/11/2016
   startDate: 12/15/2016
   expDate: 12/31/2017
@@ -2718,12 +2837,80 @@
   piLastName: Rush
   piMiddeInitial: M
   piPhone: '5103905121'
-  poName: Anna Brady
+  poName: Anna Brady-Estevez
   date: 09/17/2018
   startDate: 09/15/2018
   expDate: 08/31/2020
   title: 'SBIR Phase II:  Electrolytic Generation of Low-Cost, High-Density Carbon
     Nanotubes for High-Performance Lithium-Ion Batteries'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Technology Transfer (STTR) project relates to the fact that the extraction and consumption of fossil carbon accounts for over 6 billion metric tons of CO2 emissions each year.  While some mitigation approaches are fairly mature, like capturing CO2 for equestration or for enhanced oil recovery, they are very expensive in terms of both variable and capital costs and have little chance of ever providing a return on investment.  By not viewing fossil fuels and feedstocks through a circular economy lens, we estimate these companies miss an opportunity for approximately $50 billion per year in potential profit from hydrocarbons, including methanol, that could be made with waste CO2. If successful, our HI-Light reactor will enable a new economy based on the conversion of fugitive CO2 into useful hydrocarbons and solve the return on investment problem.
+
+    This STTR Phase I project proposes to develop HI-Light, a solar-thermocatalytic "reverse combustion" technology that enables the conversion of CO2 and water to methanol and other hydrocarbons at rate significantly greater than the state of the art. Previous approaches are limited by two roadblocks: (1) the semiconductor catalysts can only use photons with energies greater than their bandgap, which is a small fraction of those present in sunlight and (2) a large fraction of the catalyst material in these reactors is under-utilized due to sub-optimal light and reactant delivery.  Our unique reactor uses a patented, multiscale approach to enhance light and reagent transport directly to the reaction site and makes use of traditionally unused photons to provide heat and enhance reaction efficiency.  The unique features of our reactor are (1) optimized light delivery to ensure that all of the catalyst material has enough light to activate the reaction and (2) an advanced nano-engineered photocatalyst which is functionalized with ligands to enhance CO2 capture and conversion.  The goal of this Phase I effort is to construct an integrated prototype reactor and evaluate its productivity in terms of the grams of hydrocarbon produced per gram of catalyst per hour and demonstrate a 10x improvement over the state of the art.
+  awardeeAddress: 107 Penny Ln
+  awardeeCity: Ithaca
+  awardeeCountryCode: US
+  awardeeName: Dimensional Energy Inc.
+  awardeeStateCode: NY
+  awardeeZipCode: '148506273'
+  fundsObligatedAmt: '225000'
+  fundProgramName: STTR PHASE I
+  id: '1720824'
+  piEmail: jason@dimensionalenergy.net
+  piFirstName: Jason
+  piLastName: Salfi
+  piPhone: '5107083648'
+  poName: Anna Brady-Estevez
+  date: 06/21/2017
+  startDate: 06/15/2017
+  expDate: 06/30/2018
+  title: 'STTR Phase I:  HI-LIGHT - Solar Thermal Chemical Reactor Technology for
+    Converting CO2 to Hydrocarbons'
+- abstractText: "The broader impact/commercial potential of this STTR Phase II project
+    will result in significant economic activity through the utilization of waste
+    carbon dioxide. The photo-catalytic reactors funded in the project will lead to
+    novel methods to chemically store energy from the sun.  Each year, human activity
+    releases 38 billion tons of carbon dioxide into the atmosphere.  Dimensional Energy
+    envisions a future in which we can utilize this carbon dioxide as a feedstock
+    for industrial production of hydrocarbon fuels and chemical intermediaries by
+    harnessing the power of the sun. \n\nThis STTR Phase II project proposes to develop
+    HI-Light - a photo-thermo-catalytic reactor platform technology that enables the
+    conversion of CO2 and water to synthesis gas at a rate significantly greater than
+    the state of the art.  The unique feature of the technology is that it uses embedded
+    optical waveguides to evenly distribute light within the reactor, increasing the
+    efficacy of the catalyst and ultimately the productivity of the system.  In Phase
+    I a fully functional integrated prototype reactor was constructed, demonstrating
+    continuous operation, and showing productivity in terms of the grams of hydrocarbon
+    produced per gram of catalyst per hour more than 10x greater than the state of
+    the art.  The approach solves the two major roadblocks in photo-conversion of
+    CO2: (1) the semiconductor catalysts can only use photons with energies greater
+    than their bandgap, which is a small fraction of those present in sunlight and
+    (2) a large fraction of the catalyst material in these reactors is under-utilized
+    due to sub-optimal light and reactant delivery.  Our unique reactor uses a patented,
+    multi-scale approach to enhance light and reagent transport directly to the reaction
+    site and makes use of traditionally unused photons to provide heat and enhance
+    reaction efficiency.\n\nThis award reflects NSF's statutory mission and has been
+    deemed worthy of support through evaluation using the Foundation's intellectual
+    merit and broader impacts review criteria."
+  awardeeAddress: 107 Penny Ln
+  awardeeCity: Ithaca
+  awardeeCountryCode: US
+  awardeeName: Dimensional Energy Inc.
+  awardeeStateCode: NY
+  awardeeZipCode: '148506273'
+  fundsObligatedAmt: '734607'
+  fundProgramName: STTR PHASE II
+  id: '1831166'
+  piEmail: jason@dimensionalenergy.net
+  piFirstName: Jason
+  piLastName: Salfi
+  piPhone: '5107083648'
+  poName: Anna Brady-Estevez
+  date: 09/07/2018
+  startDate: 09/15/2018
+  expDate: 08/31/2020
+  title: 'STTR Phase II: HI-LIGHT - Solar Thermal Chemical Reactor Technology for
+    Converting CO2 to Hydrocarbons'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project includes innovations in data mining and the treatment of autism.  Applied Behavior Analysis (ABA) therapy is the gold standard in treating autism.  Applying data analytics to data from ABA therapy sessions will contribute in several important ways:  a) patterns may be discerned across individuals with autism to better understand variations in autism and create therapies to target these differences; b) patterns may be matched with other data, such as genomic data, to identify cross-patterns that may be useful in better understanding autism and ways to improve therapy; and c) the frontiers of data mining will be expanded to provide guidance in real time. This project will have the following societal impacts: 1) many more individuals with autism across the globe will receive early, quality, cost-effective treatment regimens that will enable them to live more fulfilled lives and reach their full potential; 2) families whose children are good candidates for treatment and receive it will experience reduced stress and better family life; and 3) the additional lifetime cost of not effectively treating children with autism, which is approximately ten-fold the cost of treatment, will be reduced.
 
@@ -2766,7 +2953,7 @@
   piLastName: Nosek
   piMiddeInitial: T
   piPhone: '6096059273'
-  poName: Nancy Kamei
+  poName: Ruth Shuman
   date: 08/03/2016
   startDate: 08/01/2016
   expDate: 07/31/2019
@@ -2873,7 +3060,7 @@
   piFirstName: Howard
   piLastName: Isenstein
   piPhone: '3018073780'
-  poName: Nancy Kamei
+  poName: Ruth Shuman
   date: 09/11/2015
   startDate: 09/15/2015
   expDate: 11/30/2018
@@ -2945,7 +3132,7 @@
   piLastName: Fulford-Jones
   piMiddeInitial: R
   piPhone: '6178558214'
-  poName: Nancy Kamei
+  poName: Ruth Shuman
   date: 09/13/2015
   startDate: 09/15/2015
   expDate: 02/29/2020
@@ -2971,7 +3158,7 @@
   piLastName: Fulford-Jones
   piMiddeInitial: R
   piPhone: '6178558214'
-  poName: Nancy Kamei
+  poName: Ruth Shuman
   date: 03/20/2018
   startDate: 03/01/2018
   expDate: 08/31/2020
@@ -3094,10 +3281,10 @@
   piFirstName: Sherry
   piLastName: Benton
   piPhone: '3525144094'
-  poName: Nancy Kamei
+  poName: Ruth Shuman
   date: 09/19/2016
   startDate: 10/01/2016
-  expDate: 03/31/2019
+  expDate: 06/30/2019
   title: 'SBIR Phase II:  An Intelligent Mental Health Therapy System'
 - abstractText: |-
     This SBIR Phase I project will culminate in an application which teaches beginners to compose their own music. Music is traditionally taught using physical instruments and sheet music, both of which are complex and present imposing financial and practical barriers to creativity. As a result, even though parents value music education highly and research has shown that studying music is beneficial to cognitive and emotional development, the majority of beginning music students drop out during the first year of instruction, before having a chance to express their creativity through music. By using mobile devices as modular teaching tools, the proposed solution will make composition accessible as a first step in learning music. Increasing creativity in beginning music education will decrease the dropout rate for people already studying music, and also make music education accessible for the millions of families nationwide who value music but cannot afford private lessons. By expanding a market for lessons that is already roughly $3 billion per year in the United States, this project has significant revenue and growth potential, in addition to increasing the accessibility and quality of education in the U.S. and worldwide.
@@ -3297,7 +3484,7 @@
   awardeeName: CueThink
   awardeeStateCode: MA
   awardeeZipCode: 018642636
-  fundsObligatedAmt: '1277318'
+  fundsObligatedAmt: '1287318'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1660216'
   piEmail: sheela@cuethink.com
@@ -3342,7 +3529,7 @@
   awardeeName: Alchemie Solutions, Inc.
   awardeeStateCode: MI
   awardeeZipCode: '483011328'
-  fundsObligatedAmt: '717355'
+  fundsObligatedAmt: '858827'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1659983'
   piEmail: julia@alchem.ie
@@ -3352,7 +3539,7 @@
   poName: Rajesh Mehta
   date: 03/09/2017
   startDate: 03/01/2017
-  expDate: 02/28/2019
+  expDate: 08/31/2019
   title: 'SBIR Phase II:  Game-Based Learning for Organic Chemistry Using Mechanisms'
 - abstractText: |-
     This SBIR Phase I project will improve the awareness and perception of careers that require science, technology, engineering, and math (STEM) competencies. Career influencers such as parents, educators, and counselors are often not in the position to inform students of potential options and expose unnecessary bias. If kids understood the opportunities, they could pursue academic pathways to amass skills that better prepare them to enter the workforce. STEM competencies are in high-demand and many high-skill jobs sit vacant for long periods of time. This results in lost productivity and exorbitant recruiting fees to pluck qualified candidates from existing jobs. Our nation could be more successful with access to highly skilled resources, especially in the face of the retiring baby boomer population. Career exploration and readiness focused on helping individuals select rewarding and suitable degrees, training, and careers will increase the likelihood that individuals stay in those careers, exhibit greater creativity, and decrease the number of people who invest in education they never use. As more individuals are inspired to pursue STEM, taxpayers will benefit from increased innovation which in turn will provide tax dollars to invest in such things as healthcare, national security, education, or humanitarian assistance.
@@ -3696,7 +3883,7 @@
   awardeeName: Looking Glass Ventures, LLC
   awardeeStateCode: CA
   awardeeZipCode: '943061043'
-  fundsObligatedAmt: '929999'
+  fundsObligatedAmt: '969998'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1758301'
   piEmail: shivramv@gmail.com
@@ -3753,7 +3940,7 @@
   poName: Muralidharan Nair
   date: 09/23/2013
   startDate: 10/01/2013
-  expDate: 02/28/2019
+  expDate: 08/31/2019
   title: 'SBIR Phase II:  High Efficiency, Compact Thermoelectric Generator (TEG)'
 - abstractText: "This Small Business Innovation Research(SBIR) Phase I project will
     demonstrate the feasibility of printing and integrating custom, unconventional
@@ -3937,7 +4124,7 @@
   piFirstName: Gokhan
   piLastName: Barin
   piPhone: '7735640937'
-  poName: Anna Brady
+  poName: Anna Brady-Estevez
   date: 07/10/2017
   startDate: 07/01/2017
   expDate: 12/31/2017
@@ -3962,7 +4149,7 @@
   piFirstName: Gokhan
   piLastName: Barin
   piPhone: '7735640937'
-  poName: Anna Brady
+  poName: Anna Brady-Estevez
   date: 09/04/2018
   startDate: 09/01/2018
   expDate: 08/31/2020
@@ -4025,7 +4212,7 @@
   piLastName: Later
   piMiddeInitial: W
   piPhone: '8015573557'
-  poName: Anna Brady
+  poName: Anna Brady-Estevez
   date: 03/26/2014
   startDate: 04/01/2014
   expDate: 04/30/2018
@@ -4148,7 +4335,7 @@
   piLastName: Reeds
   piMiddeInitial: P
   piPhone: '3014056957'
-  poName: Anna Brady
+  poName: Anna Brady-Estevez
   date: 09/02/2015
   startDate: 09/15/2015
   expDate: 08/31/2017
@@ -4172,7 +4359,7 @@
   piLastName: Dalton
   piMiddeInitial: R
   piPhone: '7036188866'
-  poName: Anna Brady
+  poName: Anna Brady-Estevez
   date: 07/10/2017
   startDate: 07/01/2017
   expDate: 06/30/2018
@@ -4207,7 +4394,7 @@
   piLastName: Dalton
   piMiddeInitial: R
   piPhone: '7036188866'
-  poName: Anna Brady
+  poName: Anna Brady-Estevez
   date: 09/17/2018
   startDate: 09/15/2018
   expDate: 08/31/2020
@@ -4257,7 +4444,7 @@
   poName: Peter Atherton
   date: 04/04/2018
   startDate: 04/01/2018
-  expDate: 03/31/2019
+  expDate: 06/30/2019
   title: 'SBIR Phase II:  Energy-Efficient Perception for Autonomous Road Vehicles'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be large: a successful project would transform the construction industry, making it far more efficient by reducing legal conflicts, schedule slips and poor decision making; the project has the potential to make real estate sales and marketing more efficient by allowing buyers and sellers to accurately represent properties online, reducing the need for on-site visits. The proposed work will enable the fast and easy creation of 100% complete visual documentation of a physical space; this documentation can be generated many times throughout the course of construction. In so doing, the proposed project will allow professionals in the construction industry to track progress and communicate with their teams far more efficiently than ever before. A second exciting effect of the proposal will be the creation of vast, detailed, never before seen datasets of construction projects and real estate, allowing technical innovations in artificial intelligence and computer vision to impact one of the largest industries in the nation and the world. For example, systems could be trained to automatically spot safety concerns, augmenting the efforts of safety managers and keeping workers safer than ever before.
@@ -4445,126 +4632,6 @@
   startDate: 09/15/2017
   expDate: 08/31/2020
   title: 'SBIR Phase II:  Proactive Network Configuration Analysis'
-- abstractText: "The broader impact/commercial potential of this Small Business Innovation
-    Research (SBIR) Phase II project is to develop visual search for product recognition
-    in the furniture and home décor vertical.  Text-based searches have revolutionized
-    the ability of people to complete tasks more quickly and efficiently as they are
-    able to find the information they desire in an organized, compiled, and logical
-    manner. Visual search provides the next level of disruption in search capabilities
-    by allowing users to find information even more rapidly and accurately by using
-    images. The deep learning-based software being developed will allow consumers
-    to find products they are interested in, and co-purchase related products, quickly.
-    Further, users will be more engaged through exposure to designer photographs of
-    products (inspirational photography). By helping customers find exactly what they
-    are looking for in a timely manner, user engagement and productivity will be increased.
-    Further, related style-based recommendations will increase purchasing overall.
-    \ Increased spending stimulates economic growth by increasing taxable revenue
-    by retailers, and through increased sales taxes generated from the purchases.
-    \n\nThis Small Business Innovative Research Phase II project seeks to develop
-    a visual search engine that is poised to disrupt retail and ecommerce by switching
-    the focus from text-based to visual search-based exploration. The platform initially
-    targets interior décor and furniture where deep learning techniques are trained
-    to recognize products across a wide range of conditions. In Phase II, the software
-    deep learning architectures will be generalized to enable a broader range of products,
-    and to allow customers more control over design decisions and choices. A client-facing
-    REST API will allow retailers, designers, and media companies to programmatically
-    access functionality of the platform, and build their own user interfaces and
-    apps on top of the deep learning technology. Lastly, it is proposed to develop
-    a white-label app that can be customized for individual retailers who want to
-    distribute this visual search capability to their customers.  Achieving these
-    objectives will create state-of-the-art performance in visual search for applications
-    in interior design, apparel search, real estate search, and product look-up."
-  awardeeAddress: 450 Townsend St. Suite 207
-  awardeeCity: San Francisco
-  awardeeCountryCode: US
-  awardeeName: GrokStyle Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '941071510'
-  fundsObligatedAmt: '747959'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1738489'
-  piEmail: founders@grokstyle.com
-  piFirstName: Sean
-  piLastName: Bell
-  piPhone: '6072806026'
-  poName: Peter Atherton
-  date: 09/14/2017
-  startDate: 09/15/2017
-  expDate: 08/31/2019
-  title: 'SBIR Phase II:  Innovative visual search and similarity for decor, apparel,
-    and style'
-- abstractText: "The broader impact/commercial potential of this Small Business Innovation
-    Research (SBIR) Phase I project is considerable because a variety of complementary
-    new technologies is ushering in a new era in which visual messages are becoming
-    a first-class media type along-side text and speech.  Today, both amateur and
-    professional videographers still have to enter the virtual darkroom to sift through
-    video, edit it, and produce engaging content.  Video creation is waiting for its
-    Polaroid moment, when a technological solution will transform the post-production
-    time required to create engaging video.  If successful, the technology developed
-    in this project will greatly increase the utility of any video capture device
-    and would have implications outside of Internet media in areas such as life recording
-    and knowledge transfer. The countless video clips of important or memorable events
-    that are today commonly archived and forgotten could instead be automatically
-    summarized and made available in a usable and engaging format. \n\nThis Small
-    Business Innovation Research (SBIR) Phase I project aims to evaluate the technical
-    viability of an automatic video summarization system based on neural networks
-    and adapted to measurements of human psychology.  As people collectively record
-    more videos than they can possibly consume (the video deluge problem), a technology
-    that automatically turns raw videos into relevant and engaging summaries becomes
-    increasingly critical.  The company's proposed platform would streamline video
-    sharing, search, and viewing, all of which are staples of our online lives.  Scientifically
-    we are at a unique time in the capabilities of artificial visual systems, with
-    some systems rivaling human performance in limited domains.  Furthermore, the
-    field of visual psychology has also seen recent progress in relating visual semantic
-    information to cognitive phenomena, like memorability of images.  Taken together,
-    it may now be possible to automatically predict the cognitive relevance of visual
-    information and produce effective video summarizations.  This project combines
-    deep neural networks for visual object recognition, recurrent networks for contextually
-    embedded temporal information, and user measurement of interest, memorability,
-    and uniqueness.  The primary technical objective is to determine whether a system
-    can automatically predict human-produced video summarizations."
-  awardeeAddress: 1479 Folsom Street
-  awardeeCity: San Francisco
-  awardeeCountryCode: US
-  awardeeName: Bay Labs, Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '941033734'
-  fundsObligatedAmt: '148754'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1416612'
-  piEmail: mgmt@baylabs.io
-  piFirstName: Charles
-  piLastName: Cadieu
-  piMiddeInitial: F
-  piPhone: '5162200119'
-  poName: Peter Atherton
-  date: 05/12/2014
-  startDate: 07/01/2014
-  expDate: 06/30/2015
-  title: 'SBIR Phase I:  Semantic Video Analysis for Video Summarization and Recommendation'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project will be in the field of healthcare.  The United States spends approximately $9,000 per person per year on healthcare.  Ultrasound medical imaging is a medical imaging technology that could lower costs by providing an alternative to higher-cost imaging techniques.  The technology created during this Phase II project is expected to increase the quality, value, and accessibility of medical ultrasound, which would in turn reduce medical imaging costs in the US healthcare system.  Furthermore, the company's technology is expected to bring ultrasound to more clinical settings and improve system-wide efficiencies in the diagnosis and treatment of disease.  The technology also has commercial potential in the international market, with $5.8B spent annually on medical ultrasound devices worldwide.  Finally, by improving the utility of ultrasound, the technology will lead to improved patient care and may ultimately save lives.
-
-    This Small Business Innovation Research (SBIR) Phase II project will develop deep learning technology for ultrasound imaging in medicine.  Ultrasound imaging has numerous benefits including real-time image acquisition, non-invasive scanning, low-cost devices, and no known side-effects (it is non-ionizing).  However, variability in quality has encumbered its adoption and utility.  As a result, more expensive imaging is typically utilized, often exposing patients to ionizing radiation.  Our objective is to develop, improve, and test machine learning techniques, based on deep learning, to improve ultrasound acquisition and interpretation.  We expect this project will create novel technologies that make ultrasound easier to use and improve the quality of ultrasound examinations.  The end result will improve the quality, value, and accessibility of medical ultrasound examinations, will result in cost savings to the healthcare system, will produce improvements in patient care, and will support a sustainable business opportunity.
-  awardeeAddress: 1479 Folsom Street
-  awardeeCity: San Francisco
-  awardeeCountryCode: US
-  awardeeName: Bay Labs, Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '941033734'
-  fundsObligatedAmt: '1376062'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1556103'
-  piEmail: mgmt@baylabs.io
-  piFirstName: Charles
-  piLastName: Cadieu
-  piMiddeInitial: F
-  piPhone: '5162200119'
-  poName: Peter Atherton
-  date: 04/13/2016
-  startDate: 04/15/2016
-  expDate: 03/31/2020
-  title: 'SBIR Phase II:  Guided Positioning System for Ultrasound'
 - abstractText: "This Small Business Innovation Research Program (SBIR) Phase I project
     demonstrates the feasibility of a sketching system that bridges traditional drawing
     and three-dimensional modeling, offering a novel way to develop, explore and share
@@ -4688,10 +4755,10 @@
   fundsObligatedAmt: '1260000'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1660219'
-  piEmail: anson@insightfinder.com
-  piFirstName: Tsung-Hsuan
-  piLastName: Ho
-  piPhone: '5855201679'
+  piEmail: jeremy@insightfinder.com
+  piFirstName: Jeremy
+  piLastName: Neuberger
+  piPhone: '9199142622'
   poName: Peter Atherton
   date: 03/24/2017
   startDate: 03/15/2017
@@ -4911,7 +4978,7 @@
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
   id: '1746302'
-  piEmail: brad.kimbrough@4dtechnology.com
+  piEmail: bkimbrough@nanometrics.com
   piFirstName: Brad
   piLastName: Kimbrough
   piPhone: '5202945600'
@@ -5239,7 +5306,7 @@
   piEmail: adam@arable.com
   piFirstName: Adam
   piLastName: Wolf
-  piPhone: '5102078303'
+  piPhone: '6094802491'
   poName: Rick Schwerdtfeger
   date: 12/17/2015
   startDate: 01/01/2016
@@ -5262,7 +5329,7 @@
   piEmail: adam@arable.com
   piFirstName: Adam
   piLastName: Wolf
-  piPhone: '5102078303'
+  piPhone: '6094802491'
   poName: Rick Schwerdtfeger
   date: 04/11/2017
   startDate: 04/01/2017
@@ -5568,10 +5635,10 @@
   piFirstName: Eleanor
   piLastName: Hawes
   piPhone: '8592254521'
-  poName: lmolnar
+  poName: Linda Molnar
   date: 03/18/2016
   startDate: 04/01/2016
-  expDate: 09/30/2018
+  expDate: 09/30/2020
   title: 'SBIR Phase II:  Innovative Platform Technology for Rapid Three Dimensional
     Fabrication of Capillary Electrophoresis Chips: Phase II Proposal'
 - abstractText: "This Small Business Innovation Research (SBIR) Phase I project aims
@@ -5666,7 +5733,7 @@
   piFirstName: Supriya
   piLastName: Jaiswal
   piPhone: '8585312432'
-  poName: lmolnar
+  poName: Linda Molnar
   date: 02/18/2015
   startDate: 03/01/2015
   expDate: 01/31/2020
@@ -5850,10 +5917,10 @@
   fundsObligatedAmt: '1421129'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1758536'
-  piEmail: randall.correll@qcware.com
-  piFirstName: Randall
-  piLastName: Correll
-  piPhone: '7038672395'
+  piEmail: asier.ozaeta@qcware.com
+  piFirstName: Asier
+  piLastName: Ozaeta
+  piPhone: '6126073651'
   poName: Peter Atherton
   date: 04/04/2018
   startDate: 04/01/2018
@@ -6178,7 +6245,7 @@
   poName: Peter Atherton
   date: 03/14/2017
   startDate: 03/15/2017
-  expDate: 02/28/2019
+  expDate: 08/31/2019
   title: 'SBIR Phase II:  RV-Embedded: Runtime Verification for Embedded Systems'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be to enable various low latency video applications that are not possible today.  One of the most interesting is in the area of cloud computing, in which a server in a data center somewhere on the Internet runs a client's application remotely, and delivers the frame-by-frame video to the client's viewer.  This allows for a very cheap client device, consisting of just a video decoder and an input such as a mouse pad, while graphic or compute intensive tasks run on powerful servers in the cloud that can be leased to the client on an as-needed basis.  This server-client model could also be used internally at a company or school, greatly simplifying IT requirements.  And for high security applications there is also an advantage, as all data is stored remotely.  There is nothing local on the user's device to be compromised.  Cloud computing services such as these are already coming on line, but the range of applications they can run is limited by the lack of good low latency video encoding.  Solving this problem opens up a whole new paradigm of how people purchase, maintain and use personal computers and software.
@@ -6246,7 +6313,7 @@
   poName: Rick Schwerdtfeger
   date: 08/15/2016
   startDate: 09/01/2016
-  expDate: 02/28/2019
+  expDate: 05/31/2019
   title: 'SBIR Phase II:  Area and Energy Efficient Error Floor Free Low-Density Parity-Check
     Codes Decoder Architecture for Flash Based Storage'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
@@ -6541,7 +6608,7 @@
   awardeeName: JEEVA WIRELESS INC
   awardeeStateCode: WA
   awardeeZipCode: '981950001'
-  fundsObligatedAmt: '749996'
+  fundsObligatedAmt: '759996'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1758699'
   piEmail: nsfsbir2@jeevawireless.com
@@ -7740,7 +7807,6 @@
     and style'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project will be in the field of healthcare.  The United States spends approximately $9,000 per person per year on healthcare.  Ultrasound medical imaging is a medical imaging technology that could lower costs by providing an alternative to higher-cost imaging techniques.  The technology created during this Phase II project is expected to increase the quality, value, and accessibility of medical ultrasound, which would in turn reduce medical imaging costs in the US healthcare system.  Furthermore, the company's technology is expected to bring ultrasound to more clinical settings and improve system-wide efficiencies in the diagnosis and treatment of disease.  The technology also has commercial potential in the international market, with $5.8B spent annually on medical ultrasound devices worldwide.  Finally, by improving the utility of ultrasound, the technology will lead to improved patient care and may ultimately save lives.
-
     This Small Business Innovation Research (SBIR) Phase II project will develop deep learning technology for ultrasound imaging in medicine.  Ultrasound imaging has numerous benefits including real-time image acquisition, non-invasive scanning, low-cost devices, and no known side-effects (it is non-ionizing).  However, variability in quality has encumbered its adoption and utility.  As a result, more expensive imaging is typically utilized, often exposing patients to ionizing radiation.  Our objective is to develop, improve, and test machine learning techniques, based on deep learning, to improve ultrasound acquisition and interpretation.  We expect this project will create novel technologies that make ultrasound easier to use and improve the quality of ultrasound examinations.  The end result will improve the quality, value, and accessibility of medical ultrasound examinations, will result in cost savings to the healthcare system, will produce improvements in patient care, and will support a sustainable business opportunity.
   awardeeAddress: 1479 Folsom Street
   awardeeCity: San Francisco
