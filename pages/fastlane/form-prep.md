@@ -10,7 +10,7 @@ sidenav: fastlane
 
 ### Formatting Instructions
 
-Please use the [Proposal Preparation Instructions](https://www.nsf.gov/pubs/policydocs/pappg19_1/pappg_2.jsp) page to format your proposal.
+Visit the [PAPPG Guide](https://www.nsf.gov/pubs/policydocs/pappg19_1/pappg_2.jsp) for information on how to format your proposal.
 
 ### Create Proposal
 
