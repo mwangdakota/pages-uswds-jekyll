@@ -8,7 +8,7 @@ sidenav: fastlane
 
 Submitting a SBIR/STTR Phase I Proposal in FastLane
 
-The Phase I SBIR solicitation and STTR solicitation explain what information should go into the proposal. The following steps will walk through the process of submitting a proposal to FastLane, NSF's electronic submission system. R
+The Phase I SBIR solicitation and STTR solicitation explain what information should go into the proposal. The following steps will walk through the process of submitting a proposal to FastLane, NSF's electronic submission system. 
 
 ADA & 508 Compliance Assistance - Please Call the FastLane Help Desk at 1-800-673-6188.
 
