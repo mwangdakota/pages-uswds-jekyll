@@ -114,7 +114,7 @@ Click the **"GO"** button and provide the required information to complete the c
 
 ![Announcements and Consideration fields]({{ site.baseurl }}/assets/img/fastlane/12a-announcement-and-consideration-information-AND-PI-information2017.jpg)
 
-![Announcements and Consideration fields 2]({{ site.baseurl }}/assets/img/fastlane/12b-announcement-and-consideration-information-AND-PI-information2019.jpg)
+![Announcements and Consideration fields 2]({{ site.baseurl }}/assets/img/fastlane/12b-announcement-and-consideration-information-AND-PI-information2017.jpg)
 
 **"Previous NSF Award":** **Do not check the box.**
 
