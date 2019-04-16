@@ -201,6 +201,28 @@ To learn more visit: [https://www.arable.com/](https://www.arable.com/).
 </div>
 </section>
 
+<section class="usa-section showcase-content">
+
+<div class="usa-content usa-grid">
+  <div class="usa-content">
+ <img src="../assets/img/showcase/artaic1.jpg" alt="Mosaic tile installation tool">
+  <div class="caption"><p> A polymer material (blue) targets drug activation of doxorubicin (red) to tumors, minimizing toxicity because the drug is shielded while in the blood (green).</p></div>
+    
+<h3>Artaic</h3>
+<div class="usa-content usa-width-one-whole">
+<div> <p style="margin:0px;text-align:center;">Mohit Lad, CEO & Co-Founder of ThousandEyes</p></div> <p style="max-width:100%"> “The grants we received from NSF were instrumental in bootstrapping ThousandEyes and allowing us to focus on building the first version of our product and acquiring customers. By the time we raised our series A from Sequoia capital, we had a handful of well-known brands as customers with annual bookings of more than $250k, i.e. real revenue. Thanks to NSF, we were on our way to commercializing our technology.” -Mohit Lad, CEO & Co-Founder of ThousandEyes, a network intelligence platform for businesses, was founded by Lad and Ricardo Oliviera in 2010. In 2018, they have 220 employees and have raised nearly $110 million. </p> <div style="max-width:300px;margin-left:15px;float:right;"><img src="{{ site.baseurl }}/assets/img/showcase/artaic2.jpg" alt="Mosaic Tile installation tool" style="float:left; margin-right:10px; max-width:100%;">
+</div>
+</div>
+
+</div>
+<div class="usa-content usa-width-one-whole">
+ <img src="{{ site.baseurl }}/assets/img/showcase/pathvisualization.jpg" alt="pathVisualization" width="45%" style="float:left; margin-right:15px;">
+ <div class="caption">
+  <p style="max-width:90%;margin:auto;">ThousandEyes' patented Path Visualization provides detailed hop-by-hop visibility and performance metrics from any network, even if it's outside your enterprise boundaries. A global inference engine correlates multiple streams of data and visually pinpoints the location of outages (shown as red circles), and provides additional contextual information about the specific location.</p></div>
+ </div>
+</div>
+</section>
+
 
 <section class="usa-section showcase-quote" markdown="1">
 <div class="usa-grid" markdown="1">
