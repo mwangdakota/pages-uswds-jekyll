@@ -86,7 +86,7 @@ To learn more visit: [https://www.elidah.com/](https://www.elidah.com/).
 
 ### Artaic
 <div class="usa-content">
- <img src="../assets/img/showcase/artaic1.jpg" alt="Mosaic tile installation tool"></div>
+ <img src="../assets/img/showcase/artaic1.jpg" alt="Mosaic tile installation tool" width="90%"></div>
 <div class="quote-content" markdown="1">
 
 ![Ted Acworth]({{ site.baseurl }}/assets/img/showcase/ted_acworth.jpg)
@@ -99,7 +99,7 @@ Ted Acworth
 Founder and CEO of Artaic, a small business funded by NSF, that designs and fabricates custom mosaic tile installations using robots.  
 
 </div>
-<div style="max-width:100%;"><img src="{{ site.baseurl }}/assets/img/showcase/artaic2.jpg" alt="Mosaic Tile installation tool"></div>
+<div style="max-width:100%;"><img src="{{ site.baseurl }}/assets/img/showcase/artaic2.JPG" alt="Mosaic Tile installation tool"></div>
 </section>
 
 
