@@ -81,6 +81,28 @@ To learn more visit: [https://www.elidah.com/](https://www.elidah.com/).
 </section>
 
 
+<section class="usa-section showcase-quote" markdown="1">
+<div class="usa-grid" markdown="1">
+
+### Artaic
+
+<div class="quote-content" markdown="1">
+<div class="usa-content">
+ <img src="../assets/img/showcase/artaic1.jpg" alt="Mosaic tile installation tool"></div>
+![Ted Acworth]({{ site.baseurl }}/assets/img/showcase/ted_acworth.jpg)
+
+> &ldquo;Without NSF funding, my company wouldn’t have been able to get off the ground. Early on, when we were too young and too risky for venture funding, NSF filled the gap with an SBIR Phase I grant. Now, after our Phase II is completed, we are a viable growth stage company that employs over 30 people and serves clients globally. The best part— our product is having a positive impact on society, giving people access to an ancient art form that was previously too costly and complex to create and install.&rdquo;
+
+</div>
+
+Ted Acworth  
+Founder and CEO of Artaic, a small business funded by NSF, that designs and fabricates custom mosaic tile installations using robots.  
+
+</div>
+<div style="max-width:100%;><img src="{{ site.baseurl }}/assets/img/showcase/artaic2.jpg" alt="Mosaic Tile installation tool"></div>
+</section>
+
+
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
 <div class="usa-content usa-width-one-half" markdown="1">
