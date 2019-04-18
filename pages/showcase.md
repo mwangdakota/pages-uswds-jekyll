@@ -231,17 +231,11 @@ To learn more visit: [https://www.arable.com/](https://www.arable.com/).
     
 <h3>Artaic</h3>
 <div class="usa-content usa-width-one-whole">
-<div> <div style="max-width:150px;margin-right:15px;float:left;"><img src="{{ site.baseurl }}/assets/img/showcase/ted_acworth.jpg" alt="Ted Acworth" style="float:left; margin-right:10px; max-width:100%;"></div> “The grants we received from NSF were instrumental in bootstrapping ThousandEyes and allowing us to focus on building the first version of our product and acquiring customers. By the time we raised our series A from Sequoia capital, we had a handful of well-known brands as customers with annual bookings of more than $250k, i.e. real revenue. Thanks to NSF, we were on our way to commercializing our technology.” -Mohit Lad, CEO & Co-Founder of ThousandEyes, a network intelligence platform for businesses, was founded by Lad and Ricardo Oliviera in 2010. In 2018, they have 220 employees and have raised nearly $110 million. </p></div>
+<div> <div style="max-width:150px;margin-right:15px;float:left;"><img src="{{ site.baseurl }}/assets/img/showcase/ted_acworth.jpg" alt="Ted Acworth" style="float:left; margin-right:10px; max-width:100%;"></div> “The grants we received from NSF were instrumental in bootstrapping ThousandEyes and allowing us to focus on building the first version of our product and acquiring customers. By the time we raised our series A from Sequoia capital, we had a handful of well-known brands as customers with annual bookings of more than $250k, i.e. real revenue. Thanks to NSF, we were on our way to commercializing our technology.” -Mohit Lad, CEO & Co-Founder of ThousandEyes, a network intelligence platform for businesses, was founded by Lad and Ricardo Oliviera in 2010. In 2018, they have 220 employees and have raised nearly $110 million.<br/> </p></div>
 <div style="max-width:100%;"><img src="{{ site.baseurl }}/assets/img/showcase/artaic2.jpg" alt="Mosaic Tile installation tool"></div>
 </div>
 </div>
 
-</div>
-<div class="usa-content usa-width-one-whole">
- <img src="{{ site.baseurl }}/assets/img/showcase/pathvisualization.jpg" alt="pathVisualization" width="45%" style="float:left; margin-right:15px;">
- <div class="caption">
-  <p style="max-width:90%;margin:auto;">ThousandEyes' patented Path Visualization provides detailed hop-by-hop visibility and performance metrics from any network, even if it's outside your enterprise boundaries. A global inference engine correlates multiple streams of data and visually pinpoints the location of outages (shown as red circles), and provides additional contextual information about the specific location.</p></div>
- </div>
 </div>
 </section>
 
