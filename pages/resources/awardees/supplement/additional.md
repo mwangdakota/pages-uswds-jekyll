@@ -13,6 +13,6 @@ NSF SBIR Innovative Postdoctoral Entrepreneurial Research Fellowship (I-PERF)
 - Postdoctoral Fellowships are open to all fields in science and engineering funded by NSF within the current portfolio of active Phase II SBIR/STTR awardee companies.
 - Appointments are for one year.
 - The base stipend is $78,000 per year, plus optional individual health and life insurance, relocation and conference travel support, and professional development training in entrepreneurship.
-- Number of Fellowships available: 31
-- Deadline: Bi-monthly starting May 8, 2019, until filled.
+- **Number of Fellowships available:** 31
+- **Deadline:** Bi-monthly starting May 8, 2019, until filled.
 - [More Information](https://iperf.asee.org)
