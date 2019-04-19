@@ -84,7 +84,7 @@ To learn more visit: [https://www.elidah.com/](https://www.elidah.com/).
 <section class="usa-section showcase-quote" markdown="1">
 <div id="artaic1" class="usa-grid" markdown="1">
 
-### Artaic
+### Robots that create custom mosaics - Artaic
 <div class="quote-content" markdown="1">
 
 ![Ted Acworth]({{ site.baseurl }}/assets/img/showcase/ted_acworth.jpg)
@@ -94,7 +94,7 @@ To learn more visit: [https://www.elidah.com/](https://www.elidah.com/).
 </div>
 
 Ted Acworth  
-Founder and CEO of Artaic, a small business funded by NSF, that designs and fabricates custom mosaic tile installations using robots.  
+Founder and CEO of [Artaic](https://artaic.com/), a small business funded by NSF, that designs and fabricates custom mosaic tile installations using robots.  
 <div style="max-width:50%;margin-top:20px;float:left;"><img src="{{ site.baseurl }}/assets/img/showcase/artaic.jpg" style="margin-right:5px;" alt="Mosaic Tile installation tool"></div>
 <div style="max-width:50%;margin-top:20px; float:left;"><img src="{{ site.baseurl }}/assets/img/showcase/artaic2.JPG" style="margin-left:5px;" alt="Mosaic Tile installation tool"></div>
 </div>
@@ -217,22 +217,6 @@ To learn more visit: [https://www.arable.com/](https://www.arable.com/).
 
 <div class="usa-width-one-half">
   <iframe title="sustainable-synthetic-bait-video" width="100%" height="300" src="https://www.youtube.com/embed/BC7LQRir7L8" frameborder="0" allowfullscreen></iframe>
-</div>
-
-</div>
-</section>
-
-<section class="usa-section showcase-content">
-
-<div class="usa-content usa-grid">
-  <div id="artaic2" class="usa-content">
-    
-<h3>Artaic</h3>
-<div class="usa-content usa-width-one-whole">
-<div> <div style="max-width:150px;margin-right:15px;float:left;"><img src="{{ site.baseurl }}/assets/img/showcase/ted_acworth.jpg" alt="Ted Acworth" style="float:left; margin-right:10px; max-width:100%;"></div>“The grants we received from NSF were instrumental in bootstrapping ThousandEyes and allowing us to focus on building the first version of our product and acquiring customers. By the time we raised our series A from Sequoia capital, we had a handful of well-known brands as customers with annual bookings of more than $250k, i.e. real revenue. Thanks to NSF, we were on our way to commercializing our technology.” <br/><br/>-Mohit Lad, CEO & Co-Founder of ThousandEyes, a network intelligence platform for businesses, was founded by Lad and Ricardo Oliviera in 2010. In 2018, they have 220 employees and have raised nearly $110 million.<br/></div>
-<div style="max-width:50%;margin-top:20px;float:left;"><img src="{{ site.baseurl }}/assets/img/showcase/artaic.jpg" style="margin-right:5px;" alt="Mosaic Tile installation tool"></div>
-<div style="max-width:50%;margin-top:20px; float:left;"><img src="{{ site.baseurl }}/assets/img/showcase/artaic2.JPG" style="margin-left:5px;" alt="Mosaic Tile installation tool"></div>
-</div>
 </div>
 
 </div>
