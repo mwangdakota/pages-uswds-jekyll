@@ -82,7 +82,7 @@ To learn more visit: [https://www.elidah.com/](https://www.elidah.com/).
 
 
 <section class="usa-section showcase-quote" markdown="1">
-<div class="usa-grid" markdown="1">
+<div id="artaic1" class="usa-grid" markdown="1">
 
 ### Artaic
 <div class="quote-content" markdown="1">
@@ -225,7 +225,7 @@ To learn more visit: [https://www.arable.com/](https://www.arable.com/).
 <section class="usa-section showcase-content">
 
 <div class="usa-content usa-grid">
-  <div class="usa-content">
+  <div id="artaic2" class="usa-content">
     
 <h3>Artaic</h3>
 <div class="usa-content usa-width-one-whole">
