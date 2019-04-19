@@ -1,6 +1,6 @@
 ---
 title: Supplemental funding opportunities
-permalink: /resources/awardees/supplement/commercial/
+permalink: /resources/awardees/supplement/additional/
 layout: resources-layout
 sidenav: phase-2
 ---
