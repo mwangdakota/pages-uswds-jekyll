@@ -10,12 +10,7 @@ sidenav: fastlane
 
 ### Formatting Instructions
 
-- Arial, Courier New, or Palatino Linotype at a font size of 10 points or larger
-- Times New Roman or Computer Modern family of fonts at a size of 11 points or larger
-- A font size of less than 10 points may be used for mathematical formulas or equations, figures, table or diagram captions and when using a Symbol font to insert Greek letters or special characters, but the text must still be readable.
-- No more than six lines of text within a vertical space of one inch.
-- Margins, in all directions, must be at least an inch.
-- Proposers are strongly encouraged to use only a standard, single-column format for the text.
+Visit the [PAPPG Guide](https://www.nsf.gov/pubs/policydocs/pappg19_1/pappg_2.jsp) for information on how to format your proposal.
 
 ### Create Proposal
 
@@ -111,7 +106,7 @@ Click the **"GO"** button and provide the required information to complete the c
 **"Budget and Duration Information":** Three items are requested.
 - **Requested Amount:** Enter the requested amount of funds. _(SBIR and STTR Phase I budgets cannot exceed $225,000. The requested amount on the Cover Page should match the total funds requested in the budget.)_
 - **Proposal Duration:** _Enter the proposed duration of the project in months (between 6 and 12 months)._
-- **Requested Starting Date:** For deadline dates in June, enter the following January 1st. For deadline dates in December, enter the following July 1st.
+- **Requested Start Date:** We recommend that you enter a start date six months from your proposal submission. For instance, a proposal submitted in June would enter January 1st of the following year.
 
 ![Budget information fields]({{ site.baseurl }}/assets/img/fastlane/11b-title-of-proposed-project--and-budget.duration.jpg)
 

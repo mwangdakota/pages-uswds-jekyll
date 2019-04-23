@@ -85,7 +85,5 @@ The "Proposal Errors/Warnings" screen gives you the capability to submit the pro
 ![Proposal Submission Confirmation screen with proposal number listed]({{ site.baseurl }}/assets/img/fastlane/8_SRO_Confirmation2017.JPG)
 _This is the Proposal Number you should reference in all communications with NSF regarding this proposal henceforward._
 
-**Note: User's lack of familiarity with FastLane is not a valid excuse for submitting a late proposal, nor are warnings/errors received at the time of submission. Therefore, we strongly advise all submitters to ensure the proposal is submitted EARLY (days - not hours - before each deadline).**
-
 [Prev]({{ site.baseurl }}/fastlane/form-prep-3/) \| [Next]({{ site.baseurl }}/fastlane/proposal-file-update/)
 
