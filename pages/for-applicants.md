@@ -33,7 +33,7 @@ Get to know our awardees better — we’ve got [video profiles of startups and 
 
 ## FastLane guide
 
-Before you start your application, take a look at our [FastLane guide]({{ site.baseurl }}/fastlane/). This way, once the next solicitation opens, you'll be ready to craft your application. 
+Before you start your proposal, take a look at our [FastLane guide]({{ site.baseurl }}/fastlane/). 
 
 ## FAQ
 
