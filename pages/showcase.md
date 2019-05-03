@@ -22,10 +22,6 @@ Are you an awardee and have a success story to share?  [Tell us about it](https:
 <div class="usa-content usa-grid">
  <img src="{{ site.baseurl }}/assets/img/showcase/Artaic Quote Image.png" alt="Artaic Quote" style="float:left; margin-right:2%; max-width:47%;">
   <img src="{{ site.baseurl }}/assets/img/showcase/Bay Labs Quote Image.png" alt="Bay Labs Quote" style="float:left; margin-right:2%; max-width:47%;">
- <br><br>
-  <img src="{{ site.baseurl }}/assets/img/showcase/Branch Technology Quote Image.png" alt="Branch Technology Quote" style="float:left; margin-right:2%; max-width:47%;">
-  <img src="{{ site.baseurl }}/assets/img/showcase/Elidah Quote Image.png" alt="Elidah Quote" style="float:left; margin-right:2%; max-width:47%;">
-  
  </div>
  </section>
 
@@ -101,13 +97,6 @@ To learn more visit: [https://www.elidah.com/](https://www.elidah.com/).
  </div>
 </div>
 </section>
-
-<section class="usa-section showcase-content">
-<div class="usa-content usa-grid">
-<img src="{{ site.baseurl }}/assets/img/showcase/Keystone Tower Systems Quote.png" alt="Keystone Tower Systems Quote" style="float:left; margin-right:2%; max-width:47%;">
-  <img src="{{ site.baseurl }}/assets/img/showcase/Killer Snails Quote Image.png" alt="Killer Snails Quote" style="float:left; margin-right:2%; max-width:47%;">
- </div>
- </section>
   
 <section class="usa-section showcase-quote" markdown="1">
 <div id="artaic1" class="usa-grid" markdown="1">
@@ -294,7 +283,13 @@ CEO, [Lumenari, Inc.](http://www.lumenariinc.com/)
 </div>
 </section>
 
-
+<section class="usa-section showcase-content">
+<div class="usa-content usa-grid">
+<img src="{{ site.baseurl }}/assets/img/showcase/Keystone Tower Systems Quote.png" alt="Keystone Tower Systems Quote" style="float:left; margin-right:2%; max-width:47%;">
+  <img src="{{ site.baseurl }}/assets/img/showcase/Killer Snails Quote Image.png" alt="Killer Snails Quote" style="float:left; margin-right:2%; max-width:47%;">
+ </div>
+ </section>
+ 
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
 <div class="usa-content usa-width-one-half" markdown="1">
