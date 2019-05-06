@@ -17,6 +17,13 @@ Are you an awardee and have a success story to share?  [Tell us about it](https:
 </div>
 </section>
 
+<section class="usa-section showcase-content">
+
+<div class="usa-content usa-grid">
+ <img src="{{ site.baseurl }}/assets/img/showcase/Elidah Quote Image.png" alt="Elidah Quote" style="float:left; margin-right:2%; max-width:47%;">
+  <img src="{{ site.baseurl }}/assets/img/showcase/Bay Labs Quote Image.png" alt="Bay Labs Quote" style="float:left; margin-right:2%; max-width:47%;">
+ </div>
+ </section>
 
 
 <section class="usa-section showcase-content background-gray-dark">
@@ -64,6 +71,17 @@ To learn more visit: [https://www.elidah.com/](https://www.elidah.com/).
 <section class="usa-section showcase-content">
 
 <div class="usa-content usa-grid">
+  <img src="{{ site.baseurl }}/assets/img/showcase/Branch Technology Quote Image.png" alt="Branch Technology Quote" style="float:left; margin-right:2%; max-width:47%;">
+  <img src="{{ site.baseurl }}/assets/img/showcase/Artaic Quote Image.png" alt="Artaic Quote" style="float:left; margin-right:2%; max-width:47%;">
+  
+ </div>
+ </section>
+
+ 
+ 
+<section class="usa-section showcase-content">
+
+<div class="usa-content usa-grid">
 <h3> Monitoring internal and external network performance - ThousandEyes </h3>
 <div class="usa-content usa-width-one-whole">
 <div> <div style="max-width:300px;margin-right:15px;float:left;"><img src="{{ site.baseurl }}/assets/img/showcase/thousandEyes.jpg" alt="Mohit Lad" style="float:left; margin-right:10px; max-width:100%;"><p style="margin:0px;text-align:center;">Mohit Lad, CEO & Co-Founder of ThousandEyes</p></div> <p style="max-width:100%"> “The grants we received from NSF were instrumental in bootstrapping ThousandEyes and allowing us to focus on building the first version of our product and acquiring customers. By the time we raised our series A from Sequoia capital, we had a handful of well-known brands as customers with annual bookings of more than $250k, i.e. real revenue. Thanks to NSF, we were on our way to commercializing our technology.” -Mohit Lad, CEO & Co-Founder of ThousandEyes, a network intelligence platform for businesses, was founded by Lad and Ricardo Oliviera in 2010. In 2018, they have 220 employees and have raised nearly $110 million. </p>
@@ -79,8 +97,7 @@ To learn more visit: [https://www.elidah.com/](https://www.elidah.com/).
  </div>
 </div>
 </section>
-
-
+  
 <section class="usa-section showcase-quote" markdown="1">
 <div id="artaic1" class="usa-grid" markdown="1">
 
@@ -101,6 +118,14 @@ Founder and CEO of [Artaic](https://artaic.com/), a small business funded by NSF
 
 </section>
 
+<section class="usa-section showcase-content">
+<div class="usa-content usa-grid">
+   <img src="{{ site.baseurl }}/assets/img/showcase/Omnity Quote Image.png" alt="Omnity Quote" style="float:left; margin-right:2%; max-width:47%;">
+  <img src="{{ site.baseurl }}/assets/img/showcase/Spheryx Quote.png" alt="Spheryx Quote" style="float:left; margin-right:2%; max-width:47%;">
+ </div>
+ </section>
+ 
+ 
 
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
@@ -140,6 +165,7 @@ To learn more visit: [http://taoconnect.org/](http://taoconnect.org/).
 </section>
 
 
+ 
 <section id="drugDelivery" class="usa-section showcase-content">
 <div class="usa-content usa-grid">
     
@@ -164,6 +190,13 @@ Jose M. Mejia Oneto, founder and CEO of Shasqi.
 </div>
 </section>
 
+<section class="usa-section showcase-content">
+<div class="usa-content usa-grid">
+ <img src="{{ site.baseurl }}/assets/img/showcase/TAO Connect Quote Image.png" alt="TAO Connect Quote" style="float:left; margin-right:2%; max-width:47%;">
+  <img src="{{ site.baseurl }}/assets/img/showcase/ThousandEyes Quote Image.png" alt="ThousandEyes Quote" style="float:left; margin-right:2%; max-width:47%;">
+ </div>
+ </section>
+ 
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
 <div class="usa-content usa-width-one-half" markdown="1">
@@ -222,6 +255,12 @@ To learn more visit: [https://www.arable.com/](https://www.arable.com/).
 </div>
 </section>
 
+<section class="usa-section showcase-content">
+<div class="usa-content usa-grid">
+  <img src="{{ site.baseurl }}/assets/img/showcase/Tinkercast Quote Image.png" alt="Tinkercast Quote" style="float:left; margin-right:2%; max-width:47%;">
+  <img src="{{ site.baseurl }}/assets/img/showcase/posed2 Quote Image.png" alt="posed2 Quote" style="float:left; margin-right:2%; max-width:47%;">
+ </div>
+ </section>
 
 <section class="usa-section showcase-quote" markdown="1">
 <div class="usa-grid" markdown="1">
@@ -244,7 +283,13 @@ CEO, [Lumenari, Inc.](http://www.lumenariinc.com/)
 </div>
 </section>
 
-
+<section class="usa-section showcase-content">
+<div class="usa-content usa-grid">
+<img src="{{ site.baseurl }}/assets/img/showcase/Keystone Tower Systems Quote.png" alt="Keystone Tower Systems Quote" style="float:left; margin-right:2%; max-width:47%;">
+  <img src="{{ site.baseurl }}/assets/img/showcase/Killer Snails Quote Image.png" alt="Killer Snails Quote" style="float:left; margin-right:2%; max-width:47%;">
+ </div>
+ </section>
+ 
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
 <div class="usa-content usa-width-one-half" markdown="1">
