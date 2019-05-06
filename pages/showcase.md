@@ -20,7 +20,7 @@ Are you an awardee and have a success story to share?  [Tell us about it](https:
 <section class="usa-section showcase-content">
 
 <div class="usa-content usa-grid">
- <img src="{{ site.baseurl }}/assets/img/showcase/Artaic Quote Image.png" alt="Artaic Quote" style="float:left; margin-right:2%; max-width:47%;">
+ <img src="{{ site.baseurl }}/assets/img/showcase/Elidah Quote Image.png" alt="Elidah Quote" style="float:left; margin-right:2%; max-width:47%;">
   <img src="{{ site.baseurl }}/assets/img/showcase/Bay Labs Quote Image.png" alt="Bay Labs Quote" style="float:left; margin-right:2%; max-width:47%;">
  </div>
  </section>
@@ -72,7 +72,7 @@ To learn more visit: [https://www.elidah.com/](https://www.elidah.com/).
 
 <div class="usa-content usa-grid">
   <img src="{{ site.baseurl }}/assets/img/showcase/Branch Technology Quote Image.png" alt="Branch Technology Quote" style="float:left; margin-right:2%; max-width:47%;">
-  <img src="{{ site.baseurl }}/assets/img/showcase/Elidah Quote Image.png" alt="Elidah Quote" style="float:left; margin-right:2%; max-width:47%;">
+  <img src="{{ site.baseurl }}/assets/img/showcase/Artaic Quote Image.png" alt="Artaic Quote" style="float:left; margin-right:2%; max-width:47%;">
   
  </div>
  </section>
