@@ -85,5 +85,7 @@ The "Proposal Errors/Warnings" screen gives you the capability to submit the pro
 ![Proposal Submission Confirmation screen with proposal number listed]({{ site.baseurl }}/assets/img/fastlane/8_SRO_Confirmation2017.JPG)
 _This is the Proposal Number you should reference in all communications with NSF regarding this proposal henceforward._
 
-[Prev]({{ site.baseurl }}/fastlane/form-prep-3/) \| [Next]({{ site.baseurl }}/fastlane/proposal-file-update/)
+Your proposal has now been successfully submitted to NSF. Please make sure to note your Proposal Number, which should be referenced in all communications with NSF regarding this proposal henceforward.
+
+[Prev]({{ site.baseurl }}/fastlane/form-prep-3/) 
 
