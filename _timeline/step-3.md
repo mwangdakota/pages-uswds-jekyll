@@ -1,5 +1,5 @@
 ---
-title: Preview the Project Pitch (optional)
+title: Preview the Project Pitch
 ---
 Preview the information we look for in a [Project Pitch]({{ site.baseurl }}/project-pitch/).
 
