@@ -8,12 +8,18 @@ sidenav: fastlane
 
 Submitting a SBIR/STTR Phase I Proposal in FastLane
 
-The Phase I SBIR solicitation and STTR solicitation explain what information should go into the proposal. The following steps will walk through the process of submitting a proposal to FastLane, NSF's electronic submission system. 
+The Phase I Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) solicitations explain what information should go into the proposal. The following steps will walk through the process of submitting a proposal to FastLane, NSF's electronic submission system. 
 
 ADA & 508 Compliance Assistance - Please Call the FastLane Help Desk at 1-800-673-6188.
 
 PDF version is available for [download]({{ site.baseurl }}/assets/files/applicants/Phase_I_Proposal_Preparation_Booklet.pdf).
 ## 1. Application Overview
+
+### Were you invited to submit a proposal?
+
+NSF SBIR/STTR Program Phase I applicants are now **REQUIRED** to submit a three-page “Project Pitch” that outlines the project objectives, technical innovation and associated technical risks. Projects that seem to be a good fit will be officially **INVITED** to submit a full proposal, and all Project Pitch submitters will receive feedback within three weeks. 
+
+Only SBIR/STTR proposals that have been invited will be reviewed by NSF. To learn more about the Project Pitch, please visit [How to Apply]({{ site.baseurl }}/apply/). 
 
 ### Do you have the required registrations?
 
