@@ -89,7 +89,7 @@ A business concern that, at the time of the Phase I or Phase II award, meets the
 A socially and economically disadvantaged small business concern is one that is at least 51 percent owned and managed by one or more socially and economically disadvantaged people (who also control and the day-to-day operations). In this context, _control_ means making policy decisions. _Operate_ means being actively involved in day-to-day management.
 
 ## Socially and economically disadvantaged individual
-A member of any of the following groups: Black Americans, Hispanic Americans, Native Americans, Asian-Pacific Americans, Subcontinent Asian Americans, other groups designated from time to time by the Small Business Administration (SBA) to be socially disadvantaged, and any other individual found to be socially and economically disadvantaged by SBA pursuant to Section 8(a) of the Small Business Act, 15 U.S.C. ; 637(a). For more information on this definition, [contact the SBA](https://www.sbaonline.sba.gov).
+A member of any of the following groups: Black Americans, Hispanic Americans, Native Americans, Asian-Pacific Americans, Subcontinent Asian Americans, other groups designated from time to time by the Small Business Administration (SBA) to be socially disadvantaged, and any other individual found to be socially and economically disadvantaged by SBA pursuant to Section 8(a) of the Small Business Act, 15 U.S.C. ; 637(a). For more information on this definition, [contact the SBA](https://www.sba.gov/).
 
 ## Subaward (contract or subcontract)
 Any agreement, other than an employer-employee relationships, that a small business concern makes to procure supplies or services needed to complete work outlined in the funding agreement.
