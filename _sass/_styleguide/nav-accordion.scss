@@ -35,13 +35,13 @@
       }
 
       &[aria-expanded=true] {
-        background-image: url('../img/global/minus-alt.png');
-        background-image: url('../img/global/minus-alt.svg');
+        background-image: url('../img/minus-alt.svg');
+        background-image: url('../img/minus-alt.svg');
       }
 
       &[aria-expanded=false] {
-        background-image: url('../img/global/plus-alt.png');
-        background-image: url('../img/global/plus-alt.svg');
+        background-image: url('../img/plus-alt.svg');
+        background-image: url('../img/plus-alt.svg');
       }
 
       &:hover,
