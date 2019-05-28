@@ -72,7 +72,7 @@ The Awardee Organization information is pre-populated from the PI information. C
 
 When inputting an address for the "Primary Place of Performance", you **must** include the **nine-digit zip code**.
 
-_(Proposers are advised to use the United States Postal Service website to look up their nine-digit zip code at [www.usps.com](www.usps.com)_
+_(Proposers are advised to use the United States Postal Service website to look up their nine-digit zip code at [https://www.usps.com](www.usps.com)_
 
 After the Primary Place of Performance is identified, click **"Save Primary Place of Performance"**.
 
