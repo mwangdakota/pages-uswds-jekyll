@@ -1,6 +1,6 @@
 ---
 title: Form Preparation
-permalink: /fastlane/form-prep/
+permalink: /fastlane/form-prep-1/
 layout: secondary-narrow
 sidenav: fastlane
 ---
