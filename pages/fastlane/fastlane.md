@@ -25,4 +25,4 @@ SBIR/STTR Proposals must be submitted to NSF via FastLane. The NSF’s Research.
 FastLane will not accept proposals after 5:00 PM submitter's time on June 13th. However, a new submission window will open on June 14th. If you are unable to submit by 5:00 p.m. local time on June 13th, please submit as soon as possible once the new window opens.  
 
 
-[Next]({{ site.baseurl }}/fastlane/form-prep/)
+[Next]({{ site.baseurl }}/fastlane/registrations/)
