@@ -6,7 +6,7 @@ sidenav: fastlane
 ---
 # FastLane guide
 
-## 2. Create Proposal
+## 3. Create Proposal
 
 ### Formatting Instructions
 
@@ -50,6 +50,10 @@ Scroll down past the **Temporary Proposals in Progress** section to the **Create
 At the top of the **Form Preparation** page will be the text **Forms for Temp Proposal #** - this number will be used as a reference throughout the preparation process. *When your FastLane Contact/SPO finally submits your proposal to NSF, your proposal will be assigned an official NSF proposal number, the first two digits of which will match the fiscal year in which the proposal was submitted (e.g. proposals submitted between October 1, 2018 and September 30, 2019 will be numbered 19**xxxxx**). This official proposal number should be used in all further communications with NSF.*
 
 ### Cover Sheet
+Applicants must complete all required proposal Cover Sheet data fields in accordance with the proposal preparation instructions. 
+
+Proposal Cover Sheets missing required data field information will generate validation errors and cannot be saved or submitted. In addition, you may lose information entered on the Cover Sheet if it cannot be saved or submitted. 
+
 Click on the **"GO"** button to the left of **"Cover Sheet"**.
 
 Cover sheet selection
@@ -186,4 +190,4 @@ After adding all participants, click **"Go Back"** until you return to the "Form
 
 For most proposal sections, there is a specific module in FastLane to which you should upload a PDF file prepared outside the system.  Please note that FastLane will need to 'distill' each PDF and you will be prompted to review and approve each file as it is saved.  For this reason, you are urged to allow ample time to prepare and submit your proposal.  We strongly discourage waiting until the deadline date to submit as common compliance errors and processing delays could cause you to miss the deadline.  Proposals cannot be accepted after the deadline per NSF policy.
 
-[Prev]({{ site.baseurl }}/fastlane/) \| [Next]({{ site.baseurl }}/fastlane/form-prep-2/)
+[Prev]({{ site.baseurl }}/form-prep-1/) \| [Next]({{ site.baseurl }}/fastlane/form-prep-2/)
