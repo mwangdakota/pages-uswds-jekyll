@@ -190,4 +190,4 @@ After adding all participants, click **"Go Back"** until you return to the "Form
 
 For most proposal sections, there is a specific module in FastLane to which you should upload a PDF file prepared outside the system.  Please note that FastLane will need to 'distill' each PDF and you will be prompted to review and approve each file as it is saved.  For this reason, you are urged to allow ample time to prepare and submit your proposal.  We strongly discourage waiting until the deadline date to submit as common compliance errors and processing delays could cause you to miss the deadline.  Proposals cannot be accepted after the deadline per NSF policy.
 
-[Prev]({{ site.baseurl }}/form-prep-1/) \| [Next]({{ site.baseurl }}/fastlane/form-prep-2/)
+[Prev]({{ site.baseurl }}/registrations/) \| [Next]({{ site.baseurl }}/fastlane/form-prep-2/)
