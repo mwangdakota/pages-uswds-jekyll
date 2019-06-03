@@ -37,7 +37,7 @@ For additional information and step-by-step instructions, please see the "Regist
 
 The [Account Management Guide](https://www.research.gov/common/attachment/Desktop/Single_ID_Help.pdf), [Frequently Asked Questions (FAQs)](https://www.research.gov/common/attachment/Desktop/Single_ID_FAQs.pdf), and multiple video tutorials are available on the Research.gov [About Account Management](https://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_node_display&_nodePath=/researchGov/Service/Desktop/InstitutionAndUserManagement.html) page.
 
-NSF recommends that the Principal Investigator (PI) also register as an “Authorized Organizational Representative – AOR” for the organization. The PI creates and uploads all proposal components to FastLane, and the AOR formally submits the proposal to NSF. <dov markdown="0"><span style="color:red;">Only PIs with AOR privileges can submit the proposal.</span></div> The AOR role is NEVER assigned to any person by default. 
+NSF recommends that the Principal Investigator (PI) also register as an “Authorized Organizational Representative – AOR” for the organization. The PI creates and uploads all proposal components to FastLane, and the AOR formally submits the proposal to NSF. <div markdown="0"><span style="color:red;">Only PIs with AOR privileges can submit the proposal.</span></div> The AOR role is NEVER assigned to any person by default. 
 
 You can request the AOR role via the "Add a New Role" page in [Research.gov](https://www.research.gov). Here's how: 
    * Sign in to [Research.gov](https://www.research.gov) and select the "My Profile" link located at the top right of the screen.
@@ -57,7 +57,10 @@ Follow the step-by-step process below to register a new organization in Research
 * Click “Add New Role” from the left navigation bar.
 * Click “Add Organizational Role” located in the “Add and Manage Organizations” box. 
     * Note: If an organization is new to NSF, you must start the process by setting yourself up as the Administrator for the new organization. You must have an NSF account to start this process. The system will automatically detect that the organization is new and will walk you through setting up the organization and Administrator role.
- <div markdown="0">   
+
+![New Organization]({{ site.baseurl }}/assets/img/fastlane/newOrg1.jpg)
+
+<div markdown="0">   
 <img style="margin:0px;" src="../assets/img/fastlane/newOrg1.jpg">
 </div>
 
