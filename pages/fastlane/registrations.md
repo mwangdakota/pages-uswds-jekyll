@@ -12,36 +12,40 @@ sidenav: fastlane
 Before you can begin entering your full proposal in FastLane, your company must have completed the following registrations: 
 
 * [Dun and Bradstreet Data Universal Numbering System (DUNS)](https://www.nsf.gov/cgi-bin/good-bye?https://iupdate.dnb.com/iUpdate/viewiUpdateHome.htm)
+  
   All organization information MUST BE IDENTICAL in SAM and in your DUNS Number/Dun & Bradstreet (D&B) record. 
 
- Make sure the organization address registered in SAM matches the address listed in your DUNS Number/D&B record. Entering one address for your DUNS Number/D&B record and a different address for your SAM registration can result in significant SAM registration activation delays.
+  Make sure the organization address registered in SAM matches the address listed in your DUNS Number/D&B record. Entering one address for your DUNS Number/D&B record and a different address for your SAM registration can result in significant SAM registration activation delays.
 
 * [System for Award Management (SAM)](https://www.sam.gov/SAM/)
-Please allow sufficient time for a new SAM registration to be processed and active. New SAM registrations can take up to two weeks to become active. Sometimes SAM registrations can take longer if the registration information provided in SAM is incomplete or accurate.
 
- NOTE: Once your new SAM registration is active, it takes up to two business days for NSF to receive and process your SAM information. New organizations cannot register with NSF until the organization's active SAM registration information is processed by NSF. 
+  Please allow sufficient time for a new SAM registration to be processed and active. New SAM registrations can take up to two weeks to become active. Sometimes SAM registrations can take longer if the registration information provided in SAM is incomplete or accurate.
 
- The SAM registration information must be validated with outside parties before the registration can be activated. If the registration fails the Internal Revenue Service Taxpayer Identification Number (TIN) validation or Commercial and Government Entity (CAGE) validation with the Department of Defense's Defense Logistics Agency, the SAM registration could take significantly longer to become active.
+  NOTE: Once your new SAM registration is active, it takes up to two business days for NSF to receive and process your SAM information. New organizations cannot register with NSF until the organization's active SAM registration information is processed by NSF. 
 
- When entering the organization's TIN in SAM, ensure that the organization name matches the taxpayer name associated with your TIN. A mismatch of information can result in significant SAM registration activation delays.
+  The SAM registration information must be validated with outside parties before the registration can be activated. If the registration fails the Internal Revenue Service Taxpayer Identification Number (TIN) validation or Commercial and Government Entity (CAGE) validation with the Department of Defense's Defense Logistics Agency, the SAM registration could take significantly longer to become active.
 
- For SBIR applicants with subawardees and for all STTR applicants, the subawardee should be registered in SAM. If the sub awardee organization is NOT registered in SAM, the principal investigator (PI) or a representative at the subawardee organization can call the [Research.gov](https://www.research.gov) or FastLane Help Desk and NSF will manually register them as an institution in the NSF system to facilitate timely proposal submission.
+  When entering the organization's TIN in SAM, ensure that the organization name matches the taxpayer name associated with your TIN. A mismatch of information can result in significant SAM registration activation delays.
+
+  For SBIR applicants with subawardees and for all STTR applicants, the subawardee should be registered in SAM. If the sub awardee organization is NOT registered in SAM, the principal investigator (PI) or a representative at the subawardee organization can call the [Research.gov](https://www.research.gov) or FastLane Help Desk and NSF will manually register them as an institution in the NSF system to facilitate timely proposal submission.
 
 * [Small Business Administration (SBA) Company Registry](https://www.sbir.gov/registration)
-You need to register with the SBIR Company Registry (operated by the Small Business Administration). Post-registration, you’ll receive a Business Concern Control ID (SBC ID), which you’ll need to include in your FastLane application.
+
+  You need to register with the SBIR Company Registry (operated by the Small Business Administration). Post-registration, you’ll receive a Business Concern Control ID (SBC ID), which you’ll need to include in your FastLane application.
 
 * [NSF Research.gov](https://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_home_page) 
-Organizations new to NSF must register via the account management system in [Research.gov](https://www.research.gov).
 
- For additional information and step-by-step instructions, please see the "Register a New Organization" [video tutorial](https://www.research.gov/common/attachment/Desktop/AcctMgmtSIDVideo3.html) and [Account Management Guide](https://www.research.gov/common/attachment/Desktop/Single_ID_Help.pdf) section. If the video tutorial does not open, please try viewing it using another browser. 
+  Organizations new to NSF must register via the account management system in [Research.gov](https://www.research.gov).
 
- The [Account Management Guide](https://www.research.gov/common/attachment/Desktop/Single_ID_Help.pdf), [Frequently Asked Questions (FAQs)](https://www.research.gov/common/attachment/Desktop/Single_ID_FAQs.pdf), and multiple video tutorials are available on the Research.gov [About Account Management](https://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_node_display&_nodePath=/researchGov/Service/Desktop/InstitutionAndUserManagement.html) page.
+  For additional information and step-by-step instructions, please see the "Register a New Organization" [video tutorial](https://www.research.gov/common/attachment/Desktop/AcctMgmtSIDVideo3.html) and [Account Management Guide](https://www.research.gov/common/attachment/Desktop/Single_ID_Help.pdf) section. If the video tutorial does not open, please try viewing it using another browser. 
 
- NSF recommends that the Principal Investigator (PI) also register as an “Authorized Organizational Representative – AOR” for the organization. The PI creates and uploads all proposal components to FastLane, and the AOR formally submits the proposal to NSF. <div markdown="0"><span style="color:red;">Only PIs with AOR privileges can submit the proposal.</span></div> The AOR role is NEVER assigned to any person by default. 
+  The [Account Management Guide](https://www.research.gov/common/attachment/Desktop/Single_ID_Help.pdf), [Frequently Asked Questions (FAQs)](https://www.research.gov/common/attachment/Desktop/Single_ID_FAQs.pdf), and multiple video tutorials are available on the Research.gov [About Account Management](https://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_node_display&_nodePath=/researchGov/Service/Desktop/InstitutionAndUserManagement.html) page.
 
- You can request the AOR role via the "Add a New Role" page in [Research.gov](https://www.research.gov). Here's how: 
-   * Sign in to [Research.gov](https://www.research.gov) and select the "My Profile" link located at the top right of the screen.
-   * To add the AOR role, select the "Add Organizational Role" button and choose the AOR role. Complete the role request wizard four-step process. Please see the [Account Management Guide](https://www.research.gov/common/attachment/Desktop/Single_ID_Help.pdf) "Add a New Role" section for additional information and step-by-step instructions with associated screenshots. 
+  NSF recommends that the Principal Investigator (PI) also register as an “Authorized Organizational Representative – AOR” for the organization. The PI creates and uploads all proposal components to FastLane, and the AOR formally submits the proposal to NSF. <div markdown="0"><span style="color:red;">Only PIs with AOR privileges can submit the proposal.</span></div> The AOR role is NEVER assigned to any person by default. 
+
+  You can request the AOR role via the "Add a New Role" page in [Research.gov](https://www.research.gov). Here's how: 
+  * Sign in to [Research.gov](https://www.research.gov) and select the "My Profile" link located at the top right of the screen.
+  * To add the AOR role, select the "Add Organizational Role" button and choose the AOR role. Complete the role request wizard four-step process. Please see the [Account Management Guide](https://www.research.gov/common/attachment/Desktop/Single_ID_Help.pdf) "Add a New Role" section for additional information and step-by-step instructions with associated screenshots. 
 
 ### Register a New Organization
 
