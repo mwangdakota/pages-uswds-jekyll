@@ -6,7 +6,7 @@ sidenav: fastlane
 ---
 # FastLane guide
 
-# 2. Registrations
+## 2. Registrations
 ### Do you have the required registrations?
 
 Before you can begin entering your full proposal in FastLane, your company must have completed the following registrations: 
