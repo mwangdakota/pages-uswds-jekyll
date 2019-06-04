@@ -86,7 +86,8 @@ Follow the step-by-step process below to register a new organization in Research
 ![Confirmation]({{ site.baseurl }}/assets/img/fastlane/newOrg6.jpg)
 
 **Helpful Tip:** Once an organization is registered with NSF, any updates to organizational information must be made by an organizational Administrator in the FastLane Research Administration module.
-![Helpful tip]({{ site.baseurl }}/assets/img/fastlane/helpfulTip.jpg)
+
+![Helpful tip]({{ site.baseurl }}/assets/img/fastlane/helpfulTip.png)
 
 <span style="color:red;">It is recommended that the Principal Investigator also register as an “Authorized Organizational Representative – AOR” for the organization.  The PI creates and uploads all proposal components to FastLane and the AOR formally submits the proposal to NSF.  Only PIs with AOR privileges can submit the proposal.  Failing to register as an AOR is not a valid excuse for missing the solicitation deadline.</span>
 
