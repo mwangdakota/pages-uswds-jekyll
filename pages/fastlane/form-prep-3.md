@@ -114,11 +114,11 @@ Follow the instructions on the below screen, then click "Upload File" to upload 
 21\. Click on the **Go** button to the left of **"Additional Single Copy Documents"**:
 ![Main screen with Additional Single Copy Docs highlighted]({{ site.baseurl }}/assets/img/fastlane/additional-single-copy-doc-1.png)
 
-Reference the current solicitation for restrictions and explanations of what NSF requires and what NSF allows in the Single Copy Documents module.
+**Reference the current solicitation for restrictions and explanations of what NSF requires and what NSF allows in the Single Copy Documents module.**
 
-*Items uploaded to this section of FastLane are not visible to the reviewers.  Companies are cautioned not to confuse this section with the “Supplementary Documents” section of FastLane.* 
+<span style="font-style:italic; font-weight:bold">Items uploaded to this section of FastLane are not visible to the reviewers.  Companies are cautioned not to confuse this section with the “Supplementary Documents” section of FastLane.</span> 
 
-**NEW IN 2019: You are required to convert your Project Pitch invitation email into a PDF file and upload it into the “Additional Single Copy Documents” module using the “Transfer File” button.** Once you have proofed and approved your upload, click “Go Back”” to return to the “Proposal Actions” screen. 
+<span style="color:red; font-weight:bold;">NEW IN 2019: You are required to convert your Project Pitch invitation email into a PDF file and upload it into the “Additional Single Copy Documents” module using the “Transfer File” button.</span> Once you have proofed and approved your upload, click “Go Back”” to return to the “Proposal Actions” screen. 
 
 ![Example Project Pitch response letter]({{ site.baseurl }}/assets/img/fastlane/additional-single-copy-doc-2.png)
 
