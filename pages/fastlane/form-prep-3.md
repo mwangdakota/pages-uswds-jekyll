@@ -118,7 +118,7 @@ Follow the instructions on the below screen, then click "Upload File" to upload 
 
 <span style="font-style:italic; font-weight:bold">Items uploaded to this section of FastLane are not visible to the reviewers.  Companies are cautioned not to confuse this section with the “Supplementary Documents” section of FastLane.</span> 
 
-<span style="color:red; font-weight:bold;">NEW IN 2019: You are required to convert your Project Pitch invitation email into a PDF file and upload it into the “Additional Single Copy Documents” module using the “Transfer File” button.</span> Once you have proofed and approved your upload, click “Go Back”” to return to the “Proposal Actions” screen. 
+<span style="color:red; font-weight:bold;">NEW IN 2019: You are required to convert your Project Pitch invitation email into a PDF file and upload it into the “Additional Single Copy Documents” module using the “Transfer File” button.</span> Once you have proofed and approved your upload, click **“Go Back”** to return to the “Proposal Actions” screen. 
 
 ![Example Project Pitch response letter]({{ site.baseurl }}/assets/img/fastlane/additional-single-copy-doc-2.png)
 
