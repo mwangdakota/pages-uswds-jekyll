@@ -36,8 +36,10 @@ primary:
 fastlane:
   - text: Fastlane Overview
     href: /fastlane/
+  - text: Registrations
+    href: /fastlane/registrations/
   - text: Form Preparation
-    href: /fastlane/form-prep/
+    href: /fastlane/form-prep-1/
   - text: Form Preparation part 2
     href: /fastlane/form-prep-2/
   - text: Form Preparation part 3

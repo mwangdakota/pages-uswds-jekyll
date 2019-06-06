@@ -5,7 +5,10 @@ layout: secondary-narrow
 sidenav: fastlane
 ---
 
-# Definitions
+# Definitions  
+
+## Award support/performance period
+For Phase I awards, the award support/performance period is the six-month period that begins on the award's effective date (it ends exactly six months after the effective date). For Phase II awards, the award support/performance period begins on the award's effective date and usually ends 24 months later.
 
 ## Commercialization
 The process of developing markets and producing and delivering products or services for sale (whether by the originating party or by others). We use the term to include government and non-government markets.
@@ -13,28 +16,28 @@ The process of developing markets and producing and delivering products or servi
 ## Consultant
 A person who contributes to a company's research (as described in their proposal) and who isn't an employee of that company. Consultants can be paid or unpaid.
 
-## Development
-Systematically applying knowledge to produce useful materials, devices, and systems or methods. Development may include designing, developing, and improving prototypes and processes to meet specific requirements.
-
 ## Cooperative research and development
 In the context of the STTR program, cooperative R&D is that conducted jointly by a small business and a research institution. As measured by the budget, the small business must perform at least 40 percent of the research, and the research institution must perform at least 30 percent.
+
+## Development
+Systematically applying knowledge to produce useful materials, devices, and systems or methods. Development may include designing, developing, and improving prototypes and processes to meet specific requirements.
 
 ## Effective date
 An award's **effective date**, which appears in the body of the award letter, is the date on or after which proposed work is expected to begin. The effective date is different from the **award date**, which indicates when the award was made administratively and which appears in the upper right-hand corner of the award letter.
 
-## Expiration date
-For Phase I awards, the expiration date is the last day of the six-month performance period. For Phase II awards, the expiration date is the last day of the award support period, which is usually 24 months long.
-
 ## Equivalent proposal
 An equivalent proposal is one that contains a description of work that completely overlaps (matches) the work described in another proposal.
 
-## Award support/performance period
-For Phase I awards, the award support/performance period is the six-month period that begins on the award's effective date (it ends exactly six months after the effective date). For Phase II awards, the award support/performance period begins on the award's effective date and usually ends 24 months later.
+## Expiration date
+For Phase I awards, the expiration date is the last day of the six-month performance period. For Phase II awards, the expiration date is the last day of the award support period, which is usually 24 months long.
 
 ## Joint venture
 A joint venture is an association of people or business concerns who, either by express or implied contract, are working together to execute a single business venture for joint profit. These people or concerns may combine their efforts, skills, property, money, or knowledge, but only on a temporary basis.
 
 A joint venture has the capability to control its own management, has its own Employer Identification Number as assigned by the Internal Revenue Service (IRS), and is eligible under the SBIR Program, provided that it qualifies as a small business concern as defined in this glossary.
+
+## Overlapping proposals
+An overlapping proposal is one that contains a description of work that overlaps (matches) the work described in another proposal.
 
 ## Permanent equipment
 Equipment is defined as a piece of non-expendable, tangible personal property that has a useful life of more than one year and an acquisition cost of $5,000 or more per unit. Individual companies may choose capitalization thresholds of less than $5,000.
@@ -55,9 +58,6 @@ The Code of Federal Regulations, Title 42, Part 52, defines a Principal Investig
 
 ## Proposer
 A proposer is a company or small business seeking SBIR/STTR funding.
-
-## Overlapping proposals
-An overlapping proposal is one that contains a description of work that overlaps (matches) the work described in another proposal.
 
 ## Research institution
 Within the context of the SBIR/STTR program, research institutions include:
@@ -85,11 +85,11 @@ A business concern that, at the time of the Phase I or Phase II award, meets the
 - It's at least 51 percent owned and controlled by one or more people who are U.S. citizens or permanent resident aliens.
 - It has no more than 500 employees (including affiliates).
 
-## Socially and economically disadvantaged small business
-A socially and economically disadvantaged small business concern is one that is at least 51 percent owned and managed by one or more socially and economically disadvantaged people (who also control and the day-to-day operations). In this context, _control_ means making policy decisions. _Operate_ means being actively involved in day-to-day management.
-
 ## Socially and economically disadvantaged individual
 A member of any of the following groups: Black Americans, Hispanic Americans, Native Americans, Asian-Pacific Americans, Subcontinent Asian Americans, other groups designated from time to time by the Small Business Administration (SBA) to be socially disadvantaged, and any other individual found to be socially and economically disadvantaged by SBA pursuant to Section 8(a) of the Small Business Act, 15 U.S.C. ; 637(a). For more information on this definition, [contact the SBA](https://www.sba.gov/).
+
+## Socially and economically disadvantaged small business
+A socially and economically disadvantaged small business concern is one that is at least 51 percent owned and managed by one or more socially and economically disadvantaged people (who also control and the day-to-day operations). In this context, _control_ means making policy decisions. _Operate_ means being actively involved in day-to-day management.
 
 ## Subaward (contract or subcontract)
 Any agreement, other than an employer-employee relationships, that a small business concern makes to procure supplies or services needed to complete work outlined in the funding agreement.
