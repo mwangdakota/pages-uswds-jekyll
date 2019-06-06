@@ -7,8 +7,8 @@ layout: secondary
 <div class="usa-section usa-content usa-grid">
 <div class="usa-width-one-whole" markdown="1">
 
-#NSF Innovation Frontier
-##Group Charter & Rules
+# NSF Innovation Frontier
+## Group Charter & Rules
 
 
 The National Science Foundation (NSF) Innovation Frontier is a space created on the [Union](https://union.vc/) platform to allow current and former NSF-funded innovators to access educational content, and share best practices, advice, and insights into starting/running a business, conducting research and development, raising capital, and producing tangible public benefits. Officially, NSF does not endorse the discussion but hopes that companies are respectful to each other and give insight and advice as appropriate.
@@ -35,7 +35,7 @@ Comments published on this platform are public for users of this platform and co
 * NSF does not guarantee that any information posted on its social media platforms is correct, and disclaims any liability for any loss or damage resulting from reliance upon such information. NSF does not guarantee, and assumes no liability for, anything posted on its social media platforms by any person, employee or otherwise.
 * Comments posted on NSF's social media platforms are considered to be expressions of the posters' opinions rather than fact or NSF's views, and, therefore, they are NOT subject to NSF's Information Quality Guidelines.
 * Links to websites not maintained by NSF are provided on NSF's social media platforms solely for the information and convenience of users, and do not constitute either a warranty of the accuracy of the information on any other website or an endorsement of any other website, commercial venture, or product.
-* NSF is not directly associated with, and cannot assume liability for, any private enterprise or the acts or omissions of its employees except to the extent provided by the Federal Tort Claims Act, 28 U.S.C. Â§Â§ 1346(b)(1), 1402(b), 2401(b), 2671-2680.
+* NSF is not directly associated with, and cannot assume liability for, any private enterprise or the acts or omissions of its employees except to the extent provided by the Federal Tort Claims Act, 28 U.S.C. 1346(b)(1), 1402(b), 2401(b), 2671-2680.
 
 Thank you for reading NSF’s comment policy. You are encouraged to use the NSF Innovation Frontier and participate in conversation with other NSF-funded innovators
 
