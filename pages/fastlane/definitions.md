@@ -5,7 +5,7 @@ layout: secondary-narrow
 sidenav: fastlane
 ---
 
-# Definitions
+# Definitions 
 
 ## Award support/performance period
 For Phase I awards, the award support/performance period is the six-month period that begins on the award's effective date (it ends exactly six months after the effective date). For Phase II awards, the award support/performance period begins on the award's effective date and usually ends 24 months later.
