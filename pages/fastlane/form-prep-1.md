@@ -56,7 +56,7 @@ Applicants must complete all required proposal Cover Sheet data fields in accord
 
 Click on the **"GO"** button to the left of **"Cover Sheet"**.
 
-Cover sheet selection
+Cover sheet selection 
 ![Selecting a cover sheet]({{ site.baseurl }}/assets/img/fastlane/Sep-coverSheetSelection.png)
 
 The Cover Sheet has been divided into 4 sections. To complete the Cover Sheet you must complete all 4 sections. 
