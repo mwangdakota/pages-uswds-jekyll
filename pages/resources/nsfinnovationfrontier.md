@@ -11,7 +11,7 @@ layout: secondary
 ## Group Charter & Rules
 
 
-The National Science Foundation (NSF) Innovation Frontier is a space created on the [Union](https://union.vc/) platform to allow current and former NSF-funded innovators to access educational content, and share best practices, advice, and insights into starting/running a business, conducting research and development, raising capital, and producing tangible public benefits. Officially, NSF does not endorse the discussion but hopes that companies are respectful to each other and give insight and advice as appropriate.
+The National Science Foundation (NSF) Innovation Frontier is a space created on the [Union](https://www.nsf.gov/cgi-bin/good-bye?https://union.vc/) platform to allow current and former NSF-funded innovators to access educational content, and share best practices, advice, and insights into starting/running a business, conducting research and development, raising capital, and producing tangible public benefits. Officially, NSF does not endorse the discussion but hopes that companies are respectful to each other and give insight and advice as appropriate.
 
 **NSF’s Role**: NSF will invite NSF-funded innovators to join the platform. However, NSF staff and Program Directors will not participate in the discussion board. The platform is meant for peer-to-peer interaction and not as a tool to communicate with NSF or your Program Director. Official correspondence with NSF will continue to come from your NSF Program Director in the form of emails or phone calls.  Please reach out directly to your cognizant Program Director with NSF-specific questions or concerns. 
 
