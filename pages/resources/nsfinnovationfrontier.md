@@ -37,7 +37,7 @@ Comments published on this platform are public for users of this platform and co
 * Links to websites not maintained by NSF are provided on NSF's social media platforms solely for the information and convenience of users, and do not constitute either a warranty of the accuracy of the information on any other website or an endorsement of any other website, commercial venture, or product.
 * NSF is not directly associated with, and cannot assume liability for, any private enterprise or the acts or omissions of its employees except to the extent provided by the Federal Tort Claims Act, 28 U.S.C. 1346(b)(1), 1402(b), 2401(b), 2671-2680.
 
-Thank you for reading NSF’s comment policy. You are encouraged to use the NSF Innovation Frontier and participate in conversation with other NSF-funded innovators
+Thank you for reading NSF’s comment policy. You are encouraged to use the NSF Innovation Frontier and participate in conversation with other NSF-funded innovators.
 
 </div>
 </div>
