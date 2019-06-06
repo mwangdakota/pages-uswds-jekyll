@@ -6,7 +6,6 @@ sidenav: fastlane
 ---
 # FastLane guide
 
-
 FastLane will not accept proposals after 5:00 PM submitter's time on June 13th. However, a new submission window will open on June 14th. If you are unable to submit by 5:00 p.m. local time on June 13th, please submit as soon as possible once the new window opens.  
 
 Read this guide to help you submit a Small Business Innovation Research (SBIR) or Small Business Technology Transfer (STTR) Phase I Proposal in FastLane. (A PDF version of this guide is also available for [download]({{ site.baseurl }}/assets/files/applicants/Phase_I_Proposal_Preparation_Booklet.pdf)).
