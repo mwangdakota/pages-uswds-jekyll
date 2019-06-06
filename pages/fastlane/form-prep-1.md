@@ -52,7 +52,7 @@ At the top of the **Form Preparation** page will be the text **Forms for Temp Pr
 ### Cover Sheet
 Applicants must complete all required proposal Cover Sheet data fields in accordance with the proposal preparation instructions. 
 
-<span stlye="color:red;">Proposal Cover Sheets missing required data field information will generate validation errors and cannot be saved or submitted. In addition, you may lose information entered on the Cover Sheet if it cannot be saved or submitted.</span> 
+<span style="color:red;">Proposal Cover Sheets missing required data field information will generate validation errors and cannot be saved or submitted. In addition, you may lose information entered on the Cover Sheet if it cannot be saved or submitted.</span> 
 
 Click on the **"GO"** button to the left of **"Cover Sheet"**.
 
