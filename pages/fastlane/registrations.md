@@ -9,7 +9,7 @@ sidenav: fastlane
 ## 2. Registrations
 ### Do you have the required registrations?
 
-Before you can begin entering your full proposal in FastLane, your company must have completed the following registrations: 
+Before you can begin entering your full proposal in FastLane, your company must have completed the following registrations:  
 
 * [Dun and Bradstreet Data Universal Numbering System (DUNS)](https://www.nsf.gov/cgi-bin/good-bye?https://iupdate.dnb.com/iUpdate/viewiUpdateHome.htm)
   
