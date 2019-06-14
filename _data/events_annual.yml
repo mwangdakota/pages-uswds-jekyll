@@ -38,8 +38,6 @@
     - eventname: SBIR Road Tour
       href: http://www.sbirroadtour.com/
       desc: NSF program directors join other funding agencies on a bus tour to speak about funding opportunities.
-    - eventname: Collision Conference
-      href: https://collisionconf.com/
     - eventname: Kauffman's ESHIP Summit
       href: http://www.kauffman.org/what-we-do/events/the-eship-summit 
 - month: Jun
@@ -48,10 +46,6 @@
       href: https://www.iste.org/
     - eventname: BIO International Convention
       href: http://convention.bio.org/ 
-    - eventname: Forbes Women's Conference
-      href: https://www.forbes.com/forbes-live/event/womens-summit-2018/
-    - eventname: Women in Technology Summit
-      href: https://www.witi.com/conferences/2018/summit/business-and-technology-expo.php
     - eventname: National SBIR Conference
       href: https://www.techconnectworld.com/SBIRSpring2019/
       desc: Join NSF and other government agencies with similar programs for the annual conference.
