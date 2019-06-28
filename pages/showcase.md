@@ -219,7 +219,7 @@ To learn more visit: [https://spheryx.solutions/](https://spheryx.solutions/).
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-scripts" title="3D Printing Video" height="300" width="100%" src="https://www.youtube.com/embed/OsLDAevskrA" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="3D Printing Video" height="300" width="100%" src="https://www.youtube.com/embed/OsLDAevskrA" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
