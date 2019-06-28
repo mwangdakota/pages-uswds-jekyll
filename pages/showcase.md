@@ -140,7 +140,7 @@ To learn more visit: [https://baylabs.io/](https://baylabs.io/).
 </div>
 
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-scripts" title="Ultrasound video" width="100%" height="300" src="https://www.youtube.com/embed/QdCIZE-eKB4" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="Ultrasound video" width="100%" height="300" src="https://www.youtube.com/embed/QdCIZE-eKB4" frameborder="0" allowfullscreen></iframe>
 </div>
 
 </div>
@@ -149,7 +149,7 @@ To learn more visit: [https://baylabs.io/](https://baylabs.io/).
 <div class="usa-content usa-grid">
 
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-scripts" title="Mental Health video" width="100%" height="300" src="https://www.youtube.com/embed/Z4mwbSNvlp8" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="Mental Health video" width="100%" height="300" src="https://www.youtube.com/embed/Z4mwbSNvlp8" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="usa-content usa-width-one-half" markdown="1">
 
@@ -210,7 +210,7 @@ To learn more visit: [https://spheryx.solutions/](https://spheryx.solutions/).
 </div>
 
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-scripts" title="Contaminates" width="100%" height="300" src="https://www.youtube.com/embed/OyR_i_nPkhA" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="Contaminates" width="100%" height="300" src="https://www.youtube.com/embed/OyR_i_nPkhA" frameborder="0" allowfullscreen></iframe>
 </div>
 
 </div>
@@ -249,7 +249,7 @@ To learn more visit: [https://www.arable.com/](https://www.arable.com/).
 </div>
 
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-scripts" title="sustainable-synthetic-bait-video" width="100%" height="300" src="https://www.youtube.com/embed/BC7LQRir7L8" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="sustainable-synthetic-bait-video" width="100%" height="300" src="https://www.youtube.com/embed/BC7LQRir7L8" frameborder="0" allowfullscreen></iframe>
 </div>
 
 </div>
@@ -303,7 +303,7 @@ To learn more visit: [https://www.omnity.io/](https://www.omnity.io/).
 </div>
 
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-scripts" title="Words video" width="100%" height="300" src="https://www.youtube.com/embed/r5EULFTdI0I" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="Words video" width="100%" height="300" src="https://www.youtube.com/embed/r5EULFTdI0I" frameborder="0" allowfullscreen></iframe>
 </div>
 
 </div>
@@ -314,7 +314,7 @@ To learn more visit: [https://www.omnity.io/](https://www.omnity.io/).
 
 
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-scripts" title="Manufacturing Video" width="100%" height="300" src="https://www.youtube.com/embed/Q10zFGxpNoo" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="Manufacturing Video" width="100%" height="300" src="https://www.youtube.com/embed/Q10zFGxpNoo" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="usa-content usa-width-one-half" markdown="1">
 
