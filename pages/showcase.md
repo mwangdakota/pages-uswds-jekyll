@@ -31,7 +31,7 @@ To learn more visit: [https://diligentrobots.com/](https://diligentrobots.com/).
 </div>
 
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" width="100%" height="300 src="https://www.youtube.com/embed/Pdm0hix7OiI" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="Diligent Robotics" width="100%" height="300" src="https://www.youtube.com/embed/Pdm0hix7OiI" frameborder="0" allowfullscreen></iframe>
 </div>
 </div>
 </section>
