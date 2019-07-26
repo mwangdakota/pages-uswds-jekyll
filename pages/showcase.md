@@ -17,6 +17,25 @@ Are you an awardee and have a success story to share?  [Tell us about it](https:
 </div>
 </section>
 
+<section class="usa-section showcase-content background-gray-dark">
+<div class="usa-content usa-grid">
+
+<div class="usa-content usa-width-one-half" markdown="1">
+
+### 'Moxi' the robot that supports nurses – Diligent Robotics
+
+Diligent Robotics, a small business funded by the National Science Foundation (NSF), created “Moxi,” a robot that supports clinical staff teams in acute care hospitals by executing logistical tasks so staff can focus on direct human care. 
+
+To learn more visit: [https://diligentrobots.com/](https://diligentrobots.com/).
+
+</div>
+
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Diligent Robotics" width="100%" height="300" src="https://www.youtube.com/embed/Pdm0hix7OiI" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+</section>
+
 <section class="usa-section showcase-content">
 
 <div class="usa-content usa-grid">
