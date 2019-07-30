@@ -36,6 +36,28 @@ To learn more visit: [https://diligentrobots.com/](https://diligentrobots.com/).
 </div>
 </section>
 
+<section class="usa-section showcase-content background-gray-dark">
+<div class="usa-content usa-grid">
+
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Diligent Robotics" width="100%" height="300" src="https://www.youtube.com/embed/f5iYvMtqTAo" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="usa-content usa-width-one-half" markdown="1">
+
+### Sustainable ink from algae
+
+Living Ink Technologies, a small business funded by the National Science Foundation (NSF), is developing ink from algae cells. The Colorado-based biomaterials company is “changing the way pigments are made” to use algae as a colorant. Its sustainable algae products could replace ink made from petroleum-based ink.
+
+To learn more visit: [https://livingink.co/](https://livingink.co/).
+
+</div>
+
+</div>
+</section>
+
+
+
 <section class="usa-section showcase-content">
 
 <div class="usa-content usa-grid">
