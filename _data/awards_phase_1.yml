@@ -37,7 +37,8 @@
   awardeeZipCode: 029065300
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819978'
+  id: '1819978'
+  ttopic: bm
   piEmail: tfmorse@ngsdetectors.com
   piFirstName: Theodore
   piLastName: Morse
@@ -62,7 +63,8 @@
   awardeeZipCode: '950543312'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843246'
+  id: '1843246'
+  ttopic: bm
   piEmail: rbetelia@embarkmedical.com
   piFirstName: Rainier
   piLastName: Betelia
@@ -87,7 +89,8 @@
   awardeeZipCode: '152064703'
   fundsObligatedAmt: '224956'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819399'
+  id: '1819399'
+  ttopic: it
   piEmail: bromberg@pearlstreettechnologies.com
   piFirstName: David
   piLastName: Bromberg
@@ -162,7 +165,8 @@
   awardeeZipCode: '940443907'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1841883'
+  id: '1841883'
+  ttopic: bm
   piEmail: solcum@travera.com
   piFirstName: Selim
   piLastName: Olcum
@@ -188,7 +192,8 @@
   awardeeZipCode: '168032847'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843624'
+  id: '1843624'
+  ttopic: am
   piEmail: birgitt@spotlessmaterials.com
   piFirstName: Birgitt
   piLastName: Boschitsch
@@ -213,7 +218,8 @@
   awardeeZipCode: '800201666'
   fundsObligatedAmt: '224877'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843099'
+  id: '1843099'
+  ttopic: m
   piEmail: abrewer@blueshiftusa.com
   piFirstName: Andrew
   piLastName: Brewer
@@ -238,7 +244,8 @@
   awardeeZipCode: '934013270'
   fundsObligatedAmt: '224594'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1840937'
+  id: '1840937'
+  ttopic: ai
   piEmail: louis@unanimousai.com
   piFirstName: Louis
   piLastName: Rosenberg
@@ -261,7 +268,8 @@
   awardeeZipCode: '948032517'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1746827'
+  id: '1746827'
+  ttopic: am
   piEmail: aokrut@gmail.com
   piFirstName: Alexander
   piLastName: Okrut
@@ -287,7 +295,8 @@
   awardeeZipCode: '946101520'
   fundsObligatedAmt: '224539'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843989'
+  id: '1843989'
+  ttopic: ea
   piEmail: dennis@sowntogrow.com
   piFirstName: Dennis
   piLastName: Li
@@ -310,7 +319,8 @@
   awardeeZipCode: '940434629'
   fundsObligatedAmt: '224348'
   fundProgramName: STTR PHASE I
-  id: '1745840'
+  id: '1745840'
+  ttopic: et
   piEmail: manish.gupta@nikiralabs.com
   piFirstName: Manish
   piLastName: Gupta
@@ -335,7 +345,8 @@
   awardeeZipCode: '481043935'
   fundsObligatedAmt: '224725'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1845552'
+  id: '1845552'
+  ttopic: it
   piEmail: todd.m.austin@gmail.com
   piFirstName: Todd
   piLastName: Austin
@@ -360,7 +371,8 @@
   awardeeZipCode: '660449189'
   fundsObligatedAmt: '224814'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843248'
+  id: '1843248'
+  ttopic: it
   piEmail: jessica@equilo.org
   piFirstName: Jessica
   piLastName: Menon
@@ -414,7 +426,8 @@
   awardeeZipCode: '100017603'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843270'
+  id: '1843270'
+  ttopic: it
   piEmail: nadine@themednet.org
   piFirstName: Nadine
   piLastName: Housri
@@ -439,7 +452,8 @@
   awardeeZipCode: '044733610'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843485'
+  id: '1843485'
+  ttopic: r
   piEmail: HARIPRASATH.PALANI@MAINE.EDU
   piFirstName: Hari Prasath
   piLastName: Palani
@@ -494,7 +508,8 @@
   awardeeZipCode: '277015013'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843074'
+  id: '1843074'
+  ttopic: bt
   piEmail: kluginbuhl@isolerebio.com
   piFirstName: Kelli
   piLastName: Luginbuhl
@@ -520,7 +535,8 @@
   awardeeZipCode: '618207460'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843966'
+  id: '1843966'
+  ttopic: md
   piEmail: aakhtar@psyonic.co
   piFirstName: Aadeel
   piLastName: Akhtar
@@ -545,7 +561,8 @@
   awardeeZipCode: '925624029'
   fundsObligatedAmt: '224206'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842393'
+  id: '1842393'
+  ttopic: md
   piEmail: jpark@globebiomedical.com
   piFirstName: Joshua
   piLastName: Park
@@ -570,7 +587,8 @@
   awardeeZipCode: '951293021'
   fundsObligatedAmt: '224924'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842769'
+  id: '1842769'
+  ttopic: qt
   piEmail: max@skyquantum.space
   piFirstName: Maxwell
   piLastName: Shapiro
@@ -632,7 +650,8 @@
   awardeeZipCode: '191024339'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842867'
+  id: '1842867'
+  ttopic: md
   piEmail: johnwelsh11@gmail.com
   piFirstName: John
   piLastName: Welsh
@@ -657,7 +676,8 @@
   awardeeZipCode: '070431337'
   fundsObligatedAmt: '224950'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843693'
+  id: '1843693'
+  ttopic: ea
   piEmail: Meredith@Tinkercast.com
   piFirstName: Meredith
   piLastName: Halpern-Ranzer
@@ -681,7 +701,8 @@
   awardeeZipCode: '532282565'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819574'
+  id: '1819574'
+  ttopic: bt
   piEmail: aalexan@cellrtherapeutics.com
   piFirstName: Arshak
   piLastName: Alexanian
@@ -706,7 +727,8 @@
   awardeeZipCode: '296311483'
   fundsObligatedAmt: '217730'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819738'
+  id: '1819738'
+  ttopic: ph
   piEmail: giesber@htcrystalsolutions.com
   piFirstName: Henry
   piLastName: Giesber
@@ -732,7 +754,8 @@
   awardeeZipCode: '330273249'
   fundsObligatedAmt: '224249'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819821'
+  id: '1819821'
+  ttopic: ct
   piEmail: afa928@aol.com
   piFirstName: Alberto
   piLastName: Araujo
@@ -757,7 +780,8 @@
   awardeeZipCode: '913645408'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843994'
+  id: '1843994'
+  ttopic: it
   piEmail: liyuanjie08@gmail.com
   piFirstName: Yuanjie
   piLastName: Li
@@ -782,7 +806,8 @@
   awardeeZipCode: '245512225'
   fundsObligatedAmt: '224048'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842797'
+  id: '1842797'
+  ttopic: ih
   piEmail: sali@innerspec.com
   piFirstName: Syed
   piLastName: Ali
@@ -807,7 +832,8 @@
   awardeeZipCode: '981157301'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819846'
+  id: '1819846'
+  ttopic: et
   piEmail: kurt.kung@4th-phase.com
   piFirstName: Chien-Chang
   piLastName: Kung
@@ -856,7 +882,8 @@
   awardeeZipCode: '201203750'
   fundsObligatedAmt: '224502'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842149'
+  id: '1842149'
+  ttopic: md
   piEmail: dan.fleck@altrixmedical.com
   piFirstName: Daniel
   piLastName: Fleck
@@ -905,7 +932,8 @@
   awardeeZipCode: '727016948'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1841929'
+  id: '1841929'
+  ttopic: i
   piEmail: xiaoli.su@zebraanalytix.com
   piFirstName: Xiaoli
   piLastName: Su
@@ -929,7 +957,8 @@
   awardeeZipCode: '537033590'
   fundsObligatedAmt: '224752'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1849600'
+  id: '1849600'
+  ttopic: am
   piEmail: kjbarnett@pyranco.com
   piFirstName: Kevin
   piLastName: Barnett
@@ -954,7 +983,8 @@
   awardeeZipCode: '303320560'
   fundsObligatedAmt: '224718'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843054'
+  id: '1843054'
+  ttopic: am
   piEmail: chris.oberste@weav3d.com
   piFirstName: Christopher
   piLastName: Oberste
@@ -980,7 +1010,8 @@
   awardeeZipCode: 085404605
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
-  id: '1843743'
+  id: '1843743'
+  ttopic: ph
   piEmail: nickcdavy@gmail.com
   piFirstName: Nicholas
   piLastName: Davy
@@ -1005,7 +1036,8 @@
   awardeeZipCode: '941291768'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1844085'
+  id: '1844085'
+  ttopic: r
   piEmail: jnyquist@neurotrainer.com
   piFirstName: Jeff
   piLastName: Nyquist
@@ -1030,7 +1062,8 @@
   awardeeZipCode: '500143612'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842556'
+  id: '1842556'
+  ttopic: se
   piEmail: nrogovska@n-sense.us
   piFirstName: Natalia
   piLastName: Rogovska
@@ -1081,7 +1114,8 @@
   awardeeZipCode: 021997611
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
-  id: '1843221'
+  id: '1843221'
+  ttopic: ai
   piEmail: kelsey@3derm.com
   piFirstName: Kelsey
   piLastName: Gross
@@ -1131,7 +1165,8 @@
   awardeeZipCode: '279092738'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843503'
+  id: '1843503'
+  ttopic: bt
   piEmail: hdodo@ingateygen.com
   piFirstName: Hortense
   piLastName: Dodo
@@ -1155,7 +1190,8 @@
   awardeeZipCode: '010022775'
   fundsObligatedAmt: '224986'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843017'
+  id: '1843017'
+  ttopic: qt
   piEmail: ckoh@millimeterwavesystems.com
   piFirstName: Christopher
   piLastName: Koh
@@ -1210,7 +1246,8 @@
   awardeeZipCode: '946081211'
   fundsObligatedAmt: '224945'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843063'
+  id: '1843063'
+  ttopic: n
   piEmail: roger@coreshelltech.com
   piFirstName: SOURAV
   piLastName: BASU
@@ -1236,7 +1273,8 @@
   awardeeZipCode: 009079321
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842921'
+  id: '1842921'
+  ttopic: am
   piEmail: carlos.pinzon@upr.edu
   piFirstName: Carlos
   piLastName: Pinzon
@@ -1262,7 +1300,8 @@
   awardeeZipCode: '432121180'
   fundsObligatedAmt: '224985'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1841732'
+  id: '1841732'
+  ttopic: am
   piEmail: bowang@zeovation.com
   piFirstName: Bo
   piLastName: Wang
@@ -1286,7 +1325,8 @@
   awardeeZipCode: '112315113'
   fundsObligatedAmt: '224734'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842850'
+  id: '1842850'
+  ttopic: it
   piEmail: gen@trash.app
   piFirstName: Genevieve
   piLastName: Patterson
@@ -1332,7 +1372,8 @@
   awardeeZipCode: '100290000'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819331'
+  id: '1819331'
+  ttopic: bt
   piEmail: bertrand@geneticintelligence.com
   piFirstName: Bertrand
   piLastName: Adanve
@@ -1358,7 +1399,8 @@
   awardeeZipCode: 064431962
   fundsObligatedAmt: '223565'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819553'
+  id: '1819553'
+  ttopic: ea
   piEmail: gary@spinrisetechnologies.com
   piFirstName: Gary
   piLastName: Higginson
@@ -1383,7 +1425,8 @@
   awardeeZipCode: '950622048'
   fundsObligatedAmt: '224999'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1821213'
+  id: '1821213'
+  ttopic: ea
   piEmail: noah@nucleos.com
   piFirstName: Noah
   piLastName: Freedman
@@ -1407,7 +1450,8 @@
   awardeeZipCode: '943061422'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820414'
+  id: '1820414'
+  ttopic: ih
   piEmail: neptuneffs@gmail.com
   piFirstName: Trevor
   piLastName: McQueen
@@ -1433,7 +1477,8 @@
   awardeeZipCode: '618207460'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819081'
+  id: '1819081'
+  ttopic: bm
   piEmail: kmcai@iriapharma.com
   piFirstName: Kaimin
   piLastName: Cai
@@ -1458,7 +1503,8 @@
   awardeeZipCode: '282230001'
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
-  id: '1843330'
+  id: '1843330'
+  ttopic: se
   piEmail: babak.parkhideh@tell-i.com
   piFirstName: Babak
   piLastName: Parkhideh
@@ -1483,7 +1529,8 @@
   awardeeZipCode: '770561884'
   fundsObligatedAmt: '224994'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843943'
+  id: '1843943'
+  ttopic: et
   piEmail: gary@katzwater.com
   piFirstName: Gary
   piLastName: Katz
@@ -1532,7 +1579,8 @@
   awardeeZipCode: '208175419'
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
-  id: '1842745'
+  id: '1842745'
+  ttopic: n
   piEmail: kcaozhan@gmail.com
   piFirstName: Jasmin
   piLastName: El Kordi
@@ -1580,7 +1628,8 @@
   awardeeZipCode: '342199047'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843045'
+  id: '1843045'
+  ttopic: bt
   piEmail: kara@soilcea.com
   piFirstName: Kara
   piLastName: Boltz
@@ -1635,7 +1684,8 @@
   awardeeZipCode: '947041011'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843365'
+  id: '1843365'
+  ttopic: bt
   piEmail: wangouwei@gmail.com
   piFirstName: Ouwei
   piLastName: Wang
@@ -1691,7 +1741,8 @@
   awardeeZipCode: '379313073'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843794'
+  id: '1843794'
+  ttopic: n
   piEmail: anna.douglas@skynanotechnologies.com
   piFirstName: Anna
   piLastName: Douglas
@@ -1747,7 +1798,8 @@
   awardeeZipCode: '804031380'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1845581'
+  id: '1845581'
+  ttopic: bm
   piEmail: danielle@microbialpulse.com
   piFirstName: Danielle
   piLastName: France
@@ -1800,7 +1852,8 @@
   awardeeZipCode: '400146773'
   fundsObligatedAmt: '224999'
   fundProgramName: STTR PHASE I
-  id: '1820049'
+  id: '1820049'
+  ttopic: bm
   piEmail: sswami2750@gmail.com
   piFirstName: Sumanth
   piLastName: Swaminathan
@@ -1849,7 +1902,8 @@
   awardeeZipCode: '148504694'
   fundsObligatedAmt: '224387'
   fundProgramName: STTR PHASE I
-  id: '1819600'
+  id: '1819600'
+  ttopic: ct
   piEmail: vipul@fartherfarms.com
   piFirstName: Vipul
   piLastName: Saran
@@ -1903,7 +1957,8 @@
   awardeeZipCode: '981084365'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819785'
+  id: '1819785'
+  ttopic: m
   piEmail: ben@xflowenergy.com
   piFirstName: Benjamin
   piLastName: Strom
@@ -1927,7 +1982,8 @@
   awardeeZipCode: '148501731'
   fundsObligatedAmt: '224479'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819808'
+  id: '1819808'
+  ttopic: ai
   piEmail: mariya@topbots.com
   piFirstName: Yanjia
   piLastName: Yao
@@ -1952,7 +2008,8 @@
   awardeeZipCode: '920751619'
   fundsObligatedAmt: '158852'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820435'
+  id: '1820435'
+  ttopic: sp
   piEmail: michael.parr@esatglobal.com
   piFirstName: Michael
   piLastName: Parr
@@ -1977,7 +2034,8 @@
   awardeeZipCode: '382373222'
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
-  id: '1819545'
+  id: '1819545'
+  ttopic: bt
   piEmail: chris.ramezanpour@gmail.com
   piFirstName: Chris
   piLastName: Ramezanpour
@@ -2026,7 +2084,8 @@
   awardeeZipCode: '853832052'
   fundsObligatedAmt: '223837'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820364'
+  id: '1820364'
+  ttopic: am
   piEmail: peter@SwiftCoat.com
   piFirstName: Peter
   piLastName: Firth
@@ -2051,7 +2110,8 @@
   awardeeZipCode: '598239624'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819290'
+  id: '1819290'
+  ttopic: bt
   piEmail: 2robsmith@gmail.com
   piFirstName: Robert
   piLastName: Smith
@@ -2093,7 +2153,7 @@
     we will select the best overall technology to complete our supply chain for the
     production in Phase II. In particular, we will perform field tests by working
     with solar mining industrial partners as well as Non-Government Organizations
-    (NGO's) to get their feedback on how to improve the product in relevant environment. "
+    (NGO's) to get their feedback on how to improve the product in relevant environment. "
   awardeeAddress: 419 Wood Acres Drive
   awardeeCity: East Amherst
   awardeeCountryCode: US
@@ -2102,7 +2162,8 @@
   awardeeZipCode: '140511669'
   fundsObligatedAmt: '224934'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1745846'
+  id: '1745846'
+  ttopic: ph
   piEmail: zongminbei@gmail.com
   piFirstName: Haomin
   piLastName: Song
@@ -2126,7 +2187,8 @@
   awardeeZipCode: '925929227'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1747210'
+  id: '1747210'
+  ttopic: m
   piEmail: robin@voxel-llc.com
   piFirstName: Milton
   piLastName: Meisner
@@ -2152,7 +2214,8 @@
   awardeeZipCode: '329034301'
   fundsObligatedAmt: '224722'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843595'
+  id: '1843595'
+  ttopic: w
   piEmail: dnash2005@gmail.com
   piFirstName: David
   piLastName: Nash
@@ -2176,7 +2239,8 @@
   awardeeZipCode: '727039203'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843314'
+  id: '1843314'
+  ttopic: md
   piEmail: nhiem@lapovations.com
   piFirstName: Nhiem
   piLastName: Cao
@@ -2200,7 +2264,8 @@
   awardeeZipCode: 021341008
   fundsObligatedAmt: '224990'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843534'
+  id: '1843534'
+  ttopic: n
   piEmail: e.shirman@gmail.com
   piFirstName: Elijah
   piLastName: Shirman
@@ -2254,7 +2319,8 @@
   awardeeZipCode: '021351200'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843682'
+  id: '1843682'
+  ttopic: bm
   piEmail: mmehta@gelformed.com
   piFirstName: Manav
   piLastName: Mehta
@@ -2278,7 +2344,8 @@
   awardeeZipCode: '112011853'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843049'
+  id: '1843049'
+  ttopic: it
   piEmail: jeffreylaut@gmail.com
   piFirstName: Jeffrey
   piLastName: Laut
@@ -2330,7 +2397,8 @@
   awardeeZipCode: '950142293'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843326'
+  id: '1843326'
+  ttopic: ea
   piEmail: m@acarrot.com
   piFirstName: Mahesh
   piLastName: Godavarti
@@ -2354,7 +2422,8 @@
   awardeeZipCode: '152061738'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843332'
+  id: '1843332'
+  ttopic: bt
   piEmail: amber.lucas@impactproteomics.com
   piFirstName: Amber
   piLastName: Lucas
@@ -2378,7 +2447,8 @@
   awardeeZipCode: '701180000'
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
-  id: '1843479'
+  id: '1843479'
+  ttopic: bm
   piEmail: kevinluo006@gmail.com
   piFirstName: Daishen
   piLastName: Luo
@@ -2402,7 +2472,8 @@
   awardeeZipCode: '152032116'
   fundsObligatedAmt: '224999'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843825'
+  id: '1843825'
+  ttopic: it
   piEmail: akifburak@gmail.com
   piFirstName: Akif
   piLastName: Tosun
@@ -2458,7 +2529,8 @@
   awardeeZipCode: '761167169'
   fundsObligatedAmt: '224893'
   fundProgramName: STTR PHASE I
-  id: '1843880'
+  id: '1843880'
+  ttopic: r
   piEmail: veenasomareddy@neurorehabvr.com
   piFirstName: Veena
   piLastName: Somareddy
@@ -2483,7 +2555,8 @@
   awardeeZipCode: '841245644'
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
-  id: '1843216'
+  id: '1843216'
+  ttopic: i
   piEmail: contact@reroutingllc.com
   piFirstName: Nathan
   piLastName: Chetrit
@@ -2508,7 +2581,8 @@
   awardeeZipCode: '951482514'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1844111'
+  id: '1844111'
+  ttopic: n
   piEmail: jprovine@alignedcarbon.com
   piFirstName: John
   piLastName: Provine
@@ -2554,7 +2628,8 @@
   awardeeZipCode: '708105978'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843347'
+  id: '1843347'
+  ttopic: m
   piEmail: mvincent@refinedimagingllc.com
   piFirstName: Michael
   piLastName: Vincent
@@ -2579,7 +2654,8 @@
   awardeeZipCode: '946055736'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843926'
+  id: '1843926'
+  ttopic: it
   piEmail: jonathan@atom-computing.com
   piFirstName: Jonathan
   piLastName: King
@@ -2604,7 +2680,8 @@
   awardeeZipCode: '200074230'
   fundsObligatedAmt: '224995'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843774'
+  id: '1843774'
+  ttopic: it
   piEmail: ebakke@ultorg.com
   piFirstName: Eirik
   piLastName: Bakke
@@ -2629,7 +2706,8 @@
   awardeeZipCode: '802382990'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843098'
+  id: '1843098'
+  ttopic: it
   piEmail: sarah@geospiza.us
   piFirstName: Sarah
   piLastName: Tuneberg
@@ -2655,7 +2733,8 @@
   awardeeZipCode: 021433608
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
-  id: '1843464'
+  id: '1843464'
+  ttopic: ai
   piEmail: zaman@mit.edu
   piFirstName: Cagri
   piLastName: Zaman
@@ -2704,7 +2783,8 @@
   awardeeZipCode: '770212041'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843901'
+  id: '1843901'
+  ttopic: md
   piEmail: christina.bolch@corinnova.com
   piFirstName: Christina
   piLastName: Bolch
@@ -2730,7 +2810,8 @@
   awardeeZipCode: '947071517'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1844088'
+  id: '1844088'
+  ttopic: bt
   piEmail: alex.schultink@gmail.com
   piFirstName: Alex
   piLastName: Schultink
@@ -2755,7 +2836,8 @@
   awardeeZipCode: '474084333'
   fundsObligatedAmt: '224933'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843202'
+  id: '1843202'
+  ttopic: am
   piEmail: crbenson6@gmail.com
   piFirstName: Christoper
   piLastName: Benson
@@ -2781,7 +2863,8 @@
   awardeeZipCode: '022104501'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843035'
+  id: '1843035'
+  ttopic: m
   piEmail: josh@3dfortify.com
   piFirstName: Joshua
   piLastName: Martin
@@ -2807,7 +2890,8 @@
   awardeeZipCode: '973303350'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843020'
+  id: '1843020'
+  ttopic: et
   piEmail: lesnikk@oregonstate.edu
   piFirstName: Keaton
   piLastName: Lesnik
@@ -2833,7 +2917,8 @@
   awardeeZipCode: '804038052'
   fundsObligatedAmt: '224998'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843430'
+  id: '1843430'
+  ttopic: m
   piEmail: alice.havill@vartega.com
   piFirstName: Alice
   piLastName: Havill
@@ -2858,7 +2943,8 @@
   awardeeZipCode: '488641604'
   fundsObligatedAmt: '224998'
   fundProgramName: STTR PHASE I
-  id: '1843790'
+  id: '1843790'
+  ttopic: am
   piEmail: schaefer.evan@gmail.com
   piFirstName: Evan
   piLastName: Schaefer
@@ -2911,7 +2997,8 @@
   awardeeZipCode: '770027545'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1841740'
+  id: '1841740'
+  ttopic: ct
   piEmail: babak.shafei@AquaNRGconsulting.com
   piFirstName: Babak
   piLastName: Shafei
@@ -2936,7 +3023,8 @@
   awardeeZipCode: '940021342'
   fundsObligatedAmt: '222596'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843983'
+  id: '1843983'
+  ttopic: r
   piEmail: jhbarad@ossovr.com
   piFirstName: Justin
   piLastName: Barad
@@ -2961,7 +3049,8 @@
   awardeeZipCode: '121481516'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843578'
+  id: '1843578'
+  ttopic: s
   piEmail: gooyoun10@hotmail.com
   piFirstName: Goo Youn
   piLastName: Kim
@@ -2986,7 +3075,8 @@
   awardeeZipCode: 021394907
   fundsObligatedAmt: '224995'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1845752'
+  id: '1845752'
+  ttopic: it
   piEmail: deskool@gmail.com
   piFirstName: Mohammad
   piLastName: Ghassemi
@@ -3012,7 +3102,8 @@
   awardeeZipCode: '201913600'
   fundsObligatedAmt: '214218'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1846420'
+  id: '1846420'
+  ttopic: it
   piEmail: lokeshdani@xopol.is
   piFirstName: Lokesh
   piLastName: Dani
@@ -3037,7 +3128,8 @@
   awardeeZipCode: '927087725'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843975'
+  id: '1843975'
+  ttopic: it
   piEmail: andrew.q.ninh@gmail.com
   piFirstName: Andrew
   piLastName: Ninh
@@ -3091,7 +3183,8 @@
   awardeeZipCode: '914031595'
   fundsObligatedAmt: '224981'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843917'
+  id: '1843917'
+  ttopic: dh
   piEmail: glee@sanguinebio.com
   piFirstName: Gerald
   piLastName: Lee
@@ -3116,7 +3209,8 @@
   awardeeZipCode: 037552186
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843658'
+  id: '1843658'
+  ttopic: md
   piEmail: justiceamoh@gmail.com
   piFirstName: Justice
   piLastName: Amoh
@@ -3140,7 +3234,8 @@
   awardeeZipCode: '105951554'
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
-  id: '1843514'
+  id: '1843514'
+  ttopic: md
   piEmail: mzemel@mkmventuresllc.com
   piFirstName: Marc
   piLastName: Zemel
@@ -3165,7 +3260,8 @@
   awardeeZipCode: '474089698'
   fundsObligatedAmt: '224444'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843634'
+  id: '1843634'
+  ttopic: it
   piEmail: rn@cloudseal.io
   piFirstName: Ryan
   piLastName: Newton
@@ -3190,7 +3286,8 @@
   awardeeZipCode: '925076018'
   fundsObligatedAmt: '224968'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843998'
+  id: '1843998'
+  ttopic: ph
   piEmail: shail@farmsense.io
   piFirstName: shailendra
   piLastName: singh
@@ -3248,7 +3345,8 @@
   awardeeZipCode: '100124317'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843690'
+  id: '1843690'
+  ttopic: bt
   piEmail: emm@curieco.com
   piFirstName: Erika
   piLastName: Milczek
@@ -3275,7 +3373,8 @@
   awardeeZipCode: '708207400'
   fundsObligatedAmt: '211834'
   fundProgramName: STTR PHASE I
-  id: '1843399'
+  id: '1843399'
+  ttopic: se
   piEmail: maria.teresa@gutierrez-wing.com
   piFirstName: MARIA
   piLastName: GUTIERREZ-WING
@@ -3300,7 +3399,8 @@
   awardeeZipCode: '921043080'
   fundsObligatedAmt: '224993'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842768'
+  id: '1842768'
+  ttopic: it
   piEmail: max@infocusnetworks.com
   piFirstName: William
   piLastName: Mellette
@@ -3325,7 +3425,8 @@
   awardeeZipCode: '920935004'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842736'
+  id: '1842736'
+  ttopic: bt
   piEmail: cglass@tegatherapeutics.com
   piFirstName: Charles
   piLastName: Glass
@@ -3382,7 +3483,8 @@
   awardeeZipCode: '857044075'
   fundsObligatedAmt: '224470'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1844217'
+  id: '1844217'
+  ttopic: i
   piEmail: emil@sgnt.io
   piFirstName: Emil
   piLastName: Tremblay
@@ -3408,7 +3510,8 @@
   awardeeZipCode: '940021447'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843405'
+  id: '1843405'
+  ttopic: bt
   piEmail: kurt@trilotx.com
   piFirstName: Kurt
   piLastName: Gish
@@ -3457,7 +3560,8 @@
   awardeeZipCode: '597186046'
   fundsObligatedAmt: '224989'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843991'
+  id: '1843991'
+  ttopic: dl
   piEmail: jon.heinecke@gmail.com
   piFirstName: Jonathan
   piLastName: Heinecke
@@ -3482,7 +3586,8 @@
   awardeeZipCode: '207423371'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842929'
+  id: '1842929'
+  ttopic: ep
   piEmail: kgpayan@gmail.com
   piFirstName: AYAN
   piLastName: MALLIK
@@ -3535,7 +3640,8 @@
   awardeeZipCode: '631011272'
   fundsObligatedAmt: '224999'
   fundProgramName: STTR PHASE I
-  id: '1843944'
+  id: '1843944'
+  ttopic: ep
   piEmail: eboeing@acceleratewind.com
   piFirstName: Erika
   piLastName: Boeing
@@ -3560,7 +3666,8 @@
   awardeeZipCode: '328286979'
   fundsObligatedAmt: '224993'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843436'
+  id: '1843436'
+  ttopic: am
   piEmail: Jun@SynMatter.co
   piFirstName: Xuejun
   piLastName: Zhang
@@ -3585,7 +3692,8 @@
   awardeeZipCode: '947041370'
   fundsObligatedAmt: '224996'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1844045'
+  id: '1844045'
+  ttopic: se
   piEmail: serinuslabs.inc@gmail.com
   piFirstName: HOSSAIN
   piLastName: FAHAD
@@ -3611,7 +3719,8 @@
   awardeeZipCode: '022104501'
   fundsObligatedAmt: '223660'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843742'
+  id: '1843742'
+  ttopic: ih
   piEmail: dan@guardiontech.com
   piFirstName: Dan
   piLastName: Esposito
@@ -3635,7 +3744,8 @@
   awardeeZipCode: '951342004'
   fundsObligatedAmt: '224931'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843483'
+  id: '1843483'
+  ttopic: s
   piEmail: ssong@anaflash.com
   piFirstName: Seung-Hwan
   piLastName: Song
@@ -3660,7 +3770,8 @@
   awardeeZipCode: '146064261'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843230'
+  id: '1843230'
+  ttopic: am
   piEmail: shelby.nelson@mosaicmicro.com
   piFirstName: Shelby
   piLastName: Nelson
@@ -3717,7 +3828,8 @@
   awardeeZipCode: '941154330'
   fundsObligatedAmt: '224890'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843361'
+  id: '1843361'
+  ttopic: md
   piEmail: eric@bloomlife.com
   piFirstName: Eric
   piLastName: Dy
@@ -3742,7 +3854,8 @@
   awardeeZipCode: '148501719'
   fundsObligatedAmt: '224967'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842846'
+  id: '1842846'
+  ttopic: it
   piEmail: zhiming.shim@gmail.com
   piFirstName: Zhiming
   piLastName: Shen
@@ -3767,7 +3880,8 @@
   awardeeZipCode: '805039095'
   fundsObligatedAmt: '224872'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842958'
+  id: '1842958'
+  ttopic: md
   piEmail: JCASTLEBERRY@FORCASTORTHO.COM
   piFirstName: Jeff
   piLastName: Castleberry
@@ -3792,7 +3906,8 @@
   awardeeZipCode: '021433260'
   fundsObligatedAmt: '220982'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843379'
+  id: '1843379'
+  ttopic: r
   piEmail: jlessing@root-ai.com
   piFirstName: Joshua
   piLastName: Lessing
@@ -3817,7 +3932,8 @@
   awardeeZipCode: '488644602'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842740'
+  id: '1842740'
+  ttopic: ih
   piEmail: mshrestha@scionplasma.com
   piFirstName: Maheshwar
   piLastName: Shrestha
@@ -3852,7 +3968,8 @@
   awardeeZipCode: '875443231'
   fundsObligatedAmt: '224780'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1841031'
+  id: '1841031'
+  ttopic: ct
   piEmail: r_nebel@hotmail.com
   piFirstName: Richard
   piLastName: Nebel
@@ -3877,7 +3994,8 @@
   awardeeZipCode: '941073007'
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
-  id: '1843570'
+  id: '1843570'
+  ttopic: bt
   piEmail: arjun@rumiscientific.com
   piFirstName: Arjun
   piLastName: Adhikari
@@ -3903,7 +4021,8 @@
   awardeeZipCode: '481036226'
   fundsObligatedAmt: '224821'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842949'
+  id: '1842949'
+  ttopic: r
   piEmail: jill@sassafras.coop
   piFirstName: Jill
   piLastName: Dimond
@@ -3927,7 +4046,8 @@
   awardeeZipCode: '775463357'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843623'
+  id: '1843623'
+  ttopic: bt
   piEmail: scgifford@halcyonbiomedical.com
   piFirstName: Sean
   piLastName: Gifford
@@ -3952,7 +4072,8 @@
   awardeeZipCode: '947031313'
   fundsObligatedAmt: '224996'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843519'
+  id: '1843519'
+  ttopic: bm
   piEmail: dom@soneramagnetics.com
   piFirstName: Dominic
   piLastName: Labanowski
@@ -3977,7 +4098,8 @@
   awardeeZipCode: '554313114'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843921'
+  id: '1843921'
+  ttopic: se
   piEmail: rahul.panchal@leoninetech.com
   piFirstName: Rahul
   piLastName: Panchal
@@ -4002,7 +4124,8 @@
   awardeeZipCode: '981256941'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1854072'
+  id: '1854072'
+  ttopic: bt
   piEmail: alex@splitbio.com
   piFirstName: Alexander
   piLastName: Rosenberg
@@ -4029,7 +4152,8 @@
   awardeeZipCode: '940273020'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843358'
+  id: '1843358'
+  ttopic: ea
   piEmail: ninalhooper@gmail.com
   piFirstName: Nina
   piLastName: Hooper
@@ -4088,7 +4212,8 @@
   awardeeZipCode: '024465711'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842697'
+  id: '1842697'
+  ttopic: bt
   piEmail: dan.mandell@grobio.com
   piFirstName: Daniel
   piLastName: Mandell
@@ -4114,7 +4239,8 @@
   awardeeZipCode: '947201760'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1844019'
+  id: '1844019'
+  ttopic: bt
   piEmail: lkw0922@gmail.com
   piFirstName: Kunwoo
   piLastName: Lee
@@ -4168,7 +4294,8 @@
   awardeeZipCode: '180641462'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843518'
+  id: '1843518'
+  ttopic: bm
   piEmail: garry.morefield@vaxform.com
   piFirstName: Garry
   piLastName: Morefield
@@ -4222,7 +4349,8 @@
   awardeeZipCode: '148505795'
   fundsObligatedAmt: '224923'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843116'
+  id: '1843116'
+  ttopic: bt
   piEmail: manohar.iitr@gmail.com
   piFirstName: Murli
   piLastName: Manohar
@@ -4248,7 +4376,8 @@
   awardeeZipCode: '641131709'
   fundsObligatedAmt: '224649'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843894'
+  id: '1843894'
+  ttopic: ea
   piEmail: anna@makefullystudios.com
   piFirstName: Anna
   piLastName: Jordan-Douglass
@@ -4274,7 +4403,8 @@
   awardeeZipCode: '602013245'
   fundsObligatedAmt: '224982'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843776'
+  id: '1843776'
+  ttopic: ea
   piEmail: my@forge.works
   piFirstName: My
   piLastName: Nguyen
@@ -4298,7 +4428,8 @@
   awardeeZipCode: '303093871'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843818'
+  id: '1843818'
+  ttopic: it
   piEmail: andres@comake.io
   piFirstName: Andres
   piLastName: Gutierrez
@@ -4322,7 +4453,8 @@
   awardeeZipCode: '970356780'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843988'
+  id: '1843988'
+  ttopic: ai
   piEmail: vinay@rocketml.net
   piFirstName: vinay
   piLastName: rao
@@ -4379,7 +4511,8 @@
   awardeeZipCode: '941173748'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843103'
+  id: '1843103'
+  ttopic: ai
   piEmail: toni@terrafuse.ai
   piFirstName: Adrian
   piLastName: Albert
@@ -4404,7 +4537,8 @@
   awardeeZipCode: '980526959'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842790'
+  id: '1842790'
+  ttopic: it
   piEmail: helen@6crickets.com
   piFirstName: Helen
   piLastName: Wang
@@ -4430,7 +4564,8 @@
   awardeeZipCode: '981039103'
   fundsObligatedAmt: '224934'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843530'
+  id: '1843530'
+  ttopic: ea
   piEmail: barry@curiointeractive.com
   piFirstName: Barry
   piLastName: Boone
@@ -4455,7 +4590,8 @@
   awardeeZipCode: '112381531'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843286'
+  id: '1843286'
+  ttopic: ea
   piEmail: anurag@bemoreamerica.org
   piFirstName: Anurag
   piLastName: Gupta
@@ -4481,7 +4617,8 @@
   awardeeZipCode: '840986167'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842833'
+  id: '1842833'
+  ttopic: ea
   piEmail: ccallowheusser@bettermentlabs.com
   piFirstName: Catherine
   piLastName: Callow-Heusser
@@ -4507,7 +4644,8 @@
   awardeeZipCode: '274014904'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819562'
+  id: '1819562'
+  ttopic: bt
   piEmail: kristen.bowey@gmail.com
   piFirstName: Kristen
   piLastName: Dellinger
@@ -4531,7 +4669,8 @@
   awardeeZipCode: '950502702'
   fundsObligatedAmt: '224925'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820005'
+  id: '1820005'
+  ttopic: md
   piEmail: janice@neuroprexinc.com
   piFirstName: Hsiu
   piLastName: Huang
@@ -4557,7 +4696,8 @@
   awardeeZipCode: '665033145'
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
-  id: '1819177'
+  id: '1819177'
+  ttopic: md
   piEmail: austin.pfannenstiel@gmail.com
   piFirstName: Austin
   piLastName: Pfannenstiel
@@ -4582,7 +4722,8 @@
   awardeeZipCode: '479065306'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819970'
+  id: '1819970'
+  ttopic: se
   piEmail: kclayton@omnivistech.com
   piFirstName: Katherine
   piLastName: Clayton
@@ -4630,7 +4771,8 @@
   awardeeZipCode: '801328738'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820076'
+  id: '1820076'
+  ttopic: ai
   piEmail: bnesterenko09@gmail.com
   piFirstName: Brandon
   piLastName: Nesterenko
@@ -4656,7 +4798,8 @@
   awardeeZipCode: '015455477'
   fundsObligatedAmt: '224991'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820118'
+  id: '1820118'
+  ttopic: ai
   piEmail: jzhou@businessdataminers.com
   piFirstName: Jiang
   piLastName: Zhou
@@ -4699,7 +4842,8 @@
   awardeeZipCode: '551135602'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819577'
+  id: '1819577'
+  ttopic: m
   piEmail: brad.guertin@berdspokes.com
   piFirstName: Brad
   piLastName: Guertin
@@ -4724,7 +4868,8 @@
   awardeeZipCode: '950511155'
   fundsObligatedAmt: '224679'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820240'
+  id: '1820240'
+  ttopic: it
   piEmail: ajay@plasticityai.com
   piFirstName: Ajay
   piLastName: Patel
@@ -4748,7 +4893,8 @@
   awardeeZipCode: '945393680'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820507'
+  id: '1820507'
+  ttopic: it
   piEmail: seanhalle@intensivate.com
   piFirstName: Sean
   piLastName: Halle
@@ -4773,7 +4919,8 @@
   awardeeZipCode: '925013617'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819362'
+  id: '1819362'
+  ttopic: it
   piEmail: pgior001@ucr.edu
   piFirstName: Preston
   piLastName: Giorgianni
@@ -4799,7 +4946,8 @@
   awardeeZipCode: '198011155'
   fundsObligatedAmt: '224753'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819650'
+  id: '1819650'
+  ttopic: ea
   piEmail: kalter@virtueventures.com
   piFirstName: Sutia
   piLastName: Alter
@@ -4824,7 +4972,8 @@
   awardeeZipCode: '522414716'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819917'
+  id: '1819917'
+  ttopic: se
   piEmail: jonathan@actibiomotion.com
   piFirstName: Jonathan
   piLastName: DeShaw
@@ -4874,7 +5023,8 @@
   awardeeZipCode: '618223563'
   fundsObligatedAmt: '219444'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819321'
+  id: '1819321'
+  ttopic: ep
   piEmail: ayoon@hinetics.com
   piFirstName: Andy
   piLastName: Yoon
@@ -4925,7 +5075,8 @@
   awardeeZipCode: '010353512'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819794'
+  id: '1819794'
+  ttopic: bm
   piEmail: vandessel@ernestpharma.com
   piFirstName: Nele
   piLastName: Van Dessel
@@ -4949,7 +5100,8 @@
   awardeeZipCode: '208764064'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819613'
+  id: '1819613'
+  ttopic: bm
   piEmail: rk@3idx.com
   piFirstName: Rajesh
   piLastName: Krishnamurthy
@@ -4999,7 +5151,8 @@
   awardeeZipCode: '276065221'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1746692'
+  id: '1746692'
+  ttopic: et
   piEmail: anka.veleva@benanova.com
   piFirstName: Anka
   piLastName: Veleva
@@ -5050,7 +5203,8 @@
   awardeeZipCode: 009280276
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1746384'
+  id: '1746384'
+  ttopic: bm
   piEmail: r.diazayala@bideallc.org
   piFirstName: Ramonita
   piLastName: Diaz-Ayala
@@ -5099,7 +5253,8 @@
   awardeeZipCode: '334316410'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1745882'
+  id: '1745882'
+  ttopic: qt
   piEmail: brandon.langenberg@pqsecurity.com
   piFirstName: Brandon
   piLastName: Langenberg
@@ -5121,7 +5276,8 @@
   awardeeZipCode: '148502273'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1746710'
+  id: '1746710'
+  ttopic: it
   piEmail: justin@geegah.com
   piFirstName: Justin
   piLastName: Kuo
@@ -5143,7 +5299,8 @@
   awardeeZipCode: '925082974'
   fundsObligatedAmt: '224987'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1746819'
+  id: '1746819'
+  ttopic: it
   piEmail: xchu@deepbitstech.com
   piFirstName: Xunchao
   piLastName: Hu
@@ -5166,7 +5323,8 @@
   awardeeZipCode: 085404602
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1746947'
+  id: '1746947'
+  ttopic: it
   piEmail: stephen@tigerstonelabs.com
   piFirstName: Stephen
   piLastName: Beard
@@ -5218,7 +5376,8 @@
   awardeeZipCode: '774784566'
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
-  id: '1746824'
+  id: '1746824'
+  ttopic: ai
   piEmail: wenyi.hu@agtgeo.com
   piFirstName: Wenyi
   piLastName: Hu
@@ -5241,7 +5400,8 @@
   awardeeZipCode: '981154727'
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
-  id: '1747201'
+  id: '1747201'
+  ttopic: am
   piEmail: john.goldstone@live.com
   piFirstName: John
   piLastName: Goldstone
@@ -5252,9 +5412,9 @@
   expDate: 04/30/2019
   title: 'STTR Phase I:  Metal-Free Production of Olefin Metathesis Polymers and Resins'
 - abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to develop a universal design kit for silicon photonics that will include, for the first time, the ability to design and produce, in a fabless model, a cost-effective, silicon-controlled, tunable laser. 
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to develop a universal design kit for silicon photonics that will include, for the first time, the ability to design and produce, in a fabless model, a cost-effective, silicon-controlled, tunable laser. 
 
-    The proposed project goals will include the analysis, design, and fabrication of silicon photonic integrated circuits for back-reflection suppression. A key research objective will be to enable the design of a customized, silicon-controlled, tunable laser capable of insertion into a high-speed data communication link based on hybrid III-V/Si integration. A key development objective will be to enable the assembly and manufacture of the silicon photonic integrated circuits using industry-accepted back-end-of-line integration methods. 
+    The proposed project goals will include the analysis, design, and fabrication of silicon photonic integrated circuits for back-reflection suppression. A key research objective will be to enable the design of a customized, silicon-controlled, tunable laser capable of insertion into a high-speed data communication link based on hybrid III-V/Si integration. A key development objective will be to enable the assembly and manufacture of the silicon photonic integrated circuits using industry-accepted back-end-of-line integration methods. 
   awardeeAddress: 16132 Cayenne Creek Rd.
   awardeeCity: San Diego
   awardeeCountryCode: US
@@ -5263,7 +5423,8 @@
   awardeeZipCode: '921273708'
   fundsObligatedAmt: '224997'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1746684'
+  id: '1746684'
+  ttopic: ph
   piEmail: ashok@axalume.com
   piFirstName: Ashok
   piLastName: Krishnamoorthy
@@ -5286,7 +5447,8 @@
   awardeeZipCode: '947200001'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1747279'
+  id: '1747279'
+  ttopic: bt
   piEmail: jon@zymochem.com
   piFirstName: Jonathan
   piLastName: Kuchenreuther
@@ -5336,7 +5498,8 @@
   awardeeZipCode: '101284931'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1721664'
+  id: '1721664'
+  ttopic: it
   piEmail: epapenha@akaikaeru.com
   piFirstName: Eric
   piLastName: Papenhausen
@@ -5393,7 +5556,8 @@
   awardeeZipCode: '443213105'
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
-  id: '1843539'
+  id: '1843539'
+  ttopic: bm
   piEmail: hanieh.usm@gmail.com
   piFirstName: Hanieh
   piLastName: Ghadimi
@@ -5453,7 +5617,8 @@
   awardeeZipCode: '941074301'
   fundsObligatedAmt: '223890'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1844067'
+  id: '1844067'
+  ttopic: se
   piEmail: dmcc@advancedmems.com
   piFirstName: Daniel
   piLastName: McCormick
@@ -5478,7 +5643,8 @@
   awardeeZipCode: '152133715'
   fundsObligatedAmt: '224999'
   fundProgramName: STTR PHASE I
-  id: '1843859'
+  id: '1843859'
+  ttopic: bm
   piEmail: shawnkkelly@gmail.com
   piFirstName: Shawn
   piLastName: Kelly
@@ -5504,7 +5670,8 @@
   awardeeZipCode: '146181221'
   fundsObligatedAmt: '222500'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843757'
+  id: '1843757'
+  ttopic: w
   piEmail: shimonmaimon@yahoo.com
   piFirstName: Shimon
   piLastName: Maimon
@@ -5529,7 +5696,8 @@
   awardeeZipCode: '328262931'
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
-  id: '1843101'
+  id: '1843101'
+  ttopic: ph
   piEmail: ppalomaki@gmail.com
   piFirstName: Peter
   piLastName: Palomaki
@@ -5554,7 +5722,8 @@
   awardeeZipCode: '370649543'
   fundsObligatedAmt: '223589'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843764'
+  id: '1843764'
+  ttopic: md
   piEmail: brianedwardlawson@gmail.com
   piFirstName: Brian
   piLastName: Lawson
@@ -5607,7 +5776,8 @@
   awardeeZipCode: '940612237'
   fundsObligatedAmt: '223882'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843662'
+  id: '1843662'
+  ttopic: et
   piEmail: sophie@beyondthedome.com
   piFirstName: Sophie
   piLastName: Mancuso
@@ -5661,7 +5831,8 @@
   awardeeZipCode: '452027118'
   fundsObligatedAmt: '224993'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842423'
+  id: '1842423'
+  ttopic: md
   piEmail: rdunki_jacobs@xactmedical.com
   piFirstName: Robert
   piLastName: Dunki-Jacobs
@@ -5687,7 +5858,8 @@
   awardeeZipCode: '146202625'
   fundsObligatedAmt: '224828'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843833'
+  id: '1843833'
+  ttopic: et
   piEmail: christi.durham@gmail.com
   piFirstName: Christianne
   piLastName: Durham
@@ -5712,7 +5884,8 @@
   awardeeZipCode: 021362196
   fundsObligatedAmt: '224973'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843840'
+  id: '1843840'
+  ttopic: m
   piEmail: avbright@gmail.com
   piFirstName: Alfram
   piLastName: Bright
@@ -5737,7 +5910,8 @@
   awardeeZipCode: 024782133
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
-  id: '1843738'
+  id: '1843738'
+  ttopic: bm
   piEmail: ialexandrov@activsignal.com
   piFirstName: Ilya
   piLastName: Alexandrov
@@ -5762,7 +5936,8 @@
   awardeeZipCode: '277075103'
   fundsObligatedAmt: '224912'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842620'
+  id: '1842620'
+  ttopic: bt
   piEmail: peter.alexander@upstreambiotech.com
   piFirstName: Peter
   piLastName: Alexander
@@ -5787,7 +5962,8 @@
   awardeeZipCode: '379223672'
   fundsObligatedAmt: '224901'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843112'
+  id: '1843112'
+  ttopic: ct
   piEmail: levon@activeenergysystems.com
   piFirstName: Levon
   piLastName: Atoyan
@@ -5811,7 +5987,8 @@
   awardeeZipCode: '770212039'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843381'
+  id: '1843381'
+  ttopic: bm
   piEmail: yganjeh@intuitapmedical.com
   piFirstName: Yashar
   piLastName: Ganjeh
@@ -5835,7 +6012,8 @@
   awardeeZipCode: '701241121'
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
-  id: '1820258'
+  id: '1820258'
+  ttopic: bm
   piEmail: mwang@instapathbio.com
   piFirstName: Mei
   piLastName: Wang
@@ -5889,7 +6067,8 @@
   awardeeZipCode: '276033397'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1821134'
+  id: '1821134'
+  ttopic: m
   piEmail: hshahar@ncsu.edu
   piFirstName: Hasan
   piLastName: Shahariar
@@ -5913,7 +6092,8 @@
   awardeeZipCode: '980924739'
   fundsObligatedAmt: '224542'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1818651'
+  id: '1818651'
+  ttopic: md
   piEmail: paulgpomeroy@yahoo.com
   piFirstName: Paul
   piLastName: Pomeroy
@@ -5938,7 +6118,8 @@
   awardeeZipCode: '021552200'
   fundsObligatedAmt: '224956'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819580'
+  id: '1819580'
+  ttopic: ct
   piEmail: georgios.karamanis@transportphenomenatech.com
   piFirstName: Georgios
   piLastName: Karamanis
@@ -5963,7 +6144,8 @@
   awardeeZipCode: '208500395'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819326'
+  id: '1819326'
+  ttopic: bm
   piEmail: samantha.scott@junebrain.com
   piFirstName: Samantha
   piLastName: Scott
@@ -5990,7 +6172,8 @@
   awardeeZipCode: '900196602'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820238'
+  id: '1820238'
+  ttopic: ea
   piEmail: ben@perceptoscope.com
   piFirstName: Ben
   piLastName: Sax
@@ -6043,7 +6226,8 @@
   awardeeZipCode: '606123738'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819583'
+  id: '1819583'
+  ttopic: bm
   piEmail: mkotecha@o2map.com
   piFirstName: Mrignayani
   piLastName: Kotecha
@@ -6096,7 +6280,8 @@
   awardeeZipCode: '794236373'
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
-  id: '1820098'
+  id: '1820098'
+  ttopic: ep
   piEmail: nzfh.buet@gmail.com
   piFirstName: Nazifah
   piLastName: Islam
@@ -6120,7 +6305,8 @@
   awardeeZipCode: '980522170'
   fundsObligatedAmt: '224965'
   fundProgramName: STTR PHASE I
-  id: '1819873'
+  id: '1819873'
+  ttopic: m
   piEmail: krivenk@gmail.com
   piFirstName: VenkataKrishna
   piLastName: Nadella
@@ -6145,7 +6331,8 @@
   awardeeZipCode: '276131043'
   fundsObligatedAmt: '211741'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820041'
+  id: '1820041'
+  ttopic: ea
   piEmail: carl.swartz@highroadlearning.com
   piFirstName: Carl
   piLastName: Swartz
@@ -6193,7 +6380,8 @@
   awardeeZipCode: '981125412'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1845625'
+  id: '1845625'
+  ttopic: ep
   piEmail: ablock@allumia.com
   piFirstName: Aaron
   piLastName: Block
@@ -6219,7 +6407,8 @@
   awardeeZipCode: '940250000'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1844037'
+  id: '1844037'
+  ttopic: dl
   piEmail: jeremiah@omnibuilds.com
   piFirstName: Jeremiah
   piLastName: Wagstaff
@@ -6268,7 +6457,8 @@
   awardeeZipCode: '021402717'
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
-  id: '1843847'
+  id: '1843847'
+  ttopic: et
   piEmail: cdrover@zwitterco.com
   piFirstName: Christopher
   piLastName: Drover
@@ -6294,7 +6484,8 @@
   awardeeZipCode: '198021240'
   fundsObligatedAmt: '224953'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843702'
+  id: '1843702'
+  ttopic: i
   piEmail: paul@conservationxlabs.com
   piFirstName: Paul
   piLastName: Bunje
@@ -6319,7 +6510,8 @@
   awardeeZipCode: 085427005
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
-  id: '1843551'
+  id: '1843551'
+  ttopic: bm
   piEmail: rpagels@optimeos.com
   piFirstName: Robert
   piLastName: Pagels
@@ -6343,7 +6535,8 @@
   awardeeZipCode: '857194515'
   fundsObligatedAmt: '224769'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1846588'
+  id: '1846588'
+  ttopic: ph
   piEmail: ndidato@rehnu.com
   piFirstName: Nicholas
   piLastName: Didato
@@ -6390,7 +6583,8 @@
   awardeeZipCode: '115704373'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842973'
+  id: '1842973'
+  ttopic: se
   piEmail: morann.dagan@gmail.com
   piFirstName: Morann
   piLastName: Dagan
@@ -6415,7 +6609,8 @@
   awardeeZipCode: '016062761'
   fundsObligatedAmt: '224757'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843858'
+  id: '1843858'
+  ttopic: ih
   piEmail: Sean.kelly@solvusglobal.com
   piFirstName: Sean
   piLastName: Kelly
@@ -6440,7 +6635,8 @@
   awardeeZipCode: 017483111
   fundsObligatedAmt: '224788'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843169'
+  id: '1843169'
+  ttopic: dl
   piEmail: hsingh@expercoin.com
   piFirstName: Harpreet
   piLastName: Singh
@@ -6465,7 +6661,8 @@
   awardeeZipCode: '920751421'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1844015'
+  id: '1844015'
+  ttopic: ct
   piEmail: dan.p.poirier@gmail.com
   piFirstName: Dan
   piLastName: Poirier
@@ -6490,7 +6687,8 @@
   awardeeZipCode: '200102620'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843254'
+  id: '1843254'
+  ttopic: se
   piEmail: adam@aquasys.co
   piFirstName: Adam
   piLastName: Koeppel
@@ -6515,7 +6713,8 @@
   awardeeZipCode: '940400000'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843135'
+  id: '1843135'
+  ttopic: bm
   piEmail: nevanhanumara@raydiantoximetry.com
   piFirstName: Nevan
   piLastName: Hanumara
@@ -6571,7 +6770,8 @@
   awardeeZipCode: '900264220'
   fundsObligatedAmt: '218237'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1844090'
+  id: '1844090'
+  ttopic: ph
   piEmail: thomas@etc-solar.com
   piFirstName: Thomas
   piLastName: Russell
@@ -6626,7 +6826,8 @@
   awardeeZipCode: '809082375'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843616'
+  id: '1843616'
+  ttopic: bm
   piEmail: janusz.hankiewicz@gmail.com
   piFirstName: Janusz
   piLastName: Hankiewicz
@@ -6682,7 +6883,8 @@
   awardeeZipCode: '800457336'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1841895'
+  id: '1841895'
+  ttopic: md
   piEmail: kharris@clearsightiol.com
   piFirstName: Kevin
   piLastName: Harris
@@ -6707,7 +6909,8 @@
   awardeeZipCode: '941582158'
   fundsObligatedAmt: '224684'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1846078'
+  id: '1846078'
+  ttopic: bm
   piEmail: timday@dnalite.com
   piFirstName: Timothy
   piLastName: Day
@@ -6767,7 +6970,8 @@
   awardeeZipCode: 079606834
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842823'
+  id: '1842823'
+  ttopic: bm
   piEmail: dhickey@tybermed.com
   piFirstName: Daniel
   piLastName: Hickey
@@ -6792,7 +6996,8 @@
   awardeeZipCode: '328075304'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843789'
+  id: '1843789'
+  ttopic: ph
   piEmail: hooman@everix.co
   piFirstName: Esmaeil
   piLastName: Banaei
@@ -6846,7 +7051,8 @@
   awardeeZipCode: '652016348'
   fundsObligatedAmt: '224999'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843390'
+  id: '1843390'
+  ttopic: et
   piEmail: andy.miller@liqcarb.com
   piFirstName: Andrew
   piLastName: Miller
@@ -6872,7 +7078,8 @@
   awardeeZipCode: '805037871'
   fundsObligatedAmt: '173673'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1846603'
+  id: '1846603'
+  ttopic: ph
   piEmail: jeremy@momentumoptics.com
   piFirstName: Jeremy
   piLastName: Goeckeritz
@@ -6897,7 +7104,8 @@
   awardeeZipCode: '606393655'
   fundsObligatedAmt: '224653'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842686'
+  id: '1842686'
+  ttopic: se
   piEmail: uhafeez1@gmail.com
   piFirstName: Usman
   piLastName: Hafeez
@@ -6921,7 +7129,8 @@
   awardeeZipCode: '532111828'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843306'
+  id: '1843306'
+  ttopic: ct
   piEmail: dr.carol.h@safelimaterials.com
   piFirstName: Carol
   piLastName: Hirschmugl
@@ -6973,7 +7182,8 @@
   awardeeZipCode: '402063211'
   fundsObligatedAmt: '224999'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843172'
+  id: '1843172'
+  ttopic: ct
   piEmail: T.Paronyan@hexalayer.com
   piFirstName: Tereza
   piLastName: Paronyan
@@ -6998,7 +7208,8 @@
   awardeeZipCode: '100145429'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843244'
+  id: '1843244'
+  ttopic: bt
   piEmail: swarren@quicksilverbiosciences.com
   piFirstName: Steven
   piLastName: Warren
@@ -7023,7 +7234,8 @@
   awardeeZipCode: '951311841'
   fundsObligatedAmt: '224667'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1840843'
+  id: '1840843'
+  ttopic: ph
   piEmail: hanna.cai@gamdan.com
   piFirstName: Hanna
   piLastName: Cai
@@ -7076,7 +7288,8 @@
   awardeeZipCode: '928414105'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842957'
+  id: '1842957'
+  ttopic: ep
   piEmail: schung@rejouleenergy.com
   piFirstName: Steven
   piLastName: Chung
@@ -7125,7 +7338,8 @@
   awardeeZipCode: '762103619'
   fundsObligatedAmt: '224916'
   fundProgramName: STTR PHASE I
-  id: '1843260'
+  id: '1843260'
+  ttopic: se
   piEmail: Moradian@lorandtechnologies.com
   piFirstName: Sina
   piLastName: Moradian
@@ -7150,7 +7364,8 @@
   awardeeZipCode: '926033611'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843331'
+  id: '1843331'
+  ttopic: bm
   piEmail: francis_duhay@kinobio.com
   piFirstName: Francis
   piLastName: Duhay
@@ -7174,7 +7389,8 @@
   awardeeZipCode: '685024840'
   fundsObligatedAmt: '224999'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843735'
+  id: '1843735'
+  ttopic: r
   piEmail: carrick@droneamplified.com
   piFirstName: Carrick
   piLastName: Detweiler
@@ -7226,7 +7442,8 @@
   awardeeZipCode: '787234648'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843626'
+  id: '1843626'
+  ttopic: bm
   piEmail: justin.dragna@gmail.com
   piFirstName: Justin
   piLastName: Dragna
@@ -7278,7 +7495,8 @@
   awardeeZipCode: '354012142'
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
-  id: '1843319'
+  id: '1843319'
+  ttopic: ep
   piEmail: jaq.energy.llc@gmail.com
   piFirstName: Amer
   piLastName: Abu Qahouq
@@ -7303,7 +7521,8 @@
   awardeeZipCode: '803012620'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843188'
+  id: '1843188'
+  ttopic: r
   piEmail: ncorrell@colorado.edu
   piFirstName: Nicolaus
   piLastName: Correll
@@ -7329,7 +7548,8 @@
   awardeeZipCode: '326071739'
   fundsObligatedAmt: '224986'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843642'
+  id: '1843642'
+  ttopic: ea
   piEmail: christin.d.shelton@gmail.com
   piFirstName: Christin
   piLastName: Shelton
@@ -7355,7 +7575,8 @@
   awardeeZipCode: '303404612'
   fundsObligatedAmt: '224996'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843302'
+  id: '1843302'
+  ttopic: i
   piEmail: jimmy.gd.hester@gmail.com
   piFirstName: Jimmy
   piLastName: Hester
@@ -7401,7 +7622,8 @@
   awardeeZipCode: '570332315'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1840196'
+  id: '1840196'
+  ttopic: et
   piEmail: david@advancedremotesensing.com
   piFirstName: David
   piLastName: Groeneveld
@@ -7427,7 +7649,8 @@
   awardeeZipCode: '280786569'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842614'
+  id: '1842614'
+  ttopic: dl
   piEmail: rwnorris@icloud.com
   piFirstName: Rob
   piLastName: Norris
@@ -7451,7 +7674,8 @@
   awardeeZipCode: '618207460'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843462'
+  id: '1843462'
+  ttopic: w
   piEmail: danny@meshplusplus.com
   piFirstName: Daniel
   piLastName: Gardner
@@ -7476,7 +7700,8 @@
   awardeeZipCode: '921043675'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843179'
+  id: '1843179'
+  ttopic: bt
   piEmail: nicole@cybelemicrobiome.com
   piFirstName: Nicole
   piLastName: Scott
@@ -7502,7 +7727,8 @@
   awardeeZipCode: '982088812'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842394'
+  id: '1842394'
+  ttopic: bt
   piEmail: tosined@gmail.com
   piFirstName: Oluwatosin
   piLastName: Dada
@@ -7555,7 +7781,8 @@
   awardeeZipCode: '972291141'
   fundsObligatedAmt: '224212'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843976'
+  id: '1843976'
+  ttopic: se
   piEmail: mabdelgm@gmail.com
   piFirstName: Mohamed
   piLastName: Abdelmoneum
@@ -7579,7 +7806,8 @@
   awardeeZipCode: '117468335'
   fundsObligatedAmt: '224959'
   fundProgramName: STTR PHASE I
-  id: '1843476'
+  id: '1843476'
+  ttopic: ea
   piEmail: purwar@gmail.com
   piFirstName: Poyu
   piLastName: Chuang
@@ -7604,7 +7832,8 @@
   awardeeZipCode: '021442715'
   fundsObligatedAmt: '224362'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843687'
+  id: '1843687'
+  ttopic: ph
   piEmail: stelmakh@mesodyne.com
   piFirstName: Veronika
   piLastName: Stelmakh
@@ -7629,7 +7858,8 @@
   awardeeZipCode: '852531014'
   fundsObligatedAmt: '224690'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842746'
+  id: '1842746'
+  ttopic: ea
   piEmail: turner@beaglelearning.com
   piFirstName: Turner
   piLastName: Bohlen
@@ -7684,7 +7914,8 @@
   awardeeZipCode: '277054880'
   fundsObligatedAmt: '224975'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1841131'
+  id: '1841131'
+  ttopic: bm
   piEmail: joseph.knight@innavasc.com
   piFirstName: Joseph
   piLastName: Knight
@@ -7710,7 +7941,8 @@
   awardeeZipCode: '926121147'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1841005'
+  id: '1841005'
+  ttopic: bm
   piEmail: jweidlin@gmail.com
   piFirstName: John
   piLastName: Weidling
@@ -7734,7 +7966,8 @@
   awardeeZipCode: '117944600'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843807'
+  id: '1843807'
+  ttopic: ea
   piEmail: borodin@charmtechlabs.com
   piFirstName: Yevgen
   piLastName: Borodin
@@ -7785,7 +8018,8 @@
   awardeeZipCode: '217821611'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843341'
+  id: '1843341'
+  ttopic: bt
   piEmail: jill@cornerstonegenomics.com
   piFirstName: Jill
   piLastName: Pecon-Slattery
@@ -7833,7 +8067,8 @@
   awardeeZipCode: '146252509'
   fundsObligatedAmt: '224958'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843233'
+  id: '1843233'
+  ttopic: ph
   piEmail: dweiss2@rochester.rr.com
   piFirstName: David
   piLastName: Weiss
@@ -7859,7 +8094,8 @@
   awardeeZipCode: '941173371'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843954'
+  id: '1843954'
+  ttopic: bt
   piEmail: christian.siltanen@scribebiosciences.com
   piFirstName: christian
   piLastName: siltanen
@@ -7884,7 +8120,8 @@
   awardeeZipCode: '900772324'
   fundsObligatedAmt: '224926'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843093'
+  id: '1843093'
+  ttopic: ih
   piEmail: mbatalin@lucendi.org
   piFirstName: Maxim
   piLastName: Batalin
@@ -7911,7 +8148,8 @@
   awardeeZipCode: 024514429
   fundsObligatedAmt: '224995'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843795'
+  id: '1843795'
+  ttopic: ea
   piEmail: rca@team-ci.com
   piFirstName: Robyn
   piLastName: Allen
@@ -7936,7 +8174,8 @@
   awardeeZipCode: '802146408'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843162'
+  id: '1843162'
+  ttopic: r
   piEmail: tim@tortugaagtech.com
   piFirstName: Tim
   piLastName: Brackbill
@@ -7962,7 +8201,8 @@
   awardeeZipCode: '606465023'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1840917'
+  id: '1840917'
+  ttopic: ea
   piEmail: timothy@aretelabs.com
   piFirstName: Timothy
   piLastName: Kelley
@@ -7986,7 +8226,8 @@
   awardeeZipCode: '959592308'
   fundsObligatedAmt: '224938'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1844018'
+  id: '1844018'
+  ttopic: ea
   piEmail: barb@samalearning.net
   piFirstName: Barbara
   piLastName: DeHart
@@ -8010,7 +8251,8 @@
   awardeeZipCode: '209047818'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843409'
+  id: '1843409'
+  ttopic: ea
   piEmail: gerald@circleinapp.com
   piFirstName: Gerald
   piLastName: Meggett
@@ -8034,7 +8276,8 @@
   awardeeZipCode: '275164654'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843587'
+  id: '1843587'
+  ttopic: et
   piEmail: jriffle@nalasystems.com
   piFirstName: Judy
   piLastName: Riffle
@@ -8060,7 +8303,8 @@
   awardeeZipCode: '152195152'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843411'
+  id: '1843411'
+  ttopic: et
   piEmail: teri.dankovich@foliawater.com
   piFirstName: Theresa
   piLastName: Dankovich
@@ -8087,7 +8331,8 @@
   awardeeZipCode: '820726914'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842729'
+  id: '1842729'
+  ttopic: ea
   piEmail: diane@thelocalcrowd.com
   piFirstName: Diane
   piLastName: Sontum
@@ -8114,7 +8359,8 @@
   awardeeZipCode: '191471582'
   fundsObligatedAmt: '223996'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1842707'
+  id: '1842707'
+  ttopic: ea
   piEmail: nlipkin@equilibrialeadership.com
   piFirstName: Nicole
   piLastName: Lipkin
@@ -8167,7 +8413,8 @@
   awardeeZipCode: '945264355'
   fundsObligatedAmt: '224981'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819453'
+  id: '1819453'
+  ttopic: bm
   piEmail: grantgullberg@gmail.com
   piFirstName: Grant
   piLastName: Gullberg
@@ -8217,7 +8464,8 @@
   awardeeZipCode: '120653810'
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
-  id: '1819877'
+  id: '1819877'
+  ttopic: ct
   piEmail: rahul.mukherjee@enermat-tech.com
   piFirstName: Rahul
   piLastName: Mukherjee
@@ -8259,7 +8507,8 @@
   awardeeZipCode: '211461423'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819626'
+  id: '1819626'
+  ttopic: md
   piEmail: cfeltch@tanzenmed.com
   piFirstName: Cody
   piLastName: Feltch
@@ -8284,7 +8533,8 @@
   awardeeZipCode: '372125112'
   fundsObligatedAmt: '224482'
   fundProgramName: STTR PHASE I
-  id: '1819996'
+  id: '1819996'
+  ttopic: md
   piEmail: tim.boire@venostent.com
   piFirstName: Timothy
   piLastName: Boire
@@ -8343,7 +8593,8 @@
   awardeeZipCode: '778033268'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820310'
+  id: '1820310'
+  ttopic: bm
   piEmail: dr.glow@voyagerbiomedical.com
   piFirstName: Alan
   piLastName: Glowczwski
@@ -8392,7 +8643,8 @@
   awardeeZipCode: '191031095'
   fundsObligatedAmt: '224510'
   fundProgramName: STTR PHASE I
-  id: '1820209'
+  id: '1820209'
+  ttopic: dh
   piEmail: adam@neuroflowsolution.com
   piFirstName: Adam
   piLastName: Pardes
@@ -8418,7 +8670,8 @@
   awardeeZipCode: 025562821
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820074'
+  id: '1820074'
+  ttopic: se
   piEmail: sgallager@coastaloceanvision.com
   piFirstName: scott
   piLastName: gallager
@@ -8471,7 +8724,8 @@
   awardeeZipCode: '481032369'
   fundsObligatedAmt: '224982'
   fundProgramName: STTR PHASE I
-  id: '1820091'
+  id: '1820091'
+  ttopic: et
   piEmail: eric.monsu@gmail.com
   piFirstName: Eric
   piLastName: Lee
@@ -8497,7 +8751,8 @@
   awardeeZipCode: '618207460'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820332'
+  id: '1820332'
+  ttopic: r
   piEmail: chinmay@earthsense.co
   piFirstName: Chinmay
   piLastName: Soman
@@ -8533,7 +8788,8 @@
   awardeeZipCode: '217379628'
   fundsObligatedAmt: '224973'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819719'
+  id: '1819719'
+  ttopic: bm
   piEmail: lokie20xx@gmail.com
   piFirstName: Lok
   piLastName: Chu
@@ -8559,7 +8815,8 @@
   awardeeZipCode: '770071024'
   fundsObligatedAmt: '224968'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819962'
+  id: '1819962'
+  ttopic: dl
   piEmail: shisunny.yang@gmail.com
   piFirstName: Yang
   piLastName: Lu
@@ -8583,7 +8840,8 @@
   awardeeZipCode: '481059463'
   fundsObligatedAmt: '224903'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819893'
+  id: '1819893'
+  ttopic: se
   piEmail: jycho@umich.edu
   piFirstName: Jae Yoong
   piLastName: Cho
@@ -8636,7 +8894,8 @@
   awardeeZipCode: '537132410'
   fundsObligatedAmt: '224850'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819943'
+  id: '1819943'
+  ttopic: bm
   piEmail: timheathcca@gmail.com
   piFirstName: Timothy
   piLastName: Heath
@@ -8662,7 +8921,8 @@
   awardeeZipCode: '500148237'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820147'
+  id: '1820147'
+  ttopic: ct
   piEmail: nacu23@gmail.com
   piFirstName: Nacu
   piLastName: Hernandez
@@ -8712,7 +8972,8 @@
   awardeeZipCode: '660464206'
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
-  id: '1819766'
+  id: '1819766'
+  ttopic: m
   piEmail: barforoushj@gmail.com
   piFirstName: Joseph
   piLastName: Barforoush
@@ -8737,7 +8998,8 @@
   awardeeZipCode: '021430000'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820135'
+  id: '1820135'
+  ttopic: ct
   piEmail: mehrdad@edengeopower.com
   piFirstName: Mehrdad
   piLastName: Mehrvand
@@ -8762,7 +9024,8 @@
   awardeeZipCode: '443130000'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820122'
+  id: '1820122'
+  ttopic: ct
   piEmail: gbohm@att.net
   piFirstName: Georg
   piLastName: Bohm
@@ -8814,7 +9077,8 @@
   awardeeZipCode: '940862215'
   fundsObligatedAmt: '224830'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819676'
+  id: '1819676'
+  ttopic: m
   piEmail: ram@spacefoundry.us
   piFirstName: Ramprasad
   piLastName: Gandhiraman
@@ -8839,7 +9103,8 @@
   awardeeZipCode: '197113258'
   fundsObligatedAmt: '224793'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819388'
+  id: '1819388'
+  ttopic: dh
   piEmail: grants@vmt.com
   piFirstName: Daniel
   piLastName: Riskin
@@ -8865,7 +9130,8 @@
   awardeeZipCode: '481052541'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819920'
+  id: '1819920'
+  ttopic: i
   piEmail: glazer18@gmail.com
   piFirstName: Yariv
   piLastName: Glazer
@@ -8890,7 +9156,8 @@
   awardeeZipCode: '277013317'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820018'
+  id: '1820018'
+  ttopic: ea
   piEmail: ddrakeford@drakefordassociates.org
   piFirstName: Derrick
   piLastName: Drakeford
@@ -8915,7 +9182,8 @@
   awardeeZipCode: '148503669'
   fundsObligatedAmt: '224868'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820211'
+  id: '1820211'
+  ttopic: ct
   piEmail: guzman.juan@capro-x.com
   piFirstName: Juan
   piLastName: Guzman
@@ -8941,7 +9209,8 @@
   awardeeZipCode: '921212248'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819239'
+  id: '1819239'
+  ttopic: m
   piEmail: wzhu@allegro3d.com
   piFirstName: Wei
   piLastName: Zhu
@@ -8967,7 +9236,8 @@
   awardeeZipCode: '770064225'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820045'
+  id: '1820045'
+  ttopic: ea
   piEmail: ioannis.konstantinidis@videopoints.org
   piFirstName: Ioannis
   piLastName: Konstantinidis
@@ -8992,7 +9262,8 @@
   awardeeZipCode: '212205526'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819593'
+  id: '1819593'
+  ttopic: ct
   piEmail: rob@techcomventures.com
   piFirstName: Robert
   piLastName: Meissner
@@ -9040,7 +9311,8 @@
   awardeeZipCode: '014511501'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819652'
+  id: '1819652'
+  ttopic: bt
   piEmail: lfeinberg@knipbio.com
   piFirstName: Larry
   piLastName: Feinberg
@@ -9065,7 +9337,8 @@
   awardeeZipCode: '122220000'
   fundsObligatedAmt: '224949'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819961'
+  id: '1819961'
+  ttopic: s
   piEmail: ghousser@outlook.com
   piFirstName: Graeme
   piLastName: Housser
@@ -9110,7 +9383,8 @@
   awardeeZipCode: '940854518'
   fundsObligatedAmt: '224063'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819697'
+  id: '1819697'
+  ttopic: ct
   piEmail: vklausmeier@sylvatex.com
   piFirstName: Virginia
   piLastName: Irwin Klausmeier
@@ -9155,7 +9429,8 @@
   awardeeZipCode: '015371103'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819438'
+  id: '1819438'
+  ttopic: et
   piEmail: info@aclaritywater.com
   piFirstName: Julie
   piLastName: Mullen
@@ -9181,7 +9456,8 @@
   awardeeZipCode: '212303755'
   fundsObligatedAmt: '224563'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819788'
+  id: '1819788'
+  ttopic: bm
   piEmail: eenglish@gemstonebio.com
   piFirstName: Emily
   piLastName: English
@@ -9230,7 +9506,8 @@
   awardeeZipCode: 021434109
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820028'
+  id: '1820028'
+  ttopic: ph
   piEmail: greenlee@lectechnologies.com
   piFirstName: Alison
   piLastName: Greenlee
@@ -9277,7 +9554,8 @@
   awardeeZipCode: '787512959'
   fundsObligatedAmt: '224826'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819610'
+  id: '1819610'
+  ttopic: s
   piEmail: meghali.chopra@sandboxsemiconductor.com
   piFirstName: Meghali
   piLastName: Chopra
@@ -9303,7 +9581,8 @@
   awardeeZipCode: '802043109'
   fundsObligatedAmt: '223655'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819367'
+  id: '1819367'
+  ttopic: ph
   piEmail: kg@tcarta.com
   piFirstName: Kyle
   piLastName: Goodrich
@@ -9328,7 +9607,8 @@
   awardeeZipCode: '112263291'
   fundsObligatedAmt: '224493'
   fundProgramName: STTR PHASE I
-  id: '1821150'
+  id: '1821150'
+  ttopic: w
   piEmail: mezzavilla.marco@gmail.com
   piFirstName: Marco
   piLastName: Mezzavilla
@@ -9352,7 +9632,8 @@
   awardeeZipCode: '960010400'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820462'
+  id: '1820462'
+  ttopic: se
   piEmail: kojiseto@apolloaisystems.com
   piFirstName: Koji
   piLastName: Seto
@@ -9377,7 +9658,8 @@
   awardeeZipCode: 037841026
   fundsObligatedAmt: '224997'
   fundProgramName: STTR PHASE I
-  id: '1820089'
+  id: '1820089'
+  ttopic: ep
   piEmail: aaron.stein21@gmail.com
   piFirstName: Aaron
   piLastName: Stein
@@ -9403,7 +9685,8 @@
   awardeeZipCode: '940854511'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819843'
+  id: '1819843'
+  ttopic: ph
   piEmail: whitney@sinoviatech.com
   piFirstName: Whitney
   piLastName: Gaynor
@@ -9454,7 +9737,8 @@
   awardeeZipCode: '770961313'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820015'
+  id: '1820015'
+  ttopic: bt
   piEmail: jmathieu@senviron.com
   piFirstName: Jacques
   piLastName: Mathieu
@@ -9480,7 +9764,8 @@
   awardeeZipCode: 021441129
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819932'
+  id: '1819932'
+  ttopic: bt
   piEmail: kosta.tsioris@gmail.com
   piFirstName: Konstantinos
   piLastName: Tsioris
@@ -9505,7 +9790,8 @@
   awardeeZipCode: '618027632'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819370'
+  id: '1819370'
+  ttopic: i
   piEmail: lucas@amber.ag
   piFirstName: Lucas
   piLastName: Frye
@@ -9531,7 +9817,8 @@
   awardeeZipCode: '940434849'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819287'
+  id: '1819287'
+  ttopic: ea
   piEmail: clifton.roozeboom@gmail.com
   piFirstName: Clifton
   piLastName: Roozeboom
@@ -9582,7 +9869,8 @@
   awardeeZipCode: '631082979'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819757'
+  id: '1819757'
+  ttopic: bt
   piEmail: cohentl@gmail.com
   piFirstName: Thomas
   piLastName: Cohen
@@ -9607,7 +9895,8 @@
   awardeeZipCode: 021394715
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819345'
+  id: '1819345'
+  ttopic: r
   piEmail: sorin@transaera.com
   piFirstName: Sorin
   piLastName: Grama
@@ -9632,7 +9921,8 @@
   awardeeZipCode: '981051654'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819398'
+  id: '1819398'
+  ttopic: bt
   piEmail: dyounger@gmail.com
   piFirstName: David
   piLastName: Younger
@@ -9658,7 +9948,8 @@
   awardeeZipCode: '946114360'
   fundsObligatedAmt: '224247'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819751'
+  id: '1819751'
+  ttopic: ph
   piEmail: jess@heluxtech.com
   piFirstName: Jessica
   piLastName: Morrison
@@ -9682,7 +9973,8 @@
   awardeeZipCode: '201874485'
   fundsObligatedAmt: '224992'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819964'
+  id: '1819964'
+  ttopic: ph
   piEmail: phillip@traxyl.com
   piFirstName: Phillip
   piLastName: Turner
@@ -9706,7 +9998,8 @@
   awardeeZipCode: '208162608'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819949'
+  id: '1819949'
+  ttopic: i
   piEmail: williamdeng@armaments.us
   piFirstName: William
   piLastName: Deng
@@ -9730,7 +10023,8 @@
   awardeeZipCode: '947051229'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820038'
+  id: '1820038'
+  ttopic: bt
   piEmail: latimer@zestbio.com
   piFirstName: Luke
   piLastName: Latimer
@@ -9756,7 +10050,8 @@
   awardeeZipCode: '443114401'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819594'
+  id: '1819594'
+  ttopic: bt
   piEmail: stephanie.ham@oncosolutionsllc.com
   piFirstName: Stephanie
   piLastName: Ham
@@ -9781,7 +10076,8 @@
   awardeeZipCode: 024455819
   fundsObligatedAmt: '224945'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819435'
+  id: '1819435'
+  ttopic: bm
   piEmail: benjamin.cooper@articulatebio.com
   piFirstName: Benjamin
   piLastName: Cooper
@@ -9834,7 +10130,8 @@
   awardeeZipCode: '708105200'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819274'
+  id: '1819274'
+  ttopic: bt
   piEmail: svoard@gmail.com
   piFirstName: Svetlana
   piLastName: Oard
@@ -9886,7 +10183,8 @@
   awardeeZipCode: '652038482'
   fundsObligatedAmt: '224876'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1818796'
+  id: '1818796'
+  ttopic: bm
   piEmail: syed.barizuddin@gmail.com
   piFirstName: Syed
   piLastName: Barizuddin
@@ -9911,7 +10209,8 @@
   awardeeZipCode: '980275621'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820325'
+  id: '1820325'
+  ttopic: bt
   piEmail: bob@proteios.com
   piFirstName: Bob
   piLastName: Snyder
@@ -9936,7 +10235,8 @@
   awardeeZipCode: '945551159'
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
-  id: '1820395'
+  id: '1820395'
+  ttopic: ph
   piEmail: david@marigoldpower.com
   piFirstName: David
   piLastName: Bierman
@@ -9976,7 +10276,8 @@
   awardeeZipCode: '481544938'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820032'
+  id: '1820032'
+  ttopic: am
   piEmail: quinn@otzibio.com
   piFirstName: Quinn
   piLastName: Osgood
@@ -10002,7 +10303,8 @@
   awardeeZipCode: 021863111
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
-  id: '1819514'
+  id: '1819514'
+  ttopic: bt
   piEmail: darcy@kalioninc.com
   piFirstName: Darcy
   piLastName: Prather
@@ -10027,7 +10329,8 @@
   awardeeZipCode: 024941358
   fundsObligatedAmt: '218992'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820051'
+  id: '1820051'
+  ttopic: am
   piEmail: ms@bomaterials.com
   piFirstName: Michael
   piLastName: Segal
@@ -10072,7 +10375,8 @@
   awardeeZipCode: '240606702'
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
-  id: '1819982'
+  id: '1819982'
+  ttopic: ct
   piEmail: nolan.schmidt@li-ind.com
   piFirstName: Nolan
   piLastName: Schmidt
@@ -10127,7 +10431,8 @@
   awardeeZipCode: '852843434'
   fundsObligatedAmt: '221366'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819390'
+  id: '1819390'
+  ttopic: am
   piEmail: mynorjc@gmail.com
   piFirstName: Mynor
   piLastName: Castro
@@ -10180,7 +10485,8 @@
   awardeeZipCode: '597156056'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819493'
+  id: '1819493'
+  ttopic: ih
   piEmail: slukes@agilefocusdesigns.com
   piFirstName: Sarah
   piLastName: Lukes
@@ -10202,7 +10508,8 @@
   awardeeZipCode: '405081243'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1746358'
+  id: '1746358'
+  ttopic: se
   piEmail: alan.greenberg@colorado.edu
   piFirstName: Alan
   piLastName: Greenberg
@@ -10226,7 +10533,8 @@
   awardeeZipCode: '275197175'
   fundsObligatedAmt: '224475'
   fundProgramName: STTR PHASE I
-  id: '1746858'
+  id: '1746858'
+  ttopic: ep
   piEmail: sankar@microgridlabs.com
   piFirstName: Narayanan
   piLastName: Sankar
@@ -10283,7 +10591,8 @@
   awardeeZipCode: '303166701'
   fundsObligatedAmt: '224999'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1746869'
+  id: '1746869'
+  ttopic: ea
   piEmail: cspencer@tliveinc.com
   piFirstName: Charles
   piLastName: Spencer
@@ -10330,7 +10639,8 @@
   awardeeZipCode: '770421411'
   fundsObligatedAmt: '224935'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1746170'
+  id: '1746170'
+  ttopic: dh
   piEmail: tomlee6750@hotmail.com
   piFirstName: Tom
   piLastName: Lee
@@ -10388,7 +10698,8 @@
   awardeeZipCode: '981192004'
   fundsObligatedAmt: '224885'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1747381'
+  id: '1747381'
+  ttopic: ea
   piEmail: allisonrosenberg@live.com
   piFirstName: Allison
   piLastName: Rosenberg
@@ -10412,7 +10723,8 @@
   awardeeZipCode: '191462701'
   fundsObligatedAmt: '224592'
   fundProgramName: STTR PHASE I
-  id: '1746583'
+  id: '1746583'
+  ttopic: md
   piEmail: koch.eza@gmail.com
   piFirstName: Eza
   piLastName: Koch
@@ -10435,7 +10747,8 @@
   awardeeZipCode: '958154309'
   fundsObligatedAmt: '224997'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1746140'
+  id: '1746140'
+  ttopic: ph
   piEmail: svasylyev@lucentoptics.com
   piFirstName: Sergiy
   piLastName: Vasylyev
@@ -10480,7 +10793,8 @@
   awardeeZipCode: 086483643
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1746198'
+  id: '1746198'
+  ttopic: bt
   piEmail: bnvsdinesh151@gmail.com
   piFirstName: NVS DINESH K
   piLastName: BHUPATHIRAJU
@@ -10503,7 +10817,8 @@
   awardeeZipCode: '326283230'
   fundsObligatedAmt: '224905'
   fundProgramName: STTR PHASE I
-  id: '1746740'
+  id: '1746740'
+  ttopic: ep
   piEmail: i.oladeji@sisomtf.com
   piFirstName: Isaiah
   piLastName: Oladeji
@@ -10526,7 +10841,8 @@
   awardeeZipCode: 018904014
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1746212'
+  id: '1746212'
+  ttopic: r
   piEmail: harvestmoonautomation@gmail.com
   piFirstName: Stephen
   piLastName: Jens
@@ -10572,7 +10888,8 @@
   awardeeZipCode: '191462701'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1746353'
+  id: '1746353'
+  ttopic: bm
   piEmail: edesouza@comcast.net
   piFirstName: Beth
   piLastName: DeSouza
@@ -10594,7 +10911,8 @@
   awardeeZipCode: '146202142'
   fundsObligatedAmt: '224995'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1746887'
+  id: '1746887'
+  ttopic: m
   piEmail: pmberkeley@gmail.com
   piFirstName: Pamela
   piLastName: Berkeley
@@ -10616,7 +10934,8 @@
   awardeeZipCode: '481044266'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1746731'
+  id: '1746731'
+  ttopic: bt
   piEmail: kgoliya@umich.edu
   piFirstName: Kush
   piLastName: Goliya
@@ -10638,7 +10957,8 @@
   awardeeZipCode: '981950001'
   fundsObligatedAmt: '224957'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1747275'
+  id: '1747275'
+  ttopic: w
   piEmail: claire.marie.watts@gmail.com
   piFirstName: CLAIRE
   piLastName: WATTS
@@ -10692,7 +11012,8 @@
   awardeeZipCode: '911075050'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1747293'
+  id: '1747293'
+  ttopic: se
   piEmail: j.wong@fluidion.com
   piFirstName: Joyce
   piLastName: Wong
@@ -10714,7 +11035,8 @@
   awardeeZipCode: '479061074'
   fundsObligatedAmt: '224996'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1746311'
+  id: '1746311'
+  ttopic: bm
   piEmail: mnoshi@akanocure.com
   piFirstName: Mohammad
   piLastName: Noshi
@@ -10755,7 +11077,8 @@
   awardeeZipCode: '973334335'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1747347'
+  id: '1747347'
+  ttopic: bt
   piEmail: khaled@gadusollabs.com
   piFirstName: Khaled
   piLastName: Almabruk
@@ -10800,7 +11123,8 @@
   awardeeZipCode: '945398014'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1747845'
+  id: '1747845'
+  ttopic: dh
   piEmail: anupam@sagesurfer.com
   piFirstName: Anupam
   piLastName: Khandelwal
@@ -10823,7 +11147,8 @@
   awardeeZipCode: '212051506'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1746588'
+  id: '1746588'
+  ttopic: bm
   piEmail: jwang@pathovax.com
   piFirstName: Joshua
   piLastName: Wang
@@ -10846,7 +11171,8 @@
   awardeeZipCode: '142282710'
   fundsObligatedAmt: '225000'
   fundProgramName: STTR PHASE I
-  id: '1746556'
+  id: '1746556'
+  ttopic: bm
   piEmail: patrickburns@ferric-contrast.com
   piFirstName: Patrick
   piLastName: Burns
@@ -10869,7 +11195,8 @@
   awardeeZipCode: '531518306'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1747029'
+  id: '1747029'
+  ttopic: ep
   piEmail: dpanda68@yahoo.com
   piFirstName: Debiprasad
   piLastName: Panda
@@ -10892,7 +11219,8 @@
   awardeeZipCode: '920378411'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1747341'
+  id: '1747341'
+  ttopic: ph
   piEmail: supriya@astrileux.com
   piFirstName: Supriya
   piLastName: Jaiswal
@@ -10905,7 +11233,7 @@
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is a substantial reduction of leakage in high-density polyethylene (HDPE) pipes. HDPE is a type of plastic commonly used for water, oil, and gas distribution pipe systems. Billions of gallons of treated water are lost daily across the US due to leaking pipes, resulting in massive revenue loss, environmental and property damage, and energy waste. Furthermore, millions of metric tons of methane, a powerful greenhouse gas, escape every year into the atmosphere through leaking pipes. Most leaks occur at pipe joints and by wirelessly monitoring each joint for leaks, as a part of a smart infrastructure network, major leak reduction can be achieved. The commercial impact of the project is extensive, as smart infrastructure networks are increasingly being implemented and expanded, sensor and wireless communication technology has advanced significantly in recent years, and the rate of piping infrastructure installations, replacements, and repairs are accelerating across the US and globally.
 
-    The proposed project aims to demonstrate a prototype capable of detecting a leak in electrofusion joints and wirelessly communicate the leak to an external network. Such joint monitoring system is highly desirable as pipe leaks can go undetected for an extended period of time. Moreover, once detected, leaks can be difficult and expensive to locate, especially as pipes are commonly buried underground or situated at hard-to-reach or remote locations. The challenge that comes with this  is to provide a reliable local power source for the sensing unit that can be on standby for up to 50 years. A second challenge is to generate a signal, powered by the local power source, that can be transmitted to the surface and notify a leak to an external signal receiver. A water-activated battery combined with a radio-frequency identification (RFID) transmitter will be developed for this purpose. RFID technology is extensively used in a broad range of industries due to its low-cost and good reliability . This technology is, therefore, an excellent candidate for providing an affordable joint leak detection system.
+    The proposed project aims to demonstrate a prototype capable of detecting a leak in electrofusion joints and wirelessly communicate the leak to an external network. Such joint monitoring system is highly desirable as pipe leaks can go undetected for an extended period of time. Moreover, once detected, leaks can be difficult and expensive to locate, especially as pipes are commonly buried underground or situated at hard-to-reach or remote locations. The challenge that comes with this  is to provide a reliable local power source for the sensing unit that can be on standby for up to 50 years. A second challenge is to generate a signal, powered by the local power source, that can be transmitted to the surface and notify a leak to an external signal receiver. A water-activated battery combined with a radio-frequency identification (RFID) transmitter will be developed for this purpose. RFID technology is extensively used in a broad range of industries due to its low-cost and good reliability . This technology is, therefore, an excellent candidate for providing an affordable joint leak detection system.
   awardeeAddress: One Boston Pl Ste 2600
   awardeeCity: Boston
   awardeeCountryCode: US
@@ -10914,7 +11242,8 @@
   awardeeZipCode: 021084420
   fundsObligatedAmt: '220688'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1746114'
+  id: '1746114'
+  ttopic: i
   piEmail: ruben@properpipe-usa.com
   piFirstName: Ruben
   piLastName: Mencos
@@ -10936,7 +11265,8 @@
   awardeeZipCode: 080544719
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1746309'
+  id: '1746309'
+  ttopic: bm
   piEmail: invitrodiagnosticsolutions@gmail.com
   piFirstName: Robert
   piLastName: Harper
@@ -10991,7 +11321,8 @@
   awardeeZipCode: '481042274'
   fundsObligatedAmt: '224994'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1746983'
+  id: '1746983'
+  ttopic: ih
   piEmail: dave@rydbergtechnologies.com
   piFirstName: David
   piLastName: Anderson
@@ -11043,7 +11374,8 @@
   awardeeZipCode: '926173062'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1721975'
+  id: '1721975'
+  ttopic: am
   piEmail: bonessio@metaseismic.com
   piFirstName: Noemi
   piLastName: Bonessio
@@ -11088,7 +11420,8 @@
   awardeeZipCode: '981152435'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1720789'
+  id: '1720789'
+  ttopic: bm
   piEmail: s_mccraith@yahoo.com
   piFirstName: Stephen
   piLastName: McCraith
@@ -11112,7 +11445,8 @@
   awardeeZipCode: '229025364'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1621681'
+  id: '1621681'
+  ttopic: bm
   piEmail: kilroy@sound-pipe.com
   piFirstName: Joseph
   piLastName: Kilroy
@@ -11167,7 +11501,8 @@
   awardeeZipCode: '212024113'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843816'
+  id: '1843816'
+  ttopic: md
   piEmail: amir@spinealignsurgical.com
   piFirstName: Amir
   piLastName: Soltanianzadeh
@@ -11193,7 +11528,8 @@
   awardeeZipCode: 024591408
   fundsObligatedAmt: '223090'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1843391'
+  id: '1843391'
+  ttopic: ea
   piEmail: beth@rifflearning.com
   piFirstName: Elizabeth
   piLastName: Porter
@@ -11206,4 +11542,3 @@
   title: 'SBIR Phase I:  Positive Effects of Feedback and Intervention for Engagement
     in Online Learning'
 ---
-
