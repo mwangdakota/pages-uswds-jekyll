@@ -1,4 +1,4 @@
-﻿---
+---
 - abstractText: |-
     This Small Business Innovation Research (SBIR) Phase II project seeks to improve the commercial viability of technology that enables the real time measurement and control of landfill gas extraction systems. It has the potential to improve the economics of the Landfill Gas to Energy (LFG-E) market and reduce the environmental impact of landfills. With industry-wide implementation, annual revenues from existing LFG-E projects could be increased by over $450 million. The additional energy produced would power over 350,000 homes. Methane is a powerful greenhouse gas (GHG), and the EPA estimates that in 2011, emissions from landfills accounted for nearly 17.5% of generation from all manmade sources in the US. The associated reduction in GHG emissions from improved landfill gas collection would be equivalent to the emissions of over 3.6 billion gallons of gasoline or 76 million barrels of oil. Furthermore, because of the improved economics, this Phase II project could encourage the development of new LFG-E projects, further expanding the size and value of this market. According to EPA estimates, currently undeveloped sites could account for an additional 850 MW of power generation, enough to power over 508,000 homes.
 
@@ -12040,30 +12040,3 @@
   startDate: 04/15/2013
   expDate: 09/30/2019
   title: 'SBIR Phase II:  Novel Proteolysis-based Tools for Metabolic Engineering'
-- abstractText: |-
-    The intellectual merit of this proposal is that this program allows highly educated scientists and engineers to acquire real-life research experience and to bring the latest innovative theories and techniques from the academic community o the country?s entrepreneurial technology sector. By working in a cutting-edge laboratory where research and development are accomplished within a framework of expected business outcomes and business constraints, researchers learn to work in multidisciplinary teams and to apply their academic expertise to the important work of product development and application in a globally competitive environment. The small businesses benefit from the fresh insights and most current technological skills and training that the recent postdoctoral students would bring. The program puts those skills and that training to work at creative and inventive research companies which otherwise would not be able to afford such expertise. These pairings would provide active SBIR Phase II companies the opportunity to enhance innovative collaboration, strengthen scientific rigor, and quicken the pace of technological breakthrough. Fellows are also encouraged to publish their work within the overall publishing guidelines set by each participating company.
-
-
-    The broader impact of this program is to broaden participation of underrepresented groups such as women, African
-    Americans, Hispanic Americans, American Indians, and Hawaiian/Pacific Islanders in small high-tech companies supported by the NSF SBIR/STTR program. ASEE has proposed stronger outreach strategies than implemented in the current grant to increase visibility and diversity by reaching out to institutions that supply a high number of candidates from underrepresented demographic groups. ASEE is strengthening its outreach by attending postdoctoral and professional organizational conferences that typically target women and underrepresented groups in STEM fields and by having a proactive presence in social media.
-  awardeeAddress: 1818 N ST NW STE 600
-  awardeeCity: WASHINGTON
-  awardeeCountryCode: US
-  awardeeName: American Society For Engineering Education
-  awardeeStateCode: DC
-  awardeeZipCode: '200362476'
-  fundsObligatedAmt: '8832884'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1552305'
-  ttopic: bt
-  piEmail: d.tull@asee.org
-  piFirstName: Damon
-  piLastName: Tull
-  piMiddeInitial: L
-  piPhone: '2023313500'
-  poName: Jesus Soriano Molla
-  date: 09/24/2015
-  startDate: 10/01/2015
-  expDate: 05/31/2019
-  title: ASEE/NSF Small Business Postdoctoral Research Diversity Fellowship Program
----
