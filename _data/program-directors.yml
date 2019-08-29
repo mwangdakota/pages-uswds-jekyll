@@ -77,6 +77,8 @@
   topics:
   - topic: Artificial Intelligence (AI)
     permalink: "/topics/artificial-intelligence/"
+  - topic: Digital Health (DH)
+    permalink: "/topics/digital-health/"  
   - topic: Information Technologies (IT)
     permalink: "/topics/information-technologies/"
   - topic: Quantum Information Technologies (QT)
@@ -117,9 +119,13 @@
     years of research, mostly in the field of immunology (including graduate work).
     Henry has an MBA from Rice University, an M.S. in biotechnology from the University
     of Tennessee, Knoxville and a B.S. in biomedical engineering from Boston University.
-  topic: Biomedical Technologies (BM)
-  topic_permalink: "/topics/biomedical-technologies/"
-  topics: []
+  topic: 
+  topic_permalink: 
+  topics:
+  - topic: Biomedical Technologies (BM)
+    topic_permalink: "/topics/biomedical-technologies/"
+  - topic: Medical Devices (MD)
+    permalink: "/topics/medical-devices/"  
 - photo: Anna-compressed.jpg
   name: Anna Brady-Estevez
   last_name: Brady-Estevez
@@ -155,32 +161,6 @@
     permalink: "/topics/distributed-ledger/"
   - topic: Environmental Technologies (ET)
     permalink: "/topics/environmental-technologies/"
-- photo: Kamei-compressed.jpg
-  name: Nancy Kamei
-  last_name: Kamei
-  email: nkamei@nsf.gov
-  bio: is an SBIR/STTR Program Director. In 2017, after several years of retirement,
-    she joined the Division of Industrial Innovation and Partnerships to serve the
-    United States’ entrepreneurial ecosystem. For several years, she served as a National
-    Instructor for the Innovation Corps (I-Corps™) program, interacting with NSF and
-    National Institutes of Health grantees, which inspired her to join the SBIR/STTR
-    Program and continue working with innovators and entrepreneurs. Nancy has more
-    than 20 years of experience as an investor, having selected and managed billions
-    of dollars of investments of both public equities (Capital Group Companies) and
-    venture capital (Intel Capital). She is also a serial entrepreneur, having been
-    on the founding team of several Silicon Valley startups (Onyx Pharmaceuticals).
-    After receiving her Doctor of Pharmacy degree from University of California, San
-    Francisco, she started her career at Merck and then completed her Master of Business
-    Administration at Stanford Graduate School of Business. Nancy also has more than
-    40 years of service to the non-profit sector. She recently relocated to the Washington,
-    D.C. area after a lifetime in California.
-  topic: 
-  topic_permalink: 
-  topics:
-  - topic: Digital Health (DH)
-    permalink: "/topics/digital-health/"
-  - topic: Medical Devices (MD)
-    permalink: "/topics/medical-devices/"
 - photo: Rajesh-compressed.jpg
   name: Rajesh Mehta
   last_name: Mehta
