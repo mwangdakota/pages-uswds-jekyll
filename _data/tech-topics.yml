@@ -7,6 +7,7 @@
       api_name: lmolnar
       email: lmolnar@nsf.gov
       photo: Molnar-compressed.jpg
+      ttopic: m
       bio: "has more than 20 years of experience in the life science and chemical industries, integrating her scientific research and engineering background with commercialization
     for startups, and international, government, and business environments. She joined
     NSF as an SBIR/STTR Program Director in 2017. Previously, she was co-founder and
@@ -53,6 +54,7 @@
       api_name: Steven Konsek
       email: skonsek@nsf.gov
       photo: Konsek-compressed.jpg
+      ttopic: am
       bio: "joined the National Science Foundation’s SBIR/STTR program in 2012 and has
     served as both a Program Director for the SBIR/STTR and the Innovation Corps (I-Corps™)
     program. Prior to joining NSF, Steven was the Chief Technology Officer at Illumitex,
@@ -87,6 +89,7 @@
     api_name: Peter Atherton
     email: patherto@nsf.gov
     photo: Peter-compressed.jpg
+    ttopic: ai
     bio: "comes to the NSF with a broad background in the physical sciences, and extensive
     experience in technology development and commercialization. Before joining NSF
     Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly
@@ -135,6 +138,7 @@
       api_name: Ruth Shuman
       email: rshuman@nsf.gov
       photo: Ruth-compressed.jpg
+      ttopic: bt
       bio: "joined the National Science Foundation in August 2009 as a Program Director
     for Biological Technologies in the SBIR/STTR Program. Before coming to NSF, she
     was the founder, president, and CEO of a successful venture-backed life science
@@ -181,6 +185,7 @@
       api_name: Henry Ahn
       email: hahn@nsf.gov
       photo: Henry-compressed.jpg
+      ttopic: bm
       bio: "joined the National Science Foundation in July 2016 as an SBIR/STTR Program
     Director. Prior to joining NSF, Henry managed seed-and early-stage investment programs
     for TEDCO for 12 years including the Technology Commercialization Fund, TEDCO’s flagship
@@ -223,6 +228,7 @@
       api_name: Anna Brady
       email: abrady@nsf.gov
       photo: Anna-compressed.jpg
+      ttopic: ct
       bio: "joined the National Science Foundation as SBIR/STTR Program Director in 2016. In this role she brings breadth of background
     across entrepreneurship and venture capital, innovative research, and direction of corporate strategy and investments. Anna has served as a collaborator with
     numerous startups having worked as an inventor for an early-stage venture-backed
@@ -311,6 +317,7 @@
       api_name: Anna Brady
       email: abrady@nsf.gov
       photo: Anna-compressed.jpg
+      ttopic: dl
       bio: "joined the National Science Foundation as SBIR/STTR Program Director in 2016. In this role she brings breadth of background
     across entrepreneurship and venture capital, innovative research, and direction of corporate strategy and investments. Anna has served as a collaborator with
     numerous startups having worked as an inventor for an early-stage venture-backed
@@ -358,6 +365,7 @@
       api_name: Rajesh Mehta
       email: rmehta@nsf.gov
       photo: Rajesh-compressed.jpg
+      ttopic: ea
       bio: "joined NSF as an SBIR/STTR Program Director in 2012. Prior to joining NSF, Rajesh was a senior research technologist at Kodak where his 26-year career spanned work at Kodak Research Laboratories, and Manufacturing
     Research and Engineering Organization. His work covered a broad range of materials
     science based technologies related to photographic film and paper manufacturing,
@@ -398,6 +406,7 @@
       api_name: Muralidharan Nair
       email: mnair@nsf.gov
       photo: Murali-compressed.jpg
+      ttopic: ep
       bio: "has been an SBIR/STTR Program Director since 2003. Prior to joining NSF,
     Murali was the Founder CEO of a Bluetooth wireless product company. In this capacity,
     he raised equity capital for worldwide operations in the United States, China and India.
@@ -436,6 +445,7 @@
       api_name: Anna Brady
       email: abrady@nsf.gov
       photo: Anna-compressed.jpg
+      ttopic: et
       bio: "joined the National Science Foundation as SBIR/STTR Program Director in 2016. In this role she brings breadth of background
     across entrepreneurship and venture capital, innovative research, and direction of corporate strategy and investments. Anna has served as a collaborator with
     numerous startups having worked as an inventor for an early-stage venture-backed
@@ -480,6 +490,7 @@
     api_name: Peter Atherton
     email: patherto@nsf.gov
     photo: Peter-compressed.jpg
+    ttopic: it
     bio: "comes to the NSF with a broad background in the physical sciences, and extensive
     experience in technology development and commercialization. Before joining NSF
     Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly
@@ -529,6 +540,7 @@
       api_name: Carl Schwerdtfeger
       email: rschwerd@nsf.gov
       photo: Rick-compressed.jpg
+      ttopic: ih
       bio: "joined the National Science Foundation in August 2016 as the SBIR/STTR Program
     Director. Prior to joining NSF, Rick was the CTO and Co-Founder of the Advanced RenewableEnergy
     Company, a clean-tech and semiconductor equipment company, where he led the technology
@@ -572,6 +584,7 @@
       api_name: Carl Schwerdtfeger
       email: rschwerd@nsf.gov
       photo: Rick-compressed.jpg
+      ttopic: i
       bio: "joined the National Science Foundation in August 2016 as the SBIR/STTR Program
     Director. Prior to joining NSF, Rick was the CTO and Co-Founder of the Advanced RenewableEnergy
     Company, a clean-tech and semiconductor equipment company, where he led the technology
@@ -640,6 +653,7 @@
       api_name: lmolnar
       email: lmolnar@nsf.gov
       photo: Molnar-compressed.jpg
+      ttopic: n
       bio: "has more than 20 years of experience in the life science and chemical industries, integrating her scientific research and engineering background with commercialization
     for startups, and international, government, and business environments. She joined
     NSF as an SBIR/STTR Program Director in 2017. Previously, she was co-founder and
@@ -677,6 +691,7 @@
       ttopic: OT
       email: bschrag@nsf.gov
       photo: Ben-compressed.jpg
+      ttopic: ot
       desc:
       bio: "is the Senior Program Director for the SBIR/STTR programs. He joined the NSF
     as a Program Director in 2009, leading the Advanced Materials and Instrumentation
@@ -701,6 +716,7 @@
       api_name: Carl Schwerdtfeger
       email: rschwerd@nsf.gov
       photo: Rick-compressed.jpg
+      ttopic: ph
       bio: "joined the National Science Foundation in August 2016 as the SBIR/STTR Program
     Director. Prior to joining NSF, Rick was the CTO and Co-Founder of the Advanced RenewableEnergy
     Company, a clean-tech and semiconductor equipment company, where he led the technology
@@ -741,6 +757,7 @@
       api_name: Peter Atherton
       email: patherto@nsf.gov
       photo: Peter-compressed.jpg
+      ttopic: qt
       bio: "comes to the NSF with a broad background in the physical sciences, and extensive
     experience in technology development and commercialization. Before joining NSF
     Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly
@@ -777,6 +794,7 @@
       api_name: Muralidharan Nair
       email: mnair@nsf.gov
       photo: Murali-compressed.jpg
+      ttopic: r
       bio: "has been an SBIR/STTR Program Director since 2003. Prior to joining NSF,
     Murali was the Founder CEO of a Bluetooth wireless product company. In this capacity,
     he raised equity capital for worldwide operations in the United States, China and India.
@@ -818,6 +836,7 @@
       api_name: Steven Konsek
       email: skonsek@nsf.gov
       photo: Konsek-compressed.jpg
+      ttopic: s
       bio: "joined the National Science Foundation’s SBIR/STTR program in 2012 and has
     served as both a Program Director for the SBIR/STTR and the Innovation Corps (I-Corps™)
     program. Prior to joining NSF, Steven was the Chief Technology Officer at Illumitex,
@@ -851,6 +870,7 @@
       api_name: Muralidharan Nair
       email: mnair@nsf.gov
       photo: Murali-compressed.jpg
+      ttopic: se
       bio: "has been an SBIR/STTR Program Director since 2003. Prior to joining NSF,
     Murali was the Founder CEO of a Bluetooth wireless product company. In this capacity,
     he raised equity capital for worldwide operations in the United States, China and India.
@@ -885,6 +905,7 @@
       api_name: Carl Schwerdtfeger
       email: rschwerd@nsf.gov
       photo: Rick-compressed.jpg
+      ttopic: sp
       bio: "joined the National Science Foundation in August 2016 as the SBIR/STTR Program
     Director. Prior to joining NSF, Rick was the CTO and Co-Founder of the Advanced RenewableEnergy
     Company, a clean-tech and semiconductor equipment company, where he led the technology
@@ -928,6 +949,7 @@
       api_name: Muralidharan Nair
       email: mnair@nsf.gov
       photo: Murali-compressed.jpg
+      ttopic: w
       bio: "has been an SBIR/STTR Program Director since 2003. Prior to joining NSF,
     Murali was the Founder CEO of a Bluetooth wireless product company. In this capacity,
     he raised equity capital for worldwide operations in the United States, China and India.
