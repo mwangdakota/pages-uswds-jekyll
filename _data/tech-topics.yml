@@ -269,28 +269,29 @@
   permalink: /topics/digital-health/
   topic_code: dh
   programDirector:
-    - name: Nancy Kamei
-      last_name: Kamei
-      api_name: Nancy Kamei
-      email: nkamei@nsf.gov
-      photo: Kamei-compressed.jpg
-      ttopic: dh
-      bio: "is an SBIR/STTR Program Director. In 2017,
-    after several years of retirement, she joined the Division of Industrial Innovation
-    and Partnerships to serve the United States’ entrepreneurial ecosystem. For several
-    years, she served as a National Instructor for the Innovation Corps (I-Corps™)
-    program, interacting with NSF and National Institutes of Health grantees, which
-    inspired her to join the SBIR/STTR Program and continue working with innovators
-    and entrepreneurs. Nancy has more than 20 years of experience as an investor,
-    having selected and managed billions of dollars of investments of both public
-    equities (Capital Group Companies) and venture capital (Intel Capital). She is
-    also a serial entrepreneur, having been on the founding team of several Silicon
-    Valley startups (Onyx Pharmaceuticals). After receiving her Doctor of Pharmacy
-    degree from University of California, San Francisco, she started her career at
-    Merck and then completed her Master of Business Administration at Stanford Graduate
-    School of Business. Nancy also has more than 40 years of service to the non-profit
-    sector. She recently relocated to the Washington, D.C. area after a lifetime in
-    California."  
+  - name: Peter Atherton
+    last_name: Atherton
+    api_name: Peter Atherton
+    email: patherto@nsf.gov
+    photo: Peter-compressed.jpg
+    bio: "comes to the NSF with a broad background in the physical sciences, and extensive
+    experience in technology development and commercialization. Before joining NSF
+    Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly
+    traded company that he founded in Sydney, Australia. Prior to MIKOH he spent approximately
+    seven years at the Overseas Telecommunications Commission (OTC Australia) where he
+    managed optical fiber communications R&D, including approximately 14 months in
+    the UK at British Telecom’s Martlesham Heath R&D laboratories. While at OTC his
+    research group made world-leading advances in high-speed optical communications
+    technologies, some of which were commercialized via spin-off companies. He also
+    managed the externally contracted development and commercialization of a number
+    of optical fiber and optoelectronic technologies, and was instrumental in establishing
+    a commercialization center for specialized optical fibers at the University of
+    Sydney. While at MIKOH Corporation he was instrumental in developing and commercializing
+    technologies in a range of fields including diffractive optics, laser-based marking,
+    radio frequency identification and internet-based personal authentication. He
+    moved to the United States in 1998 to further develop the company’s technologies and markets.
+    Peter holds a Ph.D. in physics (Quantum Optics), and a BEng (Mech) – both from
+    the University of Queensland (Australia)." 
   subtopics:
     - Business Models for User-Centered Healthcare (DH1)
     - Data to Decisions (DH2)
@@ -620,28 +621,24 @@
   permalink: /topics/medical-devices/
   topic_code: md
   programDirector:
-    - name: Nancy Kamei
-      last_name: Kamei
-      api_name: Nancy Kamei
-      email: nkamei@nsf.gov
-      photo: Kamei-compressed.jpg
-      ttopic: md
-      bio: "is an SBIR/STTR Program Director. In 2017,
-    after several years of retirement, she joined the Division of Industrial Innovation
-    and Partnerships to serve the United States’ entrepreneurial ecosystem. For several
-    years, she served as a National Instructor for the Innovation Corps (I-Corps™)
-    program, interacting with NSF and National Institutes of Health grantees, which
-    inspired her to join the SBIR/STTR Program and continue working with innovators
-    and entrepreneurs. Nancy has more than 20 years of experience as an investor,
-    having selected and managed billions of dollars of investments of both public
-    equities (Capital Group Companies) and venture capital (Intel Capital). She is
-    also a serial entrepreneur, having been on the founding team of several Silicon
-    Valley startups (Onyx Pharmaceuticals). After receiving her Doctor of Pharmacy
-    degree from University of California, San Francisco, she started her career at
-    Merck and then completed her Master of Business Administration at Stanford Graduate
-    School of Business. Nancy also has more than 40 years of service to the non-profit
-    sector. She recently relocated to the Washington, D.C. area after a lifetime in
-    California."  
+    - name: Henry Ahn
+      last_name: Ahn
+      api_name: Henry Ahn
+      email: hahn@nsf.gov
+      photo: Henry-compressed.jpg
+      bio: "joined the National Science Foundation in July 2016 as an SBIR/STTR Program
+    Director. Prior to joining NSF, Henry managed seed-and early-stage investment programs
+    for TEDCO for 12 years including the Technology Commercialization Fund, TEDCO’s flagship
+    seed funding program for technology-based companies in Maryland. During his time
+    at TEDCO, Henry was actively involved with various entrepreneurs and entrepreneur
+    support groups as a guest speaker, an advisory board member, a judge, a mentor,
+    among others. Additionally, Henry was part of the licensing and supplier relations
+    team at a biotechnology company called Upstate, where he successfully negotiated,
+    licensed and commercialized approximately 190 biomedical research reagents from
+    around the world. Henry has also done approximately five years of research, mostly
+    in the field of immunology (including graduate work). Henry has an MBA from Rice
+    University, an M.S. in biotechnology from the University of Tennessee, Knoxville
+    and a B.S. in biomedical engineering from Boston University."  
   subtopics:
     - Medical Devices (MD1)
   companies:
