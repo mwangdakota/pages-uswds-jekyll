@@ -5,7 +5,7 @@ layout: resources-layout
 sidenav: phase-2
 ---
 
-# Educational partnerships
+# Educational opportunities
 
 
 1. High School Participants (RAHSS)

@@ -10,13 +10,17 @@ hero:
     text: We take 0% equity
   button:
     href: /apply/
-    text: "Learn More"
+    text: "Get started"
   caption: A microscopic image of the metals in a plant seedling being studied for its ability to clean contaminated environments. Photo courtesy of <a href="https://seedfund.nsf.gov/awardees/phase-2/details/?company=sigray">Sigray</a>, a small business revolutionizing x-ray research equipment through its patented innovations on x-ray source and optic technology.
 ---
 
 <head><script type="text/javascript"> setTimeout(function(){var a=document.createElement("script"); var b=document.getElementsByTagName("script")[0]; a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0041/5508.js?"+Math.floor(new Date().getTime()/3600000); a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1); </script>
 </head>
-
+<section class="usa-section usa-content  background-gray-dark" style="padding-top:2rem; padding-bottom: 0rem;">
+<div class="usa-grid">
+<h2 class="text-medium" style="color:#fff;"><strong>Submit a Project Pitch NOW and find out if your project is a good fit. </strong></h2><br>
+</div>
+</section>
 <section class="usa-section usa-content section-intro background-light-neutral">
 <div class="usa-grid">
 <div class="usa-width-one-third" markdown="1">

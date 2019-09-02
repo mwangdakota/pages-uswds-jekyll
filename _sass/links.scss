@@ -63,6 +63,7 @@ a { cursor: pointer; }
     &[href*='.net'],
     &[href*='.co'],
     &[href*='.tech'],
+    &[href*='.vc'],
     &.external-link {
       background: url('../img/links/external-link.svg') right center no-repeat;
       background-size: 16px auto;

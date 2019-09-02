@@ -36,16 +36,16 @@ primary:
 fastlane:
   - text: Fastlane Overview
     href: /fastlane/
+  - text: Registrations
+    href: /fastlane/registrations/
   - text: Form Preparation
-    href: /fastlane/form-prep/
+    href: /fastlane/form-prep-1/
   - text: Form Preparation part 2
     href: /fastlane/form-prep-2/
   - text: Form Preparation part 3
     href: /fastlane/form-prep-3/
   - text: Proposal Submission
-    href: /fastlane/proposal-submission/
-  - text: Proposal File Update
-    href: /fastlane/proposal-file-update/   
+    href: /fastlane/proposal-submission/   
   - text: Definitions
     href: /fastlane/definitions/
 
@@ -114,12 +114,14 @@ phase-2:
   - text: Supplemental funding opportunities
     section: supplement
     href: /resources/awardees/supplement/overview/
-  - text: Commercial partnerships
+  - text: Additional opportunities
+    href: /resources/awardees/supplement/additional/
+  - text: Commercial opportunities
     href: /resources/awardees/supplement/commercial/
-  - text: Institutional partnerships
-    href: /resources/awardees/supplement/institutional/
-  - text: Educational partnerships
+  - text: Educational opportunities
     href: /resources/awardees/supplement/educational/
+  - text: Institutional opportunities
+    href: /resources/awardees/supplement/institutional/
   - text: Supplement submission instructions
     href: /resources/awardees/phase-2/instructions/
 

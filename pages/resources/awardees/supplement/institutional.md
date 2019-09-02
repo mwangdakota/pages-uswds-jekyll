@@ -4,7 +4,7 @@ permalink: /resources/awardees/supplement/institutional/
 layout: resources-layout
 sidenav: phase-2
 ---
-# Institutional partnerships
+# Institutional opportunities
 
 
 1. Centers for Research Excellence Science and Technology and Underrepresented Groups (Phase IIA)

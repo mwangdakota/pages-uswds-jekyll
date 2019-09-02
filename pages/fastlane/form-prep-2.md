@@ -7,7 +7,7 @@ sidenav: fastlane
 
 # FastLane guide
 
-## 2. Form Preparation
+## 3. Form Preparation
 
 ### References Cited
 
@@ -88,7 +88,7 @@ It is recommended that proposers allot funds for fringe benefits here ONLY if th
   G.4. Computer (ADPE) Services  
   G.5. Subcontracts - a separate budget is REQUIRED for each subcontractor; the total amount of all these subcontracts should be entered here. (In the small business concern's Budget Justification, please include a few sentences describing the scope and objective of the subaward.)  
   G.6.Other  
-  Firstly, the applicant may budget up to $10,000 as a direct charge on line G.6 to this Phase I award for the following specific purposes related to financials and accounting:
+  First, the applicant may budget up to $10,000 as a direct charge on line G.6 to this Phase I award for the following specific purposes related to financials and accounting:
   * Hiring a certified public accountant (CPA) to prepare audited, compiled, or reviewed financial statements
   * Hiring a CPA to perform an initial financial viability assessment based on standard financial ratios so the awardee organization would have time to improve their financial position prior to submitting the Phase II proposal
   * Hiring a CPA to review the adequacy of the awardee's project cost accounting system
@@ -98,7 +98,7 @@ If the applicant elects to budget funds for one of the above purposes, the budge
 
 Second, the applicant may budget up to $20,000 to cover costs related to NSF's "Beat-The-Odds Boot Camp" which is offered to all Phase I awardees.
 
-This program is based on the NSF's Innovation Corps program, and more information can be found here. All Phase I awardees are strongly encouraged to participate in this activity. Costs that are allowable are limited to travel costs related to customer discovery (this could include costs associated with registration/attendance at events for the purpose of customer discovery) and salary/wages for team members who participated in the Boot Camp. All costs related to the Boot Camp must be in line with approved salary rates and other relevant Federal guidelines. International travel cannot be reimbursed, nor can any salary/wages for work done while outside of the United States. NSF recommends that, for the purposes of the proposal budget, applicants that plan to participate in this activity budget $10,000 and simply list this as "Boot Camp" costs in the budget justification.
+This program is based on the NSF's Innovation Corps program, and more information can be found [here](https://seedfund.nsf.gov/resources/awardees/phase-1/bootcamp/). All Phase I awardees are strongly encouraged to participate in this activity. Costs that are allowable are limited to travel costs related to customer discovery (this could include costs associated with registration/attendance at events for the purpose of customer discovery) and salary/wages for team members who participated in the Boot Camp. All costs related to the Boot Camp must be in line with approved salary rates and other relevant Federal guidelines. International travel cannot be reimbursed, nor can any salary/wages for work done while outside of the United States. NSF recommends that, for the purposes of the proposal budget, applicants that plan to participate in this activity budget $10,000 and simply list this as "Boot Camp" costs in the budget justification.
 
 ![Other Direct Costs section with input fields for funds requested]({{ site.baseurl }}/assets/img/fastlane/15-OtherCosts.jpg)
 **H. Total Direct Costs section:** Click "Calculate" and the total of items A through G will update.

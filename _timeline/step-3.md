@@ -1,6 +1,6 @@
 ---
-title: Get pre-submission feedback (optional)
+title: Preview the Project Pitch
 ---
-You can send an executive summary to one of our program directors to discuss your work and get feedback. Complete our short [executive summary form](https://goo.gl/forms/49AdC0Nqj8tPegV13) — an SBIR/STTR program director will send you written feedback within a week or two.
+Preview the information we look for in a [Project Pitch]({{ site.baseurl }}/project-pitch/).
 
-
+Startups or entrepreneurs who submit a three-page Project Pitch will know within three weeks if they meet the program’s objectives to support innovative technologies that show promise of commercial and/or societal impact and involve a level of technical risk.

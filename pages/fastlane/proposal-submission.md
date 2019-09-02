@@ -6,7 +6,7 @@ sidenav: fastlane
 ---
 # FastLane guide
 
-## 3. Proposal Submission
+## 4. Proposal Submission
 
 ### Print Proposal
 
@@ -83,9 +83,8 @@ The "Proposal Errors/Warnings" screen gives you the capability to submit the pro
 - Click the **"OK"** button to return to the "Documents in Progress" tab
 
 ![Proposal Submission Confirmation screen with proposal number listed]({{ site.baseurl }}/assets/img/fastlane/8_SRO_Confirmation2017.JPG)
-_This is the Proposal Number you should reference in all communications with NSF regarding this proposal henceforward._
 
-**Note: User's lack of familiarity with FastLane is not a valid excuse for submitting a late proposal, nor are warnings/errors received at the time of submission. Therefore, we strongly advise all submitters to ensure the proposal is submitted EARLY (days - not hours - before each deadline).**
+Your proposal has now been successfully submitted to NSF. Please make sure to note your Proposal Number, which should be referenced in all communications with NSF regarding this proposal henceforward.
 
-[Prev]({{ site.baseurl }}/fastlane/form-prep-3/) \| [Next]({{ site.baseurl }}/fastlane/proposal-file-update/)
+[Prev]({{ site.baseurl }}/fastlane/form-prep-3/) 
 

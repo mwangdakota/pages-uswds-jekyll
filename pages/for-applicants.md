@@ -8,6 +8,10 @@ permalink: /resources/applicants/
 
 If you’re interested in applying for funding, we encourage you to watch our videos, join us at an event, or reach out directly to our program directors to learn more about the program and what we hope to see in your proposal. 
 
+## Project Pitch
+
+Wondering if your idea is a good fit? Submit your [Project Pitch]({{site.baseurl}}/project-pitch/) and find out in three weeks.
+
 ## Review Guidelines
 
 Read the [Peer Review Guidelines](https://seedfund.nsf.gov/resources/review/peer-review/) to determine if your proposal fits the merit review or broader impacts criteria that we use to make funding decisions.
@@ -15,7 +19,7 @@ Read the [Peer Review Guidelines](https://seedfund.nsf.gov/resources/review/peer
 {% if site.app_process == "active" %}
 ## Q&A webinars
 
-Thinking of applying for Phase I funding? Ask all your application-related questions during our [Q&A webinars](https://seedfund.nsf.gov/events/). Can’t make it to a webinar? Check out our videos covering [program basics](https://youtu.be/oJSYhyJ06Wk) and [tips and tricks for submitting a proposal](https://youtu.be/sogjxLBLhzk). (We offer a [PDF version of program basics]({{site.baseurl}}/assets/files/press/overview2018.pdf), too.)
+Thinking of applying for Phase I funding? Ask all your application-related questions during our [Q&A webinars](https://seedfund.nsf.gov/events/). Can’t make it to a webinar? Watch a [recorded webinar](https://youtu.be/xZO8o1mDiO0) about the Project Pitch Pilot. (We offer a [PDF version of program basics]({{site.baseurl}}/assets/files/press/overview2019.pdf), too.)
 
 {% else %}
 ## Q&A videos
@@ -29,8 +33,8 @@ Get to know our awardees better — we’ve got [video profiles of startups and 
 
 ## FastLane guide
 
-Before you start your application, take a look at our [FastLane guide]({{ site.baseurl }}/fastlane/). This way, once the next solicitation opens, you'll be ready to craft your application. 
+Before you start your proposal, take a look at our [FastLane guide]({{ site.baseurl }}/fastlane/). 
 
 ## FAQ
 
-Have lingering questions? Visit our [FAQ](https://www.nsf.gov/pubs/2018/nsf18068/nsf18068.jsp), which covers the pre-application process to post-award reporting (and everything in between).
+Have lingering questions? Visit our [FAQ](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf19047), which covers the pre-application process to post-award reporting (and everything in between).

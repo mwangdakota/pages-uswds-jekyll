@@ -25,9 +25,9 @@ The NSF SBIR/STTR program makes awards to small companies developing innovations
   - The potential for societal benefit through commercialization under a sustainable business model
 
 ## Panelist conflict of interest (COI)
-If you're a panelist, you must read and sign the NSF Conflict of Interests and Confidentiality Statement for NSF Panelists. Please open and review the required [COI Form](/files/coiform.docx); you will be required to sign this form on the morning of the panel.
+If you're a panelist, you must read and sign the NSF Conflict of Interests and Confidentiality Statement for NSF Panelists. Please open and review the required [COI Form]({{ site.baseurl }}/assets/files/awardees/coiform.pdf); you will be required to sign this form on the morning of the panel.
 
-**For mail reviewers only**: Before you can access any proposals in FastLane, you must sign the NSF Conflict of Interest (COI) and Confidentiality Statement for NSF Panelists. Please print and sign the [COI Form](/files/coiform.docx) and scan/email it to the NSF staff person who invited you to review. If necessary, you can fax the COI form to 703-292-9057. In the Panel Name field, please include the number of the proposal you were invited to review.
+**For mail reviewers only**: Before you can access any proposals in FastLane, you must sign the NSF Conflict of Interest (COI) and Confidentiality Statement for NSF Panelists. Please print and sign the [COI Form]({{ site.baseurl }}/assets/files/awardees/coiform.pdf) and scan/email it to the NSF staff person who invited you to review. If necessary, you can fax the COI form to 703-292-9057. In the Panel Name field, please include the number of the proposal you were invited to review.
 
 ## SBIR/STTR merit review criteria
 
@@ -56,5 +56,5 @@ This criterion addresses the overall impact of the proposed activity.
 
 Please see the below links for additional review criteria for commercial reviews:
 
-- **Phase I:** [Phase I Commercial Review Form](/{{site.baseurl}}/assets/files/awardees/PhaseICommercialReviewerForm.doc)
+- **Phase I:** [Phase I Commercial Review Form]({{site.baseurl}}/assets/files/awardees/PhaseICommercialReviewerForm.doc)
 - **Phase II:** [Phase II Commercial Review Form]({{site.baseurl}}/assets/files/awardees/PhaseIICommercialReviewerForm.doc)

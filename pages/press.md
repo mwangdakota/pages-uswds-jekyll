@@ -16,7 +16,7 @@ Are you putting out a press release? If you'd like to mention your NSF award, us
 
 ### About the NSF's Small Business Programs
 
-America’s Seed Fund powered by NSF awards $200 million annually to startups and small businesses, transforming scientific discovery into products and services with commercial and societal impact. Startups working across almost all areas of science and technology can receive up to $1.5 million in non-dilutive funds to support research and development (R&D), helping de-risk technology for commercial success. America’s Seed Fund is congressionally mandated through the Small Business Innovation Research (SBIR) program. The NSF is an independent federal agency with a budget of about $7.8 billion that supports fundamental research and education across all fields of science and engineering. For more information, visit seedfund.nsf.gov.
+America’s Seed Fund powered by NSF awards $200 million annually to startups and small businesses, transforming scientific discovery into products and services with commercial and societal impact. Startups working across almost all areas of science and technology can receive up to $1.5 million in non-dilutive funds to support research and development (R&D), helping de-risk technology for commercial success. America’s Seed Fund is congressionally mandated through the Small Business Innovation Research (SBIR) program. The NSF is an independent federal agency with a budget of about $8.1 billion that supports fundamental research and education across all fields of science and engineering. For more information, visit seedfund.nsf.gov.
 
 ## The history of NSF SBIR
 
@@ -52,4 +52,4 @@ The [NSF logo (and guidance for its use)](https://www.nsf.gov/policies/logos.jsp
 
 To learn more about the SBIR/STTR program at other government agencies, visit the [Small Business Administration's SBIR website](https://www.sbir.gov/#).
 
-We also have a [one sheet (PDF)]({{site.baseurl}}/assets/files/press/overview2018.pdf) covering program basics and points of interest.
+We also have a [one sheet (PDF)]({{site.baseurl}}/assets/files/press/overview2019.pdf) covering program basics and points of interest.

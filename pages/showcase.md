@@ -17,6 +17,54 @@ Are you an awardee and have a success story to share?  [Tell us about it](https:
 </div>
 </section>
 
+<section class="usa-section showcase-content background-gray-dark">
+<div class="usa-content usa-grid">
+
+<div class="usa-content usa-width-one-half" markdown="1">
+
+### 'Moxi' the robot that supports nurses – Diligent Robotics
+
+Diligent Robotics, a small business funded by the National Science Foundation (NSF), created “Moxi,” a robot that supports clinical staff teams in acute care hospitals by executing logistical tasks so staff can focus on direct human care. 
+
+To learn more visit: [https://diligentrobots.com/](https://diligentrobots.com/).
+
+</div>
+
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Diligent Robotics" width="100%" height="300" src="https://www.youtube.com/embed/Pdm0hix7OiI" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+</section>
+
+<section class="usa-section showcase-content background-gray-dark">
+<div class="usa-content usa-grid">
+
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Diligent Robotics" width="100%" height="300" src="https://www.youtube.com/embed/f5iYvMtqTAo" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="usa-content usa-width-one-half" markdown="1">
+
+### Sustainable ink from algae
+
+Living Ink Technologies, a small business funded by the National Science Foundation (NSF), is developing ink from algae cells. The Colorado-based biomaterials company is “changing the way pigments are made” to use algae as a colorant. Its sustainable algae products could replace ink made from petroleum-based ink.
+
+To learn more visit: [https://livingink.co/](https://livingink.co/).
+
+</div>
+
+</div>
+</section>
+
+
+
+<section class="usa-section showcase-content">
+
+<div class="usa-content usa-grid">
+ <img src="{{ site.baseurl }}/assets/img/showcase/Elidah Quote Image.png" alt="Elidah Quote" style="float:left; margin-right:2%; max-width:47%;">
+  <img src="{{ site.baseurl }}/assets/img/showcase/Bay Labs Quote Image.png" alt="Bay Labs Quote" style="float:left; margin-right:2%; max-width:47%;">
+ </div>
+ </section>
 
 
 <section class="usa-section showcase-content background-gray-dark">
@@ -33,7 +81,7 @@ To learn more visit: [https://www.fyodorbio.com/](https://www.fyodorbio.com/).
 </div>
 
 <div class="usa-width-one-half">
-  <iframe title="Malaria Video" width="100%" height="300" src="https://www.youtube.com/embed/XzgzRg9PwRc" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="Malaria Video" width="100%" height="300" src="https://www.youtube.com/embed/XzgzRg9PwRc" frameborder="0" allowfullscreen></iframe>
 </div>
 </div>
 </section>
@@ -43,7 +91,7 @@ To learn more visit: [https://www.fyodorbio.com/](https://www.fyodorbio.com/).
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
 <div class="usa-width-one-half">
-  <iframe title="Elidah" height="300" width="100%" src="https://www.youtube.com/embed/ksxUK6OWpOA" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="Elidah" height="300" width="100%" src="https://www.youtube.com/embed/ksxUK6OWpOA" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
@@ -61,6 +109,65 @@ To learn more visit: [https://www.elidah.com/](https://www.elidah.com/).
 </div>
 </section>
 
+<section class="usa-section showcase-content">
+
+<div class="usa-content usa-grid">
+  <img src="{{ site.baseurl }}/assets/img/showcase/Branch Technology Quote Image.png" alt="Branch Technology Quote" style="float:left; margin-right:2%; max-width:47%;">
+  <img src="{{ site.baseurl }}/assets/img/showcase/Artaic Quote Image.png" alt="Artaic Quote" style="float:left; margin-right:2%; max-width:47%;">
+  
+ </div>
+ </section>
+
+ 
+ 
+<section class="usa-section showcase-content">
+
+<div class="usa-content usa-grid">
+<h3> Monitoring internal and external network performance - ThousandEyes </h3>
+<div class="usa-content usa-width-one-whole">
+<div> <div style="max-width:300px;margin-right:15px;float:left;"><img src="{{ site.baseurl }}/assets/img/showcase/thousandEyes.jpg" alt="Mohit Lad" style="float:left; margin-right:10px; max-width:100%;"><p style="margin:0px;text-align:center;">Mohit Lad, CEO & Co-Founder of ThousandEyes</p></div> <p style="max-width:100%"> “The grants we received from NSF were instrumental in bootstrapping ThousandEyes and allowing us to focus on building the first version of our product and acquiring customers. By the time we raised our series A from Sequoia capital, we had a handful of well-known brands as customers with annual bookings of more than $250k, i.e. real revenue. Thanks to NSF, we were on our way to commercializing our technology.” -Mohit Lad, CEO & Co-Founder of ThousandEyes, a network intelligence platform for businesses, was founded by Lad and Ricardo Oliviera in 2010. In 2018, they have 220 employees and have raised nearly $110 million. </p>
+</div>
+<div><p style="max-width:100%;">ThousandEyes delivers Network Intelligence—performance visibility and actionable insights on digital experience for every user and application over any network. It arms network engineers, operations teams, support/service desk staff, developers, and even business users with an accurate, up-to-the-moment understanding of the link between application delivery and underlying network dependencies and behaviors– both inside and outside the organization.</p>
+</div>
+
+</div>
+<div class="usa-content usa-width-one-whole">
+ <img src="{{ site.baseurl }}/assets/img/showcase/pathvisualization.jpg" alt="pathVisualization" width="45%" style="float:left; margin-right:15px;">
+ <div class="caption">
+  <p style="max-width:90%;margin:auto;">ThousandEyes' patented Path Visualization provides detailed hop-by-hop visibility and performance metrics from any network, even if it's outside your enterprise boundaries. A global inference engine correlates multiple streams of data and visually pinpoints the location of outages (shown as red circles), and provides additional contextual information about the specific location.</p></div>
+ </div>
+</div>
+</section>
+  
+<section class="usa-section showcase-quote" markdown="1">
+<div id="artaic1" class="usa-grid" markdown="1">
+
+### Robots that create custom mosaics - Artaic
+<div class="quote-content" markdown="1">
+
+![Ted Acworth]({{ site.baseurl }}/assets/img/showcase/ted_acworth.jpg)
+
+> &ldquo;Without NSF funding, my company wouldn’t have been able to get off the ground. Early on, when we were too young and too risky for venture funding, NSF filled the gap with an SBIR Phase I grant. Now, after our Phase II is completed, we are a viable growth stage company that employs over 30 people and serves clients globally. The best part— our product is having a positive impact on society, giving people access to an ancient art form that was previously too costly and complex to create and install.&rdquo;
+
+</div>
+
+Ted Acworth  
+Founder and CEO of [Artaic](https://artaic.com/), a small business funded by NSF, that designs and fabricates custom mosaic tile installations using robots.  
+<div style="max-width:50%;margin-top:20px;float:left;"><img src="{{ site.baseurl }}/assets/img/showcase/artaic.jpg" style="margin-right:5px;" alt="Mosaic Tile installation tool"></div>
+<div style="max-width:50%;margin-top:20px; float:left;"><img src="{{ site.baseurl }}/assets/img/showcase/artaic2.JPG" style="margin-left:5px;" alt="Mosaic Tile installation tool"></div>
+</div>
+
+</section>
+
+<section class="usa-section showcase-content">
+<div class="usa-content usa-grid">
+   <img src="{{ site.baseurl }}/assets/img/showcase/Omnity Quote Image.png" alt="Omnity Quote" style="float:left; margin-right:2%; max-width:47%;">
+  <img src="{{ site.baseurl }}/assets/img/showcase/Spheryx Quote.png" alt="Spheryx Quote" style="float:left; margin-right:2%; max-width:47%;">
+ </div>
+ </section>
+ 
+ 
+
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
 <div class="usa-content usa-width-one-half" markdown="1">
@@ -74,7 +181,7 @@ To learn more visit: [https://baylabs.io/](https://baylabs.io/).
 </div>
 
 <div class="usa-width-one-half">
-  <iframe title="Ultrasound video" width="100%" height="300" src="https://www.youtube.com/embed/QdCIZE-eKB4" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="Ultrasound video" width="100%" height="300" src="https://www.youtube.com/embed/QdCIZE-eKB4" frameborder="0" allowfullscreen></iframe>
 </div>
 
 </div>
@@ -83,7 +190,7 @@ To learn more visit: [https://baylabs.io/](https://baylabs.io/).
 <div class="usa-content usa-grid">
 
 <div class="usa-width-one-half">
-  <iframe title="Mental Health video" width="100%" height="300" src="https://www.youtube.com/embed/Z4mwbSNvlp8" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="Mental Health video" width="100%" height="300" src="https://www.youtube.com/embed/Z4mwbSNvlp8" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="usa-content usa-width-one-half" markdown="1">
 
@@ -99,6 +206,7 @@ To learn more visit: [http://taoconnect.org/](http://taoconnect.org/).
 </section>
 
 
+ 
 <section id="drugDelivery" class="usa-section showcase-content">
 <div class="usa-content usa-grid">
     
@@ -123,6 +231,13 @@ Jose M. Mejia Oneto, founder and CEO of Shasqi.
 </div>
 </section>
 
+<section class="usa-section showcase-content">
+<div class="usa-content usa-grid">
+ <img src="{{ site.baseurl }}/assets/img/showcase/TAO Connect Quote Image.png" alt="TAO Connect Quote" style="float:left; margin-right:2%; max-width:47%;">
+  <img src="{{ site.baseurl }}/assets/img/showcase/ThousandEyes Quote Image.png" alt="ThousandEyes Quote" style="float:left; margin-right:2%; max-width:47%;">
+ </div>
+ </section>
+ 
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
 <div class="usa-content usa-width-one-half" markdown="1">
@@ -136,7 +251,7 @@ To learn more visit: [https://spheryx.solutions/](https://spheryx.solutions/).
 </div>
 
 <div class="usa-width-one-half">
-  <iframe title="Contaminates" width="100%" height="300" src="https://www.youtube.com/embed/OyR_i_nPkhA" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="Contaminates" width="100%" height="300" src="https://www.youtube.com/embed/OyR_i_nPkhA" frameborder="0" allowfullscreen></iframe>
 </div>
 
 </div>
@@ -145,7 +260,7 @@ To learn more visit: [https://spheryx.solutions/](https://spheryx.solutions/).
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
 <div class="usa-width-one-half">
-  <iframe title="3D Printing Video" height="300" width="100%" src="https://www.youtube.com/embed/OsLDAevskrA" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="3D Printing Video" height="300" width="100%" src="https://www.youtube.com/embed/OsLDAevskrA" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
@@ -175,12 +290,18 @@ To learn more visit: [https://www.arable.com/](https://www.arable.com/).
 </div>
 
 <div class="usa-width-one-half">
-  <iframe title="sustainable-synthetic-bait-video" width="100%" height="300" src="https://www.youtube.com/embed/BC7LQRir7L8" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="sustainable-synthetic-bait-video" width="100%" height="300" src="https://www.youtube.com/embed/BC7LQRir7L8" frameborder="0" allowfullscreen></iframe>
 </div>
 
 </div>
 </section>
 
+<section class="usa-section showcase-content">
+<div class="usa-content usa-grid">
+  <img src="{{ site.baseurl }}/assets/img/showcase/Tinkercast Quote Image.png" alt="Tinkercast Quote" style="float:left; margin-right:2%; max-width:47%;">
+  <img src="{{ site.baseurl }}/assets/img/showcase/posed2 Quote Image.png" alt="posed2 Quote" style="float:left; margin-right:2%; max-width:47%;">
+ </div>
+ </section>
 
 <section class="usa-section showcase-quote" markdown="1">
 <div class="usa-grid" markdown="1">
@@ -203,7 +324,13 @@ CEO, [Lumenari, Inc.](http://www.lumenariinc.com/)
 </div>
 </section>
 
-
+<section class="usa-section showcase-content">
+<div class="usa-content usa-grid">
+<img src="{{ site.baseurl }}/assets/img/showcase/Keystone Tower Systems Quote.png" alt="Keystone Tower Systems Quote" style="float:left; margin-right:2%; max-width:47%;">
+  <img src="{{ site.baseurl }}/assets/img/showcase/Killer Snails Quote Image.png" alt="Killer Snails Quote" style="float:left; margin-right:2%; max-width:47%;">
+ </div>
+ </section>
+ 
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
 <div class="usa-content usa-width-one-half" markdown="1">
@@ -217,7 +344,7 @@ To learn more visit: [https://www.omnity.io/](https://www.omnity.io/).
 </div>
 
 <div class="usa-width-one-half">
-  <iframe title="Words video" width="100%" height="300" src="https://www.youtube.com/embed/r5EULFTdI0I" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="Words video" width="100%" height="300" src="https://www.youtube.com/embed/r5EULFTdI0I" frameborder="0" allowfullscreen></iframe>
 </div>
 
 </div>
@@ -228,7 +355,7 @@ To learn more visit: [https://www.omnity.io/](https://www.omnity.io/).
 
 
 <div class="usa-width-one-half">
-  <iframe title="Manufacturing Video" width="100%" height="300" src="https://www.youtube.com/embed/Q10zFGxpNoo" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="Manufacturing Video" width="100%" height="300" src="https://www.youtube.com/embed/Q10zFGxpNoo" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="usa-content usa-width-one-half" markdown="1">
 
