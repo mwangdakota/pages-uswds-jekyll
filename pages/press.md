@@ -8,7 +8,7 @@ layout: secondary-narrow
 
 ## Media inquiries
 
-For press questions about the program, please email [NSF Public Affairs](mailto:sabates@nsf.gov) with inquiries. 
+For press questions about the program, please email [NSF Public Affairs](mailto:media@nsf.gov) with inquiries. 
 
 ## Press release information
 
@@ -42,7 +42,7 @@ If you have suggestions, we’d love to hear them — share your feedback [via e
 
 [Bio: France A. Córdova](https://www.nsf.gov/mobile/staff/staff_bio.jsp?lan=fcordova&org=NSF&from_org): The official bio of France A. Córdova, NSF's 14th director.
 
-[Bio: Barry W. Johnson](https://www.nsf.gov/news/news_summ.jsp?cntn_id=134426): The official bio of Barry W. Johnson, the Division Director of the Division of Industrial Innovation and Partnerships, home of America's Seed Fund powered by NSF.
+[Bio: Andrea Belz](https://seedfund.nsf.gov/contact/bios/#Andrea%20Belz): The official bio of Andrea Belz, the Division Director of the Division of Industrial Innovation and Partnerships, home of America's Seed Fund powered by NSF.
 
 [Division of Industrial Innovation and Partnerships (IIP)](https://www.nsf.gov/div/index.jsp?div=IIP): The Division that houses America's Seed Fund at NSF. IIP is part of the Directorate for Engineering and serves the entire Foundation, fostering partnerships to advance technological innovation and public-private partnerships. IIP invests in high-tech small businesses and collaborations between academia and industry to transform discoveries into innovative commercial technologies with societal benefits.
 
