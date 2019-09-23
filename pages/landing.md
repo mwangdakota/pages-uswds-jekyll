@@ -4,7 +4,7 @@ permalink: /
 layout: landing
 
 hero:
-  image: /assets/img/bg/NSF-background.jpg
+  image: /assets/img/bg/ogilvy.jpg
   callout:
     alt: We invest up to $1.5 million in <br> seed funding
     text: We take 0% equity
