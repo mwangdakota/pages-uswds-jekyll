@@ -51,7 +51,7 @@
 
   li {
     a {
-      color: $color-base;
+      color: #ffffff;
       font-family: $font-mono;
       font-size: $font-size-xxxs;
       font-weight: 400;
@@ -60,8 +60,8 @@
       text-rendering: optimizeLegibility;
 
       &:hover {
-        color: $color-base;
-        background-color: $color-secondary;
+        color: #fff;
+        background-color: #01c6f1;
         border: 0;
 
         span {
@@ -74,13 +74,13 @@
 
 @include media($nav-width) {
   .usa-nav {
-    background-color: $color-white-transprent;
+    background-color: transparent;
     margin-top: 3.8rem;
     padding: 0;
   }
 
   .usa-nav-submenu {
-    background-color: $color-white-transprent;
+    background-color: #01c6f1;
     padding: .5rem 0;
 
     a:hover {
@@ -108,14 +108,4 @@
     border-bottom: none;
     height: 10.3rem;
   }
-}
-  .usa-hero .usa-button.usa-button-big {
-    background-color: #01c6f1;
-    color: #ffffff;
-  }
- @media screen and (min-width: 951px) {
-.landing-layout .usa-nav {
-  background-color:transparent;
-}
-}
 }
