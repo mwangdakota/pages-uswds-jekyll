@@ -108,13 +108,14 @@
     border-bottom: none;
     height: 10.3rem;
   }
- 
+}
   .usa-hero .usa-button.usa-button-big {
     background-color: #01c6f1;
     color: #ffffff;
   }
- @media screen and (min-width: 951px)
-.landing-layout.usa-nav {
+ @media screen and (min-width: 951px) {
+.landing-layout .usa-nav {
   background-color:transparent;
+}
 }
 }
