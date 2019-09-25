@@ -7,7 +7,7 @@
 
   .usa-accordion-button,
   .usa-accordion-button[aria-expanded=false] {
-    color: $color-base;
+    color: #ffffff;
     font-family: $font-mono;
     font-size: $font-size-xxxs;
     font-weight: 400;
@@ -18,8 +18,8 @@
     background-image: url('../img/arrow-down.svg');
 
     &:hover {
-      color: $color-base;
-      background-color: $color-secondary;
+      color: #ffffff;
+      background-color: #01c6f1;
       border: 0;
 
       span {
