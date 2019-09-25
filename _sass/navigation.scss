@@ -110,6 +110,10 @@
   }
 }
 
+
+
+
+
 .landing-layout {
 .usa-nav-primary {
   clear: both;
@@ -236,9 +240,9 @@ button:focus {
   color: #ffffff;
 }
   
-.usa-accordion-content .caption {
-  display:none;
-  }
+button.usa-accordion-button {
+    display: none;
+}
 
 .hero-treatment {
   background-image:none;
