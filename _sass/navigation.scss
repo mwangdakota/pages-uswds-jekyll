@@ -189,6 +189,9 @@
 }
 }
 
+  .usa-nav-inner {
+    background-color: #01c6f1 !important;
+  }
 @include media($nav-width) {
   .usa-nav {
     background-color: transparent;
