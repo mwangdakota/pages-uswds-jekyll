@@ -196,7 +196,7 @@
     background-color: #01c6f1;
   }
   
-@media screen(max-width: 481px)
+@include media($small-screen)
   .usa-hero .large-header {
     font-size: 3.6rem;
   }
@@ -210,6 +210,9 @@
    .usa-nav-inner {
     background-color: transparent !important;
   } 
+  .usa-hero .large-header {
+    font-size: 5.6rem !important;
+  }
   .usa-nav-submenu {
     background-color: #01c6f1;
     padding: .5rem 0;
