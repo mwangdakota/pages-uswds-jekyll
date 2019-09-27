@@ -196,7 +196,7 @@
     background-color: #01c6f1;
   }
   
-@include media($small-screen){
+@media screen(max-width: 481px)
   .usa-hero .large-header {
     font-size: 3.6rem;
   }
