@@ -195,8 +195,11 @@
   .usa-nav {
     background-color: #01c6f1;
   }
+  
+@include media($small-screen){
   .usa-hero .large-header {
     font-size: 3.6rem;
+  }
   }
 @include media($nav-width) {
   .usa-nav {
@@ -207,9 +210,6 @@
    .usa-nav-inner {
     background-color: transparent !important;
   } 
-  .usa-hero .large-header {
-    font-size: 5.6rem;
-  }
   .usa-nav-submenu {
     background-color: #01c6f1;
     padding: .5rem 0;
