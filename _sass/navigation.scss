@@ -192,9 +192,12 @@
   .usa-nav-inner {
     background-color: #01c6f1;
   }
+  .usa-nav {
+    background-color: #01c6f1;
+  }
 @include media($nav-width) {
   .usa-nav {
-    background-color: transparent;
+    background-color: transparent !important;
     margin-top: 3.8rem;
     padding: 0;
   }
