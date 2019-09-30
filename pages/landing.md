@@ -4,14 +4,15 @@ permalink: /
 layout: landing
 
 hero:
-  image: /assets/img/bg/hero-sigray.jpg
+
+  image: /assets/img/landing/ogilvy.jpg
   callout:
-    alt: We invest up to $1.5 million in <br> seed funding
-    text: We take 0% equity
+    alt: We invest up to <br>$1.5 million in <br> seed funding.
+    text: And take zero equity.
   button:
     href: /apply/
     text: "Get started"
-  caption: A microscopic image of the metals in a plant seedling being studied for its ability to clean contaminated environments. Photo courtesy of <a href="http://www.sigray.com">Sigray</a>, a small business revolutionizing x-ray research equipment through its patented innovations on x-ray source and optic technology.
+  caption: A microscopic image of the metals in a plant seedling being studied for its ability to clean contaminated environments. Photo courtesy of <a href="http://www.sigray.com">Sigray</a>, a small business revolutionizing x-ray research equipment through its patented innovations on x-ray source and optic technology. 
 ---
 
 <head><script type="text/javascript"> setTimeout(function(){var a=document.createElement("script"); var b=document.getElementsByTagName("script")[0]; a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0041/5508.js?"+Math.floor(new Date().getTime()/3600000); a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1); </script>
