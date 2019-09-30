@@ -112,40 +112,8 @@
 
 
 
-  .page-background {
-   background-position: center center;
-   background-repeat: no-repeat;
-    content: "";
-    background-attachment: fixed;
-    background-size: cover;
-    position: fixed;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -10; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-  }
 
-.landing-layout {
-.page-background {
-   background-position: center center;
-   background-repeat: no-repeat;
-    content: "";
-    background-attachment: fixed;
-    background-size: cover;
-    position: fixed;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -10; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-  }
+
 .usa-nav-primary {
   clear: both;
 
