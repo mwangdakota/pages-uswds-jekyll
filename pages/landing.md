@@ -4,6 +4,7 @@ permalink: /
 layout: landing
 
 hero:
+
   image: /assets/img/landing/ogilvy.jpg
   callout:
     alt: We invest up to <br>$1.5 million in <br> seed funding.
