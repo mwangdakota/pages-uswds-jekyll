@@ -8,7 +8,7 @@ layout: secondary
 
 # Showcase
 
-<h2 class="header-top-bar"> Making a difference  </h2>
+<h2 class="header-top-bar"> Making a difference </h2>
 
 We’re not interested in innovation for innovation’s sake — we back technologies that promote the social good. Learn more about our companies’ impact here.  
 
