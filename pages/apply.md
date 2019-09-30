@@ -23,7 +23,7 @@ timeline:
   - title: 4-6 months after<br> the window closes
     description: We'll notify you whether your proposal is accepted or declined.
     inactive_description: We'll notify you whether your proposal is accepted or declined.
-  - title: 5-6 months after<br> the window closes 
+  - title: 5-6 months after<br> the window closes
     description: If your proposal is accepted, you'll receive funding of up to $225,000.
     inactive_description: If your proposal is accepted, you'll receive funding of up to $225,000.
 ---

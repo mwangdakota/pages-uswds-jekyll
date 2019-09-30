@@ -4,10 +4,10 @@ permalink: /
 layout: landing
 
 hero:
-  image: /assets/img/bg/ogilvy.jpg
+  image: /assets/img/bg/hero-sigray.jpg
   callout:
-    alt: We invest up to <br>$1.5 million in <br>seed funding.
-    text: And take zero equity.
+    alt: We invest up to $1.5 million in <br> seed funding
+    text: We take 0% equity
   button:
     href: /apply/
     text: "Get started"
