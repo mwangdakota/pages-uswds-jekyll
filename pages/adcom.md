@@ -59,6 +59,13 @@ Have a general question or concern? Call our help line at 703-292-8050 or email 
         <h3 class="pd-name"><a href="{{ site.baseurl }}/contact/adcom-bios/#CathyHill">Cathy Hill</a></h3>
   </span>
   </li> 
+    
+  <li class="pd-card" style="height: 34rem;">
+  <img src="{{ site.baseurl }}/assets/img/adcom/mary.jpg" alt="Mary Juhas headshot">
+   <span class="pd-list-content">
+        <h3 class="pd-name"><a href="{{ site.baseurl }}/contact/adcom-bios/#MaryJuhas">Mary Juhas</a></h3>
+  </span>
+  </li> 
    
   <li class="pd-card" style="height: 34rem;">
   <img src="{{ site.baseurl }}/assets/img/adcom/tom.jpg" alt="Tom Knight headshot">
@@ -73,14 +80,7 @@ Have a general question or concern? Call our help line at 703-292-8050 or email 
         <h3 class="pd-name"><a href="{{ site.baseurl }}/contact/adcom-bios/#EugeneKrentsel">Eugene Krentsel</a></h3>
   </span>
   </li>  
-  
-  <li class="pd-card" style="height: 34rem;">
-  <img src="{{ site.baseurl }}/assets/img/adcom/mary.jpg" alt="Mary Juhas headshot">
-   <span class="pd-list-content">
-        <h3 class="pd-name"><a href="{{ site.baseurl }}/contact/adcom-bios/#MaryJuhas">Mary Juhas</a></h3>
-  </span>
-  </li> 
-  
+
   <li class="pd-card" style="height: 34rem;">
   <img src="{{ site.baseurl }}/assets/img/adcom/william.jpg" alt="William Lockwood-Benet headshot">
    <span class="pd-list-content">
