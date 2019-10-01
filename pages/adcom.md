@@ -82,18 +82,18 @@ Have a general question or concern? Call our help line at 703-292-8050 or email 
   </li>  
 
   <li class="pd-card" style="height: 34rem;">
-  <img src="{{ site.baseurl }}/assets/img/adcom/william.jpg" alt="William Lockwood-Benet headshot">
-   <span class="pd-list-content">
-        <h3 class="pd-name"><a href="{{ site.baseurl }}/contact/adcom-bios/#WilliamLockwoodBenet">William Lockwood-Benet</a></h3>
-  </span>
-  </li>
-
-  <li class="pd-card" style="height: 34rem;">
   <img src="{{ site.baseurl }}/assets/img/adcom/matthew.jpg" alt="Kirsten Leute headshot">
    <span class="pd-list-content">
         <h3 class="pd-name"><a href="{{ site.baseurl }}/contact/adcom-bios/#KirstenLeute">Kirsten Leute</a></h3>
   </span>
   </li>  
+  
+  <li class="pd-card" style="height: 34rem;">
+  <img src="{{ site.baseurl }}/assets/img/adcom/william.jpg" alt="William Lockwood-Benet headshot">
+   <span class="pd-list-content">
+        <h3 class="pd-name"><a href="{{ site.baseurl }}/contact/adcom-bios/#WilliamLockwoodBenet">William Lockwood-Benet</a></h3>
+  </span>
+  </li>
 
    <li class="pd-card" style="height: 34rem;">
   <img src="{{ site.baseurl }}/assets/img/adcom/richard.jpg" alt="Richard Morganstern headshot">
