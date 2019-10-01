@@ -50,6 +50,37 @@ layout: secondary-narrow
         <li class="pd-bio-content">
         <img src="{{ site.baseurl }}/assets/img/adcom/tom.jpg">
    <p class="bio"><strong>Tom Knight</strong> is the founder of Invistics, a provider of software solutions that provide inventory visibility and analytics. Prior to founding Invistics in 1999, Tom spent 10 years improving supply chains as a manufacturing executive at Alcoa and Siemens. Tom holds three degrees from the Massachusetts Institute of Technology (MIT).  Tom served on the NSF SBIR Advisory Subcommittee from 2005 until 2019, serving as its Chairman from 2008 until 2019. Tom served as the co-Chairman of the NSF Division of Industrial Innovation and Partnerships Committee of Visitors in 2010 and in 2013. Tom is a passionate supporter of NSF’s SBIR program.</p>
+       </li>       
+       
+   <a name="EugeneKrentsel"></a>
+        <li class="pd-bio-content">
+        <img src="{{ site.baseurl }}/assets/img/adcom/eugene.jpg">
+   <p class="bio"><strong>Eugene Krentsel</strong> is Chief Scientific Officer and Vice President, Strategic Partnerships & Alliances at XLerateHealth, a Small Business Administration award-winning healthcare focused early stage startup accelerator. Prior to joining XLerateHealth in 2018, he served as Associate Vice President for Research and Innovation and Adjunct Professor of Entrepreneurship at the University of Louisville. He was responsible for the full range of activities in the discovery-innovation-translation-commercialization spectrum at UofL, including working with external groups in the public and private sectors to promote commercialization of university technologies and advancing industry engagement and entrepreneurship. Prior to being recruited to UofL in 2013, he was Assistant Vice President for Entrepreneurship and Innovation Partnerships at Binghamton University in New York, where he helped develop and protect faculty intellectual property, paired researchers’ expertise with pressing market needs, and offered guidance to faculty and students interested in starting their own business.</p>
        </li>        
+
+   <a name="KirstenLeute"></a>
+        <li class="pd-bio-content">
+        <img src="{{ site.baseurl }}/assets/img/adcom/kristen.jpg">
+   <p class="bio"><strong>Kirsten Leute</strong> of Osage University Partners (OUP) is responsible for the relationships with the more than 100 academic institutions that are partnered with the fund, engaging potential new partner institutions, and enhancing and creating value-add programs for the partnered academic institutions. Kirsten is an experienced technology transfer professional, spending 19 years in technology transfer at Stanford University and the German Cancer Research Center. Prior to joining OUP, she was Associate Director at Stanford’s Office of Technology Licensing. Over her career at Stanford, she managed portfolios of inventions in most technology areas, but concentrated in biotechnology. Kirsten has also been actively involved in technology transfer outside her daily work. She is a former two-time board member for the Association of University Technology Managers and speaks frequently on university technology transfer.</p>
+       </li> 
+       
+   <a name="WilliamLockwoodBenet"></a>
+        <li class="pd-bio-content">
+        <img src="{{ site.baseurl }}/assets/img/adcom/william.jpg">
+   <p class="bio"><strong>William Lockwood Benet</strong> is a Puerto Rican (PR) development economist and banker working on technology strategy, U.S. multinationals and public finance. He has advised PR investments in biotech, private toll roads, LNG generation, telecom privatization and banks. He is a co-founder of an analytical tools company serving global biotech clients, a University of PR spinoff; of Grupo Guayacan, general partner to funds of funds investing in the United States and Europe and direct funds in PR. He is a former President of the Government Development Bank for PR (GDB) -financial advisor to the central government, public utilities, pension plans and local government units.  An early advocate for fiscal discipline and biopharma cluster growth, he served at GDB for nine years across five Administrations and has advised the White House, U.S. Treasury Department, N.Y. Federal Reserve Bank and FDIC on Puerto Rico. He is a civil society representative at the IMF-World Bank Annual Meetings.</p>
+       </li>        
+       
+   <a name="RichardMorganstern<"></a>
+        <li class="pd-bio-content">
+        <img src="{{ site.baseurl }}/assets/img/adcom/richard.jpg">
+   <p class="bio"><strong>Richard Morganstern</strong> was the former Managing Partner of a Beverly Hills based intellectual property and business litigation and counseling law firm. He was the former Chairman of a NASD licensed investment-banking firm, which focused on arranging funding, principally from foreign sources, for domestic early stage technology companies. He co-founded Language Weaver, Inc. an In-Q-Tel funded company spun out of University of Southern California’s computer science department and the world's leading supplier of statistically based natural language translation systems. Richard is an active Angel investor. He is the former President and currently serves on the Executive Committee of the Tech Coast Angels LA Network, whose members have funded over 400 companies and are the leading source of angel funding and guidance for early stage, high growth companies in Southern California. He serves as the Board Chairman of the Los Angeles Cleantech Incubator (LACI). Richard also serves on the Board of Advisors for the UCLA Anderson School of Management’s Global Access Program. He has served as a member of the Advisory Board of USC's Center for Technology Commercialization, a guest lecturer for the California Institute of Technology Entrepreneurial Fellowship Program and a Distinguished Speaker at USC's Lloyd Greif Center for Entrepreneurial Studies. He is a member of the California, New York, Patent Office and Supreme Court Bars. He holds a Bachelor of Electrical Engineering from Rensselaer Polytechnic Institute and a J.D. from Cornell University. He resides in Brentwood California with his wife and two extraordinary dogs.</p>
+       </li>            
+
+   <a name="JennyRooke"></a>
+        <li class="pd-bio-content">
+        <img src="{{ site.baseurl }}/assets/img/adcom/jenny.jpg">
+   <p class="bio"><strong>Skip Rung is the President and Executive Director of ONAMI, Oregon’s first “Signature Research Center,” founded in 2003 to advance materials and device research at Oregon’s universities and to commercialize technology via science-based startup companies. Since 2006, ONAMI’s commercialization gap fund has made $12.6M in grant disbursements and investments, enabling over 50 portfolio companies to raise over $450M (~90% private capital) in leveraged funding and revenue. In 2012, ONAMI received the State Science and Technology Institute Excellence in TBED (Technology-Based Economic Development) award for Commercializing Research. Skip is an angel investor and a member of the Oregon Venture Fund investment committee. From 1987 to 2001, Skip led Advanced Research and Development at Hewlett-Packard’s Corvallis, OR facility, responsible for multiple generations of HP’s inkjet printing technology. He holds Bachelor of Science, Electrical Engineering and Master of Science in Environmental Engineering degrees from Stanford University.</p>
+       </li>
+       
        
 </section>
