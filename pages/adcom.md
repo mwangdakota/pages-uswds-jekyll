@@ -45,7 +45,7 @@ layout: secondary
    <li class="pd-card" style="height: 34rem;">
   <img src="{{ site.baseurl }}/assets/img/adcom/matthew.jpg" alt="Matt Higgins headshot">
    <span class="pd-list-content">
-        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#MattHiggins ">Matt Higgins </a></h3>
+        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#MatthewHiggins ">Matt Higgins </a></h3>
   </span>
   </li>  
 
@@ -108,7 +108,7 @@ layout: secondary
   <li class="pd-card" style="height: 34rem;">
   <img src="{{ site.baseurl }}/assets/img/adcom/skip.jpg" alt="Skip Rung headshot">
    <span class="pd-list-content">
-        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#SkipRung">Skip Rung</a></h3>
+        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#SkipRung">Robert D. "Skip" Rung</a></h3>
   </span>
   </li>  
   
