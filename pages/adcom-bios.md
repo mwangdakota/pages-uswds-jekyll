@@ -60,7 +60,7 @@ layout: secondary-narrow
 
    <a name="KirstenLeute"></a>
         <li class="pd-bio-content">
-        <img src="{{ site.baseurl }}/assets/img/adcom/kristen.jpg">
+        <img src="{{ site.baseurl }}/assets/img/adcom/kirsten.jpg">
    <p class="bio"><strong>Kirsten Leute</strong> of Osage University Partners (OUP) is responsible for the relationships with the more than 100 academic institutions that are partnered with the fund, engaging potential new partner institutions, and enhancing and creating value-add programs for the partnered academic institutions. Kirsten is an experienced technology transfer professional, spending 19 years in technology transfer at Stanford University and the German Cancer Research Center. Prior to joining OUP, she was Associate Director at Stanford’s Office of Technology Licensing. Over her career at Stanford, she managed portfolios of inventions in most technology areas, but concentrated in biotechnology. Kirsten has also been actively involved in technology transfer outside her daily work. She is a former two-time board member for the Association of University Technology Managers and speaks frequently on university technology transfer.</p>
        </li> 
        
