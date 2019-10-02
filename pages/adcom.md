@@ -1,5 +1,5 @@
 ---
-title: Contact us
+title: Adcom Members
 permalink: /adcom/
 layout: secondary
 ---
