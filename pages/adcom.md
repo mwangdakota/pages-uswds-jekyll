@@ -78,7 +78,7 @@ layout: secondary
   </li>  
 
   <li class="pd-card" style="height: 34rem;">
-  <img src="{{ site.baseurl }}/assets/img/adcom/matthew.jpg" alt="Kirsten Leute headshot">
+  <img src="{{ site.baseurl }}/assets/img/adcom/kirsten.jpg" alt="Kirsten Leute headshot">
    <span class="pd-list-content">
         <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#KirstenLeute">Kirsten Leute</a></h3>
   </span>
