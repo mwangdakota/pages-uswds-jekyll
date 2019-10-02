@@ -7,7 +7,7 @@ layout: secondary
 <div class="usa-content utility-content usa-grid">
 <div class="usa-width-one-whole">
 
-<h1>Adcom</h1>
+<h1>Adcom Members</h1>
 
 </div>
 </div>
@@ -17,7 +17,6 @@ layout: secondary
 <div class="usa-content usa-grid">
 <div class="usa-content usa-width-one-whole" markdown="1">
 
-## Adcom Members
 <ul class="pd-list"> 
   
   <li class="pd-card" style="height: 34rem;">
