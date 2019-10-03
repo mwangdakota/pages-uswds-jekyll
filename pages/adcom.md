@@ -40,7 +40,7 @@ The SBIR/STTR Advisory Subcommittee is a team of nationally recognized leaders f
    <li class="pd-card" style="height: 34rem;">
   <img src="{{ site.baseurl }}/assets/img/adcom/tori.jpg" alt="Tori Gonzalez headshot">
    <span class="pd-list-content">
-        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#ToriGonzalez">Tori Gonzalez</a></h3>
+        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#ToriGonzalez">Victoria Gonzalez</a></h3>
   </span>
   </li> 
    
@@ -48,7 +48,7 @@ The SBIR/STTR Advisory Subcommittee is a team of nationally recognized leaders f
    <li class="pd-card" style="height: 34rem;">
   <img src="{{ site.baseurl }}/assets/img/adcom/matthew.jpg" alt="Matthew J. Higgins  headshot">
    <span class="pd-list-content">
-        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#MatthewHiggins ">Matthew J. Higgins </a></h3>
+        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#MatthewHiggins ">Matthew J. Higgins</a></h3>
   </span>
   </li>  
 
@@ -97,14 +97,14 @@ The SBIR/STTR Advisory Subcommittee is a team of nationally recognized leaders f
    <li class="pd-card" style="height: 34rem;">
   <img src="{{ site.baseurl }}/assets/img/adcom/richard.jpg" alt="Richard Morganstern headshot">
    <span class="pd-list-content">
-        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#RichardMorganstern ">Richard Morganstern </a></h3>
+        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#RichardMorganstern ">Richard Morganstern</a></h3>
   </span>
   </li> 
   
    <li class="pd-card" style="height: 34rem;">
   <img src="{{ site.baseurl }}/assets/img/adcom/jenny.jpg" alt="Jenny Rooke headshot">
    <span class="pd-list-content">
-        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#JennyRooke ">Jenny Rooke </a></h3>
+        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#JennyRooke ">Jenny Rooke</a></h3>
   </span>
   </li>    
   
