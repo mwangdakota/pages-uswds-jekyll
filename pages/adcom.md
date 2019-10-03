@@ -46,9 +46,9 @@ The SBIR/STTR Advisory Subcommittee is a team of nationally recognized leaders f
    
    
    <li class="pd-card" style="height: 34rem;">
-  <img src="{{ site.baseurl }}/assets/img/adcom/matthew.jpg" alt="Matt Higgins headshot">
+  <img src="{{ site.baseurl }}/assets/img/adcom/matthew.jpg" alt="Matthew J. Higgins  headshot">
    <span class="pd-list-content">
-        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#MatthewHiggins ">Matt Higgins </a></h3>
+        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#MatthewHiggins ">Matthew J. Higgins </a></h3>
   </span>
   </li>  
 
@@ -88,9 +88,9 @@ The SBIR/STTR Advisory Subcommittee is a team of nationally recognized leaders f
   </li>  
   
   <li class="pd-card" style="height: 34rem;">
-  <img src="{{ site.baseurl }}/assets/img/adcom/william.jpg" alt="William Lockwood-Benet headshot">
+  <img src="{{ site.baseurl }}/assets/img/adcom/william.jpg" alt="William Lockwood Benet headshot">
    <span class="pd-list-content">
-        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#WilliamLockwoodBenet">William Lockwood-Benet</a></h3>
+        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#WilliamLockwoodBenet">William Lockwood Benet</a></h3>
   </span>
   </li>
 
@@ -120,10 +120,10 @@ The SBIR/STTR Advisory Subcommittee is a team of nationally recognized leaders f
    <span class="pd-list-content">
         <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#AnnSavoca">Ann Savoca</a></h3>
   </span>
-  </li>  
-
+  </li> 
+  
    <li class="pd-card" style="height: 34rem;">
-  <img src="{{ site.baseurl }}/assets/img/adcom/stuart.jpg" alt=Stuart Schoenmann  headshot">
+  <img src="{{ site.baseurl }}/assets/img/adcom/stuart.jpg" alt="Stuart Schoenmann  headshot">
    <span class="pd-list-content">
         <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#StuartSchoenmann">Stuart Schoenmann</a></h3>
   </span>
