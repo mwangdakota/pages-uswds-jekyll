@@ -1,6 +1,6 @@
 ---
 title: Adcom Members
-permalink: /adcom/
+permalink: /press/adcom/
 layout: secondary
 ---
 <section class="usa-section">
@@ -8,6 +8,10 @@ layout: secondary
 <div class="usa-width-one-whole">
 
 <h1>Adcom Members</h1>
+
+<p class="text-medium" markdown="1">
+The SBIR/STTR Advisory Subcommittee is a team of nationally recognized leaders from academia, industry, the investment community, and public organizations. Members guide NSF’s SBIR/STTR program on emerging industries and the evolution of the deep-technology startup community, participating in strategic initiatives to support the NSF’s mission of accelerating the growth of the nation’s innovation ecosystem.
+</p>
 
 </div>
 </div>
