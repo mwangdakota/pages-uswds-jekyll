@@ -123,9 +123,9 @@ The SBIR/STTR Advisory Subcommittee is a team of nationally recognized leaders f
   </li>  
 
    <li class="pd-card" style="height: 34rem;">
-  <img src="{{ site.baseurl }}/assets/img/adcom/stuart.jpg" alt="Stuart Schonemann headshot">
+  <img src="{{ site.baseurl }}/assets/img/adcom/stuart.jpg" alt="Stuart Schoenmann  headshot">
    <span class="pd-list-content">
-        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#StuartSchonemann ">Stuart Schonemann </a></h3>
+        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#StuartSchoenmann">Stuart Schoenmann</a></h3>
   </span>
   </li>  
   
