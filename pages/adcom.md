@@ -33,7 +33,7 @@ The SBIR/STTR Advisory Subcommittee is a team of nationally recognized leaders f
   <li class="pd-card" style="height: 34rem;">
   <img src="{{ site.baseurl }}/assets/img/adcom/annette.jpg" alt="Annette Finsterbusch headshot">
    <span class="pd-list-content">
-        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#AnnetteFinsterbusch">Annette Finsterbusch</a></h3>
+        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#AnnetteFinsterbusch">Annette Finsterbusch</a><p>(Chair)</p></h3>
   </span>
   </li>
 
