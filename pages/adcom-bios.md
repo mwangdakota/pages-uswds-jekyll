@@ -10,18 +10,18 @@ layout: secondary-narrow
 
 <section class="bios-content">
    <ul class="pd-list">
-   <a name="SusanButts"></a>
-        <li class="pd-bio-content">
-        <img src="{{ site.baseurl }}/assets/img/adcom/susan.jpg">
-            <p class="bio"><strong>Susan Butts</strong> is an active member of the science and technology policy community following her 31-year career in the chemical industry and related organizations. Currently, she is President of Susan B. Butts Consulting. Previously, she served as president of the Council for Chemical Research (CCR). Before joining CCR, she worked for The Dow Chemical Company for three decades in various positions in R&D including a stint in Washington, D.C. where she worked on issues related to science policy and government funding for R&D in her role as Senior Director of External Science & Technology Programs. She is a Fellow of the American Chemical Society and of American Association for the Advancement of Science. Susan holds a B.S. degree in chemistry from the University of Michigan and a Ph.D. in chemistry from Northwestern University.</p>
-       </li>
-
    <a name="AnnetteFinsterbusch"></a>
         <li class="pd-bio-content">
         <img src="{{ site.baseurl }}/assets/img/adcom/annette.jpg">
    <p class="bio"><strong>Annette Finsterbusch (Chair)</strong> has extensive experience as an operating executive and as a venture capitalist, focusing on early-stage investments in technology companies. Annette is currently the President and CEO of EnPower, Inc., a Phoenix-based lithium-ion battery company focused on the electrification of vehicles. Before joining EnPower, Annette was the Founder and Senior Director of Applied Ventures, the strategic investing arm of Applied Materials, where she led investments in solid state lighting, energy storage, fuel cells, and lithography. She also served as CEO of MindShadow, Inc., a spin-out from DaimlerChrysler’s Research and Technology Center, focused on automotive infotainment systems, and Ketra, Inc., an early-stage company that developed high quality LED lighting products with IOT capabilities. Having been both investor and fundraiser, Annette has a unique perspective on how to build strong, lean, successful startups. Annette has extensive experience on both corporate and non-profit boards. She currently serves as a Member of the SBIR/STTR Subcommittee, Directorate for Engineering Advisory Committee of the National Science Foundation. Annette is both a fellow and mentor in the prestigious international Society of Kauffman Fellows, where she was awarded the first Jeffrey Timmons Memorial Award for service. Annette has a bachelor’s degree in Geology and Economics, an MBA, and she is certified as an integral coach.</p>
        </li>
 
+   <a name="SusanButts"></a>
+        <li class="pd-bio-content">
+        <img src="{{ site.baseurl }}/assets/img/adcom/susan.jpg">
+            <p class="bio"><strong>Susan Butts</strong> is an active member of the science and technology policy community following her 31-year career in the chemical industry and related organizations. Currently, she is President of Susan B. Butts Consulting. Previously, she served as president of the Council for Chemical Research (CCR). Before joining CCR, she worked for The Dow Chemical Company for three decades in various positions in R&D including a stint in Washington, D.C. where she worked on issues related to science policy and government funding for R&D in her role as Senior Director of External Science & Technology Programs. She is a Fellow of the American Chemical Society and of American Association for the Advancement of Science. Susan holds a B.S. degree in chemistry from the University of Michigan and a Ph.D. in chemistry from Northwestern University.</p>
+       </li>
+   
    <a name="ToriGonzalez"></a>
         <li class="pd-bio-content">
         <img src="{{ site.baseurl }}/assets/img/adcom/tori.jpg">
