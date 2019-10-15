@@ -23,17 +23,17 @@ The SBIR/STTR Advisory Subcommittee is a team of nationally recognized leaders f
 
 <ul class="pd-list"> 
   
-  <li class="pd-card" style="height: 35rem;">
-  <img src="{{ site.baseurl }}/assets/img/adcom/susan.jpg" alt="Susan Butts headshot">
-   <span class="pd-list-content">
-        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#SusanButts">Susan Butts</a></h3>
-  </span>
-  </li>
-  
-  <li class="pd-card" style="height: 35rem;">
+   <li class="pd-card" style="height: 35rem;">
   <img src="{{ site.baseurl }}/assets/img/adcom/annette.jpg" alt="Annette Finsterbusch headshot">
    <span class="pd-list-content">
         <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#AnnetteFinsterbusch">Annette Finsterbusch</a><p style="font-weight:bold;">(Chair)</p></h3>
+  </span>
+  </li>
+  
+   <li class="pd-card" style="height: 35rem;">
+  <img src="{{ site.baseurl }}/assets/img/adcom/susan.jpg" alt="Susan Butts headshot">
+   <span class="pd-list-content">
+        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#SusanButts">Susan Butts</a></h3>
   </span>
   </li>
 
