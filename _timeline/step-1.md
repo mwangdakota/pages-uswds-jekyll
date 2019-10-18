@@ -6,7 +6,7 @@ title: See what we fund
 
 Here’s what we look for when determining which companies to fund:
 
-- **Game-changing:** Your innovation could make a difference to people worldwide or revolutionize an industry.
+- **Transformative:** Your innovation could make a difference to people worldwide or revolutionize an industry.
 - **High-risk:** Your product is based on unproven technology that needs further testing (and funding for that testing).
 - **Market pull:** You have evidence that your product or service could meet an important, unmet need for your customers.
 - **Scale:** If you successfully bring your product or service to market, it could form the foundation for a scalable business and make a large impact in your target market.

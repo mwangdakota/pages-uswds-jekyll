@@ -12,7 +12,7 @@ layout: secondary
 
 ## Upcoming
 
-We regularly host webinars for startups and small businesses to learn about the application process and what we look for when we review proposals. Can’t make it to a webinar? Watch a [recorded webinar](https://youtu.be/xZO8o1mDiO0) about the Project Pitch Pilot or a [recorded webinar](https://youtu.be/HDjxAvLM_Ok) about How to Apply.
+We regularly host virtual office hours for startups and small businesses to learn about the application process and what we look for when we review proposals. Can’t make it to office hours? Watch a [recorded webinar](https://youtu.be/nBJsCt28ip0) about the Project Pitch Pilot or a [recorded webinar](https://youtu.be/kpK24Uqto14) about How to Apply.
 
 <!-- {% include events-table.html %} -->
 
@@ -27,7 +27,7 @@ We regularly host webinars for startups and small businesses to learn about the 
 
 ## Annual events
 
-You can often find NSF staff at major tradeshows and events throughout the year. Here's a calendar of some of the events we plan on attending in 2018 through 2019:
+You can often find NSF staff at major tradeshows and events throughout the year. Here's a calendar of some of the events we plan on attending in 2019 (Check back soon for 2020):
 
 {% include events-annual.html %}
 

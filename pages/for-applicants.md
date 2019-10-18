@@ -17,14 +17,14 @@ Wondering if your idea is a good fit? Submit your [Project Pitch]({{site.baseurl
 Read the [Peer Review Guidelines](https://seedfund.nsf.gov/resources/review/peer-review/) to determine if your proposal fits the merit review or broader impacts criteria that we use to make funding decisions.
 
 {% if site.app_process == "active" %}
-## Q&A webinars
+## Virtual Office Hours
 
-Thinking of applying for Phase I funding? Ask all your application-related questions during our [Q&A webinars](https://seedfund.nsf.gov/events/). Can’t make it to a webinar? Watch a [recorded webinar](https://youtu.be/xZO8o1mDiO0) about the Project Pitch Pilot. (We offer a [PDF version of program basics]({{site.baseurl}}/assets/files/press/overview2019.pdf), too.)
+Thinking of applying for Phase I funding? Ask all your application-related questions during our [Virtual Office Hours](https://seedfund.nsf.gov/events/) or watch a [recorded webinar](https://youtu.be/nBJsCt28ip0) about the program and the Project Pitch. (We offer a [PDF version of program basics]({{site.baseurl}}/assets/files/press/overview2019.pdf), too.)
 
 {% else %}
 ## Q&A videos
 
-Thinking of applying for Phase I funding? Check out our videos covering [program basics](https://youtu.be/oJSYhyJ06Wk) and [tips and tricks for submitting a proposal](https://youtu.be/sogjxLBLhzk). (We offer a [PDF version of program basics](https://www.nsf.gov/eng/iip/sbir/documents/About_NSF_SBIR_STTR.pdf), too.)
+Thinking of applying for Phase I funding? Check out our videos covering [program basics](https://youtu.be/nBJsCt28ip0) and [tips and tricks for submitting a proposal](https://youtu.be/kpK24Uqto14). (We offer a [PDF version of program basics](https://www.nsf.gov/eng/iip/sbir/documents/About_NSF_SBIR_STTR.pdf), too.)
 {% endif %}
 
 ## Startup profiles
