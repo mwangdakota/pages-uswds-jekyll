@@ -29,13 +29,6 @@ The SBIR/STTR Advisory Subcommittee is a team of nationally recognized leaders f
         <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#AnnetteFinsterbusch">Annette Finsterbusch</a><p style="font-weight:bold;">(Chair)</p></h3>
   </span>
   </li>
-  
-   <li class="pd-card" style="height: 35rem;">
-  <img src="{{ site.baseurl }}/assets/img/adcom/susan.jpg" alt="Susan Butts headshot">
-   <span class="pd-list-content">
-        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#SusanButts">Susan Butts</a></h3>
-  </span>
-  </li>
 
    <li class="pd-card" style="height: 35rem;">
   <img src="{{ site.baseurl }}/assets/img/adcom/tori.jpg" alt="Tori Gonzalez headshot">
@@ -65,21 +58,7 @@ The SBIR/STTR Advisory Subcommittee is a team of nationally recognized leaders f
         <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#MaryJuhas">Mary Juhas</a></h3>
   </span>
   </li> 
-   
-  <li class="pd-card" style="height: 35rem;">
-  <img src="{{ site.baseurl }}/assets/img/adcom/tom.jpg" alt="Tom Knight headshot">
-   <span class="pd-list-content">
-        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#TomKnight">Tom Knight</a></h3>
-  </span>
-  </li>
   
-  <li class="pd-card" style="height: 35rem;">
-  <img src="{{ site.baseurl }}/assets/img/adcom/eugene.jpg" alt="Eugene Krentsel headshot">
-   <span class="pd-list-content">
-        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#EugeneKrentsel">Eugene Krentsel</a></h3>
-  </span>
-  </li>  
-
   <li class="pd-card" style="height: 35rem;">
   <img src="{{ site.baseurl }}/assets/img/adcom/kirsten.jpg" alt="Kirsten Leute headshot">
    <span class="pd-list-content">
