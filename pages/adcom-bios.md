@@ -6,7 +6,7 @@ layout: secondary-narrow
 
 # Bios
 
-## Adcom Members
+## Members of the SBIR/STTR Subcommittee of the Directorate for Engineering Advisory Committee
 
 <section class="bios-content">
    <ul class="pd-list">
