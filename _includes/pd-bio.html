@@ -1,5 +1,6 @@
 <ul class="pd-list">
-{% for director in site.data.program-directors %}
+  {% assign sorted_pd = (site.data.program-directors | sort: 'last_name') %}
+  {% for director in sorted_pd %}
 
   <a name="{{ director.name }}"></a>
 
