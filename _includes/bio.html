@@ -1,6 +1,5 @@
 
-  {% assign sorted_pd = (site.data.program-directors | sort: 'last_name') %}
-  {% for director in sorted_pd %}
+  {% for director in site.data.program-directors %}
       <a name="{{ director.name }}" class="pd-bio"></a>
 
       {% if director.photo %}
