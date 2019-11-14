@@ -1,6 +1,6 @@
 ---
-title: Educational Technologies and Applications (EA)
-permalink: /topics/educational-technologies-and-applications/
+title: Educational Technologies (EA)
+permalink: /topics/educational-technologies/
 layout: tech-topic
 topic_code: ea
 section_image: "/assets/img/bg/zyrobotics-2c-ea.jpg"
