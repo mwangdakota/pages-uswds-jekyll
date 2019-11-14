@@ -184,13 +184,13 @@
   permalink: /topics/digital-health/
   topic_code: dh
   programDirector:
-  - name: Peter Atherton
-    last_name: Atherton
-    api_name: Peter Atherton
-    email: patherto@nsf.gov
-    photo: Peter-compressed.jpg
+  - name: Alastair Monk
+    last_name: Monk
+    api_name: Alastair Monk
+    email: amonk@nsf.gov
+    photo: Alastair-compressed.jpg
     ttopic: dh
-    bio: "comes to the NSF with a broad background in the physical sciences, and extensive experience in technology development and commercialization. Before joining NSF Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly traded company that he founded in Sydney, Australia. While at MIKOH Corporation he was instrumental in developing and commercializing technologies in a range of fields including diffractive optics, laser-based marking, radio frequency identification and internet-based personal authentication.) Prior to MIKOH he spent approximately seven years at the Overseas Telecommunications Commission (OTC Australia) where he managed optical fiber communications R&D, including approximately 14 months in the UK at British Telecom’s Martlesham Heath R&D laboratories. (While at OTC his research group made world-leading advances in high-speed optical communications technologies, some of which were commercialized via spin-off companies. He also managed the externally contracted development and commercialization of a number of optical fiber and optoelectronic  technologies, and was instrumental in establishing a commercialization center for specialized optical fibers at the University of Sydney. He moved to the United States in 1998 to further develop the company’s technologies and markets. Peter holds a Ph.D. in physics (Quantum Optics), and a BEng (Mech) – both from the University of Queensland (Australia)." 
+    bio: "joined the National Science Foundation as an SBIR/STTR program director in November 2019. Prior to NSF, Alastair was an active member of the startup ecosystem in Virginia as a mentor, judge, and entrepreneur. He has been directly involved in medical startups for the last 10 years. Most recently, Alastair was the Vice President of Medical Products at Cupron, Inc. where he led the development, protection, and commercialization of a platform copper antimicrobial technology. He also founded and ran Chrysalides Consultants, a consultancy firm mentoring and providing strategic support to medical startups. Prior to Cupron and Chrysalides Consultants, Alastair was Head Scientist at Biocontrol Ltd (now Armata Pharmaceuticals) developing and commercializing bacteriophage therapy for clinical applications. Alastair had an active academic life as a microbiology postdoc at Virginia Commonwealth University in Internal Medicine, and has authored a number of published papers, conference abstracts, and oral presentations. Alastair has a Ph.D. in microbiology from the University of Bath UK, and a BSc in microbiology from the University of Birmingham, UK."
   subtopics:
     - Business Models for User-Centered Healthcare (DH1)
     - Data to Decisions (DH2)
@@ -236,17 +236,17 @@
     - Other Distributed Ledger Technologies (DL15)
   companies:
     
-- topic: Educational Technologies and Applications (EA)
-  permalink: /topics/educational-technologies-and-applications/
+- topic: Educational Technologies (EA)
+  permalink: /topics/educational-technologies/
   topic_code: ea
   programDirector:
-    - name: Rajesh Mehta
-      last_name: Mehta
-      api_name: Rajesh Mehta
-      email: rmehta@nsf.gov
-      photo: Rajesh-compressed.jpg
-      ttopic: ea
-      bio: "has been a SBIR/STTR Program Director since 2012. Prior to joining NSF in 2012, he was a senior research technologist at Kodak where his 26-year career spanned work at Kodak Research Laboratories, and Manufacturing Research and Engineering Organization. His work covered a broad range of materials science based technologies related to photographic film and paper manufacturing, thermal, inkjet, and electro-photographic printing, and OLED device manufacturing. He has a B. Tech. degree in Chemical Engineering from Indian Institute of Technology, Bombay, M.S. and Ph.D. degrees in Chemical Engineering from Penn State, a post-doctoral fellowship at Imperial College, and a M.S. degree in New Product Development from Rochester Institute of Technology." 
+  - name: Peter Atherton
+    last_name: Atherton
+    api_name: Peter Atherton
+    email: patherto@nsf.gov
+    photo: Peter-compressed.jpg
+    ttopic: ea
+    bio: "comes to the NSF with a broad background in the physical sciences, and extensive experience in technology development and commercialization. Before joining NSF Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly traded company that he founded in Sydney, Australia. While at MIKOH Corporation he was instrumental in developing and commercializing technologies in a range of fields including diffractive optics, laser-based marking, radio frequency identification and internet-based personal authentication.) Prior to MIKOH he spent approximately seven years at the Overseas Telecommunications Commission (OTC Australia) where he managed optical fiber communications R&D, including approximately 14 months in the UK at British Telecom’s Martlesham Heath R&D laboratories. (While at OTC his research group made world-leading advances in high-speed optical communications technologies, some of which were commercialized via spin-off companies. He also managed the externally contracted development and commercialization of a number of optical fiber and optoelectronic  technologies, and was instrumental in establishing a commercialization center for specialized optical fibers at the University of Sydney. He moved to the United States in 1998 to further develop the company’s technologies and markets. Peter holds a Ph.D. in physics (Quantum Optics), and a BEng (Mech) – both from the University of Queensland (Australia)." 
   subtopics:
     - Capacity Building, Education, and Training for the Emerging Fourth Sector Eco-system (EA1)
     - Collaborative and Game-Based Education (EA2)
@@ -294,13 +294,13 @@
   permalink: /topics/environmental-technologies/
   topic_code: et
   programDirector:
-    - name: Anna Brady-Estevez
-      last_name: Brady-Estevez
-      api_name: Anna Brady
-      email: abrady@nsf.gov
-      photo: Anna-compressed.jpg
+    - name: Rajesh Mehta
+      last_name: Mehta
+      api_name: Rajesh Mehta
+      email: rmehta@nsf.gov
+      photo: Rajesh-compressed.jpg
       ttopic: et
-      bio: "joined the National Science Foundation as a SBIR/STTR Program Director in 2016. In this role she brings breadth of background across entrepreneurship and venture capital, innovative research, and direction of corporate strategy and investments. Anna has served as a collaborator with numerous startups having worked as an inventor for an early stage venture-backed start-up providing low-cost, low-energy portable water treatment, and a Principal Investor for an early stage venture firm. Anna’s contributions were recognized in 2009 when she was selected as one of  about 30 Kauffman Fellows from around the globe, for leadership in innovation and venture capital. She served as Director of Corporate Strategy for leading multinationals including The AES Corporation and Cummins Inc., and advised numerous clients while serving as a management consultant for The Boston Consulting Group. Anna’s work in these roles resulted in over $6B of infrastructure investments with enhanced returns, identification of $B+ cost reduction opportunities, contributing to a core transformation team of a $T+ entity in oil & gas, and the implementation of several new technologies spanning nanotechnology, advanced manufacturing, Big Data and Internet of Things, along with new equipment that enabled transforming energy economics. Earlier in her career, she performed research at the intersection of innovation and international relations with the Office of Naval Research at the U.S. Embassy in Chile. Anna holds a PhD from Yale University in Chemical and Environmental Engineering, where she held a National Science Foundation Graduate Research Fellowship; and a B.S. in Chemical Engineering and B.A. in Spanish from The Johns Hopkins University."
+      bio: "has been a SBIR/STTR Program Director since 2012. Prior to joining NSF in 2012, he was a senior research technologist at Kodak where his 26-year career spanned work at Kodak Research Laboratories, and Manufacturing Research and Engineering Organization. His work covered a broad range of materials science based technologies related to photographic film and paper manufacturing, thermal, inkjet, and electro-photographic printing, and OLED device manufacturing. He has a B. Tech. degree in Chemical Engineering from Indian Institute of Technology, Bombay, M.S. and Ph.D. degrees in Chemical Engineering from Penn State, a post-doctoral fellowship at Imperial College, and a M.S. degree in New Product Development from Rochester Institute of Technology." 
   subtopics:
     - Agricultural and Food Technologies (ET1)
     - Data Technologies, Sensing, and Analytics for the Environment (ET2)
