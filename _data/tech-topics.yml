@@ -240,7 +240,7 @@
   permalink: /topics/educational-technologies/
   topic_code: ea
   programDirector:
-    - name: Peter Atherton
+  - name: Peter Atherton
     last_name: Atherton
     api_name: Peter Atherton
     email: patherto@nsf.gov
