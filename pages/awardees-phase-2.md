@@ -11,4 +11,4 @@ manual_stat_description: awarded follow-on Phase II funding between 2011 and 201
 ---
 
 ### Interactive Phase II Grantee Map
-<iframe src="https://www.google.com/maps/d/embed?mid=1CNoogQ8CLrzDJviRC-Pi_avfGTeYWaTm" width="auto" height="350"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1CNoogQ8CLrzDJviRC-Pi_avfGTeYWaTm" width="100%" height="350"></iframe>
