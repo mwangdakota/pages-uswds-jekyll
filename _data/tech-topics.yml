@@ -90,14 +90,13 @@
   permalink: /topics/biological-technologies/
   topic_code: bt
   programDirector:
-    - name: Ruth Shuman
-      last_name: Shuman
-      api_name: Ruth Shuman
-      email: rshuman@nsf.gov
-      photo: Ruth-compressed.jpg
+    - name: Erik Pierstorff
+      last_name: Pierstorff
+      api_name: Erik Pierstorff
+      email: epierstorff@nsf.gov
+      photo: Erik-compressed.jpg
       ttopic: bt
-      bio: "joined the National Science Foundation in August 2009 as a SBIR/STTR Program Director. Before coming to NSF, she was the founder, president, and CEO of a successful venture-backed life science company, Gentra Systems, Inc., that developed, manufactured, and sold products for genetic testing and research to clinical and research laboratories worldwide. Following Gentra’s acquisition, she held various consulting/advisory positions with startup companies, and was CEO-In-Residence for Life Science with the University of Minnesota’s Venture Center evaluating the business potential of University-developed technology. She began her career as a faculty member at North Carolina State University and was a pioneer in the development of gene transfer and genetic engineering technology. Ruth holds a Ph.D. from the University of Minnesota in the area of Genetics and Cell Biology."
-  subtopics:
+      bio: "joined the NSF as Program Director in November 2019. Prior to NSF, he was Chief of Operations and led Research and Development at O-Ray Pharma, where he focused on integrating biology and biomedical engineering for the goal of drug development and sustained drug delivery for the treatment of hearing loss and other ear disorders. During his time working at early stage companies, he helped secure both Angel investment and non-dilutive funding in the form of licensing and co-development deals. Additionally, he served as Principal Investigator on several Phase I, II and IIB SBIR grants from the National Institutes of Health and NSF. His research interests have focused on the intersection of the biotic and abiotic, spanning molecular and cell biology, materials science, gene therapy, nanomaterials and drug delivery. Erik has a Ph.D. in Molecular and Cell Biology from the University of California, Berkeley, and a B.S. in Biology from Emory University."  subtopics:
     - Virtual Agents and Assistants (BT1)
     - Bioinstruments (BT2)
     - Biosensors (BT3)
