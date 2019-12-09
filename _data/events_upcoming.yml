@@ -1,11 +1,11 @@
 ---
-- event Name: Virtual Office Hours
+- eventName: Virtual Office Hours
   description: A program director will answer your questions about the Project Pitch and proposal process. 
   eventType: Webinar
   date: 7 Jan 2020 
   time: 2:00 - 3:00 PM ET 
   registrationLink: https://nsf2.webex.com/mw3300/mywebex/default.do?service=1&siteurl=nsf2&nomenu=true&main_url=%2Fmc3300%2Fe.do%3Fsiteurl%3Dnsf2%26AT%3DMI%26EventID%3D17947627%26UID%3D202547637%26Host%3DQUhTSwAAAALs7asm1M2RRDyaFAstF9TzxTEoNT84L7lERwFa5FDBKEvejlfCpXPSU-rZLgLu3nmKxQQY0tIlH9F8c6-KYd910%26RG%3D1%26FrameSet%3D2%26RGID%3Dr52f37a9eef6ea4822c6286cda481252e
-- event Name: Virtual Office Hours
+- eventName: Virtual Office Hours
   description: A program director will answer your questions about the Project Pitch and proposal process. 
   eventType: Webinar
   date: 21 Jan 2020 
