@@ -12,8 +12,6 @@ layout: secondary
 
 We’re not interested in innovation for innovation’s sake — we back technologies that promote the social good. Learn more about our companies’ impact here.  
 
-Are you an awardee and have a success story to share?  [Tell us about it](https://goo.gl/forms/UZOsIo1eFpHLA4IW2).
-
 </div>
 </section>
 
