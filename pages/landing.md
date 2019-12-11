@@ -65,7 +65,7 @@ SBIR &#124; STTR
 
 <div class="usa-width-two-thirds usa-grid-center usa-content" markdown="1">
 <hr class="divider divider-left">
-<p class="text-large"><strong>We support research and development of groundbreaking, high-impact, high-risk technology. As we review applications, we consider your technology’s innovativeness, commercial potential, and possible societal impact.</strong></p>
+<p class="text-large"><strong>We support research and development of  deep technologies - those that are based on discoveries in fundamental science and engineering. As we review applications, we consider your technology’s innovativeness, commercial potential, and possible societal impact.</strong></p>
 
 <a class="usa-button usa-button-secondary usa-button-big button-arrow" href="{{ site.baseurl }}/awardees/phase-1/">
 View current awardees
