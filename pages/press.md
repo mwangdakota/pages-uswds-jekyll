@@ -16,7 +16,7 @@ Are you putting out a press release? If you'd like to mention your NSF award, us
 
 ### About the NSF's Small Business Programs
 
-America’s Seed Fund powered by NSF awards $200 million annually to startups and small businesses, transforming scientific discovery into products and services with commercial and societal impact. Startups working across almost all areas of science and technology can receive up to $1.5 million in non-dilutive funds to support research and development (R&D), helping de-risk technology for commercial success. America’s Seed Fund is congressionally mandated through the Small Business Innovation Research (SBIR) program. The NSF is an independent federal agency with a budget of about $8.1 billion that supports fundamental research and education across all fields of science and engineering. For more information, visit seedfund.nsf.gov.
+America’s Seed Fund powered by NSF awards $200 million annually to startups and small businesses, transforming scientific discovery into products and services with commercial and societal impact. Startups working across almost all areas of science and technology can receive up to $1.65 million to support research and development (R&D), helping de-risk technology for commercial success. America’s Seed Fund is congressionally mandated through the Small Business Innovation Research (SBIR) program. The NSF is an independent federal agency with a budget of about $8.1 billion that supports fundamental research and education across all fields of science and engineering. For more information, visit seedfund.nsf.gov.
 
 ## The history of NSF SBIR
 
@@ -40,7 +40,7 @@ If you have suggestions, we’d love to hear them — share your feedback [via e
 
 [NSF newsroom](https://www.nsf.gov/news/newsroom.jsp): Our newsroom features news releases, media advisories, photo galleries, and other resources for the news media. Subscribe to [NSF news alerts](https://nsf.gov/news/) and see a list of all [NSF social media](https://www.nsf.gov/social/) accounts.
 
-[Bio: France A. Córdova](https://www.nsf.gov/mobile/staff/staff_bio.jsp?lan=fcordova&org=NSF&from_org): The official bio of France A. Córdova, NSF's 14th director.
+[Bio: France A. Córdova](https://www.nsf.gov/news/speeches/cordova/cordova_bio.jsp): The official bio of France A. Córdova, NSF's 14th director.
 
 [Bio: Andrea Belz](https://seedfund.nsf.gov/contact/bios/#Andrea%20Belz): The official bio of Andrea Belz, the Division Director of the Division of Industrial Innovation and Partnerships, home of America's Seed Fund powered by NSF.
 
