@@ -9,7 +9,7 @@ permalink: /resources/applicants/
 If you’re interested in applying for funding, we encourage you to watch our videos, join us at an event, or reach out directly to our program directors to learn more about the program and what we hope to see in your proposal. 
 <section class="usa-section showcase-content">
 
-<div class="usa-content usa-grid">
+<div class="usa-content usa-grid" style="max-width: 53rem;">
  <img src="{{ site.baseurl }}/assets/img/showcase/Elidah Quote Image.png" alt="Elidah Quote" style="float:left; margin-right:2%; max-width:47%;">
   <img src="{{ site.baseurl }}/assets/img/showcase/Bay Labs Quote Image.png" alt="Bay Labs Quote" style="float:left; margin-right:2%; max-width:47%;">
  </div>
