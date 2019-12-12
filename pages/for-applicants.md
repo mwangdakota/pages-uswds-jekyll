@@ -1,6 +1,6 @@
 ---
 title: For applicants
-layout: secondary-narrow
+layout: for-applicants-layout
 permalink: /resources/applicants/
 ---
 
