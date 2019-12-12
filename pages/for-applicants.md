@@ -1,20 +1,41 @@
 ---
 title: For applicants
-layout: for-applicants-layout
+layout: secondary-narrow
 permalink: /resources/applicants/
 ---
 
 # For applicants
 
 If you’re interested in applying for funding, we encourage you to watch our videos, join us at an event, or reach out directly to our program directors to learn more about the program and what we hope to see in your proposal. 
+<section class="usa-section showcase-content">
+
+<div class="usa-content usa-grid">
+ <img src="{{ site.baseurl }}/assets/img/showcase/Elidah Quote Image.png" alt="Elidah Quote" style="float:left; margin-right:2%; max-width:47%;">
+  <img src="{{ site.baseurl }}/assets/img/showcase/Bay Labs Quote Image.png" alt="Bay Labs Quote" style="float:left; margin-right:2%; max-width:47%;">
+ </div>
+ </section>
 
 ## Project Pitch
 
 Wondering if your idea is a good fit? Submit your [Project Pitch]({{site.baseurl}}/project-pitch/) and find out in three weeks.
+<section class="usa-section showcase-content">
+
+<div class="usa-content usa-grid">
+  <img src="{{ site.baseurl }}/assets/img/showcase/Branch Technology Quote Image.png" alt="Branch Technology Quote" style="float:left; margin-right:2%; max-width:47%;">
+  <img src="{{ site.baseurl }}/assets/img/showcase/Artaic Quote Image.png" alt="Artaic Quote" style="float:left; margin-right:2%; max-width:47%;">
+  
+ </div>
+ </section>
 
 ## Review Guidelines
 
 Read the [Peer Review Guidelines](https://seedfund.nsf.gov/resources/review/peer-review/) to determine if your proposal fits the merit review or broader impacts criteria that we use to make funding decisions.
+<section class="usa-section showcase-content">
+<div class="usa-content usa-grid">
+   <img src="{{ site.baseurl }}/assets/img/showcase/Omnity Quote Image.png" alt="Omnity Quote" style="float:left; margin-right:2%; max-width:47%;">
+  <img src="{{ site.baseurl }}/assets/img/showcase/Spheryx Quote.png" alt="Spheryx Quote" style="float:left; margin-right:2%; max-width:47%;">
+ </div>
+ </section>
 
 {% if site.app_process == "active" %}
 ## Virtual Office Hours
@@ -26,14 +47,32 @@ Thinking of applying for Phase I funding? Ask all your application-related quest
 
 Thinking of applying for Phase I funding? Check out our videos covering [program basics](https://youtu.be/nBJsCt28ip0) and [tips and tricks for submitting a proposal](https://youtu.be/kpK24Uqto14). (We offer a [PDF version of program basics](https://www.nsf.gov/eng/iip/sbir/documents/About_NSF_SBIR_STTR.pdf), too.)
 {% endif %}
-
+<section class="usa-section showcase-content">
+<div class="usa-content usa-grid">
+ <img src="{{ site.baseurl }}/assets/img/showcase/TAO Connect Quote Image.png" alt="TAO Connect Quote" style="float:left; margin-right:2%; max-width:47%;">
+  <img src="{{ site.baseurl }}/assets/img/showcase/ThousandEyes Quote Image.png" alt="ThousandEyes Quote" style="float:left; margin-right:2%; max-width:47%;">
+ </div>
+ </section>
+ 
 ## Startup profiles
 
 Get to know our awardees better — we’ve got [video profiles of startups and small businesses that have received NSF funding](https://www.youtube.com/playlist?list=PLGhBP1C7iCOkPp8yv2I3ZGk16LiMIiikb).
+<section class="usa-section showcase-content">
+<div class="usa-content usa-grid">
+  <img src="{{ site.baseurl }}/assets/img/showcase/Tinkercast Quote Image.png" alt="Tinkercast Quote" style="float:left; margin-right:2%; max-width:47%;">
+  <img src="{{ site.baseurl }}/assets/img/showcase/posed2 Quote Image.png" alt="posed2 Quote" style="float:left; margin-right:2%; max-width:47%;">
+ </div>
+ </section>
 
 ## FastLane guide
 
 Before you start your proposal, take a look at our [FastLane guide]({{ site.baseurl }}/fastlane/). 
+<section class="usa-section showcase-content">
+<div class="usa-content usa-grid">
+<img src="{{ site.baseurl }}/assets/img/showcase/Keystone Tower Systems Quote.png" alt="Keystone Tower Systems Quote" style="float:left; margin-right:2%; max-width:47%;">
+  <img src="{{ site.baseurl }}/assets/img/showcase/Killer Snails Quote Image.png" alt="Killer Snails Quote" style="float:left; margin-right:2%; max-width:47%;">
+ </div>
+ </section>
 
 ## FAQ
 
