@@ -21,7 +21,7 @@ Wondering if your idea is a good fit? Submit your [Project Pitch]({{site.baseurl
 
 Read the [Peer Review Guidelines](https://seedfund.nsf.gov/resources/review/peer-review/) to determine if your proposal fits the merit review or broader impacts criteria that we use to make funding decisions.
 
-<div class="usa-content usa-grid">
+<div style="max-width: 53rem;margin-bottom:1rem;float:left">
   <img src="{{ site.baseurl }}/assets/img/showcase/Branch Technology Quote Image.png" alt="Branch Technology Quote" style="float:left; margin-right:2%; max-width:47%;">
   <img src="{{ site.baseurl }}/assets/img/showcase/Artaic Quote Image.png" alt="Artaic Quote" style="float:left; margin-right:2%; max-width:47%;">
  
@@ -66,6 +66,7 @@ Before you start your proposal, take a look at our [FastLane guide]({{ site.base
 ## FAQ
 
 Have lingering questions? Visit our [FAQ](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf19047), which covers the pre-application process to post-award reporting (and everything in between).
+
 <div style="max-width: 53rem;margin-bottom:1rem;float:left">
 <img src="{{ site.baseurl }}/assets/img/showcase/Keystone Tower Systems Quote.png" alt="Keystone Tower Systems Quote" style="float:left; margin-right:2%; max-width:47%;">
   <img src="{{ site.baseurl }}/assets/img/showcase/Killer Snails Quote Image.png" alt="Killer Snails Quote" style="float:left; margin-right:2%; max-width:47%;">
