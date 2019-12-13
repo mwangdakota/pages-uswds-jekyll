@@ -169,13 +169,13 @@ $timeline-right-padding: 5rem;
         position: relative;
       }
     }
-    // inactive step button
+    //inactive step button
     button[disabled] {
     background-color: $color-white;
     background-image: none;
-    // color: $color-gray-light;
-    //color: $color-gray-medium-warm;
-    //font-weight: 500;
+    color: $color-gray-light;
+    color: $color-gray-medium-warm;
+    font-weight: 500;
     }
   }
 
