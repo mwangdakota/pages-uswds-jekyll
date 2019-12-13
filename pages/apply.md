@@ -16,7 +16,7 @@ timeline:
       - step-5
       - step-6
       - step-7
-  - title: <span style="color:red">Submission window will close on December 12</span>
+  - title: <span style="color:red">Submission window closes</span>
   - title: 1-3 months after<br> the window closes
     description: Applications undergo merit reviews.
     inactive_description: Applications undergo panel and merit reviews.
@@ -40,7 +40,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <p class="text-medium">
 Learn about our Phase I application timeline, how to prepare your Project Pitch, and what to expect once you submit your Project Pitch or full proposal.
 {% if site.app_process == "inactive" %}
-Details for the next {{ site.deadline }} deadline will be posted in {{ site.solicitation_released }} in the upcoming solicitations.
+After a brief pause, new Phase I SBIR and STTR solicitations are expected in the coming weeks.
 {% endif %}
 </p>
 
