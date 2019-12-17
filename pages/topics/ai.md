@@ -25,26 +25,31 @@ AI proposals may be submitted either to a broad technical subtopic or under the 
 
 ### AI5. eCommerce
 
-### AI6. Human-Computer Interaction
+### AI6. Education Technologies
 
-### AI7. Industrial Systems, including Robotics
+### AI7. Human-Computer Interaction
 
-### AI8. Language-Based Technologies (e.g., natural language processing, natural language generation, speech recognition, text analytics)
+### AI8. Industrial Systems, including Robotics
+*Note: This subtopic includes AI innovations pertaining to Industrial Systems. Non-AI innovations related to Industrial Systems should be submitted to the Robotics (R) topic or another suitable topic.*
 
-### AI9. Machine Learning Algorithms and Platforms
+### AI9. Language-Based Technologies (e.g., natural language processing, natural language generation, speech recognition, text analytics)
 
-### AI10. Medical Diagnostics
+### AI10. Machine Learning Algorithms and Platforms
 
-### AI11. Sales, Advertising, and Marketing
+### AI11. Medical Diagnostics
+*Note: This subtopic includes AI innovations pertaining to Medical Diagnostics. Non-AI innovations related to Medical Diagnostics should be submitted to the Digital Health (DH) topic, the Medical Devices (MD) topic or another suitable topic.*
 
-### AI12. Security, Cybersecurity, and Authentication
+### AI12. Sales, Advertising, and Marketing
 
-### AI13. Smart Agriculture
+### AI13. Security, Cybersecurity, and Authentication
 
-### AI14. Vehicle-Based Systems
+### AI14. Smart Agriculture
+*Note: This subtopic includes AI innovations pertaining to Smart Agriculture. Non-AI innovations related to Smart Agriculture should be submitted to the Robotics (R) topic or another suitable topic.*
 
-### AI15. Virtual Agents and Assistants
+### AI15. Vehicle-Based Systems
 
-### AI16. Other AI Technologies
+### AI16. Virtual Agents and Assistants
+
+### AI17. Other AI Technologies
 
  
