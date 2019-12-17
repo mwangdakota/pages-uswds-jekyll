@@ -8,6 +8,18 @@ permalink: /resources/applicants/
 
 If you’re interested in applying for funding, we encourage you to watch our videos, join us at an event, or reach out directly to our program directors to learn more about the program and what we hope to see in your proposal. 
 
+<div style="margin-bottom:1rem;float:left">
+<img src="{{ site.baseurl }}/assets/img/showcase/Keystone Tower Systems Quote.png" alt="Keystone Tower Systems Quote" style="float:left; margin-right:2%; max-width:30%;">
+  <img src="{{ site.baseurl }}/assets/img/showcase/Killer Snails Quote Image.png" alt="Killer Snails Quote" style="float:left; margin-right:2%; max-width:30%;">
+     <img src="{{ site.baseurl }}/assets/img/showcase/Omnity Quote Image.png" alt="Omnity Quote" style="float:left; margin-right:2%; max-width:30%;">
+ </div>
+ 
+<div style="margin-bottom:1rem;float:left">
+  <img src="{{ site.baseurl }}/assets/img/showcase/Tinkercast Quote Image.png" alt="Tinkercast Quote" style="float:left; margin-right:2%; max-width:30%;">
+  <img src="{{ site.baseurl }}/assets/img/showcase/posed2 Quote Image.png" alt="posed2 Quote" style="float:left; margin-right:2%; max-width:30%;">
+   <img src="{{ site.baseurl }}/assets/img/showcase/Spheryx Quote.png" alt="Spheryx Quote" style="float:left; margin-right:2%; max-width:30%;">
+ </div>
+ 
 ## Project Pitch
 
 Wondering if your idea is a good fit? Submit your [Project Pitch]({{site.baseurl}}/project-pitch/) and find out in three weeks.
@@ -40,18 +52,6 @@ Before you start your proposal, take a look at our [FastLane guide]({{ site.base
 
 Have lingering questions? Visit our [FAQ](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf19047), which covers the pre-application process to post-award reporting (and everything in between).
 
-
-<div style="margin-bottom:1rem;float:left">
-<img src="{{ site.baseurl }}/assets/img/showcase/Keystone Tower Systems Quote.png" alt="Keystone Tower Systems Quote" style="float:left; margin-right:2%; max-width:30%;">
-  <img src="{{ site.baseurl }}/assets/img/showcase/Killer Snails Quote Image.png" alt="Killer Snails Quote" style="float:left; margin-right:2%; max-width:30%;">
-     <img src="{{ site.baseurl }}/assets/img/showcase/Omnity Quote Image.png" alt="Omnity Quote" style="float:left; margin-right:2%; max-width:30%;">
- </div>
- 
-<div style="margin-bottom:1rem;float:left">
-  <img src="{{ site.baseurl }}/assets/img/showcase/Tinkercast Quote Image.png" alt="Tinkercast Quote" style="float:left; margin-right:2%; max-width:30%;">
-  <img src="{{ site.baseurl }}/assets/img/showcase/posed2 Quote Image.png" alt="posed2 Quote" style="float:left; margin-right:2%; max-width:30%;">
-   <img src="{{ site.baseurl }}/assets/img/showcase/Spheryx Quote.png" alt="Spheryx Quote" style="float:left; margin-right:2%; max-width:30%;">
- </div>
  
  <div style="margin-bottom:1rem;float:left">
  <img src="{{ site.baseurl }}/assets/img/showcase/Elidah Quote Image.png" alt="Elidah Quote" style="float:left; margin-right:2%; max-width:30%;">
