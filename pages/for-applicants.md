@@ -30,7 +30,7 @@ Read the [Peer Review Guidelines](https://seedfund.nsf.gov/resources/review/peer
 {% if site.app_process == "active" %}
 ## Virtual Office Hours
 
-Thinking of applying for Phase I funding? Ask all your application-related questions during our [Virtual Office Hours](https://seedfund.nsf.gov/events/) or watch a [recorded webinar](https://youtu.be/nBJsCt28ip0) about the program and the Project Pitch. (We offer a [PDF version of program basics]({{site.baseurl}}/assets/files/press/overview2019.pdf), too.)
+Thinking of applying for Phase I funding? Ask all your application-related questions during our [Virtual Office Hours](https://seedfund.nsf.gov/events/) or watch a [recorded webinar](https://youtu.be/nBJsCt28ip0) about the program and the Project Pitch. (We offer a [PDF version of program basics]({{site.baseurl}}/assets/files/applicants/About_NSF_SBIR_STTR.pdf), too.)
 
 {% else %}
 ## Q&A videos
