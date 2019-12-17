@@ -9,19 +9,18 @@ section_image_caption: |
 ---
 
 
-The Chemical Technologies topic covers a wide range of technology areas of current and emerging commercial significance pertaining to the broad chemical industry, energy, power generation, and related industrial sectors. Sensing, data and advanced analytics technologies relevant to these fields are also appropriate for Chemical Technologies. Beyond improvement on technical specifications, it is important to also clearly identify the competitive landscape of what is currently possible, and why the proposed innovation will have high impact commercially and/or from a societal benefit standpoint.  
+The Chemical Technologies topic covers a wide range of technology areas of current and emerging commercial significance pertaining to the broad chemical industry, food processing and technology, agrochemicals, chemical alternatives and organics, green chemicals, water treatment and separations, advanced catalysts and materials, and biochemicals. Sensing, data, and advanced analytics technologies relevant to these fields are also appropriate for this topic area. Beyond improvement on technical specifications, it is important to also clearly identify the competitive landscape of what is currently possible, and why the proposed innovation will an impact commercially and/or from a societal benefit standpoint.    
 
-### CT1. Catalytic Products and Processes
+### CT1. Biochemicals
 
-### CT2. Chemical Processes and Products
+### CT2. Catalysts, Advanced Chemicals and Materials
 
-### CT3. Data Technologies, Sensing and Analytics for Chemicals, and/or Energy
+### CT3. Chemical and Environmental Sensing and Data
 
-### CT4. Energy Technologies
+### CT4. Food Processing, Chemicals and Agriculture
 
-### CT5. Hydrocarbons, Petrochemicals and Natural Resources
+### CT5. Green Chemicals and Chemical Alternatives
 
-### CT6. Power Generation and Infrastructure
+### CT6. Separations and Water Treatment
 
-### CT7. Other Chemical Technologies
-
+### CT7. Other Chemical Technologies 
