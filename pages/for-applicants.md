@@ -35,7 +35,7 @@ Thinking of applying for Phase I funding? Ask all your application-related quest
 {% else %}
 ## Q&A videos
 
-Thinking of applying for Phase I funding? Check out our videos covering [program basics](https://youtu.be/nBJsCt28ip0) and [tips and tricks for submitting a proposal](https://youtu.be/kpK24Uqto14). (We offer a [PDF version of program basics]({{site.baseurl}}/assets/files/press/About_NSF_SBIR_STTR.pdf), too.)
+Thinking of applying for Phase I funding? Check out our videos covering [program basics](https://youtu.be/nBJsCt28ip0) and [tips and tricks for submitting a proposal](https://youtu.be/kpK24Uqto14). (We offer a [PDF version of program basics]({{site.baseurl}}/assets/files/applicants/About_NSF_SBIR_STTR.pdf), too.)
 {% endif %}
 
 
