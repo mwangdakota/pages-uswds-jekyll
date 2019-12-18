@@ -12,7 +12,7 @@ The Digital Health topic aims to support the early-stage development of novel de
 
 **Subtopics are not aimed at supporting clinical trials, the clinical validation of information technologies, or medical devices or studies performed primarily for regulatory purposes.** Limited studies with human subjects may be acceptable to the extent that they are performed in support of feasibility, proof-of-concept studies of early-stage technologies. **Proposals that request support for clinical studies will be deemed non-compliant with the SBIR/STTR solicitations and may be returned without review.**
 
-### DH1. DH1. Clinical Decision Support
+### DH1. Clinical Decision Support
 
 ### DH2. Healthcare System Workflow
 
