@@ -1,6 +1,6 @@
 ---
 title: Pharmaceutical Technologies (PT)
-permalink: /topics/pharmaceutical-technologies /
+permalink: /topics/pharmaceutical-technologies/
 layout: tech-topic
 topic_code: pt
 section_image: "/assets/img/bg/neural-analytics-2c-sh.jpg"
