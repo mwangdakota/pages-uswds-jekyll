@@ -17,11 +17,11 @@ timeline:
       - step-6
       - step-7
   - title: <span style="color:red">Submission window closes</span>
-  - title: December 18, 2019 - March 5, 2020<br>June 5, 2020 - September 3, 2020
+  - title: December 18, 2019 - <br>March 5, 2020<br><br>June 5, 2020 - <br>September 3, 2020
   - title: 1-3 months after<br> the window closes
     description: Applications undergo merit reviews.
     inactive_description: Applications undergo panel and merit reviews.
-  - title: March 6, 2020 - June 4, 2020<br>September 4, 2020 - December 3, 2020
+  - title: March 6, 2020 - <br>June 4, 2020<br><br>September 4, 2020 - <br>December 3, 2020
   - title: 4-6 months after<br> the window closes
     description: We'll notify you whether your proposal is accepted or declined.
     inactive_description: We'll notify you whether your proposal is accepted or declined.
