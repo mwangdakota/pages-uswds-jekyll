@@ -480,8 +480,6 @@
     - Systems for Thermal Management (PM6)
     - Other Power Management Technologies (PM7)
   companies:
-    - name: Clerio Vision, Inc.
-    - name: Endectra, LLC
 
 - topic: Quantum Information Technologies (QT)
   permalink: /topics/quantum-information-technologies/
