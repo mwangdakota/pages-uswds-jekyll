@@ -97,7 +97,7 @@ $timeline-right-padding: 5rem;
     }
 
     .step-inactive {
-      &::before {
+      /*&::before {
         border-color: $color-gray-lightest;
         color: $color-gray-light;
       }
@@ -111,7 +111,7 @@ $timeline-right-padding: 5rem;
         background-color: $color-secondary-lightest;
         padding: 1px 4px;
         margin-left: $space-xxs;
-      }
+      }*/
     }
 
     // setup accordion arrow
