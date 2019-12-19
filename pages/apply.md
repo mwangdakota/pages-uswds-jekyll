@@ -17,8 +17,8 @@ timeline:
       - step-6
       - step-7
   - title: <span style="color:red"><br>Submission window closes<br><br><br><br></span>
-    description: There are four submission windows for Phase I proposals in 2020:<br>12/18/2019 \- 3/5/2020<br>3/6/2020 \- 6/4/2020<br>6/5/2020 \- 9/3/2020<br>9/4/2020 \- 12/3/2020
-    inactive_description: There are four submission windows for Phase I proposals in 2020:<br>12/18/2019 \- 3/5/2020<br>3/6/2020 \- 6/4/2020<br>6/5/2020 \- 9/3/2020<br>9/4/2020 \- 12/3/2020
+    description: There are four submission windows for Phase I proposals in 2020:<br>12/18/2019 - 3/5/2020<br>3/6/2020 - 6/4/2020<br>6/5/2020 - 9/3/2020<br>9/4/2020 - 12/3/2020
+    inactive_description: There are four submission windows for Phase I proposals in 2020:<br>12/18/2019 - 3/5/2020<br>3/6/2020 - 6/4/2020<br>6/5/2020 - 9/3/2020<br>9/4/2020 - 12/3/2020
   - title: 1-3 months after<br> the window closes
     description: Applications undergo merit reviews.
     inactive_description: Applications undergo panel and merit reviews.
