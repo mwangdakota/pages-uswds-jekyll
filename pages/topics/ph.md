@@ -16,9 +16,8 @@ The Photonics topic addresses the research and development of new materials, dev
 
 ### PH3. Communications, Information, and Data Storage 
 
-### PH4. Energy 
-
-### PH5. Lighting and Displays 
+### PH4. Lighting and Displays
+ 
+### PH5. Photon-based Energy Conversion
 
 ### PH6. Other Photonics Technologies
-

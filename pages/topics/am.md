@@ -17,9 +17,11 @@ The Advanced Materials topic addresses the development of new and improved mater
 
 ### AM3. Metals and Ceramics 
 
-### AM4. Multiferroics and Specialized Functional Materials
+### AM4. Novel Advanced Materials-based Sensors
 
-### AM6. Structural and Infrastructural Materials 
+### AM5. Specialized Functional Materials 
 
-### AM5. Other Advanced Materials Technologies
+### AM6. Structural and Infrastructural Materials
+
+### AM7. Other Advanced Materials Technologies
 

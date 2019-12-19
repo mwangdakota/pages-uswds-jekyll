@@ -57,7 +57,7 @@ You'll work with a program director, who will serve as your mentor and advocate.
 
 <div class="usa-width-two-thirds" markdown="1">
 
-- **Up to $1.5M / 24+ months.** Receive up to $225,000 in seed capital to conduct product [Research and Development (R&D)]({{ site.baseurl }}/research-and-development/) over six to 12 months. During this period, your company will be immersed in the NSF network and you'll receive training and mentorship from seasoned entrepreneurs and innovators. After you complete your Phase I award, you're welcome to apply for a second-round investment of $750,000 over 24 months. During the course of that award, you can apply for supplements that may add up to another $500,000.
+- **Up to $1.75M / 24+ months.** Receive up to $256,000 in seed capital to conduct product [Research and Development (R&D)]({{ site.baseurl }}/research-and-development/) over six to 12 months. During this period, your company will be immersed in the NSF network and you’ll receive training and mentorship from seasoned entrepreneurs and innovators. After you complete your Phase I award, you’re welcome to apply for a second-round investment of $1,000,000 over 24 months. During the course of that award, you can apply for supplements that may add up to another $500,000.
 
 - **Feedback from experts**: Every proposal is evaluated by a group of technical and commercial experts, who provide detailed feedback to all reviewed applications; even companies that don't receive awards get valuable, actionable feedback.
 
@@ -80,7 +80,7 @@ You'll work with a program director, who will serve as your mentor and advocate.
 <div class="usa-section usa-content usa-grid" markdown="1">
 ## Program basics
 
-When you decide to apply for funding, you’ll submit a Phase I proposal for up to $225,000, which will cover at least six (and up to 12) months of work. You’ll find out whether your proposal was accepted or declined within four to six months of the proposal deadline.
+ When you decide to apply for funding, you’ll submit a Project Pitch. You'll hear back within three weeks if your idea is a good fit for the program. Once you're invited, you'll submit a Phase I proposal for up to $256,000, which will cover at least six (and up to 12) months of work. You’ll find out whether your proposal was accepted or declined within four to six months of the proposal deadline.
 
 If you’re awarded Phase I funding, you’ll be expected to:
 
@@ -92,7 +92,7 @@ If you’re awarded Phase I funding, you’ll be expected to:
 
 Applicants often ask whether they can update their research plan during the course of a project, and the answer is yes — with a few stipulations. While it’s OK for you to update your business model or R&D strategy a bit (this is bound to happen), you can’t entirely shift the focus of your work unless you have evidence demonstrating why it makes sense.
 
-If your technology needs more development — and if you’ve met all the Phase I requirements — you can apply for more funding. Phase II awardees receive up to $750,000 over two years.
+If your technology needs more development — and if you’ve met all the Phase I requirements — you can apply for more funding. Phase II awardees receive up to $1,000,000 over two years.
 
 To help current Phase II awardees speed the commercialization of their technology, NSF may match 50 cents on every $1 of qualifying revenues or third-party investment (minimum match $50,000 and maximum $500,000) through a Phase IIB supplement. [Learn more about Supplemental funding]({{ site.baseurl}}/resources/awardees/supplement/overview/) and visit our awardee resource guide to [apply for Phase IIB supplemental funding]({{ site.baseurl}}/resources/awardees/phase-2/apply/).
 
