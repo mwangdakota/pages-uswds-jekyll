@@ -16,9 +16,10 @@ The Semiconductors topic addresses the research and development of new designs, 
 
 ### S3. Integrated Circuit Design 
 
-### S4. Micro-electronics Packaging, Thermal Management, and Systems Integration
+### S4. Microelectronics Packaging and Systems Integration
 
-### S5. Processing and Metrology Technology
+### S5. Novel Semiconductor-based Sensors
 
-### S6. Other Semiconductor Technologies
- 
+### S6. Processing and Metrology Technology
+
+### S7. Other Semiconductor Technologies

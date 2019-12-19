@@ -12,8 +12,6 @@ layout: secondary
 
 We’re not interested in innovation for innovation’s sake — we back technologies that promote the social good. Learn more about our companies’ impact here.  
 
-Are you an awardee and have a success story to share?  [Tell us about it](https://goo.gl/forms/UZOsIo1eFpHLA4IW2).
-
 </div>
 </section>
 
@@ -78,16 +76,6 @@ To learn more visit: [https://livingink.co/](https://livingink.co/).
 </section>
 
 
-
-<section class="usa-section showcase-content">
-
-<div class="usa-content usa-grid">
- <img src="{{ site.baseurl }}/assets/img/showcase/Elidah Quote Image.png" alt="Elidah Quote" style="float:left; margin-right:2%; max-width:47%;">
-  <img src="{{ site.baseurl }}/assets/img/showcase/Bay Labs Quote Image.png" alt="Bay Labs Quote" style="float:left; margin-right:2%; max-width:47%;">
- </div>
- </section>
-
-
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
 
@@ -130,14 +118,7 @@ To learn more visit: [https://www.elidah.com/](https://www.elidah.com/).
 </div>
 </section>
 
-<section class="usa-section showcase-content">
 
-<div class="usa-content usa-grid">
-  <img src="{{ site.baseurl }}/assets/img/showcase/Branch Technology Quote Image.png" alt="Branch Technology Quote" style="float:left; margin-right:2%; max-width:47%;">
-  <img src="{{ site.baseurl }}/assets/img/showcase/Artaic Quote Image.png" alt="Artaic Quote" style="float:left; margin-right:2%; max-width:47%;">
-  
- </div>
- </section>
 
  
  
@@ -180,12 +161,6 @@ Founder and CEO of [Artaic](https://artaic.com/), a small business funded by NSF
 
 </section>
 
-<section class="usa-section showcase-content">
-<div class="usa-content usa-grid">
-   <img src="{{ site.baseurl }}/assets/img/showcase/Omnity Quote Image.png" alt="Omnity Quote" style="float:left; margin-right:2%; max-width:47%;">
-  <img src="{{ site.baseurl }}/assets/img/showcase/Spheryx Quote.png" alt="Spheryx Quote" style="float:left; margin-right:2%; max-width:47%;">
- </div>
- </section>
  
  
 
@@ -252,12 +227,6 @@ Jose M. Mejia Oneto, founder and CEO of Shasqi.
 </div>
 </section>
 
-<section class="usa-section showcase-content">
-<div class="usa-content usa-grid">
- <img src="{{ site.baseurl }}/assets/img/showcase/TAO Connect Quote Image.png" alt="TAO Connect Quote" style="float:left; margin-right:2%; max-width:47%;">
-  <img src="{{ site.baseurl }}/assets/img/showcase/ThousandEyes Quote Image.png" alt="ThousandEyes Quote" style="float:left; margin-right:2%; max-width:47%;">
- </div>
- </section>
  
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
@@ -298,20 +267,6 @@ To learn more visit: [https://www.branch.technology/](https://www.branch.technol
 </div>
 </section>
 
-<section class="usa-section showcase-content">
-<div class="usa-content usa-grid">
-  <img src="{{ site.baseurl }}/assets/img/showcase/Tinkercast Quote Image.png" alt="Tinkercast Quote" style="float:left; margin-right:2%; max-width:47%;">
-  <img src="{{ site.baseurl }}/assets/img/showcase/posed2 Quote Image.png" alt="posed2 Quote" style="float:left; margin-right:2%; max-width:47%;">
- </div>
- </section>
-
-
-<section class="usa-section showcase-content">
-<div class="usa-content usa-grid">
-<img src="{{ site.baseurl }}/assets/img/showcase/Keystone Tower Systems Quote.png" alt="Keystone Tower Systems Quote" style="float:left; margin-right:2%; max-width:47%;">
-  <img src="{{ site.baseurl }}/assets/img/showcase/Killer Snails Quote Image.png" alt="Killer Snails Quote" style="float:left; margin-right:2%; max-width:47%;">
- </div>
- </section>
  
 
 

@@ -8,20 +8,18 @@ section_image_caption: |
   Development of OrganoBait synthetic bait, the NSF-Supported projected from [Kepley BioSystems]({{ site.baseurl }}/awardees/phase-2/details/?company=kepley-biosystems-incorporated#kepley-biosystems-incorporated) to provide an ocean-restorative alternative bait product
 ---
 
-Environmental Technologies cover a range of innovations that bring the promise of high commercial impact and/or societal benefit for the environment. The topic covers a wide range of technology areas of current and emerging commercial significance pertaining to the technologies and materials that improve environmental and or environmental health outcomes. Sensing, data, and advanced analytics technologies relevant to these fields are also appropriate. If the proposed technology or approach solves a problem without a current solution or underserved area, this should be highlighted.  
+sustainability, high commercial impact and/or societal and environmental benefits. The topic covers a wide range of technology areas of current and emerging commercial significance pertaining to the technologies and materials that improve environmental and or environmental health outcomes. Sensing, data, and advanced analytics technologies relevant to these fields are also appropriate. If the proposed technology or approach addresses a problem without a current solution or one which is underdeveloped, this should be highlighted.
 
-### ET1. Agricultural and Food Technologies
+### ET1. Computational Sustainability
 
-### ET2. Data Technologies, Sensing, and Analytics for the Environment
+### ET2. Emission/Waste Reduction and the Circular Economy
 
-### ET3. Environmental Health and Green Chemistry
+### ET3. Food, Agriculture, and Energy
 
-### ET4. Environmental Security and Defense
+### ET4. Habitat Conservation, Adaptation and Restoration 
 
-### ET5. Resource Efficiency and Renewable Resources
+### ET5. Sustainable Community Systems
 
-### ET6. Technologies for Extreme Environments
+### ET6. Water Treatment, Resilience, and Sanitation
 
-### ET7. Water Treatment
-
-### ET8. Other Environmental Technologies
+### ET7. Other Environmental Technologies 
