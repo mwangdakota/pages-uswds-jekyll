@@ -1,7 +1,8 @@
 <ul class="pd-list">
   {% assign sorted_pd = (site.data.program-directors | sort: 'last_name') %}
   {% for director in sorted_pd %}
-    {% if director.name != Rick Schwerdtfeger %}
+    {% if director.name = Rick Schwerdtfeger %}
+    {% else %}
     <li class="pd-card">
       {% if director.photo %}
         <img src="{{ site.baseurl }}/assets/img/pd/{{ director.photo }}" alt="{{ director.name }} headshot">
