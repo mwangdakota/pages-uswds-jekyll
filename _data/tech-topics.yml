@@ -315,7 +315,7 @@
   topic_code: ih
   programDirector:
     - name: Rick Schwerdtfeger
-      last_name: *Schwerdtfeger
+      last_name: Schwerdtfeger
       api_name: Carl Schwerdtfeger
       email: rschwerd@nsf.gov
       photo: Rick-compressed.jpg
@@ -340,7 +340,7 @@
     -i
   programDirector:
     - name: Rick Schwerdtfeger
-      last_name: *Schwerdtfeger
+      last_name: Schwerdtfeger
       api_name: Carl Schwerdtfeger
       email: rschwerd@nsf.gov
       photo: Rick-compressed.jpg
@@ -443,7 +443,7 @@
   topic_code: ph
   programDirector:
     - name: Rick Schwerdtfeger
-      last_name: *Schwerdtfeger
+      last_name: Schwerdtfeger
       api_name: Carl Schwerdtfeger
       email: rschwerd@nsf.gov
       photo: Rick-compressed.jpg
@@ -554,7 +554,7 @@
   topic_code: sp
   programDirector:
     - name: Rick Schwerdtfeger
-      last_name: *Schwerdtfeger
+      last_name: Schwerdtfeger
       api_name: Carl Schwerdtfeger
       email: rschwerd@nsf.gov
       photo: Rick-compressed.jpg
