@@ -21,15 +21,17 @@
     - eventname: SXSW
       href: https://www.sxsw.com/
       desc: Find NSF staff to learn about funding opportunities.
+    - eventname: ACS National Meeting and Expo
+      href: https://www.acs.org/content/acs/en/meetings/national-meeting.html
     - eventname: Venture Summit West
       href: https://youngstartup.com/VSWest/
       desc: NSF staff introduces investors and startups to the program.
-    - eventname: VentureWell Open Conference
-      href: https://venturewell.org/open/
     - eventname: ACS National Meeting and Expo
       href: https://www.acs.org/content/acs/en/meetings/national-meeting.html
 - month: Apr
   events:
+    - eventname: MIT Energy Conference
+      href: https://www.mitenergyconference.org/
     - eventname: Techstars Startup Week Portland 
       href: https://portland.startupweek.co/
     - eventname: SBIR Road Tour
@@ -46,17 +48,17 @@
     - eventname: SBIR Road Tour
       href: http://www.sbirroadtour.com/
       desc: NSF program directors join other funding agencies on a bus tour to speak about funding opportunities. 
+    - eventname: Techstars Startup Week Detroit 
+      href: http://detroitstartupweek.com/
     - eventname: SBIR/STTR Spring Innovation Conference
       href: https://www.techconnectworld.com/World2020/
       desc: Join NSF and other government agencies with similar programs for the annual conference.
-    - eventname: WEAR Conference
-      href: https://www.wearconferences.com/   
 - month: Jul
   events:
     - eventname: New York Venture Summit
       href: https://www.youngstartup.com/events.php
       desc: NSF staff introduces investors and startups to the program.
-    - eventname: ARPA-E's Tech Showcase
+    - eventname: ARPA-E's Summit
       href: https://arpa-e.energy.gov/
       desc: Find program staff at the Tech Showcase.      
 - month: Aug
