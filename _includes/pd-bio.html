@@ -1,23 +1,4 @@
-<ul class="pd-list">
-  {% assign sorted_pd = (site.data.program-directors | sort: 'last_name') %}
-  {% for director in sorted_pd %}
-
-  <a name="{{ director.name }}"></a>
-
-  <li class="pd-bio-content">
-
-    {% if director.photo %}
-    <img src="{{ site.baseurl }}/assets/img/pd/{{ director.photo }}" alt="{{ director.name }}">
-    {% endif %}
-    {% if director.bio %}
-      <p class="bio">
-        <strong><a href="mailto:{{ director.email }}">{{ director.name }}</a></strong> {{ director.bio }}
-      </p>
-    {% endif %}
-
-  </li>
-{% endfor %}
-  
+<ul class="pd-list">  
   
      <a name="Henry Ahn"></a>
   <li class="pd-bio-content">
