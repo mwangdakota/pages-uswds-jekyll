@@ -41,6 +41,8 @@
   events:
     - eventname: ACA Summit
       href: https://events.angelcapitalassociation.org/2020summit
+    - eventname: Yale Innovation Summit 
+      href: http://yaleinnovationsummit.com/sbir-sttr-networking/
 - month: Jun
   events:
     - eventname: BIO International Convention
