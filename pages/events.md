@@ -27,7 +27,7 @@ We regularly host virtual office hours for startups and small businesses to lear
 
 ## Annual events
 
-You can often find NSF staff at major tradeshows and events throughout the year. Here's a calendar of some of the events we plan on attending in 2019 (Check back soon for 2020):
+You can often find NSF staff at major tradeshows and events throughout the year. Here's a calendar of some of the events we plan on attending in 2020:
 
 {% include events-annual.html %}
 
