@@ -93,7 +93,7 @@ Learn about our impact
 
 Our program fosters and encourages participation in innovation and entrepreneurship by women and people of color as well as first-time entrepreneurs from all 50 states and U.S. territories.
 
-<a class="usa-button usa-button-primary button-arrow" href="{{ site.baseurl }}/apply/">
+<a class="usa-button usa-button-primary button-arrow" href="{{ site.baseurl }}/showcase/">
 What we look for
 </a>
 
