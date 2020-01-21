@@ -28,8 +28,10 @@ Proposed projects should be focused on using or modifying living organisms, syst
 
 ### BT8. Life Science Research Tools
 
-### BT9. Plant Biotechnology
+### BT9. Materials for Biomedical Applications
 
-### BT10. Synthetic Biology and Metabolic Engineering
+### BT10. Plant Biotechnology
 
-### BT11. Other Biological Technologies
+### BT11. Synthetic Biology and Metabolic Engineering
+
+### BT12. Other Biological Technologies

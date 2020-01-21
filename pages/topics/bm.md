@@ -15,11 +15,9 @@ The Biomedical Technologies topic aims to support the early-stage development of
 
 ### BM1. Diagnostic Assays
 
-### BM2. Materials for Biomedical Applications
+### BM2. Medical Imaging 
 
-### BM3. Medical Imaging 
+### BM3. Monitoring Devices
 
-### BM4. Monitoring Devices
-
-### BM5. Other Biomedical Technologies
+### BM4. Other Biomedical Technologies
 
