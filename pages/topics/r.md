@@ -18,5 +18,8 @@ Proposals addressing robot intelligence and experiential learning, particularly 
 
 ### R4. Robotics in Agile Manufacturing, and Co-Robots
 
+### R5. Robotics in Education
+*Note: Applicants interested in proposing education-related projects that align with our program goals and criteria, but which are not related to AI, IT, or robotics, are welcome to submit their concepts under "Other Topics."*
+
 ### R5. Other Robotics Technologies
 
