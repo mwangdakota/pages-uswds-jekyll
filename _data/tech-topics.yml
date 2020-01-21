@@ -108,9 +108,10 @@
     - Fermentation Technologies (BT6)
     - Food Processing and Safety Technology (BT7)
     - Life Science Research Tools (BT8)
-    - Plant Biotechnology (BT9)
-    - Synthetic Biology and Metabolic Engineering (BT10)
-    - Other Biological Technologies (BT11)
+    - Materials for Biomedical Applications (BT9)
+    - Plant Biotechnology (BT10)
+    - Synthetic Biology and Metabolic Engineering (BT11)
+    - Other Biological Technologies (BT12)
   companies:
     - name: Lygos Inc.
     - name: ARZEDA Corp.
@@ -135,10 +136,9 @@
       bio: "joined the National Science Foundation in July 2016 as an SBIR/STTR Program Director. Prior to joining NSF, Henry managed seed/early stage investment programs for TEDCO for 12 years including Technology Commercialization Fund, TEDCO’s flagship seed funding program for technology-based companies in Maryland. During his time at TEDCO, Henry was actively involved with various entrepreneurs and entrepreneur support groups as a guest speaker, an advisory board member, a judge, a mentor, among others. Additionally, Henry was part of the licensing/supplier relations team at a biotechnology company called Upstate, where he successfully negotiated, licensed and commercialized approximately 190 biomedical research reagents from around the world. Henry has also done approximately five years of research, mostly in the field of immunology (including graduate work). Henry has an MBA from Rice University, an M.S. in biotechnology from the University of Tennessee, Knoxville and a B.S. in biomedical engineering from Boston University."
   subtopics:
     - Diagnostic Assays (BM1)
-    - Materials for Biomedical Applications (BM2)
-    - Medical Imaging (BM3)
-    - Monitoring Devices (BM4)
-    - Other Biomedical Technologies (BM5)
+    - Medical Imaging (BM2)
+    - Monitoring Devices (BM3)
+    - Other Biomedical Technologies (BM4)
   companies:
     - name: Protein Dynamic Solutions, LLC
     - name: Camras Vision, Inc.
@@ -296,7 +296,7 @@
   - Education Technologies (IT6)
   - Human-Computer Interaction, Virtual Reality, and Augmented Reality (IT7)
   - Image and Video (IT8)
-  - Mobile Computing and Internet of Things (IT9)
+  - Mobile Computing, Internet of Things, Cyber-Physical Systems (IT9)
   - Networking Technology (IT10)
   - Social Media and Collaborative Networking (IT11)
   - Software (IT12)
@@ -517,7 +517,8 @@
     - Human-Machine Interfaces and Control/Architecture (R2)
     - Robotic Applications (R3)
     - Robotics in Agile Manufacturing, and Co-Robots (R4)
-    - Other Robotics Technologies (R5)
+    - Robotics in Education (R5)
+    - Other Robotics Technologies (R6)
   companies:
     - name: TACTAI
     - name: Blue River Technology Inc

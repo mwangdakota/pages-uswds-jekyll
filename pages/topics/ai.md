@@ -26,6 +26,7 @@ AI proposals may be submitted either to a broad technical subtopic or under the 
 ### AI5. eCommerce
 
 ### AI6. Education Technologies
+*Note: Applicants interested in proposing education-related projects that align with our program goals and criteria, but which are not related to AI, IT, or robotics, are welcome to submit their concepts under “Other Topics.”*
 
 ### AI7. Human-Computer Interaction
 
