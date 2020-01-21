@@ -22,6 +22,7 @@ The Information Technologies topic encourages the submission of proposals that p
 *Note: This subtopic is focused on cybersecurity innovations pertaining to IoT. Hardware innovations related to IoT should be submitted to the Internet of Things (I) topic.*
 
 ### IT6. Education Technologies
+*Note: Note: Applicants interested in proposing education-related projects that align with our program goals and criteria, but which are not related to AI, IT, or robotics, are welcome to submit their concepts under “Other Topics.”*
 
 ### IT7. Human-Computer Interaction, Virtual Reality, and Augmented Reality
 
@@ -29,8 +30,8 @@ The Information Technologies topic encourages the submission of proposals that p
 *Note: Image- and video-based innovations that rely on the use of artificial intelligence should be
 submitted under the AI3 subtopic.*
 
-### IT9. Mobile Computing and Internet of Things
-*Note: This subtopic includes IT-based innovations pertaining to IoT devices. Hardware innovations related to IoT should be submitted to the Internet of Things (I) topic.*
+### IT9. Mobile Computing, Internet of Things, Cyber-Physical Systems
+*Note: This subtopic includes IT-based innovations pertaining to Internet of Things (IoT) and Cyber-Physical Systems (CPS). Hardware innovations related to IoT or CPS should be submitted to the Internet of Things (I) topic*
 
 ### IT10. Networking Technology 
 *Note: This subtopic includes IT-based innovations pertaining to IoT networking technology. Hardware innovations related to IoT should be submitted to the Internet of Things (I) topic.*
