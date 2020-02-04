@@ -55,10 +55,7 @@
   events:
     - eventname: New York Venture Summit
       href: https://www.youngstartup.com/events.php
-      desc: NSF staff introduces investors and startups to the program.
-    - eventname: ARPA-E's Summit
-      href: https://arpa-e.energy.gov/
-      desc: Find program staff at the Tech Showcase.      
+      desc: NSF staff introduces investors and startups to the program.    
 - month: Aug
   events:
     - eventname: SBIR Road Tour
