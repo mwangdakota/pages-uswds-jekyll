@@ -9,7 +9,7 @@ sidenav: phase-1
 
 Interested in applying for Phase II funding? Review this information before starting your application.
 
-Read the Solicitation
+[Read the Solicitation]({{ site.data.solicitations['PHASE_II'].url }})
 
 ## The basics
 
