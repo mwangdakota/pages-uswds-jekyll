@@ -9,6 +9,8 @@ sidenav: phase-1
 
 Interested in applying for Phase II funding? Review this information before starting your application.
 
+Read the Solicitation
+
 ## The basics
 
 - Only Phase I awardees may apply for Phase II funding.
