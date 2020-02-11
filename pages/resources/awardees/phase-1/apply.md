@@ -10,7 +10,7 @@ sidenav: phase-1
 Interested in applying for Phase II funding? Review this information before starting your application.
 
 <div class="calloutBox" markdown="1">
-  [Read the Solicitation]({{ site.data.solicitations['PHASE_II'].url }})
+  <h2>[Read the Solicitation]({{ site.data.solicitations['PHASE_II'].url }})</h2>
 </div>
 
 ## Eligibility and the basics
