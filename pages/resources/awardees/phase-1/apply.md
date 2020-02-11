@@ -47,6 +47,7 @@ Subsequent submission window closing dates are as follows:<br>
 - Revisit the [Merit Review Criteria]({{ site.baseurl}}/resources/review/).
 - View the [Proposal Preparation and Submission Instructions in the Phase II Solicitation]({{ site.data.solicitations['PHASE_II'].url }}).
 - Reference the Phase II Solicitation [guidance on determining salaries]({{ site.data.solicitations['PHASE_II'].url }}) for Phase II personnel.
+- Test link [guidance on determining salaries]({{ site.data.solicitations['testlink'].url }}#Rajesh Mehta) for Phase II personnel.
 
 ## Terms and conditions and reporting requirements
 
