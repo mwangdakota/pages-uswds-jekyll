@@ -10,7 +10,7 @@ sidenav: phase-1
 Interested in applying for Phase II funding? Review this information before starting your application.
 
 <div class="calloutBox" markdown="1">
-  [Read the Solicitation]({{ site.data.solicitations['PHASE_II'].url }})
+  <h2>[Read the Solicitation]({{ site.data.solicitations['PHASE_II'].url }})</h2>
 </div>
 
 ## Eligibility and the basics
@@ -51,8 +51,4 @@ Subsequent submission window closing dates are as follows:<br>
 ## Terms and conditions and reporting requirements
 
 The Phase II award is now a fixed amount cooperative agreement with different award terms and conditions, and reporting requirements. More details regarding both award terms and reporting requirements will be available through the solicitation in the coming months.   
-{% comment %}
-## FastLane instructions
 
-Learn [how to submit a Phase II proposal]({{site.baseurl}}/assets/files/awardees/Phase_II_Proposal_Preparation_Booklet.pdf) in FastLane.
-{% endcomment %}
