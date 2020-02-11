@@ -201,10 +201,15 @@
   }
 }
 .calloutBox {
-  font-size: 1.8rem;
-    font-weight: 600;
-    line-height: 1.5;
-    color: #212121;
     padding: 2.5rem 5.5rem;
-  background-color:#fff;
+    background-color:#fff;
+}
+.calloutBox a {
+    font-size: 3.6rem;
+    letter-spacing: -.015em;
+    line-height: 1.2;
+    font-weight: 700;
+    letter-spacing: -.015em;
+    margin-top: 0;
+    color: #212121;
 }
