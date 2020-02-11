@@ -16,7 +16,7 @@ Interested in applying for Phase II funding? Review this information before star
 ## Eligibility and the basics
 
 - Only recent NSF SBIR and STTR Phase I awardees may apply for Phase II funding.
-- The purpose of Phase II is to provide funding to continue the R&D you began in Phase I.
+- The purpose of Phase II is to provide funding to continue the research and development you began in Phase I.
 - You are permitted to submit only one Phase II proposal per Phase I award.
 - If your Phase II application is declined, you won't be able to resubmit it.
 
@@ -28,14 +28,14 @@ Interested in applying for Phase II funding? Review this information before star
 ## Submission info
 
 - A company may submit a Phase II proposal anytime between six (6) months and two years (24 months) after the start date of the relevant Phase I award. The start date can be found on your Phase I award letter. 
-- There are quarterly deadlines for submission of a Phase II proposal. The next submission date is {{ site.next_deadline }}.<br>
+- There are quarterly deadlines for submission of a Phase II proposal. The next submission date is **{{ site.next_deadline }}**.<br><br>
 Subsequent submission window closing dates are as follows:<br>
-{{ site.solicitation_window_2 }}<br>
+**{{ site.solicitation_window_2 }}<br>
 {{ site.solicitation_window_3 }}<br>
-{{ site.solicitation_window_4 }}<br>
+{{ site.solicitation_window_4 }}<br>**
 
 - You’ll need to submit your Phase II SBIR or STTR proposal through FastLane.
-- If you’re an STTR Phase I awardee, you can now submit a SBIR Phase II proposal. More information on switching from STTR to SBIR.
+- If you’re an STTR Phase I awardee, you can now submit a SBIR Phase II proposal. [More information on switching from STTR to SBIR](http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf14103).
 
 ## Administrative and financial capability reviews
 
