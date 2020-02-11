@@ -29,7 +29,7 @@ timeline:
     description: If your proposal is accepted, you'll receive funding of up to $256,000.
     inactive_description: If your proposal is accepted, you'll receive funding of up to $256,000.
   - title: 6-24 months after<br> beginning Phase I
-    description: Apply for Phase II funding. (Note\: Only small businesses with a Phase I award can submit a Phase II proposal). There are four submission windows for Phase II proposals in 2020:<br>{{ site.solicitation_window_1 }}<br>{{ site.solicitation_window_2 }}<br>{{ site.solicitation_window_3 }}<br>{{ site.solicitation_window_4 }}
+    description: Apply for Phase II funding. (Note- Only small businesses with a Phase I award can submit a Phase II proposal). There are four submission windows for Phase II proposals in 2020:<br>{{ site.solicitation_window_1 }}<br>{{ site.solicitation_window_2 }}<br>{{ site.solicitation_window_3 }}<br>{{ site.solicitation_window_4 }}
     inactive_description: 
 ---
 <head>
