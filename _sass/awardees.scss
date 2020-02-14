@@ -200,14 +200,14 @@
     border-bottom: 1px solid $color-gray-light;
   }
 }
-.calloutBox {
-    padding: 2.5rem;
-    background-color:#fff;
-    text-align:center;
-}
 .calloutBox a {
-    font-size: 2.4rem;
-    font-weight: 600;
-    margin-top: 0;
+  background-color: transparent;
+    border: 1px solid #02BFE7;
+    border-radius: 0;
     color: #212121;
+    font-family: "Work Sans","Helvetica Neue","Helvetica",Arial,sans-serif;
+    font-size: 1.2rem;
+    font-weight: 500;
+    min-width: 18rem;
+    padding: 1.5rem 2.5rem 1.5rem 2rem;
 }
