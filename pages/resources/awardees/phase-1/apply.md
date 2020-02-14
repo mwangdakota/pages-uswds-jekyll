@@ -25,7 +25,7 @@ Read the STTR Phase II Solicitation</a>
 ## Award amount 
 
 - As of summer 2020, Phase II awards are funded up to $1 million for up to 24 months.
-- This amount includes up to $50,000 to be used by the Phase II awardee for commercial assistance under the SBIR Technical and Business Assistance (TABA) legislation. [See section A.5, line G.6 of the solicitation]({{ site.data.solicitations['PHASE_II'].url }}) for details.
+- This amount includes up to $50,000 to be used by the Phase II awardee for commercial assistance under the SBIR [Technical and Business Assistance (TABA) legislation]({{ site.data.solicitations['PHASE_II'].url }}) for details.
 
 ## Submission info
 
