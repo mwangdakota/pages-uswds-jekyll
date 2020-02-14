@@ -9,9 +9,8 @@ sidenav: phase-1
 
 Interested in applying for Phase II funding? Review this information before starting your application.
 
-<div class="usa-button usa-button-primary button-arrow" markdown="1">
-  [Read the SBIR Phase II Solicitation]({{ site.data.solicitations['PHASE_II'].url }})
-</div>
+<a class="usa-button usa-button-primary button-arrow" href="{{ site.data.solicitations['PHASE_II'].url }}">
+  Read the SBIR Phase II Solicitation</a>
 
 <a class="usa-button usa-button-primary button-arrow" href="{{ site.data.solicitations['STTR_PHASE_II'].url }}">
 Read the STTR Phase II Solicitation</a>
