@@ -13,9 +13,8 @@ Interested in applying for Phase II funding? Review this information before star
   [Read the SBIR Phase II Solicitation]({{ site.data.solicitations['PHASE_II'].url }})
 </div>
 
-<div class="usa-button usa-button-primary button-arrow" markdown="1">
-  [Read the STTR Phase II Solicitation]({{ site.data.solicitations['STTR_PHASE_II'].url }})
-</div>
+<a class="usa-button usa-button-primary button-arrow" href="{{ site.data.solicitations['STTR_PHASE_II'].url }}">
+Read the STTR Phase II Solicitation</a>
 
 ## Eligibility and the basics
 
