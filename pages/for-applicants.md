@@ -40,7 +40,7 @@ Before you start your proposal, take a look at our [FastLane guide]({{ site.base
 
 Have lingering questions? Visit our [FAQ](https://www.nsf.gov/pubs/2020/nsf20031/nsf20031.jsp), which covers the pre-application process to post-award reporting (and everything in between).
 
-## Beyond Phase II
+## Beyond Phase I
 
 Are you a Phase I awardee? Visit [How to Apply for Phase II]({{ site.baseurl }}/resources/awardees/phase-2/apply/).
 
