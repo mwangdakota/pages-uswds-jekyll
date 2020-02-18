@@ -16,7 +16,7 @@ section_image_caption: |
 
 # About
 
-For 40 years, America’s Seed Fund powered by NSF has helped startups and small businesses transform their ideas into marketable products and services. We focus on high-risk, high-impact technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award $200 million in funding to entrepreneurs across the country. Our goals are to foster innovation and help create businesses and jobs in the United States, and companies seed funded by our program have since [gone on to tremendous success]({{ '/portfolio/' | relative_url }}). We are a congressionally mandated program — Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR).
+For 40 years, America’s Seed Fund powered by NSF has helped startups and small businesses transform their ideas into marketable products and services. We focus on high-risk, high-impact technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award $200 million in funding to entrepreneurs across the country. Our goals are to foster innovation and help create businesses and jobs in the United States, and companies seed funded by our program have since [gone on to tremendous success]({{ '/portfolio/' | relative_url }}). We are a congressionally mandated program — Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR). 
 
 </div>
 </div>
