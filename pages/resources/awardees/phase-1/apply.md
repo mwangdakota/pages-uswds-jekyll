@@ -9,20 +9,35 @@ sidenav: phase-1
 
 Interested in applying for Phase II funding? Review this information before starting your application.
 
-## The basics
+<a class="usa-button usa-button-primary button-arrow" href="{{ site.data.solicitations['PHASE_II'].url }}">
+  Read the SBIR Phase II Solicitation</a>
 
-- Only Phase I awardees may apply for Phase II funding.
-- The purpose of Phase II is to provide funding to continue the R&D you began in Phase I.
-- Phase II awards are funded up to $750,000 for up to 24 months.
-- As was the case with your Phase I application, you'll need to submit your Phase II SBIR or STTR proposal through FastLane.
-- If you're an STTR Phase I awardee, you can now submit a SBIR Phase II proposal. [More information on switching from STTR to SBIR](http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf14103).
+<a class="usa-button usa-button-primary button-arrow" href="{{ site.data.solicitations['STTR_PHASE_II'].url }}">
+Read the STTR Phase II Solicitation</a>
+
+## Eligibility and the basics
+
+- Only recent NSF SBIR and STTR Phase I awardees may apply for Phase II funding.
+- The purpose of Phase II is to provide funding to continue the research and development you began in Phase I.
+- You are permitted to submit only one Phase II proposal per Phase I award.
 - If your Phase II application is declined, you won't be able to resubmit it.
 
-## Submission dates
+## Award amount 
 
-Phase II proposals have fixed submission dates roughly eight, 14, or 20 months after the effective date of your Phase I award — please check your Phase I award letter to confirm the exact date.
+- As of summer 2020, Phase II awards are funded up to $1 million for up to 24 months.
+- This amount includes up to $50,000 to be used by the Phase II awardee for commercial assistance under the SBIR [Technical and Business Assistance (TABA) legislation]({{ site.data.solicitations['PHASE_II'].url }}) for details.
 
-If your award letter **doesn't** include an exact Phase II submission date, contact the NSF Division of Grants and Agreements representative who is named in your award letter; they'll be able to provide you with the proper date. Please note that the Phase II submission window opens 30 days before the proposal due date.
+## Submission info
+
+- A company may submit a Phase II proposal anytime between six (6) months and two years (24 months) after the start date of the relevant Phase I award. The start date can be found on your Phase I award letter. 
+- There are quarterly deadlines for submission of a Phase II proposal. The next submission date is **{{ site.next_deadline }}**.<br><br>
+Subsequent submission window closing dates are as follows:<br>
+**{{ site.solicitation_window_2 }}<br>
+{{ site.solicitation_window_3 }}<br>
+{{ site.solicitation_window_4 }}<br>**
+
+- You’ll need to submit your Phase II SBIR or STTR proposal through FastLane.
+- If you’re an STTR Phase I awardee, you can now submit a SBIR Phase II proposal. [More information on switching from STTR to SBIR](http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf14103).
 
 ## Administrative and financial capability reviews
 
@@ -32,10 +47,10 @@ If your award letter **doesn't** include an exact Phase II submission date, cont
 ## Proposal contents
 
 - Revisit the [Merit Review Criteria]({{ site.baseurl}}/resources/review/).
-- View the required contents of a [Phase II SBIR/STTR proposal]({{ site.baseurl }}/assets/files/awardees/Phase%20II%20NSF%20SBIR.pdf).
-- View [guidance on determining salaries]({{ site.baseurl }}/assets/files/awardees/SBIR_Salary_Validation_Guide.pdf) for Phase II personnel.
-{% comment %}
-## FastLane instructions
+- View the [Proposal Preparation and Submission Instructions in the Phase II Solicitation]({{ site.data.solicitations['PHASE_II'].url }}).
+- Reference the Phase II Solicitation [guidance on determining salaries]({{ site.data.solicitations['PHASE_II'].url }}) for Phase II personnel.
 
-Learn [how to submit a Phase II proposal]({{site.baseurl}}/assets/files/awardees/Phase_II_Proposal_Preparation_Booklet.pdf) in FastLane.
-{% endcomment %}
+## Terms and conditions and reporting requirements
+
+The Phase II award is now a fixed amount cooperative agreement with different award terms and conditions, and reporting requirements. More details regarding both award terms and reporting requirements will be available through the solicitation in the coming months.   
+

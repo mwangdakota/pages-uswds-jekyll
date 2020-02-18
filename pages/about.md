@@ -16,7 +16,7 @@ section_image_caption: |
 
 # About
 
-For 40 years, America’s Seed Fund powered by NSF has helped startups and small businesses transform their ideas into marketable products and services. We focus on high-risk, high-impact technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award $200 million in funding to entrepreneurs across the country. Our goals are to foster innovation and help create businesses and jobs in the United States, and companies seed funded by our program have since [gone on to tremendous success]({{ '/portfolio/' | relative_url }}). We are a congressionally mandated program — Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR).
+For 40 years, America’s Seed Fund powered by NSF has helped startups and small businesses transform their ideas into marketable products and services. We focus on high-risk, high-impact technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award $200 million in funding to entrepreneurs across the country. Our goals are to foster innovation and help create businesses and jobs in the United States, and companies seed funded by our program have since [gone on to tremendous success]({{ '/portfolio/' | relative_url }}). We are a congressionally mandated program — Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR). 
 
 </div>
 </div>
@@ -121,7 +121,7 @@ If your company is majority owned by venture capital operating companies, hedge 
 
 Our seed funding is for R&D that involves a good amount of technical risk. If you’re already sure that your product is technically feasible, this program isn’t a good fit for you.
 
-In selected cases, we support innovations to existing products and services, but these innovations must dramatically change the products’ commercial prospects. We don’t fund work that simply improves existing products. Check out our [portfolio]({{ '/portfolio/' | relative_url }}) to get a sense of our founders’ work.
+In selected cases, we support innovations to existing products and services, but these innovations must dramatically change the products’ commercial prospects. We don’t fund work that simply improves existing products. Check out our [portfolio]({{ '/portfolio/' | relative_url }}) to get a sense of our founders’ work. 
 
 </div>
 </div>
