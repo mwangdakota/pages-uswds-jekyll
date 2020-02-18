@@ -63,9 +63,6 @@
       desc: NSF program directors join other funding agencies on a bus tour to speak about funding opportunities.
 - month: Sep
   events:
-    - eventname: SBIR Road Tour
-      href: http://www.sbirroadtour.com/
-      desc: NSF program directors join other funding agencies on a bus tour to speak about funding opportunities.
     - eventname: TechCrunch Disrupt
       href: https://techcrunch.com/events/disrupt-sf-2020/
 - month: Oct
