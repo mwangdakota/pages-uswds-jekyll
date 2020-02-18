@@ -10,6 +10,8 @@ sidenav: phase-2
 
 Here are all the forms you need to manage your Phase II award.
 
+- [{{ site.data.solicitations['PHASE_II'].title }}]({{ site.data.solicitations['PHASE_II'].url }})
+- [{{ site.data.solicitations['STTR_PHASE_II'].title }}]({{ site.data.solicitations['STTR_PHASE_II'].url }})
 - [Phase II reporting requirements]({{ site.baseurl }}/resources/awardees/phase-2/reporting/)
 - [Common forms and checklists]({{ site.baseurl }}/resources/awardees/phase-2/forms/)
 - [Revising a budget]({{ site.baseurl }}/resources/awardees/phase-2/revised-budget/)
@@ -27,8 +29,7 @@ Here are all the forms you need to manage your Phase II award.
 As an awardee, you’re the face of our program, and we hope you’ll share news of your successes for years to come. Learn how to [become an ambassador]({{ site.baseurl }}/resources/awardees/phase-2/ambassador/).
 
 ## Phase II awardee map
-<iframe style="border:1px solid #000" width="100%" height="350" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?q=select+col4+from+1T6tFw0G4Se29ehGIr7Us5Q3fZZveXKGGu4X8R6E&amp;viz=MAP&amp;h=false&amp;lat=39.09114204708225&amp;lng=-95.49757689882813&amp;t=1&amp;z=3.5&amp;l=col4&amp;y=2&amp;tmplt=2&amp;hml=GEOCODABLE"></iframe>
-
+<iframe src="https://www.google.com/maps/d/embed?mid=1CNoogQ8CLrzDJviRC-Pi_avfGTeYWaTm" width="100%" height="350"></iframe>
 
 ## About America's Seed fund
 
