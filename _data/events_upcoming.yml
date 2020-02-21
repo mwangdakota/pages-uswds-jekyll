@@ -1,10 +1,4 @@
 ---
-- eventName: How to Apply for Phase II
-  description:  
-  eventType: Webinar
-  date: 20 Feb 2020 
-  time: 2:00 - 3:00 PM ET 
-  registrationLink: https://nsf2.webex.com/nsf2/onstage/g.php?MTID=e8580efe7252b67f901124801fdc655b4
 - eventName: How to Submit an SBIR/STTR Proposal
   description:  
   eventType: Webinar
@@ -17,7 +11,7 @@
   date: 2 Mar 2020 
   time: 2:00 - 3:00 PM ET 
   registrationLink: https://nsf2.webex.com/nsf2/onstage/g.php?MTID=e7be1c9ccc73e8435ed4640999ad79ce9
-- eventName: Start Your Project Pitch
+- eventName: How to Start Your Project Pitch
   description:  
   eventType: Webinar
   date: 3 Mar 2020 
@@ -30,7 +24,7 @@
   time: 2:00 - 3:00 PM ET 
   registrationLink: https://nsf2.webex.com/nsf2/onstage/g.php?MTID=e479b1d3a13ecaa78f5af63331f8fc33b
 - eventName: Artificial Intelligence
-  description: Focuses on translation of innovation in the area of artificial intelligence (AI). AI is not a specific technology or technical method — it is instead a field of study aimed at achieving machine-based intelligence.
+  description: Focuses on translation of innovation in the area of artificial intelligence (AI). – including, for example, machine learning, computer vision and natural language processing – and applications of such innovations in areas of commercial and societal impact, such as industries of the future and education. 
   eventType: Webinar
   date: 9 Mar 2020 
   time: 2:00 - 3:00 PM ET 
@@ -53,7 +47,7 @@
   date: 19 Mar 2020 
   time: 2:00 - 3:00 PM ET 
   registrationLink: https://nsf2.webex.com/nsf2/onstage/g.php?MTID=e7fb355c2d57f211fceca2277307e4c54
-- eventName: Start Your Project Pitch
+- eventName: How to Start Your Project Pitch
   description: 
   eventType: Webinar
   date: 7 Apr 2020 
