@@ -1,28 +1,4 @@
 ---
-- eventName: How to Submit an SBIR/STTR Proposal
-  description:  
-  eventType: Webinar
-  date: 28 Feb 2020 
-  time: 2:00 - 3:00 PM ET 
-  registrationLink: https://nsf2.webex.com/nsf2/onstage/g.php?MTID=e35494ec0ca721478c0902655cd9bc5d8
-- eventName: Biomedical and Digital Health Technologies 
-  description: Focus on translation of innovative biomedical and digital health technologies. The topic supports the early-stage development of novel medical devices and wearables, components, processes, systems, algorithms, networks, applications, or services that target improvement in health. 
-  eventType: Webinar
-  date: 2 Mar 2020 
-  time: 2:00 - 3:00 PM ET 
-  registrationLink: https://nsf2.webex.com/nsf2/onstage/g.php?MTID=e7be1c9ccc73e8435ed4640999ad79ce9
-- eventName: How to Start Your Project Pitch
-  description:  
-  eventType: Webinar
-  date: 3 Mar 2020 
-  time: 2:00 - 3:00 PM ET 
-  registrationLink: https://nsf2.webex.com/nsf2/onstage/g.php?MTID=ebbb5e4622dc3a0b36ecd67d6212d7161
-- eventName: Distributed Ledger Technologies
-  description: Focus on translation of innovation on technologies spanning all areas of distributed ledger including, but not limited to, blockchains, Directed Acyclic Graphs (DAGs), and related capabilities (cryptography, smart contracts, etc.). 
-  eventType: Webinar
-  date: 5 Mar 2020 
-  time: 2:00 - 3:00 PM ET 
-  registrationLink: https://nsf2.webex.com/nsf2/onstage/g.php?MTID=e479b1d3a13ecaa78f5af63331f8fc33b
 - eventName: Artificial Intelligence
   description: Focuses on translation of innovation in the area of artificial intelligence (AI). – including, for example, machine learning, computer vision and natural language processing – and applications of such innovations in areas of commercial and societal impact, such as industries of the future and education. 
   eventType: Webinar
