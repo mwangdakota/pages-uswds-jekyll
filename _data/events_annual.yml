@@ -16,18 +16,14 @@
       desc: Find NSF staff to learn about funding opportunities.
 - month: Mar
   events:
-    - eventname: SXSW
+    - eventname: SXSW (postponed)
       href: https://www.sxsw.com/
       desc: Find NSF staff to learn about funding opportunities.
-    - eventname: ACS National Meeting and Expo
-      href: https://www.acs.org/content/acs/en/meetings/national-meeting.html
     - eventname: Venture Summit West
       href: https://youngstartup.com/VSWest/
       desc: NSF staff introduces investors and startups to the program.
 - month: Apr
   events:
-    - eventname: MIT Energy Conference
-      href: https://www.mitenergyconference.org/
     - eventname: Techstars Startup Week Portland 
       href: https://portland.startupweek.co/
     - eventname: SBIR Road Tour
@@ -35,6 +31,8 @@
       desc: NSF program directors join other funding agencies on a bus tour to speak about funding opportunities.
 - month: May
   events:
+    - eventname: MIT Energy Conference
+      href: https://www.mitenergyconference.org/  
     - eventname: ACA Summit
       href: https://events.angelcapitalassociation.org/2020summit
     - eventname: Yale Innovation Summit 
