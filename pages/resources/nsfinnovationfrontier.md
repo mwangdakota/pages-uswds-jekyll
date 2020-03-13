@@ -13,17 +13,18 @@ layout: secondary
 
 The National Science Foundation (NSF) Innovation Frontier is a space created on the [Union](https://www.nsf.gov/cgi-bin/good-bye?https://union.vc/) platform to allow current and former NSF-funded innovators to access educational content, and share best practices, advice, and insights into starting/running a business, conducting research and development, raising capital, and producing tangible public benefits. Officially, NSF does not endorse the discussion but hopes that companies are respectful to each other and give insight and advice as appropriate.
 
-**NSF’s Role**: NSF will invite NSF-funded innovators to join the platform. However, NSF staff and Program Directors will not participate in the discussion board. The platform is meant for peer-to-peer interaction and not as a tool to communicate with NSF or your Program Director. Official correspondence with NSF will continue to come from your NSF Program Director in the form of emails or phone calls.  Please reach out directly to your cognizant Program Director with NSF-specific questions or concerns. 
+**NSF’s Role**: NSF will invite NSF-funded innovators to join the platform. The platform is meant for peer-to-peer interaction and not as the primary tool to communicate with NSF or your Program Director. Official correspondence with NSF will continue to come from your NSF Program Director in the form of emails or phone calls.  Please reach out directly to your cognizant Program Director with NSF-specific questions or concerns. 
 
 **Group Rules**: NSF Innovation Frontier membership is exclusive. NSF expects that users comply with [NSF Social Media Policy](https://www.nsf.gov/social/policies.jsp). Any content in violation with the policy will be removed and violators may have their membership revoked.  
 
-For everyone to feel welcome, NSF is committed to ensuring civil discussions and expects participants to treat each other with respect. NSF does not discriminate against any views, but platform administrators will monitor content and reserve the right to remove, without prior warning, any of the following:
+For everyone to feel welcome, NSF is committed to ensuring civil discussions and expects participants to treat each other with respect. NSF does not discriminate against any views. Platform administrators will monitor content and reserve the right to remove, without prior warning, any of the following:
 * Comments that contain abusive, vulgar, offensive, threatening or harassing language, personal attacks of any kind, unsupported accusations, defamatory language or offensive terms that target specific individuals or groups.
-* Comments that reveal personally identifiable information (PII). PII is a term used by the government to refer to information that can be tied to an individual's identity. Examples include your name, Social Security number, address and phone number. We are committed to protecting privacy.
-* Comments about research proposals, and other proposal-related communications that are privileged, personal, proprietary, confidential, or otherwise not for public disclosure.
-* Spam and comments that are clearly "off topic." Gratuitous links to websites that are not relevant to discussions are viewed as spam and will result in the comment being removed.
-* Advertising, solicitations, commercial endorsements, comments that promote services or products, and comments that involve political campaigning or lobbying.
-* Content that you do not have the right to post. NSF is committed to protecting intellectual property rights and will follow a notice and takedown procedure for complaints of copyright violation under the Digital Millennium Copyright Act.
+*	Comments that reveal personally identifiable information (PII). PII is a term used by the government to refer to information that can be tied to an individual's identity. Examples include your name, Social Security number, address and phone number. 
+*	Comments about research proposals, and other proposal-related communications that are privileged, personal, proprietary, confidential, or otherwise not for public disclosure.
+*	Spam and comments that are clearly "off topic." Gratuitous links to websites that are not relevant to discussions are viewed as spam and will result in the comment being removed.
+*	Advertising, solicitations, commercial endorsements, comments that promote services or products, and comments that involve political campaigning or lobbying.
+*	Content that you do not have the right to post. NSF is committed to protecting intellectual property rights and will follow a notice and takedown procedure for complaints of copyright violation under the Digital Millennium Copyright Act.
+
 
 If material provided by a user contains violations of these rules, an administrator will remove the comment in its entirety.
 
