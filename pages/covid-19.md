@@ -1,6 +1,6 @@
 ---
 title: Covid-19
-permalink: /fastlane/definitions/
+permalink: /covid-19/
 layout: secondary-narrow
 ---
 
