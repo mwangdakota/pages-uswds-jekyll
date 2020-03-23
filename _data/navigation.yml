@@ -49,7 +49,7 @@ fastlane:
   - text: Definitions
     href: /fastlane/definitions/
   - text: COVID-19 Proposal Instructions
-    href: /fastlane/covid-19/    
+    href: /fastlane/covid-19-proposal-instructions/    
 
 review:
   - text: Review process
