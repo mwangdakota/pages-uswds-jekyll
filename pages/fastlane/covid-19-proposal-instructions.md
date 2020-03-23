@@ -1,6 +1,6 @@
 ---
 title: COVID-19 Proposal Instructions
-permalink: /fastlane/rapid/
+permalink: /fastlane/covid-19-proposal-instructions/
 layout: secondary-narrow
 sidenav: fastlane
 ---
