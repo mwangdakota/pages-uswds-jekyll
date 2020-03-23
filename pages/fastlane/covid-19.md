@@ -1,11 +1,9 @@
 ---
-title: Rapid Awards
+title: COVID-19 Proposal Instructions
 permalink: /fastlane/rapid/
 layout: secondary-narrow
 sidenav: fastlane
 ---
-
-# COVID-19 Proposal Instructions
 
 Read the full “Dear Colleague Letter: Request for SBIR/STTR Phase I Proposals Addressing COVID-19” 
 
