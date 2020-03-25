@@ -21,6 +21,6 @@ Companies that receive an invitation to submit a proposal (based on an invited C
 * The term “COVID-19” must be in the proposal title.
 * Small businesses are encouraged to facilitate an expedited submission and review by submitting a nine-page project description (closer to the nine-page solicitation minimum - the maximum is fifteen pages).
 
-As is the case for all NSF proposers, the proposing organization is required to have an active registration with the [System for Award Management (at SAM.gov)]({{site.baseurl}}/fastlane/registrations/) to register in [Research.gov](({{site.baseurl}}/fastlane/registrations/)) and prepare a full proposal. SAM.gov registration is not needed to submit a Project Pitch but can take days or weeks to obtain. Interested small business should plan accordingly.
+As is the case for all NSF proposers, the proposing organization is required to have an active registration with the [System for Award Management (at SAM.gov)]({{site.baseurl}}/fastlane/registrations/) to register in [Research.gov]({{site.baseurl}}/fastlane/registrations/) and prepare a full proposal. SAM.gov registration is not needed to submit a Project Pitch but can take days or weeks to obtain. Interested small business should plan accordingly.
 
 [Prev]({{ site.baseurl }}/fastlane/definitions/)
