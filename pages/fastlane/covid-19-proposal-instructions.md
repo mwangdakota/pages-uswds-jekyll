@@ -9,7 +9,7 @@ sidenav: fastlane
 
 Read the full [“Dear Colleague Letter: Request for SBIR/STTR Phase I Proposals Addressing COVID-19](https://www.nsf.gov)” 
 
-Small businesses who are interested in submitting NSF SBIR or STTR Phase I proposals in response to this DCL must follow the guidelines outlined in the NSF SBIR and STTR Phase I solicitations (see here for details), including the submission of a required Project Pitch. Companies who already have an active SBIR/STTR award with NSF may submit a new Phase I proposal relevant to this DCL but must also submit a Project Pitch first.
+Small businesses who are interested in submitting NSF SBIR or STTR Phase I proposals in response to this DCL must follow the guidelines outlined in the NSF SBIR and STTR Phase I solicitations ([see here for details]({{site.baseurl}}/fastlane/fastlane/)), including the submission of a required Project Pitch. Companies who already have an active SBIR/STTR award with NSF may submit a new Phase I proposal relevant to this DCL but must also submit a Project Pitch first.
 
 When submitting a Project Pitch:
 
@@ -21,6 +21,6 @@ Companies that receive an invitation to submit a proposal (based on an invited C
 * The term “COVID-19” must be in the proposal title.
 * Small businesses are encouraged to facilitate an expedited submission and review by submitting a nine-page project description (closer to the nine-page solicitation minimum - the maximum is fifteen pages).
 
-As is the case for all NSF proposers, the proposing organization is required to have an active registration with the System for Award Management (at SAM.gov) to register in Research.gov and prepare a full proposal. SAM.gov registration is not needed to submit a Project Pitch but can take days or weeks to obtain. Interested small business should plan accordingly.
+As is the case for all NSF proposers, the proposing organization is required to have an active registration with the [System for Award Management (at SAM.gov)]({{site.baseurl}}/fastlane/registrations/) to register in [Research.gov](({{site.baseurl}}/fastlane/registrations/)) and prepare a full proposal. SAM.gov registration is not needed to submit a Project Pitch but can take days or weeks to obtain. Interested small business should plan accordingly.
 
 [Prev]({{ site.baseurl }}/fastlane/definitions/)
