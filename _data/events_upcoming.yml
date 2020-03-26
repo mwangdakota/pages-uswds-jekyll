@@ -1,16 +1,10 @@
 ---
-- eventName: Biological Technologies
-  description: Focus on the translation of a wide range of technological areas to advance engineering and science innovation across the biological spectrum. Biological technologies have disrupted decades-old chemical, agricultural, and medical products and services, producing a new bioeconomy.
+- eventName: NSF Funding for COVID-19 R&D for Small Businesses
+  description: Learn about a new funding opportunity to develop new technologies, products, processes, and services with the potential to impact the nation’s and world’s ability to respond to the COVID-19 crisis.
   eventType: Webinar
-  date: 16 Mar 2020 
+  date: 31 Mar 2020 
   time: 2:00 - 3:00 PM ET 
-  registrationLink: https://nsf2.webex.com/nsf2/onstage/g.php?MTID=e413ff1162c0c997fe16b6bf2acf7cd79
-- eventName: Cybersecurity
-  description: Focusing on the translation of technology to advance cybersecurity, security and authentication to address issues in an increasingly networked, distributed, and asynchronous world. Cybersecurity involves hardware, software, networks, data, people and integration with the physical world
-  eventType: Webinar
-  date: 19 Mar 2020 
-  time: 2:00 - 3:00 PM ET 
-  registrationLink: https://nsf2.webex.com/nsf2/onstage/g.php?MTID=e7fb355c2d57f211fceca2277307e4c54
+  registrationLink: https://nsf2.webex.com/nsf2/onstage/g.php?MTID=ee26cd909798ba878bc81b15f1066c91d 
 - eventName: How to Start Your Project Pitch
   description: 
   eventType: Webinar
