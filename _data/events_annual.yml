@@ -24,26 +24,18 @@
       desc: NSF staff introduces investors and startups to the program.
 - month: Apr
   events:
-    - eventname: Techstars Startup Week Portland 
+    - eventname: Techstars Startup Week Portland  (postponed)
       href: https://portland.startupweek.co/
-    - eventname: SBIR Road Tour
-      href: http://www.sbirroadtour.com/
-      desc: NSF program directors join other funding agencies on a bus tour to speak about funding opportunities.
+    - eventname: MIT Energy Conference Webinar
+      href: https://www.mitenergyconference.org/      
 - month: May
-  events:
-    - eventname: MIT Energy Conference
-      href: https://www.mitenergyconference.org/  
-    - eventname: ACA Summit
+  events:  
+    - eventname: ACA Summit Webinar (canceled)
       href: https://events.angelcapitalassociation.org/2020summit
-    - eventname: Yale Innovation Summit 
-      href: http://yaleinnovationsummit.com/sbir-sttr-networking/
 - month: Jun
   events:
     - eventname: BIO International Convention
       href: https://www.bio.org/events/bio-international-convention
-    - eventname: SBIR Road Tour
-      href: http://www.sbirroadtour.com/
-      desc: NSF program directors join other funding agencies on a bus tour to speak about funding opportunities. 
     - eventname: Techstars Startup Week Detroit 
       href: http://detroitstartupweek.com/
     - eventname: SBIR/STTR Spring Innovation Conference
@@ -63,12 +55,17 @@
   events:
     - eventname: TechCrunch Disrupt
       href: https://techcrunch.com/events/disrupt-sf-2020/
-- month: Oct
-- month: Nov
-  events:
-    - eventname: SBIR Road Tour
+    - eventname: SBIR Road Tour: Raleigh/Durham, NC
       href: http://www.sbirroadtour.com/
       desc: NSF program directors join other funding agencies on a bus tour to speak about funding opportunities.
+    - eventname: SBIR Road Tour: Columbia, SC
+      href: http://www.sbirroadtour.com/
+      desc: NSF program directors join other funding agencies on a bus tour to speak about funding opportunities. 
+    - eventname: SBIR Road Tour: Athens, GA
+      href: http://www.sbirroadtour.com/
+      desc: NSF program directors join other funding agencies on a bus tour to speak about funding opportunities.       
+- month: Oct
+- month: Nov
 - month: Dec
   events:
 
