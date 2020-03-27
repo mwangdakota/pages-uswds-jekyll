@@ -16,26 +16,29 @@
       desc: Find NSF staff to learn about funding opportunities.
 - month: Mar
   events:
-    - eventname: SXSW (postponed)
+    - eventname: SXSW (canceled)
       href: https://www.sxsw.com/
       desc: Find NSF staff to learn about funding opportunities.
-    - eventname: Venture Summit West
-      href: https://youngstartup.com/VSWest/
-      desc: NSF staff introduces investors and startups to the program.
 - month: Apr
   events:
     - eventname: Techstars Startup Week Portland (postponed)
       href: https://portland.startupweek.co/
-    - eventname: MIT Energy Conference Webinar
+    - eventname: MIT Energy Conference (online)
       href: https://www.mitenergyconference.org/      
 - month: May
   events:
-    - eventname: ACA Summit Webinar
+    - eventname: ACA Summit (online)
       href: https://events.angelcapitalassociation.org/2020summit
+    - eventname: Venture Summit West (online)
+      href: https://youngstartup.com/VSWest/
+      desc: NSF staff introduces investors and startups to the program.
 - month: Jun
   events:
     - eventname: BIO International Convention
       href: https://www.bio.org/events/bio-international-convention
+    - eventname: SBIR Road Tour 
+      href: http://www.sbirroadtour.com/
+      desc: NSF program directors speak about funding opportunities in Nebraska, Missouri, Illinois and Indiana.
     - eventname: Techstars Startup Week Detroit 
       href: http://detroitstartupweek.com/
     - eventname: SBIR/STTR Spring Innovation Conference
@@ -47,22 +50,28 @@
       href: https://www.youngstartup.com/events.php
       desc: NSF staff introduces investors and startups to the program.    
 - month: Aug
+  events:
+    - eventname: SBIR Road Tour 
+      href: http://www.sbirroadtour.com/
+      desc: NSF program directors speak about funding opportunities in Montana, Idaho, Utah and Wyoming.
+    - eventname: NSBE 
+      href: http://convention.nsbe.org/
 - month: Sep
   events:
     - eventname: TechCrunch Disrupt
       href: https://techcrunch.com/events/disrupt-sf-2020/
-    - eventname: SBIR Road Tour (Raleigh/Durham, NC)
+    - eventname: SBIR Road Tour
       href: http://www.sbirroadtour.com/
-      desc: NSF program directors join other funding agencies on a bus tour to speak about funding opportunities.
-    - eventname: SBIR Road Tour (Columbia, SC)
-      href: http://www.sbirroadtour.com/
-      desc: NSF program directors join other funding agencies on a bus tour to speak about funding opportunities. 
-    - eventname: SBIR Road Tour (Athens, GA)
-      href: http://www.sbirroadtour.com/
-      desc: NSF program directors join other funding agencies on a bus tour to speak about funding opportunities.       
+      desc: NSF program directors speak about funding opportunities in North Carolina, South Carolina and Georgia.
 - month: Oct
 - month: Nov
+  events:
+    - eventname: SBIR Road Tour 
+      href: http://www.sbirroadtour.com/
+      desc: NSF program directors speak about funding opportunities in Mississippi, Louisiana, Texas, Oklahoma and Arkansas.
 - month: Dec
   events:
-
+   - eventname: SBIR Road Tour 
+      href: http://www.sbirroadtour.com/
+      desc: NSF program directors speak about funding opportunities in Virginia.
 ---
