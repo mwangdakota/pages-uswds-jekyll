@@ -71,7 +71,7 @@
       desc: NSF program directors speak about funding opportunities in Mississippi, Louisiana, Texas, Oklahoma and Arkansas.
 - month: Dec
   events:
-   - eventname: SBIR Road Tour 
+    - eventname: SBIR Road Tour 
       href: http://www.sbirroadtour.com/
       desc: NSF program directors speak about funding opportunities in Virginia.
 ---
