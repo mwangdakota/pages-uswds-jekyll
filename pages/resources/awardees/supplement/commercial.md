@@ -19,8 +19,7 @@ sidenav: phase-2
     - **Deadline**: Within 18 months of the effective start date of Phase II award
     - [More information](https://www.nsf.gov/pubs/2013/nsf13132/nsf13132.jsp)
     - [Proposal / Budget submission instructions]({{ site.baseurl }}/resources/awardees/phase-2/instructions/)
-3. **Technical and Business Assistance (TABA) supplement **
-    
+3. Technical and Business Assistance (TABA) supplement  <br/>
     TABA supplemental funding enables the awardee business to secure the services of one or more third-party service providers that will assist with one or more of the following commercialization activities:
     - the identification and development of customers for the NSF-funded technology;
     - providing advice on financing strategy and fundraising from the private sector;
