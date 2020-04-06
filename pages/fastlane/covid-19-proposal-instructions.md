@@ -9,6 +9,8 @@ sidenav: fastlane
 
 Read the full [“Dear Colleague Letter: Request for SBIR/STTR Phase I Proposals Addressing COVID-19](https://www.nsf.gov/pubs/2020/nsf20065/nsf20065.jsp)” 
 
+<iframe sandbox="allow-same-origin allow-scripts" title="Funding for COVID Webinar" width="300" height="100%" src="https://www.youtube.com/embed/W87WcFd7jmc" frameborder="0" allowfullscreen></iframe><br>
+
 Small businesses who are interested in submitting NSF SBIR or STTR Phase I proposals in response to this DCL must follow the guidelines outlined in the NSF SBIR and STTR Phase I solicitations ([see here for submission details]({{site.baseurl}}/fastlane/)), including the submission of a required Project Pitch. Companies who already have an active SBIR/STTR award with NSF may submit a new Phase I proposal relevant to this DCL but must also submit a Project Pitch first.
 
 When submitting a Project Pitch:
