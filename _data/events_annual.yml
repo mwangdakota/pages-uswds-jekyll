@@ -41,9 +41,6 @@
       desc: NSF program directors speak about funding opportunities in Nebraska, Missouri, Illinois and Indiana.
     - eventname: Techstars Startup Week Detroit 
       href: http://detroitstartupweek.com/
-    - eventname: SBIR/STTR Spring Innovation Conference
-      href: https://www.techconnectworld.com/World2020/
-      desc: Join NSF and other government agencies with similar programs for the annual conference.
 - month: Jul
   events:
     - eventname: New York Venture Summit
@@ -66,6 +63,9 @@
 - month: Oct
 - month: Nov
   events:
+    - eventname: SBIR/STTR Spring Innovation Conference
+      href: https://www.techconnectworld.com/World2020/
+      desc: Join NSF and other government agencies with similar programs for the annual conference.  
     - eventname: SBIR Road Tour 
       href: http://www.sbirroadtour.com/
       desc: NSF program directors speak about funding opportunities in Mississippi, Louisiana, Texas, Oklahoma and Arkansas.
