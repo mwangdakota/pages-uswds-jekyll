@@ -7,11 +7,11 @@ sidenav: phase-1
 
 # Boot Camp
 
-The NSF “Beat-the-Odds Boot Camp” provides Phase I awardees with entrepreneurial training designed for early-stage companies that draws on methods used in the [NSF I-Corps™](https://www.nsf.gov/news/special_reports/i-corps/) program and uses curriculum based on Steve Blank’s [customer discovery process](https://steveblank.com/2014/06/28/customer-discovery-the-search-for-productmarket-fit-2-minutes-to-see-why/).
+The NSF SBIR “Beat-the-Odds Boot Camp” provides Phase I awardees with entrepreneurial training designed for early-stage companies that draws on methods used in the [NSF I-Corps™](https://www.nsf.gov/news/special_reports/i-corps/) Program and uses curriculum based on Steve Blank’s [customer discovery process](https://steveblank.com/2014/06/28/customer-discovery-the-search-for-productmarket-fit-2-minutes-to-see-why/).
 
-Taught by I-Corps instructors, the Boot Camp provides an immersive experience that pushes companies to develop stronger business models, market strategies, and successful products. The main goal is to provide early-stage companies with an introduction, or refresher, in customer discovery and business model validation. 
+Taught by National I-Corps instructors, the Boot Camp provides an immersive experience that pushes companies to develop stronger business models, market strategies, and successful products. The main goal is to provide early-stage companies with an introduction, or refresher, in customer discovery and business model validation. 
 
-The Boot Camp is run twice per year - starting in mid-January and again in mid-July – and lasts about two months, requiring about 10-20 hours per week from the participating team. At the end of the program, companies will understand how to verify product market fit and other business model elements.
+The Boot Camp is held in a virtual format four times per year and lasts about two months, requiring about 10-20 hours per week from the participating team. At the end of the program, companies will understand how to verify product market fit and other business model elements.
 
 ## Boot Camp Preparation
 
@@ -21,16 +21,28 @@ The Boot Camp is run twice per year - starting in mid-January and again in mid-J
 - View customer discovery interviews ([http://venturewell.org/i-corps/llpvideos](http://venturewell.org/i-corps/llpvideos)), specifically those found under these sections: Before Leaving the Building, Outside the Building, Understanding What the Customer is Telling You, Back in the Building.
 - Identify a minimum of 30 prospective customers to interview.
 
-## Boot Camp Office Hours
+## Boot Camp Format and Schedule
 
-Each team will be paired with an I-Corps Instructor and will meet for three 20-minute office hour sessions. 
+The I-Corps Virtual SBIR Beat-the-Odds Boot Camp will be offered quarterly.  Company teams will be organized into Pods (small groups of approximately 6-8 company teams per instructor). The eight-week program will consist of a Kick-off Lecture for all teams, three seminar-style sessions (bi-weekly) in their Pod, three office hour sessions (bi-weekly) one-on-one with their Pod instructor, and Final Lessons Learned Presentations grouped by program director. See detailed schedules and dates below.
 
-## Culmination
+*SBIR Boot Camp Kick-off Meeting* - 2 hour Introduction (all participants in lecture-style meeting)
 
-Each team will present their “Lessons Learned” at the Beat-the-Odds Boot Camp event the day before the Phase I Grantees Workshop. NSF I-Corps instructors will critique your work and provide feedback about your business modelssions. 
+*Week 1* –  Office Hours (company teams meet with their Pod instructors one-on-one)
+
+*Week 2* –  1st Pod Meetings (a Pod consists of an instructor and six to eight companies) Meeting times for each Pod will be provided.
+
+*Week 3* –  Office Hours Only
+
+*Week 4*  –  2nd Pod Meetings (meeting times for each Pod will be provided).
+
+*Week 5* - Office Hours Only
+
+*Week 6* –3rd Pod Meetings (meeting times for each Pod will be provided).
+
+*Lessons Learned Presentation* – All day virtual event where each company gives a presentation that combines Pods by program director and instructors provide final comments to each company team. The program directors will attend this event.
 
 ## Budget Preparation
 
-Phase I applicants may budget up to $20,000 of their Phase I award funds to cover costs for the NSF’s “Beat-the-Odds Boot Camp.” Refer  to the budget preparation instructions in the solicitation or the [FastLane Guide](https://federalist-proxy.app.cloud.gov/preview/18f/nsf-sbir/BootCamp/fastlane/form-prep-2/) for more information.
+Phase I applicants may budget up to $20,000 of their Phase I award funds to cover costs for the NSF’s “Beat-the-Odds Boot Camp.” Funds budgeted from Direct Costs for participation may be used to purchase tools for virtual customer discover (e.g., Zoom Meeting; LinkedIn Premium Membership), attend virtual conferences, support travel in the US (including conference fees) when the travel and meeting restrictions are lifted, and to support time and effort for working on Boot Camp activities.  Refer to the budget preparation instructions in the solicitation or the [FastLane Guide](https://federalist-proxy.app.cloud.gov/preview/18f/nsf-sbir/BootCamp/fastlane/form-prep-2/) for more information.
 
-Phase I awardees that participate in NSF’s “Beat-the-Odds Boot Camp” may reallocate up to $20,000 of their Phase I award funds to cover costs that were incurred as a result of participation in the Boot Camp. Please contact your program director and [click here](https://federalist-proxy.app.cloud.gov/preview/18f/nsf-sbir/BootCamp/resources/awardees/phase-1/revised-budget/) to learn more about revising a budget. 
+Phase I awardees that participate in NSF’s “Beat-the-Odds Boot Camp” may reallocate up to $20,000 of their Phase I award funds to cover costs that were incurred as a result of participation in the Boot Camp. Please contact your program director and [read more](https://federalist-proxy.app.cloud.gov/preview/18f/nsf-sbir/BootCamp/resources/awardees/phase-1/revised-budget/) about revising a budget. 
