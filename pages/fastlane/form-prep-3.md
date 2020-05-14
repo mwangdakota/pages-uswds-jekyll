@@ -69,7 +69,7 @@ Click the radio button beside the appropriate person's name and then click **"Ne
 Fill in all the required information, click **"Save Text"** and then **"Go Back"** until you return to the "Form Preparation" screen.
 ![Current and Pending Support form creation screen]({{ site.baseurl }}/assets/img/fastlane/38-current-and-pending-support2.jpg)
 
-Follow the instructions on the below screen, then click **"Upload File"** to [upload the document]({{site.baseurl}}/assets/files/applicants/biosketch.pdf). Click **"Go Back"** until you return to the "Form Preparation" screen.
+Follow the instructions on the below screen, then click **"Upload File"** to [upload the document]({{site.baseurl}}/assets/files/applicants/Current.and.Pending.Support.Form.pdf). Click **"Go Back"** until you return to the "Form Preparation" screen.
 ![Current and Pending Support Upload screen]({{ site.baseurl }}/assets/img/fastlane/cpSupportUpload.png)
 
 
