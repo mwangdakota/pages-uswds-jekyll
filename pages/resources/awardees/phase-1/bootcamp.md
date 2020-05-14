@@ -23,7 +23,7 @@ The Boot Camp is held in a virtual format four times per year and lasts about tw
 
 ## Boot Camp Format and Schedule
 
-The I-Corps Virtual SBIR Beat-the-Odds Boot Camp will be offered quarterly.  Company teams will be organized into Pods (small groups of approximately 6-8 company teams per instructor). The eight-week program will consist of a Kick-off Lecture for all teams, three seminar-style sessions (bi-weekly) in their Pod, three office hour sessions (bi-weekly) one-on-one with their Pod instructor, and Final Lessons Learned Presentations grouped by program director. See detailed schedules and dates below.
+The I-Corps Virtual SBIR Beat-the-Odds Boot Camp will be offered quarterly.  Company teams will be organized into Pods (small groups of approximately 6-8 company teams per instructor). The eight-week program will consist of a Kick-off Lecture for all teams, three seminar-style sessions (bi-weekly) in their Pod, three office hour sessions (bi-weekly) one-on-one with their Pod instructor, and Final Lessons Learned Presentations grouped by program director.
 
 *SBIR Boot Camp Kick-off Meeting* - 2 hour Introduction (all participants in lecture-style meeting)
 
