@@ -38,7 +38,7 @@ On the **Proposal Functions** screen, click **"Proposal Preparation"**
 
 On the **Principal Investigator (PI) Information** screen, check the PI information for accuracy. You may choose to update or edit the PI information by selecting the **"Edit PI Information"** button. You cannot change the PI here. Once finished, click the **"Prepare Proposal"** button.
 
-[PI information]({{ site.baseurl }}/assets/img/fastlane/4-PI-information.jpg)
+![PI information]({{ site.baseurl }}/assets/img/fastlane/4-PI-information.jpg)
 
 Once you select to prepare your proposal, the "Proposal Actions" screen appears.
 
