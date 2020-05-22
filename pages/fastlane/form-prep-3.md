@@ -55,7 +55,7 @@ Click **"Go"** beside the appropriate person's name to upload their biographical
 ![List of personnel assigned to proposal]({{ site.baseurl }}/assets/img/fastlane/35-bio-sketch.jpg)
 Type/Upload the "Biographical Sketch" in the below text box. When this section is completed, click **"Go Back"** to return to the "Form Preparation" screen.
 
-NSF is providing **[a fillable PDF for use in preparation of the biographical sketch](({{site.baseurl}}/assets/files/applicants/biosketch.pdf))**.  You can download it from this page, complete the form, and upload it as part of your proposal via FastLane. (If you elect to add resumes as supplementary documents, please remember to add “NA” to every field in this PDF and upload it as it is required for submission.
+NSF is providing **[a fillable PDF for use in preparation of the biographical sketch]({{site.baseurl}}/assets/files/applicants/biosketch.pdf)**.  You can download it from this page, complete the form, and upload it as part of your proposal via FastLane. (If you elect to add resumes as supplementary documents, please remember to add “NA” to every field in this PDF and upload it as it is required for submission.
 
 Follow the instructions on the below screen, then click **"Upload File"** to [upload document]({{site.baseurl}}/assets/files/applicants/biosketch.pdf). Click **"Go Back"** until you return to the "Form Preparation" screen.
 
