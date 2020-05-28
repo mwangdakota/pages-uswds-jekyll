@@ -19,7 +19,7 @@ hero:
 </head>
 <section class="usa-section usa-content  background-gray-dark" style="padding-top:2rem; padding-bottom: 0rem;">
 <div class="usa-grid">
-<h2 class="text-medium" style="color:#fff;"><strong>Accepting Proposals Addressing COVID-19 – <a style="color:#fff039;" href="https://www.nsf.gov/pubs/2020/nsf20065/nsf20065.jsp">Learn more</a></strong></h2><br>
+<h2 class="text-medium" style="color:#fff;"><strong>Submit a Project Pitch NOW and find out if your project is a good fit.</strong></h2><br>
 </div>
 </section>
 <section class="usa-section usa-content section-intro background-light-neutral">
