@@ -61,7 +61,7 @@ You'll work with a program director, who will serve as your mentor and advocate.
 
 - **Feedback from experts**: Every proposal is evaluated by a group of technical and commercial experts, who provide detailed feedback to all reviewed applications; even companies that don't receive awards get valuable, actionable feedback.
 
-- **NSF's stamp of approval**: An NSF award is more than just funding. Being selected out of thousands of applicants signals that your technology and expertise have strong technical and commercial merit.
+- **NSF’s Merit Review Process**: An NSF award is more than just funding. Being selected by experts out of thousands of applicants signals that your technology and expertise have strong technical and commercial merit.
 
 - **0% equity**: You retain full ownership over your company and intellectual property. And because our awards aren’t loans, there’s nothing to pay back.
 
