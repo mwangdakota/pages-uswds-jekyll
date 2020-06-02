@@ -72,9 +72,6 @@ Use the NSF Current & Pending Support form provided by FastLane. A form must be 
 Click the radio button beside the appropriate person's name and then click **"New Form"** to upload their Current & Pending Support.
 ![Current and Pending Support table for existing forms and option to add new ones]({{ site.baseurl }}/assets/img/fastlane/37-current-and-pending-support.jpg)
 
-Fill in all the required information, click **"Save Text"** and then **"Go Back"** until you return to the "Form Preparation" screen.
-![Current and Pending Support form creation screen]({{ site.baseurl }}/assets/img/fastlane/38-current-and-pending-support2.jpg)
-
 Follow the instructions on the below screen, then click **"Upload File"** to [upload the document]({{site.baseurl}}/assets/files/applicants/Current.and.Pending.Support.Form.pdf). Click **"Go Back"** until you return to the "Form Preparation" screen.
 ![Current and Pending Support Upload screen]({{ site.baseurl }}/assets/img/fastlane/cpSupportUpload.png)
 
