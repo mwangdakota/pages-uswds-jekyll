@@ -12,7 +12,7 @@ layout: secondary
 
 ## Upcoming
 
-We regularly host virtual office hours for startups and small businesses to learn about the application process and what we look for when we review proposals. Can’t make it to office hours? Watch a [recorded webinar](https://youtu.be/nBJsCt28ip0) about the Project Pitch Pilot or a [recorded webinar](https://youtu.be/kpK24Uqto14) about How to Apply.
+We regularly host virtual office hours for startups and small businesses to learn about the application process and what we look for when we review proposals. Can’t make it to office hours? Watch a [recorded webinar](https://youtu.be/oVhWWydWWc4) about the Project Pitch Pilot or a [recorded webinar](https://youtu.be/jsWEvht0s6Y) about How to Apply.
 
 <!-- {% include events-table.html %} -->
 
