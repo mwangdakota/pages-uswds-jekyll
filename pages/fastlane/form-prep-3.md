@@ -66,7 +66,7 @@ Follow the instructions on the below screen, then click **"Upload File"** to upl
 
 Use the NSF Current & Pending Support form provided by FastLane. A form must be submitted for the PI (and co-PI for STTR) as well as any senior personnel.
 
-You must upload the Current and Pending Support template provided by NSF. (Effective Oct. 5, 2020, FastLane will not allow you to submit your proposal without the NSF-approved Current and Pending Support document).
+<span style="font-weight:bold; color:red;">You must upload the Current and Pending Support template provided by NSF. (Effective Oct. 5, 2020, FastLane will not allow you to submit your proposal without the NSF-approved Current and Pending Support document).</span>
 
 **NSF considers the Phase I proposal being submitted as "Pending Support". Therefore, ALL proposals to NSF must have at least one entry in the "Current & Pending Support" form for the PI and senior personnel (this proposal).**  
 ![Main screen with Current and Pending Support highlighted]({{ site.baseurl }}/assets/img/fastlane/Sep-support.png)
