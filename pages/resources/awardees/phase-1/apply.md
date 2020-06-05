@@ -31,7 +31,7 @@ Read the STTR Phase II Solicitation</a>
 
 - A company may submit a Phase II proposal anytime between six (6) months and two years (24 months) after the start date of the relevant Phase I award. The start date can be found on your Phase I award letter. 
 - There are quarterly windows for submission of a Phase II proposal. The next submission date is **{{ site.next_deadline }}**.<br><br>
-Subsequent submission window closing dates are as follows:<br>
+Submission window dates for 2020 are as follows:<br>
 **{{ site.solicitation_window_2 }}<br>
 {{ site.solicitation_window_3 }}<br>
 {{ site.solicitation_window_4 }}<br>**
