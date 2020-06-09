@@ -54,7 +54,6 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <p class="text-medium">
 Learn about our Phase I application timeline, how to prepare your Project Pitch, and what to expect once you submit your Project Pitch or full proposal.
 {% if site.app_process == "inactive" %}
-After a brief pause, new Phase I SBIR and STTR solicitations are expected in the coming weeks.
 {% endif %}
 </p>
 
