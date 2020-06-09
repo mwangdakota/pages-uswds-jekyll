@@ -7,7 +7,7 @@ sidenav: fastlane
 
 # COVID-19 Proposal Instructions
 
-NSF archived the Dear Colleague Letter (DCL) on the “Request for SBIR/STTR Phase I Proposals Addressing COVID-19” (NSF 20-065). 
+NSF archived the Dear Colleague Letter (DCL) on the “Request for SBIR/STTR Phase I Proposals Addressing COVID-19” (NSF 20-065). For more information, please read our [Frequently Asked Questions](https://www.nsf.gov/pubs/2020/nsf20093/nsf20093.jsp).
 
 The NSF Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) program continues to encourage small businesses to submit a Project Pitch for research and development related to COVID-19. Please choose from the existing NSF technology topic areas and include a description about how the proposed technology will make an impact on the current crisis. NSF remains open to small business inquiries concerning COVID-19 research.
 
