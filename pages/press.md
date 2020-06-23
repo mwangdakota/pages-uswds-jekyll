@@ -40,7 +40,7 @@ If you have suggestions, we’d love to hear them — share your feedback [via e
 
 [NSF newsroom](https://www.nsf.gov/news/newsroom.jsp): Our newsroom features news releases, media advisories, photo galleries, and other resources for the news media. Subscribe to [NSF news alerts](https://nsf.gov/news/) and see a list of all [NSF social media](https://www.nsf.gov/social/) accounts.
 
-[Bio: France A. Córdova](https://www.nsf.gov/news/speeches/cordova/cordova_bio.jsp): The official bio of France A. Córdova, NSF's 14th director.
+[Bio: Sethuraman Panchanathan](https://nsf.gov/staff/staff_bio.jsp?lan=spanchan&org=EF&from_org=EF): The official bio of Sethuraman Panchanathan, NSF's 15th director.
 
 [Bio: Andrea Belz](https://seedfund.nsf.gov/contact/bios/#Andrea%20Belz): The official bio of Andrea Belz, the Division Director of the Division of Industrial Innovation and Partnerships, home of America's Seed Fund powered by NSF.
 
