@@ -19,6 +19,57 @@ We’re not interested in innovation for innovation’s sake — we back technol
 <div class="usa-content usa-grid">
 
 <div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="KelaHealth" width="100%" height="300" src="https://www.youtube.com/embed/w6oYYZFhzeE" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe>
+</div>
+
+<div class="usa-content usa-width-one-half" markdown="1">
+
+### Improving surgical outcomes with machine learning
+
+KelaHealth, a small business funded by the National Science Foundation (NSF), combines a patient’s data and machine learning to reduce surgical risks.
+
+KelaHealth’s platform reduces surgical complications by up to 41 percent by using patient data and predictive algorithms to create “tailored risk profiles” for patients before surgery. The company analyzes millions of data points to inform each patient's comprehensive risk profile and recommends the best interventions to mitigate those risks.
+Kela Health is supported by America’s Seed Fund powered by the NSF, a $200 million per year program that awards research and development grants to small businesses and startups, transforming scientific discovery into products and services with commercial and societal impact. 
+
+To learn more visit: [https://www.kelahealth.com/](https://www.kelahealth.com/).
+
+</div>
+
+</div>
+</section>
+
+<section class="usa-section showcase-content background-gray-dark">
+<div class="usa-content usa-grid">
+
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="KelaHealth" width="100%" height="300" src="https://www.youtube.com/embed/L-wLMGI6v9M" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe>
+</div>
+
+<div class="usa-content usa-width-one-half" markdown="1">
+
+### Transforming waste carbon dioxide into useful products
+
+Opus 12, a small business funded by the National Science Foundation (NSF), created a device that recycles waste carbon dioxide (CO₂) into chemicals and fuels.
+
+Opus 12 is supported by America’s Seed Fund powered by the NSF, a $200 million per year program that awards research and development grants to small businesses and startups, transforming scientific discovery into products and services with commercial and societal impact. 
+
+To learn more visit: [https://www.opus-12.com/](https://www.opus-12.com/).
+
+</div>
+
+</div>
+</section>
+
+
+
+
+
+
+
+<section class="usa-section showcase-content background-gray-dark">
+<div class="usa-content usa-grid">
+
+<div class="usa-width-one-half">
   <iframe sandbox="allow-same-origin allow-scripts" title="OESH Shoes" width="100%" height="300" src="https://www.youtube.com/embed/jvnyzUogCZo" frameborder="0" allowfullscreen></iframe>
 </div>
 
