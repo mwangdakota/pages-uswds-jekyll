@@ -18,10 +18,6 @@ We’re not interested in innovation for innovation’s sake — we back technol
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
 
-<div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="KelaHealth" width="100%" height="300" src="https://www.youtube.com/embed/w6oYYZFhzeE" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe>
-</div>
-
 <div class="usa-content usa-width-one-half" markdown="1">
 
 ### Improving surgical outcomes with machine learning
@@ -35,11 +31,19 @@ To learn more visit: [https://www.kelahealth.com/](https://www.kelahealth.com/).
 
 </div>
 
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="KelaHealth" width="100%" height="300" src="https://www.youtube.com/embed/w6oYYZFhzeE" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe>
+</div>
+
 </div>
 </section>
 
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
+  
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Opus12" width="100%" height="300" src="https://www.youtube.com/embed/L-wLMGI6v9M" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe>
+</div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
 
@@ -53,19 +57,12 @@ To learn more visit: [https://www.opus-12.com/](https://www.opus-12.com/).
 
 </div>
 
-<div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="Opus12" width="100%" height="300" src="https://www.youtube.com/embed/L-wLMGI6v9M" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe>
-</div>
 </div>
 </section>
 
 
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
-
-<div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="Kinetic" width="100%" height="300" src="https://www.youtube.com/embed/1UAXId9owiY" frameborder="0" allowfullscreen></iframe>
-</div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
 
@@ -81,12 +78,20 @@ To learn more visit: [https://www.wearkinetic.com/](https://www.wearkinetic.com/
 
 </div>
 
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Kinetic" width="100%" height="300" src="https://www.youtube.com/embed/1UAXId9owiY" frameborder="0" allowfullscreen></iframe>
+</div>
+
 </div>
 </section>
 
 
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
+
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Diligent Robotics" width="100%" height="300" src="https://www.youtube.com/embed/DRzAudR65tI" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
 
@@ -102,19 +107,11 @@ To learn more visit: [http://betahatch.com/](http://betahatch.com/).
 
 </div>
 
-<div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="Diligent Robotics" width="100%" height="300" src="https://www.youtube.com/embed/DRzAudR65tI" frameborder="0" allowfullscreen></iframe>
-</div>
 </div>
 </section>
 
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
-
-<div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="Vital" width="100%" height="300" src="https://www.youtube.com/embed/iKqpWy_9KSE" frameborder="0" allowfullscreen></iframe>
-</div>
-
 
 <div class="usa-content usa-width-one-half" markdown="1">
 
@@ -130,12 +127,20 @@ To learn more visit: [https://www.vital.education/](https://www.vital.education/
 
 </div>
 
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Vital" width="100%" height="300" src="https://www.youtube.com/embed/iKqpWy_9KSE" frameborder="0" allowfullscreen></iframe>
+</div>
+
 </div>
 </section>
 
 
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
+
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Path Ex" width="100%" height="300" src="https://www.youtube.com/embed/fnv-hdTCSPM" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
 
@@ -151,19 +156,12 @@ To learn more visit: [https://pathex.co/](https://pathex.co/).
 
 </div>
 
-<div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="Path Ex" width="100%" height="300" src="https://www.youtube.com/embed/fnv-hdTCSPM" frameborder="0" allowfullscreen></iframe>
-</div>
 </div>
 </section>
 
 
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
-
-<div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="Spherical Block" width="100%" height="300" src="https://www.youtube.com/embed/LcDj-_89Tcw" frameborder="0" allowfullscreen></iframe>
-</div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
 
@@ -179,12 +177,20 @@ To learn more visit: [http://www.sphericalblock.info/](http://www.sphericalblock
 
 </div>
 
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Spherical Block" width="100%" height="300" src="https://www.youtube.com/embed/LcDj-_89Tcw" frameborder="0" allowfullscreen></iframe>
+</div>
+
 </div>
 </section>
 
 
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
+
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Embr Labs" width="100%" height="300" src="https://www.youtube.com/embed/SlVRqx6w3rQ" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
 
@@ -200,18 +206,11 @@ To learn more visit: [https://dimensionalenergy.com/](https://dimensionalenergy.
 
 </div>
 
-<div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="Embr Labs" width="100%" height="300" src="https://www.youtube.com/embed/SlVRqx6w3rQ" frameborder="0" allowfullscreen></iframe>
-</div>
 </div>
 </section>
 
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
-
-<div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="Ember Labs" width="100%" height="300" src="https://www.youtube.com/embed/BqzF0oIAXUI" frameborder="0" allowfullscreen></iframe>
-</div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
 
@@ -225,6 +224,10 @@ Embr Labs is supported by America’s Seed Fund powered by the NSF, a $200 milli
 
 To learn more visit: [https://embrlabs.com/](https://embrlabs.com/).
 
+</div>
+
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Ember Labs" width="100%" height="300" src="https://www.youtube.com/embed/BqzF0oIAXUI" frameborder="0" allowfullscreen></iframe>
 </div>
 
 </div>
