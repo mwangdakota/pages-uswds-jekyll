@@ -41,10 +41,6 @@ To learn more visit: [https://www.kelahealth.com/](https://www.kelahealth.com/).
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
 
-<div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="KelaHealth" width="100%" height="300" src="https://www.youtube.com/embed/L-wLMGI6v9M" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe>
-</div>
-
 <div class="usa-content usa-width-one-half" markdown="1">
 
 ### Transforming waste carbon dioxide into useful products
@@ -57,6 +53,58 @@ To learn more visit: [https://www.opus-12.com/](https://www.opus-12.com/).
 
 </div>
 
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Opus12" width="100%" height="300" src="https://www.youtube.com/embed/L-wLMGI6v9M" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe>
+</div>
+</div>
+</section>
+
+
+<section class="usa-section showcase-content background-gray-dark">
+<div class="usa-content usa-grid">
+
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Kinetic" width="100%" height="300" src="https://www.youtube.com/embed/1UAXId9owiY" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="usa-content usa-width-one-half" markdown="1">
+
+### Small, wearable device to reduce workplace injuries
+
+Kinetic, a small business funded by the National Science Foundation (NSF), created a small wearable device to reduce common workplace injuries.
+ 
+Kinetic’s device is loaded with sensors that detect motion, twisting, bending and lifting. It is attached to the belt or waistband of construction, factory or delivery workers. If the device detects improper biomechanics – bad posture or lifting stance – it will “buzz” to alert the worker to correct his or her stance and avert common back injuries. It also set daily limits to certain motions to stay healthy and wirelessly connects to other Kinetic devices worn by colleagues, allowing for healthy competition.
+ 
+Kinetic is supported by America’s Seed Fund powered by the NSF, a $200 million per year program that awards research and development grants to small businesses and startups, transforming scientific discovery into products and services with commercial and societal impact.
+
+To learn more visit: [https://www.wearkinetic.com/](https://www.wearkinetic.com/).
+
+</div>
+
+</div>
+</section>
+
+
+<section class="usa-section showcase-content background-gray-dark">
+<div class="usa-content usa-grid">
+
+<div class="usa-content usa-width-one-half" markdown="1">
+
+### Insects as an alternative protein source for animals
+
+Beta Hatch, a small business funded by the National Science Foundation (NSF), is industrializing the production of insects as an alternative protein to feed animals.
+
+Beta Hatch is developing technology to mass-produce mealworms and use their waste as fertilizer. One-third of the crops grown worldwide are used to feed animals, according to Beta Hatch.
+
+Beta Hatch is supported by America’s Seed Fund powered by the NSF, a $200 million per year program that awards research and development grants to small businesses and startups, transforming scientific discovery into products and services with commercial and societal impact. 
+
+To learn more visit: [http://betahatch.com/](http://betahatch.com/).
+
+</div>
+
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Diligent Robotics" width="100%" height="300" src="https://www.youtube.com/embed/DRzAudR65tI" frameborder="0" allowfullscreen></iframe>
+</div>
 </div>
 </section>
 
