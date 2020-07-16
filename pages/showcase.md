@@ -108,9 +108,127 @@ To learn more visit: [http://betahatch.com/](http://betahatch.com/).
 </div>
 </section>
 
+<section class="usa-section showcase-content background-gray-dark">
+<div class="usa-content usa-grid">
+
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Vital" width="100%" height="300" src="https://www.youtube.com/embed/iKqpWy_9KSE" frameborder="0" allowfullscreen></iframe>
+</div>
 
 
+<div class="usa-content usa-width-one-half" markdown="1">
 
+### Accessible, multisensory content for visually impaired students
+
+Vital, a small business funded by the National Science Foundation (NSF), is developing touchscreen-based software that translates visual educational content into accessible, multisensory content for students with special needs.
+
+Software created by Vital is allowing students with visual impairments, autism, dyslexia or ADHD to use their sense of touch to explore content like tables, graphs or maps on a tablet. They feel vibrations and listen for audio cues and text-to-speech to learn visual content mostly in math and science subjects.
+
+Vital is supported by America’s Seed Fund powered by the NSF, a $200 million per year program that awards research and development grants to small businesses and startups, transforming scientific discovery into products and services with commercial and societal impact. 
+
+To learn more visit: [https://www.vital.education/](https://www.vital.education/).
+
+</div>
+
+</div>
+</section>
+
+
+<section class="usa-section showcase-content background-gray-dark">
+<div class="usa-content usa-grid">
+
+<div class="usa-content usa-width-one-half" markdown="1">
+
+### Blood cleansing device removes pathogens
+
+Path Ex, a small business funded by the National Science Foundation (NSF), is developing a device to remove pathogens from blood. 
+
+Path Ex’s device can selectively remove pathogens and treat drug-resistant bacteria and endotoxins from circulating blood, which could be used in the treatment of bacteremia and sepsis. 
+
+Path Ex is supported by America’s Seed Fund powered by the NSF, a $200 million per year program that awards research and development grants to small businesses and startups, transforming scientific discovery into products and services with commercial and societal impact. 
+
+To learn more visit: [https://pathex.co/](https://pathex.co/).
+
+</div>
+
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Path Ex" width="100%" height="300" src="https://www.youtube.com/embed/fnv-hdTCSPM" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+</section>
+
+
+<section class="usa-section showcase-content background-gray-dark">
+<div class="usa-content usa-grid">
+
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Spherical Block" width="100%" height="300" src="https://www.youtube.com/embed/LcDj-_89Tcw" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="usa-content usa-width-one-half" markdown="1">
+
+### Innovative concrete masonry systems
+
+Spherical Block, a small business funded by the National Science Foundation (NSF), is using concreate masonry construction to build affordable efficient homes.
+
+The New York-based company has developed an “innovative masonry system which can be used to build an entire building, including roofs”. With their concreate block manufacturing, Spherical Block can create walls, roofs, arches, windows, domes and spheres. 
+
+Spherical Block is supported by America’s Seed Fund powered by the NSF, a $200 million per year program that awards research and development grants to small businesses and startups, transforming scientific discovery into products and services with commercial and societal impact. 
+
+To learn more visit: [http://www.sphericalblock.info/](http://www.sphericalblock.info/).
+
+</div>
+
+</div>
+</section>
+
+
+<section class="usa-section showcase-content background-gray-dark">
+<div class="usa-content usa-grid">
+
+<div class="usa-content usa-width-one-half" markdown="1">
+
+### Recycling CO2 into fuels
+
+Dimensional Energy, a small business funded by the National Science Foundation (NSF), uses sunlight to convert carbon dioxide (CO2) into energy.
+
+Mimicking photosynthesis, Dimensional Energy’s Hi-Light Reactor uses concentrated sunlight and catalysts to turn CO2 and water into raw materials which could be used to create fuel. 
+
+Dimensional Energy is supported by America’s Seed Fund powered by the NSF, a $200 million per year program that awards research and development grants to small businesses and startups, transforming scientific discovery into products and services with commercial and societal impact. 
+
+To learn more visit: [https://dimensionalenergy.com/](https://dimensionalenergy.com/).
+
+</div>
+
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Embr Labs" width="100%" height="300" src="https://www.youtube.com/embed/SlVRqx6w3rQ" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+</section>
+
+<section class="usa-section showcase-content background-gray-dark">
+<div class="usa-content usa-grid">
+
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Ember Labs" width="100%" height="300" src="https://www.youtube.com/embed/BqzF0oIAXUI" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="usa-content usa-width-one-half" markdown="1">
+
+### A wearable, personal thermostat
+
+Embr Labs, a small business funded by the National Science Foundation (NSF), developed a wearable device to moderate temperature control. 
+
+Americans spend most of their time indoors. By using its wearable device, Embr Labs could ultimately help cut energy consumption and make people more comfortable. The company uses a battery-powered, thermal-electric cooler to create sensations of heating or cooling on a person’s skin. 
+
+Embr Labs is supported by America’s Seed Fund powered by the NSF, a $200 million per year program that awards research and development grants to small businesses and startups, transforming scientific discovery into products and services with commercial and societal impact. 
+
+To learn more visit: [https://embrlabs.com/](https://embrlabs.com/).
+
+</div>
+
+</div>
+</section>
 
 
 
