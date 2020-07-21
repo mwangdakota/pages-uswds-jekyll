@@ -40,7 +40,7 @@ To learn more visit: [https://re3d.org/](https://re3d.org/).
 
 <div class="usa-content usa-width-one-half" markdown="1" style="color:#323A45;">
 
-### Improving surgical outcomes with machine learning
+<h3 style="color:#323A45;">Improving surgical outcomes with machine learning</h3>
 
 KelaHealth combines a patient’s data and machine learning to reduce surgical risks. Its platform reduces surgical complications by using patient data and predictive algorithms to create “tailored risk profiles” for patients before surgery. 
 
