@@ -36,42 +36,44 @@
   events:
     - eventname: BIO International Convention
       href: https://www.bio.org/events/bio-international-convention
-    - eventname: SBIR Road Tour 
-      href: http://www.sbirroadtour.com/
-      desc: NSF program directors speak about funding opportunities in Nebraska, Missouri, Illinois and Indiana.
-    - eventname: Techstars Startup Week Detroit 
+    - eventname: Techstars Startup Week Detroit (online)
       href: http://detroitstartupweek.com/
 - month: Jul
   events:
-    - eventname: New York Venture Summit
+    - eventname: New York Venture Summit (online)
       href: https://www.youngstartup.com/events.php
       desc: NSF staff introduces investors and startups to the program.    
 - month: Aug
   events:
-    - eventname: SBIR Road Tour 
+    - eventname: SBIR Road Tour (online)
       href: http://www.sbirroadtour.com/
       desc: NSF program directors speak about funding opportunities in Montana, Idaho, Utah and Wyoming.
-    - eventname: NSBE 
+    - eventname: NSBE (online)
       href: http://convention.nsbe.org/
 - month: Sep
   events:
-    - eventname: TechCrunch Disrupt
-      href: https://techcrunch.com/events/disrupt-sf-2020/
-    - eventname: SBIR Road Tour
+    - eventname: NOBCChE (online)
+      href: https://www.nobcche.org/conference
+    - eventname: SBIR Road Tour (online)
       href: http://www.sbirroadtour.com/
       desc: NSF program directors speak about funding opportunities in North Carolina, South Carolina and Georgia.
 - month: Oct
+  events:
+    - eventname: AISES
+      href: http://conference.aises.org/
+    - eventname: SACNAS
+      href: https://www.sacnas.org/what-we-do/conference/
+    - eventname: SBIR Road Tour (online)
+      href: http://www.sbirroadtour.com/
+      desc: NSF program directors speak about funding opportunities in Nebraska, Missouri, Illinois and Indiana.
 - month: Nov
   events:
-    - eventname: SBIR/STTR Spring Innovation Conference
+    - eventname: SBIR/STTR Innovation Conference
       href: https://www.techconnectworld.com/World2020/
       desc: Join NSF and other government agencies with similar programs for the annual conference.  
-    - eventname: SBIR Road Tour 
+    - eventname: SBIR Road Tour (online)
       href: http://www.sbirroadtour.com/
       desc: NSF program directors speak about funding opportunities in Mississippi, Louisiana, Texas, Oklahoma and Arkansas.
 - month: Dec
-  events:
-    - eventname: SBIR Road Tour 
-      href: http://www.sbirroadtour.com/
-      desc: NSF program directors speak about funding opportunities in Virginia.
+
 ---

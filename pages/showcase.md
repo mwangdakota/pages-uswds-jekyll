@@ -15,7 +15,6 @@ We’re not interested in innovation for innovation’s sake — we back technol
 </div>
 </section>
 
-
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
 
