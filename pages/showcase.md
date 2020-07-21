@@ -38,7 +38,7 @@ To learn more visit: [https://re3d.org/](https://re3d.org/).
 <section class="usa-section showcase-content">
 <div class="usa-content usa-grid">
 
-<div class="usa-content usa-width-one-half" markdown="1">
+<div class="usa-content usa-width-one-half" markdown="1" style="color:#323A45;">
 
 ### Improving surgical outcomes with machine learning
 
