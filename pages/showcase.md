@@ -303,7 +303,7 @@ To learn more visit: [https://www.fyodorbio.com/](https://www.fyodorbio.com/).
 
 
 
-<section class="usa-section showcase-content">
+<section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
 <div class="usa-width-one-half">
   <iframe sandbox="allow-same-origin allow-scripts" title="Elidah" height="300" width="100%" src="https://www.youtube.com/embed/ksxUK6OWpOA" frameborder="0" allowfullscreen></iframe>
@@ -311,7 +311,7 @@ To learn more visit: [https://www.fyodorbio.com/](https://www.fyodorbio.com/).
 
 <div class="usa-content usa-width-one-half" markdown="1">
 
-<h3 style="color:#323A45;">Device to treat stress urinary incontinence in women</h3>
+### Device to treat stress urinary incontinence in women
 
 Elidah created a medical device to help women with stress urinary incontinence - the inability to control the urge to urinate - a condition which impacts about one in three women.
 
