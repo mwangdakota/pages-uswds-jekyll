@@ -35,12 +35,12 @@ To learn more visit: [https://re3d.org/](https://re3d.org/).
 </div>
 </section>
 
-<section class="usa-section showcase-content">
+<section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
 
-<div class="usa-content usa-width-one-half" markdown="1" style="color:#323A45;">
+<div class="usa-content usa-width-one-half" markdown="1">
 
-<h3 style="color:#323A45;">Improving surgical outcomes with machine learning</h3>
+### Improving surgical outcomes with machine learning
 
 KelaHealth combines a patient’s data and machine learning to reduce surgical risks. Its platform reduces surgical complications by using patient data and predictive algorithms to create “tailored risk profiles” for patients before surgery. 
 
@@ -55,7 +55,7 @@ To learn more visit: [https://www.kelahealth.com/](https://www.kelahealth.com/).
 </div>
 </section>
 
-<section class="usa-section showcase-content background-gray-dark">
+<section class="usa-section showcase-content">
 <div class="usa-content usa-grid">
   
 <div class="usa-width-one-half">
@@ -64,7 +64,7 @@ To learn more visit: [https://www.kelahealth.com/](https://www.kelahealth.com/).
 
 <div class="usa-content usa-width-one-half" markdown="1">
 
-### Transforming waste carbon dioxide into useful products
+<h3 style="color:#323A45;">Transforming waste carbon dioxide into useful products</h3>
 
 Opus 12 created a device that recycles waste carbon dioxide (CO₂) into chemicals and fuels.
 
@@ -76,12 +76,12 @@ To learn more visit: [https://www.opus-12.com/](https://www.opus-12.com/).
 </section>
 
 
-<section class="usa-section showcase-content background-gray-dark">
+<section class="usa-section showcase-content">
 <div class="usa-content usa-grid">
 
 <div class="usa-content usa-width-one-half" markdown="1">
 
-### Small, wearable device to reduce workplace injuries
+<h3 style="color:#323A45;">Small, wearable device to reduce workplace injuries</h3>
 
 Kinetic created a small, wearable device to reduce common workplace injuries. Loaded with sensors that detect motion, twisting, bending and lifting, the device is attached to the belt or waistband of construction, factory or delivery workers. If the device detects improper biomechanics – bad posture or lifting stance – it will “buzz” to alert the worker to correct his or her stance and avert common back injuries. 
 
@@ -138,7 +138,7 @@ To learn more visit: [https://www.vital.education/](https://www.vital.education/
 </section>
 
 
-<section class="usa-section showcase-content background-gray-dark">
+<section class="usa-section showcase-content">
 <div class="usa-content usa-grid">
 
 <div class="usa-width-one-half">
@@ -147,7 +147,7 @@ To learn more visit: [https://www.vital.education/](https://www.vital.education/
 
 <div class="usa-content usa-width-one-half" markdown="1">
 
-### Blood cleansing device removes pathogens
+<h3 style="color:#323A45;">Blood cleansing device removes pathogens</h3>
 
 Path Ex is developing a device to remove pathogens from blood and treat drug-resistant bacteria and endotoxins from circulating blood, which could be used in the treatment of bacteremia and sepsis.
 
@@ -159,12 +159,12 @@ To learn more visit: [https://pathex.co/](https://pathex.co/).
 </section>
 
 
-<section class="usa-section showcase-content background-gray-dark">
+<section class="usa-section showcase-content">
 <div class="usa-content usa-grid">
 
 <div class="usa-content usa-width-one-half" markdown="1">
 
-### Innovative concrete masonry systems
+<h3 style="color:#323A45;">Innovative concrete masonry systems</h3>
 
 Spherical Block is using concreate masonry construction to build affordable efficient homes. The New York-based company’s manufacturing can create walls, roofs, arches, windows, domes, and spheres.
 
@@ -221,7 +221,7 @@ To learn more visit: [https://embrlabs.com/](https://embrlabs.com/).
 </section>
 
 
-<section class="usa-section showcase-content background-gray-dark">
+<section class="usa-section showcase-content">
 <div class="usa-content usa-grid">
 
 <div class="usa-width-one-half">
@@ -230,7 +230,7 @@ To learn more visit: [https://embrlabs.com/](https://embrlabs.com/).
 
 <div class="usa-content usa-width-one-half" markdown="1">
 
-### 3D-printed shoes
+<h3 style="color:#323A45;">3D-printed shoes</h3>
 
 OESH, a small business funded by the National Science Foundation (NSF), is developing 3D printers to create shoes that are healthy by design.
 
@@ -242,12 +242,12 @@ To learn more visit: [https://oeshshoes.com/](https://oeshshoes.com/).
 </section>
 
 
-<section class="usa-section showcase-content background-gray-dark">
+<section class="usa-section showcase-content">
 <div class="usa-content usa-grid">
 
 <div class="usa-content usa-width-one-half" markdown="1">
 
-### 'Moxi' the robot that supports nurses – Diligent Robotics
+<h3 style="color:#323A45;">'Moxi' the robot that supports nurses – Diligent Robotics</h3>
 
 Diligent Robotics, a small business funded by the National Science Foundation (NSF), created “Moxi,” a robot that supports clinical staff teams in acute care hospitals by executing logistical tasks so staff can focus on direct human care. 
 
@@ -303,7 +303,7 @@ To learn more visit: [https://www.fyodorbio.com/](https://www.fyodorbio.com/).
 
 
 
-<section class="usa-section showcase-content background-gray-dark">
+<section class="usa-section showcase-content">
 <div class="usa-content usa-grid">
 <div class="usa-width-one-half">
   <iframe sandbox="allow-same-origin allow-scripts" title="Elidah" height="300" width="100%" src="https://www.youtube.com/embed/ksxUK6OWpOA" frameborder="0" allowfullscreen></iframe>
@@ -311,7 +311,7 @@ To learn more visit: [https://www.fyodorbio.com/](https://www.fyodorbio.com/).
 
 <div class="usa-content usa-width-one-half" markdown="1">
 
-### Device to treat stress urinary incontinence in women
+<h3 style="color:#323A45;">Device to treat stress urinary incontinence in women</h3>
 
 Elidah created a medical device to help women with stress urinary incontinence - the inability to control the urge to urinate - a condition which impacts about one in three women.
 
