@@ -19,12 +19,218 @@ We’re not interested in innovation for innovation’s sake — we back technol
 <div class="usa-content usa-grid">
 
 <div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="re:3D" width="100%" height="300" src="https://www.youtube.com/embed/XDEgLYwdKP4" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe>
+</div>
+
+<div class="usa-content usa-width-one-half" markdown="1">
+
+### From plastic trash to 3D printing– re:3D
+
+re:3D makes large-scale, industrial 3D printers that can print from plastic waste. The company’s open-source and affordable printers can grind, dry, and feed plastic waste into the 3D printer, Gigabot X (GBX). The company hopes to address local needs by creating a circular economy. 
+
+To learn more visit: [https://re3d.org/](https://re3d.org/).
+
+</div>
+
+</div>
+</section>
+
+<section class="usa-section showcase-content background-gray-dark">
+<div class="usa-content usa-grid">
+
+<div class="usa-content usa-width-one-half" markdown="1">
+
+### Improving surgical outcomes with machine learning
+
+KelaHealth combines a patient’s data and machine learning to reduce surgical risks. Its platform reduces surgical complications by using patient data and predictive algorithms to create “tailored risk profiles” for patients before surgery. 
+
+To learn more visit: [https://www.kelahealth.com/](https://www.kelahealth.com/).
+
+</div>
+
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="KelaHealth" width="100%" height="300" src="https://www.youtube.com/embed/w6oYYZFhzeE" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe>
+</div>
+
+</div>
+</section>
+
+<section class="usa-section showcase-content">
+<div class="usa-content usa-grid">
+  
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Opus12" width="100%" height="300" src="https://www.youtube.com/embed/L-wLMGI6v9M" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe>
+</div>
+
+<div class="usa-content usa-width-one-half" markdown="1">
+
+<h3 style="color:#323A45;">Transforming waste carbon dioxide into useful products</h3>
+
+Opus 12 created a device that recycles waste carbon dioxide (CO₂) into chemicals and fuels.
+
+To learn more visit: [https://www.opus-12.com/](https://www.opus-12.com/).
+
+</div>
+
+</div>
+</section>
+
+
+<section class="usa-section showcase-content">
+<div class="usa-content usa-grid">
+
+<div class="usa-content usa-width-one-half" markdown="1">
+
+<h3 style="color:#323A45;">Small, wearable device to reduce workplace injuries</h3>
+
+Kinetic created a small, wearable device to reduce common workplace injuries. Loaded with sensors that detect motion, twisting, bending and lifting, the device is attached to the belt or waistband of construction, factory or delivery workers. If the device detects improper biomechanics – bad posture or lifting stance – it will “buzz” to alert the worker to correct his or her stance and avert common back injuries. 
+
+To learn more visit: [https://www.wearkinetic.com/](https://www.wearkinetic.com/).
+
+</div>
+
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Kinetic" width="100%" height="300" src="https://www.youtube.com/embed/1UAXId9owiY" frameborder="0" allowfullscreen></iframe>
+</div>
+
+</div>
+</section>
+
+
+<section class="usa-section showcase-content background-gray-dark">
+<div class="usa-content usa-grid">
+
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Diligent Robotics" width="100%" height="300" src="https://www.youtube.com/embed/DRzAudR65tI" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="usa-content usa-width-one-half" markdown="1">
+
+### Insects as an alternative protein source for animals
+
+Beta Hatch is industrializing the production of insects as an alternative protein to feed animals. Its technology can mass-produce mealworms and use their waste as fertilizer. 
+
+To learn more visit: [http://betahatch.com/](http://betahatch.com/).
+
+</div>
+
+</div>
+</section>
+
+<section class="usa-section showcase-content background-gray-dark">
+<div class="usa-content usa-grid">
+
+<div class="usa-content usa-width-one-half" markdown="1">
+
+### Accessible, multisensory content for visually impaired students
+
+Vital is developing touchscreen-based software that translates visual educational content into accessible, multisensory content for students with special needs. Software created by Vital is allowing students with visual impairments, autism, dyslexia or ADHD to use their sense of touch to explore content like tables, graphs or maps on a tablet. They feel vibrations and listen for audio cues and text-to-speech to learn visual content mostly in math and science subjects. 
+
+To learn more visit: [https://www.vital.education/](https://www.vital.education/).
+
+</div>
+
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Vital" width="100%" height="300" src="https://www.youtube.com/embed/iKqpWy_9KSE" frameborder="0" allowfullscreen></iframe>
+</div>
+
+</div>
+</section>
+
+
+<section class="usa-section showcase-content">
+<div class="usa-content usa-grid">
+
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Path Ex" width="100%" height="300" src="https://www.youtube.com/embed/fnv-hdTCSPM" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="usa-content usa-width-one-half" markdown="1">
+
+<h3 style="color:#323A45;">Blood cleansing device removes pathogens</h3>
+
+Path Ex is developing a device to remove pathogens from blood and treat drug-resistant bacteria and endotoxins from circulating blood, which could be used in the treatment of bacteremia and sepsis.
+
+To learn more visit: [https://pathex.co/](https://pathex.co/).
+
+</div>
+
+</div>
+</section>
+
+
+<section class="usa-section showcase-content">
+<div class="usa-content usa-grid">
+
+<div class="usa-content usa-width-one-half" markdown="1">
+
+<h3 style="color:#323A45;">Innovative concrete masonry systems</h3>
+
+Spherical Block is using concreate masonry construction to build affordable, efficient homes. The New York-based company’s manufacturing can create walls, roofs, arches, windows, domes, and spheres.
+
+To learn more visit: [https://www.masonryarches.com/](https://www.masonryarches.com/).
+
+</div>
+
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Spherical Block" width="100%" height="300" src="https://www.youtube.com/embed/LcDj-_89Tcw" frameborder="0" allowfullscreen></iframe>
+</div>
+
+</div>
+</section>
+
+
+<section class="usa-section showcase-content background-gray-dark">
+<div class="usa-content usa-grid">
+
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Embr Labs" width="100%" height="300" src="https://www.youtube.com/embed/SlVRqx6w3rQ" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="usa-content usa-width-one-half" markdown="1">
+
+### Recycling CO2 into fuels
+
+Dimensional Energy uses sunlight to convert carbon dioxide (CO2) into energy. Mimicking photosynthesis, Dimensional Energy’s Hi-Light Reactor uses concentrated sunlight and catalysts to turn CO2 and water into raw materials which could be used to create fuel. 
+
+To learn more visit: [https://dimensionalenergy.com/](https://dimensionalenergy.com/).
+
+</div>
+
+</div>
+</section>
+
+<section class="usa-section showcase-content background-gray-dark">
+<div class="usa-content usa-grid">
+
+<div class="usa-content usa-width-one-half" markdown="1">
+
+### A wearable, personal thermostat
+
+Embr Labs developed a wearable device to moderate temperature control. Americans spend most of their time indoors. By using its wearable device, Embr Labs could ultimately help cut energy consumption and make people more comfortable. The company uses a battery-powered, thermal-electric cooler to create sensations of heating or cooling on a person’s skin.
+
+To learn more visit: [https://embrlabs.com/](https://embrlabs.com/).
+
+</div>
+
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Ember Labs" width="100%" height="300" src="https://www.youtube.com/embed/BqzF0oIAXUI" frameborder="0" allowfullscreen></iframe>
+</div>
+
+</div>
+</section>
+
+
+<section class="usa-section showcase-content">
+<div class="usa-content usa-grid">
+
+<div class="usa-width-one-half">
   <iframe sandbox="allow-same-origin allow-scripts" title="OESH Shoes" width="100%" height="300" src="https://www.youtube.com/embed/jvnyzUogCZo" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
 
-### 3D-printed shoes
+<h3 style="color:#323A45;">3D-printed shoes</h3>
 
 OESH, a small business funded by the National Science Foundation (NSF), is developing 3D printers to create shoes that are healthy by design.
 
@@ -36,12 +242,12 @@ To learn more visit: [https://oeshshoes.com/](https://oeshshoes.com/).
 </section>
 
 
-<section class="usa-section showcase-content background-gray-dark">
+<section class="usa-section showcase-content">
 <div class="usa-content usa-grid">
 
 <div class="usa-content usa-width-one-half" markdown="1">
 
-### 'Moxi' the robot that supports nurses – Diligent Robotics
+<h3 style="color:#323A45;">'Moxi' the robot that supports nurses – Diligent Robotics</h3>
 
 Diligent Robotics, a small business funded by the National Science Foundation (NSF), created “Moxi,” a robot that supports clinical staff teams in acute care hospitals by executing logistical tasks so staff can focus on direct human care. 
 
@@ -66,7 +272,7 @@ To learn more visit: [https://diligentrobots.com/](https://diligentrobots.com/).
 
 ### Sustainable ink from algae
 
-Living Ink Technologies, a small business funded by the National Science Foundation (NSF), is developing ink from algae cells. The Colorado-based biomaterials company is “changing the way pigments are made” to use algae as a colorant. Its sustainable algae products could replace ink made from petroleum-based ink.
+Living Ink Technologies, a small business funded by the National Science Foundation (NSF), is developing ink from algae cells. The Colorado-based biomaterials company is “changing the way pigments are made” to use algae as a colorant. Its sustainable algae products could replace ink made from petroleum.
 
 To learn more visit: [https://livingink.co/](https://livingink.co/).
 
@@ -170,9 +376,9 @@ Founder and CEO of [Artaic](https://artaic.com/), a small business funded by NSF
 
 ### AI helps medical professionals interpret, perform ultrasounds
 
-Bay Lab uses artificial intelligence to help medical professionals perform and interpret ultrasounds. 
+Caption Health (formerly known as Bay Labs) uses artificial intelligence to help medical professionals perform and interpret ultrasounds. 
 
-To learn more visit: [https://baylabs.io/](https://baylabs.io/).
+To learn more visit: [https://captionhealth.com/](https://captionhealth.com/).
 
 </div>
 
