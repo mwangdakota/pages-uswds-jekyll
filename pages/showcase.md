@@ -166,7 +166,7 @@ To learn more visit: [https://pathex.co/](https://pathex.co/).
 
 <h3 style="color:#323A45;">Innovative concrete masonry systems</h3>
 
-Spherical Block is using concreate masonry construction to build affordable efficient homes. The New York-based company’s manufacturing can create walls, roofs, arches, windows, domes, and spheres.
+Spherical Block is using concreate masonry construction to build affordable, efficient homes. The New York-based company’s manufacturing can create walls, roofs, arches, windows, domes, and spheres.
 
 To learn more visit: [https://www.masonryarches.com/](https://www.masonryarches.com/).
 
@@ -272,7 +272,7 @@ To learn more visit: [https://diligentrobots.com/](https://diligentrobots.com/).
 
 ### Sustainable ink from algae
 
-Living Ink Technologies, a small business funded by the National Science Foundation (NSF), is developing ink from algae cells. The Colorado-based biomaterials company is “changing the way pigments are made” to use algae as a colorant. Its sustainable algae products could replace ink made from petroleum-based ink.
+Living Ink Technologies, a small business funded by the National Science Foundation (NSF), is developing ink from algae cells. The Colorado-based biomaterials company is “changing the way pigments are made” to use algae as a colorant. Its sustainable algae products could replace ink made from petroleum.
 
 To learn more visit: [https://livingink.co/](https://livingink.co/).
 
