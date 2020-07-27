@@ -1,6 +1,6 @@
 ---
 title: Adcom Members
-permalink: /press/adcom/
+permalink: /sbir-sttr-subcommittee/
 layout: secondary
 ---
 <section class="usa-section">
