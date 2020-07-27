@@ -1,6 +1,6 @@
 ---
 title: Adcom bios
-permalink: /adcom-bios/
+permalink: /sbir-sttr-subcommittee-bios/
 layout: secondary-narrow
 ---
 
