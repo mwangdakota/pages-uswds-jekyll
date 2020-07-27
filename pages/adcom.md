@@ -10,7 +10,7 @@ layout: secondary
 <h1>Members of the SBIR/STTR Subcommittee of the Directorate for Engineering Advisory Committee</h1>
 
 <p class="text-medium" markdown="1">
-The SBIR/STTR Advisory Subcommittee is a team of nationally recognized leaders from academia, industry, the investment community, and public organizations. Members guide NSF’s SBIR/STTR program on emerging industries and the evolution of the deep-technology startup community, participating in strategic initiatives to support the NSF’s mission of accelerating the growth of the nation’s innovation ecosystem.
+The SBIR/STTR Subcommittee is a team of nationally recognized leaders from academia, industry, the investment community, and public organizations. Members guide NSF’s SBIR/STTR program on emerging industries and the evolution of the deep-technology startup community, participating in strategic initiatives to support the NSF’s mission of accelerating the growth of the nation’s innovation ecosystem.
 </p>
 
 </div>
@@ -31,12 +31,25 @@ The SBIR/STTR Advisory Subcommittee is a team of nationally recognized leaders f
   </li>
 
    <li class="pd-card" style="height: 35rem;">
+  <img src="{{ site.baseurl }}/assets/img/adcom/fischer.jpg" alt="Paul Fischer headshot">
+   <span class="pd-list-content">
+        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#PaulFischer">Paul Fischer</a><p style="font-weight:bold;"></p></h3>
+  </span>
+  </li>
+
+   <li class="pd-card" style="height: 35rem;">
   <img src="{{ site.baseurl }}/assets/img/adcom/tori.jpg" alt="Tori Gonzalez headshot">
    <span class="pd-list-content">
         <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#ToriGonzalez">Victoria Gonzalez</a></h3>
   </span>
   </li> 
-   
+
+   <li class="pd-card" style="height: 35rem;">
+  <img src="{{ site.baseurl }}/assets/img/adcom/hewitt.jpg" alt="Chris Hewitt headshot">
+   <span class="pd-list-content">
+        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#ChrisHewitt">Chris Hewitt</a></h3>
+  </span>
+  </li> 
    
    <li class="pd-card" style="height: 35rem;">
   <img src="{{ site.baseurl }}/assets/img/adcom/matthew.jpg" alt="Matthew J. Higgins  headshot">
@@ -65,14 +78,14 @@ The SBIR/STTR Advisory Subcommittee is a team of nationally recognized leaders f
         <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#KirstenLeute">Kirsten Leute</a></h3>
   </span>
   </li>  
-  
-  <li class="pd-card" style="height: 35rem;">
-  <img src="{{ site.baseurl }}/assets/img/adcom/william.jpg" alt="William Lockwood Benet headshot">
+
+   <li class="pd-card" style="height: 35rem;">
+  <img src="{{ site.baseurl }}/assets/img/adcom/moran.jpg" alt="Chris Moran headshot">
    <span class="pd-list-content">
-        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#WilliamLockwoodBenet">William Lockwood Benet</a></h3>
+        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#ChrisMoran">Chris Moran</a><p style="font-weight:bold;"></p></h3>
   </span>
   </li>
-
+  
    <li class="pd-card" style="height: 35rem;">
   <img src="{{ site.baseurl }}/assets/img/adcom/richard.jpg" alt="Richard Morganstern headshot">
    <span class="pd-list-content">
@@ -87,20 +100,6 @@ The SBIR/STTR Advisory Subcommittee is a team of nationally recognized leaders f
   </span>
   </li>    
   
-  <li class="pd-card" style="height: 35rem;">
-  <img src="{{ site.baseurl }}/assets/img/adcom/skip.jpg" alt="Skip Rung headshot">
-   <span class="pd-list-content">
-        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#SkipRung">Robert D. "Skip" Rung</a></h3>
-  </span>
-  </li>  
-  
-  <li class="pd-card" style="height: 35rem;">
-  <img src="{{ site.baseurl }}/assets/img/adcom/ann.jpg" alt="Ann Savoca headshot">
-   <span class="pd-list-content">
-        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#AnnSavoca">Ann Savoca</a></h3>
-  </span>
-  </li> 
-  
    <li class="pd-card" style="height: 35rem;">
   <img src="{{ site.baseurl }}/assets/img/adcom/stuart.jpg" alt="Stuart Schoenmann  headshot">
    <span class="pd-list-content">
@@ -108,6 +107,12 @@ The SBIR/STTR Advisory Subcommittee is a team of nationally recognized leaders f
   </span>
   </li>  
   
+   <li class="pd-card" style="height: 35rem;">
+  <img src="{{ site.baseurl }}/assets/img/adcom/vase.jpg" alt="Ajoy Vase headshot">
+   <span class="pd-list-content">
+        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#AjoyVase">Ajoy Vase</a></h3>
+  </span>
+  </li> 
   
 </ul>
 

@@ -29,7 +29,7 @@ Read the STTR Phase II Solicitation</a>
 
 ## Submission info
 
-- A company may submit a Phase II proposal anytime between six (6) months and two years (24 months) after the start date of the relevant Phase I award. The start date can be found on your Phase I award letter. 
+- A company may submit a Phase II proposal anytime between six (6) months and two years (24 months) after the start date of the relevant Phase I award. The start date can be found on your Phase I award letter. To extend flexibility to small businesses during the COVID-19 crisis, all Phase I companies that received their Phase I with an award start date between March 15, 2018 and December 3, 2018 will have until December 3, 2020 to submit an SBIR/STTR Phase II proposal. (Phase I companies that received their Phase I award after December 3, 2018, are not eligible for this extension).
 - There are quarterly windows for submission of a Phase II proposal. The next submission date is **{{ site.next_deadline }}**.<br><br>
 Submission window dates for 2020 are as follows:<br>
 **{{ site.solicitation_window_2 }}<br>
