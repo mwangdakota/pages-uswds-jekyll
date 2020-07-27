@@ -36,7 +36,13 @@ The SBIR/STTR Advisory Subcommittee is a team of nationally recognized leaders f
         <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#ToriGonzalez">Victoria Gonzalez</a></h3>
   </span>
   </li> 
-   
+
+   <li class="pd-card" style="height: 35rem;">
+  <img src="{{ site.baseurl }}/assets/img/adcom/hewitt.jpg" alt="Chris Hewitt headshot">
+   <span class="pd-list-content">
+        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#ChrisHewitt">Chris Hewitt</a></h3>
+  </span>
+  </li> 
    
    <li class="pd-card" style="height: 35rem;">
   <img src="{{ site.baseurl }}/assets/img/adcom/matthew.jpg" alt="Matthew J. Higgins  headshot">
