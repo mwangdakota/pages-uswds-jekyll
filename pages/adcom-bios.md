@@ -21,6 +21,12 @@ layout: secondary-narrow
         <img src="{{ site.baseurl }}/assets/img/adcom/tori.jpg">
    <p class="bio"><strong>Victoria Gonzalez</strong> has spent 30 years leading organizations as a change agent and entrepreneur. Educated as an engineer, she worked for Fortune 100 companies for 15 years implementing new technology solutions. In 2000, Victoria shifted her focus to technology startups, playing a significant role in helping to build the biotech startup community in St Louis. More recently, Victoria has turned her focus to education and small business as effective ways to address the socio-economic divide in our country and her community. She serves on the Board of Marian Middle School, a school with a mission of breaking the cycle of poverty for inner-city girls and teaches The Basics of Bioentrepreneurship at Washington University in St. Louis. Victoria Gonzalez received a B.S. degree in electrical engineering from Texas A&M in 1984 and an MBA from Washington University in St. Louis in 1990 and is a 2019 DCI Fellow at Stanford.</p>
        </li>
+ 
+  <a name="ChrisHewitt"></a>
+        <li class="pd-bio-content">
+        <img src="{{ site.baseurl }}/assets/img/adcom/hewitt.jpg">
+   <p class="bio"><strong>Christopher “Chris” Hewitt</strong> is Innovation Network Manager for BASF. In his role Chris is responsible for building connections inside and outside BASF to provide sustainable innovative solutions for its customers’ unmet needs. Chris is passionate about creating value through working as the interface between chemical technology and business and is a frequent panelist and invited speaker on university/corporate collaboration and teaches on business case development and innovation. Chris joined BASF in 2008 in a specialty chemical reagents business which he led as Global Business Manager from 2010. In 2014, he transitioned back to research, developing a strategy for and leading relations with universities and national labs in North America prior to his current role. Prior to joining BASF, he held positions with increasing responsibility in research and marketing at Sigma-Aldrich, latterly leading global marketing and R&D for the Aldrich catalog business. He earned a Ph.D. in chemistry from Durham University in the United Kingdom and is a Fellow of the Royal Society of Chemistry.</p>
+       </li>
        
    <a name="MatthewHiggins"></a>
         <li class="pd-bio-content">
