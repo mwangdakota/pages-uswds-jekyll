@@ -80,6 +80,13 @@ The SBIR/STTR Subcommittee is a team of nationally recognized leaders from acade
   </li>  
 
    <li class="pd-card" style="height: 35rem;">
+  <img src="{{ site.baseurl }}/assets/img/adcom/moran.jpg" alt="Chris Moran headshot">
+   <span class="pd-list-content">
+        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#ChrisMoran">Chris Moran</a><p style="font-weight:bold;"></p></h3>
+  </span>
+  </li>
+  
+   <li class="pd-card" style="height: 35rem;">
   <img src="{{ site.baseurl }}/assets/img/adcom/richard.jpg" alt="Richard Morganstern headshot">
    <span class="pd-list-content">
         <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#RichardMorganstern ">Richard Morganstern</a></h3>
