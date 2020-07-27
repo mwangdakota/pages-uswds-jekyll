@@ -31,6 +31,13 @@ The SBIR/STTR Subcommittee is a team of nationally recognized leaders from acade
   </li>
 
    <li class="pd-card" style="height: 35rem;">
+  <img src="{{ site.baseurl }}/assets/img/adcom/fischer.jpg" alt="Paul Fischer headshot">
+   <span class="pd-list-content">
+        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#PaulFischer">Paul Fischer</a><p style="font-weight:bold;">(Chair)</p></h3>
+  </span>
+  </li>
+
+   <li class="pd-card" style="height: 35rem;">
   <img src="{{ site.baseurl }}/assets/img/adcom/tori.jpg" alt="Tori Gonzalez headshot">
    <span class="pd-list-content">
         <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#ToriGonzalez">Victoria Gonzalez</a></h3>
@@ -71,13 +78,6 @@ The SBIR/STTR Subcommittee is a team of nationally recognized leaders from acade
         <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#KirstenLeute">Kirsten Leute</a></h3>
   </span>
   </li>  
-  
-  <li class="pd-card" style="height: 35rem;">
-  <img src="{{ site.baseurl }}/assets/img/adcom/william.jpg" alt="William Lockwood Benet headshot">
-   <span class="pd-list-content">
-        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#WilliamLockwoodBenet">William Lockwood Benet</a></h3>
-  </span>
-  </li>
 
    <li class="pd-card" style="height: 35rem;">
   <img src="{{ site.baseurl }}/assets/img/adcom/richard.jpg" alt="Richard Morganstern headshot">
@@ -93,20 +93,6 @@ The SBIR/STTR Subcommittee is a team of nationally recognized leaders from acade
   </span>
   </li>    
   
-  <li class="pd-card" style="height: 35rem;">
-  <img src="{{ site.baseurl }}/assets/img/adcom/skip.jpg" alt="Skip Rung headshot">
-   <span class="pd-list-content">
-        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#SkipRung">Robert D. "Skip" Rung</a></h3>
-  </span>
-  </li>  
-  
-  <li class="pd-card" style="height: 35rem;">
-  <img src="{{ site.baseurl }}/assets/img/adcom/ann.jpg" alt="Ann Savoca headshot">
-   <span class="pd-list-content">
-        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#AnnSavoca">Ann Savoca</a></h3>
-  </span>
-  </li> 
-  
    <li class="pd-card" style="height: 35rem;">
   <img src="{{ site.baseurl }}/assets/img/adcom/stuart.jpg" alt="Stuart Schoenmann  headshot">
    <span class="pd-list-content">
@@ -114,6 +100,12 @@ The SBIR/STTR Subcommittee is a team of nationally recognized leaders from acade
   </span>
   </li>  
   
+   <li class="pd-card" style="height: 35rem;">
+  <img src="{{ site.baseurl }}/assets/img/adcom/vase.jpg" alt="Ajoy Vase headshot">
+   <span class="pd-list-content">
+        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#AjoyVase">Ajoy Vase</a></h3>
+  </span>
+  </li> 
   
 </ul>
 
