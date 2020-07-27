@@ -33,7 +33,7 @@ The SBIR/STTR Subcommittee is a team of nationally recognized leaders from acade
    <li class="pd-card" style="height: 35rem;">
   <img src="{{ site.baseurl }}/assets/img/adcom/fischer.jpg" alt="Paul Fischer headshot">
    <span class="pd-list-content">
-        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#PaulFischer">Paul Fischer</a><p style="font-weight:bold;">(Chair)</p></h3>
+        <h3 class="pd-name"><a href="{{ site.baseurl }}/adcom-bios/#PaulFischer">Paul Fischer</a><p style="font-weight:bold;"></p></h3>
   </span>
   </li>
 
