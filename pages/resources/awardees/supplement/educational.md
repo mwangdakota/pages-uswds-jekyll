@@ -40,5 +40,5 @@ sidenav: phase-2
     - **Max funding**: $10,000 per veteran
     - **Deadline**: Rolling submission; does not extend award duration
     - **Recruiting tip**: Many community colleges and universities have a veterans office or resource team. You can use this [recruiting template]({{ site.baseurl }}/assets/files/awardees/ED-Supp-Template.docx) to reach out.
-    - [More Information](http://www.nsf.gov/pubs/2014/nsf14124/nsf14124.jsp)
+    - [More Information](https://www.nsf.gov/pubs/2020/nsf20111/nsf20111.jsp)
     - [Proposal / Budget submission instructions]({{ site.baseurl }}/resources/awardees/phase-2/instructions/)
