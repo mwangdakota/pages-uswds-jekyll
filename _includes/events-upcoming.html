@@ -7,7 +7,7 @@
       <p class="time"> {{ upcoming_event.time }}</p>
       <p class="description" markdown="1">{{ upcoming_event.description }}</p>
       {% if upcoming_event.registrationLink %}
-        <a href="{{ upcoming_event.registrationLink }}" class="usa-button">Register</a>
+        <a href="{{ upcoming_event.registrationLink }}" target="_blank" class="usa-button">Register</a>
       {% endif %}
     </div>
   </li>
