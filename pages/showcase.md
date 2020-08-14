@@ -15,13 +15,8 @@ We’re not interested in innovation for innovation’s sake — we back technol
 </div>
 </section>
 
-<section class="usa-section showcase-content background-gray-dark">
+<section class="usa-section showcase-content">
 <div class="usa-content usa-grid">
-
-<div class="usa-width-one-half">
-
-  <iframe sandbox="allow-same-origin allow-scripts" title="re:3D" width="100%" height="300" src="hhttps://www.youtube.com/embed/rnUx5iRdHWk" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe>
-</div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
 
@@ -31,6 +26,11 @@ Muzology is developing a learning platform to help students learn math. Grounded
 
 To learn more visit: [https://www.muzology.com/](https://www.muzology.com/).
 
+</div>
+
+<div class="usa-width-one-half">
+
+  <iframe sandbox="allow-same-origin allow-scripts" title="re:3D" width="100%" height="300" src="hhttps://www.youtube.com/embed/rnUx5iRdHWk" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe>
 </div>
 
 </div>
