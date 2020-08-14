@@ -20,7 +20,7 @@ We’re not interested in innovation for innovation’s sake — we back technol
 
 <div class="usa-content usa-width-one-half" markdown="1">
 
-### Learning math using music and psychology – Muzology
+<h3 style="color:#323A45;"> Learning math using music and psychology – Muzology </h3>
 
 Muzology is developing a learning platform to help students learn math. Grounded in psychology, Muzology’s platform helps students learn algebra concepts with music. 
 
