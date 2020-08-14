@@ -24,11 +24,11 @@ We’re not interested in innovation for innovation’s sake — we back technol
 
 <div class="usa-content usa-width-one-half" markdown="1">
 
-### From plastic trash to 3D printing– re:3D
+<h3 style="color:#323A45;">Learning math using music and psychology – Muzology</h3>
 
-re:3D makes large-scale, industrial 3D printers that can print from plastic waste. The company’s open-source and affordable printers can grind, dry, and feed plastic waste into the 3D printer, Gigabot X (GBX). The company hopes to address local needs by creating a circular economy. 
+Muzology is developing a learning platform to help students learn math. Grounded in psychology, Muzology’s platform helps students learn algebra concepts with music.
 
-To learn more visit: [https://re3d.org/](https://re3d.org/).
+To learn more visit: [https://www.muzology.com/](https://www.muzology.com/).
 
 </div>
 
