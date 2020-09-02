@@ -1,6 +1,6 @@
 ---
 title: Review 
-permalink: /resources/review/reviewer/
+permalink: /resources/review/
 layout: resources-layout
 sidenav: review
 ---
