@@ -122,12 +122,11 @@ If your company is majority owned by venture capital operating companies, hedge 
 Our seed funding is for R&D that involves a good amount of technical risk. If you’re already sure that your product is technically feasible, this program isn’t a good fit for you.
 
 In selected cases, we support innovations to existing products and services, but these innovations must dramatically change the products’ commercial prospects. We don’t fund work that simply improves existing products. Check out our [portfolio]({{ '/portfolio/' | relative_url }}) to get a sense of our founders’ work. 
-
 </div>
-
-[Learn more]({{ '/resources/review/' | relative_url }}) by serving as an NSF reviewer.
 </div>
-
+<div class="usa-content usa-grid">
+<p><a href="../resources/review/">Learn more</a> by serving as an NSF reviewer.</p><br>
+    </div>
 </section>
 <section class="background-light-blue">
 <div class="usa-section usa-content usa-grid" markdown="1">  
