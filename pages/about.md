@@ -125,10 +125,11 @@ In selected cases, we support innovations to existing products and services, but
 
 </div>
 </div>
+[Learn more]({{ site.baseurl}}/resources/review/) by serving as an NSF reviewer.
+
 </section>
 <section class="background-light-blue">
 <div class="usa-section usa-content usa-grid" markdown="1">  
-[Learn more]({{ site.baseurl}}/resources/review/) by serving as an NSF reviewer.
   
 ## About NSF
 
