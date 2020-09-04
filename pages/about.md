@@ -124,8 +124,9 @@ Our seed funding is for R&D that involves a good amount of technical risk. If yo
 In selected cases, we support innovations to existing products and services, but these innovations must dramatically change the products’ commercial prospects. We don’t fund work that simply improves existing products. Check out our [portfolio]({{ '/portfolio/' | relative_url }}) to get a sense of our founders’ work. 
 
 </div>
+
+[Learn more]({{ '/resources/review/' | relative_url }}) by serving as an NSF reviewer.
 </div>
-[Learn more]({{ site.baseurl}}/resources/review/) by serving as an NSF reviewer.
 
 </section>
 <section class="background-light-blue">
