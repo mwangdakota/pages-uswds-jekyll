@@ -52,10 +52,10 @@ fastlane:
     href: /fastlane/covid-19-proposal-instructions/    
 
 review:
-  - text: Reviewer
-    href: /resources/reviewer/
+  - text: Reviewers
+    href: /resources/review/
   - text: Review process
-    href: /resources/review-process/
+    href: /resources/review/review-process/
   - text: Peer review
     href: /resources/review/peer-review/
   - text: Instructions for panelists
