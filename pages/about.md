@@ -128,7 +128,9 @@ In selected cases, we support innovations to existing products and services, but
 </section>
 <section class="background-light-blue">
 <div class="usa-section usa-content usa-grid" markdown="1">
-
+  
+[Learn more]({{ site.baseurl}}/resources/review/) by serving as an NSF reviewer.
+  
 ## About NSF
 
 America's Seed Fund is a program within the [National Science Foundation](https://www.nsf.gov/) and housed within the [Division of Industrial Innovation and Partnerships](https://www.nsf.gov/div/index.jsp?div=IIP) within the Directorate of Engineering. NSF is a federal agency that supports fundamental research and education across all fields of science and engineering, currently with an $8.1 billion budget.
