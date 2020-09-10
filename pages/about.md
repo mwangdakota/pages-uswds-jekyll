@@ -122,13 +122,15 @@ If your company is majority owned by venture capital operating companies, hedge 
 Our seed funding is for R&D that involves a good amount of technical risk. If you’re already sure that your product is technically feasible, this program isn’t a good fit for you.
 
 In selected cases, we support innovations to existing products and services, but these innovations must dramatically change the products’ commercial prospects. We don’t fund work that simply improves existing products. Check out our [portfolio]({{ '/portfolio/' | relative_url }}) to get a sense of our founders’ work. 
-
 </div>
 </div>
+<div class="usa-content usa-grid">
+<p><a href="../resources/review/">Learn more</a> by serving as an NSF reviewer.</p><br>
+    </div>
 </section>
 <section class="background-light-blue">
-<div class="usa-section usa-content usa-grid" markdown="1">
-
+<div class="usa-section usa-content usa-grid" markdown="1">  
+  
 ## About NSF
 
 America's Seed Fund is a program within the [National Science Foundation](https://www.nsf.gov/) and housed within the [Division of Industrial Innovation and Partnerships](https://www.nsf.gov/div/index.jsp?div=IIP) within the Directorate of Engineering. NSF is a federal agency that supports fundamental research and education across all fields of science and engineering, currently with an $8.1 billion budget.
