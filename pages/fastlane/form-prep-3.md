@@ -42,32 +42,39 @@ Follow the instructions on the below screen, then click **"Upload File"** to upl
 ### Biographical Sketches
 
 16\. Effective October 5, 2020, NSF **requires all NSF proposals** (including SBIR/STTR proposals) to include Biographical Sketches using NSF-approved formats. NSF will only accept PDFs using the fillable-PDFs created by NSF or the same formats produced using [SciENcv](https://www.ncbi.nlm.nih.gov/sciencv/). **Users will be prevented from uploading non-compliant Biographical Sketches and NSF prevents submission of proposals without these documents.** For more information, review the guidance in the [Proposal & Award Policies & Procedures Guide](https://www.ncbi.nlm.nih.gov/sciencv/) (PAPPG) ([NSF 20-1](https://www.nsf.gov/pubs/policydocs/pappg20_1/nsf20_1.pdf)), and the [Policy Office website](https://nsf.gov/bfa/dias/policy/).
+
 ***As you prepare your SBIR or STTR proposal, and if you do not already use SciENcv, we recommend following the step-by-step guidance as outlined below.***
-• Download the NSF-approved fillable [Biographical Sketch PDF](https://www.nsf.gov/bfa/dias/policy/nsfapprovedformats/biosketch.pdf) for each individual designated as Principal Investigator (PI), co-PI or Senior Personnel.
-• Complete the “Name”, “Title” and “Institution” (Organization) fields at the top of each form.
-• If you want to continue using the PDF, please complete the remaining fields and upload them into the Biographical Sketches section of the proposal.
-• *If you do not want to continue using this new format,* you must enter “N/A” into the remaining fields of this PDF and upload it into the “Biographical Sketches” section of the proposal. If you choose this option, **you must upload resumes for the PI, co-PI, and all Senior Personnel in Supplementary Documents** in the format outlined in the relevant NSF SBIR/STTR solicitation (under the “Biographical Sketches” section of Proposal Preparation).
-• Proposals without the NSF-approved PDF format (completed or not) will not be able to be submitted in FastLane.
-• **If you do not use the NSF-approved format for Biographical Sketches and fail to include the required resumes as Supplemental Documents, your proposal will be Returned Without Review.**
+
+* Download the NSF-approved fillable [Biographical Sketch PDF](https://www.nsf.gov/bfa/dias/policy/nsfapprovedformats/biosketch.pdf) for each individual designated as Principal Investigator (PI), co-PI or Senior Personnel.
+* Complete the “Name”, “Title” and “Institution” (Organization) fields at the top of each form.
+* If you want to continue using the PDF, please complete the remaining fields and upload them into the Biographical Sketches section of the proposal.
+* *If you do not want to continue using this new format,* you must enter “N/A” into the remaining fields of this PDF and upload it into the “Biographical Sketches” section of the proposal. If you choose this option, **you must upload resumes for the PI, co-PI, and all Senior Personnel in Supplementary Documents** in the format outlined in the relevant NSF SBIR/STTR solicitation (under the “Biographical Sketches” section of Proposal Preparation).
+* Proposals without the NSF-approved PDF format (completed or not) will not be able to be submitted in FastLane.
+* **If you do not use the NSF-approved format for Biographical Sketches and fail to include the required resumes as Supplemental Documents, your proposal will be Returned Without Review.**
+
 OR
+
 If you are preparing your SBIR or STTR proposal and already use SciENcv, we recommend following the step-by-step guidance as outlined below.
-• Navigate to the SciENcv site: [https://www.ncbi.nlm.nih.gov/sciencv/](https://www.ncbi.nlm.nih.gov/sciencv/) and follow the directions for preparation of the NSF Biographical sketch format.
-• Export a PDF of the Biographical sketch for each PI/co-PI and upload the files into FastLane. Proposals without the NSF-approved PDF format will not be able to be submitted in FastLane.
-• **Reminder: If you do not use the NSF-approved format for Biographical Sketches and fail to include the required resumes as Supplemental Documents, your proposal will be Returned Without Review.**
+
+* Navigate to the SciENcv site: [https://www.ncbi.nlm.nih.gov/sciencv/](https://www.ncbi.nlm.nih.gov/sciencv/) and follow the directions for preparation of the NSF Biographical sketch format.
+* Export a PDF of the Biographical sketch for each PI/co-PI and upload the files into FastLane. Proposals without the NSF-approved PDF format will not be able to be submitted in FastLane.
+* **Reminder: If you do not use the NSF-approved format for Biographical Sketches and fail to include the required resumes as Supplemental Documents, your proposal will be Returned Without Review.**
 
 ### Current & Pending Support
 17\. *Effective October 5,* 2020, NSF will **require all NSF proposals** (including SBIR/STTR proposals) to include Current and Pending Support using NSF-approved formats.  NSF will only accept PDFs using the fillable-PDFs created by NSF or the same formats produced using [SciENcv](https://www.ncbi.nlm.nih.gov/sciencv/). **Users will be prevented from uploading non-compliant Current and Pending Support and NSF prevents submission of proposals without these documents.** For more information, review the guidance in the [Proposal & Award Policies & Procedures Guide](https://nsf.gov/publications/pub_summ.jsp?ods_key=pappg) (PAPPG) ([NSF 20-1](https://www.nsf.gov/pubs/policydocs/pappg20_1/nsf20_1.pdf)), and the [Policy Office website](https://nsf.gov/bfa/dias/policy/).
-• Download the NSF-approved fillable [Current and Pending Support](https://www.nsf.gov/bfa/dias/policy/nsfapprovedformats/cps.pdf) for each individual designated as PI, co-PI or Senior Personnel.
-• Complete the “PI/co-PI/Senior Personnel Name” field at the top of each form.
-• If you want to continue using the PDF, please complete the remaining fields and upload them into the Current and Pending Support section of the proposal.
-• If you do not want to continue using this new format, then you must enter “N/A” into the remaining fields of this PDF and upload it into the “Current and Pending Support” section of the proposal. You must upload the individual statements regarding Current and Pending Support for the PI, co-PI and all Senior Personnel in Supplementary Documents in the format outlined in the relevant NSF SBIR/STTR solicitation (under the “Current and Pending Support” section of Proposal Preparation).
-• **Proposals that do not include the NSF-approved PDF format (completed or not) will be prevented from submission.**
-• If you do not use the NSF-approved format for the Current and Pending Support documents and fail to include the required statements noted above as Supplemental Documents, your proposal will be Returned Without Review.
+
+* Download the NSF-approved fillable [Current and Pending Support](https://www.nsf.gov/bfa/dias/policy/nsfapprovedformats/cps.pdf) for each individual designated as PI, co-PI or Senior Personnel.
+* Complete the “PI/co-PI/Senior Personnel Name” field at the top of each form.
+* If you want to continue using the PDF, please complete the remaining fields and upload them into the Current and Pending Support section of the proposal.
+* If you do not want to continue using this new format, then you must enter “N/A” into the remaining fields of this PDF and upload it into the “Current and Pending Support” section of the proposal. You must upload the individual statements regarding Current and Pending Support for the PI, co-PI and all Senior Personnel in Supplementary Documents in the format outlined in the relevant NSF SBIR/STTR solicitation (under the “Current and Pending Support” section of Proposal Preparation).
+* **Proposals that do not include the NSF-approved PDF format (completed or not) will be prevented from submission.**
+* If you do not use the NSF-approved format for the Current and Pending Support documents and fail to include the required statements noted above as Supplemental Documents, your proposal will be Returned Without Review.
 
 If you are preparing your SBIR or STTR proposal and already use SciENcv, we recommend following the step-by-step guidance as outlined below.
-• Navigate to the SciENcv site: [https://www.ncbi.nlm.nih.gov/sciencv/](https://www.ncbi.nlm.nih.gov/sciencv/) and follow the directions for preparation of the NSF Current and Pending Support format.
-• Export a PDF of the Current and Pending Support format for each PI/co-PI and upload the files into FastLane. Proposals without the NSF-approved PDF format will not be able to be submitted in FastLane.
-• **Reminder: If you do not use the NSF-approved format for the Current and Pending Support documents and fail to include the required statements noted above as Supplemental Documents, your proposal will be Returned Without Review.**
+
+* Navigate to the SciENcv site: [https://www.ncbi.nlm.nih.gov/sciencv/](https://www.ncbi.nlm.nih.gov/sciencv/) and follow the directions for preparation of the NSF Current and Pending Support format.
+* Export a PDF of the Current and Pending Support format for each PI/co-PI and upload the files into FastLane. Proposals without the NSF-approved PDF format will not be able to be submitted in FastLane.
+* **Reminder: If you do not use the NSF-approved format for the Current and Pending Support documents and fail to include the required statements noted above as Supplemental Documents, your proposal will be Returned Without Review.**
 
 ### Data Management Plan
 18\. Click on the **"Go"** button to the left of **"Data Management Plan":**
