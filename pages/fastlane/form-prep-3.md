@@ -45,7 +45,6 @@ Follow the instructions on the below screen, then click **"Upload File"** to upl
 
 ***As you prepare your SBIR or STTR proposal, and if you do not already use SciENcv, we recommend following the step-by-step guidance as outlined below.***
 ![Main screen with Biographical Sketch highlighted]({{ site.baseurl }}/assets/img/fastlane/Sep-biographicalSketches.png)
-
 Click **"Go"** beside the appropriate person's name to upload their biographical sketch. Biographical sketches may be uploaded individually or as one file (under the PI).
 ![List of personnel assigned to proposal]({{ site.baseurl }}/assets/img/fastlane/35-bio-sketch.jpg)
 
@@ -71,10 +70,8 @@ Follow the instructions on the below screen, then click **"Upload File"** to upl
 17\. *Effective October 5,* 2020, NSF will **require all NSF proposals** (including SBIR/STTR proposals) to include Current and Pending Support using NSF-approved formats.  NSF will only accept PDFs using the fillable-PDFs created by NSF or the same formats produced using [SciENcv](https://www.ncbi.nlm.nih.gov/sciencv/). **Users will be prevented from uploading non-compliant Current and Pending Support and NSF prevents submission of proposals without these documents.** For more information, review the guidance in the [Proposal & Award Policies & Procedures Guide](https://nsf.gov/publications/pub_summ.jsp?ods_key=pappg) (PAPPG) ([NSF 20-1](https://www.nsf.gov/pubs/policydocs/pappg20_1/nsf20_1.pdf)), and the [Policy Office website](https://nsf.gov/bfa/dias/policy/).
 
 ![Main screen with Current and Pending Support highlighted]({{ site.baseurl }}/assets/img/fastlane/Sep-support.png)
-
 Click the radio button beside the appropriate person's name and then click **"New Form"** to upload their Current & Pending Support.
 ![Current and Pending Support table for existing forms and option to add new ones]({{ site.baseurl }}/assets/img/fastlane/37-current-and-pending-support.jpg)
-
 
 * Download the NSF-approved fillable [Current and Pending Support](https://www.nsf.gov/bfa/dias/policy/nsfapprovedformats/cps.pdf) for each individual designated as PI, co-PI or Senior Personnel.
 * Complete the “PI/co-PI/Senior Personnel Name” field at the top of each form.
