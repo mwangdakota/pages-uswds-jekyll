@@ -44,12 +44,10 @@ Follow the instructions on the below screen, then click **"Upload File"** to upl
 16\. Effective October 5, 2020, NSF **requires all NSF proposals** (including SBIR/STTR proposals) to include Biographical Sketches using NSF-approved formats. NSF will only accept PDFs using the fillable-PDFs created by NSF or the same formats produced using [SciENcv](https://www.ncbi.nlm.nih.gov/sciencv/). **Users will be prevented from uploading non-compliant Biographical Sketches and NSF prevents submission of proposals without these documents.** For more information, review the guidance in the [Proposal & Award Policies & Procedures Guide](https://www.ncbi.nlm.nih.gov/sciencv/) (PAPPG) ([NSF 20-1](https://www.nsf.gov/pubs/policydocs/pappg20_1/nsf20_1.pdf)), and the [Policy Office website](https://nsf.gov/bfa/dias/policy/).
 
 ***As you prepare your SBIR or STTR proposal, and if you do not already use SciENcv, we recommend following the step-by-step guidance as outlined below.***
-
 ![Main screen with Biographical Sketch highlighted]({{ site.baseurl }}/assets/img/fastlane/Sep-biographicalSketches.png)
-Click **"Go"** beside the appropriate person's name to upload their biographical sketch. Biographical sketches may be uploaded individually or as one file (under the PI).
 
+Click **"Go"** beside the appropriate person's name to upload their biographical sketch. Biographical sketches may be uploaded individually or as one file (under the PI).
 ![List of personnel assigned to proposal]({{ site.baseurl }}/assets/img/fastlane/35-bio-sketch.jpg)
-Type/Upload the "Biographical Sketch" in the below text box. When this section is completed, click **"Go Back"** to return to the "Form Preparation" screen.
 
 * Download the NSF-approved fillable [Biographical Sketch PDF](https://www.nsf.gov/bfa/dias/policy/nsfapprovedformats/biosketch.pdf) for each individual designated as Principal Investigator (PI), co-PI or Senior Personnel.
 * Complete the “Name”, “Title” and “Institution” (Organization) fields at the top of each form.
@@ -67,7 +65,6 @@ If you are preparing your SBIR or STTR proposal and already use SciENcv, we reco
 * **Reminder: If you do not use the NSF-approved format for Biographical Sketches and fail to include the required resumes as Supplemental Documents, your proposal will be Returned Without Review.**
 
 Follow the instructions on the below screen, then click **"Upload File"** to upload document. Click **"Go Back"** until you return to the "Form Preparation" screen.
-
 ![Bio Sketch file upload intstructions and field]({{ site.baseurl }}/assets/img/fastlane/36-bio-sketch2.jpg)
 
 ### Current & Pending Support
