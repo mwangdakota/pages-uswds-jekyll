@@ -7,7 +7,7 @@ sidenav: fastlane
 
 # Pre-Award budget changes 
 
-To successfully submit a revised budget request to NSF, both a project's PI and sponsored research officer must send in the revision.
+To successfully submit a revised budget request to NSF, both a project's PI and sponsored research officer must send in the revision. **Revised budget should not be submitted unless requested specifically by NSF.**
 
 All revised budget requests must include a `Revised Budget Justification`, which you can upload or enter using the Budget Impact Statement module (step #10 in the instructions that follow).
 
