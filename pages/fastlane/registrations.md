@@ -11,7 +11,7 @@ sidenav: fastlane
 
 Before you can begin entering your full proposal in FastLane, your company must have completed the following registrations:  
 
-* [Dun and Bradstreet Data Universal Numbering System (DUNS)](https://www.nsf.gov/cgi-bin/good-bye?https://iupdate.dnb.com/iUpdate/viewiUpdateHome.htm)
+* [Dun and Bradstreet Data Universal Numbering System (DUNS)](https://www.nsf.gov/cgi-bin/good-bye?https://www.dnb.com/duns-number/get-a-duns.html)
   
   All organization information MUST BE IDENTICAL in SAM and in your DUNS Number/Dun & Bradstreet (D&B) record. 
 
