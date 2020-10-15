@@ -45,7 +45,9 @@ fastlane:
   - text: Form Preparation part 3
     href: /fastlane/form-prep-3/
   - text: Proposal Submission
-    href: /fastlane/proposal-submission/   
+    href: /fastlane/proposal-submission/ 
+  - text: Pre-Award Budget Changes
+    href: /fastlane/budget-changes/
   - text: Definitions
     href: /fastlane/definitions/
   - text: COVID-19 Proposal Instructions
