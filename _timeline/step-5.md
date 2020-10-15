@@ -3,7 +3,7 @@ title: Register your company (FREE and required)
 description: If your company hasn’t worked with the government before, you’ll need to register with these systems. You MUST have completed your SAM registration BEFORE you can begin entering your proposal in FastLane. Start as soon as possible!!
 ---
 
-### [Dun and Bradstreet (DUNS number)](https://iupdate.dnb.com/iUpdate/viewiUpdateHome.htm)
+### [Dun and Bradstreet (DUNS number)](https://www.dnb.com/duns-number/get-a-duns.html)
 **Processing time:** Up to five business days
  
 A DUNS number is a unique, nine-digit number that identifies each physical location of your company. You’ll need one in order to receive government funding. Because you’re applying for a DUNS number for government funding, processing time should take about five business days.
