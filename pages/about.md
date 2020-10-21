@@ -38,7 +38,7 @@ You will receive the funding you need as a startup or small business to commerci
 You'll retain full control of your team, your technical vision and business strategy, and the resulting intellectual property. We take no equity in exchange for funding.
 </div>
 <div class="usa-width-one-third" markdown="1">
-You'll work with a program director, who will serve as your mentor and advocate. You'll also become part of the largest group of technology startups and small businesses in the country.
+You’ll work with a program director, who will serve as your coach. You’ll also become part of the largest group of technology startups and small businesses in the country.
 </div>
 </div>
 </section>
@@ -69,7 +69,7 @@ You'll work with a program director, who will serve as your mentor and advocate.
 
 - **Minimal standard reporting**: We provide templates for reporting monthly progress and financials. No need to waste time crafting decks and building spreadsheets — we help you focus on building your product or service instead.
 
-- **Virtual mentorship from program advisors**: Our program directors, who have deep technical expertise and entrepreneurial experience, have been in your shoes — they can offer guidance and advice through the award process. And we promote startups in all locations, not just tech hubs. You don’t need to relocate to gain access to our funding or mentorship.
+- **Virtual coaching from program staff**: Our program directors, who have deep technical expertise and entrepreneurial experience, have been in your shoes And we support startups in all locations. You don’t need to relocate to gain access to our funding.
 
 - **Freedom to operate**: We're not interested in driving the direction of your company; in fact, our goal is to align your vision with our funding. You can use your funding on employees’ salaries and wages, fringe benefits, materials and supplies, and other R&D costs (though intellectual property, marketing and business development costs aren’t covered).
 
