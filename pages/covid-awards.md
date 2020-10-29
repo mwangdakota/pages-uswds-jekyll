@@ -45,6 +45,7 @@ These awards are related to work concerning COVID-19.
               {% endfor %}
               </div>
             </ul>
- </div>
+
   {% endif %}
+  </div>
  </section>
