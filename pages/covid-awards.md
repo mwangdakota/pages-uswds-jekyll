@@ -19,6 +19,9 @@ These awards are related to work concerning COVID-19.
 
 <section class="usa-section background-white">
     <div class="usa-grid">
+       {% assign matching_awards = site.data[page.dataset] | uniq | where:'covid', 'y' | sort_insensitive:'awardeeName' %}
+      {% if matching_awards.size > 0 %}  
+        
  <ul class="table monospace">
               <li class="table-row table-header">
                 <div class="table-row-item subhead">Company</div>
@@ -43,4 +46,5 @@ These awards are related to work concerning COVID-19.
               </div>
             </ul>
  </div>
+  {% endif %}
  </section>
