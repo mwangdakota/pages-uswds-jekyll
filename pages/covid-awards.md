@@ -19,7 +19,8 @@ These awards are related to work concerning COVID-19.
 
 <section class="usa-section background-white">
     <div class="usa-grid">
-       {% assign matching_awards = site.data[page.dataset] | uniq | where:'covid', 'y' | sort_insensitive:'awardeeName' %}
+       {% assign t_covid = 'y' %}
+       {% assign matching_awards = site.data[page.dataset] | uniq | where:'covid', t_covid | sort_insensitive:'awardeeName' %}
       {% if matching_awards.size > 0 %}  
         
  <ul class="table monospace">
