@@ -17,6 +17,8 @@ These awards are related to work concerning COVID-19.
 </div>
 </section>
 
+<section class="usa-section background-white">
+    <div class="usa-grid">
  <ul class="table monospace">
               <li class="table-row table-header">
                 <div class="table-row-item subhead">Company</div>
@@ -40,3 +42,5 @@ These awards are related to work concerning COVID-19.
               {% endfor %}
               </div>
             </ul>
+ </div>
+ </section>
