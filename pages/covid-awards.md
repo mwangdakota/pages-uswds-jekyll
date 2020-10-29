@@ -1,5 +1,6 @@
 ---
 layout: base
+permalink: /covid-awards/
 class: awardees-layout
 ---
 {% assign recent_date = site.data.awards_meta['recent_date'] | date: "%m/%Y" | default: 'DATE' %}
