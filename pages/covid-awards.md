@@ -1,7 +1,7 @@
 ---
 title: COVID-19 Awards
 permalink: /covid-awards/
-layout: secondary
+layout: base
 ---
 <section class="usa-section">
 <div class="usa-content utility-content usa-grid">
@@ -21,6 +21,9 @@ These awards are related to work concerning COVID-19.
     <div class="usa-grid">
        {% assign t_covid = 'y' %}
        {% assign matching_awards = site.data[page.dataset] | uniq | where:'covid', t_covid | sort_insensitive:'awardeeName' %}
+      <div>
+          {{ matching_awards }}
+      </div>
       {% if matching_awards.size > 0 %}  
         
  <ul class="table monospace">
