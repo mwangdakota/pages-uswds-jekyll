@@ -78,7 +78,7 @@ Since 2012, America’s Seed Fund powered by NSF has made nearly 3,000 awards to
 
 <h2 class="subhead text-small">Featured alumni and exits</h2>
 {% include featured-companies.html %}
-[View a list of COVID-19 related awards here.]({{ site.baseurl }}/covid-awards/)
+
 <div style="
     background-color:#FFFAC3;
     padding-top: 2rem;
@@ -87,10 +87,9 @@ Since 2012, America’s Seed Fund powered by NSF has made nearly 3,000 awards to
     padding-right:3rem;
     margin-top: 6rem;
     ">
-    [View a list of COVID-19 related awards here.]({{ site.baseurl }}/covid-awards/)
     <p style="
-    margin-bottom: 0rem;
-"markdown="1">[View a list of COVID-19 related awards here.]({{ site.baseurl }}/covid-awards/) </p>
+    margin-bottom: 0rem;>
+    <a href="../covid-awards/">View a list of COVID-19 related awards here.</a></p>
 </div>
 
 {% include tech-subtopics.html %}
