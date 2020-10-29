@@ -1,8 +1,10 @@
 ---
-title: COVID-19 Awards
-permalink: /covid-awards/
 layout: base
+class: awardees-layout
 ---
+{% assign recent_date = site.data.awards_meta['recent_date'] | date: "%m/%Y" | default: 'DATE' %}
+{% assign awards_summary = site.data.awards_summary[page.dataset] %}
+
 <section class="usa-section">
 <div class="usa-content utility-content usa-grid">
 <div class="usa-width-one-whole">
@@ -18,15 +20,20 @@ These awards are related to work concerning COVID-19.
 </section>
 
 <section class="usa-section background-white">
-    <div class="usa-grid">
-       {% assign t_covid = 'y' %}
-       {% assign matching_awards = site.data[page.dataset] | uniq | where:'covid', t_covid | sort_insensitive:'awardeeName' %}
-      <div>
-          {{ matching_awards }}
-      </div>
-      {% if matching_awards.size > 0 %}  
-        
- <ul class="table monospace">
+    
+  <div class="usa-grid">
+    <div class="usa-accordion awardees-details-accordion">
+    {% for topic in site.data.tech-topics %}
+      {% assign t_topic = topic.programDirector[0].ttopic %}
+      {% assign matching_awards = site.data[page.dataset] | uniq | where:'ttopic', t_topic | sort_insensitive:'awardeeName' %}
+      {% if matching_awards.size > 0 %}
+        <div class="border-bottom">
+          <button class="usa-accordion-button" aria-expanded="false" aria-controls="{{ topic.topic | slugify }}">
+            <span class="accordion-number-of-awardees">{{ matching_awards | size }}</span>
+            <span class="accordion-tech-topic">{{ topic.topic | default: "" }}</span>
+          </button>
+          <div id="{{ topic.topic | slugify }}" class="usa-accordion-content">
+            <ul class="table monospace">
               <li class="table-row table-header">
                 <div class="table-row-item subhead">Company</div>
                 <div class="table-row-item subhead">Location</div>
@@ -49,7 +56,16 @@ These awards are related to work concerning COVID-19.
               {% endfor %}
               </div>
             </ul>
-
-  {% endif %}
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
+    </div>
   </div>
- </section>
+</section>
+<section class="usa-section background-white">
+  <div class="usa-grid">
+      {{ content }}
+  </div>
+</section>
+
