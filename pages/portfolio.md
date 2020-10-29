@@ -89,7 +89,7 @@ Since 2012, America’s Seed Fund powered by NSF has made nearly 3,000 awards to
     ">
     <p style="
     margin-bottom: 0rem;
-"><a href="">View a list of COVID-19 related awards here.</a></p>
+">[View a list of COVID-19 related awards here.](({{ site.baseurl }}/covid-awards/))</p>
 </div>
 
 {% include tech-subtopics.html %}
