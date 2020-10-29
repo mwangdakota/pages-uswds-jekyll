@@ -17,24 +17,7 @@ These awards are related to work concerning COVID-19.
 </div>
 </section>
 
-<section class="usa-section background-white">
-    <div class="usa-grid">
-    <p class="subhead inline-block accordion-number-of-awardees-header">Awardees</p>
-    <p class="subhead inline-block accordion-tech-topic-header">Technology topic areas</p>
-</div>
-  <div class="usa-grid">
-    <div class="usa-accordion awardees-details-accordion">
-    {% for topic in site.data.tech-topics %}
-      {% assign t_topic = topic.programDirector[0].ttopic %}
-      {% assign matching_awards = site.data[page.dataset] | uniq | where:'ttopic', t_topic | sort_insensitive:'awardeeName' %}
-      {% if matching_awards.size > 0 %}
-        <div class="border-bottom">
-          <button class="usa-accordion-button" aria-expanded="false" aria-controls="{{ topic.topic | slugify }}">
-            <span class="accordion-number-of-awardees">{{ matching_awards | size }}</span>
-            <span class="accordion-tech-topic">{{ topic.topic | default: "" }}</span>
-          </button>
-          <div id="{{ topic.topic | slugify }}" class="usa-accordion-content">
-            <ul class="table monospace">
+ <ul class="table monospace">
               <li class="table-row table-header">
                 <div class="table-row-item subhead">Company</div>
                 <div class="table-row-item subhead">Location</div>
@@ -57,10 +40,3 @@ These awards are related to work concerning COVID-19.
               {% endfor %}
               </div>
             </ul>
-          </div>
-        </div>
-      {% endif %}
-    {% endfor %}
-    </div>
-  </div>
-</section>
