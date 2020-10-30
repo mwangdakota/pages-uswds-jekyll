@@ -59,16 +59,14 @@
     </div>
     
     <div class="usa-width-three-fourths">
-      {% if award.covid = 'y' %}
-      <div style="
-    background-color: #FFFAC3;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-    padding-left: 1rem;
-    padding-right: 2rem;
-    margin-bottom: 3rem;
-    text-align: center;
-    ">This is a COVID-19 award.</div>
+      {% if award.covid == 'y' %}
+        <div style="background-color: #FFFAC3;
+          padding-top: 1rem;
+          padding-bottom: 1rem;
+          padding-left: 1rem;
+          padding-right: 2rem;
+          margin-bottom: 3rem;
+          text-align: center; ">This is a COVID-19 award.</div>
       {% endif %}
       <div class="mb5">
         <h4 class="subhead uppercase">Abstract</h4>
