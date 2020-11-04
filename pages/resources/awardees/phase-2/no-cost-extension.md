@@ -10,9 +10,6 @@ sidenav: phase-2
 
 Before you attempt to extend your project, please review the following information. Please note that you (as an awardee) can't grant yourself a no-cost extension.
 
-## Phase I awardees
-Applying for a no-cost extension could impact the possible deadline dates for your Phase II proposal. Please get in touch with your program director to learn more about how a no-cost extension could impact your deadline dates.
-
 
 ## Requirements for a no-cost extension
 Here are the requirements for a no-cost extension, excerpted from the NSF's Grant Proposal Guide:
