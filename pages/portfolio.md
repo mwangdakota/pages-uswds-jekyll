@@ -79,6 +79,17 @@ Since 2012, America’s Seed Fund powered by NSF has made nearly 3,000 awards to
 <h2 class="subhead text-small">Featured alumni and exits</h2>
 {% include featured-companies.html %}
 
+<div style="
+    background-color:#FFFAC3;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 3rem;
+    padding-right:3rem;
+    margin-top: 6rem;
+    ">
+    <a href="../covid-awards-phase-1/">View a list of COVID-19 related awards here.</a>
+</div>
+
 {% include tech-subtopics.html %}
 <p style="margin-top:100px; width=150px;" class="text-small">
   Updated: 1/30/2020 
