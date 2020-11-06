@@ -54,8 +54,34 @@ class: awardees-layout
   </div>
 </section>
 
+<section class="background-white" style="padding-top:6rem;">
+    <div class="usa-grid">
+      {% if page.phase == "Phase I" %}
+         <div style="
+    background-color: #FFFAC3;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+    padding-right: 3rem;">
+        <a href="../../covid-awards-phase-1/">View a list of COVID-19 Phase I awards here.</a>
+      </div>
+      {% elsif page.phase == "Phase II" %} 
+        <div style="
+    background-color: #FFFAC3;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+    padding-right: 3rem;">
+        <a href="../../covid-awards-phase-2/">View a list of COVID-19 Phase II awards here.</a>
+      </div>
+      {% endif %}
+     
+  </div>
+</section>
+
 <section class="usa-section background-white">
     <div class="usa-grid">
+
   <h2 class="text-medium">Current {{ page.phase }} awardees</h2>
     <p class="subhead inline-block accordion-number-of-awardees-header">Awardees</p>
     <p class="subhead inline-block accordion-tech-topic-header">Technology topic areas</p>
