@@ -1,9 +1,10 @@
 {% assign award = include.award | default: award %}
 <li id="{{ award.awardeeName | slugify }}" class="usa-grid-full">
   <div class="mb5 mt5">
-    <h1 class="h2 awardeeName usa-sr-only">{{ award.awardeeName }}Test</h1>
+    <h1 class="h2 awardeeName usa-sr-only">{{ award.awardeeName }}</h1>
     <h2 class="title h5 font-regular">{{ award.title }}</h2>
   </div>
+  <div> {{ award.awardeeName }}</div>
   <div class="usa-grid-full {% unless forloop.last %}award-listing{% endunless %}">
     <div class="usa-width-one-fourth">
        <address>
