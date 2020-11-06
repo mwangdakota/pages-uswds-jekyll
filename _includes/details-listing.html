@@ -4,7 +4,7 @@
     <h1 class="h2 awardeeName usa-sr-only">{{ award.awardeeName }}</h1>
     <h2 class="title h5 font-regular">{{ award.title }}</h2>
   </div>
-  <div> {{ page.phase }} </div>
+  
   <div class="usa-grid-full {% unless forloop.last %}award-listing{% endunless %}">
     <div class="usa-width-one-fourth">
        <address>
@@ -59,16 +59,27 @@
       </div>
     </div>
     
-    <div class="usa-width-three-fourths">
-      {% if award.covid == 'y' %}
+    <div class="usa-width-three-fourths">     
+      {% if award.covid == 'y' %}     
+        {% if page.phase == 'phase I' %}
         <div style="background-color: #FFFAC3;
-          padding-top: 1rem;
-          padding-bottom: 1rem;
-          padding-left: 1rem;
-          padding-right: 2rem;
-          margin-bottom: 3rem;
-          text-align: center; ">This is a COVID-19 award.</div>
+            padding-top: 1rem;
+            padding-bottom: 1rem;
+            padding-left: 1rem;
+            padding-right: 2rem;
+            margin-bottom: 3rem;
+            text-align: center; ">This is a COVID-19 award.</div>
+        {% elsif page.phase == 'phase II' %}
+        <div style="background-color: #FFFAC3;
+            padding-top: 1rem;
+            padding-bottom: 1rem;
+            padding-left: 1rem;
+            padding-right: 2rem;
+            margin-bottom: 3rem;
+            text-align: center; ">This phase II award received additional funding to mitigate the COVID-19 crisis.</div>  
+        {% endif %}
       {% endif %}
+      
       <div class="mb5">
         <h4 class="subhead uppercase">Abstract</h4>
         <p class="abstractText">{{ award.abstractText }}</p>
