@@ -252,8 +252,12 @@ button:focus {
 
 .usa-hero .usa-button.usa-button-big {
   background-color: #01c6f1;
-  color: #ffffff;
+  color: #000;
 }
+
+.usa-hero .usa-button.usa-button-big:hover {
+  background-color: #28a0cb;
+}  
 
 .usa-hero .large-header {
   color: #ffffff;
