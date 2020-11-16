@@ -44,8 +44,10 @@ Have lingering questions? Visit our [FAQ](https://www.nsf.gov/pubs/2020/nsf20031
 
 Are you a Phase I awardee? Visit [How to Apply for Phase II]({{ site.baseurl }}/resources/awardees/phase-2/apply/).
 
-<div>
-<a href="{{ site.baseurl }}/apply/" class="usa-button">Apply</a>
+<div style="margin-top:50px; margin-bottom:50px;">
+ <br>
+<a href="{{ site.baseurl }}/apply/" class="usa-button">APPLY</a>
+ <br>
 </div>
  
  <div style="margin-bottom:1rem;float:left">
