@@ -15,7 +15,7 @@ sidenav: phase-2
     - [Proposal / Budget submission instructions]({{ site.baseurl }}/resources/awardees/phase-2/instructions/)
 2. Commercial / Strategic Partnerships (TECP)
     - Funding for additional research that goes beyond the Phase II project’s objectives to meet the technical specifications or additional proof-of-concept requirements. Additional research is anticipated to enhance the commercial potential and lead to partnerships with industrial partners and venture and angel investors.
-    - **Max funding**: 20% of the Phase II award, up to $150,000
+    - **Max funding**: 20% of the Phase II award
     - **Deadline**: Within 18 months of the effective start date of Phase II award
     - [More information](https://www.nsf.gov/pubs/2013/nsf13132/nsf13132.jsp)
     - [Proposal / Budget submission instructions]({{ site.baseurl }}/resources/awardees/phase-2/instructions/)
