@@ -337,7 +337,12 @@ button:focus {
   padding-top: 20rem !important;
 }
 .usa-overlay {
-  position: static !important;
+  position: absolute;
+
+  &.is-visible {
+    height: 100vh;
+    weight: 100vw;
+  }
 }
 
 /*back to top*/
