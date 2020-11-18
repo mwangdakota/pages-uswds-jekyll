@@ -303,7 +303,7 @@ button:focus {
 }
 .header--fixed.top {
   transition: none;
-  transform: translateY(0);
+  /*transform: translateY(0);*/
 }
 .header--fixed.not-top {
   position: fixed;
@@ -333,8 +333,11 @@ button:focus {
 .main-content-headroom {
   margin-top: 150px !important;
 }
-.usa-hero{
+.usa-hero {
   padding-top: 20rem !important;
+}
+.usa-overlay {
+  position: static !important;
 }
 
 /*back to top*/
