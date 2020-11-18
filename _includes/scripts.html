@@ -93,25 +93,25 @@ if (!(searchKeyword.value.trim()).match(/\S/)) {
         //apply buttom ...        
         $("ul.usa-nav-primary.usa-accordion li").find('a[href*="/apply/"]').addClass('nav-apply-button-link');
 
-        //headroom.js
-        const Header = document.querySelector("header.usa-header");
-        const headroom = new Headroom(Header, {
-            offset: 50,
-            tolerance: {
-                up: 0,
-                down: 0
-            },
-            classes: {
-                initial: "header--fixed",
-                pinned: "slideDown",
-                unpinned: "slideUp",
-                top: "top",
-                notTop: "not-top"
-            }
-        });
-        headroom.init();
         //headroom overrides
-        if ( $( "body.landing-layout" ).length == 0) {
+        if ( $( "body.landing-layout" ).length == 0) {                
+                //headroom.js
+                const Header = document.querySelector("header.usa-header");
+                const headroom = new Headroom(Header, {
+                    offset: 50,
+                    tolerance: {
+                        up: 0,
+                        down: 0
+                    },
+                    classes: {
+                        initial: "header--fixed",
+                        pinned: "slideDown",
+                        unpinned: "slideUp",
+                        top: "top",
+                        notTop: "not-top"
+                    }
+                });
+                headroom.init();
             $("#main-content").addClass('main-content-headroom');
         }
 
