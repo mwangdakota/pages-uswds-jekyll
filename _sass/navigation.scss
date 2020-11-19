@@ -333,22 +333,19 @@ button:focus {
 .main-content-headroom {
   margin-top: 150px !important;
 }
-.usa-hero {
-  padding-top: 20rem !important;
-}
 .usa-overlay {
   position: absolute;
 
   &.is-visible {
     height: 100vh;
-    weight: 100vw;
+    width: 100vw;
   }
 }
 .usa-nav {
 
   &.is-visible {
     height: 100vh;
-    weight: 100vw;
+    /*width: 100vw;*/
   }
 }
 
