@@ -333,19 +333,34 @@ button:focus {
 .main-content-headroom {
   margin-top: 150px !important;
 }
-.usa-overlay {
-  position: absolute;
 
-  &.is-visible {
-    height: 100vh;
+@media only screen and (max-width: 951px) {
+  .usa-overlay {
+    position: absolute;
     width: 100vw;
+  
+    &.is-visible {
+      height: 100vh;
+    }
+  }
+  .usa-nav {
+    &.is-visible {
+      height: 100vh;
+    }
   }
 }
-.usa-nav {
+@media only screen and (min-width: 952px) {
+  .usa-mobile_nav-active {
+    overflow: auto;
+  }
 
-  &.is-visible {
-    height: 100vh;
-    /*width: 100vw;*/
+  .usa-overlay {
+    display: none;
+  }
+  .usa-nav {
+    &.is-visible {
+      height: auto;
+    }
   }
 }
 
