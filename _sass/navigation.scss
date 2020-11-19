@@ -344,6 +344,14 @@ button:focus {
     weight: 100vw;
   }
 }
+.usa-nav {
+  position: absolute;
+
+  &.is-visible {
+    height: 100vh;
+    weight: 100vw;
+  }
+}
 
 /*back to top*/
 #back2Top {
