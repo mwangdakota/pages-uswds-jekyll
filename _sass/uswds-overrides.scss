@@ -108,7 +108,7 @@ button,
 button:visited,
 .usa-button:visited {
   background-color: transparent;
-  border: 1px solid $color-primary-alt;
+  border: 1px solid $color-primary-alt-darkest;
   border-radius: 0;
   color: $color-base;
   font-family: $font-serif;
@@ -120,7 +120,7 @@ button:visited,
   &.usa-button-hover,
   &:hover {
     background-color: $color-white;
-    border: 1px solid $color-primary-alt;
+    border: 1px solid $color-primary-alt-darkest;
     color: $color-black;
   }
 
