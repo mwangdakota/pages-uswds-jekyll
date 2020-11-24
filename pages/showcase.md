@@ -25,9 +25,7 @@ We’re not interested in innovation for innovation’s sake — we back technol
 
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
-<div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="re:3D" width="100%" height="300" src="https://www.youtube.com/embed/wuXqAjPGldE" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe>
-</div>
+
 <div class="usa-content usa-width-one-half" markdown="1">
 
 ### New engine tech allows diesel engines to run on any fuel – ClearFlame Engine Technologies
@@ -36,6 +34,9 @@ ClearFlame Engine Technologies, a small business funded by the National Science 
 
 To learn more visit: [https://www.clearflameengines.com/](https://www.clearflameengines.com/).
 
+</div>
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="re:3D" width="100%" height="300" src="https://www.youtube.com/embed/wuXqAjPGldE" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe>
 </div>
 </div>
 </section>
