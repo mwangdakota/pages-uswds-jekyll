@@ -32,7 +32,7 @@ Thinking of applying for Phase I funding? Ask all your application-related quest
 {% else %}
 ## Q&A videos
 
-Thinking of applying for Phase I funding? Check out our videos covering [program basics](https://youtu.be/oVhWWydWWc4) and [tips and tricks for submitting a proposal](https://youtu.be/jsWEvht0s6Y). (We offer a [PDF version of program basics]({{site.baseurl}}/assets/files/press/overview2020.pdf), too.)
+Thinking of applying for Phase I funding? Check out our videos covering [program basics](https://youtu.be/oVhWWydWWc4) and [tips and tricks for submitting a proposal](https://youtu.be/8WPa4Epdl1k). (We offer a [PDF version of program basics]({{site.baseurl}}/assets/files/press/overview2020.pdf), too.)
 {% endif %}
 
  
