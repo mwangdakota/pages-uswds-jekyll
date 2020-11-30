@@ -419,14 +419,14 @@
   permalink: /topics/pharmaceutical-technologies/
   topic_code: pt
   programDirector:
-    - name: Alastair Monk
-      last_name: Monk
-      api_name: Alastair Monk
-      email: amonk@nsf.gov
-      photo: Alastair-compressed.jpg
+    - name: Kaitlin Bratlie
+      last_name: Bratlie
+      api_name: Kaitlin Bratlie
+      email: kbratlie@nsf.gov
+      photo: Kaitlin-compressed.jpg
       ttopic: pt
       desc:
-      bio: "is the Senior Program Director for the SBIR/STTR programs. He joined the NSF as a Program Director in 2009, leading the Advanced Materials and Instrumentation. Prior to NSF, he was the Director of Research and Development at Micro Magnetics, where he led a development effort to commercialize a new family of high-performance magnetic microsensor products for demanding consumer and military applications. During this time, he also served as a visiting scientist at Brown University and as the Principal Investigator on a number of federal grants and contracts, including NSF Phase I and Phase II Small Business  Innovation Research projects and an Advanced Technology Program award from NIST. Ben received his Ph.D. in Physics from Brown University."
+      bio: "joined NSF as a Program Director for the Partnerships for Innovation (PFI) program in June 2020. Since 2011, Katie has been an Assistant Professor in the Department of Materials Science & Engineering and the Department of Chemical & Biological Engineering at Iowa State University. Her current research thrusts include the development of biomaterials for medical applications and evaluation of these materials in in-vitro and in vivo contexts for drug delivery and regenerative medicine. She received the NSF BRIGE Award in 2012, the ISU Honors Mentor Award in 2014, was nominated “Outstanding Faculty Member” by the Interfraternity Council in 2015, and won both the Akinc Excellence in Research and Teaching Awards in 2015. Katie earned her B.S. from the University of Minnesota and her PhD from the University of California, Berkeley under the supervision of Prof. Gabor Somorjai. She was a post-doctoral research fellow at MIT as an NIH fellow in Professor Bob Langer’s lab."
   subtopics:
     - Artificial Intelligence for Drug Development (PT1)
     - Cell and Biologics Manufacturing (PT2)
