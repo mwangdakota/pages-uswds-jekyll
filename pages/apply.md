@@ -28,18 +28,7 @@ timeline:
   - title: 5-6 months after<br> the window closes
     description: If your proposal is accepted, you'll receive funding of up to $256,000 and begin Phase I research and development.
     inactive_description: If your proposal is accepted, you'll receive funding of up to $256,000.
-  - title: 6-24 months after <br>beginning Phase I<br><br><br><br><br><br><br><br>
-    description: Apply for Phase II funding. (<span style="color:red">Note- Only small businesses with a Phase I award can submit a Phase II proposal</span>).<br><br> There are four submission windows for Phase II proposals in 2020:<br>{{ site.solicitation_window_1 }}<br>{{ site.solicitation_window_2 }}<br>{{ site.solicitation_window_3 }}<br>{{ site.solicitation_window_4 }}
-    inactive_description: Apply for Phase II funding. (<span style="color:red">Note- Only small businesses with a Phase I award can submit a Phase II proposal</span>).<br><br> There are four submission windows for Phase II proposals in 2020:<br>{{ site.solicitation_window_1 }}<br>{{ site.solicitation_window_2 }}<br>{{ site.solicitation_window_3 }}<br>{{ site.solicitation_window_4 }}
-  - title: 1-3 months after<br> the window closes
-    description: Phase II proposals undergo merit reviews.
-    inactive_description: Phase II proposals undergo merit reviews.
-  - title: 4-6 months after<br> the window closes
-    description: We'll notify you whether your Phase II proposal is accepted or declined.
-    inactive_description: We'll notify you whether your Phase II proposal is accepted or declined.
-  - title: 5-6 months after<br> the window closes
-    description: If your Phase II proposal is accepted, you'll receive funding of up to $1 million and begin Phase II research and development toward commercialization.
-    inactive_description: If your Phase II proposal is accepted, you'll receive funding of up to $1 million and begin Phase II research and development toward commercialization.      
+    
 ---
 <head>
 <script type="text/javascript">
