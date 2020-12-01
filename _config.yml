@@ -15,8 +15,8 @@ solicitation_window_2: March 6, 2020 - June 4, 2020
 solicitation_window_3: June 5, 2020 - September 3, 2020
 solicitation_window_4: September 4, 2020 - December 3, 2020
 
-# app_process: active
-app_process: inactive
+app_process: active
+# app_process: inactive
 
 styles:
   - /assets/css/styles.css
