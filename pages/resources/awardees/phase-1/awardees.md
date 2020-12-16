@@ -16,7 +16,7 @@ This page has all the forms you need to manage your Phase I award, information y
 
 ## Information for current Phase I awardees
 
-- [Phase I general award conditions](https://www.nsf.gov/awards/managing/special_conditions.jsp)
+- [Phase I general award conditions](https://www.nsf.gov/awards/managing/sbirsttr_conditions.jsp)
 - [CAAR videos for Phase I awardees: financial capability, accounting, and Phase II budgeting](https://www.youtube.com/playlist?list=PLGhBP1C7iCOmI1p5UtqYCXzmUL9SzSApv)
 - [Phase I reporting requirements]({{ site.baseurl }}/resources/awardees/phase-1/reporting/)
 - [How to apply for a Phase II award]({{ site.baseurl }}/resources/awardees/phase-2/apply/)
