@@ -35,9 +35,9 @@ A company may submit a Phase II proposal anytime between six (6) months and two 
 
 All SBIR/STTR Phase I awardees with Phase I start dates between December 4, 2018, and December 4, 2019, will have a three-month extension to submit their Phase II proposal. The Phase II submission deadline will be extended by three months to be 27 months (rather than 24 months). In other words, if your award date was:
 
-• December 4, 2018: your new Phase II proposal deadline is March 4, 2021.
-• January 1, 2019: your new Phase II proposal deadline is April 1, 2021.
-• February 1, 2019: your new Phase II proposal deadline is May 1, 2021.
+* December 4, 2018: your new Phase II proposal deadline is March 4, 2021.
+* January 1, 2019: your new Phase II proposal deadline is April 1, 2021.
+* February 1, 2019: your new Phase II proposal deadline is May 1, 2021.
 
 Proposals that have already been submitted will not be affected by this change.
 
