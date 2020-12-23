@@ -31,14 +31,14 @@ Read the STTR Phase II Solicitation</a>
 
 ## Submission info
 
--A company may submit a Phase II proposal anytime between six (6) months and two years (24 months) after the start date of the relevant Phase I award. The start date can be found on your Phase I award letter.
--All SBIR/STTR Phase I awardees with Phase I start dates between December 4, 2018, and December 4, 2019, will have a three-month extension to submit their Phase II proposal. The Phase II submission deadline will be extended by three months to be 27 months (rather than 24 months). In other words, if your award date was:
+- A company may submit a Phase II proposal anytime between six (6) months and two years (24 months) after the start date of the relevant Phase I award. The start date can be found on your Phase I award letter.
+- All SBIR/STTR Phase I awardees with Phase I start dates between December 4, 2018, and December 4, 2019, will have a three-month extension to submit their Phase II proposal. The Phase II submission deadline will be extended by three months to be 27 months (rather than 24 months). In other words, if your award date was:
 
   * December 4, 2018: your new Phase II proposal deadline is March 4, 2021.
   * January 1, 2019: your new Phase II proposal deadline is April 1, 2021.
   * February 1, 2019: your new Phase II proposal deadline is May 1, 2021.
 
--Proposals that have already been submitted will not be affected by this change.
+- Proposals that have already been submitted will not be affected by this change.
 - A company may submit a Phase II proposal anytime between six (6) months and two years (24 months) after the start date of the relevant Phase I award. The start date can be found on your Phase I award letter. To extend flexibility to small businesses during the COVID-19 crisis, all Phase I companies that received their Phase I with an award start date between March 15, 2018 and December 3, 2018 will have until December 3, 2020 to submit an SBIR/STTR Phase II proposal. (Phase I companies that received their Phase I award after December 3, 2018, are not eligible for this extension).
 - You’ll need to submit your Phase II SBIR or STTR proposal through FastLane.
 - If you’re an STTR Phase I awardee, you can now submit a SBIR Phase II proposal. [More information on switching from STTR to SBIR](http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf14103).
