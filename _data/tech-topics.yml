@@ -386,40 +386,6 @@
   - Other Human-Computer Interaction Technologies (HC8)
   companies:
 
-- topic: Information Technologies (IT)
-  permalink: /topics/information-technologies/
-  topic_code: it
-  programDirector:
-    - name: Diane Hickey
-      last_name: Hickey
-      api_name: Diane Hickey
-      email: dHickey@nsf.gov
-      photo: Diane-compressed.jpg
-      ttopic: it
-      bio: "joined NSF as an SBIR/STTR program director in August 2020. She has extensive experience in multiple technical fields and early-stage deep technology ventures. Diane founded the Diamond Chameleon Group and grew a broad team providing commercialization services to more than 40 SBIR awardees and deep technology startups with funding across government agencies. Diane began her career at Accenture, implementing enterprise-wide systems in utility and chemical corporations. She then joined C-Bridge Internet Solutions, an MIT-based startup that provided technologies to connect corporate back-end systems to users; the company went public in 1999, and merged with Excelon in 2000 and Progress Software Corp (PRGS) in 2004. After completing her Ph.D., Diane joined Advanced Diamond Technologies (ADT), a startup spun out of Argonne National Laboratory, she helped the company transition from grant support to commercial sustainability. Diane has held life-long roles in STEM education, including the NSF Young Scholars program, participation in the NSF Nanotechnology Informal Science Education network, and as a Sisters4Science mentor. She has also supported science education startups, served as the school and homeschool liaison for the Tampa’s Children’s Museum and has taught for Kaplan, Inc. Diane consulted on science education and pursued graduate coursework at the University of Florida’s College of Journalism and Communications. Diane holds a B.S. in Chemical Engineering from Auburn University, and an M.S. and Ph.D. in Materials Science and Engineering from the University of Florida."
-  subtopics:
-  - Big Data and Advanced Analytics (IT1)
-  - Cloud Computing and High-Performance Computing (IT2)
-  - Cloud-based IT Services (IT3)
-  - Cybersecurity, Authentication, and Privacy (IT4)
-  - Cybersecurity for the Internet of Things (IT5)
-  - Education Technologies (IT6)
-  - Human-Computer Interaction, Virtual Reality, and Augmented Reality (IT7)
-  - Image and Video (IT8)
-  - Mobile Computing, Internet of Things, Cyber-Physical Systems (IT9)
-  - Networking Technology (IT10)
-  - Social Media and Collaborative Networking (IT11)
-  - Software (IT12)
-  - Other Information Technologies (IT13)
-  companies:
-    - name: DeepScale, Inc
-    - name: Openspace
-    - name: Stateless, Inc
-    - name: KANDRA LABS INC
-    - name: Intentionet, Inc.
-    - name: Mental Canvas, LLC
-    - name: InsightFinder Inc.
-    
 - topic: Instrumentation and Hardware Systems (IH)
   permalink: /topics/instrumentation-and-hardware-systems/
   topic_code: ih
@@ -467,6 +433,32 @@
     - name: One Million Metrics Corp
     - name: IOTAS, Inc.
 
+- topic: Learning and Cognition Technologies (LC)
+  permalink: /topics/learning-cognition-technologies/
+  topic_code: 
+    -lc
+  programDirector:
+    - name: Ben Schrag
+      last_name: Schrag
+      api_name: Ben Schrag
+      email: bschrag@nsf.gov
+      photo: Ben-compressed.jpg
+      ttopic: lc
+      bio: "is the Senior Program Director for the SBIR/STTR programs. He joined the NSF as a Program Director in 2009, leading the Advanced Materials and Instrumentation. Prior to NSF, he was the Director of Research and Development at Micro Magnetics, where he led a development effort to commercialize a new family of high-performance magnetic microsensor products for demanding consumer and military applications. During this time, he also served as a visiting scientist at Brown University and as the Principal Investigator on a number of federal grants and contracts, including NSF Phase I and Phase II Small Business Innovation Research projects and an Advanced Technology Program award from NIST. Ben received his Ph.D. in Physics from Brown University."
+  subtopics:
+    - Asynchronous and Remote Learning (LC1)
+    - Collaborative Networking (LC2)
+    -  Digital Learning (LC3)
+    - Learning Disabilities and Difficulties (LC4)
+    - Learning and Workforce Development (LC5)
+    - Learning Modalities (LC6)
+    - Mental Health Assessment and Support (LC7)
+    - Neuroscience-based Technologies (LC8)
+    - Scalable Educational Enterprise Systems (LC9)
+    - Statistical and Heuristic Analysis (LC10)
+    - Other Learning and Cognition Technologies (LC11)
+  companies:
+    
 - topic: Medical Devices (MD)
   permalink: /topics/medical-devices/
   topic_code: md
@@ -487,6 +479,27 @@
     - Other Medical Devices (MD6)
   companies:
     - name: Neural Analytics
+    
+- topic: Mobility (MO)
+  permalink: /topics/mobility/
+  topic_code: mo
+  programDirector:
+    - name: Henry Ahn
+      last_name: Ahn
+      api_name: Henry Ahn
+      email: hahn@nsf.gov
+      photo: Henry-compressed.jpg
+      ttopic: mo
+      bio: "joined the National Science Foundation in July 2016 as an SBIR/STTR Program Director. Prior to joining NSF, Henry managed seed/early stage investment programs for TEDCO for 12 years including Technology Commercialization Fund, TEDCO’s flagship seed funding program for technology-based companies in Maryland. During his time at TEDCO, Henry was actively involved with various entrepreneurs and entrepreneur support groups as a guest speaker, an advisory board member, a judge, a mentor, among others. Additionally, Henry was part of the licensing/supplier relations team at a biotechnology company called Upstate, where he successfully negotiated, licensed and commercialized approximately 190 biomedical research reagents from around the world. Henry has also done approximately five years of research, mostly in the field of immunology (including graduate work). Henry has an MBA from Rice University, an M.S. in biotechnology from the University of Tennessee, Knoxville and a B.S. in biomedical engineering from Boston University."  
+  subtopics:
+    - Behavioral (MO1)
+    - Hardware (MO2)
+    - Infrastructure and Flow (MO3)
+    - Resiliency and Sustainability (MO4)
+    - Software (MO5)
+    - Other Mobility Topics (MO6)
+  companies:
+    - name: Neural Analytics    
     
 - topic: Nanotechnology (N)
   permalink: /topics/nanotechnology/
@@ -538,14 +551,11 @@
       desc:
       bio: "joined NSF as a Program Director for the Partnerships for Innovation (PFI) program in June 2020. Since 2011, Katie has been an Assistant Professor in the Department of Materials Science & Engineering and the Department of Chemical & Biological Engineering at Iowa State University. Her current research thrusts include the development of biomaterials for medical applications and evaluation of these materials in in-vitro and in vivo contexts for drug delivery and regenerative medicine. She received the NSF BRIGE Award in 2012, the ISU Honors Mentor Award in 2014, was nominated “Outstanding Faculty Member” by the Interfraternity Council in 2015, and won both the Akinc Excellence in Research and Teaching Awards in 2015. Katie earned her B.S. from the University of Minnesota and her PhD from the University of California, Berkeley under the supervision of Prof. Gabor Somorjai. She was a post-doctoral research fellow at MIT as an NIH fellow in Professor Bob Langer’s lab."
   subtopics:
-    - Artificial Intelligence for Drug Development (PT1)
-    - Cell and Biologics Manufacturing (PT2)
-    - Drug Delivery Methods (PT3)
-    - Drug Discovery Platforms (PT4)
-    - Pharmaceutical Bioinformatics (PT5)
-    - Pharmaceutical Manufacturing (PT6)
-    - Therapeutic Molecules (PT7)
-    - Other Pharmaceutical Technologies (PT8)
+    - Drug Delivery Methods (PT1)
+    - Drug Discovery (PT2)
+    - Pharmaceutical and Biologic Manufacturing (PT3)
+    - Therapeutic Molecules (PT4)
+    - Other Pharmaceutical Technologies (PT5)
   companies:
 
 - topic: Photonics (PH)
@@ -565,7 +575,8 @@
     - Communications, Information, and Data Storage (PH3)
     - Lighting and Displays (PH4)
     - Photon-based Energy Conversion (PH5)
-    - Other Photonics Technologies (PH6)
+    - Photonic Materials (PH6)
+    - Other Photonics Technologies (PH7)
   companies:
     - name: Clerio Vision, Inc.
     - name: Endectra, LLC
@@ -627,8 +638,7 @@
     - Human-Machine Interfaces and Control/Architecture (R2)
     - Robotic Applications (R3)
     - Robotics in Agile Manufacturing, and Co-Robots (R4)
-    - Robotics in Education (R5)
-    - Other Robotics Technologies (R6)
+    - Other Robotics Technologies (R5)
   companies:
     - name: TACTAI
     - name: Blue River Technology Inc
@@ -679,8 +689,8 @@
     - Navigation and Positioning Technologies (SP5)
     - On-Orbit Technologies (SP6)
     - Remote Sensing Technologies (SP7)
-    - Space Transportation and Access (SP8)
-    - Spacecraft Development and Manufacturing (SP9)
+    - Spacecraft Development and Manufacturing (SP8)
+    - Space Transportation and Access (SP9)
     - Telecommunications Technologies (SP10)
     - Other Space-related Technologies (SP11)
   companies:    
