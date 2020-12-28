@@ -9,7 +9,7 @@ section_image_caption: |
 
 ---
 
-The Advanced Materials topic addresses the development of new and improved materials for a wide variety of commercial and industrial applications. Proposals may focus on the creation of innovative material systems and/or on critical fabrication, processing, or manufacturing challenges involved in the successful commercialization of materials. A wide variety of applications areas will be considered as part of this topic. 
+The Advanced Materials topic addresses the development of new and improved materials for a wide variety of commercial and industrial applications. Proposals may focus on the creation of innovative material systems and/or on critical fabrication, processing, or manufacturing challenges involved in the successful commercialization of materials. A broad range of applications areas will be considered as part of this topic. 
 
 ### AM1. Coatings and Surface Modifications 
 
