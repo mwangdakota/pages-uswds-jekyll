@@ -2,13 +2,13 @@
   permalink: /topics/advanced-analytics/
   topic_code: aa
   programDirector:
-    - name: Elizabeth Mirowski
-      last_name: Mirowski
-      api_name: Elizabeth Mirowski
-      email: emirowsk@nsf.gov
-      photo: mirowski.jpg
-      ttopic: aa
-      bio: "started as an SBIR/STTR program director in May 2020. Before NSF, Ela was a Founder and CEO of Verellium, a medical device startup. At Verellium she built strong collaborative partnerships across industry, academia, and federal labs to develop novel solutions for clinical imaging that resulted in new products and new market segments. She also worked for High Precision Devices (HPD) where she successfully transferred several technologies into prototypes and commercialized them, creating a standalone, revenue-generating company, QalibreMD, in just three years. As a principal investigator on SBIR grants from various federal agencies, Ela led the program direction including research, engineering, manufacturing, and market development. In addition to these activities, she engaged in fundraising from venture capital and private equity sources. For more than 17 years, Ela worked for and consulted to small businesses managing the development of technologies involving photonics for displays, semiconductor electronics, renewable energies, nanomaterials, and lab-on-chip platforms for evaluating neural growth and biological processes at the single-molecule level. Ela holds a Ph.D. in Physical Chemistry from the University of Colorado, a B.A. in Chemistry from Columbia University, and completed a National Research Council post-doctorate at the National Institute of Standards and Technology." 
+  - name: Peter Atherton
+    last_name: Atherton
+    api_name: Peter Atherton
+    email: patherto@nsf.gov
+    photo: Peter-compressed.jpg
+    ttopic: aa
+    bio: "comes to the NSF with a broad background in the physical sciences, and extensive experience in technology development and commercialization. Before joining NSF Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly traded company that he founded in Sydney, Australia. While at MIKOH Corporation he was instrumental in developing and commercializing technologies in a range of fields including diffractive optics, laser-based marking, radio frequency identification and internet-based personal authentication.) Prior to MIKOH he spent approximately seven years at the Overseas Telecommunications Commission (OTC Australia) where he managed optical fiber communications R&D, including approximately 14 months in the UK at British Telecom’s Martlesham Heath R&D laboratories. (While at OTC his research group made world-leading advances in high-speed optical communications technologies, some of which were commercialized via spin-off companies. He also managed the externally contracted development and commercialization of a number of optical fiber and optoelectronic  technologies, and was instrumental in establishing a commercialization center for specialized optical fibers at the University of Sydney. He moved to the United States in 1998 to further develop the company’s technologies and markets. Peter holds a Ph.D. in physics (Quantum Optics), and a BEng (Mech) – both from the University of Queensland (Australia)."
   subtopics:
     - Data Collection, Cleaning, Integration and Processing (AA1)
     - Data Mining (AA2)
@@ -104,13 +104,13 @@
   permalink: /topics/augmented-virtual-reality/
   topic_code: av
   programDirector:
-  - name: Peter Atherton
-    last_name: Atherton
-    api_name: Peter Atherton
-    email: patherto@nsf.gov
-    photo: Peter-compressed.jpg
-    ttopic: av
-    bio: "comes to the NSF with a broad background in the physical sciences, and extensive experience in technology development and commercialization. Before joining NSF Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly traded company that he founded in Sydney, Australia. While at MIKOH Corporation he was instrumental in developing and commercializing technologies in a range of fields including diffractive optics, laser-based marking, radio frequency identification and internet-based personal authentication.) Prior to MIKOH he spent approximately seven years at the Overseas Telecommunications Commission (OTC Australia) where he managed optical fiber communications R&D, including approximately 14 months in the UK at British Telecom’s Martlesham Heath R&D laboratories. (While at OTC his research group made world-leading advances in high-speed optical communications technologies, some of which were commercialized via spin-off companies. He also managed the externally contracted development and commercialization of a number of optical fiber and optoelectronic  technologies, and was instrumental in establishing a commercialization center for specialized optical fibers at the University of Sydney. He moved to the United States in 1998 to further develop the company’s technologies and markets. Peter holds a Ph.D. in physics (Quantum Optics), and a BEng (Mech) – both from the University of Queensland (Australia)."
+    - name: Diane Hickey
+      last_name: Hickey
+      api_name: Diane Hickey
+      email: dHickey@nsf.gov
+      photo: Diane-compressed.jpg
+      ttopic: it
+      bio: "joined NSF as an SBIR/STTR program director in August 2020. She has extensive experience in multiple technical fields and early-stage deep technology ventures. Diane founded the Diamond Chameleon Group and grew a broad team providing commercialization services to more than 40 SBIR awardees and deep technology startups with funding across government agencies. Diane began her career at Accenture, implementing enterprise-wide systems in utility and chemical corporations. She then joined C-Bridge Internet Solutions, an MIT-based startup that provided technologies to connect corporate back-end systems to users; the company went public in 1999, and merged with Excelon in 2000 and Progress Software Corp (PRGS) in 2004. After completing her Ph.D., Diane joined Advanced Diamond Technologies (ADT), a startup spun out of Argonne National Laboratory, she helped the company transition from grant support to commercial sustainability. Diane has held life-long roles in STEM education, including the NSF Young Scholars program, participation in the NSF Nanotechnology Informal Science Education network, and as a Sisters4Science mentor. She has also supported science education startups, served as the school and homeschool liaison for the Tampa’s Children’s Museum and has taught for Kaplan, Inc. Diane consulted on science education and pursued graduate coursework at the University of Florida’s College of Journalism and Communications. Diane holds a B.S. in Chemical Engineering from Auburn University, and an M.S. and Ph.D. in Materials Science and Engineering from the University of Florida."
   subtopics:
     - Audio Augmentation and Interfaces (AV1)
     - Computation and Data integration (AV2)
@@ -216,13 +216,13 @@
   permalink: /topics/cloud-high-performance-computing/
   topic_code: ch
   programDirector:
-    - name: Anna Brady-Estevez
-      last_name: Brady-Estevez
-      api_name: Anna Brady
-      email: abrady@nsf.gov
-      photo: Anna-compressed.jpg
-      ttopic: ch
-      bio: "joined the National Science Foundation as a SBIR/STTR Program Director in 2016. In this role she brings breadth of background across entrepreneurship and venture capital, innovative research, and direction of corporate strategy and investments. Anna has served as a collaborator with numerous startups having worked as an inventor for an early stage venture-backed start-up providing low-cost, low-energy portable water treatment, and a Principal Investor for an early stage venture firm. Anna’s contributions were recognized in 2009 when she was selected as one of  about 30 Kauffman Fellows from around the globe, for leadership in innovation and venture capital. She served as Director of Corporate Strategy for leading multinationals including The AES Corporation and Cummins Inc., and advised numerous clients while serving as a management consultant for The Boston Consulting Group. Anna’s work in these roles resulted in over $6B of infrastructure investments with enhanced returns, identification of $B+ cost reduction opportunities, contributing to a core transformation team of a $T+ entity in oil & gas, and the implementation of several new technologies spanning nanotechnology, advanced manufacturing, Big Data and Internet of Things, along with new equipment that enabled transforming energy economics. Earlier in her career, she performed research at the intersection of innovation and international relations with the Office of Naval Research at the U.S. Embassy in Chile. Anna holds a PhD from Yale University in Chemical and Environmental Engineering, where she held a National Science Foundation Graduate Research Fellowship; and a B.S. in Chemical Engineering and B.A. in Spanish from The Johns Hopkins University."
+  - name: Peter Atherton
+    last_name: Atherton
+    api_name: Peter Atherton
+    email: patherto@nsf.gov
+    photo: Peter-compressed.jpg
+    ttopic: aa
+    bio: "comes to the NSF with a broad background in the physical sciences, and extensive experience in technology development and commercialization. Before joining NSF Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly traded company that he founded in Sydney, Australia. While at MIKOH Corporation he was instrumental in developing and commercializing technologies in a range of fields including diffractive optics, laser-based marking, radio frequency identification and internet-based personal authentication.) Prior to MIKOH he spent approximately seven years at the Overseas Telecommunications Commission (OTC Australia) where he managed optical fiber communications R&D, including approximately 14 months in the UK at British Telecom’s Martlesham Heath R&D laboratories. (While at OTC his research group made world-leading advances in high-speed optical communications technologies, some of which were commercialized via spin-off companies. He also managed the externally contracted development and commercialization of a number of optical fiber and optoelectronic  technologies, and was instrumental in establishing a commercialization center for specialized optical fibers at the University of Sydney. He moved to the United States in 1998 to further develop the company’s technologies and markets. Peter holds a Ph.D. in physics (Quantum Optics), and a BEng (Mech) – both from the University of Queensland (Australia)."
   subtopics:
     - Algorithms and Applications (CH1)
     - Computational Architecture (CH2)
@@ -243,13 +243,13 @@
   permalink: /topics/cloud-high-performance-computing/
   topic_code: ca
   programDirector:
-    - name: Anna Brady-Estevez
-      last_name: Brady-Estevez
-      api_name: Anna Brady
-      email: abrady@nsf.gov
-      photo: Anna-compressed.jpg
-      ttopic: ca
-      bio: "joined the National Science Foundation as a SBIR/STTR Program Director in 2016. In this role she brings breadth of background across entrepreneurship and venture capital, innovative research, and direction of corporate strategy and investments. Anna has served as a collaborator with numerous startups having worked as an inventor for an early stage venture-backed start-up providing low-cost, low-energy portable water treatment, and a Principal Investor for an early stage venture firm. Anna’s contributions were recognized in 2009 when she was selected as one of  about 30 Kauffman Fellows from around the globe, for leadership in innovation and venture capital. She served as Director of Corporate Strategy for leading multinationals including The AES Corporation and Cummins Inc., and advised numerous clients while serving as a management consultant for The Boston Consulting Group. Anna’s work in these roles resulted in over $6B of infrastructure investments with enhanced returns, identification of $B+ cost reduction opportunities, contributing to a core transformation team of a $T+ entity in oil & gas, and the implementation of several new technologies spanning nanotechnology, advanced manufacturing, Big Data and Internet of Things, along with new equipment that enabled transforming energy economics. Earlier in her career, she performed research at the intersection of innovation and international relations with the Office of Naval Research at the U.S. Embassy in Chile. Anna holds a PhD from Yale University in Chemical and Environmental Engineering, where she held a National Science Foundation Graduate Research Fellowship; and a B.S. in Chemical Engineering and B.A. in Spanish from The Johns Hopkins University."
+  - name: Peter Atherton
+    last_name: Atherton
+    api_name: Peter Atherton
+    email: patherto@nsf.gov
+    photo: Peter-compressed.jpg
+    ttopic: aa
+    bio: "comes to the NSF with a broad background in the physical sciences, and extensive experience in technology development and commercialization. Before joining NSF Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly traded company that he founded in Sydney, Australia. While at MIKOH Corporation he was instrumental in developing and commercializing technologies in a range of fields including diffractive optics, laser-based marking, radio frequency identification and internet-based personal authentication.) Prior to MIKOH he spent approximately seven years at the Overseas Telecommunications Commission (OTC Australia) where he managed optical fiber communications R&D, including approximately 14 months in the UK at British Telecom’s Martlesham Heath R&D laboratories. (While at OTC his research group made world-leading advances in high-speed optical communications technologies, some of which were commercialized via spin-off companies. He also managed the externally contracted development and commercialization of a number of optical fiber and optoelectronic  technologies, and was instrumental in establishing a commercialization center for specialized optical fibers at the University of Sydney. He moved to the United States in 1998 to further develop the company’s technologies and markets. Peter holds a Ph.D. in physics (Quantum Optics), and a BEng (Mech) – both from the University of Queensland (Australia)."
   subtopics:
     - Computation on Encrypted Data (CA1)
     - Cryptography, including Post-quantum Cryptography (CA2)
@@ -438,13 +438,13 @@
   topic_code: 
     -lc
   programDirector:
-    - name: Ben Schrag
-      last_name: Schrag
-      api_name: Ben Schrag
-      email: bschrag@nsf.gov
-      photo: Ben-compressed.jpg
-      ttopic: lc
-      bio: "is the Senior Program Director for the SBIR/STTR programs. He joined the NSF as a Program Director in 2009, leading the Advanced Materials and Instrumentation. Prior to NSF, he was the Director of Research and Development at Micro Magnetics, where he led a development effort to commercialize a new family of high-performance magnetic microsensor products for demanding consumer and military applications. During this time, he also served as a visiting scientist at Brown University and as the Principal Investigator on a number of federal grants and contracts, including NSF Phase I and Phase II Small Business Innovation Research projects and an Advanced Technology Program award from NIST. Ben received his Ph.D. in Physics from Brown University."
+    - name: Diane Hickey
+      last_name: Hickey
+      api_name: Diane Hickey
+      email: dHickey@nsf.gov
+      photo: Diane-compressed.jpg
+      ttopic: it
+      bio: "joined NSF as an SBIR/STTR program director in August 2020. She has extensive experience in multiple technical fields and early-stage deep technology ventures. Diane founded the Diamond Chameleon Group and grew a broad team providing commercialization services to more than 40 SBIR awardees and deep technology startups with funding across government agencies. Diane began her career at Accenture, implementing enterprise-wide systems in utility and chemical corporations. She then joined C-Bridge Internet Solutions, an MIT-based startup that provided technologies to connect corporate back-end systems to users; the company went public in 1999, and merged with Excelon in 2000 and Progress Software Corp (PRGS) in 2004. After completing her Ph.D., Diane joined Advanced Diamond Technologies (ADT), a startup spun out of Argonne National Laboratory, she helped the company transition from grant support to commercial sustainability. Diane has held life-long roles in STEM education, including the NSF Young Scholars program, participation in the NSF Nanotechnology Informal Science Education network, and as a Sisters4Science mentor. She has also supported science education startups, served as the school and homeschool liaison for the Tampa’s Children’s Museum and has taught for Kaplan, Inc. Diane consulted on science education and pursued graduate coursework at the University of Florida’s College of Journalism and Communications. Diane holds a B.S. in Chemical Engineering from Auburn University, and an M.S. and Ph.D. in Materials Science and Engineering from the University of Florida."
   subtopics:
     - Asynchronous and Remote Learning (LC1)
     - Collaborative Networking (LC2)
@@ -484,13 +484,13 @@
   permalink: /topics/mobility/
   topic_code: mo
   programDirector:
-    - name: Henry Ahn
-      last_name: Ahn
-      api_name: Henry Ahn
-      email: hahn@nsf.gov
-      photo: Henry-compressed.jpg
-      ttopic: mo
-      bio: "joined the National Science Foundation in July 2016 as an SBIR/STTR Program Director. Prior to joining NSF, Henry managed seed/early stage investment programs for TEDCO for 12 years including Technology Commercialization Fund, TEDCO’s flagship seed funding program for technology-based companies in Maryland. During his time at TEDCO, Henry was actively involved with various entrepreneurs and entrepreneur support groups as a guest speaker, an advisory board member, a judge, a mentor, among others. Additionally, Henry was part of the licensing/supplier relations team at a biotechnology company called Upstate, where he successfully negotiated, licensed and commercialized approximately 190 biomedical research reagents from around the world. Henry has also done approximately five years of research, mostly in the field of immunology (including graduate work). Henry has an MBA from Rice University, an M.S. in biotechnology from the University of Tennessee, Knoxville and a B.S. in biomedical engineering from Boston University."  
+    - name: Elizabeth Mirowski
+      last_name: Mirowski
+      api_name: Elizabeth Mirowski
+      email: emirowsk@nsf.gov
+      photo: mirowski.jpg
+      ttopic: m
+      bio: "started as an SBIR/STTR program director in May 2020. Before NSF, Ela was a Founder and CEO of Verellium, a medical device startup. At Verellium she built strong collaborative partnerships across industry, academia, and federal labs to develop novel solutions for clinical imaging that resulted in new products and new market segments. She also worked for High Precision Devices (HPD) where she successfully transferred several technologies into prototypes and commercialized them, creating a standalone, revenue-generating company, QalibreMD, in just three years. As a principal investigator on SBIR grants from various federal agencies, Ela led the program direction including research, engineering, manufacturing, and market development. In addition to these activities, she engaged in fundraising from venture capital and private equity sources. For more than 17 years, Ela worked for and consulted to small businesses managing the development of technologies involving photonics for displays, semiconductor electronics, renewable energies, nanomaterials, and lab-on-chip platforms for evaluating neural growth and biological processes at the single-molecule level. Ela holds a Ph.D. in Physical Chemistry from the University of Colorado, a B.A. in Chemistry from Columbia University, and completed a National Research Council post-doctorate at the National Institute of Standards and Technology." 
   subtopics:
     - Behavioral (MO1)
     - Hardware (MO2)
