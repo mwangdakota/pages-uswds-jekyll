@@ -1,3 +1,28 @@
+- topic: Advanced Analytics (AA)
+  permalink: /topics/advanced-analytics/
+  topic_code: aa
+  programDirector:
+    - name: Elizabeth Mirowski
+      last_name: Mirowski
+      api_name: Elizabeth Mirowski
+      email: emirowsk@nsf.gov
+      photo: mirowski.jpg
+      ttopic: aa
+      bio: "started as an SBIR/STTR program director in May 2020. Before NSF, Ela was a Founder and CEO of Verellium, a medical device startup. At Verellium she built strong collaborative partnerships across industry, academia, and federal labs to develop novel solutions for clinical imaging that resulted in new products and new market segments. She also worked for High Precision Devices (HPD) where she successfully transferred several technologies into prototypes and commercialized them, creating a standalone, revenue-generating company, QalibreMD, in just three years. As a principal investigator on SBIR grants from various federal agencies, Ela led the program direction including research, engineering, manufacturing, and market development. In addition to these activities, she engaged in fundraising from venture capital and private equity sources. For more than 17 years, Ela worked for and consulted to small businesses managing the development of technologies involving photonics for displays, semiconductor electronics, renewable energies, nanomaterials, and lab-on-chip platforms for evaluating neural growth and biological processes at the single-molecule level. Ela holds a Ph.D. in Physical Chemistry from the University of Colorado, a B.A. in Chemistry from Columbia University, and completed a National Research Council post-doctorate at the National Institute of Standards and Technology." 
+  subtopics:
+    - Data Collection, Cleaning, Integration and Processing (AA1)
+    - Data Mining (AA2)
+    - Decision Modelling (AA3)
+    - Descriptive and Predictive Analytics (AA4)
+    - Deterministic Modelling (AA5)
+    - Optimization (AA6)
+    - Simulation (AA7)
+    - Statistical Modelling (AA8)
+    - Time Series Analysis and Forecasting (AA9)
+    - Visualization (AA10)
+    - Other Advanced Analytics Technologies (AA11)
+  companies:
+    
 - topic: Advanced Manufacturing (M)
   permalink: /topics/advanced-manufacturing/
   topic_code: m
@@ -18,8 +43,7 @@
     - Modeling and Simulation (M6)
     - Personalized Manufacturing / Maker Manufacturing / Maker to Manufacturer (M7)
     - Sustainable Manufacturing Technology / Circular Economy Technologies (M8)
-    - Transportation Technologies (M9)
-    - Other Manufacturing Technologies (M10)
+    - Other Manufacturing Technologies (M9)
   companies:
     - name: 3DEO, Inc.
     - name: XPEED Turbine Technology LLC
@@ -68,22 +92,32 @@
     bio: "comes to the NSF with a broad background in the physical sciences, and extensive experience in technology development and commercialization. Before joining NSF Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly traded company that he founded in Sydney, Australia. While at MIKOH Corporation he was instrumental in developing and commercializing technologies in a range of fields including diffractive optics, laser-based marking, radio frequency identification and internet-based personal authentication.) Prior to MIKOH he spent approximately seven years at the Overseas Telecommunications Commission (OTC Australia) where he managed optical fiber communications R&D, including approximately 14 months in the UK at British Telecom’s Martlesham Heath R&D laboratories. (While at OTC his research group made world-leading advances in high-speed optical communications technologies, some of which were commercialized via spin-off companies. He also managed the externally contracted development and commercialization of a number of optical fiber and optoelectronic  technologies, and was instrumental in establishing a commercialization center for specialized optical fibers at the University of Sydney. He moved to the United States in 1998 to further develop the company’s technologies and markets. Peter holds a Ph.D. in physics (Quantum Optics), and a BEng (Mech) – both from the University of Queensland (Australia)."
   subtopics:
     - AI-Optimized Hardware (AI1)
-    - Business Intelligence (AI2)
-    - Computer Vision, Image and Video Processing (AI3)
-    - Decision Management and Optimization (AI4)
-    - eCommerce (AI5)
-    - Education Technologies (AI6)
-    - Human-Computer Interaction (AI7)
-    - Industrial Systems, including Robotics (A18)
-    - Language-Based Technologies (AI9)
-    - Machine Learning Algorithms and Platforms (A10)
-    - Medical Diagnostics (AI11)
-    - Sales, Advertising, and Marketing (AI12)
-    - Security, Cybersecurity, and Authentication (AI13)
-    - Smart Agriculture (AI14)
-    - Vehicle-Based Systems (AI15)
-    - Virtual Agents and Assistants (AI16)
-    - Other AI Technologies (AI17)
+    - Computer Vision (AI2)
+    - Language-Based AI (AI3)
+    - Machine Learning (AI4)
+    - Other Artificial Intelligence Technologies (AI5)
+  companies:
+    - name: Bay Labs, Inc.
+    - name: GrokStyle Inc.
+
+- topic: Augmented and Virtual Reality (AV)
+  permalink: /topics/augmented-virtual-reality/
+  topic_code: av
+  programDirector:
+  - name: Peter Atherton
+    last_name: Atherton
+    api_name: Peter Atherton
+    email: patherto@nsf.gov
+    photo: Peter-compressed.jpg
+    ttopic: av
+    bio: "comes to the NSF with a broad background in the physical sciences, and extensive experience in technology development and commercialization. Before joining NSF Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly traded company that he founded in Sydney, Australia. While at MIKOH Corporation he was instrumental in developing and commercializing technologies in a range of fields including diffractive optics, laser-based marking, radio frequency identification and internet-based personal authentication.) Prior to MIKOH he spent approximately seven years at the Overseas Telecommunications Commission (OTC Australia) where he managed optical fiber communications R&D, including approximately 14 months in the UK at British Telecom’s Martlesham Heath R&D laboratories. (While at OTC his research group made world-leading advances in high-speed optical communications technologies, some of which were commercialized via spin-off companies. He also managed the externally contracted development and commercialization of a number of optical fiber and optoelectronic  technologies, and was instrumental in establishing a commercialization center for specialized optical fibers at the University of Sydney. He moved to the United States in 1998 to further develop the company’s technologies and markets. Peter holds a Ph.D. in physics (Quantum Optics), and a BEng (Mech) – both from the University of Queensland (Australia)."
+  subtopics:
+    - Audio Augmentation and Interfaces (AV1)
+    - Computation and Data integration (AV2)
+    - Projection and Display Media (AV3)
+    - Tracking, Alignment, and Stabilization Technologies (AV4)
+    - Wearable Technologies (AV5)
+    - Wearable Technologies (AV5)
   companies:
     - name: Bay Labs, Inc.
     - name: GrokStyle Inc.
