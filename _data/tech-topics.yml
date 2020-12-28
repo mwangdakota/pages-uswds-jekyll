@@ -117,7 +117,7 @@
     - Projection and Display Media (AV3)
     - Tracking, Alignment, and Stabilization Technologies (AV4)
     - Wearable Technologies (AV5)
-    - Wearable Technologies (AV5)
+    - Other Augmented and Virtual Reality Technologies (AV6)
   companies:
     - name: Bay Labs, Inc.
     - name: GrokStyle Inc.
@@ -135,12 +135,12 @@
       bio: "joined the NSF as Program Director in November 2019. Prior to NSF, he was Chief of Operations and led Research and Development at O-Ray Pharma, where he focused on integrating biology and biomedical engineering for the goal of drug development and sustained drug delivery for the treatment of hearing loss and other ear disorders. During his time working at early stage companies, he helped secure both Angel investment and non-dilutive funding in the form of licensing and co-development deals. Additionally, he served as Principal Investigator on several Phase I, II and IIB SBIR grants from the National Institutes of Health and NSF. His research interests have focused on the intersection of the biotic and abiotic, spanning molecular and cell biology, materials science, gene therapy, nanomaterials and drug delivery. Erik has a Ph.D. in Molecular and Cell Biology from the University of California, Berkeley, and a B.S. in Biology from Emory University."  
   subtopics:
     - Animal Biotechnology (BT1)
-    - Bioinstruments (BT2)
-    - Biosensors (BT3)
-    - Cell and Tissue Engineering (BT4)
-    - Computational Biology and Bioinformatics (BT5)
-    - Fermentation Technologies (BT6)
-    - Food Processing and Safety Technology (BT7)
+    - Bio-Inspired Technologies (BT2)
+    - Bioinstruments (BT3)
+    - Biosensors (BT4)
+    - Cell and Tissue Engineering (BT5)
+    - Computational Biology and Bioinformatics (BT6)
+    - Fermentation Technologies (BT7)
     - Life Science Research Tools (BT8)
     - Materials for Biomedical Applications (BT9)
     - Plant Biotechnology (BT10)
@@ -169,7 +169,7 @@
       ttopic: bm
       bio: "joined the National Science Foundation in July 2016 as an SBIR/STTR Program Director. Prior to joining NSF, Henry managed seed/early stage investment programs for TEDCO for 12 years including Technology Commercialization Fund, TEDCO’s flagship seed funding program for technology-based companies in Maryland. During his time at TEDCO, Henry was actively involved with various entrepreneurs and entrepreneur support groups as a guest speaker, an advisory board member, a judge, a mentor, among others. Additionally, Henry was part of the licensing/supplier relations team at a biotechnology company called Upstate, where he successfully negotiated, licensed and commercialized approximately 190 biomedical research reagents from around the world. Henry has also done approximately five years of research, mostly in the field of immunology (including graduate work). Henry has an MBA from Rice University, an M.S. in biotechnology from the University of Tennessee, Knoxville and a B.S. in biomedical engineering from Boston University."
   subtopics:
-    - Diagnostic Assays (BM1)
+    - Diagnostics (BM1)
     - Medical Imaging (BM2)
     - Monitoring Devices (BM3)
     - Other Biomedical Technologies (BM4)
@@ -212,6 +212,58 @@
     - name: Saratoga Energy Research Partners LLC
     - name: Dimensional Energy Inc.
 
+- topic: Cloud and High-Performance Computing (CH)
+  permalink: /topics/cloud-high-performance-computing/
+  topic_code: ch
+  programDirector:
+    - name: Anna Brady-Estevez
+      last_name: Brady-Estevez
+      api_name: Anna Brady
+      email: abrady@nsf.gov
+      photo: Anna-compressed.jpg
+      ttopic: ch
+      bio: "joined the National Science Foundation as a SBIR/STTR Program Director in 2016. In this role she brings breadth of background across entrepreneurship and venture capital, innovative research, and direction of corporate strategy and investments. Anna has served as a collaborator with numerous startups having worked as an inventor for an early stage venture-backed start-up providing low-cost, low-energy portable water treatment, and a Principal Investor for an early stage venture firm. Anna’s contributions were recognized in 2009 when she was selected as one of  about 30 Kauffman Fellows from around the globe, for leadership in innovation and venture capital. She served as Director of Corporate Strategy for leading multinationals including The AES Corporation and Cummins Inc., and advised numerous clients while serving as a management consultant for The Boston Consulting Group. Anna’s work in these roles resulted in over $6B of infrastructure investments with enhanced returns, identification of $B+ cost reduction opportunities, contributing to a core transformation team of a $T+ entity in oil & gas, and the implementation of several new technologies spanning nanotechnology, advanced manufacturing, Big Data and Internet of Things, along with new equipment that enabled transforming energy economics. Earlier in her career, she performed research at the intersection of innovation and international relations with the Office of Naval Research at the U.S. Embassy in Chile. Anna holds a PhD from Yale University in Chemical and Environmental Engineering, where she held a National Science Foundation Graduate Research Fellowship; and a B.S. in Chemical Engineering and B.A. in Spanish from The Johns Hopkins University."
+  subtopics:
+    - Algorithms and Applications (CH1)
+    - Computational Architecture (CH2)
+    - Convergence of AI and Cloud/HPC (CH3)
+    - Edge Computing (CH4)
+    - Energy Efficiency and Sustainability (CH5)
+    - In-memory Processing (CH6)
+    - Interconnects (CH7)
+    - Middleware (CH8)
+    - Performance Monitoring (CH9)
+    - Processing on Encrypted Data (CH10)
+    - Processor Architecture and Design (CH11)
+    - Resilience and Resource Management (CH12)
+    - Other Cloud and High-Performance Computing Technologies (CH13)
+  companies:
+  
+  - topic: Cybersecurity and Authentication (CA)
+  permalink: /topics/cloud-high-performance-computing/
+  topic_code: ca
+  programDirector:
+    - name: Anna Brady-Estevez
+      last_name: Brady-Estevez
+      api_name: Anna Brady
+      email: abrady@nsf.gov
+      photo: Anna-compressed.jpg
+      ttopic: ca
+      bio: "joined the National Science Foundation as a SBIR/STTR Program Director in 2016. In this role she brings breadth of background across entrepreneurship and venture capital, innovative research, and direction of corporate strategy and investments. Anna has served as a collaborator with numerous startups having worked as an inventor for an early stage venture-backed start-up providing low-cost, low-energy portable water treatment, and a Principal Investor for an early stage venture firm. Anna’s contributions were recognized in 2009 when she was selected as one of  about 30 Kauffman Fellows from around the globe, for leadership in innovation and venture capital. She served as Director of Corporate Strategy for leading multinationals including The AES Corporation and Cummins Inc., and advised numerous clients while serving as a management consultant for The Boston Consulting Group. Anna’s work in these roles resulted in over $6B of infrastructure investments with enhanced returns, identification of $B+ cost reduction opportunities, contributing to a core transformation team of a $T+ entity in oil & gas, and the implementation of several new technologies spanning nanotechnology, advanced manufacturing, Big Data and Internet of Things, along with new equipment that enabled transforming energy economics. Earlier in her career, she performed research at the intersection of innovation and international relations with the Office of Naval Research at the U.S. Embassy in Chile. Anna holds a PhD from Yale University in Chemical and Environmental Engineering, where she held a National Science Foundation Graduate Research Fellowship; and a B.S. in Chemical Engineering and B.A. in Spanish from The Johns Hopkins University."
+  subtopics:
+    - Computation on Encrypted Data (CA1)
+    - Cryptography, including Post-quantum Cryptography (CA2)
+    - Data Privacy and Integrity (CA3)
+    - Device Authentication (CA4)
+    - Encryption, including Homomorphic Encryption (CA5)
+    - Network and Device Security (CA6)
+    - Personal Authentication (CA7)
+    - Secure and Trusted Computing (CA8)
+    - Secure Machine-to-Machine Communication (CA9)
+    - Security of Cloud and HPC Platforms (CA10)
+    - Other Cybersecurity and Authentication Technologies (CA11)
+  companies:
+
 - topic: Digital Health (DH) 
   permalink: /topics/digital-health/
   topic_code: dh
@@ -228,7 +280,7 @@
     - Healthcare System Workflow (DH2)
     - Medical Diagnostics  (DH3)
     - Personalized Software Systems (DH4)
-    - Other Digital Health (DH5)
+    - Other Digital Health Technologies (DH5)
   companies:
     - name: Guiding Technologies Corporation
     - name: Roundtable Analytics LLC
@@ -250,19 +302,19 @@
       ttopic: dl
       bio: "joined the National Science Foundation as a SBIR/STTR Program Director in 2016. In this role she brings breadth of background across entrepreneurship and venture capital, innovative research, and direction of corporate strategy and investments. Anna has served as a collaborator with numerous startups having worked as an inventor for an early stage venture-backed start-up providing low-cost, low-energy portable water treatment, and a Principal Investor for an early stage venture firm. Anna’s contributions were recognized in 2009 when she was selected as one of  about 30 Kauffman Fellows from around the globe, for leadership in innovation and venture capital. She served as Director of Corporate Strategy for leading multinationals including The AES Corporation and Cummins Inc., and advised numerous clients while serving as a management consultant for The Boston Consulting Group. Anna’s work in these roles resulted in over $6B of infrastructure investments with enhanced returns, identification of $B+ cost reduction opportunities, contributing to a core transformation team of a $T+ entity in oil & gas, and the implementation of several new technologies spanning nanotechnology, advanced manufacturing, Big Data and Internet of Things, along with new equipment that enabled transforming energy economics. Earlier in her career, she performed research at the intersection of innovation and international relations with the Office of Naval Research at the U.S. Embassy in Chile. Anna holds a PhD from Yale University in Chemical and Environmental Engineering, where she held a National Science Foundation Graduate Research Fellowship; and a B.S. in Chemical Engineering and B.A. in Spanish from The Johns Hopkins University."
   subtopics:
-    - Autonomous Systems and Economies; Smart Contracts (DL1)
-    - Blockchain, DAGs, and Next Gen Protocols (DL2)  
+    - Autonomous Systems and Economies, and Smart Contracts (DL1)
+    - Blockchain, DAGs, and Next-Gen Protocols (DL2)  
     - Convergence with Big Data, and Artificial Intelligence (DL3)
     - Convergence with Internet of Things, Crowdsourcing and Crowdsensing (DL4)
-    - Cryptography; Security; Cybersecurity (DL5)
-    - Distributed Consensus; Fault Tolerance Mechanisms (DL6)
+    - Cryptography, Security, and Cybersecurity (DL5)
+    - Distributed Consensus and Fault Tolerance Mechanisms (DL6)
     - Distributed Ledger in Edge and Cloud Computing (DL7)
     - Distributed Ledger Interoperability (DL8)
     - Distributed Ledger in Network Architecture and Management (DL9)
     - Financial Technologies (DL10)
     - Human-to-Technology Interface; Decentralized Applications (dApps) (DL11)
-    - Scalability Solutions; Accumulators (DL12)
-    - Trusted Identity; Identity Management (DL13)
+    - Scalability Solutions and Accumulators (DL12)
+    - Trusted Identity and Identity Management (DL13)
     - Other Distributed Ledger Technologies (DL14)
   companies:
     
@@ -278,7 +330,7 @@
       ttopic: en
       bio: "comes to the NSF with a broad background in the physical sciences, and extensive experience in technology development and commercialization. Before joining NSF Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly traded company that he founded in Sydney, Australia. While at MIKOH Corporation he was instrumental in developing and commercializing technologies in a range of fields including diffractive optics, laser-based marking, radio frequency identification and internet-based personal authentication.) Prior to MIKOH he spent approximately seven years at the Overseas Telecommunications Commission (OTC Australia) where he managed optical fiber communications R&D, including approximately 14 months in the UK at British Telecom’s Martlesham Heath R&D laboratories. (While at OTC his research group made world-leading advances in high-speed optical communications technologies, some of which were commercialized via spin-off companies. He also managed the externally contracted development and commercialization of a number of optical fiber and optoelectronic  technologies, and was instrumental in establishing a commercialization center for specialized optical fibers at the University of Sydney. He moved to the United States in 1998 to further develop the company’s technologies and markets. Peter holds a Ph.D. in physics (Quantum Optics), and a BEng (Mech) – both from the University of Queensland (Australia)." 
   subtopics:
-    - Energy Efficiencies, and Data Technologies (EN1)
+    - Energy Efficiencies and Data Technologies (EN1)
     - Energy Production and Power Generation (EN2)
     - Energy Storage (EN3)
     - Petrochemicals, Oil and Gas (EN4)
@@ -299,17 +351,41 @@
   subtopics:
     - Computational Sustainability (ET1)
     - Emission/Waste Reduction and the Circular Economy (ET2)
-    - Food, Agriculture, and Energy (ET3)
-    - Habitat Conservation, Adaptation and Restoration (ET4)
-    - Sustainable Community Systems (ET5)
-    - Water Treatment, Resilience, and Sanitation (ET6)
-    - Other Environmental Technologies (ET7)
+    - Environmental Health (ET3)
+    - Environmental and Societal Impact Measurement (ET4)
+    - Food, Regenerative Agriculture, and Energy (ET5)
+    - Habitat Conservation, Adaptation and Restoration (ET6)
+    - Sustainable Community Systems (ET7)
+    - Water Treatment, Resilience, and Sanitation (ET8)
+    - Other Environmental Technologies (ET9)
   companies:
     - name: CycloPure, Inc.
     - name: Vaporsens Inc.
     - name: Precision Polyolefins, LLC
     - name: Azimuth1, LLC
-    
+
+- topic: Human-Computer Interaction (HC)
+  permalink: /topics/human-computer-interaction/
+  topic_code: hc
+  programDirector:
+    - name: Diane Hickey
+      last_name: Hickey
+      api_name: Diane Hickey
+      email: dHickey@nsf.gov
+      photo: Diane-compressed.jpg
+      ttopic: hc
+      bio: "joined NSF as an SBIR/STTR program director in August 2020. She has extensive experience in multiple technical fields and early-stage deep technology ventures. Diane founded the Diamond Chameleon Group and grew a broad team providing commercialization services to more than 40 SBIR awardees and deep technology startups with funding across government agencies. Diane began her career at Accenture, implementing enterprise-wide systems in utility and chemical corporations. She then joined C-Bridge Internet Solutions, an MIT-based startup that provided technologies to connect corporate back-end systems to users; the company went public in 1999, and merged with Excelon in 2000 and Progress Software Corp (PRGS) in 2004. After completing her Ph.D., Diane joined Advanced Diamond Technologies (ADT), a startup spun out of Argonne National Laboratory, she helped the company transition from grant support to commercial sustainability. Diane has held life-long roles in STEM education, including the NSF Young Scholars program, participation in the NSF Nanotechnology Informal Science Education network, and as a Sisters4Science mentor. She has also supported science education startups, served as the school and homeschool liaison for the Tampa’s Children’s Museum and has taught for Kaplan, Inc. Diane consulted on science education and pursued graduate coursework at the University of Florida’s College of Journalism and Communications. Diane holds a B.S. in Chemical Engineering from Auburn University, and an M.S. and Ph.D. in Materials Science and Engineering from the University of Florida."
+  subtopics:
+  - Analytics (HC1)
+  - Conversational Interfaces (HC2)
+  - Dynamic and Smart Spaces (HC3)
+  - Embodied and Wearable Computing (HC4)
+  - Optometry and Human Vision (HC5)
+  - Tactile Technologies (HC6)
+  -  Technology Aids for Disabilities (HC7)
+  - Other Human-Computer Interaction Technologies (HC8)
+  companies:
+
 - topic: Information Technologies (IT)
   permalink: /topics/information-technologies/
   topic_code: it
