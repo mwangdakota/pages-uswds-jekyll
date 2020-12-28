@@ -9,7 +9,7 @@ section_image_caption: |
 ---
 
 ### Advanced Manufacturing (M)
-The Advanced Manufacturing topic aims to support emerging innovations in manufacturing with the potential to stimulate the nation’s manufacturing sector by improving its efficiency, competitiveness, and sustainability. Proposed technology should be environmentally friendly, compatible with human health and planet health, and driven by technological advancements. Examples include, but are not limited to, innovative technologies for the processing of a variety of single-component and multi-component materials, biological and bio-inspired materials, flexible electronics, ceramics, polymers, metals, alloys, and novel composites using a variety of advanced manufacturing processes. Regenerative designs using a circular economy approach (a systemic approach to economic development designed to benefit businesses, society, and the environment) are encouraged.
+The Advanced Manufacturing topic aims to support emerging innovations in manufacturing with the potential to stimulate the nation’s manufacturing sector by improving its efficiency, competitiveness, and sustainability. Proposed technology should be environmentally friendly, compatible with human health and planet health, and driven by technological advancements. Examples include, but are not limited to, innovative technologies for the processing of a variety of single-component and multi-component materials, biological and bio-inspired materials, flexible electronics, ceramics, polymers, metals, alloys, and novel composites using a variety of advanced manufacturing processes. Regenerative designs using a circular economy approach (a systemic approach to economic development designed to benefit businesses, society, and the environment) are encouraged. 
 
 #### M1. Additive Manufacturing Components and Systems
 
@@ -23,10 +23,8 @@ The Advanced Manufacturing topic aims to support emerging innovations in manufac
 
 #### M6. Modeling and Simulation
 
-#### M7. Personalized Manufacturing / Maker Manufacturing / Maker to Manufacturer
+#### M7. Personalized Manufacturing, Maker Manufacturing, and Maker to Manufacturer 
 
-#### M8. Sustainable Manufacturing Technology / Circular Economy Technologies
+#### M8. Sustainable Manufacturing and Circular Economy Technologies 
 
-#### M9. Transportation Technologies
-
-#### M10. Other Manufacturing Technologies
+#### M9. Other Manufacturing Technologies 
