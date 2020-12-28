@@ -9,27 +9,27 @@ section_image_caption: |
 
 ---
 
-### The Advanced Analytics topic focuses on innovations that involve the mathematical or computational analysis of data or statistics. This topic does not include learning-based systems, which are covered under the Artificial Intelligence (AI) topic. These subtopic areas are meant to serve as examples; all proposals with technical innovation and significant commercial potential are welcome, regardless of the specific area of focus of the project.
+### data or statistics. This topic does not include learning-based systems, which are covered under the Artificial Intelligence (AI) topic. These subtopic areas are meant to serve as examples; all proposals with technical innovation and significant commercial potential are welcome, regardless of the specific area of focus of the project.
 
-#### AA1. Data Collection, Cleaning, Integration and Processing
+### AA1. Data Collection, Cleaning, Integration and Processing
 
-#### AA2. Data Mining
+### AA2. Data Mining
 
-#### AA3. Decision Modelling
+### AA3. Decision Modelling
 
-#### AA4. Descriptive and Predictive Analytics
+### AA4. Descriptive and Predictive Analytics
 
-#### AA5. Deterministic Modelling
+### AA5. Deterministic Modelling
 
-#### AA6. Optimization
+### AA6. Optimization
 
-#### AA7. Simulation
+### AA7. Simulation
 
-#### AA8. Statistical Modelling
+### AA8. Statistical Modelling
 
-#### AA9. Time Series Analysis and Forecasting
+### AA9. Time Series Analysis and Forecasting
 
-#### AA10. Visualization
+### AA10. Visualization
 
-#### AA11. Other Advanced Analytics Technologies
+### AA11. Other Advanced Analytics Technologies
  
