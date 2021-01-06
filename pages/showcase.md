@@ -37,7 +37,7 @@ To learn more visit: [https://www.clearflameengines.com/](https://www.clearflame
 </div>
 <div class="usa-width-one-half">
   <iframe sandbox="allow-same-origin allow-scripts" title="re:3D" width="100%" height="300" src="https://www.youtube.com/embed/wuXqAjPGldE" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe><br>
-  <a href="https://www.youtube.com/embed/wuXqAjPGldE" target="_blank" class="social-link"><img src="/assets/uswds/img/social-icons/svg/youtube15.svg" alt="youtube logo"></a>
+  View on <a href="https://www.youtube.com/embed/wuXqAjPGldE" target="_blank" class="social-link"><img src="{{site.baseurl}}/assets/uswds/img/social-icons/svg/youtube15.svg" alt="youtube logo"></a>
 </div>
 </div>
 </section>
@@ -47,7 +47,7 @@ To learn more visit: [https://www.clearflameengines.com/](https://www.clearflame
   
 <div class="usa-width-one-half">
   <iframe sandbox="allow-same-origin allow-scripts" title="Squishy Robotics" width="100%" height="300" src="https://www.youtube.com/embed/RcPFQJorwpc" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe><br>
-  <a href="https://www.youtube.com/embed/RcPFQJorwpc" target="_blank" class="social-link"><img src="/assets/uswds/img/social-icons/svg/youtube15.svg" alt="youtube logo"></a>
+  View on <a href="https://www.youtube.com/embed/RcPFQJorwpc" target="_blank" class="social-link"><img src="{{site.baseurl}}/assets/uswds/img/social-icons/svg/youtube15.svg" alt="youtube logo"></a>
 </div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
