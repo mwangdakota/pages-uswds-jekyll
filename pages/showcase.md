@@ -37,7 +37,7 @@ To learn more visit: [https://www.clearflameengines.com/](https://www.clearflame
 </div>
 <div class="usa-width-one-half">
   <iframe sandbox="allow-same-origin allow-scripts" title="re:3D" width="100%" height="300" src="https://www.youtube.com/embed/wuXqAjPGldE" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe><br>
-  <p>View on  <a href="{{ https://www.youtube.com/embed/wuXqAjPGldE }}" target="_blank"  class="social-link"><img src="{{site.baseurl}}/assets/uswds/img/social-icons/svg/youtube15.svg" alt="youtube logo" style="fill:white; width:35px;"></a></p>
+  <p><em>View on <a href="https://www.youtube.com/embed/wuXqAjPGldE" target="_blank">Youtube</a>.</em></p>
 </div>
 </div>
 </section>
@@ -47,7 +47,7 @@ To learn more visit: [https://www.clearflameengines.com/](https://www.clearflame
   
 <div class="usa-width-one-half">
   <iframe sandbox="allow-same-origin allow-scripts" title="Squishy Robotics" width="100%" height="300" src="https://www.youtube.com/embed/RcPFQJorwpc" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe><br>
-  <p>View on  <a href="{{ https://www.youtube.com/embed/RcPFQJorwpc }}" target="_blank"  class="social-link"><img src="{{site.baseurl}}/assets/uswds/img/social-icons/svg/youtube15.svg" alt="youtube logo" style="width:35px;"></a></p>
+  <p><em>View on <a href="https://www.youtube.com/embed/RcPFQJorwpc" target="_blank">Youtube</a>.</em></p>
 </div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
@@ -78,7 +78,7 @@ To learn more visit: [https://www.muzology.com/](https://www.muzology.com/).
 
 <div class="usa-width-one-half">
   <iframe sandbox="allow-same-origin allow-scripts" title="re:3D" width="100%" height="300" src="https://www.youtube.com/embed/rnUx5iRdHWk" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe><br>
-  <p>View on  <a href="{{ https://www.youtube.com/embed/rnUx5iRdHWk }}" target="_blank"  class="social-link"><img src="{{site.baseurl}}/assets/uswds/img/social-icons/svg/youtube15.svg" alt="youtube logo" style="width:35px;"></a></p>
+  <p><em>View on <a href="https://www.youtube.com/embed/rnUx5iRdHWk" target="_blank">Youtube</a>.</em></p>
 </div>
 
 </div>
