@@ -37,8 +37,7 @@ If you’re interested in applying for funding, we encourage you to watch our vi
   
 <div class="usa-content usa-grid">
   <div class="usa-width-one-half">
-
-Thinking of applying for Phase I funding? Check out our videos covering <a href="https://youtu.be/oVhWWydWWc4">program basics</a> and <a href="https://youtu.be/8WPa4Epdl1k">tips and tricks for submitting a proposal</a>. (We offer a <a href="../../assets/files/press/overview2020.pdf">PDF version of program basics</a>, too.)
+<p>Thinking of applying for Phase I funding? Check out our videos covering <a href="https://youtu.be/oVhWWydWWc4">program basics</a> and <a href="https://youtu.be/8WPa4Epdl1k">tips and tricks for submitting a proposal</a>. (We offer a <a href="../../assets/files/press/overview2020.pdf">PDF version of program basics</a>, too.)</p>
 </div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
