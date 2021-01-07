@@ -20,19 +20,19 @@ If you’re interested in applying for funding, we encourage you to watch our vi
 
 ## Virtual Office Hours
 
-Thinking of applying for Phase I funding? Ask all your application-related questions during our [Virtual Office Hours](https://seedfund.nsf.gov/events/) or watch a <a href="https://youtu.be/oVhWWydWWc4">recorded webinar</a> about the program and the Project Pitch. (We offer a <a href="../../assets/files/press/overview2020.pdf">PDF version of program basics</a>, too.)
+Thinking of applying for Phase I funding? Ask all your application-related questions during our [Virtual Office Hours](https://seedfund.nsf.gov/events/) or watch a <a href="https://youtu.be/oVhWWydWWc4" target="_blank">recorded webinar</a> about the program and the Project Pitch. (We offer a <a href="../../assets/files/press/overview2020.pdf">PDF version of program basics</a>, too.)
 
- <a style="border-bottom:0px;" href="https://youtu.be/oVhWWydWWc4"><img src="{{ site.baseurl }}/assets/img/qa_video.jpg" alt="QA Video" style="max-width:400px;"></a>
+ <a style="border-bottom:0px;" target="_blank" href="https://youtu.be/oVhWWydWWc4"><img src="{{ site.baseurl }}/assets/img/qa_video.jpg" alt="QA Video" style="max-width:400px;"></a>
 
 {% else %}
 
 ## Q&A videos
   
-Thinking of applying for Phase I funding? Check out our videos covering <a href="https://youtu.be/oVhWWydWWc4">program basics</a> and <a href="https://youtu.be/8WPa4Epdl1k">tips and tricks for submitting a proposal</a>. (We offer a <a href="../../assets/files/press/overview2020.pdf">PDF version of program basics</a>, too.)
+Thinking of applying for Phase I funding? Check out our videos covering <a href="https://youtu.be/oVhWWydWWc4" target="_blank">program basics</a> and <a href="https://youtu.be/8WPa4Epdl1k">tips and tricks for submitting a proposal</a>. (We offer a <a href="../../assets/files/press/overview2020.pdf">PDF version of program basics</a>, too.)
 
- <a style="border-bottom:0px;" href="https://youtu.be/oVhWWydWWc4"><img src="{{ site.baseurl }}/assets/img/qa_video.jpg" alt="QA Video" style="max-width:400px;"></a><br><br>
+ <a style="border-bottom:0px;" href="https://youtu.be/oVhWWydWWc4" target="_blank"><img src="{{ site.baseurl }}/assets/img/qa_video.jpg" alt="QA Video" style="max-width:400px;"></a><br><br>
  
- <a style="border-bottom:0px;" href="https://youtu.be/8WPa4Epdl1k"><img src="{{ site.baseurl }}/assets/img/qa_video2.jpg" alt="QA Video" style="max-width:400px;"></a>
+ <a style="border-bottom:0px;" href="https://youtu.be/8WPa4Epdl1k" target="_blank"><img src="{{ site.baseurl }}/assets/img/qa_video2.jpg" alt="QA Video" style="max-width:400px;"></a>
 
 {% endif %}
 
