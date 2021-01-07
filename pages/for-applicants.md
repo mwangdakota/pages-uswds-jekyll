@@ -18,42 +18,36 @@ If you’re interested in applying for funding, we encourage you to watch our vi
 
 {% if site.app_process == "active" %}
 
-
-<section class="usa-section">
-<div class="usa-content usa-grid">
-  
-<div class="usa-width-one-half">
   <h2>Virtual Office Hours</h2>
+<div class="usa-content usa-grid">
+ <div class="usa-width-one-half">
 
-Thinking of applying for Phase I funding? Ask all your application-related questions during our [Virtual Office Hours](https://seedfund.nsf.gov/events/) or watch a [recorded webinar](https://youtu.be/oVhWWydWWc4) about the program and the Project Pitch. (We offer a [PDF version of program basics]({{site.baseurl}}/assets/files/press/overview2020.pdf), too.)
+<p>Thinking of applying for Phase I funding? Ask all your application-related questions during our [Virtual Office Hours](https://seedfund.nsf.gov/events/) or watch a <a href="https://youtu.be/oVhWWydWWc4">recorded webinar</a>] about the program and the Project Pitch. (We offer a <a href="../../assets/files/press/overview2020.pdf">PDF version of program basics</a>, too.)</p>
 </div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
-
- <a href="https://youtu.be/oVhWWydWWc4"><img src="{{ site.baseurl }}/assets/img/qa_video.jpg" alt="QA Video" style="margin-right:2%;max-width:400px;"></a>
+ <a href="https://youtu.be/oVhWWydWWc4"><img src="{{ site.baseurl }}/assets/img/qa_video.jpg" alt="QA Video" style="margin-left:2%;max-width:400px;"></a>
 </div>
 
 </div>
-</section>
 
 {% else %}
 
-<section class="usa-section>
-<div class="usa-content usa-grid">
+<h2>Q&A videos</h2>
   
-<div class="usa-width-one-half">
-  <h2>Q&A videos</h2>
+<div class="usa-content usa-grid">
+  <div class="usa-width-one-half">
 
-Thinking of applying for Phase I funding? Check out our videos covering [program basics](https://youtu.be/oVhWWydWWc4) and [tips and tricks for submitting a proposal](https://youtu.be/8WPa4Epdl1k). (We offer a [PDF version of program basics]({{site.baseurl}}/assets/files/press/overview2020.pdf), too.)
+Thinking of applying for Phase I funding? Check out our videos covering <a href="https://youtu.be/oVhWWydWWc4">program basics</a> and <a href="https://youtu.be/8WPa4Epdl1k">tips and tricks for submitting a proposal</a>. (We offer a <a href="../../assets/files/press/overview2020.pdf">PDF version of program basics</a>, too.)
 </div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
 
- <a href="https://youtu.be/oVhWWydWWc4"><img src="{{ site.baseurl }}/assets/img/qa_video.jpg" alt="QA Video" style="margin-right:2%;max-width:400px;"></a>
+ <a href="https://youtu.be/oVhWWydWWc4"><img src="{{ site.baseurl }}/assets/img/qa_video.jpg" alt="QA Video" style="margin-left:2%;max-width:400px;"></a>
 </div>
 
 </div>
-</section>
+
 
 {% endif %}
 
