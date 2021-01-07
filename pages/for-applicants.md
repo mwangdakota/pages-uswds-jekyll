@@ -41,8 +41,7 @@ Get to know our awardees better — we’ve got [video profiles of startups and 
 ## Project Pitch
 
 Wondering if your idea is a good fit? Submit your [Project Pitch]({{site.baseurl}}/project-pitch/) and find out in three weeks.
-
-<h1 style="font-size:4.5rem;margin-top:4rem;>Apply</h1>
+# Apply
 
 ## FAQ
 
