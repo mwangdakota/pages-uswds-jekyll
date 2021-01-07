@@ -18,18 +18,11 @@ If you’re interested in applying for funding, we encourage you to watch our vi
 
 {% if site.app_process == "active" %}
 
-  <h2>Virtual Office Hours</h2>
-<div class="usa-content usa-grid">
- <div class="usa-width-one-half">
+## Virtual Office Hours
 
-<p>Thinking of applying for Phase I funding? Ask all your application-related questions during our [Virtual Office Hours](https://seedfund.nsf.gov/events/) or watch a <a href="https://youtu.be/oVhWWydWWc4">recorded webinar</a>] about the program and the Project Pitch. (We offer a <a href="../../assets/files/press/overview2020.pdf">PDF version of program basics</a>, too.)</p>
-</div>
+Thinking of applying for Phase I funding? Ask all your application-related questions during our [Virtual Office Hours](https://seedfund.nsf.gov/events/) or watch a <a href="https://youtu.be/oVhWWydWWc4">recorded webinar</a>] about the program and the Project Pitch. (We offer a <a href="../../assets/files/press/overview2020.pdf">PDF version of program basics</a>, too.)
 
-<div class="usa-content usa-width-one-half" markdown="1">
- <a href="https://youtu.be/oVhWWydWWc4"><img src="{{ site.baseurl }}/assets/img/qa_video.jpg" alt="QA Video" style="margin-left:2%;max-width:400px;"></a>
-</div>
-
-</div>
+ <a style="border-bottom:0px;" href="https://youtu.be/oVhWWydWWc4"><img src="{{ site.baseurl }}/assets/img/qa_video.jpg" alt="QA Video" style="max-width:400px;"></a>
 
 {% else %}
 
@@ -37,8 +30,7 @@ If you’re interested in applying for funding, we encourage you to watch our vi
   
 Thinking of applying for Phase I funding? Check out our videos covering <a href="https://youtu.be/oVhWWydWWc4">program basics</a> and <a href="https://youtu.be/8WPa4Epdl1k">tips and tricks for submitting a proposal</a>. (We offer a <a href="../../assets/files/press/overview2020.pdf">PDF version of program basics</a>, too.)
 
- <a href="https://youtu.be/oVhWWydWWc4"><img src="{{ site.baseurl }}/assets/img/qa_video.jpg" alt="QA Video" style="margin-left:2%;max-width:400px;"></a>
-
+ <a style="border-bottom:0px; href="https://youtu.be/oVhWWydWWc4"><img src="{{ site.baseurl }}/assets/img/qa_video.jpg" alt="QA Video" style="max-width:400px;"></a>
 
 {% endif %}
 
