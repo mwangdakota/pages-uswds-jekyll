@@ -42,7 +42,7 @@ Get to know our awardees better — we’ve got [video profiles of startups and 
 
 Wondering if your idea is a good fit? Submit your [Project Pitch]({{site.baseurl}}/project-pitch/) and find out in three weeks.
 
-# Apply
+<h1 style="font-size:4.5rem;margin-top:4rem;>Apply</h1>
 
 ## FAQ
 
@@ -60,7 +60,7 @@ Read the [Peer Review Guidelines](https://seedfund.nsf.gov/resources/review/peer
 
 Are you a Phase I awardee? Visit [How to Apply for Phase II]({{ site.baseurl }}/resources/awardees/phase-2/apply/).
 
-<div style="margin-top:50px; margin-bottom:50px;">
+<div style="margin-top:40px; margin-bottom:50px;">
  <br>
 <a href="{{ site.baseurl }}/apply/" class="usa-button">APPLY</a>
  <br>
