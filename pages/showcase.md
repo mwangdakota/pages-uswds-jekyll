@@ -390,7 +390,7 @@ To learn more visit: [https://www.fyodorbio.com/](https://www.fyodorbio.com/).
 <div class="usa-content usa-grid">
 <div class="usa-width-one-half">
   <iframe sandbox="allow-same-origin allow-scripts" title="Elidah" height="300" width="100%" src="https://www.youtube.com/embed/ksxUK6OWpOA?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe><br>
-  <p><em>View on <a href="https://www.youtube.com/embed/ksxUK6OWpOA" target="_blank">Youtube</a>.</em></p>" frameborder="0" allowfullscreen></iframe>
+  <p><em>View on <a href="https://www.youtube.com/embed/ksxUK6OWpOA" target="_blank">Youtube</a>.</em></p>
 </div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
