@@ -36,7 +36,7 @@ To learn more visit: [https://www.clearflameengines.com/](https://www.clearflame
 
 </div>
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="re:3D" width="100%" height="300" src="https://www.youtube.com/embed/wuXqAjPGldE" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe><br>
+  <iframe sandbox="allow-same-origin allow-scripts" title="re:3D" width="100%" height="300" src="https://www.youtube.com/embed/wuXqAjPGldE?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe><br>
   <p><em>View on <a href="https://www.youtube.com/embed/wuXqAjPGldE" target="_blank">Youtube</a>.</em></p>
 </div>
 </div>
@@ -46,7 +46,7 @@ To learn more visit: [https://www.clearflameengines.com/](https://www.clearflame
 <div class="usa-content usa-grid">
   
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="Squishy Robotics" width="100%" height="300" src="https://www.youtube.com/embed/RcPFQJorwpc" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe><br>
+  <iframe sandbox="allow-same-origin allow-scripts" title="Squishy Robotics" width="100%" height="300" src="https://www.youtube.com/embed/RcPFQJorwpc?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe><br>
   <p><em>View on <a href="https://www.youtube.com/embed/RcPFQJorwpc" target="_blank">Youtube</a>.</em></p>
 </div>
 
@@ -77,7 +77,7 @@ To learn more visit: [https://www.muzology.com/](https://www.muzology.com/).
 </div>
 
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="re:3D" width="100%" height="300" src="https://www.youtube.com/embed/rnUx5iRdHWk" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe><br>
+  <iframe sandbox="allow-same-origin allow-scripts" title="re:3D" width="100%" height="300" src="https://www.youtube.com/embed/rnUx5iRdHWk?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe><br>
   <p><em>View on <a href="https://www.youtube.com/embed/rnUx5iRdHWk" target="_blank">Youtube</a>.</em></p>
 </div>
 
