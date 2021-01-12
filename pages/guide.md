@@ -10,10 +10,10 @@ NSF has updated the website for security reasons. External users(submitters) wou
 
 This user guide can be used by new and existing users for their account management. 
 
-# Account Creation
+## Account Creation
 
-## SBIR/STTR COMMUNITIES LOGIN:
+### SBIR/STTR Communities Login:
 
-### Login Page
+**Login Page**
 - Go to [https://nsfiip.force.com/sbir](https://nsfiip.force.com/sbir)
 - New users should click on *“Create an account”*
