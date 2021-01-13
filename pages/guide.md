@@ -13,8 +13,8 @@ The National Science Foundation updated its Project Pitch submission portal to p
 ### 1.1 SBIR/STTR communities’ sign in
 
 <div><strong>1.1.1 Sign in page</strong></div>
-- Go to [https://nsfiip.force.com/sbir](https://nsfiip.force.com/sbir)
-- New users should click on **“Create an account”**
+- Go to [https://nsfiip.force.com/sbir](https://nsfiip.force.com/sbir){:target="_blank"}
+- Click on **“Create an account”**
 
 ![Sign in box]({{ site.baseurl }}/assets/img/pitch/1-1-1.png)
 *Figure 1 User sign in page for SBIR/STTR*
@@ -71,7 +71,7 @@ Fill in
 
 ### 1.2 SBIR/STTR account recovery 
 <div><strong>1.2.1 Sign in page</strong></div>
-- Go to: [https://www.nsfiip.force.com/sbir](https://nsfiip.force.com/sbir)
+- Go to: [https://www.nsfiip.force.com/sbir](https://nsfiip.force.com/sbir){:target="_blank"}
 - Click on **“Forgot your password?”** 
 - For users who have forgotten their usernames or email address, email your first and last name to [sbirwebmaster@nsf.gov](mailto:sbirwebmaster@nsf.gov). 
 
@@ -96,7 +96,7 @@ Fill in
 <div><strong>1.2.4 Password reset link in the email alert</strong></div>
 - Use the password reset link in the inbox to reset the password. 
 
-![Email content]({{ site.baseurl }}/assets/img/pitch/1-2-3.png)
+![Email content]({{ site.baseurl }}/assets/img/pitch/1-2-4.png)
 *Figure 14 Email for password reset*
 <br><br>
 
