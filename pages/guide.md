@@ -12,7 +12,7 @@ The National Science Foundation updated its Project Pitch submission portal to p
 
 ### 1.1 SBIR/STTR communities’ sign in
 
-**1.1.1 Sign in page**
+<span><strong>1.1.1 Sign in page</strong></span>
 - Go to [https://nsfiip.force.com/sbir](https://nsfiip.force.com/sbir)
 - New users should click on **“Create an account”**
 
@@ -37,7 +37,7 @@ Fill in
 
 ![Project pitch form]({{ site.baseurl }}/assets/img/pitch/1-1-3.png)
 *Figure 3 SBIR/STTR project pitch form page 1 (prepopulated)*
-<br>
+<br><br
 ![Project pitch form continued]({{ site.baseurl }}/assets/img/pitch/1-1-3-2.png)
 *Figure 4 SBIR/STTR project pitch form page 1 (prepopulated)*
 <br><br><br>
@@ -47,16 +47,16 @@ Fill in
 
 ![Project pitch form filled out]({{ site.baseurl }}/assets/img/pitch/1-1-4.png)
 *Figure 5 SBIR/STTR project pitch form page 1 (filled)*
-<br>
+<br><br>
 ![Project pitch form filled out]({{ site.baseurl }}/assets/img/pitch/1-1-4-2.png)
 *Figure 6  SBIR/STTR project pitch form page 1 (filled)*
-<br>
+<br><br>
 ![Project pitch form filled out]({{ site.baseurl }}/assets/img/pitch/1-1-4-3.png)
 *Figure 7 SBIR/STTR project pitch form page 1 (filled)*
-<br>
+<br><br>
 ![Project pitch form filled out]({{ site.baseurl }}/assets/img/pitch/1-1-4-4.png)
 *Figure 8  SBIR/STTR project pitch form page 2 (filled)*
-<br>
+<br><br>
 ![Project pitch form filled out]({{ site.baseurl }}/assets/img/pitch/1-1-4-5.png)
 *Figure 9  SBIR/STTR project pitch form page 2 (filled)*
 <br><br><br>
