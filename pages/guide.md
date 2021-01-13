@@ -12,7 +12,7 @@ The National Science Foundation updated its Project Pitch submission portal to p
 
 ### 1.1 SBIR/STTR communities’ sign in
 
-<span><strong>1.1.1 Sign in page</strong></span>
+<div><strong>1.1.1 Sign in page</strong></div>
 - Go to [https://nsfiip.force.com/sbir](https://nsfiip.force.com/sbir)
 - New users should click on **“Create an account”**
 
