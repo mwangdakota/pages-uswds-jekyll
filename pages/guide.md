@@ -16,15 +16,32 @@ The National Science Foundation updated its Project Pitch submission portal to p
 - Go to [https://nsfiip.force.com/sbir](https://nsfiip.force.com/sbir)
 - New users should click on **“Create an account”**
 
-![Creating a proposal]({{ site.baseurl }}/assets/img/pitch/1-1-1.png)
-*Figure 1 User sign in page for SBIR/STTR *
+![Sign in box]({{ site.baseurl }}/assets/img/pitch/1-1-1.png)
+*Figure 1 User sign in page for SBIR/STTR*
+<br>
 
-1.1.2 Create an account page 
+1.1.2 Create an account page <br>
 Fill in  
 - First Name 
 - Last Name 
 - A valid Email Address 
 - Alphanumeric Password (10 characters, 1 letter, 1 number, 1 special character) 
 
-![Creating a proposal]({{ site.baseurl }}/assets/img/pitch/1-1-2.png)
+![Sign up button]({{ site.baseurl }}/assets/img/pitch/1-1-2.png)
 *Figure 2 Creating a new account for SBIR/STTR communities*
+<br>
+
+1.1.3 SBIR/STTR project pitch form 
+- Click on “Sign Up” to be routed to the Project Pitch form. 
+- Fill in the remaining fields. 
+
+![Project pitch form]({{ site.baseurl }}/assets/img/pitch/1-1-3.png)
+*Figure 3 SBIR/STTR project pitch form page 1 (prepopulated) *
+
+![Project pitch form continued]({{ site.baseurl }}/assets/img/pitch/1-1-3-2.png)
+*Figure 4 SBIR/STTR project pitch form page 1 (prepopulated) *
+
+
+
+
+
