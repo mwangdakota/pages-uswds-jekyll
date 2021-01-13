@@ -18,7 +18,7 @@ The National Science Foundation updated its Project Pitch submission portal to p
 
 ![Sign in box]({{ site.baseurl }}/assets/img/pitch/1-1-1.png)
 *Figure 1 User sign in page for SBIR/STTR*
-<br>
+<br><br><br>
 
 **1.1.2 Create an account page** <br>
 Fill in  
@@ -29,7 +29,7 @@ Fill in
 
 ![Sign up button]({{ site.baseurl }}/assets/img/pitch/1-1-2.png)
 *Figure 2 Creating a new account for SBIR/STTR communities*
-<br>
+<br><br><br>
 
 **1.1.3 SBIR/STTR project pitch form** 
 - Click on “Sign Up” to be routed to the Project Pitch form. 
@@ -37,29 +37,29 @@ Fill in
 
 ![Project pitch form]({{ site.baseurl }}/assets/img/pitch/1-1-3.png)
 *Figure 3 SBIR/STTR project pitch form page 1 (prepopulated)*
-
+<br>
 ![Project pitch form continued]({{ site.baseurl }}/assets/img/pitch/1-1-3-2.png)
 *Figure 4 SBIR/STTR project pitch form page 1 (prepopulated)*
-<br>
+<br><br><br>
 
 **1.1.4 Complete the Project Pitch** 
 - Fill in all the form details to submit a Project Pitch. 
 
 ![Project pitch form filled out]({{ site.baseurl }}/assets/img/pitch/1-1-4.png)
 *Figure 5 SBIR/STTR project pitch form page 1 (filled)*
-
+<br>
 ![Project pitch form filled out]({{ site.baseurl }}/assets/img/pitch/1-1-4-2.png)
 *Figure 6  SBIR/STTR project pitch form page 1 (filled)*
-
+<br>
 ![Project pitch form filled out]({{ site.baseurl }}/assets/img/pitch/1-1-4-3.png)
 *Figure 7 SBIR/STTR project pitch form page 1 (filled)*
-
+<br>
 ![Project pitch form filled out]({{ site.baseurl }}/assets/img/pitch/1-1-4-4.png)
 *Figure 8  SBIR/STTR project pitch form page 2 (filled)*
-
+<br>
 ![Project pitch form filled out]({{ site.baseurl }}/assets/img/pitch/1-1-4-5.png)
 *Figure 9  SBIR/STTR project pitch form page 2 (filled)*
-<br>
+<br><br><br>
 
 **1.1.5 Form submission **
 - **Write down the Project Pitch case number. (Don’t forget!)**
@@ -67,7 +67,7 @@ Fill in
 
 ![After submission screen]({{ site.baseurl }}/assets/img/pitch/1-1-5.png)
 *Figure 10 Project pitch submission page*
-<br>
+<br><br><br>
 
 ### 1.2 SBIR/STTR account recovery 
 **1.2.1 Sign in page**
@@ -77,41 +77,41 @@ Fill in
 
 ![Sign in screen]({{ site.baseurl }}/assets/img/pitch/1-2-1.png)
 *Figure 11 NSF sign in page*
-<br>
+<br><br><br>
 
 **1.2.2 Password reset page**
 - Enter the email address for which you want to recover the password and click on **“Reset Password”**. 
 
 ![Password reset box]({{ site.baseurl }}/assets/img/pitch/1-2-2.png)
 *Figure 12 Reset password page*
-<br>
+<br><br><br>
 
 **1.2.3 Password reset confirmation page**
 - An email has been sent to reset the password for SBIR/STTR communities. 
 
 ![Confirmation message]({{ site.baseurl }}/assets/img/pitch/1-2-3.png)
 *Figure 13 Password reset email confirmation page*
-<br>
+<br><br><br>
 
 **1.2.4 Password reset link in the email alert**
 - Use the password reset link in the inbox to reset the password. 
 
 ![Email content]({{ site.baseurl }}/assets/img/pitch/1-2-3.png)
 *Figure 14 Email for password reset*
-<br>
+<br><br>
 
 The new password should contain: 
 - 10 characters 
 - 1 letter 
 - 1 number 
-- 1 special character <br>
+- 1 special character <br><br><br>
 
 
 **1.2.5 Change Password Page**
 
 ![Password reset form]({{ site.baseurl }}/assets/img/pitch/1-2-5.png)
 *Figure 15 Password reset page*
-<br>
+<br><br><br>
 
 **1.2.6 SBIR/STTR Project Pitch page**
 - Resetting the password takes users back to the Project Pitch form. 
