@@ -3,7 +3,7 @@ title: Submit your Project Pitch (required)
 description: Find out if your project is a good fit for the program. <br>Processing time&#58; Up to three weeks.
 ---
 
-Submit your Project Pitch using our [online form](https://nsfgov.secure.force.com/sbir/).
+We are currently updating our Project Pitch submission system and will add the new link as soon as it is available. Thank you for your patience.
 
 <em>*Each small business can only submit one Project Pitch at a time and up to two Project Pitches per submission window. The submission windows for 2020 are:<br/>
  <br/>
