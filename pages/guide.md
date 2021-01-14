@@ -98,7 +98,7 @@ Fill in
 
 ![Email content]({{ site.baseurl }}/assets/img/pitch/1-2-4.png)
 <div style="text-align:center;"><p><em>Figure 14 Email for password reset</em></p></div>
-<br><br>
+<br>
 
 The new password should contain: 
 - 10 characters 
