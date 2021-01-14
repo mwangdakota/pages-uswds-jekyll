@@ -4,7 +4,7 @@ description: Find out if your project is a good fit for the program. <br>Process
 ---
 
 <a class="usa-button usa-button-primary button-arrow"  target="_blank" href="https://nsfiip.force.com/sbir">
-Submit your Project Pitch</a>.
+Submit your Project Pitch</a>
 
 <em>*Each small business can only submit one Project Pitch at a time and up to two Project Pitches per submission window. The submission windows for 2020 are:<br/>
  <br/>
