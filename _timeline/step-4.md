@@ -3,7 +3,7 @@ title: Submit your Project Pitch (required)
 description: Find out if your project is a good fit for the program. <br>Processing time&#58; Up to three weeks.
 ---
 
-We are currently updating our Project Pitch submission system and will add the new link as soon as it is available. Thank you for your patience.
+<span style="color:red;">We are currently updating our Project Pitch submission system and will add the new link as soon as it is available. Thank you for your patience.</span>
 
 <em>*Each small business can only submit one Project Pitch at a time and up to two Project Pitches per submission window. The submission windows for 2020 are:<br/>
  <br/>
