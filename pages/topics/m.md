@@ -18,12 +18,14 @@ The Advanced Manufacturing topic aims to support emerging innovations in manufac
 
 ### M4. Human-Centric Industrial Technologies
 
-### M5. Manufacturing Technologies
+### M5. Infrastructure
 
-### M6. Modeling and Simulation
+### M6. Manufacturing Technologies
 
-### M7. Personalized Manufacturing, Maker Manufacturing, and Maker to Manufacturer 
+### M7. Modeling and Simulation
 
-### M8. Sustainable Manufacturing and Circular Economy Technologies 
+### M8. Personalized Manufacturing, Maker Manufacturing, and Maker to Manufacturer 
 
-### M9. Other Manufacturing Technologies 
+### M9. Sustainable Manufacturing and Circular Economy Technologies 
+
+### M10. Other Manufacturing Technologies 
