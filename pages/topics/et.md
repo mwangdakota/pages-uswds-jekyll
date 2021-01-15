@@ -12,18 +12,20 @@ Environmental Technologies cover a range of innovations that bring the promise o
 
 ### ET1. Computational Sustainability 
 
-### ET2. Emission/Waste Reduction and the Circular Economy 
+### ET2. ET2. Digital Ecosystem for the Environment 
 
-### ET3. Environmental Health 
+### ET3. Emission/Waste Reduction and the Circular Economy 
 
-### ET4. Environmental and Societal Impact Measurement  
+### ET4. Environmental Health 
 
-### ET5. Food, Regenerative Agriculture, and Energy 
+### ET5. Environmental and Societal Impact Measurement  
 
-### ET6. Habitat Conservation, Adaptation and Restoration  
+### ET6. Food, Regenerative Agriculture, and Energy 
 
-### ET7. Sustainable Community Systems 
+### ET7. Habitat Conservation, Adaptation and Restoration  
 
-### ET8. Water Treatment, Resilience, and Sanitation 
+### ET8. Sustainable Community Systems 
 
-### ET9. Other Environmental Technologies 
+### ET9. Water Treatment, Resilience, and Sanitation 
+
+### ET10. Other Environmental Technologies 
