@@ -6,7 +6,7 @@ sidenav:
 ---
 # Project Pitch: User Guide For Communities
 
-The National Science Foundation updated its [Project Pitch submission portal](https://nsfiip.force.com/sbir){:target="_blank"} to provide users with a more secure and private experience. Now, a user must create a user account to submit a Project Pitch. In addition, a user must use credentials to sign in to respond to any active Project Pitches and/or Program Director requests. This user guide is provided to assist new and existing users in creating and managing their accounts. 
+The National Science Foundation updated its <a href="https://nsfiip.force.com/sbir" target="_blank">Project Pitch submission portal</a> to provide users with a more secure and private experience. Now, a user must create a user account to submit a Project Pitch. In addition, a user must use credentials to sign in to respond to any active Project Pitches and/or Program Director requests. This user guide is provided to assist new and existing users in creating and managing their accounts. 
 
 ## 1 Account Creation
 
