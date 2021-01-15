@@ -39,11 +39,12 @@
     - Bio-Inspired Manufacturing (M2)
     - Cybermanufacturing (M3)
     - Human-Centric Industrial Technologies (M4)
-    - Manufacturing Technologies (M5)
-    - Modeling and Simulation (M6)
-    - Personalized Manufacturing / Maker Manufacturing / Maker to Manufacturer (M7)
-    - Sustainable Manufacturing Technology / Circular Economy Technologies (M8)
-    - Other Manufacturing Technologies (M9)
+    - Infrastructure (M5)
+    - Manufacturing Technologies (M6)
+    - Modeling and Simulation (M7)
+    - Personalized Manufacturing, Maker Manufacturing, and Maker to Manufacturer (M8)
+    - Sustainable Manufacturing Technology and Circular Economy Technologies (M9)
+    - Other Manufacturing Technologies (M10)
   companies:
     - name: 3DEO, Inc.
     - name: XPEED Turbine Technology LLC
@@ -350,14 +351,15 @@
       bio: "has been a SBIR/STTR Program Director since 2012. Prior to joining NSF in 2012, he was a senior research technologist at Kodak where his 26-year career spanned work at Kodak Research Laboratories, and Manufacturing Research and Engineering Organization. His work covered a broad range of materials science based technologies related to photographic film and paper manufacturing, thermal, inkjet, and electro-photographic printing, and OLED device manufacturing. He has a B. Tech. degree in Chemical Engineering from Indian Institute of Technology, Bombay, M.S. and Ph.D. degrees in Chemical Engineering from Penn State, a post-doctoral fellowship at Imperial College, and a M.S. degree in New Product Development from Rochester Institute of Technology." 
   subtopics:
     - Computational Sustainability (ET1)
-    - Emission/Waste Reduction and the Circular Economy (ET2)
-    - Environmental Health (ET3)
-    - Environmental and Societal Impact Measurement (ET4)
-    - Food, Regenerative Agriculture, and Energy (ET5)
-    - Habitat Conservation, Adaptation and Restoration (ET6)
-    - Sustainable Community Systems (ET7)
-    - Water Treatment, Resilience, and Sanitation (ET8)
-    - Other Environmental Technologies (ET9)
+    - Digital Ecosystem for the Environment (ET2)
+    - Emission/Waste Reduction and the Circular Economy (ET3)
+    - Environmental Health (ET4)
+    - Environmental and Societal Impact Measurement (ET5)
+    - Food, Regenerative Agriculture, and Energy (ET6)
+    - Habitat Conservation, Adaptation and Restoration (ET7)
+    - Sustainable Community Systems (ET8)
+    - Water Treatment, Resilience, and Sanitation (ET9)
+    - Other Environmental Technologies (ET10)
   companies:
     - name: CycloPure, Inc.
     - name: Vaporsens Inc.
@@ -614,11 +616,12 @@
       ttopic: qt
       bio: "comes to the NSF with a broad background in the physical sciences, and extensive experience in technology development and commercialization. Before joining NSF Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly traded company that he founded in Sydney, Australia. While at MIKOH Corporation he was instrumental in developing and commercializing technologies in a range of fields including diffractive optics, laser-based marking, radio frequency identification and internet-based personal authentication.) Prior to MIKOH he spent approximately seven years at the Overseas Telecommunications Commission (OTC Australia) where he managed optical fiber communications R&D, including approximately 14 months in the UK at British Telecom’s Martlesham Heath R&D laboratories. (While at OTC his research group made world-leading advances in high-speed optical communications technologies, some of which were commercialized via spin-off companies. He also managed the externally contracted development and commercialization of a number of optical fiber and optoelectronic  technologies, and was instrumental in establishing a commercialization center for specialized optical fibers at the University of Sydney. He moved to the United States in 1998 to further develop the company’s technologies and markets. Peter holds a Ph.D. in physics (Quantum Optics), and a BEng (Mech) – both from the University of Queensland (Australia)."
   subtopics:
-    - Quantum Communications (QT1)
-    - Quantum Computing (QT2)
-    - Quantum Sensing and Metrology (QT3)
-    - Quantum Simulation (QT4)
-    - Other Quantum Information Technologies (QT5)
+    - Quantum Algorithms (QT1)
+    - Quantum Communications (QT2)
+    - Quantum Computing (QT3)
+    - Quantum Sensing and Metrology (QT4)
+    - Quantum Simulation (QT5)
+    - Other Quantum Information Technologies (QT6)
   companies: 
     - name: QC Ware Corp.
     
