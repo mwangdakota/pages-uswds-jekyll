@@ -12,7 +12,7 @@ Environmental Technologies cover a range of innovations that bring the promise o
 
 ### ET1. Computational Sustainability 
 
-### ET2. ET2. Digital Ecosystem for the Environment 
+### ET2. Digital Ecosystem for the Environment 
 
 ### ET3. Emission/Waste Reduction and the Circular Economy 
 
