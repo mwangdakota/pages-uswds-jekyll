@@ -1,5 +1,5 @@
 ---
-title: Chemical Technologies (CT)
+title: Chemical Technologies (CT) 
 permalink: /topics/chemical-technologies/
 layout: tech-topic
 topic_code: ct
