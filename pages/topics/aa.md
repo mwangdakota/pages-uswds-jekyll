@@ -9,7 +9,7 @@ section_image_caption: |
 
 ---
 
-### data or statistics. This topic does not include learning-based systems, which are covered under the Artificial Intelligence (AI) topic. These subtopic areas are meant to serve as examples; all proposals with technical innovation and significant commercial potential are welcome, regardless of the specific area of focus of the project.
+The Advanced Analytics topic focuses on innovations that involve the mathematical or computational analysis of data or statistics. This topic does not include learning-based systems, which are covered under the Artificial Intelligence (AI) topic. These subtopic areas are meant to serve as examples; all proposals with technical innovation and significant commercial potential are welcome, regardless of the specific area of focus of the project.
 
 ### AA1. Data Collection, Cleaning, Integration and Processing
 
