@@ -36,7 +36,8 @@ To learn more visit: [https://www.clearflameengines.com/](https://www.clearflame
 
 </div>
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="re:3D" width="100%" height="300" src="https://www.youtube.com/embed/wuXqAjPGldE" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="re:3D" width="100%" height="300" src="https://www.youtube.com/embed/wuXqAjPGldE?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe><br>
+  <p><em>View on <a href="https://www.youtube.com/watch?v=wuXqAjPGldE" target="_blank">Youtube</a>.</em></p>
 </div>
 </div>
 </section>
@@ -45,7 +46,8 @@ To learn more visit: [https://www.clearflameengines.com/](https://www.clearflame
 <div class="usa-content usa-grid">
   
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="Squishy Robotics" width="100%" height="300" src="https://www.youtube.com/embed/RcPFQJorwpc" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="Squishy Robotics" width="100%" height="300" src="https://www.youtube.com/embed/RcPFQJorwpc?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe><br>
+  <p><em>View on <a href="https://www.youtube.com/watch?v=RcPFQJorwpc&trk=organization-update-content_share-embed-video_share-article_title" target="_blank">Youtube</a>.</em></p>
 </div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
@@ -75,7 +77,8 @@ To learn more visit: [https://www.muzology.com/](https://www.muzology.com/).
 </div>
 
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="re:3D" width="100%" height="300" src="https://www.youtube.com/embed/rnUx5iRdHWk" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="re:3D" width="100%" height="300" src="https://www.youtube.com/embed/rnUx5iRdHWk?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe><br>
+  <p><em>View on <a href="https://www.youtube.com/watch?v=rnUx5iRdHWk" target="_blank">Youtube</a>.</em></p>
 </div>
 
 </div>
@@ -85,7 +88,8 @@ To learn more visit: [https://www.muzology.com/](https://www.muzology.com/).
 <div class="usa-content usa-grid">
 
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="re:3D" width="100%" height="300" src="https://www.youtube.com/embed/XDEgLYwdKP4" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="re:3D" width="100%" height="300" src="https://www.youtube.com/embed/XDEgLYwdKP4?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe><br>
+  <p><em>View on <a href="https://www.youtube.com/watch?v=XDEgLYwdKP4" target="_blank">Youtube</a>.</em></p>
 </div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
@@ -115,7 +119,8 @@ To learn more visit: [https://www.kelahealth.com/](https://www.kelahealth.com/).
 </div>
 
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="KelaHealth" width="100%" height="300" src="https://www.youtube.com/embed/w6oYYZFhzeE" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="KelaHealth" width="100%" height="300" src="https://www.youtube.com/embed/w6oYYZFhzeE?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe><br>
+  <p><em>View on <a href="https://www.youtube.com/watch?v=w6oYYZFhzeE" target="_blank">Youtube</a>.</em></p>
 </div>
 
 </div>
@@ -125,7 +130,8 @@ To learn more visit: [https://www.kelahealth.com/](https://www.kelahealth.com/).
 <div class="usa-content usa-grid">
   
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="Opus12" width="100%" height="300" src="https://www.youtube.com/embed/L-wLMGI6v9M" frameborder="0" modestbranding="1" showinfo="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="Opus12" width="100%" height="300" src="https://www.youtube.com/embed/L-wLMGI6v9M?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe><br>
+  <p><em>View on <a href="https://www.youtube.com/watch?v=L-wLMGI6v9M" target="_blank">Youtube</a>.</em></p>
 </div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
@@ -156,7 +162,8 @@ To learn more visit: [https://www.wearkinetic.com/](https://www.wearkinetic.com/
 </div>
 
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="Kinetic" width="100%" height="300" src="https://www.youtube.com/embed/1UAXId9owiY" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="Kinetic" width="100%" height="300" src="https://www.youtube.com/embed/1UAXId9owiY?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe><br>
+  <p><em>View on <a href="https://www.youtube.com/watch?v=1UAXId9owiY" target="_blank">Youtube</a>.</em></p>
 </div>
 
 </div>
@@ -167,7 +174,8 @@ To learn more visit: [https://www.wearkinetic.com/](https://www.wearkinetic.com/
 <div class="usa-content usa-grid">
 
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="Diligent Robotics" width="100%" height="300" src="https://www.youtube.com/embed/DRzAudR65tI" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="Diligent Robotics" width="100%" height="300" src="https://www.youtube.com/embed/DRzAudR65tI?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe><br>
+  <p><em>View on <a href="https://www.youtube.com/watch?v=DRzAudR65tI" target="_blank">Youtube</a>.</em></p>
 </div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
@@ -197,7 +205,8 @@ To learn more visit: [https://www.vital.education/](https://www.vital.education/
 </div>
 
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="Vital" width="100%" height="300" src="https://www.youtube.com/embed/iKqpWy_9KSE" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="Vital" width="100%" height="300" src="https://www.youtube.com/embed/iKqpWy_9KSE?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe><br>
+  <p><em>View on <a href="https://www.youtube.com/watch?v=iKqpWy_9KSE" target="_blank">Youtube</a>.</em></p>
 </div>
 
 </div>
@@ -208,7 +217,8 @@ To learn more visit: [https://www.vital.education/](https://www.vital.education/
 <div class="usa-content usa-grid">
 
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="Path Ex" width="100%" height="300" src="https://www.youtube.com/embed/fnv-hdTCSPM" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="Path Ex" width="100%" height="300" src="https://www.youtube.com/embed/fnv-hdTCSPM?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe><br>
+  <p><em>View on <a href="https://www.youtube.com/watch?v=fnv-hdTCSPM" target="_blank">Youtube</a>.</em></p>
 </div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
@@ -239,7 +249,8 @@ To learn more visit: [https://www.masonryarches.com/](https://www.masonryarches.
 </div>
 
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="Spherical Block" width="100%" height="300" src="https://www.youtube.com/embed/LcDj-_89Tcw" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="Spherical Block" width="100%" height="300" src="https://www.youtube.com/embed/LcDj-_89Tcw?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe><br>
+  <p><em>View on <a href="https://www.youtube.com/watch?v=LcDj-_89Tcw" target="_blank">Youtube</a>.</em></p>
 </div>
 
 </div>
@@ -250,7 +261,8 @@ To learn more visit: [https://www.masonryarches.com/](https://www.masonryarches.
 <div class="usa-content usa-grid">
 
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="Embr Labs" width="100%" height="300" src="https://www.youtube.com/embed/SlVRqx6w3rQ" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="Embr Labs" width="100%" height="300" src="https://www.youtube.com/embed/SlVRqx6w3rQ?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe><br>
+  <p><em>View on <a href="https://www.youtube.com/watch?v=SlVRqx6w3rQ" target="_blank">Youtube</a>.</em></p>
 </div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
@@ -280,7 +292,8 @@ To learn more visit: [https://embrlabs.com/](https://embrlabs.com/).
 </div>
 
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="Ember Labs" width="100%" height="300" src="https://www.youtube.com/embed/BqzF0oIAXUI" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="Ember Labs" width="100%" height="300" src="https://www.youtube.com/embed/BqzF0oIAXUI?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe><br>
+  <p><em>View on <a href="hhttps://www.youtube.com/watch?v=BqzF0oIAXUI" target="_blank">Youtube</a>.</em></p>
 </div>
 
 </div>
@@ -291,7 +304,8 @@ To learn more visit: [https://embrlabs.com/](https://embrlabs.com/).
 <div class="usa-content usa-grid">
 
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="OESH Shoes" width="100%" height="300" src="https://www.youtube.com/embed/jvnyzUogCZo" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="OESH Shoes" width="100%" height="300" src="https://www.youtube.com/embed/jvnyzUogCZo?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe><br>
+  <p><em>View on <a href="https://www.youtube.com/watch?v=jvnyzUogCZo" target="_blank">Youtube</a>.</em></p>
 </div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
@@ -322,7 +336,8 @@ To learn more visit: [https://diligentrobots.com/](https://diligentrobots.com/).
 </div>
 
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="Diligent Robotics" width="100%" height="300" src="https://www.youtube.com/embed/Pdm0hix7OiI" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="Diligent Robotics" width="100%" height="300" src="https://www.youtube.com/embed/Pdm0hix7OiI?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe><br>
+  <p><em>View on <a href="https://www.youtube.com/watch?v=Pdm0hix7OiI" target="_blank">Youtube</a>.</em></p>
 </div>
 </div>
 </section>
@@ -331,7 +346,8 @@ To learn more visit: [https://diligentrobots.com/](https://diligentrobots.com/).
 <div class="usa-content usa-grid">
 
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="Diligent Robotics" width="100%" height="300" src="https://www.youtube.com/embed/f5iYvMtqTAo" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="Diligent Robotics" width="100%" height="300" src="https://www.youtube.com/embed/f5iYvMtqTAo?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe><br>
+  <p><em>View on <a href="https://www.youtube.com/watch?v=f5iYvMtqTAo" target="_blank">Youtube</a>.</em></p>
 </div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
@@ -362,7 +378,8 @@ To learn more visit: [https://www.fyodorbio.com/](https://www.fyodorbio.com/).
 </div>
 
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="Malaria Video" width="100%" height="300" src="https://www.youtube.com/embed/XzgzRg9PwRc" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="Malaria Video" width="100%" height="300" src="https://www.youtube.com/embed/XzgzRg9PwRc?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe><br>
+  <p><em>View on <a href="https://www.youtube.com/watch?v=XzgzRg9PwRc" target="_blank">Youtube</a>.</em></p>
 </div>
 </div>
 </section>
@@ -372,7 +389,8 @@ To learn more visit: [https://www.fyodorbio.com/](https://www.fyodorbio.com/).
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
 <div class="usa-width-one-half">
-  <iframe sandbox="allow-same-origin allow-scripts" title="Elidah" height="300" width="100%" src="https://www.youtube.com/embed/ksxUK6OWpOA" frameborder="0" allowfullscreen></iframe>
+  <iframe sandbox="allow-same-origin allow-scripts" title="Elidah" height="300" width="100%" src="https://www.youtube.com/embed/ksxUK6OWpOA?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe><br>
+  <p><em>View on <a href="https://www.youtube.com/watch?v=ksxUK6OWpOA" target="_blank">Youtube</a>.</em></p>
 </div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
