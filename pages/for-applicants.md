@@ -35,24 +35,32 @@ Thinking of applying for Phase I funding? Ask all your application-related quest
 Thinking of applying for Phase I funding? Check out our videos covering [program basics](https://youtu.be/oVhWWydWWc4) and [tips and tricks for submitting a proposal](https://youtu.be/8WPa4Epdl1k). (We offer a [PDF version of program basics]({{site.baseurl}}/assets/files/press/overview2020.pdf), too.)
 {% endif %}
 
- 
 ## Startup profiles
 
 Get to know our awardees better — we’ve got [video profiles of startups and small businesses that have received NSF funding](https://www.youtube.com/playlist?list=PLGhBP1C7iCOkPp8yv2I3ZGk16LiMIiikb).
 
-## FastLane guide
+## Project Pitch
 
-Before you start your proposal, take a look at our [FastLane guide]({{ site.baseurl }}/fastlane/). 
+Wondering if your idea is a good fit? Submit your [Project Pitch]({{site.baseurl}}/project-pitch/) and find out in three weeks.
+# Apply
 
 ## FAQ
 
 Have lingering questions? Visit our [FAQ](https://www.nsf.gov/pubs/2020/nsf20031/nsf20031.jsp), which covers the pre-application process to post-award reporting (and everything in between).
 
+## FastLane guide
+
+Before you start your proposal, take a look at our [FastLane guide]({{ site.baseurl }}/fastlane/). 
+
+## Review Guidelines
+
+Read the [Peer Review Guidelines](https://seedfund.nsf.gov/resources/review/peer-review/) to determine if your proposal fits the merit review or broader impacts criteria that we use to make funding decisions.
+
 ## Beyond Phase I
 
 Are you a Phase I awardee? Visit [How to Apply for Phase II]({{ site.baseurl }}/resources/awardees/phase-2/apply/).
 
-<div style="margin-top:50px; margin-bottom:50px;">
+<div style="margin-top:40px; margin-bottom:50px;">
  <br>
 <a href="{{ site.baseurl }}/apply/" class="usa-button">APPLY</a>
  <br>
