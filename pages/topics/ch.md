@@ -2,7 +2,7 @@
 title: Cloud and High-Performance Computing (CH)
 permalink: /topics/cloud-high-performance-computing/
 layout: tech-topic
-topic_code: ct
+topic_code: ch
 section_image: "/assets/img/bg/kepley-2c-ct.jpg"
 section_image_caption: |
   Development of OrganoBait synthetic bait, the NSF-Supported projected from [Kepley BioSystems]({{ site.baseurl }}/awardees/phase-2/details/?company=kepley-biosystems-incorporated#kepley-biosystems-incorporated) to provide an ocean-restorative alternative bait product
