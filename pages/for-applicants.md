@@ -47,7 +47,7 @@ Get to know our awardees better — we’ve got [video profiles of startups and 
 
 Wondering if your idea is a good fit? Submit your [Project Pitch]({{site.baseurl}}/project-pitch/) and find out in three weeks.
 # Apply
-<div style="margin-top:40px; margin-bottom:50px;">
+<div style="margin-bottom:20px;">
  <br>
 <a href="{{ site.baseurl }}/apply/" class="usa-button">APPLY</a>
  <br>
