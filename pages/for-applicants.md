@@ -31,8 +31,16 @@ Thinking of applying for Phase I funding? Ask all your application-related quest
 
 {% else %}
 ## Q&A videos
+  
+Thinking of applying for Phase I funding? 
 
-Thinking of applying for Phase I funding? Check out our videos covering [program basics](https://youtu.be/oVhWWydWWc4) and [tips and tricks for submitting a proposal](https://youtu.be/8WPa4Epdl1k). (We offer a [PDF version of program basics]({{site.baseurl}}/assets/files/press/overview2020.pdf), too.)
+Check out our video covering <a href="https://youtu.be/oVhWWydWWc4" target="_blank">program basics.</a>
+ <a style="border-bottom:0px;" href="https://youtu.be/oVhWWydWWc4" target="_blank"><img src="{{ site.baseurl }}/assets/img/qa_video.jpg" alt="QA Video" style="max-width:400px;margin-top:15px;margin-bottom:15px;"></a><br><br>
+Or watch our video with <a href="https://youtu.be/8WPa4Epdl1k">tips and tricks for submitting a proposal</a>.  
+ <a style="border-bottom:0px;" href="https://youtu.be/8WPa4Epdl1k" target="_blank"><img src="{{ site.baseurl }}/assets/img/qa_video2.jpg" alt="Tips and Tricks Video" style="max-width:400px;margin-top:15px;"></a>
+
+(We offer a <a href="../../assets/files/press/overview2020.pdf">PDF version of program basics</a>, too.)
+
 {% endif %}
 
 ## Startup profiles
@@ -43,7 +51,11 @@ Get to know our awardees better — we’ve got [video profiles of startups and 
 
 Wondering if your idea is a good fit? Submit your [Project Pitch]({{site.baseurl}}/project-pitch/) and find out in three weeks.
 # Apply
-
+Once you've received an invitation to submit a proposal (via the Project Pitch process), we encourage you to dig into the following resources to support you as you create your SBIR/STTR proposal.
+<div style="margin-bottom:20px;">
+<a href="{{ site.baseurl }}/apply/" class="usa-button">APPLY</a>
+ <br>
+</div>
 ## FAQ
 
 Have lingering questions? Visit our [FAQ](https://www.nsf.gov/pubs/2020/nsf20031/nsf20031.jsp), which covers the pre-application process to post-award reporting (and everything in between).
@@ -60,11 +72,7 @@ Read the [Peer Review Guidelines](https://seedfund.nsf.gov/resources/review/peer
 
 Are you a Phase I awardee? Visit [How to Apply for Phase II]({{ site.baseurl }}/resources/awardees/phase-2/apply/).
 
-<div style="margin-top:40px; margin-bottom:50px;">
- <br>
-<a href="{{ site.baseurl }}/apply/" class="usa-button">APPLY</a>
- <br>
-</div>
+
  
  <div style="margin-bottom:1rem;float:left">
  <img src="{{ site.baseurl }}/assets/img/showcase/Elidah Quote Image.png" alt="Elidah Quote" style="float:left; margin-right:2%; max-width:30%;">
