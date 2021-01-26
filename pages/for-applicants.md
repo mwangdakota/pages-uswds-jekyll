@@ -28,11 +28,15 @@ Thinking of applying for Phase I funding? Ask all your application-related quest
 
 ## Q&A videos
   
-Thinking of applying for Phase I funding? Check out our videos covering <a href="https://youtu.be/oVhWWydWWc4" target="_blank">program basics</a> and <a href="https://youtu.be/8WPa4Epdl1k">tips and tricks for submitting a proposal</a>. (We offer a <a href="../../assets/files/press/overview2020.pdf">PDF version of program basics</a>, too.)
+Thinking of applying for Phase I funding? 
+
+Check out our videos covering <a href="https://youtu.be/oVhWWydWWc4" target="_blank">program basics</a>
 
  <a style="border-bottom:0px;" href="https://youtu.be/oVhWWydWWc4" target="_blank"><img src="{{ site.baseurl }}/assets/img/qa_video.jpg" alt="QA Video" style="max-width:400px;"></a><br><br>
  
- <a style="border-bottom:0px;" href="https://youtu.be/8WPa4Epdl1k" target="_blank"><img src="{{ site.baseurl }}/assets/img/qa_video2.jpg" alt="QA Video" style="max-width:400px;"></a>
+Or watch our video with <a href="https://youtu.be/8WPa4Epdl1k">tips and tricks for submitting a proposal</a>. (We offer a <a href="../../assets/files/press/overview2020.pdf">PDF version of program basics</a>, too.)
+ 
+ <a style="border-bottom:0px;" href="https://youtu.be/8WPa4Epdl1k" target="_blank"><img src="{{ site.baseurl }}/assets/img/qa_video2.jpg" alt="Tips and Tricks Video" style="max-width:400px;"></a>
 
 {% endif %}
 
