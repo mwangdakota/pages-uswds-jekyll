@@ -31,12 +31,12 @@ Thinking of applying for Phase I funding? Ask all your application-related quest
 Thinking of applying for Phase I funding? 
 
 Check out our videos covering <a href="https://youtu.be/oVhWWydWWc4" target="_blank">program basics</a>
-
  <a style="border-bottom:0px;" href="https://youtu.be/oVhWWydWWc4" target="_blank"><img src="{{ site.baseurl }}/assets/img/qa_video.jpg" alt="QA Video" style="max-width:400px;"></a><br><br>
  
-Or watch our video with <a href="https://youtu.be/8WPa4Epdl1k">tips and tricks for submitting a proposal</a>. (We offer a <a href="../../assets/files/press/overview2020.pdf">PDF version of program basics</a>, too.)
- 
+Or watch our video with <a href="https://youtu.be/8WPa4Epdl1k">tips and tricks for submitting a proposal</a>.  
  <a style="border-bottom:0px;" href="https://youtu.be/8WPa4Epdl1k" target="_blank"><img src="{{ site.baseurl }}/assets/img/qa_video2.jpg" alt="Tips and Tricks Video" style="max-width:400px;"></a>
+
+(We offer a <a href="../../assets/files/press/overview2020.pdf">PDF version of program basics</a>, too.)
 
 {% endif %}
 
@@ -48,13 +48,11 @@ Get to know our awardees better — we’ve got [video profiles of startups and 
 
 Wondering if your idea is a good fit? Submit your [Project Pitch]({{site.baseurl}}/project-pitch/) and find out in three weeks.
 # Apply
-
 <div style="margin-top:40px; margin-bottom:50px;">
  <br>
 <a href="{{ site.baseurl }}/apply/" class="usa-button">APPLY</a>
  <br>
 </div>
-
 ## FAQ
 
 Have lingering questions? Visit our [FAQ](https://www.nsf.gov/pubs/2020/nsf20031/nsf20031.jsp), which covers the pre-application process to post-award reporting (and everything in between).
