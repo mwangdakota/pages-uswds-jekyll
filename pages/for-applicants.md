@@ -49,6 +49,12 @@ Get to know our awardees better — we’ve got [video profiles of startups and 
 Wondering if your idea is a good fit? Submit your [Project Pitch]({{site.baseurl}}/project-pitch/) and find out in three weeks.
 # Apply
 
+<div style="margin-top:40px; margin-bottom:50px;">
+ <br>
+<a href="{{ site.baseurl }}/apply/" class="usa-button">APPLY</a>
+ <br>
+</div>
+
 ## FAQ
 
 Have lingering questions? Visit our [FAQ](https://www.nsf.gov/pubs/2020/nsf20031/nsf20031.jsp), which covers the pre-application process to post-award reporting (and everything in between).
@@ -65,11 +71,7 @@ Read the [Peer Review Guidelines](https://seedfund.nsf.gov/resources/review/peer
 
 Are you a Phase I awardee? Visit [How to Apply for Phase II]({{ site.baseurl }}/resources/awardees/phase-2/apply/).
 
-<div style="margin-top:40px; margin-bottom:50px;">
- <br>
-<a href="{{ site.baseurl }}/apply/" class="usa-button">APPLY</a>
- <br>
-</div>
+
  
  <div style="margin-bottom:1rem;float:left">
  <img src="{{ site.baseurl }}/assets/img/showcase/Elidah Quote Image.png" alt="Elidah Quote" style="float:left; margin-right:2%; max-width:30%;">
