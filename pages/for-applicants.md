@@ -49,7 +49,6 @@ Wondering if your idea is a good fit? Submit your [Project Pitch]({{site.baseurl
 # Apply
 Once you've received an invitation to submit a proposal (via the Project Pitch process), we encourage you to dig into the following resources to support you as you create your SBIR/STTR proposal.
 <div style="margin-bottom:20px;">
- <br>
 <a href="{{ site.baseurl }}/apply/" class="usa-button">APPLY</a>
  <br>
 </div>
