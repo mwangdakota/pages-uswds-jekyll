@@ -5,9 +5,13 @@
     {% if link.href == page.url or link.href == page.permalink %}
       {% assign _current = true %}
     {% endif %}
+    {% assign _target = '' %}
+    {% if link.target %}
+      {% assign _target = 'target="_T_"' | replace: "_T_", link.target %}
+    {% endif %}
   <li class="{{ link.section }}">
     <a href="{% if _href contains "https:"  or _href contains "www." _href contains "http:" %}{{ _href}}{% else %}{{ _href | relative_url }}{% endif %}"{% if _current %}
-      class="usa-current"{% endif %}>
+      class="usa-current"{% endif %} {{ _target}}>
       {{ link.text }}
     </a>
     {% if _current and page.subnav %}
@@ -18,3 +22,4 @@
   </li>
   {% endfor %}
 </ul>
+
