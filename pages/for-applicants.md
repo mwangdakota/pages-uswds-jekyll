@@ -16,14 +16,6 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 
 If you’re interested in applying for funding, we encourage you to watch our videos, join us at an event, or reach out directly to our program directors to learn more about the program and what we hope to see in your proposal. 
  
-## Project Pitch
-
-Wondering if your idea is a good fit? Submit your [Project Pitch]({{site.baseurl}}/project-pitch/) and find out in three weeks.
-
-## Review Guidelines
-
-Read the [Peer Review Guidelines](https://seedfund.nsf.gov/resources/review/peer-review/) to determine if your proposal fits the merit review or broader impacts criteria that we use to make funding decisions.
-
 {% if site.app_process == "active" %}
 ## Virtual Office Hours
 
