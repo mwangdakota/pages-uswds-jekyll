@@ -39,6 +39,23 @@ Since 2012, America’s Seed Fund powered by NSF has made nearly 3,400 awards to
 
 </div>
 </section>
+<section class="background-light-neutral" markdown="1">
+<div class="usa-section-tight-top usa-section usa-content usa-grid" markdown="1">
+
+**View our current awardees,** who are still completing the research outlined in their proposals and who haven't yet reached the estimated ends of their award terms. [View current Phase I awardees]({{ site.baseurl }}/awardees/phase-1/) or [Current Phase II awardees]({{ site.baseurl }}/awardees/phase-2/).
+
+</div>
+<div style="
+    background-color:#FFFAC3;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 3rem;
+    padding-right:3rem;
+    margin-top: 6rem;
+    ">
+    <a href="../covid-awards-phase-1/">View a list of COVID-19 related awards here.</a>
+</div>
+</section>
 
 <section class="background-light-neutral">
 <div class="usa-section-tight-top usa-section usa-content usa-grid">
@@ -57,13 +74,7 @@ Since 2012, America’s Seed Fund powered by NSF has made nearly 3,400 awards to
 </div>
 </section>
 
-<section class="background-light-neutral" markdown="1">
-<div class="usa-section-tight-top usa-section usa-content usa-grid" markdown="1">
 
-**View our current awardees,** who are still completing the research outlined in their proposals and who haven't yet reached the estimated ends of their award terms. [View current Phase I awardees]({{ site.baseurl }}/awardees/phase-1/) or [Current Phase II awardees]({{ site.baseurl }}/awardees/phase-2/).
-
-</div>
-</section>
 
 <section class="section-background-image">
   <div class="usa-grid">
@@ -79,16 +90,7 @@ Since 2012, America’s Seed Fund powered by NSF has made nearly 3,400 awards to
 <h2 class="subhead text-small">Featured alumni and exits</h2>
 {% include featured-companies.html %}
 
-<div style="
-    background-color:#FFFAC3;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-    padding-left: 3rem;
-    padding-right:3rem;
-    margin-top: 6rem;
-    ">
-    <a href="../covid-awards-phase-1/">View a list of COVID-19 related awards here.</a>
-</div>
+
 
 {% include tech-subtopics.html %}
 <p style="margin-top:100px; width=150px;" class="text-small">
