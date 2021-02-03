@@ -120,8 +120,6 @@
     - Wearable Technologies (AV5)
     - Other Augmented and Virtual Reality Technologies (AV6)
   companies:
-    - name: Bay Labs, Inc.
-    - name: GrokStyle Inc.
     
 - topic: Biological Technologies (BT)
   permalink: /topics/biological-technologies/
@@ -719,7 +717,6 @@
     - Wireless Devices and Components (W1)
     - Wireless Systems (W2)
     - Other Wireless Technologies (W3)
-
   companies:
     - name: Altaeros Energies, Inc.
     - name: OceanComm Incorporated
