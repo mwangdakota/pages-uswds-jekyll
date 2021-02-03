@@ -289,6 +289,7 @@
     - name: Radial Analytics, Inc.
     - name: HealthMyne, Inc.
     - name: TAO Connect, Inc.
+    - name: KOYA INC.
     
 - topic: Distributed Ledger (DL)
   permalink: /topics/distributed-ledger/
@@ -386,6 +387,8 @@
   -  Technology Aids for Disabilities (HC7)
   - Other Human-Computer Interaction Technologies (HC8)
   companies:
+  - name: Neural Analytics
+  - name: Pison Technology Inc
 
 - topic: Instrumentation and Hardware Systems (IH)
   permalink: /topics/instrumentation-and-hardware-systems/
@@ -500,7 +503,6 @@
     - Software (MO5)
     - Other Mobility Topics (MO6)
   companies:
-    - name: Neural Analytics
     - name: LUNEWEAVE INC.
     - name: ClearFlame Engines, Inc.
     - name: ILANS, Inc.
