@@ -44,7 +44,6 @@ Since 2012, America’s Seed Fund powered by NSF has made nearly 3,400 awards to
 
 **View our current awardees,** who are still completing the research outlined in their proposals and who haven't yet reached the estimated ends of their award terms. [View current Phase I awardees]({{ site.baseurl }}/awardees/phase-1/) or [Current Phase II awardees]({{ site.baseurl }}/awardees/phase-2/).
 
-</div>
 <div style="
     background-color:#FFFAC3;
     padding-top: 2rem;
@@ -55,6 +54,8 @@ Since 2012, America’s Seed Fund powered by NSF has made nearly 3,400 awards to
     ">
     <a href="../covid-awards-phase-1/">View a list of COVID-19 related awards here.</a>
 </div>
+</div>
+
 </section>
 
 <section class="background-light-neutral">
