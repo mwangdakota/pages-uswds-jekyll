@@ -23,7 +23,7 @@ scripts:
 Since 2012, America’s Seed Fund powered by NSF has made nearly 3,400 awards to startups and small businesses. Since 2015, NSF-funded small businesses have had 153 exits and have received $9.1 billion in private investment.* We encourage you to explore this list of assorted companies we’ve funded.   
 <span class="text-small" style="font-style:italic;">*Data from CB Insights.</span>
 
-<form onsubmit="allAwards(this.a1.value); return false;" class="awards-search-form">
+<form onsubmit="allAwards(this.a1.value); return false;" class="awards-search-form" style="margin-bottom: 0rem;">
  {% comment %}
  <input id="current" type="radio" name="awards-search" value="currentAwards">
  <label for="current">Current NSF SBIR/STTR Awards</label>
