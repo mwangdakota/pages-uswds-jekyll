@@ -11,7 +11,7 @@ A DUNS number is a unique, nine-digit number that identifies each physical locat
 ### [System for Award Management (SAM)](https://www.sam.gov/SAM/)
 **Processing time:** Up to three weeks
 
-You MUST register to do business with the U.S. government through System for Award Management (SAM). When you register, you’ll have to share bank account information of the account where the NSF funds would be deposited. This registration process is free and takes only 10-15 minutes to initiate, but can take up to three weeks to complete. An active SAM.gov registration is needed to create a FastLane account and submit a proposal to NSF. Registration expires after one year. Read the [SAM Quick Start Guide](https://www.sam.gov/sam/transcript/Quick_Guide_for_Grants_Registrations.pdf). 
+You MUST register to do business with the U.S. government through System for Award Management (SAM). When you register, you’ll have to share bank account information of the account where the NSF funds would be deposited. This registration process is free and takes only 10-15 minutes to initiate, but can take up to three weeks to complete. An active SAM.gov registration is needed to create a FastLane account and submit a proposal to NSF. Registration expires after one year. 
   
 ### [Research.gov (Online Grant Management for the NSF Community)](https://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_home_page)
 **Processing time:** Up to 48 hours
