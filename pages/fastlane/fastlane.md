@@ -16,7 +16,7 @@ FastLane will not accept proposals after 5:00 PM submitter’s time on {{ site.n
 
 ### Were you invited to submit a proposal?
 
-NSF SBIR/STTR Program Phase I applicants are now **REQUIRED** to submit a three-page “Project Pitch” that outlines the project objectives, technical innovation and associated technical risks. Projects that seem to be a good fit will be officially **INVITED** to submit a full proposal, and all Project Pitch submitters will receive feedback within three weeks. 
+NSF SBIR/STTR Program Phase I applicants are now **REQUIRED** to submit a three-page “Project Pitch” that outlines the project objectives, technical innovation and associated technical risks. Projects that seem to be a good fit will be officially **INVITED** to submit a full proposal. 
 
 Only SBIR/STTR proposals that have been invited will be reviewed by NSF. To learn more about the Project Pitch, please visit [How to Apply]({{ site.baseurl }}/apply/). 
 
