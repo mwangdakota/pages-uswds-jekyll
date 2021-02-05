@@ -106,7 +106,7 @@ In selected cases, we support innovations to existing products and services, but
 <div class="usa-section usa-content usa-grid" markdown="1">
 ## Program basics
 
- When you decide to apply for funding, you’ll submit a Project Pitch. You'll hear back within three weeks if your idea is a good fit for the program. Once you're invited, you'll submit a Phase I proposal for up to $256,000, which will cover at least six (and up to 12) months of work. You’ll find out whether your proposal was accepted or declined within four to six months of the proposal deadline.
+ When you decide to apply for funding, you’ll submit a Project Pitch. You'll hear back if your idea is a good fit for the program. Once you're invited, you'll submit a Phase I proposal for up to $256,000, which will cover at least six (and up to 12) months of work. You’ll find out whether your proposal was accepted or declined within four to six months of the proposal deadline.
 
 If you’re awarded Phase I funding, you’ll be expected to:
 

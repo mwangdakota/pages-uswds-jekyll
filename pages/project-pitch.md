@@ -11,7 +11,7 @@ layout: secondary
 
 <p>The required Project Pitch allows startups and small businesses to get quick feedback at the start of their application for Phase I funding from America’s Seed Fund powered by NSF. </p>
 
-<p>Startups or entrepreneurs who submit a three-page Project Pitch* will know within three weeks if they meet the program’s objectives to support innovative technologies that show promise of commercial and/or societal impact and involve a level of technical risk. They will also get additional guidance and feedback from NSF staff. </p>
+<p>Startups or entrepreneurs who submit a Project Pitch* will find out if they meet the program’s objectives to support innovative technologies that show promise of commercial and/or societal impact and involve a level of technical risk. They will also get additional guidance and feedback from NSF staff. </p>
 
 <p>If your Project Pitch is a good fit for the program, you will receive an official invitation from NSF to submit a full proposal. If you’re not invited to submit, you’ll be told why your project is not appropriate for the program. </p>
 
