@@ -41,7 +41,8 @@ Get to know our awardees better — we’ve got [video profiles of startups and 
 
 ## Project Pitch
 
-Wondering if your idea is a good fit? Submit your [Project Pitch]({{site.baseurl}}/project-pitch/) and find out in three weeks.
+Wondering if your idea is a good fit? The first step in the process is to submit your written Project Pitch]({{site.baseurl}}/project-pitch/). Startups or entrepreneurs who submit a Project Pitch will learn if they meet the program’s objectives and be invited to submit a full proposal.
+
 # Apply
 Once you've received an invitation to submit a proposal (via the Project Pitch process), we encourage you to dig into the following resources to support you as you create your SBIR/STTR proposal.
 <div style="margin-bottom:20px;">
