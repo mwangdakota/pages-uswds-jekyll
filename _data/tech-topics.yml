@@ -437,8 +437,7 @@
 
 - topic: Learning and Cognition Technologies (LC)
   permalink: /topics/learning-cognition-technologies/
-  topic_code: 
-    -lc
+  topic_code: lc
   programDirector:
     - name: Diane Hickey
       last_name: Hickey
