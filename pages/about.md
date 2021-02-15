@@ -57,7 +57,7 @@ You’ll work with a program director, who will serve as your coach. You’ll al
 
 <div class="usa-width-two-thirds" markdown="1">
 
-- **Up to $1.75M / 24+ months.** Receive up to $256,000 in seed capital to conduct product [Research and Development (R&D)]({{ site.baseurl }}/research-and-development/) over six to 12 months. During this period, your company will be immersed in the NSF network and you’ll receive training and mentorship from seasoned entrepreneurs and innovators. After you complete your Phase I award, you’re welcome to apply for a second-round investment of $1,000,000 over 24 months. During the course of that award, you can apply for supplements that may add up to another $500,000.
+- **Up to $2M / 24+ months.** Receive up to $256,000 in seed capital to conduct product [Research and Development (R&D)]({{ site.baseurl }}/research-and-development/) over six to 12 months. During this period, your company will be immersed in the NSF network and you’ll receive training and mentorship from seasoned entrepreneurs and innovators. After you complete your Phase I award, you’re welcome to apply for a second-round investment of $1,000,000 over 24 months. During the course of that award, you can apply for supplements that may add up to another $500,000.
 
 - **Feedback from experts**: Every proposal is evaluated by a group of technical and commercial experts, who provide detailed feedback to all reviewed applications; even companies that don't receive awards get valuable, actionable feedback.
 
