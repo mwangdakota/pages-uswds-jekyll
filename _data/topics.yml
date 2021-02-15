@@ -8517,6 +8517,359 @@
   startDate: '09/15/2019'
   expDate: '08/31/2021'
   title: 'SBIR Phase II:  Human Like Robotic Grippers Using Electroactive Polymers'  
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to improve clinical outcomes and quality-of-life for pancreatic cancer patients. Only 10% of pancreatic cancer survive five years after diagnosis because most cases are detected at later stages when clinical interventions are relatively ineffective. Earlier detection improves interventions, prevents unnecessary procedures arising from uncertain diagnosis, and leads to health system cost savings. Roughly 5 million individuals in the US are at higher risk, but there is no screening test available today for earlier stages, a surveillance market estimated at $3 B. This project will develop a diagnostic test for surveillance of people at high risk for developing pancreatic cancer, with methods potentially applicable to other types of cancer and other diseases.
+
+    This Small Business Innovation Research (SBIR) Phase II project will advance a technology using a small blood sample to detect the functional state of multiple biological signaling pathways known to participate in cancer inception and progression. This technology can analyze these low abundance proteins at a low cost suitable for a widely adopted surveillance test.  A purpose-built bioinformatic system analyses and compares the bio-signature identified by the assay across many individuals.  This Phase II project will optimize the panel of protein targets in the assay to detect high-performing differential bio-signatures for early stages of the disease, and it will enhance the machine-learning-based matching methodology.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 142 Marsh St.
+  awardeeCity: Belmont
+  awardeeCountryCode: US
+  awardeeName: ActivSignal, LLC
+  awardeeStateCode: MA
+  awardeeZipCode: '024782133'
+  fundsObligatedAmt: '1000000'
+  fundProgramName: SBIR Phase II
+  id: '2026113'
+  piEmail: ialexandrov@activsignal.com
+  piFirstName: Ilya
+  piLastName: Alexandrov
+  piPhone: '6173193077'
+  poName: Henry Ahn
+  date: '09/14/2020'
+  startDate: '09/15/2020'
+  expDate: '08/31/2022'
+  title: 'SBIR Phase II:  Early Detection of Pancreatic Cancer using Multiplex Protein
+    Profiling'
+- abstractText: |-
+    This SBIR Phase II project aims to develop a novel engineered microbiome as a potential therapeutic for a rare skin disease called Netherton syndrome. Netherton syndrome (NS) is a rare, severe skin disease with high mortality and few treatment options. This proposal aims to develop a new therapeutic for this disease, a microbe-based protein delivery system of LEKTI, the missing protein responsible for NS symptoms. At the end of this project, a candidate live biotherapeutic product candidate (LETKI-secreting strain of S. epidermidis) will be nominated and the Company will have sufficient data with which to proceed into formal preclinical studies and subsequent human testing. This proposed product will have the potential to address thousands of patients in the U.S., and the broader proof-of-principle of this microbe-based technology offers significant potential to treat millions of patients living with skin conditions. This offers significant advances in innovation in addition to broad commercial potential.
+
+    This project aims to develop a novel therapeutic candidate composed of an engineered strain of S. epidermidis that secretes LEKTI protein to the skin for the treatment of Netherton syndrome (NS). NS is a rare but severe autosomal recessive disease that affects the skin, hair, and immune system. NS is caused by mutations in in the SPINK5 gene encoding the serine protease inhibitor lymphoepithelial Kazal-type related inhibitor (LEKTI), which contains 15 serine protease inhibitory domains. The goal of this Phase II project is to demonstrate a proof-of-concept therapeutic for NS: an engineered commensal microbe that delivers discrete domains of LETKI to the skin. The proposed Phase II research plan will establish critical criteria for nominating a potential live biotherapeutic product (LBP) candidate composed LEKTI-secreting S. epidermidis. This research will perform key activities in preclinical development of an LBP: identify an optimal sequence of LEKTI; develop analytical methods for detecting LEKTI secreted from an engineered strain of S. epidermidis; and develop analytical methods for measuring biodistribution and adsorption of LEKTI secreted by S. epidermidis in a human in vitro model.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 400 Farmington Ave
+  awardeeCity: Farmington
+  awardeeCountryCode: US
+  awardeeName: Azitra Inc.
+  awardeeStateCode: CT
+  awardeeZipCode: '060321913'
+  fundsObligatedAmt: '719727'
+  fundProgramName: SBIR Phase II
+  id: '1853071'
+  piEmail: travis@azitrainc.com
+  piFirstName: Travis
+  piLastName: Whitfill
+  piMiddeInitial: M
+  piPhone: '8173194417'
+  poName: Henry Ahn
+  date: 04/04/2019
+  startDate: 04/01/2019
+  expDate: 03/31/2021
+  title: 'SBIR Phase II:  Re-engineered skin bacteria as a novel topical drug delivery
+    system'    
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project addresses the healthcare needs of the 27 million Americans and 300 million patients globally suffering with type 2 diabetes (T2D). These patients are desperate for a safe treatment that reestablishes glycemic control to augment or replace current management strategies such as metformin and insulin, which only slow the progression of the disease. This proposal provides a unique approach to T2D based on an orally delivered intestinal coating that mimics the beneficial metabolic effects of bariatric surgery. The potential commercial impact of this novel treatment is highly significant as the total estimated cost of diabetes management in the US is upwards of $245 billion, and rising. Overall, an astounding 1 in 5 US health care dollars is used for the care of people with diabetes. Therefore, major insurers are very interested in the reimbursement of alternative approaches for treating T2D, thereby lessening the national cost burden.
+
+    The proposed project supports the further development of an entirely novel treatment for T2D based on new insights from bariatric surgery. The medical community has recently recognized that certain bariatric procedures involving duodenal exclusion confer profound and immediate benefits in glucose tolerance. Sleeve-type medical devices have provided clinical validation for this approach, but such devices are invasive and not currently approved due to safety issues. The investigators propose a non-invasive and safe orally-delivered intestinal coating which is expected to provide the same effect as surgery and implanted sleeves, but requires neither a specialist nor sedation. This proposal describes in-vitro and in-vivo experiments that build on positive results of the Phase I project, and drive the company towards human clinical trials. Specific Aim-1 is to optimize the active lead compound through evaluation of a limited number of rational structural variations. Specific Aim 2 is to demonstrate the dose-dependent efficacy and safety of lead formulations in a chronic diabetic animal model. Consultation with leading endocrinologists, gastroenterologists, and material scientists has guided the selection of the materials and methods of this proposal. Completion of the studies outlined in the NSF SBIR Phase II proposal will accelerate clinical translation, bringing this novel treatment closer to patients in need.
+  awardeeAddress: 1812 Ashland Avenue
+  awardeeCity: Baltimore
+  awardeeCountryCode: US
+  awardeeName: Glyscend INC
+  awardeeStateCode: MD
+  awardeeZipCode: '021205150'
+  fundsObligatedAmt: '1199998'
+  fundProgramName: SBIR Phase II
+  id: '1738372'
+  piEmail: tom@glyscend.com
+  piFirstName: Thomas
+  piLastName: Jozefiak
+  piMiddeInitial: H
+  piPhone: '6172751765'
+  poName: Henry Ahn
+  date: '09/18/2017'
+  startDate: '09/15/2017'
+  expDate: 06/30/2021
+  title: 'SBIR Phase II:  Orally-dosed Intestinal Coating for the Treatment of Type
+    2 Diabetes Inspired from Bariatric Surgery'
+- abstractText: |-
+    This SBIR Phase II project demonstrates and clinically validates a novel, non-invasive imaging technology to detect diabetic retinopathy before structural damage occurs. Diabetic retinopathy is among the leading causes of vision loss in the world. This devastating complication of both type I and II diabetes results in structural damage to the sensitive vasculature of the retina. Once structural damage is inflicted, it is difficult, if not impossible, to ameliorate it. Small changes in the retinal vasculature's oxygen saturation have been shown to be a reliable indicator of diabetic retinopathy before structural damage occurs. Since there is no clinical non-invasive technology capable of detecting these small functional changes, a major need exists for new retinal oximetry technologies. Diabetic retinopathy affects 200 million people worldwide. The American Diabetes Association reports that the cost of diabetes in the US in 2012 was $245 billion, including $69 billion in reduced productivity and $176 billion in medical costs. Since 40% of diabetics are anticipated to develop diabetic retinopathy, the estimated economic cost of diabetic retinopathy is $98 billion annually. By mitigating the occurrence of diabetic retinopathy, this technology will help reduce the cost of diabetic retinopathy treatment, its overall economic burden, and help save the vision of millions of people around the world.
+
+    The primary technical innovation behind the proposed technology is its use of a novel physics-based model to overcome the challenges of high-resolution retinal imaging. These challenges include the multi-layered structure of the retina, absorbance dynamics, and the need to produce an image in one snapshot to reduce motion artifacts. Compared with existing methods based on structural imaging, the successful outcome of this project will become a commercial technology-of-choice for ophthalmologists around the world, enabling cost-effective detection of early stage diabetic retinopathy or pre-retinopathy. The development of the technology proceeds through iterative optimization between laboratory and real-use environments to generate robust, validated data. Specifically, in Phase II, the research objectives of the project are pursued in two parallel tracks: 1) refinement of the core imaging system, and 2) validation using model and human subjects in a clinical environment. The outcome of this project will be an easy-to-use, reliable diagnostic imaging and monitoring technology with proven clinical utility in detecting the onset of diabetic retinopathy based on functional properties, before structural damage has occurred in the patient.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 408 Anita Ave
+  awardeeCity: Belmont
+  awardeeCountryCode: US
+  awardeeName: Bioxytech Retina, Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '940022011'
+  fundsObligatedAmt: '791540'
+  fundProgramName: SBIR Phase II
+  id: '1853245'
+  piEmail: bioxytech@gmail.com
+  piFirstName: Ali
+  piLastName: Basiri
+  piPhone: '2023796666'
+  poName: Henry Ahn
+  date: 03/01/2019
+  startDate: 03/01/2019
+  expDate: 02/28/2021
+  title: 'SBIR Phase II:  Non-Invasive Retinal Oximetry for Detecting Diabetic Retinopathy
+    prior to Structural Damage'    
+- abstractText: |-
+    The broader impact and commercial potential of this Small Business Innovation Research (SBIR) project is a new source of human-grade protein that it can be produced at an estimated half the price of wholesale chicken and 2000 times higher protein yields per acre compared to soy with a fraction of the input requirements. The new protein addresses pain points in industry of potential allergens, amino acid composition, poor flavor and texture, and limited processability. If successfully commercialized, Emergy's potential impact is the ability to provide high quality protein to millions of people at 50% the price of animal protein, while saving the world greenhouse gas emissions, all with a significantly reduced land footprint.
+
+    This SBIR Phase II proposes to use the efficiencies of biological organisms to produce high quality, economical, and sustainable protein for human consumption. To achieve this goal, Emergy grows filamentous fungi biomass as a human-grade protein source. The fungal biomass has one of the highest protein contents of any raw source available on the market (60% by weight) and is one of the only complete proteins. Emergy has developed fermentation parameters and used directed evolution to produce a fungal process/strain that provides several inherent advantages over traditional protein production methods. Advantages of production include, low resource requirements, high yields, safe and toxin free, and low unit costs. While this process has been demonstrated at the benchtop level, the technical hurdles include scaling production to industrial systems while maintaining the proper texture and quality. Emergy Labs plans on executing these goals by optimizing growth conditions in scaled bioreactors, defining industrial operating parameters, designing and proving a scalable manufacturing process, and demonstrating commercially relevant scale.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 973 5th st
+  awardeeCity: Boulder
+  awardeeCountryCode: US
+  awardeeName: Emergy LLC
+  awardeeStateCode: CO
+  awardeeZipCode: '803027120'
+  fundsObligatedAmt: '1250000'
+  fundProgramName: SBIR Phase II
+  id: '1926981'
+  piEmail: justin@emergylabs.com
+  piFirstName: Justin
+  piLastName: Whiteley
+  piMiddeInitial: M
+  piPhone: '4086566126'
+  poName: Anna Brady-Estevez
+  date: 07/31/2019
+  startDate: '08/01/2019'
+  expDate: 07/31/2023
+  title: 'SBIR Phase II:  Sustainable alternative protein cultivation from fungal
+    mycelium for human consumption'    
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) project includes advancement of the field of white biotechnology,
+    which utilizes enzymes to create valuable industrial products. As biological molecules,
+    enzymes are more difficult to manipulate than conventional chemicals and often
+    need more extensive development before they can be adapted to industrial or pharmaceutical
+    manufacturing. This SBIR project will demonstrate how enzymes' performance can
+    be improved using stabilization with special synthetic materials known as polymers.
+    Enzymes are characterized by precise, unique structure and function, which is
+    in turn essential for their role in catalysis of complex chemical reactions. Synthetic
+    polymers, on the other hand, despite being less precisely structured, can be rationally
+    designed to withstand or respond to chemical, thermal or biological conditions.
+    The synergistic fusion of enzymes and synthetic polymers results in an advanced
+    enzyme with improved chemical properties, leading to new manufacturing processes
+    for valuable products such as chemicals, biofuels, and pharmaceuticals; these
+    processes should require less energy, utilize fewer hazardous reagents, and generate
+    less waste. \n\nThis SBIR  Phase II project proposes to develop a combinatorial
+    synthesis device that can feed high-throughput screening of enzyme-polymer conjugates
+    with desired properties (for instance, temperature, pH- or organic solvent stability).
+    To date, only low-throughput synthesis and characterization methods have been
+    applied to the preparation of enzyme-polymer conjugates, limiting development
+    to only few types of polymer modification per protein and depending on stochastic
+    guesswork to select the variants tested. Thus, in order to fully benefit from
+    the diverse set of polymers currently available on the market, it is important
+    to develop methods to scale the identification of optimally performing enzyme-polymer
+    conjugates. This will be achieved through combination of high-throughput synthesis
+    of enzyme-polymer conjugates and high-throughput screening of attained properties.
+    The target application of the proposed research is focused on pharmaceutical biocatalysis.
+    Application of a high-throughput method will not only result in faster research
+    and development cycles, but also will accelerate our development of fundamental
+    knowledge of identifying protein properties that can be achieved through polymer
+    modification, thereby establishing this method for industrial applications.\n\nThis
+    award reflects NSF's statutory mission and has been deemed worthy of support through
+    evaluation using the Foundation's intellectual merit and broader impacts review
+    criteria."
+  awardeeAddress: 320 William Pitt Way
+  awardeeCity: Pittsburgh
+  awardeeCountryCode: US
+  awardeeName: BioHybrid Solutions LLC
+  awardeeStateCode: PA
+  awardeeZipCode: '152381329'
+  fundsObligatedAmt: '742796'
+  fundProgramName: SBIR Phase II
+  id: '1927021'
+  piEmail: tonia@biohybridsolutions.com
+  piFirstName: Antonina
+  piLastName: Simakova
+  piPhone: '4122193414'
+  poName: Anna Brady-Estevez
+  date: '08/09/2019'
+  startDate: '08/15/2019'
+  expDate: 07/31/2021
+  title: 'SBIR Phase II:  High-Throughput Combinatorial Polymer Bioconjugates Synthesis
+    and Application in Biocatalysis'  
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project will be the development and demonstration of a new manufacturing technology for lightweight bio-based plastics.  Plastic produced from plant materials can have lower environmental impact than petroleum-based plastics, but price and performance issues have limited their adoption. In Phase I, Grow Plastics demonstrated the ability to produce lightweight, low cost, thermally stable 100% bio-based packaging products.  In Phase II, Grow Plastics will continue the development of its products while also working to develop a full-scale manufacturing line. The goal of the technology is to replace billions of pounds of petroleum-based plastic with a lower density plastic requiring half as much material, which is made from plants.
+
+    This SBIR Phase II research project proposes to continue the development of a new manufacturing process for layered structures in biomaterials.  Grow Plastics has demonstrated the ability to generate novel, high-performance layered cellular structures in biopolymers in a new manufacturing process using new machinery.  The challenge in Phase II will be to continue the development in materials from Phase I while also scaling the technology to industrial scale.  Materials science and manufacturing techniques will include polymer blending, solid state foaming, and thermal crystallization of polymer blends. Analysis techniques will include tensile testing, differential scanning calorimetry, thermo mechanical analysis, and evaluation of final product properties.
+  awardeeAddress: 7734 15th Ave NE
+  awardeeCity: Seattle
+  awardeeCountryCode: US
+  awardeeName: Grow Plastics LLC
+  awardeeStateCode: WA
+  awardeeZipCode: '981154336'
+  fundsObligatedAmt: '1332499'
+  fundProgramName: SBIR Phase II
+  id: '1738543'
+  piEmail: mikewagg@gmail.com
+  piFirstName: Michael
+  piLastName: Waggoner
+  piMiddeInitial: A
+  piPhone: '2069544564'
+  poName: Anna Brady-Estevez
+  date: '09/19/2017'
+  startDate: '09/15/2017'
+  expDate: '08/31/2021'
+  title: 'SBIR Phase II:  High performance biodegradable sandwich core structures'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase II project is an inexpensive handheld smartphone device
+    for rapid detection of pathogens, such as cholera, in environmental water sources.
+    Current water-based pathogen detection methods involve a 3-5 day laboratory procedure.
+    Our alternative is a portable smartphone-enabled platform working offline to detect
+    the pathogen in under 30 minutes . When the smartphone has connectivity, geo-mapped
+    and time-stamped detection results are sent to relevant stakeholders. This novel
+    and proactive approach for detection can enable organizations to remediate water
+    sources prior to community infection. \n\nThis Small Business Innovation Research
+    (SBIR) Phase II project addresses the need to develop a rapid and portable field-ready
+    DNA amplification device for pathogen detection. The Phase II project integrates
+    a polyethylene glycol linker as an internal amplification control for device verification
+    and validation. This project proposes a new assay design integrating a polyethylene
+    glycol linker to eliminate extra user steps, while maintaining assay sensitivity
+    and specificity.   The project's technical objectives include systems engineering
+    of an internal amplification control into the hardware functionality of the device.
+    This project will advance the development of a fully integrated sample-to-answer
+    device for detection of waterborne pathogens.\n\nThis award reflects NSF's statutory
+    mission and has been deemed worthy of support through evaluation using the Foundation's
+    intellectual merit and broader impacts review criteria."
+  awardeeAddress: 181 2nd St
+  awardeeCity: San Francisco
+  awardeeCountryCode: US
+  awardeeName: Omnivis LLC
+  awardeeStateCode: CA
+  awardeeZipCode: '941053808'
+  fundsObligatedAmt: '743559'
+  fundProgramName: SBIR Phase II
+  id: '1951089'
+  piEmail: kclayton@omnivistech.com
+  piFirstName: Katherine
+  piLastName: Clayton
+  piMiddeInitial: N
+  piPhone: '4153099524'
+  poName: Anna Brady-Estevez
+  date: 04/06/2020
+  startDate: 04/15/2020
+  expDate: 03/31/2022
+  title: 'SBIR Phase II:  Internal Control Design for a Portable Cholera Pathogen
+    Detector'  
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) project is to provide general commercial access to a new generation
+    of affordable, high-efficiency aerosol samplers that will primarily be used in
+    the Industrial Hygiene and Indoor Air Quality market.  The collection technology
+    in these new instruments is unique in that it captures, concentrates and preserves
+    airborne microbes in the same physical state they exist as they are suspended
+    in the air we breathe- a tremendous breakthrough for forensic aerosol analysis.
+    \ This work optimizes a novel collection method that chronologically resolves
+    air samples into a portable compact platform, which ensures purity, minimizes
+    handling and is safe for mail.  The sample output is delivered in small, sterile
+    medical grade disposable plastics that are compatible with a broad range of users'
+    analytical needs whether it be the military, health care, atmospheric researchers
+    or indoor air quality sector.  This instrumentation is portable, and requires
+    no filters or chemical additions; it rapidly condenses airborne microbes out of
+    ambient air by manipulating humidity, offering a reliable way to assess microbiological
+    air pollution-indoors or out.  \n\nThis SBIR Phase II project proposes to optimize
+    the design of condensation growth-based bioaerosol samplers for commercial validation,
+    rapid manufacture and high-quality reproduction.  The accurate assessment of airborne
+    biological agents remains a tremendous scientific and practical challenge.  The
+    intellectual merit of this work lies in finally overcoming the technical barriers
+    posed by conventional air sampling equipment, which require extensive sampling
+    time and significantly compromises the very information military, medical and
+    building science professionals need: what is the identity, distribution and abundance
+    of airborne microbes.  This team will use the latest forensic genetic sequencing
+    technology to isolate the detection limits of this new collection equipment for
+    common airborne pathogens and allergens.  The objective is to validate these new
+    filterless aerosol recovery instruments in controlled laboratory experiments,
+    with a broad range of common pathogenic bioaerosols.  The team will demonstrate
+    how the sample preservation benefits of this technology, can be realized for commercial
+    benefit in monitoring high-density indoor environments, including health care
+    settings and public schools.  Operating this new equipment in occupied indoor
+    spaces, we anticipate collecting bioaerosol in excess of forensic detection limits
+    in less than 30 minutes, while maintaining exceptional sample fidelity.\n\nThis
+    award reflects NSF's statutory mission and has been deemed worthy of support through
+    evaluation using the Foundation's intellectual merit and broader impacts review
+    criteria."
+  awardeeAddress: 430 N. College Ave, Ste 430
+  awardeeCity: Fort Collins
+  awardeeCountryCode: US
+  awardeeName: Aerosol Devices Inc.
+  awardeeStateCode: CO
+  awardeeZipCode: '805242675'
+  fundsObligatedAmt: '898347'
+  fundProgramName: SBIR Phase II
+  id: '1853240'
+  piEmail: pkeady@aerosoldevices.com
+  piFirstName: Patricia
+  piLastName: Keady
+  piMiddeInitial: B
+  piPhone: '9706315950'
+  poName: Anna Brady-Estevez
+  date: 07/03/2019
+  startDate: 07/01/2019
+  expDate: 06/30/2021
+  title: 'SBIR Phase II:  New devices Bioaerosol Sampler for Accurate, Time-Resolved
+    Characterization of Viable Microbes and their Genomes'  
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase II project is to deliver state of the art cryptography and
+    cybersecurity solutions to Internet of Things (IoTs) and embedded device designers,
+    enterprise hardware and software vendors, and government contractors against the
+    attack of classical and quantum computers. It has been widely accepted that quantum
+    computers will have the ability to solve complex problems, the same complex problems
+    many security algorithms are based on, exponentially faster than current computers.
+    Even though no quantum computer with serious computing power has yet been built,
+    large scale quantum computers are expected to become a reality within the next
+    decade. We believe it is necessary to plan for the future as it takes years to
+    change cryptosystem deployments due to network effects. This project plans to
+    implement quantum-safe security solutions that will require the integration of
+    quantum-safe software and/or hardware cryptographic solutions on resource-constrained
+    devices used in embedded systems. As the landscape of connected devices changes
+    how the world interacts, the dependence on these systems increases, increasing
+    the possibility of exploiting security vulnerabilities. This project will expand
+    the knowledge of efficient implementations of quantum-safe security solutions,
+    of which little is currently known. \n\nThis Small Business Innovation Research
+    (SBIR) Phase II project will design, develop, and implement cryptographic algorithms
+    that are suitable for small and resource-constrained devices employing hard and
+    complex mathematical assumptions known to be classical- and quantum-safe. Long-term
+    and lightweight security are two main parameters that need to be considered while
+    deploying quantum-safe cryptographic algorithms in resource-constrained devices.
+    Devices being manufactured today may still be around when quantum computers become
+    available and thus need to be secure against them. We plan to employ a special
+    class of quantum-safe algorithms based on maps on elliptic curves along with agile
+    implementations of cryptographic coprocessors to achieve the required performance
+    and security. Cryptosystems based on these maps are known to provide the smallest
+    possible key sizes and their security level is determined by a single, simple
+    parameter in comparison with other quantum-safe candidates. The hardware designs
+    are taken through VLSI design flow to realize the integrated circuits that are
+    evaluated for energy/power, area/performance, and security including side-channel
+    analysis. The project will generate new insights and results about how to be safe
+    and secure in the quantum era. This project will conclude with hardware and software
+    implementations and test chip prototypes.\n\nThis award reflects NSF's statutory
+    mission and has been deemed worthy of support through evaluation using the Foundation's
+    intellectual merit and broader impacts review criteria."
+  awardeeAddress: 901 NW 35th Street
+  awardeeCity: Boca Raton
+  awardeeCountryCode: US
+  awardeeName: PQSecure Technologies, LLC
+  awardeeStateCode: FL
+  awardeeZipCode: '334316410'
+  fundsObligatedAmt: '948040'
+  fundProgramName: SBIR Phase II
+  id: '1853095'
+  piEmail: brandon.langenberg@pqsecurity.com
+  piFirstName: Brandon
+  piLastName: Langenberg
+  piPhone: '2018445743'
+  poName: Peter Atherton
+  date: '09/06/2019'
+  startDate: '09/01/2019'
+  expDate: 02/28/2022
+  title: 'SBIR Phase II:  Post-Quantum Cryptography in Resource-Constrained Devices'  
   
 ---
 
