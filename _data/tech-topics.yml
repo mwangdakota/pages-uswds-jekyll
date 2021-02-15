@@ -185,16 +185,11 @@
     - Monitoring Devices (BM3)
     - Other Biomedical Technologies (BM4)
   companies:
-    - name: Protein Dynamic Solutions, LLC
-    - name: Camras Vision, Inc.
-    - name: Arytha Biosciences, LLC
-    - name: CytoVale, Inc
-    - name: OneBreath, Inc.
-    - name: Rochal Industries LLP
-    - name: Elidah, Inc.
-    - name: Vaxess Technologies, Inc.
-    - name: LambdaVision, Inc.
-    - name: BriteSeed, LLC
+    - name: Electrofi, Inc
+    - name: ActivSignal, LLC
+    - name: Azitra Inc.
+    - name: Glyscend INC
+    - name: Bioxytech Retina, Inc.
 
 - topic: Chemical Technologies (CT)
   permalink: /topics/chemical-technologies/
@@ -216,12 +211,15 @@
     - Separations and Water Treatment (CT6)
     - Other Chemical Technologies (CT7)
   companies:
-    - name: Modular Genetics, Inc.
-    - name: Renuvix
-    - name: Ground Fluor Pharmaceuticals, Inc.
-    - name: ZYMtronix Catalytic Systems Inc.
-    - name: Saratoga Energy Research Partners LLC
-    - name: Dimensional Energy Inc.
+    - name: Provivi
+    - name: Nanopareil
+    - name: Emergy LLC
+    - name: BioHybrid Solutions LLC
+    - name: Grow Plastics LLC
+    - name: Omnivis LLC
+    - name: 2Btech
+    - name: Loci Controls
+    - name: Aerosol Devices Inc.
 
 - topic: Cloud and High-Performance Computing (CH)
   permalink: /topics/cloud-high-performance-computing/
@@ -248,6 +246,8 @@
     - Processor Architecture and Design (CH11)
     - Resilience and Resource Management (CH12)
     - Other Cloud and High-Performance Computing Technologies (CH13)
+  companies:
+    - name: NGD Systems
   
 - topic: Cybersecurity and Authentication (CA)
   permalink: /topics/cybersecurity-authentication/
@@ -273,7 +273,8 @@
     - Security of Cloud and HPC Platforms (CA10)
     - Other Cybersecurity and Authentication Technologies (CA11)
   companies:
-
+    - name: PQSecure Technologies, LLC
+    
 - topic: Digital Health (DH) 
   permalink: /topics/digital-health/
   topic_code: dh
@@ -292,14 +293,7 @@
     - Personalized Software Systems (DH4)
     - Other Digital Health Technologies (DH5)
   companies:
-    - name: Guiding Technologies Corporation
-    - name: Roundtable Analytics LLC
-    - name: Care Progress, LLC
-    - name: ConsortiFX, Inc
-    - name: Radial Analytics, Inc.
-    - name: HealthMyne, Inc.
-    - name: TAO Connect, Inc.
-    - name: KOYA INC.
+    - name: 
     
 - topic: Distributed Ledger (DL)
   permalink: /topics/distributed-ledger/
