@@ -22,6 +22,7 @@
     - Visualization (AA10)
     - Other Advanced Analytics Technologies (AA11)
   companies:
+    - name: Temblor, Inc.
     
 - topic: Advanced Manufacturing (M)
   permalink: /topics/advanced-manufacturing/
@@ -46,14 +47,12 @@
     - Sustainable Manufacturing Technology and Circular Economy Technologies (M9)
     - Other Manufacturing Technologies (M10)
   companies:
-    - name: 3DEO, Inc.
-    - name: XPEED Turbine Technology LLC
     - name: Branch Technology LLC
-    - name: Big Blue Technologies LLC
-    - name: Elementum 3D
-    - name: Construction Robotics, LLC
     - name: unspun, Inc.
-
+    - name: RE3D Inc.
+    - name: Shark Wheel, Inc.
+    - name: Sim Insights
+    - name: Opus 12 Incorporated
 - topic: Advanced Materials (AM)
   permalink: /topics/advanced-materials/
   topic_code: am
@@ -74,11 +73,13 @@
     - Structural and Infrastructural Materials (AM6)
     - Other Advanced Materials Technologies (AM7)
   companies:
-    - name: DropWise Technologies Corp.
     - name: bioMASON Inc.
     - name: Mallinda, LLC
-    - name: Maxterial, Inc.
-    - name: Neuvokas Corporation
+    - name: Boston Materials, Inc.
+    - name: CYPRIS MATERIALS, INC.
+    - name: Carbice Corporation
+    - name: spotLESS Materials Inc.
+    - name: Via Separations, LLC
 
 - topic: Artificial Intelligence (AI)
   permalink: /topics/artificial-intelligence/
@@ -100,6 +101,13 @@
   companies:
     - name: Bay Labs, Inc.
     - name: GrokStyle Inc.
+    - name: Reconstruct
+    - name: DeepScale
+    - name: TRASH INC.
+    - name: OpenSpace
+    - name: Kintsugi Mindful Wellness, Inc.
+    - name: kelaHealth Inc
+    - name: terrafuse
 
 - topic: Augmented and Virtual Reality (AV)
   permalink: /topics/augmented-virtual-reality/
@@ -110,7 +118,7 @@
       api_name: Diane Hickey
       email: dHickey@nsf.gov
       photo: Diane-compressed.jpg
-      ttopic: it
+      ttopic: av
       bio: "joined NSF as an SBIR/STTR program director in August 2020. She has extensive experience in multiple technical fields and early-stage deep technology ventures. Diane founded the Diamond Chameleon Group and grew a broad team providing commercialization services to more than 40 SBIR awardees and deep technology startups with funding across government agencies. Diane began her career at Accenture, implementing enterprise-wide systems in utility and chemical corporations. She then joined C-Bridge Internet Solutions, an MIT-based startup that provided technologies to connect corporate back-end systems to users; the company went public in 1999, and merged with Excelon in 2000 and Progress Software Corp (PRGS) in 2004. After completing her Ph.D., Diane joined Advanced Diamond Technologies (ADT), a startup spun out of Argonne National Laboratory, she helped the company transition from grant support to commercial sustainability. Diane has held life-long roles in STEM education, including the NSF Young Scholars program, participation in the NSF Nanotechnology Informal Science Education network, and as a Sisters4Science mentor. She has also supported science education startups, served as the school and homeschool liaison for the Tampa’s Children’s Museum and has taught for Kaplan, Inc. Diane consulted on science education and pursued graduate coursework at the University of Florida’s College of Journalism and Communications. Diane holds a B.S. in Chemical Engineering from Auburn University, and an M.S. and Ph.D. in Materials Science and Engineering from the University of Florida."
   subtopics:
     - Audio Augmentation and Interfaces (AV1)
@@ -120,6 +128,9 @@
     - Wearable Technologies (AV5)
     - Other Augmented and Virtual Reality Technologies (AV6)
   companies:
+    - name: BADVR, INC.
+    - name: NEUROTRAINER, INC
+    - name: Misapplied Sciences, Inc.
     
 - topic: Biological Technologies (BT)
   permalink: /topics/biological-technologies/
@@ -150,10 +161,11 @@
     - name: ARZEDA Corp.
     - name: SYNVITROBIO INC
     - name: Living Ink Technologies, LLC
-    - name: Enable Biosciences Inc
+    - name: GRO BIOSCIENCES INC
     - name: Manus Biosynthesis, Inc.
-    - name: Navan Technologies Inc.
+    - name: Yesse Technologies, Inc.
     - name: Antheia, Inc.
+    - name: Ras Labs, Inc.
     - name: APPLIED LIFESCIENCES & SYSTEMS POULTRY, INC.
 
 - topic: Biomedical Technologies (BM)
@@ -414,8 +426,7 @@
     
 - topic: Internet of Things (I)
   permalink: /topics/internet-of-things/
-  topic_code: 
-    -i
+  topic_code: i
   programDirector:
     - name: Ben Schrag
       last_name: Schrag
@@ -494,7 +505,7 @@
       api_name: Elizabeth Mirowski
       email: emirowsk@nsf.gov
       photo: mirowski.jpg
-      ttopic: m
+      ttopic: mo
       bio: "started as an SBIR/STTR program director in May 2020. Before NSF, Ela was a Founder and CEO of Verellium, a medical device startup. At Verellium she built strong collaborative partnerships across industry, academia, and federal labs to develop novel solutions for clinical imaging that resulted in new products and new market segments. She also worked for High Precision Devices (HPD) where she successfully transferred several technologies into prototypes and commercialized them, creating a standalone, revenue-generating company, QalibreMD, in just three years. As a principal investigator on SBIR grants from various federal agencies, Ela led the program direction including research, engineering, manufacturing, and market development. In addition to these activities, she engaged in fundraising from venture capital and private equity sources. For more than 17 years, Ela worked for and consulted to small businesses managing the development of technologies involving photonics for displays, semiconductor electronics, renewable energies, nanomaterials, and lab-on-chip platforms for evaluating neural growth and biological processes at the single-molecule level. Ela holds a Ph.D. in Physical Chemistry from the University of Colorado, a B.A. in Chemistry from Columbia University, and completed a National Research Council post-doctorate at the National Institute of Standards and Technology." 
   subtopics:
     - Behavioral (MO1)
