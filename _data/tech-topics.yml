@@ -293,7 +293,12 @@
     - Personalized Software Systems (DH4)
     - Other Digital Health Technologies (DH5)
   companies:
-    - name: 
+    - name: Bioinfoexperts, LLC
+    - name: Diligent Droids, LLC
+    - name: PATH EX
+    - name: Verantos
+    - name: HABITAWARE, INC.
+    - name: Liberate Medical LLC
     
 - topic: Distributed Ledger (DL)
   permalink: /topics/distributed-ledger/
@@ -322,6 +327,12 @@
     - Trusted Identity and Identity Management (DL13)
     - Other Distributed Ledger Technologies (DL14)
   companies:
+    - name: Runtime Verification, Inc.
+    - name: GRID7 LLC
+    - name: Onu Technology, Inc.
+    - name: ENERGYXCHAIN, LLC
+    - name: Simply Vital Health
+    
     
 - topic: Energy Technologies (EN)
   permalink: /topics/energy-technologies/
@@ -341,6 +352,15 @@
     - Petrochemicals, Oil and Gas (EN4)
     - Other Energy Technologies (EN5)
   companies:
+    - name: Proton Onsite
+    - name: Syzygy Plasmonics
+    - name: Dimensional Energy Inc.
+    - name: Leading Edge Crystal Technologies, Inc.
+    - name: FAS HOLDINGS GROUP
+    - name: Coreshell Technologies
+    - name: Alligant Scientific, LLC
+    - name: SURGEPOWER MATERIALS, INC.
+    - name: Sylvatex Inc.
     
 - topic: Environmental Technologies (ET)
   permalink: /topics/environmental-technologies/
@@ -365,10 +385,15 @@
     - Water Treatment, Resilience, and Sanitation (ET9)
     - Other Environmental Technologies (ET10)
   companies:
+    - name: ClearFlame Engines, Inc.
     - name: CycloPure, Inc.
-    - name: Vaporsens Inc.
     - name: Precision Polyolefins, LLC
     - name: Azimuth1, LLC
+    - name: FOLIA WATER, INC.
+    - name: Litterati, LLC
+    - name: REEFGEN INC.
+    - name: Pekosoft LLC
+    - name: Greensight Agronomics Inc
 
 - topic: Human-Computer Interaction (HC)
   permalink: /topics/human-computer-interaction/
@@ -468,6 +493,7 @@
     - name: CIRCLEIN, INC.
     - name: Muzology, LLC
     - name: Kintsugi Mindful Wellness, Inc.
+    - name: NEUROTRAINER, INC
     
 - topic: Medical Devices (MD)
   permalink: /topics/medical-devices/
@@ -488,7 +514,11 @@
     - Wearables (MD5)
     - Other Medical Devices (MD6)
   companies:
-    - name: Neural Analytics
+    - name: Sonavex, Inc.
+    - name: Lapovations, LLC
+    - name: CACTUS MEDICAL,LLC
+    - name: FORCAST ORTHOPEDICS INC
+    - name: iSono Health, Inc.
     
 - topic: Mobility (MO)
   permalink: /topics/mobility/
@@ -509,11 +539,12 @@
     - Software (MO5)
     - Other Mobility Topics (MO6)
   companies:
-    - name: LUNEWEAVE INC.
+    - name: LUNEWAVE INC.
     - name: ClearFlame Engines, Inc.
     - name: ILANS, Inc.
     - name: Mirada Technologies Inc.
     - name: Sinter Print Inc
+    - name: XPEED Turbine Technology, LLC
     
 - topic: Nanotechnology (N)
   permalink: /topics/nanotechnology/
@@ -532,9 +563,6 @@
     - Nanotechnology Solutions to Global Grand Challenges (N3)
     - Other Nanotechnologies (N4)
   companies:
-    - name: Xallent LLC
-    - name: Hummingbird Nano, Inc.
-    - name: Astrileux Corporation
     
 - topic: Other Topics (OT)
   permalink: /topics/other-topics/
@@ -571,6 +599,14 @@
     - Therapeutic Molecules (PT4)
     - Other Pharmaceutical Technologies (PT5)
   companies:
+    - name: SQZ Biotechnologies Company
+    - name: ConsortiEX, Inc
+    - name: nanoView Diagnostics Inc.
+    - name: Novome Biotechnologies, Inc.
+    - name: Glauconix Inc.
+    - name: Protein Dynamic Solutions, Inc.
+    - name: Kytopen Corp
+    - name: Visikol, Inc.
 
 - topic: Photonics (PH)
   permalink: /topics/photonics/
@@ -592,8 +628,9 @@
     - Photonic Materials (PH6)
     - Other Photonics Technologies (PH7)
   companies:
-    - name: Clerio Vision, Inc.
-    - name: Endectra, LLC
+    - name: Clerio Vision
+    - name: Solchroma Technologies Inc
+    - name: Axalume Inc.
 
 - topic: Power Management (PM)
   permalink: /topics/power-management/
@@ -615,7 +652,13 @@
     - Systems for Thermal Management (PM6)
     - Other Power Management Technologies (PM7)
   companies:
-
+    - name: Microgrid Labs Inc.
+    - name: Imagen Energy, LLC
+    - name: Rejoule Incorporated
+    - name: Feasible, Inc.
+    - name: Antora Energy, Inc.
+    - name: Heila Technologies Inc.
+    
 - topic: Quantum Information Technologies (QT)
   permalink: /topics/quantum-information-technologies/
   topic_code: qt
@@ -635,7 +678,7 @@
     - Quantum Simulation (QT5)
     - Other Quantum Information Technologies (QT6)
   companies: 
-    - name: QC Ware Corp.
+    - name: ATOM COMPUTING INC.
     
 - topic: Robotics (R)
   permalink: /topics/robotics/
@@ -655,9 +698,10 @@
     - Robotics in Agile Manufacturing, and Co-Robots (R4)
     - Other Robotics Technologies (R5)
   companies:
+    - name: QC Ware Corp.
     - name: TACTAI
-    - name: Blue River Technology Inc
     - name: Artaic LLC
+    - name: Blue River Technology Inc
     - name: RightHand Robotics, LLC
     
 - topic: Semiconductors (S)
@@ -680,10 +724,10 @@
     - Processing and Metrology Technology (S6)
     - Other Semiconductor Technologies (S7)
   companies:
-    - name: Runtime Verification, Inc.
-    - name: NGCodec Inc.
-    - name: Astrileux Corporation
-    - name: TexasLDPC Inc., dba Symbyon Systems
+    - name: Uniqarta, Inc.
+    - name: Inpria
+    - name: Luxvue
+    - name: MOSAIC MICROSYSTEMS LLC
     
 - topic: Space (SP)
   permalink: /topics/space/
@@ -709,6 +753,10 @@
     - Telecommunications Technologies (SP10)
     - Other Space-related Technologies (SP11)
   companies:    
+    - name: Swarm Technologies, LLC
+    - name: UPSHOT VENTURES, LLC
+    - name: BLUE CRANIUM, LLC
+    - name: LONG ROAD ENTERPRISES
     
 - topic: Wireless Technologies (W)
   permalink: /topics/wireless-technologies/
