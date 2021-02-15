@@ -8253,6 +8253,270 @@
   startDate: '09/01/2020'
   expDate: '08/31/2021'
   title: 'SBIR Phase I:  Scaling Mental Healthcare in COVID-19 with Voice Biomarkers'    
-    
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase II project will be to help usher in personalized and tailored
+    surgical care within a shifting healthcare context toward value-based care. Hospitals
+    and surgeons are seeking solutions that will enable them to target, as opposed
+    to generalizing, improvements in surgical quality for enhanced patient outcomes
+    and effective use of resources. By proactively identifying surgical risks and
+    matching patients to interventions most appropriate for these risk strata, the
+    proposed technology is designed to support hospitals in meeting their value-based
+    care objectives. The larger vision is to apply this paradigm in all of medicine
+    by leveraging Artificial Intelligence and Machine Learning for prediction, proactive
+    intervention, and outcomes tracking in a closed feedback loop. Demonstrating this
+    in a high-cost, high-risk specialty like surgery provides a path for expanding
+    the technology into other medical specialties and serving a greater domestic and
+    international market. Ultimately, the lessons learned from the wide-spread use
+    of this technology will allow society to derive key kernels of knowledge in applied
+    data science, preventative medicine, and technical scalability of hospital enterprise
+    solutions. This project is an interdisciplinary representation of crucial activities
+    needed to drive the tipping point of medical technology. \n\nThis Small Business
+    Innovation Research (SBIR) Phase II project builds upon the results of Phase I,
+    which included predictive engine development, scalable data processing pipeline
+    development, and hospital stakeholder engagement activities. Phase II efforts
+    focus on further developing the technology to facilitate its commercial use and
+    integration in clinical settings. Key objectives for the Phase II project are
+    as follows: (1) development of an Application Programming Interface (API) to deliver
+    tailored machine learning models to broad users across varying needs, (2) expansion
+    of a clinical intervention library supported by clinical evidence across multiple
+    surgical specialties, and (3) development of an outcomes dashboard to display
+    postoperative patient outcomes from automated extraction of electronic health
+    records. The result of this project will be a closed-loop clinical and technical
+    infrastructure that is agile to the needs of a diverse range of surgical customers
+    to enable quality improvement across an entire surgical ecosystem.\n\nThis award
+    reflects NSF's statutory mission and has been deemed worthy of support through
+    evaluation using the Foundation's intellectual merit and broader impacts review
+    criteria."
+  awardeeAddress: 301 Howard St
+  awardeeCity: San Francisco
+  awardeeCountryCode: US
+  awardeeName: kelaHealth Inc
+  awardeeStateCode: CA
+  awardeeZipCode: '941050000'
+  fundsObligatedAmt: '882098'
+  fundProgramName: SBIR Phase II
+  id: '1926924'
+  piEmail: learn@kelahealth.com
+  piFirstName: Bora
+  piLastName: Chang
+  piPhone: '4252833021'
+  poName: Peter Atherton
+  date: '08/23/2019'
+  startDate: '09/01/2019'
+  expDate: 02/28/2022
+  title: 'SBIR Phase II:  An adaptive machine learning-based platform to improve surgical
+    quality and patient outcomes'
+- abstractText: "The broader impact of this Small Business Innovation Research (SBIR)
+    Phase II project will be a fundamental advancement in the way people see, understand,
+    and work with geospatial data. The proposed research will commercialize immersive
+    analytics technology across the telecom, Internet of Things (IoT), and transportation
+    industries, all of which use outdated 2D mapping tools. This technology can also
+    improve visualization of data regarding environmental changes, health crises,
+    and other changing situations. \n\nThis Small Business Innovation Research (SBIR)
+    Phase II project fuses augmented reality and virtual reality with artificial intelligence
+    to address data visualization pain points in the telecom sector. Like the buildings
+    they inhabit, wireless signals exist in three dimensions and are difficult to
+    represent through traditional 2D charts and graphs. The objective of this research
+    is to develop a an immersive analytics platform where users literally step inside
+    their geodata and manipulate it in real time.\n\nThis award reflects NSF's statutory
+    mission and has been deemed worthy of support through evaluation using the Foundation's
+    intellectual merit and broader impacts review criteria."
+  awardeeAddress: 4505 Glencoe Ave
+  awardeeCity: Marina Del Rey
+  awardeeCountryCode: US
+  awardeeName: BADVR, INC.
+  awardeeStateCode: CA
+  awardeeZipCode: '902926372'
+  fundsObligatedAmt: '1000000'
+  fundProgramName: SBIR Phase II
+  id: '2025890'
+  piEmail: jad@badvr.com
+  piFirstName: Jad
+  piLastName: Meouchy
+  piPhone: '5402507753'
+  poName: Peter Atherton
+  date: '09/11/2020'
+  startDate: '09/15/2020'
+  expDate: '08/31/2022'
+  title: 'SBIR Phase II:  Novel Platform for Visualizing Big Data in Virtual Reality'    
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to provide new infomration on cognitive health. The support includes 60 M people who identify as athletes, 3 M annually suffering traumatic brain injuries, and the 40 M more looking to measure brain health. Current healthcare assessments are available at specialized facilities with trained professionals and detect only significant changes to cognition. In contrast, this project develops an affordable, reliable way to measure brain health and to monitor changes after treatment, training, and rehabilitation. This project leverages expertise in human performance, cognitive neuroscience, computer science and virtual reality simulation. Furthermore, it offers athletes a way to assess cognitive abilities such as focus, decision making and multitasking.
+
+    This Small Business Innovation Research (SBIR) Phase II project will focus on the technical aspects of training, measuring, analyzing and reporting how people perform athletic and cognitive tasks in unison. These domains of research and technical knowledge come together to form a unique cognition platform that accounts for both physical and cognitive behavior. The platform's measurement instruments reflect cutting-edge research on (1) human perception, specifically in fast-paced and dynamic environments; and (2) the interplay of perception and action in a virtual reality environment. The analytics engine captures and processes thousands of data points per minute describing object locations in simulated space; users' hands, body and head behavior; and cognitive performance.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 87 GRAHAM ST STE 160
+  awardeeCity: SAN FRANCISCO
+  awardeeCountryCode: US
+  awardeeName: NEUROTRAINER, INC
+  awardeeStateCode: CA
+  awardeeZipCode: '941291768'
+  fundsObligatedAmt: '750000'
+  fundProgramName: SBIR Phase II
+  id: '1950948'
+  piEmail: jnyquist@neurotrainer.com
+  piFirstName: Jeff
+  piLastName: Nyquist
+  piPhone: '8552187246'
+  poName: Steven Konsek
+  date: '08/10/2020'
+  startDate: '08/01/2020'
+  expDate: 07/31/2022
+  title: 'SBIR Phase II:  Virtual reality platform that accurately and rapidly assesses
+    meaningful brain function outside the lab'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is in improving the performance of the computational back-end of a display system that delivers personalized information in public spaces. Currently, the primary method for an individual to receive customized information in public spaces is through personal devices. The heavy use of personal devices in public often leads to heads-down, isolating, and even hazardous situations. The delivery of personalized information through infrastructure can significantly improve these issues. However, the bandwidth requirements in doing so have been prohibitively high using standard computational architectures. This project aims to improve the performance of such a system, allowing practical applications that will broadly enhance safety, accessibility, transportation, and other areas.
+
+    This Small Business Innovation Research (SBIR) Phase II project focuses on creating a scalable computational pipeline and architecture that will allow a display system to direct personalized visual information in real-time to large numbers of people. Technically, this involves computing, transmitting, and displaying image data for large crowds in parallel. The architecture takes advantage of the inherent redundancies in this application to provide a cost-effective solution. The goal of the project is to create a computational back-end capable of driving, in real-time, a system equivalent to thousands of displays.
+  awardeeAddress: 16128 NE 87th St
+  awardeeCity: Redmond
+  awardeeCountryCode: US
+  awardeeName: Misapplied Sciences, Inc.
+  awardeeStateCode: WA
+  awardeeZipCode: '980523505'
+  fundsObligatedAmt: '1409999'
+  fundProgramName: SBIR Phase II
+  id: '1660095'
+  piEmail: albert@misappliedsciences.com
+  piFirstName: Albert
+  piLastName: Ng
+  piPhone: '7326106256'
+  poName: Peter Atherton
+  date: 04/06/2017
+  startDate: 04/01/2017
+  expDate: '09/30/2021'
+  title: 'SBIR Phase II:  Computational Pipeline and Architecture for Personalized
+    Displays'    
+- abstractText: "The broader impact of this Small Business Innovation Research (SBIR)
+    Phase II project is to help patients living with diabetes. The disease accounts
+    for 12% of deaths in the US and patients face major lifestyle changes.  Most patients
+    transition to insulin replacement therapy, which carries a complex dosing schedule
+    that, if not followed closely, can leave patients in dangerous states of glucose
+    dysregulation. More than 50 million diabetics currently use basal insulin analogs
+    designed for longer activity than human insulin. The convenience and improved
+    safety of these analogs has led to widespread adoption and a global market surpassing
+    $10B. However, all current basal insulins require daily injections, a dosing burden
+    that leads to poor treatment adherence, leaving patients vulnerable to dangerous
+    fluctuations in blood glucose. The modified insulin described in this Phase II
+    project is intended to provide the stability necessary to achieve once-weekly
+    dosing. Relaxing the injection schedule should dramatically improve compliance
+    and safety for patients; furthermore, the solution can be delivered at lower cost.
+    \n\nThe project uses a scalable in vivo protein production platform to produce
+    long-acting insulin analogs for the diabetes market. The project utilizes the
+    platform’s unique capability to site-specifically install non-standard amino acids
+    into proteins, and to produce the modified proteins at scale. By replacing key
+    bond-forming amino acids in insulin with non-standard amino acids that form stronger
+    bonds, the modified insulins can achieve the stability necessary to support once-weekly
+    dosing. The research objectives are to: produce sufficient quantities of variants
+    of this insulin analog to support an experimental program, demonstrate improved
+    stability of the variants over wild-type insulin in cell-based assays, and demonstrate
+    sufficiently prolongated pharmacodynamics of the insulin analogs in an animal
+    study to support once-weekly dosing. Potential outcomes include the first insulin
+    analog capable of filling a major clinical and commercial need for affordable,
+    safe insulin analogs with relaxed dosing schedules. Further, the work provides
+    technical validation of a novel protein production platform.\n\nThis award reflects
+    NSF's statutory mission and has been deemed worthy of support through evaluation
+    using the Foundation's intellectual merit and broader impacts review criteria."
+  awardeeAddress: 131 FULLER ST UNIT 3
+  awardeeCity: BROOKLINE
+  awardeeCountryCode: US
+  awardeeName: GRO BIOSCIENCES INC
+  awardeeStateCode: MA
+  awardeeZipCode: '024465711'
+  fundsObligatedAmt: '1000000'
+  fundProgramName: SBIR Phase II
+  id: '2024671'
+  piEmail: dan.mandell@grobio.com
+  piFirstName: Daniel
+  piLastName: Mandell
+  piMiddeInitial: J
+  piPhone: '6179038359'
+  poName: Erik Pierstorff
+  date: '09/14/2020'
+  startDate: '09/15/2020'
+  expDate: 04/30/2022
+  title: 'SBIR Phase II:  Synthetic biology platform for production of stabilized
+    high-value proteins'    
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to ultimately develop a nose-on-a-chip to establish the first-ever digital database of smell. By interfacing the biology of the human nose with a read-out platform, it will be possible to decode the human sense of smell and open up new possibilities. Such a nose-on-a-chip and its associated smell database has multiple commercial applications in the fragrance and flavor industry including increasing the efficiency of developing aroma chemicals for food, personal hygiene or household use, and fine perfumes.  Also, it may be possible to identify specific malodor receptors and developing compounds that block repulsive odors or modulate olfaction (boost smell capacity and/or suppress odor cravings). In addition, the smell database can be employed to develop algorithms that predict how new aroma chemicals will smell before making them. There is an additional opportunity for the nose-on-a-chip in the healthcare industry when applied to sniff out disease-associated odors, such as Parkinson's disease. Odor-based disease detection may revolutionize biomarker discovery and may have a significant impact on R&D spending in the pharmaceutical industry and ultimately decrease treatment cost for patients.
+
+    The intellectual merit of this SBIR Phase II project is to produce an odor-specific nose-on-a-chip assay containing a subset of odorant receptors that can report the presence of a specific odor (odor MS1) and its derivatives. This minimal viable platform is based on a well-validated need in the fragrance and flavor industry and needs to demonstrate sensitivity, specificity, selectivity and intensity (S3I) of odor activation.  The goals are to identify a set of high-affinity odor MS1 receptors, generate engineered mice for each receptor through this validated platform technology and demonstrate S3I using an established ex vivo bio-assay. Engineered mice form the basis of the proposed commercial platform. They are the bioreactors producing the olfactory extracts that are used in the ex vivo bioassay and, ultimately, are integrated with a silicon chip.  As such, optimized generation of mice is key to cost-efficient scaling of the proposed commercial chips and is a primary objective of the project. The plan is to develop a high-throughput method of generating any receptor in mice. Then, the goal is to develop an optimized gene-targeted line that will serve as a standardized template for future knock-ins of any odorant receptor gene, providing a streamlined, standardized and scalable method to ultimately establish the complete library.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 430 E 29th Street
+  awardeeCity: New York
+  awardeeCountryCode: US
+  awardeeName: Yesse Technologies, Inc.
+  awardeeStateCode: NY
+  awardeeZipCode: '100168367'
+  fundsObligatedAmt: '1449999'
+  fundProgramName: SBIR Phase II
+  id: '1853051'
+  piEmail: charlotte@mousensor.com
+  piFirstName: Charlotte
+  piLastName: D'Hulst
+  piPhone: '3473220212'
+  poName: Erik Pierstorff
+  date: 05/07/2019
+  startDate: 05/01/2019
+  expDate: 10/31/2023
+  title: 'SBIR Phase II:  A Chemical Detection Platform to Decode Human Olfaction'  
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase II project will be the development of a durable artificial
+    material capable of life-like motion, contracting and expanding like human muscle
+    when controlled by low voltage (12-volt batteries).  This material also will replicate
+    human grasp by sensing mechanical pressure across a dynamic range, from gentle
+    touch to high impact.  The initial application for this material will be to give
+    tactile sensing to fingertips of robotic grippers.  Existing actuators cannot
+    provide streamlined expansion and contraction to manage a good grip while dynamically
+    sensing grip pressure.  As an extension to the robotic gripper, this material
+    could provide a lightweight, intuitively easy-to-operate prosthetic hand.  Other
+    applications include creating pads for prosthetic sockets to maintain perfect
+    fit; padded liners in football and workplace helmets to absorb forces and communicate
+    impact frequency and severity; shoe inserts for athletic and therapeutic footwear
+    absorbing force attenuation, measuring step frequency, and measuring foot positioning;
+    adjustable lumbar support for seats; switchless consoles for the cockpit, armrests,
+    and dashboards of automobiles; and many others. \n \nThis SBIR Phase II project
+    will advance robotic grippers by adding a material with sensing capability, with
+    implications for prosthetic hands and other applications.  In robotic grippers
+    and prosthetic hands, there is a trade-off between strength and dexterity; furthermore,
+    the sensory perception has not yet been well developed. For grippers, initial
+    gentle pressure has been absent from grip processes, inhibiting handling of delicate
+    objects.  The materials under development are shape-morphing and extremely sensitive
+    as pressure sensors.  The research objectives and methods/approaches of this project
+    are to: 1) advance the actuation speed and durability of these materials through
+    synthetic and architectural strategies; 2) characterize the speed and detectable
+    pressures through oscilloscopic analysis and amplification circuitry; 3) tie the
+    shape-morphing and sensing attributes together through controlled feedback loop(s)
+    into off-the-shelf grippers, using robust user-friendly electronics; 4) determine
+    durability through long-term cycle testing of contraction/expansion cycles and
+    typically encountered grip pressures (millions of cycles for each test method);
+    and 5) produce sophisticated robotic grippers with tactile-like touch and compare
+    the strength and dexterity with those of the human hand.  The goals and scope
+    of this project are to optimize both the shape-morphing and sensing features of
+    these materials and use biomimetic design, particularly around the pincer grip
+    and anatomy of the first and second digits (thumb and index finger), with the
+    anticipated result of replicating human grasp.\n\nThis award reflects NSF's statutory
+    mission and has been deemed worthy of support through evaluation using the Foundation's
+    intellectual merit and broader impacts review criteria."
+  awardeeAddress: 12 Channel St Ste 202
+  awardeeCity: Boston
+  awardeeCountryCode: US
+  awardeeName: Ras Labs, Inc.
+  awardeeStateCode: MA
+  awardeeZipCode: '022102399'
+  fundsObligatedAmt: '743907'
+  fundProgramName: SBIR Phase II
+  id: '1927023'
+  piEmail: rasmussl@raslabs.com
+  piFirstName: Lenore
+  piLastName: Rasmussen
+  piPhone: '9082969056'
+  poName: Erik Pierstorff
+  date: '09/11/2019'
+  startDate: '09/15/2019'
+  expDate: '08/31/2021'
+  title: 'SBIR Phase II:  Human Like Robotic Grippers Using Electroactive Polymers'  
+  
 ---
 
