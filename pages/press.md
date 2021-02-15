@@ -16,7 +16,7 @@ Are you putting out a press release? If you'd like to mention your NSF award, us
 
 ### About the NSF's Small Business Programs
 
-America’s Seed Fund powered by NSF awards $200 million annually to startups and small businesses, transforming scientific discovery into products and services with commercial and societal impact. Startups working across almost all areas of science and technology can receive up to $1.75 million to support research and development (R&D), helping de-risk technology for commercial success. America’s Seed Fund is congressionally mandated through the Small Business Innovation Research (SBIR) program. The NSF is an independent federal agency with a budget of about $8.5 billion that supports fundamental research and education across all fields of science and engineering. For more information, visit seedfund.nsf.gov.
+America’s Seed Fund powered by NSF awards $200 million annually to startups and small businesses, transforming scientific discovery into products and services with commercial and societal impact. Startups working across almost all areas of science and technology can receive up to $2 million to support research and development (R&D), helping de-risk technology for commercial success. America’s Seed Fund is congressionally mandated through the Small Business Innovation Research (SBIR) program. The NSF is an independent federal agency with a budget of about $8.5 billion that supports fundamental research and education across all fields of science and engineering. For more information, visit seedfund.nsf.gov.
 
 ## The history of NSF SBIR
 
