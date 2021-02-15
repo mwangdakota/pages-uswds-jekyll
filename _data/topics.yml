@@ -8870,6 +8870,751 @@
   startDate: '09/01/2019'
   expDate: 02/28/2022
   title: 'SBIR Phase II:  Post-Quantum Cryptography in Resource-Constrained Devices'  
-  
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase I project will be a user-friendly and scalable infection
+    control surveillance software platform using advanced biotech and data analytics
+    for monitoring the COVID-19 pandemic. The COVID-19 pandemic highlights the need
+    for rapid testing, analysis, and tracking. The innovation provides access to next-generation
+    sequence technologies to healthcare facilities, as well as a centralized system
+    to integrate and share hospital-level data with microbial information to be shared
+    on any geographic scale. The platform automates the analysis of bacterial and
+    viral data, delivering simplified and clinically relevant results via interactive
+    web interfaces. The proposed technology offers important data to clinicians and
+    other experts. \n\nThe intellectual merit of this SBIR Phase I project is to generate
+    the largest collection of SARS-CoV-2 whole genomes with matched respiratory microbiomes
+    for clinicians to rapidly test medical hypotheses for diagnostic and prescriptive
+    use. Our project has three major objectives: 1) incorporate an automated analytical
+    pipeline to process whole genomes of infecting strains of SARS-CoV-2; 2) integrate
+    viral genomes with patient microbiomes and clinical records, and; 3) deliver clear,
+    easy-to-interpret results via an interactive web interface. The infection control
+    cloud-based software platform solution enables “precision epidemiology” integrating
+    pathogen genomics with clinical and patient demographics to improve patient outcomes
+    and enhance the capability of the health system for infection control and surveillance.\n\nThis
+    award reflects NSF's statutory mission and has been deemed worthy of support through
+    evaluation using the Foundation's intellectual merit and broader impacts review
+    criteria."
+  awardeeAddress: PO BOX 693
+  awardeeCity: Thibodaux
+  awardeeCountryCode: US
+  awardeeName: Bioinfoexperts, LLC
+  awardeeStateCode: LA
+  awardeeZipCode: '703014904'
+  fundsObligatedAmt: '256000'
+  fundProgramName: SBIR Phase I
+  id: '2027424'
+  piEmail: susanna@bioinfox.com
+  piFirstName: Susanna
+  piLastName: Lamers
+  piMiddeInitial: L
+  piPhone: '9854130455'
+  poName: Alastair Monk
+  date: 05/13/2020
+  startDate: 05/01/2020
+  expDate: 03/31/2021
+  title: 'SBIR Phase I:  RAPID Integrated and automated genomics platform for hospitals
+    responding to COVID-19'  
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project on hospital service robots is improving the quality of care in hospital systems that are under increased pressure to provide high-quality patient-centric care while functioning as profitable businesses. Hospitals face a shortage of qualified nurses and high rates of nurse turnover. Nurses play a critical role in communicating care plans, educating patients, and guarding against medical errors. The amount of time they spend in direct care activities is a key determinant of patient satisfaction, better patient outcomes, fewer errors, and shorter lengths of stay. In the face of nursing shortages across the U.S., it is increasingly important to have nurses performing at the 'top of their license'. Reducing the amount of time they spend on non-nursing tasks is crucial to this goal. Automation could address these challenges and labor shortage by allowing clinical staff to focus on providing skilled care. The proposed project aims to develop technology that is general-purpose enough to transfer to other markets, such as long term care facilities and, eventually, individual consumers. Robots that perform assistive tasks in homes could increase the feasibility of independent living for many older adults.
+
+
+    The proposed project will establish the technical and commercial feasibility of developing hospital service robots that act as assistants on acute care units, enabling nurses to spend more time at the bedside with patients. This project will make technical advances along three dimensions: the ability of the proposed robot to autonomously navigate within nursing units and across the hospital (navigation capabilities); to easily adapt its manipulation skills to specific tasks and to physical characteristics of a particular hospital/unit (adaptive learning of manipulation skills); and to work alongside humans in a socially acceptable manner, including appropriate navigation in crowded hallways, speech, and eye gaze behaviors that communicate the robot's intentions (socially intelligent interoperability). The team intends to collaborate closely with a single partner hospital to iteratively improve the reliability and robustness of the artificial intelligence software suite developed with NSF funding and to deploy production-quality versions of the three core competencies. The final 6 months will involve a long-term deployment, with the robot autonomously working on an acute care unit of the partner hospital. The impact of the robot on unit staff and workflows will be documented, with the ultimate goal of developing a service robot that hospital staff view as a competent member of the care team.
+  awardeeAddress: 2418 Spring Ln PO Box 5017
+  awardeeCity: Austin
+  awardeeCountryCode: US
+  awardeeName: Diligent Droids, LLC
+  awardeeStateCode: TX
+  awardeeZipCode: '787034480'
+  fundsObligatedAmt: '1199909'
+  fundProgramName: SBIR Phase II
+  id: '1738375'
+  piEmail: athomaz@diligentdroids.com
+  piFirstName: Andrea
+  piLastName: Thomaz
+  piMiddeInitial: L
+  piPhone: '6177847154'
+  poName: Alastair Monk
+  date: '09/19/2017'
+  startDate: '09/15/2017'
+  expDate: 07/31/2021
+  title: 'SBIR Phase II:  Mobile Manipulation Hospital Service Robots'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project will be the development of a fluidic platform for selective bacterial and endotoxin removal from blood. This technology can potentially serve as a novel blood cleansing therapeutic for diseases such as sepsis. Sepsis is a life-threatening complication caused by infection. In the U.S., sepsis afflicts over 1.6 million annually and has an associated mortality rate ranging from 25-50%. Realization of this fluidic platform technology will address the broader societal needs of inhibiting sepsis progression and developing more specific and effective therapeutics for the treatment of human disease. Commercialization and implementation of the proposed innovation may reduce the hospital length of stay associated with sepsis, decrease sepsis morbidity and mortality rates, and potentially reduce the annual U.S. expenditure for sepsis. Scientific and technological understanding generated by this work has additional applications for other blood-borne diseases, such as HIV, leukemia, and Lyme disease. Ultimately, this technology will revolutionize life science research through inertial-based fluidic platform use, enabling new discoveries in cell/particle focusing phenomena and interactions that have profound implications for elucidating inertial focusing mechanisms and for the development of novel platform technologies.
+
+    This Small Business Innovation Research (SBIR) Phase II project proposes a novel approach to address the problem of sepsis through the direct removal of pathogens and associated toxins from circulation. Sepsis is the leading cause of death of the critically ill in the United States, costing over $24 Billion in treatment annually. The primary treatment for sepsis is system antibiotic administration, which is failing due to the rise of drug resistance and new, emerging pathogens. The research objectives of this project will result in an easy to use, efficient, and cost-effective fluidic platform for separation and removal of bacteria and associated toxins from circulation. This will facilitate the broad use of inertial-based fluidic platforms as research tools and for clinical applications, such as sepsis. The proposed research will 1) optimize fluidic platform design for clinical application, economical use, and workflow efficiency, 2) demonstrate efficient fluidic platform-mediated bacteria and endotoxin capture, and 3) confirm the biological benefits of the fluidic platform technology using a validated animal model of sepsis. Successful completion of these studies will demonstrate the positive biological consequences of direct pathogen and toxin removal from circulation and establish the commercial viability of the fluidic platform technology.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 2450 Holcombe Blvd
+  awardeeCity: Houston
+  awardeeCountryCode: US
+  awardeeName: PATH EX
+  awardeeStateCode: TX
+  awardeeZipCode: '770212041'
+  fundsObligatedAmt: '909999'
+  fundProgramName: SBIR Phase II
+  id: '1831150'
+  piEmail: sinead.miller@pathex.co
+  piFirstName: Sinead
+  piLastName: Miller
+  piMiddeInitial: E
+  piPhone: '4124967066'
+  poName: Alastair Monk
+  date: '08/16/2018'
+  startDate: 06/01/2018
+  expDate: 02/28/2021
+  title: 'SBIR Phase II:  Rapid Blood Cleansing Device to Combat Infection'  
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will result from providing an accurate real-time awareness solution for those who suffer from body-focused repetitive behaviors. Over 4% of Americans suffer from skin picking, hair pulling, and nail biting, the majority of whom resort to covering up the problem with makeup, gloves, wigs, and even tattoos due to treatment cost barriers and lack of effective tools to facilitate behavior change. While behavior therapy, and in particular habit reversal training, has shown efficacy, this method is traditionally burdened by unreliable journaling, a lack of access to treatment, and difficulty for patients to perform in real-time because of a lack of awareness. While real-time awareness devices do exist, there is room for improvement in detection accuracy. This project will examine feasibility of a novel sensor system within a wearable device that can significantly improve detection accuracy of BFRB-related behaviors.
+
+    This Small Business Innovation Research Phase I project will develop and validate a novel wearable sensing system used to detect subtle movements associated with BFRBs that is suitable for large-scale manufacturing. We believe the proposed wearable system can improve the efficacy of leading behavior therapy methods. To accomplish these goals, early studies will focus on three main objectives. First, the team will investigate the best electrical and spatial configuration of the proposed sensors in a tightly controlled test setup. Second, the team will integrate the optimal configuration into a device suitable for testing and validate the integrity of the sensor output on individuals. Finally, the team will develop a proof-of-concept BFRB recognition algorithm under ideal, low-noise conditions.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 6465 Wayzata Boulevard
+  awardeeCity: Saint Louis Park
+  awardeeCountryCode: US
+  awardeeName: HABITAWARE, INC.
+  awardeeStateCode: MN
+  awardeeZipCode: '554261733'
+  fundsObligatedAmt: '269695'
+  fundProgramName: SBIR Phase I
+  id: '1914175'
+  piEmail: john@habitaware.com
+  piFirstName: John
+  piLastName: Pritchard
+  piPhone: '7123890381'
+  poName: Alastair Monk
+  date: 06/28/2019
+  startDate: 07/01/2019
+  expDate: 11/30/2020
+  title: 'SBIR Phase I:  New Wearable for Body Focused Repetitive Behavior Detection'
+- abstractText: "The broader impact/commercial potential of this Small Business Technology
+    Transfer (STTR) Phase II project, in which a non-invasive respiratory muscle stimulation
+    device and approach to weaning patients from mechanical ventilation will be developed,
+    is a reduction in public health care expenditure and a reduction in morbidity
+    for the half a million patients who have difficulty weaning from mechanical ventilation
+    each year in the US. These patients suffer from an array of clinical complications
+    (for example, pneumonia) and cost the US health care system $16 billion annually,
+    a great deal of which is borne by Medicare and Medicaid. In addition, the current
+    reimbursement landscape economically incentivizes hospitals to wean patients at
+    the earliest possible time. The proposed innovation has the potential to positively
+    benefit society by providing a solution to this serious healthcare problem. In
+    addition, it promises to improve our scientific understanding of respiratory muscle
+    physiology and mechanics in difficult to wean patients. It will also improve our
+    technical understanding of non-invasive respiratory sensors and biofeedback algorithms
+    for the purposes of electrical muscle stimulation. Finally, as demonstrated by
+    the number and cost of difficult to wean patients, as well as current healthcare
+    reimbursement policies, the proposed innovation has potential to results in a
+    considerable commercial impact.  \n \nThe proposed project will develop a non-invasive
+    electrical stimulator that automatically applies stimulation to the respiratory
+    muscles in synchrony with a patient?s voluntary breathing pattern. This approach
+    is expected to address the imbalance between respiratory muscle strength and respiratory
+    muscle load - a major factor responsible for weaning difficulty - by assisting
+    ventilation during weaning sessions and strengthening the breathing muscles that
+    have become weakened as a result of mechanical ventilation. In Phase 1 a functional
+    prototype was developed; clinical feasibility of the approach was also demonstrated.
+    \ The Phase II proposal focuses on refining the stimulation algorithm to maximize
+    its clinical effectiveness and on developing a novel stimulation electrode system
+    so that the device can be quickly applied to patients. In addition, methods will
+    be developed to interface the technology with a mechanical ventilator to expand
+    its clinical application. Finally, a complete works-like, looks-like prototype
+    will be developed that is designed to international standards and is safe for
+    clinical testing. The work completed in this Phase of the project will enable
+    a controlled clinical trial of the proposed approach and ultimately allow the
+    device to gain FDA regulatory clearance."
+  awardeeAddress: 6400 Westwind Way
+  awardeeCity: Crestwood
+  awardeeCountryCode: US
+  awardeeName: Liberate Medical LLC
+  awardeeStateCode: KY
+  awardeeZipCode: '400146773'
+  fundsObligatedAmt: '1407653'
+  fundProgramName: STTR Phase II
+  id: '1632402'
+  piEmail: angus@liberatemedical.com
+  piFirstName: Angus
+  piLastName: Mclachlan
+  piMiddeInitial: J
+  piPhone: '5022414114'
+  poName: Alastair Monk
+  date: '09/07/2016'
+  startDate: '09/15/2016'
+  expDate: 03/31/2021
+  title: 'STTR Phase II:  A Novel Abdominal Stimulator to Assist with Ventilator Weaning
+    in Patients'  
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is that the proposed runtime verification technology will lead to a more robust definition of and architecture for ensuring safety in automobiles, medical devices, and aerospace and defense systems.  Through this, these forms of safety-critical infrastructure will be more resilient to attack and catastrophic failure resulting from both critical system failures and malicious attacks.  As a result, the technology will help to address a slew of recent problems with software failures, security compromises, and other unintentional software behaviors that inevitably occur as systems become more complex, potentially saving lives and making millions of safety-critical embedded systems safer, easier to upgrade, and better tested.
+
+    This Small Business Innovation Research (SBIR) Phase II project will commercialize a first-of-its-kind complete solution for runtime verification and software analysis specifically tailored for embedded systems.  From automobiles that connect to each other and drive autonomously, to control systems that run ever increasing networks that power our utilities, cities, and many other aspects of our daily lives, it is clear that embedded systems are here to stay in the most safety critical domains.  A growing problem in embedded systems is how to ensure they behave correctly; a good case study for this is automobiles, in which several high profile hacks and recalls have called into question the security and integrity of vehicles.  The proposed solution will fill this market niche with a suite of related analysis tools/modules, built on a common novel and formally rigorous runtime verification technology infrastructure, each module implementing unique instrumentation and analysis functionality.  These tools/modules together provide what is needed to develop safe embedded systems.
+  awardeeAddress: 102 E. Main Street
+  awardeeCity: Urbana
+  awardeeCountryCode: US
+  awardeeName: Runtime Verification, Inc.
+  awardeeStateCode: IL
+  awardeeZipCode: '618012744'
+  fundsObligatedAmt: '1399996'
+  fundProgramName: SBIR Phase II
+  id: '1660186'
+  piEmail: patrick.mackay@runtimeverification.com
+  piFirstName: Patrick
+  piLastName: MacKay
+  piMiddeInitial: S
+  piPhone: '2175501558'
+  poName: Peter Atherton
+  date: 03/14/2017
+  startDate: 03/15/2017
+  expDate: 05/31/2022
+  title: 'SBIR Phase II:  RV-Embedded: Runtime Verification for Embedded Systems'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) project include the ability to enhance the security and trust
+    of critical infrastructure networks for applications including defense, electric
+    grids, health care, and emerging autonomous systems (i.e., self-driving vehicles
+    and robotics).  As billions of internet connected things are added to our existing
+    infrastructure, providing a trusted data layer will rise in importance to maintain
+    reliability and security of our critical infrastructure, as many of these systems
+    are mission and life-critical.  Our proposed innovation will allow highly distributed
+    and autonomous systems the ability to make decisions based on highly trusted data
+    sources.  Our innovation will enhance the practical applications of distributed
+    computing fault tolerance and consensus (agreement) mechanisms by applying them
+    to real-world, critically needed defense networks initially and to other critical
+    infrastructure areas later.  The commercial opportunity is to provide a missing
+    piece of the puzzle to support a trusted data layer in the next generation, or
+    Internet evolution.  \n\nThis SBIR Phase I project proposes to prototype a novel,
+    next-generation Distributed Ledger Technology (DLT) consensus algorithm to be
+    plugged into open source DLTs to enhance the data and transaction integrity aspects
+    under asynchronous (disconnected, flaky, or malicious) networking scenarios.  The
+    challenge is to provide the ability to maintain agreement and decision finality
+    (or integrity) among consensus nodes operating in asynchronous (network partition,
+    crash fault, byzantine fault) networking environments.  In simpler terms, this
+    means the ability to keep and store a file or update within a DLT node, even though
+    the fault keeps the DLT update from taking place over an extended period of time.
+    \ This capability is highly important when running DLTs in critical infrastructure
+    networks.  The research objectives are to combine local, hash-chained write-ahead
+    journaling methods with state-of-the-art asynchronous byzantine fault tolerant
+    (aBFT) consensus to prototype high data integrity (ability to retain all transactions,
+    provide liveness guarantees, maintain local node state integrity, and maintain
+    data ordering and timestamps) under asynchronous network conditions.\n\nThis award
+    reflects NSF's statutory mission and has been deemed worthy of support through
+    evaluation using the Foundation's intellectual merit and broader impacts review
+    criteria."
+  awardeeAddress: 7136 PETURSDALE CT
+  awardeeCity: BOULDER
+  awardeeCountryCode: US
+  awardeeName: GRID7 LLC
+  awardeeStateCode: CO
+  awardeeZipCode: '803013831'
+  fundsObligatedAmt: '224646'
+  fundProgramName: SBIR Phase I
+  id: '1940349'
+  piEmail: dave@taekion.com
+  piFirstName: David
+  piLastName: Cohen
+  piMiddeInitial: A
+  piPhone: '3038083329'
+  poName: Anna Brady-Estevez
+  date: 01/06/2020
+  startDate: 01/01/2020
+  expDate: 12/31/2020
+  title: 'SBIR Phase I:  Taekion Defense-hardened Blockchain File System using aBFT
+    Consensus'  
+ - abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) project is to address information needs of the COVID-19 crisis
+    by rapidly integrating research findings describing the chemistry of the virus
+    and its treatment. The proposed project will deploy advanced computational methods
+    at participating medical institutions to make patient records immediately available
+    for study while maintaining institutional and patient privacy. While the initial
+    focus is on ameliorating COVID-19, the proposed solution can be applied more generally
+    to accelerate epidemiological studies, improving scientific knowledge and public
+    health with faster timelines and lowered costs for personnel, computing capabilities,
+    and data storage. \n\nThis SBIR Phase I project proposes to rapidly expand and
+    accelerate the accessibility of clinical and computational data to improve understanding
+    of COVID-19.  The proposed innovation will use cryptographic techniques, notably
+    multiparty computation, to facilitate privacy-preserving cross-institutional querying
+    of COVID-19 medical records. Improved access to petabytes of computational (simulation
+    and model) data will speed research by allowing researchers around the world to
+    probe the data.  The effort will adapt and deploy decentralized computation techniques
+    to enable distributed storage of many petabytes of virus molecular dynamics simulation
+    data across computers around the world, in a verifiable manner that enables data
+    analysis at the data location. The proposed dashboard will allow for secure queries
+    of a combined dataset of participating institutions to quickly yield insight about
+    the effect of various pre-existing conditions and medications on COVID-19. The
+    effort will include verification and validation.\n\nThis award reflects NSF's
+    statutory mission and has been deemed worthy of support through evaluation using
+    the Foundation's intellectual merit and broader impacts review criteria."
+  awardeeAddress: 7280 Blue Hill Dr.
+  awardeeCity: San Jose
+  awardeeCountryCode: US
+  awardeeName: Onu Technology, Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '951293624'
+  fundsObligatedAmt: '256000'
+  fundProgramName: SBIR Phase I
+  id: '2028008'
+  piEmail: info@onai.com
+  piFirstName: Guha
+  piLastName: Jayachandran
+  piPhone: '6504298622'
+  poName: Anna Brady-Estevez
+  date: 05/21/2020
+  startDate: 06/01/2020
+  expDate: 11/30/2020
+  title: 'SBIR Phase I:  Accelerating Understanding of COVID-19 Biology and Treatment
+    Via Scaled Medical Record and Biosimulation Analytics' 
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase II project is empowering the 68 million U.S. natural gas
+    consumers and their transaction managers and partners to access transaction status
+    in real time, enjoy continuous control of their transactions, settle transactions
+    in time scales less than the industry’s current monthly accounting cycle, and
+    enjoy heightened levels of security. The United States natural gas industry has
+    operated in its present physical form for more than a century, and over the past
+    four decades the industry has evolved through various policy and regulatory actions
+    to open transaction participation to thousands of parties. In other industries,
+    the past two decades have introduced digital capabilities that share transaction
+    information and automate select functions, but these developments have not enjoyed
+    infusion in natural gas transaction management processes. The proposed solution
+    will serve as a platform for industry innovation by multiple parties, reducing
+    transaction cost and increasing speed. This innovation will have applications
+    in other industries characterized by complex, multi-party transactions.  \n\nThis
+    SBIR Phase II project proposes to advance blockchain innovations and related technologies
+    to transform complex natural gas utility transaction management processes across
+    production, transmission, distribution and consumption functions. The proposed
+    solution will accelerate the development of third-generation smart contracting
+    frameworks with user-friendly/interactive human-machine-interfaces (HMI) and predictive
+    and interactive smart contracting functionalities based on artificial intelligence,
+    and with advanced cybersecurity measures.\n\nThis award reflects NSF's statutory
+    mission and has been deemed worthy of support through evaluation using the Foundation's
+    intellectual merit and broader impacts review criteria."
+  awardeeAddress: 13515 SERENITY ST
+  awardeeCity: HUNTERSVILLE
+  awardeeCountryCode: US
+  awardeeName: ENERGYXCHAIN, LLC
+  awardeeStateCode: NC
+  awardeeZipCode: '280786569'
+  fundsObligatedAmt: '786315'
+  fundProgramName: SBIR Phase II
+  id: '1951161'
+  piEmail: ddoctor@energyxchain.com
+  piFirstName: David
+  piLastName: Doctor
+  piPhone: '7046618131'
+  poName: Anna Brady-Estevez
+  date: 04/30/2020
+  startDate: 05/01/2020
+  expDate: 04/30/2022
+  title: 'SBIR Phase II:  Transforming Complex Utility Transaction Management'  
+- abstractText: "The broader impact/commercial potential of this STTR Phase II project
+    will result in significant economic activity through the utilization of waste
+    carbon dioxide. The photo-catalytic reactors funded in the project will lead to
+    novel methods to chemically store energy from the sun.  Each year, human activity
+    releases 38 billion tons of carbon dioxide into the atmosphere.  Dimensional Energy
+    envisions a future in which we can utilize this carbon dioxide as a feedstock
+    for industrial production of hydrocarbon fuels and chemical intermediaries by
+    harnessing the power of the sun. \n\nThis STTR Phase II project proposes to develop
+    HI-Light - a photo-thermo-catalytic reactor platform technology that enables the
+    conversion of CO2 and water to synthesis gas at a rate significantly greater than
+    the state of the art.  The unique feature of the technology is that it uses embedded
+    optical waveguides to evenly distribute light within the reactor, increasing the
+    efficacy of the catalyst and ultimately the productivity of the system.  In Phase
+    I a fully functional integrated prototype reactor was constructed, demonstrating
+    continuous operation, and showing productivity in terms of the grams of hydrocarbon
+    produced per gram of catalyst per hour more than 10x greater than the state of
+    the art.  The approach solves the two major roadblocks in photo-conversion of
+    CO2: (1) the semiconductor catalysts can only use photons with energies greater
+    than their bandgap, which is a small fraction of those present in sunlight and
+    (2) a large fraction of the catalyst material in these reactors is under-utilized
+    due to sub-optimal light and reactant delivery.  Our unique reactor uses a patented,
+    multi-scale approach to enhance light and reagent transport directly to the reaction
+    site and makes use of traditionally unused photons to provide heat and enhance
+    reaction efficiency.\n\nThis award reflects NSF's statutory mission and has been
+    deemed worthy of support through evaluation using the Foundation's intellectual
+    merit and broader impacts review criteria."
+  awardeeAddress: 107 Penny Ln
+  awardeeCity: Ithaca
+  awardeeCountryCode: US
+  awardeeName: Dimensional Energy Inc.
+  awardeeStateCode: NY
+  awardeeZipCode: '148506273'
+  fundsObligatedAmt: '880184'
+  fundProgramName: STTR Phase II
+  id: '1831166'
+  piEmail: jason@dimensionalenergy.net
+  piFirstName: Jason
+  piLastName: Salfi
+  piPhone: '5107083648'
+  poName: Anna Brady-Estevez
+  date: '09/07/2018'
+  startDate: '09/15/2018'
+  expDate: 02/28/2021
+  title: 'STTR Phase II: HI-LIGHT - Solar Thermal Chemical Reactor Technology for
+    Converting CO2 to Hydrocarbons'
+- abstractText: "The broader impact potential of this Small Business Innovation Research
+    (SBIR) Phase II project is improved global solar panel manufacturing.  To date,
+    conventional solar panel manufacturing technologies are still expensive, but the
+    market, estimated at $40 B, offers significant potential. The proposed technology
+    will simplify the manufacturing process at industrial scales.  It will reduce
+    all-in solar manufacturing costs by 25% and the overall capital intensity of solar
+    manufacturing by almost 50%. \n\nThis Small Business Innovation Research (SBIR)
+    Phase II project enables a commercial pilot of a single crystal wafer manufacturing
+    technology.  This novel technology can produce drop-in silicon wafers for solar
+    panels in one step at 50% lower cost than the incumbent seven-step wafer technology.
+    The project will extend the current production capabilities from a few wafers
+    per batch into continuous production consistent with industrial use.  Tasks include
+    developing the subsystems to continuously feed raw silicon feedstock into the
+    machine and controlling material properties to critical specifications for long
+    production runs.\n\nThis award reflects NSF's statutory mission and has been deemed
+    worthy of support through evaluation using the Foundation's intellectual merit
+    and broader impacts review criteria."
+  awardeeAddress: 98 Prospect Street
+  awardeeCity: Somerville
+  awardeeCountryCode: US
+  awardeeName: Leading Edge Crystal Technologies, Inc.
+  awardeeStateCode: MA
+  awardeeZipCode: '021434109'
+  fundsObligatedAmt: '998820'
+  fundProgramName: SBIR Phase II
+  id: '2024523'
+  piEmail: greenlee@lectechnologies.com
+  piFirstName: Alison
+  piLastName: Greenlee
+  piPhone: '8572256214'
+  poName: Anna Brady-Estevez
+  date: '09/18/2020'
+  startDate: 10/01/2020
+  expDate: '09/30/2022'
+  title: 'SBIR Phase II:  Development of a Continuous Doping and Feeding System for
+    Controlling the Resistivity of Floating Silicon Method Silicon Wafers'
+- abstractText: "The broader impact/commercial potential of this Small Business Technology
+    Transfer (STTR) Phase II project is to advance the development of new low-cost
+    and high-efficiency solar cells. This process uses abundant natural resources
+    as the raw material, using a novel technology to make parts that can be printed
+    on plastic foils to significantly reduce manufacturing and installation costs.
+    This project will develop advanced manufacturing technology for the solar cell
+    industry. \n\nThis STTR Phase II project proposes to develop a reliable, reproducible,
+    and cost-effective upscaling of perovskite photovoltaic (PV) devices using an
+    industry-proven slot-die coating technique, to ultimately produce flexible and
+    rigid, highly efficient perovskite solar cells (PSC). The efficiency of perovskite
+    solar cells has surged to over 22% in recent research and now rivals that of CdTe,
+    and Si-based solar panels. Most research lab perovskite solar cell devices are
+    fabricated via spin casting and have a device area of less 1 sq. cm. Despite the
+    progress of perovskite solar cell technology, three fundamental issues need to
+    be addressed for commercialization: device lifetime, controllable perovskite deposition,
+    and improved manufacturing, especially in the area of scalability. This project's
+    objectives are to: 1) produce a hybrid perovskite (HP) slot-die deposition solution
+    for large solar panels sized 600-1200 mm and beyond, 2) build slot-die coating
+    solution for perovskite-silicon tandem photovoltaic cells, and 3) conduct modeling
+    and reliability studies to optimize the system.\n\nThis award reflects NSF's statutory
+    mission and has been deemed worthy of support through evaluation using the Foundation's
+    intellectual merit and broader impacts review criteria."
+  awardeeAddress: 10480 MARKISON RD
+  awardeeCity: Dallas
+  awardeeCountryCode: US
+  awardeeName: FAS HOLDINGS GROUP
+  awardeeStateCode: TX
+  awardeeZipCode: '752381650'
+  fundsObligatedAmt: '708030'
+  fundProgramName: STTR Phase II
+  id: '1927020'
+  piEmail: g.gibson@ntact.com
+  piFirstName: Gregory
+  piLastName: Gibson
+  poName: Anna Brady-Estevez
+  date: 04/06/2020
+  startDate: 04/15/2020
+  expDate: 03/31/2022
+  title: 'STTR Phase II:  Scalable fabrication of stable perovskite solar panels using
+    slot-die coating technique'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to enable greater electric vehicle use; furthermore, the technology’s potential to double battery life will reduce the environmental impact of disposed batteries. This project accelerates electric car adoption by enabling use of 100% of battery operating ranges and maximize usable energy capacity, increasing ongoing driving ranges by 50-100x. This project is a key enabler for expected growth in the global lithium-ion battery market (expected to grow to $68 B by 2022) and the annual hybrid and electric car market (forecast to exceed 10 million vehicles annually by 2025).
+
+    This SBIR Phase II project proposes to optimize the technology for battery fast charge and capacity retention targets. Battery performance advancements are most often limited by chemistry and materials improvements to electrodes, electrolytes, or cell structure limiting the trade space (i.e., requiring power vs. energy tradeoffs).  The proposed charging technology and associated software will selectively optimize cell design for various performance metrics by controlling electrode surface phenomena, such as lithium plating and dendrite formation, that otherwise cause permanent capacity loss during normal use and accelerate internal physical processes limiting charge rate. Technical tasks include: 1) Demonstration of performance improvements to commercial Li-Ion and fabricated Li-metal battery cells; 2) Adaptation of the process from small cells and modules to electric vehicle battery packs; 3) Development of refined sensing and feedback-based control algorithms using Predictive Learning (PL) and Machine Learning (ML) systems; 4) Verification and validation for Field Programmable Gate Array (FPGA) and System on a Chip (SoC) formats.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 640 Plaza Dr Ste 120
+  awardeeCity: Highlands Ranch
+  awardeeCountryCode: US
+  awardeeName: Alligant Scientific, LLC
+  awardeeStateCode: CO
+  awardeeZipCode: '801292399'
+  fundsObligatedAmt: '698255'
+  fundProgramName: SBIR Phase II
+  id: '1951242'
+  piEmail: DanielK@AlligantScientific.com
+  piFirstName: Daniel
+  piLastName: Konopka
+  piMiddeInitial: A
+  piPhone: '7207462381'
+  poName: Anna Brady-Estevez
+  date: 04/08/2020
+  startDate: 04/15/2020
+  expDate: 03/31/2022
+  title: 'SBIR Phase II:  Plug-and-play intelligent charging hardware and software
+    that increases safety, performance and life of lithium ion and lithium metal batteries'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is applying a plant-based graphene product as a battery material to increase energy storage density, decrease charging times and extend battery life. The benefit to society is that the plant-based material may facilitate adoption of electric vehicles and reduce the grid storage cost of renewable energy, potentially providing greater energy security. The proposed material's cost-efficient nature will facilitate broader adoption of graphene in other advanced technology areas such as composites, conductive inks, printable electronics, catalysis, sensors, and biomedical devices, thereby pushing nanotechnology frontiers.
+
+    This SBIR Phase I project proposes to develop a green sustainable process using an abundant plant material as input and producing extremely high purity graphene with superior physical attributes. This feasibility research will demonstrate that high-quality SP2Hybrid graphene can be manufactured from a plant-based raw material at lower costs than current methods of graphene production and is environmentally sustainable. Current production of graphene, such as liquid/chemical exfoliation, uses starting materials derived from non-renewable resources. The proposed process utilizes an abundant cassava crop as feedstock sold as commodity in the US and overseas.  Preliminary samples of SP2Hybrid graphene properties have been validated by third parties to have 4X the surface area (2956 m2/g) and up to 5X (5.0 cm3/g) the pore volume of current solutions, offering better performance as an electrode material in batteries and supercapacitors.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 805 VALLEY VIEW WEST RD
+  awardeeCity: SAN MARCOS
+  awardeeCountryCode: US
+  awardeeName: SURGEPOWER MATERIALS, INC.
+  awardeeStateCode: TX
+  awardeeZipCode: '786668324'
+  fundsObligatedAmt: '224128'
+  fundProgramName: SBIR Phase I
+  id: '1940375'
+  piEmail: m.opoku@surgepowermaterials.com
+  piFirstName: MICHAEL
+  piLastName: OPOKU
+  piMiddeInitial: K
+  piPhone: '7327662599'
+  poName: Anna Brady-Estevez
+  date: 01/21/2020
+  startDate: 02/01/2020
+  expDate: 10/31/2020
+  title: 'SBIR Phase I:  Eco-friendly Production of Carbon Nanosheets for Ultra High
+    Energy Storage Electrode Application'    
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project will be in lowering the overall cost of lithium-ion batteries. Material cost reduction drives greater adoption of technologies using batteries such as electric vehicles and storage systems while increasing the use of renewables.  Cathode material is a battery's largest cost contributor, and with the market growing 10+% year-over-year, producers are having to spend millions of dollars in plant expansions to meet this increased demand. Technology solutions that allow cathode material producers to cost effectively expand current production capacity without investment or sacrificing quality or performance are immediately needed in this industry.  Current industry processes require lengthy high-temperature production steps that consume large amounts of energy throughout the production process.  This phase II project is focused on developing a "one-pot" manufacturing process that will address the current market priorities of lowering production costs, shortening manufacturing times, increasing production yield and using sustainable materials, allowing cathode producers to significantly increase profit margins while addressing demand for increased production.  More broadly, lower battery costs will increase the adoption of technologies that utilize lithium-ion batteries and enable greater implementation of other renewable energy sources like wind and solar.
+
+    This SBIR Phase II project proposes to build upon the promising feasibility results achieved in Phase I to develop a breakthrough, sustainable, "one-pot" process for the manufacture of cathode materials for lithium-ion batteries.  This manufacturing process will capitalize on the opportunity within the cathode production to address its needs for lowering production costs, increasing production capacity, and reducing energy consumption.  The Phase II project will involve (i) the optimization of the manufacturing process, as measured by half-cell battery performance screening, (ii) demonstrate doubling throughput and providing cost savings of at least 20% over current production processes for NMC 622, (iii) demonstrate battery performance that is equivalent to, or better than, that of a commercial benchmark in full cell testing, and (iv) design and construction of a pilot reactor.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 927 Thompson Place
+  awardeeCity: Sunnyvale
+  awardeeCountryCode: US
+  awardeeName: Sylvatex Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '940854518'
+  fundsObligatedAmt: '956396'
+  fundProgramName: SBIR Phase II
+  id: '1927077'
+  piEmail: vklausmeier@sylvatex.com
+  piFirstName: Virginia
+  piLastName: Irwin Klausmeier
+  piPhone: '5412211362'
+  poName: Anna Brady-Estevez
+  date: '08/14/2019'
+  startDate: '08/15/2019'
+  expDate: 07/31/2021
+  title: 'SBIR Phase II:  Development of Renewable Nanoparticle Platform for Green
+    Energy Production and Storage Applications'    
+- abstractText: "Diesel engines remain critical to global economies, but are under
+    threat from increasingly-stringent emissions regulations. Many alternatives, like
+    spark-ignition and electric vehicles, sacrifice some of the performance or range
+    benefits of Diesel-style operation. This creates a market need for technologies
+    that can maintain Diesel engine performance while remaining decoupled from the
+    dirty emissions of Diesel fuel. This proposal centers on the development of the
+    ?ClearFlame Combustion System? (CFCS): a novel combustion process that enables
+    Diesel-style engines to combust low-carbon alternative fuels like ethanol and
+    methanol without sacrificing the power possible with traditional Diesel combustion.
+    Further, the sootless nature of alternative fuels such as methanol and ethanol
+    obviates the need for a Diesel particulate filter, and enables stoichiometric
+    air-fuel ratios to eliminate the need for selective catalytic reduction of NOx
+    (smog). The engine technology has the potential to alter the dynamics of any market
+    dominated by Diesel engines (including heavy-duty transportation, agriculture,
+    rail, and power generation) and can be licensed to, or jointly developed with,
+    OEMs for simple integration into their existing product lines. Phase I results
+    have shown a 30% increase in engine torque at increased efficiency, while engine-out
+    soot emissions are more than 100x lower than that of Diesel engines, falling under
+    the 2010 EPA regulation limit without aftertreatment. \n\nThis Small Business
+    Innovation Research Phase II project will continue development of the CFCS. The
+    Phase I results showed that three critical CFCS subsystems?engine insulation,
+    alcohol direct injection, and a combustion chamber optimized for stoichiometric
+    combustion with exhaust gas load control?could be developed and integrated to
+    achieve a previously unattainable combination of strong performance and low emissions.
+    This Phase II effort will further advance these key components and demonstrate
+    the benefits of the CFCS on a commercial engine platform, using CFD modeling and
+    engine experiments to show the advantages of the CFCS compared to the Diesel baseline.
+    The goal is to show how the CFCS enables a multi-cylinder heavy-duty engine to
+    simultaneously improve power density by 30% at no loss of efficiency, while also
+    achieving sootless stoichiometric exhaust conditions that are compatible with
+    low-cost and highly-effective three-way catalysis (the same system that enables
+    gasoline and natural gas engines to be much cleaner than Diesel). A Phase II prototype
+    demonstration would realize a longtime industry goal of integrating three-way
+    catalysis with a Diesel-style engine, allowing Diesel-style engines to achieve
+    the emissions profile of the cleanest alternatives (like natural gas).\n\nThis
+    award reflects NSF's statutory mission and has been deemed worthy of support through
+    evaluation using the Foundation's intellectual merit and broader impacts review
+    criteria."
+  awardeeAddress: '6520 Double Eagle Drive #527'
+  awardeeCity: Woodridge
+  awardeeCountryCode: US
+  awardeeName: ClearFlame Engines, Inc.
+  awardeeStateCode: IL
+  awardeeZipCode: '605171582'
+  fundsObligatedAmt: '747192'
+  fundProgramName: SBIR Phase II
+  id: '1853114'
+  piEmail: julieblumie@gmail.com
+  piFirstName: Julie
+  piLastName: Blumreiter
+  piPhone: '4145592421'
+  poName: Rajesh Mehta
+  date: 04/02/2019
+  startDate: 04/01/2019
+  expDate: 03/31/2021
+  title: 'SBIR Phase II:  Development of a Stoichiometric, Direct-Injected, Soot-Free
+    Engine for Heavy-Duty Applications'
+- abstractText: "The broader impacts of this Small Business Innovation Research (SBIR)
+    Phase II project focuses on the research and development of an antimicrobial nanoparticle
+    filter paper for low-cost point-of-use water purification.  The proposed project
+    will develop an antimicrobial paper water purifier, packaged like a coffee filter,
+    to be distributed through retail channels. This project will offer safe water
+    to many communities throughout the world. \n\nThis SBIR Phase II project will
+    advance the development of a process using large-scale paper machinery and similar
+    reel-to-reel processes to manufacture low-cost nano-metal functionalized materials,
+    such as nanosilver filter paper. Phase II objectives include: (i) optimize the
+    process to reduce materials and other costs, increase flow rate, and maintain
+    high-quality performance, (ii) demonstrate a more robust filter system by mitigation
+    of water chemical and microbiology variability through improved formulation and
+    formal determination of product shelf-life, (iii) demonstrate production at pilot
+    and industrial speeds and output levels, while validating a non-destructive quality
+    control program, and (iv) integrate third-party product safety certification tests.\n\nThis
+    award reflects NSF's statutory mission and has been deemed worthy of support through
+    evaluation using the Foundation's intellectual merit and broader impacts review
+    criteria."
+  awardeeAddress: 1401 FORBES AVE STE 302
+  awardeeCity: PITTSBURGH
+  awardeeCountryCode: US
+  awardeeName: FOLIA WATER, INC.
+  awardeeStateCode: PA
+  awardeeZipCode: '152195152'
+  fundsObligatedAmt: '899999'
+  fundProgramName: SBIR Phase II
+  id: '1951210'
+  piEmail: teri.dankovich@foliawater.com
+  piFirstName: Theresa
+  piLastName: Dankovich
+  piMiddeInitial: A
+  piPhone: '3155592135'
+  poName: Rajesh Mehta
+  date: 04/06/2020
+  startDate: 04/15/2020
+  expDate: 06/30/2022
+  title: 'SBIR Phase II:  Affordable point-of-use water disinfection through mass-produced
+    nano-silver embedded paper filters'
+- abstractText: "This SBIR Phase II project focuses on litter - one of the world's
+    most pervasive and toxic problems. To many, it's dirty, disgusting, and someone
+    else's problem to solve. Unfortunately, we all suffer the consequences, as litter
+    impacts our economy, degrades the environment, demoralizes community pride, kills
+    wildlife, and poisons the food system. This project builds on the accomplishments
+    of an SBIR Phase I project that developed a mobile technology empowering anyone
+    to identify, map, and collect the world's litter, while simultaneously connecting
+    to a broader community of associated brands, cities, schools. \n\n\nThe company
+    has integrated image recognition and machine learning algorithms into its software
+    to advance the crowdsourcing of litter data and cleanup activities. This advancement
+    will allow for the identification of litter even if the item is in a deep state
+    of decay and decomposition. This project also aims to continue building the Global
+    Database of Litter, a technology platform that integrates the company's litter
+    taxonomic classification with other data sets including location, time, retail
+    locations, and the watershed. This data provides great potential to improve municipal
+    infrastructure, resource allocation, brand packaging redesign, and individual
+    responsibility that promotes positive behavioral change. Like the National Science
+    Foundation, this project aims to promote the progress of science and advance our
+    national health, prosperity, and welfare.\n\nThis award reflects NSF's statutory
+    mission and has been deemed worthy of support through evaluation using the Foundation's
+    intellectual merit and broader impacts review criteria."
+  awardeeAddress: 131 Turvey Ct.
+  awardeeCity: Chapel Hill
+  awardeeCountryCode: US
+  awardeeName: Litterati, LLC
+  awardeeStateCode: NC
+  awardeeZipCode: '275145260'
+  fundsObligatedAmt: '1117996'
+  fundProgramName: SBIR Phase II
+  id: '1853170'
+  piEmail: jeff@litterati.org
+  piFirstName: Jeff
+  piLastName: Kirschner
+  piMiddeInitial: S
+  piPhone: '4154845880'
+  poName: Rajesh Mehta
+  date: 04/05/2019
+  startDate: 04/01/2019
+  expDate: 12/31/2021
+  title: 'SBIR Phase II:  Building a Global Community to Crowdsource-Clean the Planet'
+- abstractText: "The broader impact of this Small Business Innovation Research (SBIR)
+    Phase I project is to regenerate coral reefs on the brink of extinction. Approximately
+    one-quarter of the world’s coral reefs have disappeared and almost two-thirds
+    are at risk today. The innovation introduces a scalable method to plant heat-resistant
+    corals to rejuvenate dying reefs. The technology is a multi-arm dexterous robot
+    crawler. Planting one nursery coral every 10 seconds, with a cluster of three
+    robots, the technology is capable of planting 100x faster than any method currently
+    in use. This intervention will have a direct and beneficial impact on environmental
+    restoration, marine ecosystems, and the tourism industry. \n\nThis SBIR Phase
+    I project will design a coral planting robot that traverses the ocean floor and
+    performs complex tasks. Challenges include creating an autonomous wet chain and
+    producing a wet chain sled, as well as addressing recharging difficulties.  Planting
+    must take place where the coral is bound sufficiently so that it is not dislodged
+    by waves or currents. Other technical challenges include identifying exposed hard
+    surfaces as well as healthy coral to leave it undisturbed.  This project will
+    enable reintroduction of key species with different environmental tolerance.\n\nThis
+    award reflects NSF's statutory mission and has been deemed worthy of support through
+    evaluation using the Foundation's intellectual merit and broader impacts review
+    criteria."
+  awardeeAddress: 2180 FOLSOM ST
+  awardeeCity: SAN FRANCISCO
+  awardeeCountryCode: US
+  awardeeName: REEFGEN INC.
+  awardeeStateCode: CA
+  awardeeZipCode: '941101320'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SBIR Phase I
+  id: '2014581'
+  piEmail: josh@goodmachine.studio
+  piFirstName: Josh
+  piLastName: Burgess
+  piPhone: '8317477350'
+  poName: Rajesh Mehta
+  date: 05/15/2020
+  startDate: 06/01/2020
+  expDate: 11/30/2020
+  title: 'SBIR Phase I:  ReefGen'
+- abstractText: "The broader impact of this SBIR Phase I project is to reduce the
+    loss of human life and property by providing improved current and future information
+    to water management stakeholders. Rising sea levels and heavier downpours could
+    increase flooding costs in coastal communities by $23 billion per year by mid-century.
+    Traditional water monitoring sensors have major drawbacks, such as: constant maintenance,
+    costly installation, and application-specific dedicated hardware.   Continuous
+    monitoring of flood prone areas and optimized water management for freshwater
+    conservation requires new technologies, including low-cost and robust water control
+    systems to limit the loss of human lives, crops, property, and livestock. The
+    proposed system in this project will offer a robust solution to monitor water
+    and make weather predictions using deep learning algorithms. \n\nThis SBIR project
+    proposes to develop a cost-effective smart camera-based solution to perform a
+    highly accurate risk assessment of flooding in public waterways.A key innovation
+    is running sophisticated computer vision algorithms on a resource-limited platform.
+    The proposed system will use low-cost LIDARs, generally used for measuring solid
+    object velocities, for water velocity measurements. Furthermore, the project will
+    develop a polarized-light system to achieve the system accuracy requirements,
+    including real-time corrections of errors induced by visual impairments of the
+    camera due to field conditions.\n\nThis award reflects NSF's statutory mission
+    and has been deemed worthy of support through evaluation using the Foundation's
+    intellectual merit and broader impacts review criteria."
+  awardeeAddress: 928 Sturgis Ln
+  awardeeCity: Ambler
+  awardeeCountryCode: US
+  awardeeName: Pekosoft LLC
+  awardeeStateCode: PA
+  awardeeZipCode: '190022021'
+  fundsObligatedAmt: '209805'
+  fundProgramName: SBIR Phase I
+  id: '1938101'
+  piEmail: bozer@pekosoft.com
+  piFirstName: Burak
+  piLastName: Ozer
+  piPhone: '6097211840'
+  poName: Rajesh Mehta
+  date: 01/22/2020
+  startDate: 02/01/2020
+  expDate: 01/31/2021
+  title: 'SBIR Phase I:  A SMART CAMERA SYSTEM FOR WATER RISK ASSESSMENT'
+
+
+
+
+
+
+
 ---
 
