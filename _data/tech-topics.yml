@@ -51,7 +51,7 @@
     - name: unspun, Inc.
     - name: RE3D Inc.
     - name: Shark Wheel, Inc.
-    - name: Sim Insights
+    - name: SimInsights Inc
     - name: Opus 12 Incorporated
 - topic: Advanced Materials (AM)
   permalink: /topics/advanced-materials/
@@ -77,7 +77,7 @@
     - name: Mallinda, LLC
     - name: Boston Materials, Inc.
     - name: CYPRIS MATERIALS, INC.
-    - name: Carbice Corporation
+    - name: CARBICE CORPORATION
     - name: spotLESS Materials Inc.
     - name: Via Separations, LLC
 
@@ -101,13 +101,13 @@
   companies:
     - name: Bay Labs, Inc.
     - name: GrokStyle Inc.
-    - name: Reconstruct
-    - name: DeepScale
+    - name: RECONSTRUCT INC
+    - name: DeepScale, Inc
     - name: TRASH INC.
     - name: OpenSpace
     - name: Kintsugi Mindful Wellness, Inc.
     - name: kelaHealth Inc
-    - name: terrafuse
+    - name: TERRAFUSE, INC.
 
 - topic: Augmented and Virtual Reality (AV)
   permalink: /topics/augmented-virtual-reality/
@@ -185,7 +185,7 @@
     - Monitoring Devices (BM3)
     - Other Biomedical Technologies (BM4)
   companies:
-    - name: Electrofi, Inc
+    - name: Elektrofi Inc
     - name: ActivSignal, LLC
     - name: Azitra Inc.
     - name: Glyscend INC
@@ -211,14 +211,14 @@
     - Separations and Water Treatment (CT6)
     - Other Chemical Technologies (CT7)
   companies:
-    - name: Provivi
-    - name: Nanopareil
+    - name: Provivi Inc.
+    - name: Nanofiber Solutions
     - name: Emergy LLC
     - name: BioHybrid Solutions LLC
     - name: Grow Plastics LLC
     - name: Omnivis LLC
-    - name: 2Btech
-    - name: Loci Controls
+    - name: 2B Technologies, Inc
+    - name: Loci Controls, Inc
     - name: Aerosol Devices Inc.
 
 - topic: Cloud and High-Performance Computing (CH)
@@ -247,7 +247,7 @@
     - Resilience and Resource Management (CH12)
     - Other Cloud and High-Performance Computing Technologies (CH13)
   companies:
-    - name: NGD Systems
+    - name: NGD Systems, Inc.
   
 - topic: Cybersecurity and Authentication (CA)
   permalink: /topics/cybersecurity-authentication/
@@ -296,7 +296,7 @@
     - name: Bioinfoexperts, LLC
     - name: Diligent Droids, LLC
     - name: PATH EX
-    - name: Verantos
+    - name: Verantos, Inc.
     - name: HABITAWARE, INC.
     - name: Liberate Medical LLC
     
@@ -331,7 +331,7 @@
     - name: GRID7 LLC
     - name: Onu Technology, Inc.
     - name: ENERGYXCHAIN, LLC
-    - name: Simply Vital Health
+    - name: Simplyvital Health, Inc.
     
     
 - topic: Energy Technologies (EN)
@@ -352,12 +352,12 @@
     - Petrochemicals, Oil and Gas (EN4)
     - Other Energy Technologies (EN5)
   companies:
-    - name: Proton Onsite
-    - name: Syzygy Plasmonics
+    - name: Proton Energy Systems, Inc.
+    - name: Syzygy Plasmonics Inc
     - name: Dimensional Energy Inc.
     - name: Leading Edge Crystal Technologies, Inc.
     - name: FAS HOLDINGS GROUP
-    - name: Coreshell Technologies
+    - name: CORESHELL TECHNOLOGIES INC
     - name: Alligant Scientific, LLC
     - name: SURGEPOWER MATERIALS, INC.
     - name: Sylvatex Inc.
@@ -393,7 +393,7 @@
     - name: Litterati, LLC
     - name: REEFGEN INC.
     - name: Pekosoft LLC
-    - name: Greensight Agronomics Inc
+    - name: Greensight Agronomics, Inc.
 
 - topic: Human-Computer Interaction (HC)
   permalink: /topics/human-computer-interaction/
@@ -627,7 +627,7 @@
     - Photonic Materials (PH6)
     - Other Photonics Technologies (PH7)
   companies:
-    - name: Clerio Vision
+    - name: Clerio Vision, Inc.
     - name: Solchroma Technologies Inc
     - name: Axalume Inc.
 
@@ -724,8 +724,8 @@
     - Other Semiconductor Technologies (S7)
   companies:
     - name: Uniqarta, Inc.
-    - name: Inpria
-    - name: Luxvue
+    - name: Inpria Corporation
+    - name: LuxVue Technology
     - name: MOSAIC MICROSYSTEMS LLC
     
 - topic: Space (SP)
