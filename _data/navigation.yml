@@ -36,6 +36,9 @@ primary:
 fastlane:
   - text: Fastlane Overview
     href: /fastlane/
+  - text: Project Pitch Guide
+    href: /project-pitch/guide/
+    target: '_blank'
   - text: Registrations
     href: /fastlane/registrations/
   - text: Form Preparation

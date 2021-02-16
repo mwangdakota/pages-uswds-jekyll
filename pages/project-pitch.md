@@ -11,7 +11,7 @@ layout: secondary
 
 <p>The required Project Pitch allows startups and small businesses to get quick feedback at the start of their application for Phase I funding from America’s Seed Fund powered by NSF. </p>
 
-<p>Startups or entrepreneurs who submit a three-page Project Pitch* will know within three weeks if they meet the program’s objectives to support innovative technologies that show promise of commercial and/or societal impact and involve a level of technical risk. They will also get additional guidance and feedback from NSF staff. </p>
+<p>Startups or entrepreneurs who submit a Project Pitch* will find out if they meet the program’s objectives to support innovative technologies that show promise of commercial and/or societal impact and involve a level of technical risk. They will also get additional guidance and feedback from NSF staff. </p>
 
 <p>If your Project Pitch is a good fit for the program, you will receive an official invitation from NSF to submit a full proposal. If you’re not invited to submit, you’ll be told why your project is not appropriate for the program. </p>
 
@@ -36,9 +36,10 @@ layout: secondary
 
 <p>Describe the background and current status of the applicant small business, including key team members who will lead the technical and/or commercial efforts discussed in this Project Pitch.</p>
 <br>
-<p>Visit the <a href="https://nsfgov.secure.force.com/sbir/">online form</a> to submit your Project Pitch or to preview the required fields. More details about the NSF’s new process and eligibility requirements are on our Apply page. </p>
 
-<p><em>*Each small business can only submit one Project Pitch at a time and up to two Project Pitches per submission window. <strong>(The submission windows are {{ site.solicitation_window_1 }}, {{ site.solicitation_window_2 }}, {{ site.solicitation_window_3 }}, and {{ site.solicitation_window_4 }}).</strong> Any small business with a pending Project Pitch must wait for a response before submitting another Project Pitch. Any small business that has received an invitation to submit a full proposal must wait for a resolution of the full proposal before submitting a new or revised Project Pitch.</em></p>
+<p>Create an account to <a href="https://nsfiip.force.com/sbir" target="_blank">submit your Project Pitch</a>. More details about the NSF’s new process and eligibility requirements are on our Apply page. </p>
+
+<p><em>*Each small business can only submit one Project Pitch at a time. Any small business with a pending Project Pitch must wait for a response before submitting another Project Pitch. Any small business that has received an invitation to submit a full proposal must wait for a resolution of the full proposal before submitting a new or revised Project Pitch.</em></p>
 
 </div>
 </div>

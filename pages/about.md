@@ -49,6 +49,32 @@ You’ll work with a program director, who will serve as your coach. You’ll al
     </div>
   </div>
 </section>
+
+<section class="background-light-neutral">
+<div class="usa-section usa-content usa-grid" >
+<div class="usa-width-one-half" markdown="1">
+
+### We support small companies and new entrepreneurs
+
+We work with startups and small businesses, and we welcome proposals from newly formed companies — you don’t need a track record of commercialization to apply for funding. Please note that your company needs to be a legal entity before you apply.
+
+If your company is majority owned by venture capital operating companies, hedge funds, or private-equity firms, you’re not eligible to apply for funding, although joint ventures and partnerships are eligible. Read more about proposal eligibility in our [Eligibility Guide](https://www.sbir.gov/faqs/eligibility-requirements).
+</div>
+
+<div class="usa-width-one-half" markdown="1">
+
+### We support R&D with lots of technical risk
+
+Our seed funding is for R&D that involves a good amount of technical risk. If you’re already sure that your product is technically feasible, this program isn’t a good fit for you.
+
+In selected cases, we support innovations to existing products and services, but these innovations must dramatically change the products’ commercial prospects. We don’t fund work that simply improves existing products. Check out our [portfolio]({{ '/portfolio/' | relative_url }}) to get a sense of our founders’ work. 
+</div>
+</div>
+<div class="usa-content usa-grid">
+<p><a href="../resources/review/">Learn more</a> by serving as an NSF reviewer.</p><br>
+    </div>
+</section>
+
 <section class="background-light-blue">
 <div class="usa-section usa-content usa-grid" markdown="1">
 <div class="usa-width-one-third" markdown="1">
@@ -80,7 +106,7 @@ You’ll work with a program director, who will serve as your coach. You’ll al
 <div class="usa-section usa-content usa-grid" markdown="1">
 ## Program basics
 
- When you decide to apply for funding, you’ll submit a Project Pitch. You'll hear back within three weeks if your idea is a good fit for the program. Once you're invited, you'll submit a Phase I proposal for up to $256,000, which will cover at least six (and up to 12) months of work. You’ll find out whether your proposal was accepted or declined within four to six months of the proposal deadline.
+ When you decide to apply for funding, you’ll submit a Project Pitch. You'll hear back if your idea is a good fit for the program. Once you're invited, you'll submit a Phase I proposal for up to $256,000, which will cover at least six (and up to 12) months of work. You’ll find out whether your proposal was accepted or declined within four to six months of the proposal deadline.
 
 If you’re awarded Phase I funding, you’ll be expected to:
 
@@ -99,35 +125,11 @@ To help current Phase II awardees speed the commercialization of their technolog
 {% if site.app_process == "active" %}
 For complete program information, check out the latest [{{ site.data.solicitations['SBIR'].title }}]({{ site.data.solicitations['SBIR'].url }}) or [{{ site.data.solicitations['STTR'].title }}]({{ site.data.solicitations['STTR'].url }}).
 {% else %}
-For more program information, check out our last solicitation. 
 {% endif %}
 </div>
 </section>
 
-<section class="background-light-neutral">
-<div class="usa-section usa-content usa-grid" >
-<div class="usa-width-one-half" markdown="1">
 
-### We support small companies and new entrepreneurs
-
-We work with startups and small businesses, and we welcome proposals from newly formed companies — you don’t need a track record of commercialization to apply for funding. Please note that your company needs to be a legal entity before you apply.
-
-If your company is majority owned by venture capital operating companies, hedge funds, or private-equity firms, you’re not eligible to apply for funding, although joint ventures and partnerships are eligible. Read more about proposal eligibility in our [Eligibility Guide](https://www.sbir.gov/faqs/eligibility-requirements).
-</div>
-
-<div class="usa-width-one-half" markdown="1">
-
-### We support R&D with lots of technical risk
-
-Our seed funding is for R&D that involves a good amount of technical risk. If you’re already sure that your product is technically feasible, this program isn’t a good fit for you.
-
-In selected cases, we support innovations to existing products and services, but these innovations must dramatically change the products’ commercial prospects. We don’t fund work that simply improves existing products. Check out our [portfolio]({{ '/portfolio/' | relative_url }}) to get a sense of our founders’ work. 
-</div>
-</div>
-<div class="usa-content usa-grid">
-<p><a href="../resources/review/">Learn more</a> by serving as an NSF reviewer.</p><br>
-    </div>
-</section>
 <section class="background-light-blue">
 <div class="usa-section usa-content usa-grid" markdown="1">  
   
