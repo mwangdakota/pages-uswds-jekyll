@@ -8,25 +8,24 @@ section_image_caption: |
   A finished sample from [Branch Technology LLC]({{ site.baseurl }}/awardees/phase-2/details/?company=branch-technology-llc#branch-technology-llc) of a complex shape 3-D printed like nature.
 ---
 
-### Advanced Manufacturing (M)
-The Advanced Manufacturing topic aims to support emerging innovations in manufacturing with the potential to stimulate the nation’s manufacturing sector by improving its efficiency, competitiveness, and sustainability. Proposed technology should be environmentally friendly, compatible with human health and planet health, and driven by technological advancements. Examples include, but are not limited to, innovative technologies for the processing of a variety of single-component and multi-component materials, biological and bio-inspired materials, flexible electronics, ceramics, polymers, metals, alloys, and novel composites using a variety of advanced manufacturing processes. Regenerative designs using a circular economy approach (a systemic approach to economic development designed to benefit businesses, society, and the environment) are encouraged.
+The Advanced Manufacturing topic aims to support emerging innovations in manufacturing with the potential to stimulate the nation’s manufacturing sector by improving its efficiency, competitiveness, and sustainability. Proposed technology should be environmentally friendly, compatible with human health and planet health, and driven by technological advancements. Examples include, but are not limited to, innovative technologies for the processing of a variety of single-component and multi-component materials, biological and bio-inspired materials, flexible electronics, ceramics, polymers, metals, alloys, and novel composites using a variety of advanced manufacturing processes. Regenerative designs using a circular economy approach (a systemic approach to economic development designed to benefit businesses, society, and the environment) are encouraged. 
 
-#### M1. Additive Manufacturing Components and Systems
+### M1. Additive Manufacturing Components and Systems
 
-#### M2. Bio-Inspired Manufacturing
+### M2. Bio-Inspired Manufacturing
 
-#### M3. Cybermanufacturing 
+### M3. Cybermanufacturing 
 
-#### M4. Human-Centric Industrial Technologies
+### M4. Human-Centric Industrial Technologies
 
-#### M5. Manufacturing Technologies
+### M5. Infrastructure
 
-#### M6. Modeling and Simulation
+### M6. Manufacturing Technologies
 
-#### M7. Personalized Manufacturing / Maker Manufacturing / Maker to Manufacturer
+### M7. Modeling and Simulation
 
-#### M8. Sustainable Manufacturing Technology / Circular Economy Technologies
+### M8. Personalized Manufacturing, Maker Manufacturing, and Maker to Manufacturer 
 
-#### M9. Transportation Technologies
+### M9. Sustainable Manufacturing and Circular Economy Technologies 
 
-#### M10. Other Manufacturing Technologies
+### M10. Other Manufacturing Technologies 

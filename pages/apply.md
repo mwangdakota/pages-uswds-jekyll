@@ -8,16 +8,14 @@ timeline:
       - step-1
       - step-2
       - step-3
-  - title: prior to the end of <br>the submission window
-    steps:
       - step-4
-  - title: upon invitation
+  - title: prior to the end of <br>the submission window <br>and upon invitation
     steps:
       - step-5
       - step-6
       - step-7
   - title: <span style="color:red"><br>Submission window closes<br><br><br><br></span>
-    description: There are four submission windows for Phase I proposals in 2020:<br>{{ site.solicitation_window_1 }}<br>{{ site.solicitation_window_2 }}<br>{{ site.solicitation_window_3 }}<br>{{ site.solicitation_window_4 }}
+    description: There are four submission windows for Phase I proposals in 2021:<br>{{ site.solicitation_window_1 }}<br>{{ site.solicitation_window_2 }}<br>{{ site.solicitation_window_3 }}<br>{{ site.solicitation_window_4 }}
     inactive_description:  
   - title: 1-3 months after<br> the window closes
     description: Applications undergo merit reviews.

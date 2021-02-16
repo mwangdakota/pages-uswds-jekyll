@@ -1,3 +1,29 @@
+- topic: Advanced Analytics (AA)
+  permalink: /topics/advanced-analytics/
+  topic_code: aa
+  programDirector:
+    - name: Peter Atherton
+      last_name: Atherton
+      api_name: Peter Atherton
+      email: patherto@nsf.gov
+      photo: Peter-compressed.jpg
+      ttopic: aa
+      bio: "comes to the NSF with a broad background in the physical sciences, and extensive experience in technology development and commercialization. Before joining NSF Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly traded company that he founded in Sydney, Australia. While at MIKOH Corporation he was instrumental in developing and commercializing technologies in a range of fields including diffractive optics, laser-based marking, radio frequency identification and internet-based personal authentication.) Prior to MIKOH he spent approximately seven years at the Overseas Telecommunications Commission (OTC Australia) where he managed optical fiber communications R&D, including approximately 14 months in the UK at British Telecom’s Martlesham Heath R&D laboratories. (While at OTC his research group made world-leading advances in high-speed optical communications technologies, some of which were commercialized via spin-off companies. He also managed the externally contracted development and commercialization of a number of optical fiber and optoelectronic  technologies, and was instrumental in establishing a commercialization center for specialized optical fibers at the University of Sydney. He moved to the United States in 1998 to further develop the company’s technologies and markets. Peter holds a Ph.D. in physics (Quantum Optics), and a BEng (Mech) – both from the University of Queensland (Australia)."
+  subtopics:
+    - Data Collection, Cleaning, Integration and Processing (AA1)
+    - Data Mining (AA2)
+    - Decision Modelling (AA3)
+    - Descriptive and Predictive Analytics (AA4)
+    - Deterministic Modelling (AA5)
+    - Optimization (AA6)
+    - Simulation (AA7)
+    - Statistical Modelling (AA8)
+    - Time Series Analysis and Forecasting (AA9)
+    - Visualization (AA10)
+    - Other Advanced Analytics Technologies (AA11)
+  companies:
+    - name: Temblor, Inc.
+    
 - topic: Advanced Manufacturing (M)
   permalink: /topics/advanced-manufacturing/
   topic_code: m
@@ -14,21 +40,19 @@
     - Bio-Inspired Manufacturing (M2)
     - Cybermanufacturing (M3)
     - Human-Centric Industrial Technologies (M4)
-    - Manufacturing Technologies (M5)
-    - Modeling and Simulation (M6)
-    - Personalized Manufacturing / Maker Manufacturing / Maker to Manufacturer (M7)
-    - Sustainable Manufacturing Technology / Circular Economy Technologies (M8)
-    - Transportation Technologies (M9)
+    - Infrastructure (M5)
+    - Manufacturing Technologies (M6)
+    - Modeling and Simulation (M7)
+    - Personalized Manufacturing, Maker Manufacturing, and Maker to Manufacturer (M8)
+    - Sustainable Manufacturing Technology and Circular Economy Technologies (M9)
     - Other Manufacturing Technologies (M10)
   companies:
-    - name: 3DEO, Inc.
-    - name: XPEED Turbine Technology LLC
     - name: Branch Technology LLC
-    - name: Big Blue Technologies LLC
-    - name: Elementum 3D
-    - name: Construction Robotics, LLC
     - name: unspun, Inc.
-
+    - name: RE3D Inc.
+    - name: Shark Wheel, Inc.
+    - name: Sim Insights
+    - name: Opus 12 Incorporated
 - topic: Advanced Materials (AM)
   permalink: /topics/advanced-materials/
   topic_code: am
@@ -49,11 +73,13 @@
     - Structural and Infrastructural Materials (AM6)
     - Other Advanced Materials Technologies (AM7)
   companies:
-    - name: DropWise Technologies Corp.
     - name: bioMASON Inc.
     - name: Mallinda, LLC
-    - name: Maxterial, Inc.
-    - name: Neuvokas Corporation
+    - name: Boston Materials, Inc.
+    - name: CYPRIS MATERIALS, INC.
+    - name: Carbice Corporation
+    - name: spotLESS Materials Inc.
+    - name: Via Separations, LLC
 
 - topic: Artificial Intelligence (AI)
   permalink: /topics/artificial-intelligence/
@@ -68,25 +94,43 @@
     bio: "comes to the NSF with a broad background in the physical sciences, and extensive experience in technology development and commercialization. Before joining NSF Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly traded company that he founded in Sydney, Australia. While at MIKOH Corporation he was instrumental in developing and commercializing technologies in a range of fields including diffractive optics, laser-based marking, radio frequency identification and internet-based personal authentication.) Prior to MIKOH he spent approximately seven years at the Overseas Telecommunications Commission (OTC Australia) where he managed optical fiber communications R&D, including approximately 14 months in the UK at British Telecom’s Martlesham Heath R&D laboratories. (While at OTC his research group made world-leading advances in high-speed optical communications technologies, some of which were commercialized via spin-off companies. He also managed the externally contracted development and commercialization of a number of optical fiber and optoelectronic  technologies, and was instrumental in establishing a commercialization center for specialized optical fibers at the University of Sydney. He moved to the United States in 1998 to further develop the company’s technologies and markets. Peter holds a Ph.D. in physics (Quantum Optics), and a BEng (Mech) – both from the University of Queensland (Australia)."
   subtopics:
     - AI-Optimized Hardware (AI1)
-    - Business Intelligence (AI2)
-    - Computer Vision, Image and Video Processing (AI3)
-    - Decision Management and Optimization (AI4)
-    - eCommerce (AI5)
-    - Education Technologies (AI6)
-    - Human-Computer Interaction (AI7)
-    - Industrial Systems, including Robotics (A18)
-    - Language-Based Technologies (AI9)
-    - Machine Learning Algorithms and Platforms (A10)
-    - Medical Diagnostics (AI11)
-    - Sales, Advertising, and Marketing (AI12)
-    - Security, Cybersecurity, and Authentication (AI13)
-    - Smart Agriculture (AI14)
-    - Vehicle-Based Systems (AI15)
-    - Virtual Agents and Assistants (AI16)
-    - Other AI Technologies (AI17)
+    - Computer Vision (AI2)
+    - Language-Based AI (AI3)
+    - Machine Learning (AI4)
+    - Other Artificial Intelligence Technologies (AI5)
   companies:
     - name: Bay Labs, Inc.
     - name: GrokStyle Inc.
+    - name: Reconstruct
+    - name: DeepScale
+    - name: TRASH INC.
+    - name: OpenSpace
+    - name: Kintsugi Mindful Wellness, Inc.
+    - name: kelaHealth Inc
+    - name: terrafuse
+
+- topic: Augmented and Virtual Reality (AV)
+  permalink: /topics/augmented-virtual-reality/
+  topic_code: av
+  programDirector:
+    - name: Diane Hickey
+      last_name: Hickey
+      api_name: Diane Hickey
+      email: dHickey@nsf.gov
+      photo: Diane-compressed.jpg
+      ttopic: av
+      bio: "joined NSF as an SBIR/STTR program director in August 2020. She has extensive experience in multiple technical fields and early-stage deep technology ventures. Diane founded the Diamond Chameleon Group and grew a broad team providing commercialization services to more than 40 SBIR awardees and deep technology startups with funding across government agencies. Diane began her career at Accenture, implementing enterprise-wide systems in utility and chemical corporations. She then joined C-Bridge Internet Solutions, an MIT-based startup that provided technologies to connect corporate back-end systems to users; the company went public in 1999, and merged with Excelon in 2000 and Progress Software Corp (PRGS) in 2004. After completing her Ph.D., Diane joined Advanced Diamond Technologies (ADT), a startup spun out of Argonne National Laboratory, she helped the company transition from grant support to commercial sustainability. Diane has held life-long roles in STEM education, including the NSF Young Scholars program, participation in the NSF Nanotechnology Informal Science Education network, and as a Sisters4Science mentor. She has also supported science education startups, served as the school and homeschool liaison for the Tampa’s Children’s Museum and has taught for Kaplan, Inc. Diane consulted on science education and pursued graduate coursework at the University of Florida’s College of Journalism and Communications. Diane holds a B.S. in Chemical Engineering from Auburn University, and an M.S. and Ph.D. in Materials Science and Engineering from the University of Florida."
+  subtopics:
+    - Audio Augmentation and Interfaces (AV1)
+    - Computation and Data integration (AV2)
+    - Projection and Display Media (AV3)
+    - Tracking, Alignment, and Stabilization Technologies (AV4)
+    - Wearable Technologies (AV5)
+    - Other Augmented and Virtual Reality Technologies (AV6)
+  companies:
+    - name: BADVR, INC.
+    - name: NEUROTRAINER, INC
+    - name: Misapplied Sciences, Inc.
     
 - topic: Biological Technologies (BT)
   permalink: /topics/biological-technologies/
@@ -101,12 +145,12 @@
       bio: "joined the NSF as Program Director in November 2019. Prior to NSF, he was Chief of Operations and led Research and Development at O-Ray Pharma, where he focused on integrating biology and biomedical engineering for the goal of drug development and sustained drug delivery for the treatment of hearing loss and other ear disorders. During his time working at early stage companies, he helped secure both Angel investment and non-dilutive funding in the form of licensing and co-development deals. Additionally, he served as Principal Investigator on several Phase I, II and IIB SBIR grants from the National Institutes of Health and NSF. His research interests have focused on the intersection of the biotic and abiotic, spanning molecular and cell biology, materials science, gene therapy, nanomaterials and drug delivery. Erik has a Ph.D. in Molecular and Cell Biology from the University of California, Berkeley, and a B.S. in Biology from Emory University."  
   subtopics:
     - Animal Biotechnology (BT1)
-    - Bioinstruments (BT2)
-    - Biosensors (BT3)
-    - Cell and Tissue Engineering (BT4)
-    - Computational Biology and Bioinformatics (BT5)
-    - Fermentation Technologies (BT6)
-    - Food Processing and Safety Technology (BT7)
+    - Bio-Inspired Technologies (BT2)
+    - Bioinstruments (BT3)
+    - Biosensors (BT4)
+    - Cell and Tissue Engineering (BT5)
+    - Computational Biology and Bioinformatics (BT6)
+    - Fermentation Technologies (BT7)
     - Life Science Research Tools (BT8)
     - Materials for Biomedical Applications (BT9)
     - Plant Biotechnology (BT10)
@@ -117,10 +161,11 @@
     - name: ARZEDA Corp.
     - name: SYNVITROBIO INC
     - name: Living Ink Technologies, LLC
-    - name: Enable Biosciences Inc
+    - name: GRO BIOSCIENCES INC
     - name: Manus Biosynthesis, Inc.
-    - name: Navan Technologies Inc.
+    - name: Yesse Technologies, Inc.
     - name: Antheia, Inc.
+    - name: Ras Labs, Inc.
     - name: APPLIED LIFESCIENCES & SYSTEMS POULTRY, INC.
 
 - topic: Biomedical Technologies (BM)
@@ -135,21 +180,16 @@
       ttopic: bm
       bio: "joined the National Science Foundation in July 2016 as an SBIR/STTR Program Director. Prior to joining NSF, Henry managed seed/early stage investment programs for TEDCO for 12 years including Technology Commercialization Fund, TEDCO’s flagship seed funding program for technology-based companies in Maryland. During his time at TEDCO, Henry was actively involved with various entrepreneurs and entrepreneur support groups as a guest speaker, an advisory board member, a judge, a mentor, among others. Additionally, Henry was part of the licensing/supplier relations team at a biotechnology company called Upstate, where he successfully negotiated, licensed and commercialized approximately 190 biomedical research reagents from around the world. Henry has also done approximately five years of research, mostly in the field of immunology (including graduate work). Henry has an MBA from Rice University, an M.S. in biotechnology from the University of Tennessee, Knoxville and a B.S. in biomedical engineering from Boston University."
   subtopics:
-    - Diagnostic Assays (BM1)
+    - Diagnostics (BM1)
     - Medical Imaging (BM2)
     - Monitoring Devices (BM3)
     - Other Biomedical Technologies (BM4)
   companies:
-    - name: Protein Dynamic Solutions, LLC
-    - name: Camras Vision, Inc.
-    - name: Arytha Biosciences, LLC
-    - name: CytoVale, Inc
-    - name: OneBreath, Inc.
-    - name: Rochal Industries LLP
-    - name: Elidah, Inc.
-    - name: Vaxess Technologies, Inc.
-    - name: LambdaVision, Inc.
-    - name: BriteSeed, LLC
+    - name: Electrofi, Inc
+    - name: ActivSignal, LLC
+    - name: Azitra Inc.
+    - name: Glyscend INC
+    - name: Bioxytech Retina, Inc.
 
 - topic: Chemical Technologies (CT)
   permalink: /topics/chemical-technologies/
@@ -171,13 +211,70 @@
     - Separations and Water Treatment (CT6)
     - Other Chemical Technologies (CT7)
   companies:
-    - name: Modular Genetics, Inc.
-    - name: Renuvix
-    - name: Ground Fluor Pharmaceuticals, Inc.
-    - name: ZYMtronix Catalytic Systems Inc.
-    - name: Saratoga Energy Research Partners LLC
-    - name: Dimensional Energy Inc.
+    - name: Provivi
+    - name: Nanopareil
+    - name: Emergy LLC
+    - name: BioHybrid Solutions LLC
+    - name: Grow Plastics LLC
+    - name: Omnivis LLC
+    - name: 2Btech
+    - name: Loci Controls
+    - name: Aerosol Devices Inc.
 
+- topic: Cloud and High-Performance Computing (CH)
+  permalink: /topics/cloud-high-performance-computing/
+  topic_code: ch
+  programDirector:
+    - name: Peter Atherton
+      last_name: Atherton
+      api_name: Peter Atherton
+      email: patherto@nsf.gov
+      photo: Peter-compressed.jpg
+      ttopic: aa
+      bio: "comes to the NSF with a broad background in the physical sciences, and extensive experience in technology development and commercialization. Before joining NSF Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly traded company that he founded in Sydney, Australia. While at MIKOH Corporation he was instrumental in developing and commercializing technologies in a range of fields including diffractive optics, laser-based marking, radio frequency identification and internet-based personal authentication.) Prior to MIKOH he spent approximately seven years at the Overseas Telecommunications Commission (OTC Australia) where he managed optical fiber communications R&D, including approximately 14 months in the UK at British Telecom’s Martlesham Heath R&D laboratories. (While at OTC his research group made world-leading advances in high-speed optical communications technologies, some of which were commercialized via spin-off companies. He also managed the externally contracted development and commercialization of a number of optical fiber and optoelectronic  technologies, and was instrumental in establishing a commercialization center for specialized optical fibers at the University of Sydney. He moved to the United States in 1998 to further develop the company’s technologies and markets. Peter holds a Ph.D. in physics (Quantum Optics), and a BEng (Mech) – both from the University of Queensland (Australia)."
+  subtopics:
+    - Algorithms and Applications (CH1)
+    - Computational Architecture (CH2)
+    - Convergence of AI and Cloud/HPC (CH3)
+    - Edge Computing (CH4)
+    - Energy Efficiency and Sustainability (CH5)
+    - In-memory Processing (CH6)
+    - Interconnects (CH7)
+    - Middleware (CH8)
+    - Performance Monitoring (CH9)
+    - Processing on Encrypted Data (CH10)
+    - Processor Architecture and Design (CH11)
+    - Resilience and Resource Management (CH12)
+    - Other Cloud and High-Performance Computing Technologies (CH13)
+  companies:
+    - name: NGD Systems
+  
+- topic: Cybersecurity and Authentication (CA)
+  permalink: /topics/cybersecurity-authentication/
+  topic_code: ca
+  programDirector:
+  - name: Peter Atherton
+    last_name: Atherton
+    api_name: Peter Atherton
+    email: patherto@nsf.gov
+    photo: Peter-compressed.jpg
+    ttopic: aa
+    bio: "comes to the NSF with a broad background in the physical sciences, and extensive experience in technology development and commercialization. Before joining NSF Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly traded company that he founded in Sydney, Australia. While at MIKOH Corporation he was instrumental in developing and commercializing technologies in a range of fields including diffractive optics, laser-based marking, radio frequency identification and internet-based personal authentication.) Prior to MIKOH he spent approximately seven years at the Overseas Telecommunications Commission (OTC Australia) where he managed optical fiber communications R&D, including approximately 14 months in the UK at British Telecom’s Martlesham Heath R&D laboratories. (While at OTC his research group made world-leading advances in high-speed optical communications technologies, some of which were commercialized via spin-off companies. He also managed the externally contracted development and commercialization of a number of optical fiber and optoelectronic  technologies, and was instrumental in establishing a commercialization center for specialized optical fibers at the University of Sydney. He moved to the United States in 1998 to further develop the company’s technologies and markets. Peter holds a Ph.D. in physics (Quantum Optics), and a BEng (Mech) – both from the University of Queensland (Australia)."
+  subtopics:
+    - Computation on Encrypted Data (CA1)
+    - Cryptography, including Post-quantum Cryptography (CA2)
+    - Data Privacy and Integrity (CA3)
+    - Device Authentication (CA4)
+    - Encryption, including Homomorphic Encryption (CA5)
+    - Network and Device Security (CA6)
+    - Personal Authentication (CA7)
+    - Secure and Trusted Computing (CA8)
+    - Secure Machine-to-Machine Communication (CA9)
+    - Security of Cloud and HPC Platforms (CA10)
+    - Other Cybersecurity and Authentication Technologies (CA11)
+  companies:
+    - name: PQSecure Technologies, LLC
+    
 - topic: Digital Health (DH) 
   permalink: /topics/digital-health/
   topic_code: dh
@@ -194,15 +291,14 @@
     - Healthcare System Workflow (DH2)
     - Medical Diagnostics  (DH3)
     - Personalized Software Systems (DH4)
-    - Other Digital Health (DH5)
+    - Other Digital Health Technologies (DH5)
   companies:
-    - name: Guiding Technologies Corporation
-    - name: Roundtable Analytics LLC
-    - name: Care Progress, LLC
-    - name: ConsortiFX, Inc
-    - name: Radial Analytics, Inc.
-    - name: HealthMyne, Inc.
-    - name: TAO Connect, Inc.
+    - name: Bioinfoexperts, LLC
+    - name: Diligent Droids, LLC
+    - name: PATH EX
+    - name: Verantos
+    - name: HABITAWARE, INC.
+    - name: Liberate Medical LLC
     
 - topic: Distributed Ledger (DL)
   permalink: /topics/distributed-ledger/
@@ -216,21 +312,27 @@
       ttopic: dl
       bio: "joined the National Science Foundation as a SBIR/STTR Program Director in 2016. In this role she brings breadth of background across entrepreneurship and venture capital, innovative research, and direction of corporate strategy and investments. Anna has served as a collaborator with numerous startups having worked as an inventor for an early stage venture-backed start-up providing low-cost, low-energy portable water treatment, and a Principal Investor for an early stage venture firm. Anna’s contributions were recognized in 2009 when she was selected as one of  about 30 Kauffman Fellows from around the globe, for leadership in innovation and venture capital. She served as Director of Corporate Strategy for leading multinationals including The AES Corporation and Cummins Inc., and advised numerous clients while serving as a management consultant for The Boston Consulting Group. Anna’s work in these roles resulted in over $6B of infrastructure investments with enhanced returns, identification of $B+ cost reduction opportunities, contributing to a core transformation team of a $T+ entity in oil & gas, and the implementation of several new technologies spanning nanotechnology, advanced manufacturing, Big Data and Internet of Things, along with new equipment that enabled transforming energy economics. Earlier in her career, she performed research at the intersection of innovation and international relations with the Office of Naval Research at the U.S. Embassy in Chile. Anna holds a PhD from Yale University in Chemical and Environmental Engineering, where she held a National Science Foundation Graduate Research Fellowship; and a B.S. in Chemical Engineering and B.A. in Spanish from The Johns Hopkins University."
   subtopics:
-    - Autonomous Systems and Economies; Smart Contracts (DL1)
-    - Blockchain, DAGs, and Next Gen Protocols (DL2)  
+    - Autonomous Systems and Economies, and Smart Contracts (DL1)
+    - Blockchain, DAGs, and Next-Gen Protocols (DL2)  
     - Convergence with Big Data, and Artificial Intelligence (DL3)
     - Convergence with Internet of Things, Crowdsourcing and Crowdsensing (DL4)
-    - Cryptography; Security; Cybersecurity (DL5)
-    - Distributed Consensus; Fault Tolerance Mechanisms (DL6)
+    - Cryptography, Security, and Cybersecurity (DL5)
+    - Distributed Consensus and Fault Tolerance Mechanisms (DL6)
     - Distributed Ledger in Edge and Cloud Computing (DL7)
     - Distributed Ledger Interoperability (DL8)
     - Distributed Ledger in Network Architecture and Management (DL9)
     - Financial Technologies (DL10)
     - Human-to-Technology Interface; Decentralized Applications (dApps) (DL11)
-    - Scalability Solutions; Accumulators (DL12)
-    - Trusted Identity; Identity Management (DL13)
+    - Scalability Solutions and Accumulators (DL12)
+    - Trusted Identity and Identity Management (DL13)
     - Other Distributed Ledger Technologies (DL14)
   companies:
+    - name: Runtime Verification, Inc.
+    - name: GRID7 LLC
+    - name: Onu Technology, Inc.
+    - name: ENERGYXCHAIN, LLC
+    - name: Simply Vital Health
+    
     
 - topic: Energy Technologies (EN)
   permalink: /topics/energy-technologies/
@@ -244,12 +346,21 @@
       ttopic: en
       bio: "comes to the NSF with a broad background in the physical sciences, and extensive experience in technology development and commercialization. Before joining NSF Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly traded company that he founded in Sydney, Australia. While at MIKOH Corporation he was instrumental in developing and commercializing technologies in a range of fields including diffractive optics, laser-based marking, radio frequency identification and internet-based personal authentication.) Prior to MIKOH he spent approximately seven years at the Overseas Telecommunications Commission (OTC Australia) where he managed optical fiber communications R&D, including approximately 14 months in the UK at British Telecom’s Martlesham Heath R&D laboratories. (While at OTC his research group made world-leading advances in high-speed optical communications technologies, some of which were commercialized via spin-off companies. He also managed the externally contracted development and commercialization of a number of optical fiber and optoelectronic  technologies, and was instrumental in establishing a commercialization center for specialized optical fibers at the University of Sydney. He moved to the United States in 1998 to further develop the company’s technologies and markets. Peter holds a Ph.D. in physics (Quantum Optics), and a BEng (Mech) – both from the University of Queensland (Australia)." 
   subtopics:
-    - Energy Efficiencies, and Data Technologies (EN1)
+    - Energy Efficiencies and Data Technologies (EN1)
     - Energy Production and Power Generation (EN2)
     - Energy Storage (EN3)
     - Petrochemicals, Oil and Gas (EN4)
     - Other Energy Technologies (EN5)
   companies:
+    - name: Proton Onsite
+    - name: Syzygy Plasmonics
+    - name: Dimensional Energy Inc.
+    - name: Leading Edge Crystal Technologies, Inc.
+    - name: FAS HOLDINGS GROUP
+    - name: Coreshell Technologies
+    - name: Alligant Scientific, LLC
+    - name: SURGEPOWER MATERIALS, INC.
+    - name: Sylvatex Inc.
     
 - topic: Environmental Technologies (ET)
   permalink: /topics/environmental-technologies/
@@ -264,52 +375,50 @@
       bio: "has been a SBIR/STTR Program Director since 2012. Prior to joining NSF in 2012, he was a senior research technologist at Kodak where his 26-year career spanned work at Kodak Research Laboratories, and Manufacturing Research and Engineering Organization. His work covered a broad range of materials science based technologies related to photographic film and paper manufacturing, thermal, inkjet, and electro-photographic printing, and OLED device manufacturing. He has a B. Tech. degree in Chemical Engineering from Indian Institute of Technology, Bombay, M.S. and Ph.D. degrees in Chemical Engineering from Penn State, a post-doctoral fellowship at Imperial College, and a M.S. degree in New Product Development from Rochester Institute of Technology." 
   subtopics:
     - Computational Sustainability (ET1)
-    - Emission/Waste Reduction and the Circular Economy (ET2)
-    - Food, Agriculture, and Energy (ET3)
-    - Habitat Conservation, Adaptation and Restoration (ET4)
-    - Sustainable Community Systems (ET5)
-    - Water Treatment, Resilience, and Sanitation (ET6)
-    - Other Environmental Technologies (ET7)
+    - Digital Ecosystem for the Environment (ET2)
+    - Emission/Waste Reduction and the Circular Economy (ET3)
+    - Environmental Health (ET4)
+    - Environmental and Societal Impact Measurement (ET5)
+    - Food, Regenerative Agriculture, and Energy (ET6)
+    - Habitat Conservation, Adaptation and Restoration (ET7)
+    - Sustainable Community Systems (ET8)
+    - Water Treatment, Resilience, and Sanitation (ET9)
+    - Other Environmental Technologies (ET10)
   companies:
+    - name: ClearFlame Engines, Inc.
     - name: CycloPure, Inc.
-    - name: Vaporsens Inc.
     - name: Precision Polyolefins, LLC
     - name: Azimuth1, LLC
-    
-- topic: Information Technologies (IT)
-  permalink: /topics/information-technologies/
-  topic_code: it
+    - name: FOLIA WATER, INC.
+    - name: Litterati, LLC
+    - name: REEFGEN INC.
+    - name: Pekosoft LLC
+    - name: Greensight Agronomics Inc
+
+- topic: Human-Computer Interaction (HC)
+  permalink: /topics/human-computer-interaction/
+  topic_code: hc
   programDirector:
     - name: Diane Hickey
       last_name: Hickey
       api_name: Diane Hickey
       email: dHickey@nsf.gov
       photo: Diane-compressed.jpg
-      ttopic: it
+      ttopic: hc
       bio: "joined NSF as an SBIR/STTR program director in August 2020. She has extensive experience in multiple technical fields and early-stage deep technology ventures. Diane founded the Diamond Chameleon Group and grew a broad team providing commercialization services to more than 40 SBIR awardees and deep technology startups with funding across government agencies. Diane began her career at Accenture, implementing enterprise-wide systems in utility and chemical corporations. She then joined C-Bridge Internet Solutions, an MIT-based startup that provided technologies to connect corporate back-end systems to users; the company went public in 1999, and merged with Excelon in 2000 and Progress Software Corp (PRGS) in 2004. After completing her Ph.D., Diane joined Advanced Diamond Technologies (ADT), a startup spun out of Argonne National Laboratory, she helped the company transition from grant support to commercial sustainability. Diane has held life-long roles in STEM education, including the NSF Young Scholars program, participation in the NSF Nanotechnology Informal Science Education network, and as a Sisters4Science mentor. She has also supported science education startups, served as the school and homeschool liaison for the Tampa’s Children’s Museum and has taught for Kaplan, Inc. Diane consulted on science education and pursued graduate coursework at the University of Florida’s College of Journalism and Communications. Diane holds a B.S. in Chemical Engineering from Auburn University, and an M.S. and Ph.D. in Materials Science and Engineering from the University of Florida."
   subtopics:
-  - Big Data and Advanced Analytics (IT1)
-  - Cloud Computing and High-Performance Computing (IT2)
-  - Cloud-based IT Services (IT3)
-  - Cybersecurity, Authentication, and Privacy (IT4)
-  - Cybersecurity for the Internet of Things (IT5)
-  - Education Technologies (IT6)
-  - Human-Computer Interaction, Virtual Reality, and Augmented Reality (IT7)
-  - Image and Video (IT8)
-  - Mobile Computing, Internet of Things, Cyber-Physical Systems (IT9)
-  - Networking Technology (IT10)
-  - Social Media and Collaborative Networking (IT11)
-  - Software (IT12)
-  - Other Information Technologies (IT13)
+    - Analytics (HC1)
+    - Conversational Interfaces (HC2)
+    - Dynamic and Smart Spaces (HC3)
+    - Embodied and Wearable Computing (HC4)
+    - Optometry and Human Vision (HC5)
+    - Tactile Technologies (HC6)
+    -  Technology Aids for Disabilities (HC7)
+    - Other Human-Computer Interaction Technologies (HC8)
   companies:
-    - name: DeepScale, Inc
-    - name: Openspace
-    - name: Stateless, Inc
-    - name: KANDRA LABS INC
-    - name: Intentionet, Inc.
-    - name: Mental Canvas, LLC
-    - name: InsightFinder Inc.
-    
+    - name: Neural Analytics
+    - name: Pison Technology Inc
+
 - topic: Instrumentation and Hardware Systems (IH)
   permalink: /topics/instrumentation-and-hardware-systems/
   topic_code: ih
@@ -336,8 +445,7 @@
     
 - topic: Internet of Things (I)
   permalink: /topics/internet-of-things/
-  topic_code: 
-    -i
+  topic_code: i
   programDirector:
     - name: Ben Schrag
       last_name: Schrag
@@ -357,6 +465,35 @@
     - name: One Million Metrics Corp
     - name: IOTAS, Inc.
 
+- topic: Learning and Cognition Technologies (LC)
+  permalink: /topics/learning-cognition-technologies/
+  topic_code: lc
+  programDirector:
+    - name: Diane Hickey
+      last_name: Hickey
+      api_name: Diane Hickey
+      email: dHickey@nsf.gov
+      photo: Diane-compressed.jpg
+      ttopic: lc
+      bio: "joined NSF as an SBIR/STTR program director in August 2020. She has extensive experience in multiple technical fields and early-stage deep technology ventures. Diane founded the Diamond Chameleon Group and grew a broad team providing commercialization services to more than 40 SBIR awardees and deep technology startups with funding across government agencies. Diane began her career at Accenture, implementing enterprise-wide systems in utility and chemical corporations. She then joined C-Bridge Internet Solutions, an MIT-based startup that provided technologies to connect corporate back-end systems to users; the company went public in 1999, and merged with Excelon in 2000 and Progress Software Corp (PRGS) in 2004. After completing her Ph.D., Diane joined Advanced Diamond Technologies (ADT), a startup spun out of Argonne National Laboratory, she helped the company transition from grant support to commercial sustainability. Diane has held life-long roles in STEM education, including the NSF Young Scholars program, participation in the NSF Nanotechnology Informal Science Education network, and as a Sisters4Science mentor. She has also supported science education startups, served as the school and homeschool liaison for the Tampa’s Children’s Museum and has taught for Kaplan, Inc. Diane consulted on science education and pursued graduate coursework at the University of Florida’s College of Journalism and Communications. Diane holds a B.S. in Chemical Engineering from Auburn University, and an M.S. and Ph.D. in Materials Science and Engineering from the University of Florida."
+  subtopics:
+    - Asynchronous and Remote Learning (LC1)
+    - Collaborative Networking (LC2)
+    -  Digital Learning (LC3)
+    - Learning Disabilities and Difficulties (LC4)
+    - Learning and Workforce Development (LC5)
+    - Learning Modalities (LC6)
+    - Mental Health Assessment and Support (LC7)
+    - Neuroscience-based Technologies (LC8)
+    - Scalable Educational Enterprise Systems (LC9)
+    - Statistical and Heuristic Analysis (LC10)
+    - Other Learning and Cognition Technologies (LC11)
+  companies:
+    - name: PRISMS OF REALITY INC.
+    - name: CIRCLEIN, INC.
+    - name: Muzology, LLC
+    - name: NEUROTRAINER, INC
+    
 - topic: Medical Devices (MD)
   permalink: /topics/medical-devices/
   topic_code: md
@@ -376,7 +513,37 @@
     - Wearables (MD5)
     - Other Medical Devices (MD6)
   companies:
-    - name: Neural Analytics
+    - name: Sonavex, Inc.
+    - name: Lapovations, LLC
+    - name: CACTUS MEDICAL,LLC
+    - name: FORCAST ORTHOPEDICS INC
+    - name: iSono Health, Inc.
+    
+- topic: Mobility (MO)
+  permalink: /topics/mobility/
+  topic_code: mo
+  programDirector:
+    - name: Elizabeth Mirowski
+      last_name: Mirowski
+      api_name: Elizabeth Mirowski
+      email: emirowsk@nsf.gov
+      photo: mirowski.jpg
+      ttopic: mo
+      bio: "started as an SBIR/STTR program director in May 2020. Before NSF, Ela was a Founder and CEO of Verellium, a medical device startup. At Verellium she built strong collaborative partnerships across industry, academia, and federal labs to develop novel solutions for clinical imaging that resulted in new products and new market segments. She also worked for High Precision Devices (HPD) where she successfully transferred several technologies into prototypes and commercialized them, creating a standalone, revenue-generating company, QalibreMD, in just three years. As a principal investigator on SBIR grants from various federal agencies, Ela led the program direction including research, engineering, manufacturing, and market development. In addition to these activities, she engaged in fundraising from venture capital and private equity sources. For more than 17 years, Ela worked for and consulted to small businesses managing the development of technologies involving photonics for displays, semiconductor electronics, renewable energies, nanomaterials, and lab-on-chip platforms for evaluating neural growth and biological processes at the single-molecule level. Ela holds a Ph.D. in Physical Chemistry from the University of Colorado, a B.A. in Chemistry from Columbia University, and completed a National Research Council post-doctorate at the National Institute of Standards and Technology." 
+  subtopics:
+    - Behavioral (MO1)
+    - Hardware (MO2)
+    - Infrastructure and Flow (MO3)
+    - Resiliency and Sustainability (MO4)
+    - Software (MO5)
+    - Other Mobility Topics (MO6)
+  companies:
+    - name: LUNEWAVE INC.
+    - name: ClearFlame Engines, Inc.
+    - name: ILANS, Inc.
+    - name: Mirada Technologies Inc.
+    - name: Sinter Print Inc
+    - name: XPEED Turbine Technology, LLC
     
 - topic: Nanotechnology (N)
   permalink: /topics/nanotechnology/
@@ -395,9 +562,6 @@
     - Nanotechnology Solutions to Global Grand Challenges (N3)
     - Other Nanotechnologies (N4)
   companies:
-    - name: Xallent LLC
-    - name: Hummingbird Nano, Inc.
-    - name: Astrileux Corporation
     
 - topic: Other Topics (OT)
   permalink: /topics/other-topics/
@@ -428,15 +592,20 @@
       desc:
       bio: "joined NSF as a Program Director for the Partnerships for Innovation (PFI) program in June 2020. Since 2011, Katie has been an Assistant Professor in the Department of Materials Science & Engineering and the Department of Chemical & Biological Engineering at Iowa State University. Her current research thrusts include the development of biomaterials for medical applications and evaluation of these materials in in-vitro and in vivo contexts for drug delivery and regenerative medicine. She received the NSF BRIGE Award in 2012, the ISU Honors Mentor Award in 2014, was nominated “Outstanding Faculty Member” by the Interfraternity Council in 2015, and won both the Akinc Excellence in Research and Teaching Awards in 2015. Katie earned her B.S. from the University of Minnesota and her PhD from the University of California, Berkeley under the supervision of Prof. Gabor Somorjai. She was a post-doctoral research fellow at MIT as an NIH fellow in Professor Bob Langer’s lab."
   subtopics:
-    - Artificial Intelligence for Drug Development (PT1)
-    - Cell and Biologics Manufacturing (PT2)
-    - Drug Delivery Methods (PT3)
-    - Drug Discovery Platforms (PT4)
-    - Pharmaceutical Bioinformatics (PT5)
-    - Pharmaceutical Manufacturing (PT6)
-    - Therapeutic Molecules (PT7)
-    - Other Pharmaceutical Technologies (PT8)
+    - Drug Delivery Methods (PT1)
+    - Drug Discovery (PT2)
+    - Pharmaceutical and Biologic Manufacturing (PT3)
+    - Therapeutic Molecules (PT4)
+    - Other Pharmaceutical Technologies (PT5)
   companies:
+    - name: SQZ Biotechnologies Company
+    - name: ConsortiEX, Inc
+    - name: nanoView Diagnostics Inc.
+    - name: Novome Biotechnologies, Inc.
+    - name: Glauconix Inc.
+    - name: Protein Dynamic Solutions, Inc.
+    - name: Kytopen Corp
+    - name: Visikol, Inc.
 
 - topic: Photonics (PH)
   permalink: /topics/photonics/
@@ -455,10 +624,12 @@
     - Communications, Information, and Data Storage (PH3)
     - Lighting and Displays (PH4)
     - Photon-based Energy Conversion (PH5)
-    - Other Photonics Technologies (PH6)
+    - Photonic Materials (PH6)
+    - Other Photonics Technologies (PH7)
   companies:
-    - name: Clerio Vision, Inc.
-    - name: Endectra, LLC
+    - name: Clerio Vision
+    - name: Solchroma Technologies Inc
+    - name: Axalume Inc.
 
 - topic: Power Management (PM)
   permalink: /topics/power-management/
@@ -480,7 +651,13 @@
     - Systems for Thermal Management (PM6)
     - Other Power Management Technologies (PM7)
   companies:
-
+    - name: Microgrid Labs Inc.
+    - name: Imagen Energy, LLC
+    - name: Rejoule Incorporated
+    - name: Feasible, Inc.
+    - name: Antora Energy, Inc.
+    - name: Heila Technologies Inc.
+    
 - topic: Quantum Information Technologies (QT)
   permalink: /topics/quantum-information-technologies/
   topic_code: qt
@@ -493,12 +670,14 @@
       ttopic: qt
       bio: "comes to the NSF with a broad background in the physical sciences, and extensive experience in technology development and commercialization. Before joining NSF Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly traded company that he founded in Sydney, Australia. While at MIKOH Corporation he was instrumental in developing and commercializing technologies in a range of fields including diffractive optics, laser-based marking, radio frequency identification and internet-based personal authentication.) Prior to MIKOH he spent approximately seven years at the Overseas Telecommunications Commission (OTC Australia) where he managed optical fiber communications R&D, including approximately 14 months in the UK at British Telecom’s Martlesham Heath R&D laboratories. (While at OTC his research group made world-leading advances in high-speed optical communications technologies, some of which were commercialized via spin-off companies. He also managed the externally contracted development and commercialization of a number of optical fiber and optoelectronic  technologies, and was instrumental in establishing a commercialization center for specialized optical fibers at the University of Sydney. He moved to the United States in 1998 to further develop the company’s technologies and markets. Peter holds a Ph.D. in physics (Quantum Optics), and a BEng (Mech) – both from the University of Queensland (Australia)."
   subtopics:
-    - Quantum Communications (QT1)
-    - Quantum Computing (QT2)
-    - Quantum Sensing and Metrology (QT3)
-    - Quantum Simulation (QT4)
-    - Other Quantum Information Technologies (QT5)
+    - Quantum Algorithms (QT1)
+    - Quantum Communications (QT2)
+    - Quantum Computing (QT3)
+    - Quantum Sensing and Metrology (QT4)
+    - Quantum Simulation (QT5)
+    - Other Quantum Information Technologies (QT6)
   companies: 
+    - name: ATOM COMPUTING INC.
     - name: QC Ware Corp.
     
 - topic: Robotics (R)
@@ -517,12 +696,11 @@
     - Human-Machine Interfaces and Control/Architecture (R2)
     - Robotic Applications (R3)
     - Robotics in Agile Manufacturing, and Co-Robots (R4)
-    - Robotics in Education (R5)
-    - Other Robotics Technologies (R6)
+    - Other Robotics Technologies (R5)
   companies:
     - name: TACTAI
-    - name: Blue River Technology Inc
     - name: Artaic LLC
+    - name: Blue River Technology Inc
     - name: RightHand Robotics, LLC
     
 - topic: Semiconductors (S)
@@ -545,10 +723,10 @@
     - Processing and Metrology Technology (S6)
     - Other Semiconductor Technologies (S7)
   companies:
-    - name: Runtime Verification, Inc.
-    - name: NGCodec Inc.
-    - name: Astrileux Corporation
-    - name: TexasLDPC Inc., dba Symbyon Systems
+    - name: Uniqarta, Inc.
+    - name: Inpria
+    - name: Luxvue
+    - name: MOSAIC MICROSYSTEMS LLC
     
 - topic: Space (SP)
   permalink: /topics/space/
@@ -569,11 +747,15 @@
     - Navigation and Positioning Technologies (SP5)
     - On-Orbit Technologies (SP6)
     - Remote Sensing Technologies (SP7)
-    - Space Transportation and Access (SP8)
-    - Spacecraft Development and Manufacturing (SP9)
+    - Spacecraft Development and Manufacturing (SP8)
+    - Space Transportation and Access (SP9)
     - Telecommunications Technologies (SP10)
     - Other Space-related Technologies (SP11)
   companies:    
+    - name: Swarm Technologies, LLC
+    - name: UPSHOT VENTURES, LLC
+    - name: BLUE CRANIUM, LLC
+    - name: LONG ROAD ENTERPRISES
     
 - topic: Wireless Technologies (W)
   permalink: /topics/wireless-technologies/
@@ -590,7 +772,6 @@
     - Wireless Devices and Components (W1)
     - Wireless Systems (W2)
     - Other Wireless Technologies (W3)
-
   companies:
     - name: Altaeros Energies, Inc.
     - name: OceanComm Incorporated

@@ -7,7 +7,7 @@ hero:
 
   image: /assets/img/landing/ogilvy.jpg
   callout:
-    alt: We invest up to <br>$1.75 million in <br> seed funding.
+    alt: We invest up to <br>$2 million in <br> seed funding.
     text: And take zero equity.
   button:
     href: /apply/

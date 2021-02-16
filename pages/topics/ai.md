@@ -9,48 +9,16 @@ section_image_caption: |
 
 ---
 
-This topic focuses on innovations in the field of artificial intelligence (AI), which refers to intelligence exhibited by machines or software. AI is not a specific technology or technical method — it is instead a field of study aimed at achieving machine-based intelligence. Current AI technologies are targeted at specific problem sets. Artificial general intelligence — machines that can reason like humans — remains a more elusive long-term goal.  
+The Artificial Intelligence topic focuses on innovations in the field of artificial intelligence (AI), which refers to intelligence exhibited by machines or software. AI is not a specific technology or technical method – it is instead a field of study aimed at achieving machine-based intelligence. These subtopic areas are meant to serve as examples; all proposals with technical innovation and significant commercial potential are welcome, regardless of the specific area of focus of the project.  
 
-AI has the potential to be enormously societally disruptive, and the consequences of its introduction must be carefully considered. Proposers are encouraged to discuss possible negative effects of the proposed technology and how these may be avoided or mitigated. 
+### AI1. AI-optimized Hardware 
 
-AI proposals may be submitted either to a broad technical subtopic or under the primary application space, examples of which are listed below.
+### AI2. Computer Vision 
 
-### AI1. AI-Optimized Hardware (e.g., electronic chips)
+### AI3. Language-based AI 
 
-### AI2. Business Intelligence
+### AI4. Machine Learning 
 
-### AI3. Computer Vision, Image and Video Processing
-
-### AI4. Decision Management and Optimization (e.g., enterprise platforms, finance)
-
-### AI5. eCommerce
-
-### AI6. Education Technologies
-*Note: Applicants interested in proposing education-related projects that align with our program goals and criteria, but which are not related to AI, IT, or robotics, are welcome to submit their concepts under “Other Topics.”*
-
-### AI7. Human-Computer Interaction
-
-### AI8. Industrial Systems, including Robotics
-*Note: This subtopic includes AI innovations pertaining to Industrial Systems. Non-AI innovations related to Industrial Systems should be submitted to the Robotics (R) topic or another suitable topic.*
-
-### AI9. Language-Based Technologies (e.g., natural language processing, natural language generation, speech recognition, text analytics)
-
-### AI10. Machine Learning Algorithms and Platforms
-
-### AI11. Medical Diagnostics
-*Note: This subtopic includes AI innovations pertaining to Medical Diagnostics. Non-AI innovations related to Medical Diagnostics should be submitted to the Digital Health (DH) topic, the Medical Devices (MD) topic or another suitable topic.*
-
-### AI12. Sales, Advertising, and Marketing
-
-### AI13. Security, Cybersecurity, and Authentication
-
-### AI14. Smart Agriculture
-*Note: This subtopic includes AI innovations pertaining to Smart Agriculture. Non-AI innovations related to Smart Agriculture should be submitted to the Robotics (R) topic or another suitable topic.*
-
-### AI15. Vehicle-Based Systems
-
-### AI16. Virtual Agents and Assistants
-
-### AI17. Other AI Technologies
+### AI5. Other Artificial Intelligence Technologies 
 
  
