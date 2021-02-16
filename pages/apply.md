@@ -8,10 +8,8 @@ timeline:
       - step-1
       - step-2
       - step-3
-  - title: prior to the end of <br>the submission window
-    steps:
       - step-4
-  - title: upon invitation
+  - title: prior to the end of <br>the submission window <br>and upon invitation
     steps:
       - step-5
       - step-6
