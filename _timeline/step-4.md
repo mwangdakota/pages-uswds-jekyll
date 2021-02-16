@@ -1,6 +1,6 @@
 ---
 title: Submit your Project Pitch (required)
-description: Find out if your project is a good fit for the program. <br>Processing time&#58; Up to three weeks.
+description: Find out if your project is a good fit for the program. 
 ---
 
 Submit your Project Pitch using our [online form](https://nsfgov.secure.force.com/sbir/).
