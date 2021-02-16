@@ -83,7 +83,7 @@ In selected cases, we support innovations to existing products and services, but
 
 <div class="usa-width-two-thirds" markdown="1">
 
-- **Up to $1.75M / 24+ months.** Receive up to $256,000 in seed capital to conduct product [Research and Development (R&D)]({{ site.baseurl }}/research-and-development/) over six to 12 months. During this period, your company will be immersed in the NSF network and you’ll receive training and mentorship from seasoned entrepreneurs and innovators. After you complete your Phase I award, you’re welcome to apply for a second-round investment of $1,000,000 over 24 months. During the course of that award, you can apply for supplements that may add up to another $500,000.
+- **Up to $2M / 24+ months.** Receive up to $256,000 in seed capital to conduct product [Research and Development (R&D)]({{ site.baseurl }}/research-and-development/) over six to 12 months. During this period, your company will be immersed in the NSF network and you’ll receive training and mentorship from seasoned entrepreneurs and innovators. After you complete your Phase I award, you’re welcome to apply for a second-round investment of $1,000,000 over 24 months. During the course of that award, you can apply for supplements that may add up to another $500,000.
 
 - **Feedback from experts**: Every proposal is evaluated by a group of technical and commercial experts, who provide detailed feedback to all reviewed applications; even companies that don't receive awards get valuable, actionable feedback.
 
@@ -135,7 +135,7 @@ For complete program information, check out the latest [{{ site.data.solicitatio
   
 ## About NSF
 
-America's Seed Fund is a program within the [National Science Foundation](https://www.nsf.gov/) and housed within the [Division of Industrial Innovation and Partnerships](https://www.nsf.gov/div/index.jsp?div=IIP) within the Directorate of Engineering. NSF is a federal agency that supports fundamental research and education across all fields of science and engineering, currently with an $8.1 billion budget.
+America's Seed Fund is a program within the [National Science Foundation](https://www.nsf.gov/) and housed within the [Division of Industrial Innovation and Partnerships](https://www.nsf.gov/div/index.jsp?div=IIP) within the Directorate of Engineering. NSF is a federal agency that supports fundamental research and education across all fields of science and engineering, currently with an $8.5 billion budget.
 
 Through the merit review process, NSF funds the most innovative ideas in science and technology. Notable NSF-supported advances include Doppler radar, the Internet, web browsers, bar codes, magnetic resonance imaging, inkjet printers, computer-aided design systems, tissue engineering, and other technology-based innovations that spur economic activity and improve the quality of life for all Americans.
 </div>

@@ -1,8 +1,7 @@
 ---
 title: Submit your Project Pitch (required)
-description: Find out if your project is a good fit for the program.
+description: Find out if your project is a good fit for the program. 
 ---
-
 
 <a class="usa-button usa-button-primary button-arrow"  target="_blank" href="https://nsfiip.force.com/sbir">
 Submit your Project Pitch</a>

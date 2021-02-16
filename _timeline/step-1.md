@@ -7,7 +7,7 @@ title: See what we fund
 Here’s what we look for when determining which companies to fund:
 
 - **Transformative:** Your innovation could make a difference to people worldwide or revolutionize an industry.
-- **High-risk:** Your product is based on unproven technology that needs further testing (and funding for that testing).
+- **Technologically Innovative:** You need research and development funding to create new products, services, and other scalable solutions based on fundamental science or engineering. NSF does not fund straightforward engineering or incremental product development tasks.
 - **Market pull:** You have evidence that your product or service could meet an important, unmet need for your customers.
 - **Scale:** If you successfully bring your product or service to market, it could form the foundation for a scalable business and make a large impact in your target market.
 
@@ -21,4 +21,4 @@ Review this list of technology topic areas (sectors we fund) to see which best a
 
 {% include tech-topics-list.html %}
 
-[Download a searchable PDF of the full list of technology topic areas]({{ site.baseurl}}/assets/files/applicants/combined-topics-01-2020.pdf) that also includes descriptions of the subtopics.
+[Download a searchable PDF of the full list of technology topic areas]({{ site.baseurl}}/assets/files/applicants/combined-topics.pdf) that also includes descriptions of the subtopics.
