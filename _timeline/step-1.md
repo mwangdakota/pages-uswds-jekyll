@@ -21,4 +21,4 @@ Review this list of technology topic areas (sectors we fund) to see which best a
 
 {% include tech-topics-list.html %}
 
-[Download a searchable PDF of the full list of technology topic areas]({{ site.baseurl}}/assets/files/applicants/combined-topics-01-2020.pdf) that also includes descriptions of the subtopics.
+[Download a searchable PDF of the full list of technology topic areas]({{ site.baseurl}}/assets/files/applicants/combined-topics.pdf) that also includes descriptions of the subtopics.
