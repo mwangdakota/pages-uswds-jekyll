@@ -678,6 +678,7 @@
     - Other Quantum Information Technologies (QT6)
   companies: 
     - name: ATOM COMPUTING INC.
+    - name: QC Ware Corp.
     
 - topic: Robotics (R)
   permalink: /topics/robotics/
@@ -697,7 +698,6 @@
     - Robotics in Agile Manufacturing, and Co-Robots (R4)
     - Other Robotics Technologies (R5)
   companies:
-    - name: QC Ware Corp.
     - name: TACTAI
     - name: Artaic LLC
     - name: Blue River Technology Inc
