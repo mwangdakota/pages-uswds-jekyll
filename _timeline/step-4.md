@@ -5,7 +5,7 @@ description: Find out if your project is a good fit for the program.
 
 Submit your Project Pitch using our [online form](https://nsfgov.secure.force.com/sbir/).
 
-<em>*Each small business can only submit one Project Pitch at a time and up to two Project Pitches per submission window. The submission windows for 2020 are:<br/>
+<em>*Each small business can only submit one Project Pitch at a time and up to two Project Pitches per submission window. The submission windows for 2021 are:<br/>
  <br/>
 **{{ site.solicitation_window_1 }}<br/>
 {{ site.solicitation_window_2 }}<br/>
