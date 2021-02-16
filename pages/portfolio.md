@@ -95,7 +95,7 @@ Since 2012, America’s Seed Fund powered by NSF has made nearly 3,400 awards to
 
 {% include tech-subtopics.html %}
 <p style="margin-top:100px; width=150px;" class="text-small">
-  Updated: 10/1/2020 
+  Updated: 02/16/2021 
 </p>
 </div>
 </section>
