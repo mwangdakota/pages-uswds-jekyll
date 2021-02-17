@@ -9,8 +9,6 @@ sidenav: phase-1
 
 Interested in applying for Phase II funding? Review this information before starting your application.
 
-After a brief pause, new Phase II SBIR and STTR solicitations are expected in the weeks following the Dec. 3 closing date. Read our 2020 solicitations to get a sense of NSF’s objectives.
-
 <a class="usa-button usa-button-primary button-arrow" href="{{ site.data.solicitations['PHASE_II'].url }}">
   Read the SBIR Phase II Solicitation</a>
 
