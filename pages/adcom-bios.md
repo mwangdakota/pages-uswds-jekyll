@@ -33,13 +33,7 @@ layout: secondary-narrow
         <li class="pd-bio-content">
         <img src="{{ site.baseurl }}/assets/img/adcom/hewitt.jpg">
    <p class="bio"><strong>Christopher “Chris” Hewitt</strong> is Innovation Network Manager for BASF. In his role Chris is responsible for building connections inside and outside BASF to provide sustainable innovative solutions for its customers’ unmet needs. Chris is passionate about creating value through working as the interface between chemical technology and business and is a frequent panelist and invited speaker on university/corporate collaboration and teaches on business case development and innovation. Chris joined BASF in 2008 in a specialty chemical reagents business which he led as Global Business Manager from 2010. In 2014, he transitioned back to research, developing a strategy for and leading relations with universities and national labs in North America prior to his current role. Prior to joining BASF, he held positions with increasing responsibility in research and marketing at Sigma-Aldrich, latterly leading global marketing and R&D for the Aldrich catalog business. He earned a Ph.D. in chemistry from Durham University in the United Kingdom and is a Fellow of the Royal Society of Chemistry.</p>
-       </li>
-       
-   <a name="MatthewHiggins"></a>
-        <li class="pd-bio-content">
-        <img src="{{ site.baseurl }}/assets/img/adcom/matthew.jpg">
-   <p class="bio"><strong>Matthew J. Higgins</strong> is Professor of Entrepreneurship & Strategy in the David Eccles School of Business at the University of Utah, Director of the Sorenson Center for Discovery and Innovation, a Research Associate at the National Bureau of Economic Research and a Research Fellow at the Max Planck Institute for Innovation and Competition (Munich, Germany). His research interests center primarily on firm responses to productivity challenges and the performance implications of these decisions. Most of his research has been conducted within the context of the pharmaceutical industry and has been published in a diverse range of leading journals. Matthew has received funding and support from the Georgia Research Alliance, Kauffman Foundation, Rich Foundation, the National Institutes of Health (NIH), NSF, Pfizer Inc., and IMS Health, Inc. He is also the recipient of numerous teaching awards from the undergraduate, MBA and Executive MBA programs.</p>
-       </li>       
+       </li>      
 
    <a name="CathyHill"></a>
         <li class="pd-bio-content">
