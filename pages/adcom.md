@@ -49,13 +49,6 @@ The SBIR/STTR Subcommittee is a team of nationally recognized leaders from acade
    <span class="pd-list-content">
         <h3 class="pd-name"><a href="{{ site.baseurl }}/sbir-sttr-subcommittee-bios/#ChrisHewitt">Chris Hewitt</a></h3>
   </span>
-  </li> 
-   
-   <li class="pd-card" style="height: 35rem;">
-  <img src="{{ site.baseurl }}/assets/img/adcom/matthew.jpg" alt="Matthew J. Higgins  headshot">
-   <span class="pd-list-content">
-        <h3 class="pd-name"><a href="{{ site.baseurl }}/sbir-sttr-subcommittee-bios/#MatthewHiggins ">Matthew J. Higgins</a></h3>
-  </span>
   </li>  
 
    <li class="pd-card" style="height: 35rem;">
