@@ -7,6 +7,12 @@ sidenav: phase-2
 
 # Phase II reporting
 
+  
+  
+If your **Phase II proposal was submitted in the year 2020 or later**, please download and follow the instructions in [Phase II Interim Report PDF]({{site.baseurl}}/assets/files/awardees/NSF_Interim_Report2_02-19-21_Fillable.pdf). 
+
+If your **Phase II proposal was submitted in the year 2019 or earlier**, please follow the instructions below.
+
 All reporting is administered through Research.gov. Please see [Research.gov reporting information](http://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_page_n_about_por) for technical guidance and tips on the submission process. Contact the Research.gov help desk by email at [rgov@nsf.gov](mailto:rgov@nsf.gov) or call 1-800-381-1532. The requirements expected for the SBIR/STTR program are detailed below.
 
 
