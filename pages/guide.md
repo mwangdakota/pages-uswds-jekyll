@@ -73,7 +73,7 @@ Fill in
 <div><strong>1.2.1 Sign in page</strong></div>
 - Go to: [https://www.nsfiip.force.com/sbir](https://nsfiip.force.com/sbir){:target="_blank"}
 - Click on **“Forgot your password?”** 
-- For users who have forgotten their usernames or email address, email your first and last name to [sbirwebmaster@nsf.gov](mailto:sbirwebmaster@nsf.gov). 
+- For users who have forgotten their usernames or email address, email your first and last name to [iip-tech-support@nsf.gov](mailto:iip-tech-support@nsf.gov). 
 
 ![Sign in screen]({{ site.baseurl }}/assets/img/pitch/1-2-1.png)
 <div style="text-align:center;"><p><em>Figure 11 NSF sign in page</em></p></div>
