@@ -16,4 +16,6 @@ The Internet of Things (IoT) is a rapidly evolving field that involves the inter
 
 ### I3. IoT Sensors and Actuators 
 
-### I4. Other IoT Technologies
+### I4. Networking
+
+### I5. Other IoT Technologies
