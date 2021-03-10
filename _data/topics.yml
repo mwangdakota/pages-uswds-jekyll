@@ -11169,5 +11169,60 @@
   startDate: '08/15/2018'
   expDate: 07/31/2021
   title: 'STTR Phase II: A Low Cost Robotics kit for Elementary Education'    
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to develop a software application that identifies clinical outcomes to support high validity real-world evidence (RWE). Approaches to ensure data accuracy and protocol validity are critical to maintain safety and efficacy in healthcare.  This project will analyze electronic health data to generate clinically meaningful information for personalized treatment plans for patients with multiple conditions that can confound treatment. This technology will fulfill an unmet need to improve patient outcomes, improve healthcare delivery and chronic disease care management, and reduce healthcare costs for patients. This technology can also improve regulatory and reimbursement decision-making for therapeutic approaches.
+
+    This SBIR Phase II project will address the need for consideration of using additional health data to allow for individualized personalized therapeutic plans for patients with multiple co-morbidities. Subgroup analysis or individualized therapy plans for precision medicine are currently not available based upon the structure of randomized controlled trials for broad conditions like breast cancer or hypertension. This proposal seeks to identify clinical outcomes from unstructured Electronic Health Records (EHR). The proposed work is to develop analytics using natural language processing and inference to leverage the large amounts of health data from real-world evidence (RWE) and observational studies to augment data provided in randomized controlled trials (RCT). The analytic tools will allow a comparison of the effectiveness of various treatment protocols in defined cohorts of patients and develop a personalized treatment plan for an individual patient with multiple co-morbidities. The tasks include: 1) Leverage linguistic phrases extracted by natural language processing (NLP) to recognize outcome-related clinical findings to be maintained as clinical feature metadata; 2) Combine NLP and inference to accurately identify candidate clinical outcomes; and 3) Apply machine-learned and expert knowledge to accurately define complex outcome measures.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: '325 SHARON PARK DR # 730'
+  awardeeCity: MENLO PARK
+  awardeeCountryCode: US
+  awardeeName: VERANTOS, INC.
+  awardeeStateCode: CA
+  awardeeZipCode: '940256805'
+  fundsObligatedAmt: '999458'
+  fundProgramName: SBIR Phase II
+  id: '2024958'
+  ttopic: dh
+  covid: ''
+  piEmail: grants@verantos.com
+  piFirstName: Daniel
+  piLastName: Riskin
+  piMiddeInitial: J
+  piPhone: '6507777978'
+  poName: Alastair Monk
+  date: 12/21/2020
+  startDate: 01/01/2021
+  expDate: 12/31/2022
+  title: 'SBIR Phase II:  Determination of complex outcome measures using narrative
+    clinical data to enable observational trials'  
+- abstractText: |-
+    The broader impact of this Small Business Innovation Research (SBIR) Phase I project is to advance an improved system to sense and map  atmospheric conditions using nano-drones that are the size of small birds; these systems have benefited from recent innovations in miniature power electronics and flight control sensors.  The proposed project leverages the safety, cost and portability advantages of these small form factor aircraft in a system of coordinated drones flying in formation to measure wind, temperature, humidity and gas concentrations. Each flight of the swarm can cover hundreds of square miles, creating a high resolution 3D map of atmospheric properties. This enables the study of wind currents and gas movement for applications including detection of urban gas leaks, smog movement, and forest fire detection. Satellite measurements can be validated and improved through aerial measurements. This research will benefit public health.
+
+    This SBIR Phase I project will advance new software to analyze and optimize nano-drones. This project will expand the understanding of miniaturized (under 100 g) drone performance and enable the development of advanced nano-drones to carry out valuable sensing missions. This project will: (1) validate an optimization framework with laboratory test data; (2) develop a novel, portable drone docking station allowing for easy launching, landing and charging of hundreds or thousands of drones by a single operator, eventually enabling fully automated use for continuous monitoring applications; and (3) develop visualization and analysis tools to facilitate data analysis.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 12 CHANNEL ST STE 605
+  awardeeCity: BOSTON
+  awardeeCountryCode: US
+  awardeeName: GREENSIGHT AGRONOMICS, INC.
+  awardeeStateCode: MA
+  awardeeZipCode: '022102333'
+  fundsObligatedAmt: '255996'
+  fundProgramName: SBIR Phase I
+  id: '2036232'
+  ttopic: et
+  covid: ''
+  piEmail: james@greensightag.com
+  piFirstName: James
+  piLastName: Peverill
+  piPhone: '3392371291'
+  poName: Rajesh Mehta
+  date: 02/01/2021
+  startDate: 02/01/2021
+  expDate: '09/30/2021'
+  title: 'SBIR Phase I:  WeatherHive: High Resolution Environmental Sensing Using
+    Nanodrones'    
 ---
 
