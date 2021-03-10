@@ -9,7 +9,7 @@ sidenav: review
 
 **Please note:** Policies on this page reflect those of the Division of Industrial Innovation and Partnerships, NOT the entire National Science Foundation.
 
-The Division of Industrial Innovation and Partnerships uses WebEx software to facilitate virtual panel review. Please review the guides below to acquaint yourself with the process.
+The Division of Industrial Innovation and Partnerships uses Zoom software to facilitate virtual panel review. Please review the guides below to acquaint yourself with the process.
 
 If you are selected and confirmed to serve on a virtual panel for the Division of Industrial Innovation and Partnerships (ENG/IIP), you will be asked to participate via an online conferencing application (Zoom). We want this experience to be as simple and rewarding for you as participating on a face-to-face panel at NSF.  In order to achieve this goal we are providing some critical information below that you need to review prior to the scheduled panel date.
 
