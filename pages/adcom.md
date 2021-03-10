@@ -7,10 +7,10 @@ layout: secondary
 <div class="usa-content utility-content usa-grid">
 <div class="usa-width-one-whole">
 
-<h1>Members of the SBIR/STTR Subcommittee of the Directorate for Engineering Advisory Committee</h1>
+<h1>Members of the SBIR/STTR Stakeholder Subcommittee of the Directorate for Engineering Advisory Committee</h1>
 
 <p class="text-medium" markdown="1">
-The SBIR/STTR Subcommittee is a team of nationally recognized leaders from academia, industry, the investment community, and public organizations. Members guide NSF’s SBIR/STTR program on emerging industries and the evolution of the deep-technology startup community, participating in strategic initiatives to support the NSF’s mission of accelerating the growth of the nation’s innovation ecosystem.
+The SBIR/STTR Stakeholder Subcommittee is a team of nationally recognized leaders from academia, industry, the investment community, and public organizations. Members guide NSF’s SBIR/STTR program on emerging industries and the evolution of the deep-technology startup community, participating in strategic initiatives to support the NSF’s mission of accelerating the growth of the nation’s innovation ecosystem.
 </p>
 
 </div>
@@ -48,13 +48,6 @@ The SBIR/STTR Subcommittee is a team of nationally recognized leaders from acade
   <img src="{{ site.baseurl }}/assets/img/adcom/hewitt.jpg" alt="Chris Hewitt headshot">
    <span class="pd-list-content">
         <h3 class="pd-name"><a href="{{ site.baseurl }}/sbir-sttr-subcommittee-bios/#ChrisHewitt">Chris Hewitt</a></h3>
-  </span>
-  </li> 
-   
-   <li class="pd-card" style="height: 35rem;">
-  <img src="{{ site.baseurl }}/assets/img/adcom/matthew.jpg" alt="Matthew J. Higgins  headshot">
-   <span class="pd-list-content">
-        <h3 class="pd-name"><a href="{{ site.baseurl }}/sbir-sttr-subcommittee-bios/#MatthewHiggins ">Matthew J. Higgins</a></h3>
   </span>
   </li>  
 
