@@ -1,79 +1,34 @@
 ---
 - month: Jan
   events:
-    - eventname: Consumer Electronics Show (CES)
-      href: https://www.ces.tech/
-      desc: Find program staff in Eureka Park.
-    - eventname: ED Games Expo
-      href: https://ies.ed.gov/sbir/EdGamesExpo.asp
-    - eventname: DISTRIBUTECH International
-      href: https://www.distributech.com/index.html
-      desc: Find program staff to learn about funding opportunities.
 - month: Feb
   events:
-    - eventname: SPIE Photonics West 2020
-      href: https://spie.org/conferences-and-exhibitions/photonics-west?SSO=1
-      desc: Find NSF staff to learn about funding opportunities.
 - month: Mar
   events:
-    - eventname: SXSW (canceled)
-      href: https://www.sxsw.com/
-      desc: Find NSF staff to learn about funding opportunities.
 - month: Apr
-  events:
-    - eventname: Techstars Startup Week Portland (postponed)
-      href: https://portland.startupweek.co/
-    - eventname: MIT Energy Conference (online)
-      href: https://www.mitenergyconference.org/      
+  events: 
+    - eventname: NSBE (online)
+      href: http://convention.nsbe.org/  
 - month: May
   events:
     - eventname: ACA Summit (online)
-      href: https://events.angelcapitalassociation.org/2020summit
-    - eventname: Venture Summit West (online)
-      href: https://youngstartup.com/VSWest/
-      desc: NSF staff introduces investors and startups to the program.
+      href: https://events.angelcapitalassociation.org/2021summit
 - month: Jun
   events:
-    - eventname: BIO International Convention
-      href: https://www.bio.org/events/bio-international-convention
-    - eventname: Techstars Startup Week Detroit (online)
-      href: http://detroitstartupweek.com/
 - month: Jul
-  events:
-    - eventname: New York Venture Summit (online)
-      href: https://www.youngstartup.com/events.php
-      desc: NSF staff introduces investors and startups to the program.    
+  events:   
 - month: Aug
   events:
-    - eventname: SBIR Road Tour (online)
-      href: http://www.sbirroadtour.com/
-      desc: NSF program directors speak about funding opportunities in Montana, Idaho, Utah and Wyoming.
-    - eventname: NSBE (online)
-      href: http://convention.nsbe.org/
 - month: Sep
   events:
-    - eventname: NOBCChE (online)
-      href: https://www.nobcche.org/conference
-    - eventname: SBIR Road Tour (online)
-      href: http://www.sbirroadtour.com/
-      desc: NSF program directors speak about funding opportunities in North Carolina, South Carolina and Georgia.
 - month: Oct
   events:
     - eventname: AISES
       href: http://conference.aises.org/
     - eventname: SACNAS
       href: https://www.sacnas.org/what-we-do/conference/
-    - eventname: SBIR Road Tour (online)
-      href: http://www.sbirroadtour.com/
-      desc: NSF program directors speak about funding opportunities in Nebraska, Missouri, Illinois and Indiana.
 - month: Nov
   events:
-    - eventname: SBIR/STTR Innovation Conference
-      href: https://www.techconnectworld.com/World2020/
-      desc: Join NSF and other government agencies with similar programs for the annual conference.  
-    - eventname: SBIR Road Tour (online)
-      href: http://www.sbirroadtour.com/
-      desc: NSF program directors speak about funding opportunities in Mississippi, Louisiana, Texas, Oklahoma and Arkansas.
 - month: Dec
 
 ---
