@@ -1,0 +1,65 @@
+.dataTable-seedfund {
+  .dataTables_wrapper {
+    table.dataTable {
+      border-collapse: collapse;
+      margin-top: 1em;
+    
+      thead {
+        border-bottom: 1px solid #AEB0B5;
+
+        .sorting {
+          background-image: url('../img/sort_both.png');
+        }
+
+        .sorting_asc {
+          background-image: url('../img/sort_asc.png');
+        }
+
+        .sorting_desc {
+          background-image: url('../img/sort_desc.png');
+        }
+
+        tr {
+          th {
+            border: 0;
+            padding: 8px 20px 8px 8px;
+            background-color: transparent;
+            white-space: nowrap;
+            font-weight: 500;
+          }
+
+          th:focus {
+            outline: none;
+            border: 1px solid navy;
+          }
+        }
+      }
+
+      tbody {
+        tr {
+          border-bottom: 1px solid #AEB0B5;
+
+          &.odd, &.even {
+            background-color: transparent;
+
+            td, td[class^="sorting_"] {
+              background-color: transparent;
+              border: 0;
+            }
+          }
+        }
+      }
+    }
+
+    .dataTables_paginate .paginate_button {
+      padding: 0.5em;
+
+      &.current,
+      &.current:hover {
+        background: none;
+        border: none;
+        font-weight: bold;
+      }
+    }
+  }
+}

@@ -4,3 +4,7 @@
 
 <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
 {% include favicon.html %}
+
+{% if page.css %}
+<link rel="stylesheet" href="{{ page.css }}">
+{% endif %}

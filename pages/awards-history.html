@@ -1,0 +1,64 @@
+---
+layout: base
+title: Award History
+scripts: /assets/js/jquery.dataTables.min.js /assets/js/dataTablesConfig.js /assets/js/awards-history.js
+css: /assets/css/jquery.dataTables.min.css
+permalink: /awardees/history/
+---
+{% assign years = "" | split: '' %}
+{% for award in site.data.awards_history %}
+  {% assign year = award.AwardDate | split: '/' | last %}
+  {% assign years = years | push: year %}
+{% endfor %}
+{% assign years = years | uniq | sort | reverse %}
+
+<div class="usa-section usa-content usa-grid">
+  <h1>Award History</h1>
+  <p>View past awardees by award year.</p>
+
+  {% include loading.html msg='Loading awards...' %}
+
+  <div class="awards-history-container">
+    <ul class="awards-history-year-filters">
+      <li><button type="button" class="active btn link-btn">All</button></li>
+      {% for award_year in years %}<li><button type="button" class="btn link-btn">{{ award_year }}</button></li>
+      {% endfor %}
+    </ul>
+
+    <h2 class="awards-history-year-header"></h2>
+
+    <div class="awards-history-grid-container">
+      <div class="awards-history-grid-filters">
+        <h3>Filters</h3>
+        <h4>Phase</h4>
+        <div class="filter">
+          <input type="checkbox" id="phase1" name="phase1" value="phase1">
+          <label for="phase1">Phase 1</label>
+        </div>
+        <div class="filter">
+          <input type="checkbox" id="phase2" name="phase2" value="phase2">
+          <label for="phase2">Phase 2</label>
+        </div>
+        <h4>State</h4>
+        <div class="state-list">
+          {% for state in site.data.states %}
+          <div class="filter">
+            <input type="checkbox" id="state_{{ state.abbr }}" name="state_{{ state.abbr }}" value="{{ state.abbr }}" title="{{ state.name }}">
+            <label for="state_{{ state.abbr }}">{{ state.abbr }}</label>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+      <div class="awards-history-grid-view">
+        List View | <a href="#slj">Group by Awardee</a>
+      </div>
+      <div class="awards-history-year-download">
+        <a href="#">Downlaod</a>
+      </div>
+      <div class="dataTable-seedfund">
+        <table id="awards_history" class="display dataTable" width="100%"></table>
+      </div>
+    </div>
+
+  </div>
+</div>

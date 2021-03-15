@@ -1,0 +1,63 @@
+---
+layout: base
+title: Award History Details
+permalink: /awardees/history/details/
+---
+{% include loading.html msg='Loading company details...' %}
+
+<div id="awards-history-details" class="usa-section usa-content usa-grid">
+  <pre></pre><!-- this PRE tag is ONLY for pretty-printing raw JSON data; remove when HTML is built -->
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const award_id = window.location.search.slice(1).split('&')[0].split('=')[1];
+
+    fetch('{{ site.baseurl }}/data/awards-history.json').then(function (response) {
+      return response.json();
+
+    }).then(function (awards_history) {
+
+      let award = awards_history.filter(function (awrd) { return awrd.AwardID == award_id })[0];
+      return Promise.resolve(award);
+
+    }).then(function (award) {
+      /* Pretty-printing JSON, TODO - build real HTML markup */
+      let html = JSON.stringify(award, null, 2);
+
+      document.querySelector('#awards-history-details pre').innerHTML = html;
+      // When real HTML is built, replace line above with...
+      // document.querySelector('#awards-history-details').innerHTML = html;
+
+      document.querySelector('.results-loading').style.display = 'none';
+      /*
+      "AwardID": "{{ award.AwardID }}",
+      "Title": "{{ award.Title | replace: "'", "&#39;" }}",
+      "CalendarYear": "{{ award.CalendarYear }}",
+      "FiscalYear": "{{ award.FiscalYear }}",
+      "ProgramManager": "{{ award.ProgramManager | replace: "'", "&#39;" }}",
+      "Abstract": "{{ award.Abstract | replace: "'", "&#39;" }}",
+      "AwardDate": "{{ award.AwardDate }}",
+      "StartDate": "{{ award.StartDate }}",
+      "EndDate": "{{ award.EndDate }}",
+      "ProgramElementCode": "{{ award.ProgramElementCode }}",
+      "ProgramElementName": "{{ award.ProgramElementName | replace: "'", "&#39;" }}",
+      "AwardAmount": "{{ award.AwardAmount }}",
+      "PRCCode": "{{ award.PRCCode }}",
+      "TopicId": "{{ award.TopicId }}",
+      "TopicName": "{{ award.TopicName | replace: "'", "&#39;" }}",
+      "PIFirstName": "{{ award.PIFirstName | replace: "'", "&#39;" }}",
+      "PILastName": "{{ award.PILastName | replace: "'", "&#39;" }}",
+      "PIMiddle": "{{ award.PIMiddle | replace: "'", "&#39;" }}",
+      "PIPhoneNumber": "{{ award.PIPhoneNumber }}",
+      "PIEmail": "{{ award.PIEmail }}",
+      "InstitutionIdentifer": "{{ award.InstitutionIdentifer }}",
+      "InstitutionName": "{{ award.InstitutionName | replace: "'", "&#39;" }}",
+      "StreetAddress": "{{ award.StreetAddress | replace: "'", "&#39;" }}",
+      "CityName": "{{ award.CityName | replace: "'", "&#39;" }}",
+      "StateCode": "{{ award.StateCode }}",
+      "ZipCode": "{{ award.ZipCode }}"
+      */
+    });
+  });
+</script>
