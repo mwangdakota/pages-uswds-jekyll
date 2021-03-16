@@ -51,7 +51,7 @@ $(document).ready(function () {
           title: "COMPANY",
           render: function (data, type, row, meta) {
             if (type === 'display') {
-              data = '<a target="_blank" href="{{ site.baseurl }}/awardees/history/details/?company=' + row[6] + '">' + data + '</a>';
+              data = '<a target="_blank" href="{{ site.baseurl }}/awardees/history/details/?company=' + row[7] + '">' + data + '</a>';
             }
             return data;
           }
