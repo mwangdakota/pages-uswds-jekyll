@@ -30,6 +30,7 @@ $(document).ready(function () {
         award.AwardAmount,
         award.AwardDate,
         award.Abstract,
+        award.AwardID,
         award.CompanyUrl
       ];
     })
@@ -40,6 +41,8 @@ $(document).ready(function () {
     var config = Object.assign(dataTablesConfig(), {
       initComplete: function (settings, json) {
         $('.results-loading').hide();
+        $('.awards-history-container .dataTables_filter input').attr('title', 'Enter one or more search terms');
+        $('.dt-buttons .buttons-csv').attr('title', 'Download as CSV')
         $('.awards-history-container').show();
       },
       data: awards_history,
@@ -58,7 +61,8 @@ $(document).ready(function () {
         { title: "AWARD AMOUNT" },
         { title: "AWARD DATE" },
         { title: "ABSTRACT" },
-        { title: "AWARD ID" }
+        { title: "AWARD ID" },
+        { title: "COMPANY URL"}
       ],
       // dom: 'Blfrtip',
       dom: 'flBrtip',
@@ -66,8 +70,9 @@ $(document).ready(function () {
         {
           extend: 'csv',
           text: 'Download',
+          filename: 'nsf_seedfund_award_history',
           exportOptions: {
-            columns: ':visible'
+            columns: [6, 0, 1, 2, 3, 4, 5]
           }
         }
       ]

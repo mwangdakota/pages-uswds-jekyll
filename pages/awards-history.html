@@ -15,20 +15,21 @@ permalink: /awardees/history/
 
 <div class="usa-section usa-content usa-grid">
   <h1>Award History</h1>
-  <p>View past awardees by award year.</p>
+  <p>View awardees by award year.</p>
 
   {% include loading.html msg='Loading awards...' %}
 
   <div class="awards-history-container">
     <ul class="awards-history-year-filters">
-      <li><button type="button" class="xxactive xxbtn xxlink-btn">All</button></li>
-      {% for award_year in years %}<li><button type="button" class="{% if award_year == current_year %}active{% endif %} xxbtn xxlink-btn">{{ award_year }}</button></li>
+      <li><button type="button">All</button></li>
+      {% for award_year in years %}<li><button type="button" class="{% if award_year == current_year %}active{% endif %}">{{ award_year }}</button></li>
       {% endfor %}
     </ul>
 
     <div class="awards-history-grid-container">
       <div class="awards-history-grid-filters">
         <h3>Filters</h3>
+        <button class="clear-filters-btn">Clear All</button>
         <h4>Phase</h4>
         <div class="filter">
           <input type="checkbox" id="phase1" name="phase1" value="phase1">
