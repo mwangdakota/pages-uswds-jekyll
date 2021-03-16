@@ -5,8 +5,7 @@ permalink: /awardees/history/details/
 ---
 {% include loading.html msg='Loading company details...' %}
 
-<div id="awards-history-details" class="usa-section usa-content usa-grid">
-  <pre></pre><!-- this PRE tag is ONLY for pretty-printing raw JSON data; remove when HTML is built -->
+<div id="awards-history-details">
 </div>
 
 <script>
@@ -22,10 +21,110 @@ permalink: /awardees/history/details/
       return Promise.resolve(award);
 
     }).then(function (award) {
-      /* Pretty-printing JSON, TODO - build real HTML markup */
-      let html = JSON.stringify(award, null, 2);
+      
+      let html = '';
 
-      document.querySelector('#awards-history-details pre').innerHTML = html;
+      for (let awd of award) {
+        html += '' +
+          '<div id="awards-details-list">' +
+            '<div class="usa-grid usa-section">' +
+              '<h1 class="h2 subhead uppercase results-phase" style="">' + awd.ProgramElementName + '</h1>' +
+              '<h2 class="h1 results-company-title" style="">' + awd.ProgramElementName + '</h2>' +
+              '<ul class="list results list-reset" style="">' +
+                '<li id="' + awd.CompanyUrl + '" class="usa-grid-full">' +
+                  '<div class="mb5 mt5">' +
+                    '<h1 class="h2 awardeeName usa-sr-only">' + awd.InstitutionName + '</h1>' +
+                    '<h2 class="title h5 font-regular">' + awd.Title + '</h2>' +
+                  '</div>' +
+
+                  '<div class="usa-grid-full ">' +
+                    '<div class="usa-width-one-fourth">' +
+                      '<address>' +
+                        '<div class="mb5">' +
+                          '<h4 class="subhead uppercase">Team</h4>' +
+                          '<p class="piName font-bold">' +
+
+                            '<a href="mailto:' + awd.PIEmail + '">' + awd.PIFirstName + ' ' + awd.PILastName +
+                            '</a>' +
+
+                          '</p>' +
+                          '<p><a href="tel:' + awd.PIPhoneNumber + '">' + awd.PIPhoneNumber + '</a></p>' +
+
+                          '<p>Principal Investigator</p>' +
+                        '</div>' +
+                        '<div class="mb5">' +
+                          '<h4 class="subhead uppercase">Contact</h4>' +
+
+                          '<p>' + awd.StreetAddress + '</p>' +
+
+                          '<p class="city">' +
+                            awd.CityName + ', ' + awd.StateCode + ' ' + awd.ZipCode +
+                          '</p>' +
+
+                        '</div>' +
+                      '</address>' +
+                          
+          
+          
+                      '<div class="mb5">' +
+                        '<h4 class="subhead uppercase">NSF Award</h4>' +
+                        '<p class="id">' + awd.AwardID + ' – ' + awd.ProgramElementName + '</p>' +
+                      '</div>' +
+                      '<div class="mb5">' +
+                        '<h4 class="subhead uppercase">Award amount to date</h4>' +
+                        '<p class="amount">' + awd.AwardAmount + '</p>' +
+                      '</div>' +
+                      '<div class="mb5">' +
+
+                        '<h4 class="subhead uppercase">Start / end date</h4>' +
+                        '<p>' + awd.StartDate + ' – ' + awd.EndDate + '</p>' +
+
+                      '</div>' +
+                      '<div class="mb5">' +
+                        '<h4 class="subhead uppercase">Errata</h4>' +
+                        '<p class="abstractText">Please report errors in award information by writing to <a href="mailto:awardsearch@nsf.gov">awardsearch@nsf.gov</a>.</p>' +
+                      '</div>' +
+                      '<div class="mb5">' +
+                        '<h4 class="subhead uppercase">Addenda</h4>' +
+                        '<p class="abstractText">If you&#39;re a member of this company, you may <a' +
+                            'href="https://github.com/18F/nsf-sbir/issues/new">submit updates and supplemental company information' +
+                            'via GitHub</a>.</p>' +
+                      '</div>' +
+                    '</div>' +
+
+                    '<div class="usa-width-three-fourths">' +
+                        '<div class="mb5">' +
+                        '<h4 class="subhead uppercase">Abstract</h4>' +
+                        '<p class="abstractText">' + awd.Abstract + '</p>' +
+                      '</div>' +
+                      
+                    '<div style="color:#323A45; background:rgb(155, 218, 241, 0.55); padding:3rem; margin-bottom: 3rem; font-size:1.3rem;">' +
+			'<p style="text-align:right;font-size:1.4rem;"><em>This information has been provided by</em>' +
+			'<img width="150px"style="margin-left:5px;"src="../../../assets/img/pitch-book-logo.png" /></p><br>' +
+			'<strong style="font-size:1.6rem;"> Company Description</strong><br>' +
+			'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br>' +
+			'<strong style="font-size:1.6rem;">Total Raised</strong><br>' +
+			'$100,000<br><br>' +
+			'<strong style="font-size:1.6rem;">Website</strong><br>' +
+			'http://www.3IDiagnostics.com<br><br>' +
+			'<strong style="font-size:1.6rem;">Year Founded</strong><br>' +
+			'2020<br><br><strong style="font-size:1.6rem;">Number of Employees</strong><br>' +
+			'55<br><br>' +
+			'<span style="font-size:1.2rem;"><em>Disclaimer: Company Data presented by NSF: (1) is the property of and proprietary to PitchBook Data, Inc.; (2) may not be copied, reproduced, or distributed; and (3) is not warranted to be accurate, complete nor timely. Neither PitchBook Data nor the National Science Foundation are responsible for any damages or losses arising from any use of such Data.</em></span>' +
+		    '</div>' +
+
+                      
+                    '</div>' +
+                  '</div>' +
+                '</li>' +
+              '</ul>' +
+              
+
+            '</div>' +
+          '</div>' 
+      } 
+
+      document.querySelector('#awards-history-details').innerHTML = html;
       // When real HTML is built, replace line above with...
       // document.querySelector('#awards-history-details').innerHTML = html;
 
