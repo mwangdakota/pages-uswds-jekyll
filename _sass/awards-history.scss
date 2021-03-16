@@ -38,10 +38,6 @@
     }
   }
 
-  .awards-history-year-header {
-    display: none;
-  }
-
   .awards-history-grid-container {
     position: relative;
   
@@ -91,12 +87,11 @@
     }
 
     .awards-history-grid-view {
-      text-align: right;
-    }
-
-    .awards-history-year-download {
-      text-align: right;
       display: none;
+      position: absolute;
+      top: 3.25rem;
+      right: 0;
+      z-index: 10;
     }
 
     .dataTables_wrapper {
@@ -104,8 +99,8 @@
       margin-left: 7em;
 
       .dataTables_length {
-        float: right;
         margin-top: 1.2em;
+        margin-left: 2em;
   
         label {
           margin-top: 0;
@@ -136,6 +131,20 @@
           margin-left: 0;
           height: 2.3rem;
           background: white;
+        }
+      }
+
+      .dt-buttons {
+        float: right;
+        margin-top: .8em;
+
+        button {
+          min-width: unset;
+
+          &:hover {
+            color: black;
+            background: #FFE61A;
+          }
         }
       }
 

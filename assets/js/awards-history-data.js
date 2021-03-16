@@ -29,7 +29,8 @@ permalink: /data/awards-history.json
     "StreetAddress": "{{ award.StreetAddress | replace: "'", "&#39;" | replace: '"', "&#34;" }}",
     "CityName": "{{ award.CityName | replace: "'", "&#39;" | replace: '"', "&#34;" }}",
     "StateCode": "{{ award.StateCode }}",
-    "ZipCode": "{{ award.ZipCode }}"
+    "ZipCode": "{{ award.ZipCode }}",
+    "CompanyUrl": "{{ award.InstitutionName | slugify }}"
   }{% if forloop.last == false %},{% endif %}
   {% endfor %}
 ]

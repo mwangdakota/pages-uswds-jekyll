@@ -30,15 +30,14 @@ $(document).ready(function () {
         award.AwardAmount,
         award.AwardDate,
         award.Abstract,
-        award.AwardID
+        award.CompanyUrl
       ];
     })
 
     return Promise.resolve(awards_history);
 
   }).then(function (awards_history) {
-
-    dt = $('#awards_history').DataTable(Object.assign(dataTablesConfig(), {
+    var config = Object.assign(dataTablesConfig(), {
       initComplete: function (settings, json) {
         $('.results-loading').hide();
         $('.awards-history-container').show();
@@ -49,7 +48,7 @@ $(document).ready(function () {
           title: "COMPANY",
           render: function (data, type, row, meta) {
             if (type === 'display') {
-              data = '<a target="_blank" href="{{ site.baseurl }}/awardees/history/details/?award_id=' + row[6] + '">' + data + '</a>';
+              data = '<a target="_blank" href="{{ site.baseurl }}/awardees/history/details/?company=' + row[6] + '">' + data + '</a>';
             }
             return data;
           }
@@ -60,8 +59,21 @@ $(document).ready(function () {
         { title: "AWARD DATE" },
         { title: "ABSTRACT" },
         { title: "AWARD ID" }
+      ],
+      // dom: 'Blfrtip',
+      dom: 'flBrtip',
+      buttons: [
+        {
+          extend: 'csv',
+          text: 'Download',
+          exportOptions: {
+            columns: ':visible'
+          }
+        }
       ]
-    }));
+    });
+    
+    dt = $('#awards_history').DataTable(config);
 
     $('.dataTables_filter label')[0].childNodes[0].nodeValue = "Keyword Search";
 
@@ -70,13 +82,11 @@ $(document).ready(function () {
       $('.awards-history-year-filters button').removeClass('active');
       target.addClass('active');
       if (target.text() !== 'All') {
-        $('.awards-history-year-header').text(target.text() + ' Awardees').show();
-        $('.awards-history-year-download').show();
+        $('.dt-buttons').show();
         $('.awards-history-grid-view').hide();
       } else {
-        $('.awards-history-year-header').hide();
-        $('.awards-history-year-download').hide();
-        $('.awards-history-grid-view').show();
+        $('.dt-buttons').hide();
+        $('.awards-history-grid-view').css('display', 'inline-block');
       }
       dt.draw();
     });

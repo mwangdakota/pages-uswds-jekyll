@@ -11,14 +11,14 @@ permalink: /awardees/history/details/
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
-    const award_id = window.location.search.slice(1).split('&')[0].split('=')[1];
+    const company_url = window.location.search.slice(1).split('&')[0].split('=')[1];
 
     fetch('{{ site.baseurl }}/data/awards-history.json').then(function (response) {
       return response.json();
 
     }).then(function (awards_history) {
 
-      let award = awards_history.filter(function (awrd) { return awrd.AwardID == award_id })[0];
+      let award = awards_history.filter(function (awrd) { return awrd.CompanyUrl == company_url });
       return Promise.resolve(award);
 
     }).then(function (award) {

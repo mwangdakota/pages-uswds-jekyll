@@ -1,12 +1,20 @@
-  const dataTablesConfig = function() {
-    return {
-      lengthMenu: [[25, 50, 100, -1], [25, 50, 100, "All"]],
-      language: {
-        info: "_START_ to _END_ of _TOTAL_",
-        paginate: {
-          previous: '&lt;',
-          next: '&gt;'
-        }
+const dataTablesConfig = function () {
+  return {
+    lengthMenu: [[25, 50, 100, -1], [25, 50, 100, "All"]],
+    language: {
+      info: "_START_ to _END_ of _TOTAL_",
+      infoFiltered: "",
+      paginate: {
+        previous: '&lt;',
+        next: '&gt;'
       }
+    },
+    preDrawCallback: function (settings) {
+      var api = new $.fn.dataTable.Api(settings);
+      var pagination = $(this)
+        .closest('.dataTables_wrapper')
+        .find('.dataTables_paginate');
+      pagination.toggle(api.page.info().pages > 1);
     }
   }
+}
