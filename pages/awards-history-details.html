@@ -43,7 +43,7 @@ permalink: /awardees/history/details/
                           '<h4 class="subhead uppercase">Team</h4>' +
                           '<p class="piName font-bold">' +
 
-                            '<a href="mailto:' + awd.PIEmail + '">' + awd.PIFirstName + awd.PILastName +
+                            '<a href="mailto:' + awd.PIEmail + '">' + awd.PIFirstName + ' ' + awd.PILastName +
                             '</a>' +
 
                           '</p>' +
@@ -79,13 +79,6 @@ permalink: /awardees/history/details/
                         '<p>' + awd.StartDate + ' – ' + awd.EndDate + '</p>' +
 
                       '</div>' +
-                    '</div>' +
-
-                    '<div class="usa-width-three-fourths">' +
-                        '<div class="mb5">' +
-                        '<h4 class="subhead uppercase">Abstract</h4>' +
-                        '<p class="abstractText">' + awd.Abstract + '</p>' +
-                      '</div>' +
                       '<div class="mb5">' +
                         '<h4 class="subhead uppercase">Errata</h4>' +
                         '<p class="abstractText">Please report errors in award information by writing to <a href="mailto:awardsearch@nsf.gov">awardsearch@nsf.gov</a>.</p>' +
@@ -96,6 +89,14 @@ permalink: /awardees/history/details/
                             'href="https://github.com/18F/nsf-sbir/issues/new">submit updates and supplemental company information' +
                             'via GitHub</a>.</p>' +
                       '</div>' +
+                    '</div>' +
+
+                    '<div class="usa-width-three-fourths">' +
+                        '<div class="mb5">' +
+                        '<h4 class="subhead uppercase">Abstract</h4>' +
+                        '<p class="abstractText">' + awd.Abstract + '</p>' +
+                      '</div>' +
+                      
 
                       
                     '</div>' +
