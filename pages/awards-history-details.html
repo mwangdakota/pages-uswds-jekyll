@@ -21,6 +21,9 @@ permalink: /awardees/history/details/
       return Promise.resolve(award);
 
     }).then(function (award) {
+	
+      var phs = (awd.ProgramElementName).substring(5);
+      
       let html = '';
 
       for (let awd of award) {
@@ -28,7 +31,7 @@ permalink: /awardees/history/details/
           '<div id="awards-details-list">' +
             '<div class="usa-grid usa-section">' +
               '<h1 class="h2 subhead uppercase results-phase" style="">' + awd.ProgramElementName + '</h1>' +
-              '<h2 class="h1 results-company-title" style="">' + awd.InstitutionName + '</h2>' +
+              '<h2 class="h1 results-company-title" style="">' + phs + '</h2>' +
               '<ul class="list results list-reset" style="">' +
                 '<li id="' + awd.CompanyUrl + '" class="usa-grid-full">' +
                   '<div class="mb5 mt5">' +
