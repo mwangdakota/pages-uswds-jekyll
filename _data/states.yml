@@ -3,8 +3,6 @@
   abbr: AL
 - name: Alaska
   abbr: AK
-- name: American Samoa
-  abbr: AS
 - name: Arizona
   abbr: AZ
 - name: Arkansas
@@ -23,8 +21,6 @@
   abbr: FL
 - name: Georgia
   abbr: GA
-- name: Guam
-  abbr: GU
 - name: Hawaii
   abbr: HI
 - name: Idaho
@@ -79,12 +75,8 @@
   abbr: OK
 - name: Oregon
   abbr: OR
-- name: Palau
-  abbr: PW
 - name: Pennsylvania
   abbr: PA
-- name: Puerto Rico
-  abbr: PR
 - name: Rhode Island
   abbr: RI
 - name: South Carolina

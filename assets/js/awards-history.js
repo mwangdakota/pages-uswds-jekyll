@@ -1,22 +1,53 @@
 ---
 ---
 
-// Year filter
+function init_awards_history_filters() {
+  return {
+    year: '{{ site.time | date: "%Y" }}',
+    states: {}
+  };
+}
+
+awards_history_filters = init_awards_history_filters();
+
 $.fn.dataTable.ext.search.push(
+
+  // Year filter
   function (settings, data, dataIndex) {
-    // if 'All' return true, else return true if year matches active link year
-    const activeYear = $('.awards-history-year-filters .active').text();
     const year = data[4].split('/')[2];
-    if (activeYear === 'All') {
+
+    if (awards_history_filters.year === 'All') {
       return true;
     } else {
-      return activeYear == year;
+      return awards_history_filters.year === year;
     }
+  },
+
+  // Phase 1/II filter
+  function (settings, data, dataIndex) {
+    if (!awards_history_filters.phase1 && !awards_history_filters.phase2) {
+      return true;
+    }
+
+    return (awards_history_filters.phase1 && data[8].endsWith('Phase I')) ||
+      (awards_history_filters.phase2 && data[8].endsWith('Phase II'));
+  },
+
+  // States filter
+  function (settings, data, dataIndex) {
+    if (! $('.awards-history-grid-filters .state-list input[type="checkbox"]:checked').length ) {
+      return true;
+    }
+
+    let state = data[1].slice(-2);
+    return !!awards_history_filters.states[state];
   }
 );
 
 $(document).ready(function () {
   let dt;
+
+  awards_history_filters.year = $('.awards-history-year-filters .active').text();
 
   fetch('{{ site.baseurl }}/data/awards-history.json').then(function (response) {
     return response.json();
@@ -31,7 +62,8 @@ $(document).ready(function () {
         award.AwardDate,
         award.Abstract,
         award.AwardID,
-        award.CompanyUrl
+        award.CompanyUrl,
+        award.ProgramElementName
       ];
     })
 
@@ -62,7 +94,8 @@ $(document).ready(function () {
         { title: "AWARD DATE" },
         { title: "ABSTRACT" },
         { title: "AWARD ID" },
-        { title: "COMPANY URL"}
+        { title: "COMPANY URL"},
+        { title: "PHASE" }
       ],
       // dom: 'Blfrtip',
       dom: 'flBrtip',
@@ -84,6 +117,7 @@ $(document).ready(function () {
 
     $('.awards-history-year-filters button').click(function (evt) {
       const target = $(evt.target);
+      awards_history_filters.year = target.text();
       $('.awards-history-year-filters button').removeClass('active');
       target.addClass('active');
       if (target.text() !== 'All') {
@@ -94,6 +128,33 @@ $(document).ready(function () {
         $('.awards-history-grid-view').css('display', 'inline-block');
       }
       dt.draw();
+    });
+
+    $('.awards-history-grid-filters input[id^="phase"]').change(function(evt) {
+      console.log('PHASE CHANGED', Date.now())
+      awards_history_filters[evt.target.id] = evt.target.checked;
+      dt.draw();
+    });
+
+    $('.awards-history-grid-filters .state-list input[type="checkbox"]').change(function(evt) {
+      console.log('STATE CHANGED', Date.now())
+      awards_history_filters.states[evt.target.value] = evt.target.checked;
+      dt.draw();
+    });
+
+    $('.awards-history-grid-filters .clear-filters-btn').click(function() {
+      $('.awards-history-grid-filters input[type="checkbox"]').prop('checked', false);
+      const keyword_search = $('#awards_history_filter input');
+      keyword_search.val('');
+
+      const length_select = $('select[name="awards_history_length"]');
+      length_select.val(
+        length_select[0].options[0].getAttribute('value')
+      )
+
+      awards_history_filters = init_awards_history_filters();
+
+      dt.page.len(parseInt(length_select.val(), 10)).search('').draw();
     });
 
   });
