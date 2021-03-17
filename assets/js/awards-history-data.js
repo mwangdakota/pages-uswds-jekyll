@@ -15,7 +15,7 @@ permalink: /data/awards-history.json
     "EndDate": "{{ award.EndDate }}",
     "ProgramElementCode": "{{ award.ProgramElementCode }}",
     "ProgramElementName": "{{ award.ProgramElementName | replace: "'", "&#39;" | replace: '"', "&#34;" }}",
-    "AwardAmount": "{{ award.AwardAmount }}",
+    "AwardAmount": "{{ award.AwardAmount | usd_pretty }}",
     "PRCCode": "{{ award.PRCCode }}",
     "TopicId": "{{ award.TopicId }}",
     "TopicName": "{{ award.TopicName | replace: "'", "&#39;" | replace: '"', "&#34;" }}",

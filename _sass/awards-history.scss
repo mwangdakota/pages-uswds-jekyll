@@ -29,6 +29,10 @@
       margin: 0;
       min-width: auto;
       border-bottom: 1px dotted #027;
+
+      &:focus {
+        box-shadow: none;
+      }
     }
 
     .active {
@@ -36,6 +40,8 @@
       color: #323A45;
       border: none;
       font-weight: bold;
+      position: relative;
+      top: -0.1rem;
     }
   }
 
@@ -156,7 +162,7 @@
         }
       }
 
-      .dt-buttons {
+      .dt-buttons, .dl-csv {
         float: right;
         margin-top: .8em;
 

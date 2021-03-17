@@ -42,7 +42,7 @@ $(document).ready(function () {
       initComplete: function (settings, json) {
         $('.results-loading').hide();
         $('.awards-history-container .dataTables_filter input').attr('title', 'Enter one or more search terms');
-        $('.dt-buttons .buttons-csv').attr('title', 'Download as CSV')
+        $('.dt-buttons .buttons-csv').attr('class', 'dl-csv usa-button usa-button-primary').attr('title', 'Download as CSV')
         $('.awards-history-container').show();
       },
       data: awards_history,
@@ -87,10 +87,10 @@ $(document).ready(function () {
       $('.awards-history-year-filters button').removeClass('active');
       target.addClass('active');
       if (target.text() !== 'All') {
-        $('.dt-buttons').show();
+        $('.dl-csv').show();
         $('.awards-history-grid-view').hide();
       } else {
-        $('.dt-buttons').hide();
+        $('.dl-csv').hide();
         $('.awards-history-grid-view').css('display', 'inline-block');
       }
       dt.draw();
