@@ -13,8 +13,9 @@ awards_history_filters = init_awards_history_filters();
 $.fn.dataTable.ext.search.push(
 
   // Year filter
-  function (settings, data, dataIndex) {
-    const year = data[4].split('/')[2];
+  function (settings, data, dataIndex, dataObj) {
+    const year = dataObj.award_date.split('/')[2];
+
 
     if (awards_history_filters.year === 'All') {
       return true;
@@ -24,22 +25,23 @@ $.fn.dataTable.ext.search.push(
   },
 
   // Phase 1/II filter
-  function (settings, data, dataIndex) {
+  function (settings, data, dataIndex, dataObj) {
     if (!awards_history_filters.phase1 && !awards_history_filters.phase2) {
       return true;
     }
 
-    return (awards_history_filters.phase1 && data[8].endsWith('Phase I')) ||
-      (awards_history_filters.phase2 && data[8].endsWith('Phase II'));
+    return (awards_history_filters.phase1 && dataObj.phase.endsWith('Phase I')) ||
+      (awards_history_filters.phase2 && dataObj.phase.endsWith('Phase II'));
   },
 
   // States filter
-  function (settings, data, dataIndex) {
+  function (settings, data, dataIndex, dataObj) {
     if (! $('.awards-history-grid-filters .state-list input[type="checkbox"]:checked').length ) {
       return true;
     }
 
-    let state = data[1].slice(-2);
+    let state = dataObj.city_state.slice(-2);
+
     return !!awards_history_filters.states[state];
   }
 );
@@ -54,17 +56,17 @@ $(document).ready(function () {
   }).then(function (data) {
 
     let awards_history = data.map(function (award) {
-      return [
-        award.InstitutionName,
-        award.CityName + ', ' + award.StateCode,
-        award.Title,
-        award.AwardAmount,
-        award.AwardDate,
-        award.Abstract,
-        award.AwardID,
-        award.CompanyUrl,
-        award.ProgramElementName
-      ];
+      return {
+        company: award.InstitutionName,
+        city_state: award.CityName + ', ' + award.StateCode,
+        title: award.Title,
+        amount: award.AwardAmount,
+        award_date: award.AwardDate,
+        abstract: award.Abstract,
+        id: award.AwardID,
+        url: award.CompanyUrl,
+        phase: award.ProgramElementName
+      };
     })
 
     return Promise.resolve(awards_history);
@@ -80,29 +82,30 @@ $(document).ready(function () {
       data: awards_history,
       columns: [
         {
-          title: "COMPANY",
+          title: 'COMPANY',
+          data: 'company',
           render: function (data, type, row, meta) {
             if (type === 'display') {
-              data = '<a target="_blank" href="{{ site.baseurl }}/awardees/history/details/?company=' + row[7] + '">' + data + '</a>';
+              data = '<a target="_blank" href="{{ site.baseurl }}/awardees/history/details/?company=' + row.url + '">' + row.company + '</a>';
             }
             return data;
           }
         },
-        { title: "CITY/STATE" },
-        { title: "AWARD TITLE" },
-        { title: "AWARD AMOUNT" },
-        { title: "AWARD DATE" },
-        { title: "ABSTRACT" },
-        { title: "AWARD ID" },
-        { title: "COMPANY URL"},
-        { title: "PHASE" }
+        { title: 'CITY/STATE', data: 'city_state' },
+        { title: 'AWARD ID', data: 'id' },
+        { title: 'AWARD TITLE', data: 'title' },
+        { title: 'AWARD AMOUNT', data: 'amount' },
+        { title: 'AWARD DATE', data: 'award_date' },
+        { title: 'ABSTRACT', data: 'abstract' },
+        { title: 'COMPANY URL', data: 'url' },
+        { title: 'PHASE', data: 'phase' }
       ],
-      // dom: 'Blfrtip',
+      lengthMenu: [[50, 100, -1], [50, 100, "All"]],
       dom: 'flBrtip',
       buttons: [
         {
           extend: 'csv',
-          text: 'Download',
+          text: 'Download results to CSV',
           filename: 'nsf_seedfund_award_history',
           exportOptions: {
             columns: [6, 0, 1, 2, 3, 4, 5]
@@ -131,13 +134,11 @@ $(document).ready(function () {
     });
 
     $('.awards-history-grid-filters input[id^="phase"]').change(function(evt) {
-      console.log('PHASE CHANGED', Date.now())
       awards_history_filters[evt.target.id] = evt.target.checked;
       dt.draw();
     });
 
     $('.awards-history-grid-filters .state-list input[type="checkbox"]').change(function(evt) {
-      console.log('STATE CHANGED', Date.now())
       awards_history_filters.states[evt.target.value] = evt.target.checked;
       dt.draw();
     });
