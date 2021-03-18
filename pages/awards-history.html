@@ -21,8 +21,8 @@ permalink: /awardees/history/
 
   <div class="awards-history-container">
     <ul class="awards-history-year-filters">
-      <li><button type="button">All</button></li>
-      {% for award_year in years %}<li><button type="button" class="{% if award_year == current_year %}active{% endif %}">{{ award_year }}</button></li>
+      <li><button type="button" class="active">All</button></li>
+      {% for award_year in years %}<li><button type="button">{{ award_year }}</button></li>
       {% endfor %}
     </ul>
 
@@ -42,7 +42,7 @@ permalink: /awardees/history/
         <h4>State</h4>
         <div class="state-list">
           {% for state in site.data.states %}
-          <div class="filter">
+          <div class="filter" data-state="{{ state.abbr }}">
             <input type="checkbox" id="state_{{ state.abbr }}" name="state_{{ state.abbr }}" value="{{ state.abbr }}" title="{{ state.name }}">
             <label for="state_{{ state.abbr }}">{{ state.abbr }}</label>
           </div>

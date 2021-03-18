@@ -3,7 +3,7 @@
 
 function init_awards_history_filters() {
   return {
-    year: '{{ site.time | date: "%Y" }}',
+    year: 'All',
     states: {}
   };
 }
@@ -50,6 +50,28 @@ $(document).ready(function () {
   let dt;
 
   awards_history_filters.year = $('.awards-history-year-filters .active').text();
+
+  function adjustStateList(api) {
+    // Only show state checkboxes for the current results
+    const data = Array.from(api.rows({search:'applied'}).data());
+
+    // First, build index of visible states
+    const states = {};
+    for (let award of data) {
+      let code = award.city_state.slice(-2);
+      if (!states[code]) states[code] = true;
+    }
+
+    // Hide the elements in the state list that are not in the index
+    $('.state-list .filter').each(function(index, el) {
+      if (! states[ $(el).data('state') ] ) {
+        $(el).find('input[type="checkbox"]').prop('checked', false);
+        $(el).hide();
+      } else {
+        $(el).show();
+      }
+    });
+  }
 
   fetch('{{ site.baseurl }}/data/awards-history.json').then(function (response) {
     return response.json();
@@ -111,7 +133,12 @@ $(document).ready(function () {
             columns: [6, 0, 1, 2, 3, 4, 5]
           }
         }
-      ]
+      ],
+      drawCallback: function(settings) {
+        const api = this.api();
+
+        adjustStateList(api);
+      }
     });
     
     dt = $('#awards_history').DataTable(config);
