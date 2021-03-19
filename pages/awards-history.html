@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Award History
-scripts: /assets/js/datatables.min.js /assets/js/dataTablesConfig.js /assets/js/awards-history.js
+scripts: /assets/js/datatables.min.js /assets/js/dataTablesConfig.js /assets/js/awards-history.js /assets/js/popper.min.js /assets/js/tippy-bundle.umd.min.js /assets/js/dateFormatter.js
 css: /assets/css/datatables.min.css
 permalink: /awardees/history/
 ---
@@ -56,6 +56,24 @@ permalink: /awardees/history/
       <div class="dataTable-seedfund">
         <table id="awards_history" class="display dataTable" width="100%"></table>
       </div>
+    </div>
+
+    <div id="awards-history-search-help">
+      <button class="close-tooltip" onClick="closeHistorySearchTooltip()">X</button>
+      <ul>
+        <li>Minimum 2 characters are required.</li>
+        <li>Search is case-insensitive.</li>
+        <li>Search any part of the word, beginning, ending, or character(s) in the middle of the word.  For example:
+          <ul>
+            <li>If you are looking for <strong>'Nanofiber'</strong>,
+              search for <strong>'Nano'</strong> or <strong>'ber'</strong> or <strong>'nofi'</strong> or any part of the word.</li>
+            <li>If you are looking for <strong>'Diesel Exhaust'</strong>,
+              search for <strong>'diese'</strong> or <strong>'haust'</strong> or <strong>'sel exha'</strong> or any part of the word(s).</li>
+          </ul>
+        </li>
+        <li>Search results are returned as you type.</li>
+      </ul>
+      <p>The search results will return a list of Awards. Click on a company name to see more details.</p>
     </div>
 
   </div>

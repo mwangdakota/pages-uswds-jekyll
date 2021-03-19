@@ -14,7 +14,7 @@ $.fn.dataTable.ext.search.push(
 
   // Year filter
   function (settings, data, dataIndex, dataObj) {
-    const year = dataObj.award_date.split('/')[2];
+    const year = dataObj.award_date.split('-')[0];
 
 
     if (awards_history_filters.year === 'All') {
@@ -46,16 +46,14 @@ $.fn.dataTable.ext.search.push(
   }
 );
 
+function closeHistorySearchTooltip() {
+  $('.awards-history-container .help-icon').click();
+}
+
 $(document).ready(function () {
   let dt;
 
   awards_history_filters.year = $('.awards-history-year-filters .active').text();
-
-  function formatDate(str) {
-    // Convert YYYY-MM-DD into M/D/YYYY
-    let parts = str.split('-');
-    return parseInt(parts[1], 10) + '/' + parseInt(parts[2], 10) + '/' + parts[0];
-  }
 
   fetch('{{ site.baseurl }}/data/awards-history.json').then(function (response) {
     return response.json();
@@ -78,12 +76,27 @@ $(document).ready(function () {
     return Promise.resolve(awards_history);
 
   }).then(function (awards_history) {
-    var config = Object.assign(dataTablesConfig(), {
+    const config = Object.assign(dataTablesConfig(), {
       initComplete: function (settings, json) {
         $('.results-loading').hide();
         $('.awards-history-container .dataTables_filter input').attr('title', 'Enter one or more search terms');
-        $('.dt-buttons .buttons-csv').attr('class', 'dl-csv usa-button usa-button-primary').attr('title', 'Download as CSV')
+        $('.dt-buttons .buttons-csv').attr('class', 'dl-csv usa-button usa-button-primary').attr('title', 'Download filtered data as CSV')
+        $('#awards_history_filter').append('<span class="help-icon"></span>');
         $('.awards-history-container').show();
+        const searchMarkup = $('#awards-history-search-help').html();
+        tippy('#awards_history_filter .help-icon', {
+          arrow: false,
+          content: searchMarkup,
+          allowHTML: true,
+          placement: 'auto',
+          trigger: 'click',
+          hideOnClick: 'toggle',
+          interactive: true,
+          appendTo: function() {
+            return document.querySelector('.dataTables_wrapper')
+          },
+          theme: 'seedfund'
+        });
       },
       data: awards_history,
       columns: [
@@ -105,7 +118,7 @@ $(document).ready(function () {
           title: 'AWARD DATE',
           data: 'award_date',
           render: function(data, type, row, meta) {
-            return type === 'sort' ? data : formatDate(data);
+            return type === 'sort' ? data : dateFormatter.mdyyyy(data);
           }
         },
         { title: 'ABSTRACT', data: 'abstract' },

@@ -145,7 +145,8 @@
       .dataTables_filter {
         float: left;
         text-align: left;
-        margin-bottom: 1em;
+        margin-bottom: 2em;
+        position: relative;
 
         label {
           margin-top: 0.25em;
@@ -159,12 +160,25 @@
           height: 2.3rem;
           background: white;
           font-weight: normal;
+          max-width: unset;
+          width: auto;
+        }
+
+        .help-icon {
+          position: absolute;
+          top: 3px;
+          right: 0;
+          height: 20px;
+          width: 20px;
+          background: url('../img/tooltip.svg') no-repeat;
+          background-size: contain;
+
         }
       }
 
       .dt-buttons, .dl-csv {
         float: right;
-        margin-top: .8em;
+        margin-top: .6em;
 
         button {
           min-width: unset;
@@ -204,5 +218,9 @@
         clear: right;
       }
     }
+  }
+
+  #awards-history-search-help {
+    display: none;
   }
 }

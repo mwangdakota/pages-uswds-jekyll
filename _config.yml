@@ -112,3 +112,12 @@ topics_api:
     - piLastName
     - piPhone
     - piEmail
+
+show:
+  pitchbook:
+    data: true
+    company_description: true
+    total_raised: true
+    website: true
+    year_founded: true
+    employee_count: true
