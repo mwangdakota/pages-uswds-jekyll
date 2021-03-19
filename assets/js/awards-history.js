@@ -51,6 +51,12 @@ $(document).ready(function () {
 
   awards_history_filters.year = $('.awards-history-year-filters .active').text();
 
+  function formatDate(str) {
+    // Convert YYYY-MM-DD into M/D/YYYY
+    let parts = str.split('-');
+    return parseInt(parts[1], 10) + '/' + parseInt(parts[2], 10) + '/' + parts[0];
+  }
+
   fetch('{{ site.baseurl }}/data/awards-history.json').then(function (response) {
     return response.json();
   }).then(function (data) {
@@ -95,7 +101,13 @@ $(document).ready(function () {
         { title: 'AWARD ID', data: 'id' },
         { title: 'AWARD TITLE', data: 'title' },
         { title: 'AWARD AMOUNT', data: 'amount' },
-        { title: 'AWARD DATE', data: 'award_date' },
+        {
+          title: 'AWARD DATE',
+          data: 'award_date',
+          render: function(data, type, row, meta) {
+            return type === 'sort' ? data : formatDate(data);
+          }
+        },
         { title: 'ABSTRACT', data: 'abstract' },
         { title: 'COMPANY URL', data: 'url' },
         { title: 'PHASE', data: 'phase' }
@@ -111,7 +123,8 @@ $(document).ready(function () {
             columns: [6, 0, 1, 2, 3, 4, 5]
           }
         }
-      ]
+      ],
+      order: [[5, "desc"]]
     });
     
     dt = $('#awards_history').DataTable(config);

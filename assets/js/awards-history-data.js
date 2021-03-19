@@ -1,18 +1,17 @@
 ---
 permalink: /data/awards-history.json
 ---
-{% assign awards_history = site.data.awards_history | sort: 'InstitutionName' %}
 [
-  {% for award in awards_history %}{
+  {% for award in site.data.awards_history %}{
     "AwardID": "{{ award.AwardID }}",
     "Title": "{{ award.Title | replace: "'", "&#39;" | replace: '"', "&#34;" }}",
     "CalendarYear": "{{ award.CalendarYear }}",
     "FiscalYear": "{{ award.FiscalYear }}",
     "ProgramManager": "{{ award.ProgramManager | replace: "'", "&#39;" | replace: '"', "&#34;" }}",
     "Abstract": "{{ award.Abstract | replace: "'", "&#39;" | replace: '"', "&#34;" | replace: '?\', '-' }}",
-    "AwardDate": "{{ award.AwardDate }}",
-    "StartDate": "{{ award.StartDate }}",
-    "EndDate": "{{ award.EndDate }}",
+    "AwardDate": "{{ award.AwardDate | yyyymmdd }}",
+    "StartDate": "{{ award.StartDate | yyyymmdd }}",
+    "EndDate": "{{ award.EndDate | yyyymmdd }}",
     "ProgramElementCode": "{{ award.ProgramElementCode }}",
     "ProgramElementName": "{{ award.ProgramElementName | replace: "'", "&#39;" | replace: '"', "&#34;" }}",
     "AwardAmount": "{{ award.AwardAmount | usd_pretty }}",
