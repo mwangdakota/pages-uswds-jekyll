@@ -18,7 +18,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 
 <h2 class="header-top-bar"> Making a difference </h2>
 
-We’re not interested in innovation for innovation’s sake — we back technologies that promote the social good. Learn more about our companies’ impact here.  
+We’re not interested in innovation for innovation’s sake — we back technologies that promote the social good. Learn more about our companies’ impact below. To watch more videos of startups funded by NSF, visit our <a href="https://www.youtube.com/playlist?list=PLGhBP1C7iCOkPp8yv2I3ZGk16LiMIiikb" target="_blank">YouTube playlist</a>.  
 
 </div>
 </section>
