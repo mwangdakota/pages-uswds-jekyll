@@ -12,6 +12,7 @@ permalink: /awardees/history/
 {% endfor %}
 {% assign years = years | uniq | sort | reverse %}
 {% assign current_year = site.time | date: "%Y" %}
+{% assign states = site.data.awards_history | map: 'StateCode' | uniq | sort %}
 
 <div class="usa-section usa-content usa-grid">
   <h1>Award History</h1>
@@ -39,12 +40,12 @@ permalink: /awardees/history/
           <input type="checkbox" id="phase2" name="phase2" value="phase2">
           <label for="phase2">Phase II</label>
         </div>
-        <h4>State</h4>
+        <h4>Location</h4>
         <div class="state-list">
-          {% for state in site.data.states %}
-          <div class="filter" data-state="{{ state.abbr }}">
-            <input type="checkbox" id="state_{{ state.abbr }}" name="state_{{ state.abbr }}" value="{{ state.abbr }}" title="{{ state.name }}">
-            <label for="state_{{ state.abbr }}">{{ state.abbr }}</label>
+          {% for state_abbr in states %}
+          <div class="filter" data-state="{{ state_abbr }}">
+            <input type="checkbox" id="state_{{ state_abbr }}" name="state_{{ state_abbr }}" value="{{ state_abbr }}" title="{{ site.data.states[ state_abbr ] }}">
+            <label for="state_{{ state_abbr }}">{{ state_abbr }}</label>
           </div>
           {% endfor %}
         </div>

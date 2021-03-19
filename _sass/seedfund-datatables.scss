@@ -5,7 +5,7 @@
       margin-top: 1em;
     
       thead {
-        // border-bottom: 1px solid #AEB0B5;
+        border-bottom: 1px solid $color-gray-light;
 
         .sorting {
           background-image: url('../img/sort_both.png') !important;
@@ -22,29 +22,28 @@
         tr {
           th {
             border: 0;
-            border-bottom: 1px solid #777;
             padding: 8px 20px 8px 8px;
             background-color: transparent;
             white-space: nowrap;
             font-weight: 500;
-          }
 
-          th:focus,
-          th.sorting_asc,
-          th.sorting_desc {
-            outline: none;
-            // border: 1px solid navy;
-            border: 1px solid #777;
-            border-bottom: none;
-            color: #333;
-            font-weight: bold;
+            &:focus {
+              outline: none;
+              border: 1px solid $color-gray-light;
+            }
+
+            &.sorting_asc,
+            &.sorting_desc {
+              color: black;
+              font-weight: bold;
+            }
           }
         }
       }
 
       tbody {
         tr {
-          border-bottom: 1px solid #AEB0B5;
+          border-bottom: 1px solid $color-gray-light;
 
           &.odd, &.even {
             background-color: transparent;

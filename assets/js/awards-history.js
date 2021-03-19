@@ -51,28 +51,6 @@ $(document).ready(function () {
 
   awards_history_filters.year = $('.awards-history-year-filters .active').text();
 
-  function adjustStateList(api) {
-    // Only show state checkboxes for the current results
-    const data = Array.from(api.rows({search:'applied'}).data());
-
-    // First, build index of visible states
-    const states = {};
-    for (let award of data) {
-      let code = award.city_state.slice(-2);
-      if (!states[code]) states[code] = true;
-    }
-
-    // Hide the elements in the state list that are not in the index
-    $('.state-list .filter').each(function(index, el) {
-      if (! states[ $(el).data('state') ] ) {
-        $(el).find('input[type="checkbox"]').prop('checked', false);
-        $(el).hide();
-      } else {
-        $(el).show();
-      }
-    });
-  }
-
   fetch('{{ site.baseurl }}/data/awards-history.json').then(function (response) {
     return response.json();
   }).then(function (data) {
@@ -113,7 +91,7 @@ $(document).ready(function () {
             return data;
           }
         },
-        { title: 'CITY/STATE', data: 'city_state' },
+        { title: 'LOCATION', data: 'city_state' },
         { title: 'AWARD ID', data: 'id' },
         { title: 'AWARD TITLE', data: 'title' },
         { title: 'AWARD AMOUNT', data: 'amount' },
@@ -133,17 +111,10 @@ $(document).ready(function () {
             columns: [6, 0, 1, 2, 3, 4, 5]
           }
         }
-      ],
-      drawCallback: function(settings) {
-        const api = this.api();
-
-        adjustStateList(api);
-      }
+      ]
     });
     
     dt = $('#awards_history').DataTable(config);
-
-    $('.dataTables_filter label')[0].childNodes[0].nodeValue = "Keyword Search";
 
     $('.awards-history-year-filters button').click(function (evt) {
       const target = $(evt.target);
