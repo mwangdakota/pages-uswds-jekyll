@@ -4,7 +4,8 @@
 function init_awards_history_filters() {
   return {
     year: 'All',
-    states: {}
+    states: {},
+    expandGroup: {}
   };
 }
 
@@ -15,7 +16,6 @@ $.fn.dataTable.ext.search.push(
   // Year filter
   function (settings, data, dataIndex, dataObj) {
     const year = dataObj.award_date.split('-')[0];
-
 
     if (awards_history_filters.year === 'All') {
       return true;
@@ -50,8 +50,22 @@ function closeHistorySearchTooltip() {
   $('.awards-history-container .help-icon').click();
 }
 
+function historyRowGroupExpanded(group) {
+  if (!awards_history_filters.group) return '';
+
+  let bool = awards_history_filters.expandGroup[group] ? 'true' : 'false';
+
+  return ' aria-expanded="' + bool + '" ';
+}
+
+function historyShowOrHideStyle(isGroupView) {
+  return isGroupView ? " style=\"display:''\" " : ' style="display:none" ';
+}
+
 $(document).ready(function () {
   let dt;
+
+  let groupRowHeaders;
 
   awards_history_filters.year = $('.awards-history-year-filters .active').text();
 
@@ -97,6 +111,13 @@ $(document).ready(function () {
           },
           theme: 'seedfund'
         });
+
+        groupRowHeaders = ['<tr class="awards-history-group-hdrs">'].
+          concat(Array.from(this.api().columns(':visible').header()).map(function(col) {
+            return '<td>' + col.innerText + '</td>';
+          })).
+          concat('</tr>').
+          join('');
       },
       data: awards_history,
       columns: [
@@ -121,9 +142,9 @@ $(document).ready(function () {
             return type === 'sort' ? data : dateFormatter.mdyyyy(data);
           }
         },
-        { title: 'ABSTRACT', data: 'abstract' },
-        { title: 'COMPANY URL', data: 'url' },
-        { title: 'PHASE', data: 'phase' }
+        { title: 'ABSTRACT', data: 'abstract', visible: false },
+        { title: 'COMPANY URL', data: 'url', visible: false },
+        { title: 'PHASE', data: 'phase', visible: false }
       ],
       lengthMenu: [[50, 100, -1], [50, 100, "All"]],
       dom: 'flBrtip',
@@ -137,12 +158,43 @@ $(document).ready(function () {
           }
         }
       ],
-      order: [[5, "desc"]]
+      order: [[5, "desc"]],
+      rowGroup: {
+        dataSrc: '',
+        startRender: function(rows, group) {
+          rows.nodes().each(function(rowNode) {
+            if (!awards_history_filters.group) {
+              rowNode.style.display = '';
+            } else {
+              rowNode.style.display = awards_history_filters.expandGroup[group] ? '' : 'none';
+            }
+          });
+
+          const html = '<tr class="dtrg-group dtrg-start" data-name="' + group + '"' +
+              historyRowGroupExpanded(group) +
+              historyShowOrHideStyle(awards_history_filters.group) + '>' +
+            '<td class="group-count">' + rows.count() + ' Award' + (rows.count > 1 ? 's' : '') + '</td>' +
+            '<td colspan="4" class="group-company-name"><span>' + group + '</span></td>' +
+            '<td><span class="expand-collapse"></span></td>' +
+            '</tr>' +
+            (groupRowHeaders && awards_history_filters.expandGroup[group] ? groupRowHeaders : '');
+          return $(html);
+        }
+      }
     });
     
     dt = $('#awards_history').DataTable(config);
 
     $('.awards-history-year-filters button').click(function (evt) {
+      if (awards_history_filters.group) {
+        awards_history_filters.target = $(evt.target);
+        awards_history_filters.group = false;
+        $('#list-view').click();
+        setTimeout(function() {
+          awards_history_filters.target.click();
+        });
+        return;
+      }
       const target = $(evt.target);
       awards_history_filters.year = target.text();
       $('.awards-history-year-filters button').removeClass('active');
@@ -180,6 +232,31 @@ $(document).ready(function () {
       awards_history_filters = init_awards_history_filters();
 
       dt.page.len(parseInt(length_select.val(), 10)).search('').draw();
+    });
+
+    $('#list-view, #group-view').click(function(evt) {
+      $('.awards-history-grid-view button').removeClass('active');
+
+      let target = $(evt.target);
+      target.addClass('active');
+
+      if (target.text() === 'Group by Awardee') {
+        awards_history_filters.group = true;
+        dt.rowGroup().dataSrc('company');
+        $('#awards_history thead th').hide();
+      } else {
+        awards_history_filters.group = false;
+        dt.rowGroup().dataSrc('');
+        $('#awards_history thead th').css('display', 'table-cell');
+      }
+      dt.draw(false);
+    });
+
+    $('#awards_history tbody').on('click', 'tr.dtrg-start', function(evt) {
+      let tr = $(this);
+      let name = tr.data('name');
+      awards_history_filters.expandGroup[name] = !awards_history_filters.expandGroup[name];
+      dt.draw(false);
     });
 
   });
