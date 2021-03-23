@@ -93,21 +93,34 @@ permalink: /awardees/history/details/
                         '<h4 class="subhead uppercase">Abstract</h4>' +
                         '<p class="abstractText">' + awd.Abstract + '</p>' +
                       '</div>' +
-                      
-                      '<div style="color:#323A45; background:rgb(155, 218, 241, 0.55); padding:3rem; margin-bottom: 3rem; font-size:1.3rem;">' +
-			                  '<p style="text-align:right;font-size:1.4rem;"><em>This information has been provided by</em>' +
-			                  '<img width="150px"style="margin-left:5px;"src="../../../assets/img/pitch-book-logo.png" /></p><br>' +
-			                  '<strong style="font-size:1.6rem;"> Company Description</strong><br>' +
-			                  'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br>' +
-			                  '<strong style="font-size:1.6rem;">Total Raised</strong><br>' +
-			                  '$100,000<br><br>' +
-			                  '<strong style="font-size:1.6rem;">Website</strong><br>' +
-			                  'http://www.3IDiagnostics.com<br><br>' +
-			                  '<strong style="font-size:1.6rem;">Year Founded</strong><br>' +
-			                  '2020<br><br><strong style="font-size:1.6rem;">Number of Employees</strong><br>' +
-			                  '55<br><br>' +
-			                  '<span style="font-size:1.2rem;"><em>Disclaimer: Company Data presented by NSF: (1) is the property of and proprietary to PitchBook Data, Inc.; (2) may not be copied, reproduced, or distributed; and (3) is not warranted to be accurate, complete nor timely. Neither PitchBook Data nor the National Science Foundation are responsible for any damages or losses arising from any use of such Data.</em></span>' +
-		                  '</div>' +
+                       {% assign show_pitchbook = site['show']['pitchbook'] %}
+    			{% if show_pitchbook['data'] %}
+      			'<div class="pitchbook">' +
+                          '<p class="pitchbook-source" style="text-align:right;font-size:1.4rem;"><em>This information has been provided by</em>' +
+			  '<img width="150px"style="margin-left:5px;"src="../../../assets/img/pitch-book-logo.png" /></p><br>' +
+			  {% if show_pitchbook['company_description'] %}  	
+			   '<strong style="font-size:1.6rem;"> Company Description</strong><br>' +
+			   'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br>' +
+			  {% endif %}   
+			  {% if show_pitchbook['total_raised'] %}
+			   '<strong style="font-size:1.6rem;">Total Raised</strong><br>' +
+			   '$100,000<br><br>' +
+			  {% endif %} 
+			  {% if show_pitchbook['website'] %}
+			   '<strong style="font-size:1.6rem;">Website</strong><br>' +
+			   'http://www.3IDiagnostics.com<br><br>' +
+			  {% endif %}
+			  {% if show_pitchbook['year_founded'] %} 
+			   '<strong style="font-size:1.6rem;">Year Founded</strong><br>' +
+			   '2020<br><br>' +
+			  {% endif %}	
+			  {% if show_pitchbook['employee_count'] %} 
+			   '<strong style="font-size:1.6rem;">Number of Employees</strong><br>' +
+			   '55<br><br>' +
+			  {% endif %}
+			  '<span class="pitchbook-disclaimer" style="font-size:1.2rem;"><em>Disclaimer: Company Data presented by NSF: (1) is the property of and proprietary to PitchBook Data, Inc.; (2) may not be copied, reproduced, or distributed; and (3) is not warranted to be accurate, complete nor timely. Neither PitchBook Data nor the National Science Foundation are responsible for any damages or losses arising from any use of such Data.</em></span>' +
+		                  '</div>' 
+			{% endif %}   
 
                     '</div>' +
                   '</div>' +
