@@ -9,6 +9,8 @@ function init_awards_history_filters() {
   };
 }
 
+awards_history_group_view = false;
+
 awards_history_filters = init_awards_history_filters();
 
 $.fn.dataTable.ext.search.push(
@@ -51,7 +53,7 @@ function closeHistorySearchTooltip() {
 }
 
 function historyRowGroupExpanded(group) {
-  if (!awards_history_filters.group) return '';
+  if (!awards_history_group_view) return '';
 
   let bool = awards_history_filters.expandGroup[group] ? 'true' : 'false';
 
@@ -163,7 +165,7 @@ $(document).ready(function () {
         dataSrc: '',
         startRender: function(rows, group) {
           rows.nodes().each(function(rowNode) {
-            if (!awards_history_filters.group) {
+            if (!awards_history_group_view) {
               rowNode.style.display = '';
             } else {
               rowNode.style.display = awards_history_filters.expandGroup[group] ? '' : 'none';
@@ -172,7 +174,7 @@ $(document).ready(function () {
 
           const html = '<tr class="dtrg-group dtrg-start" data-name="' + group + '"' +
               historyRowGroupExpanded(group) +
-              historyShowOrHideStyle(awards_history_filters.group) + '>' +
+              historyShowOrHideStyle(awards_history_group_view) + '>' +
             '<td class="group-count">' + rows.count() + ' Award' + (rows.count > 1 ? 's' : '') + '</td>' +
             '<td colspan="4" class="group-company-name"><span>' + group + '</span></td>' +
             '<td><span class="expand-collapse"></span></td>' +
@@ -186,9 +188,9 @@ $(document).ready(function () {
     dt = $('#awards_history').DataTable(config);
 
     $('.awards-history-year-filters button').click(function (evt) {
-      if (awards_history_filters.group) {
+      if (awards_history_group_view) {
         awards_history_filters.target = $(evt.target);
-        awards_history_filters.group = false;
+        awards_history_group_view = false;
         $('#list-view').click();
         setTimeout(function() {
           awards_history_filters.target.click();
@@ -241,11 +243,11 @@ $(document).ready(function () {
       target.addClass('active');
 
       if (target.text() === 'Group by Awardee') {
-        awards_history_filters.group = true;
+        awards_history_group_view = true;
         dt.rowGroup().dataSrc('company');
         $('#awards_history thead th').hide();
       } else {
-        awards_history_filters.group = false;
+        awards_history_group_view = false;
         dt.rowGroup().dataSrc('');
         $('#awards_history thead th').css('display', 'table-cell');
       }

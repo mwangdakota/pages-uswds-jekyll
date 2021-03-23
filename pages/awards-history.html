@@ -7,7 +7,7 @@ permalink: /awardees/history/
 ---
 {% assign years = "" | split: '' %}
 {% for award in site.data.awards_history %}
-  {% assign year = award.AwardDate | split: '/' | last %}
+  {% assign year = award.AwardDate | split: '-' | first %}
   {% assign years = years | push: year %}
 {% endfor %}
 {% assign years = years | uniq | sort | reverse %}
