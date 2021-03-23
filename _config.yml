@@ -116,8 +116,8 @@ topics_api:
 show:
   pitchbook:
     data: true
-    company_description: true
+    company_description: false
     total_raised: true
     website: true
-    year_founded: true
+    year_founded: false
     employee_count: true
