@@ -108,13 +108,13 @@ permalink: /awardees/history/details/
                         {% endif %} 
 
                         {% if show_pitchbook['total_raised'] %}
-                        '<strong style="font-size:1.6rem;">Total Raised</strong><br>' +
+                        '<strong style="font-size:1.6rem;">Total Raised (in millions)</strong><br>' +
                         val(awd.PitchbookTotalRaised) + '<br><br>' +
                         {% endif %}
 
                         {% if show_pitchbook['website'] %}
                         '<strong style="font-size:1.6rem;">Website</strong><br>' +
-                        '<a href="' + val(awd.PitchbookWebsite) + '" target="_blank">' +
+                        '<a href="http://' + val(awd.PitchbookWebsite) + '" target="_blank">' +
                         val(awd.PitchbookWebsite) + '</a><br><br>' +
                         {% endif %}
 
