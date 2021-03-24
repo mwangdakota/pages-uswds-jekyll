@@ -114,7 +114,8 @@ permalink: /awardees/history/details/
 
                         {% if show_pitchbook['website'] %}
                         '<strong style="font-size:1.6rem;">Website</strong><br>' +
-                        val(awd.PitchbookWebsite) + '<br><br>' +
+                        '<a href="' + val(awd.PitchbookWebsite) + '" target="_blank">' +
+                        val(awd.PitchbookWebsite) + '</a><br><br>' +
                         {% endif %}
 
                         {% if show_pitchbook['year_founded'] %} 
