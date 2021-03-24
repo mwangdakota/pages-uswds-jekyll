@@ -1,8 +1,8 @@
 ---
 permalink: /data/awards-history.json
 ---
-[
-  {% for award in site.data.awards_history %}{
+{% assign awards_history = site.data.awards_history | sort: 'AwardDate' | reverse %}[
+  {% for award in awards_history %}{
     "AwardID": "{{ award.AwardID }}",
     "Title": "{{ award.Title | replace: "'", "&#39;" | replace: '"', "&#34;" }}",
     "CalendarYear": "{{ award.CalendarYear }}",
@@ -29,6 +29,11 @@ permalink: /data/awards-history.json
     "CityName": "{{ award.CityName | replace: "'", "&#39;" | replace: '"', "&#34;" }}",
     "StateCode": "{{ award.StateCode }}",
     "ZipCode": "{{ award.ZipCode }}",
+    "PitchbookCompanyDescription": "{{ award.PitchbookCompanyDescription | replace: "'", "&#39;" | replace: '"', "&#34;" }}",
+    "PitchbookYearFounded": "{{ award.PitchbookYearFounded }}",
+    "PitchbookNumberEmployees": "{{ award.PitchbookNumberEmployees }}",
+    "PitchbookTotalRaised": "{{ award.PitchbookTotalRaised | usd_pretty }}",
+    "PitchbookWebsite": "{{ award.PitchbookWebsite }}",
     "CompanyUrl": "{{ award.InstitutionName | slugify }}"
   }{% if forloop.last == false %},{% endif %}
   {% endfor %}

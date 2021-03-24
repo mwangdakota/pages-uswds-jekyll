@@ -13,6 +13,8 @@ awards_history_group_view = false;
 
 awards_history_filters = init_awards_history_filters();
 
+awards_history_company_names = {};
+
 $.fn.dataTable.ext.search.push(
 
   // Year filter
@@ -64,6 +66,12 @@ function historyShowOrHideStyle(isGroupView) {
   return isGroupView ? " style=\"display:''\" " : ' style="display:none" ';
 }
 
+function update_company_names(company_id, company_name) {
+  if (!awards_history_company_names[company_id]) {
+    awards_history_company_names[company_id] = company_name;
+  }
+}
+
 $(document).ready(function () {
   let dt;
 
@@ -76,7 +84,10 @@ $(document).ready(function () {
   }).then(function (data) {
 
     let awards_history = data.map(function (award) {
+      update_company_names(award.InstitutionIdentifer, award.InstitutionName);
+
       return {
+        company_id: award.InstitutionIdentifer,
         company: award.InstitutionName,
         city_state: award.CityName + ', ' + award.StateCode,
         title: award.Title,
@@ -87,7 +98,7 @@ $(document).ready(function () {
         url: award.CompanyUrl,
         phase: award.ProgramElementName
       };
-    })
+    });
 
     return Promise.resolve(awards_history);
 
@@ -146,7 +157,8 @@ $(document).ready(function () {
         },
         { title: 'ABSTRACT', data: 'abstract', visible: false },
         { title: 'COMPANY URL', data: 'url', visible: false },
-        { title: 'PHASE', data: 'phase', visible: false }
+        { title: 'PHASE', data: 'phase', visible: false },
+        { title: 'COMPANY ID', data: 'company_id', visible: false}
       ],
       lengthMenu: [[50, 100, -1], [50, 100, "All"]],
       dom: 'flBrtip',
@@ -176,7 +188,7 @@ $(document).ready(function () {
               historyRowGroupExpanded(group) +
               historyShowOrHideStyle(awards_history_group_view) + '>' +
             '<td class="group-count">' + rows.count() + ' Award' + (rows.count > 1 ? 's' : '') + '</td>' +
-            '<td colspan="4" class="group-company-name"><span>' + group + '</span></td>' +
+            '<td colspan="4" class="group-company-name"><span>' + awards_history_company_names[group] + '</span></td>' +
             '<td><span class="expand-collapse"></span></td>' +
             '</tr>' +
             (groupRowHeaders && awards_history_filters.expandGroup[group] ? groupRowHeaders : '');
@@ -244,7 +256,7 @@ $(document).ready(function () {
 
       if (target.text() === 'Group by Awardee') {
         awards_history_group_view = true;
-        dt.rowGroup().dataSrc('company');
+        dt.rowGroup().dataSrc('company_id');
         $('#awards_history thead th').hide();
       } else {
         awards_history_group_view = false;
