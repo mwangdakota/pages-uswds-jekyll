@@ -32,7 +32,7 @@ permalink: /data/awards-history.json
     "PitchbookCompanyDescription": "{{ award.PitchbookCompanyDescription | replace: "'", "&#39;" | replace: '"', "&#34;" }}",
     "PitchbookYearFounded": "{{ award.PitchbookYearFounded }}",
     "PitchbookNumberEmployees": "{{ award.PitchbookNumberEmployees }}",
-    "PitchbookTotalRaised": "{{ award.PitchbookTotalRaised | usd_pretty }}",
+    "PitchbookTotalRaised": "{{ award.PitchbookTotalRaised }}",
     "PitchbookWebsite": "{{ award.PitchbookWebsite }}",
     "CompanyUrl": "{{ award.InstitutionName | slugify }}"
   }{% if forloop.last == false %},{% endif %}

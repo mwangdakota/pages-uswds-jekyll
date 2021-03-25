@@ -158,7 +158,7 @@ $(document).ready(function () {
         { title: 'ABSTRACT', data: 'abstract', visible: false },
         { title: 'COMPANY URL', data: 'url', visible: false },
         { title: 'PHASE', data: 'phase', visible: false },
-        { title: 'COMPANY ID', data: 'company_id', visible: false}
+        { title: 'COMPANY ID', data: 'company_id', visible: true}
       ],
       lengthMenu: [[50, 100, -1], [50, 100, "All"]],
       dom: 'flBrtip',
@@ -256,11 +256,11 @@ $(document).ready(function () {
 
       if (target.text() === 'Group by Awardee') {
         awards_history_group_view = true;
-        dt.rowGroup().dataSrc('company_id');
+        dt.rowGroup().dataSrc('company_id').order([9, 'asc']);
         $('#awards_history thead th').hide();
       } else {
         awards_history_group_view = false;
-        dt.rowGroup().dataSrc('');
+        dt.rowGroup().dataSrc('').order([5, 'desc']);
         $('#awards_history thead th').css('display', 'table-cell');
       }
       dt.draw(false);

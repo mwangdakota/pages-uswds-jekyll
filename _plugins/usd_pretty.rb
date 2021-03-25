@@ -1,8 +1,9 @@
 module Jekyll
   module UsdPrettyFilter
     def usd_pretty(input)
-      return "" if input.nil?
-      "$#{input.to_s.gsub(/\s/, '').gsub(/\D/, '').gsub(/\B(?=(\d{3})+(?!\d))/, ',')}"
+      val = input.to_s
+      return "" if val.strip.empty?
+      "$#{val.gsub(/\s/, '').gsub(/\D/, '').gsub(/\B(?=(\d{3})+(?!\d))/, ',')}"
     end
   end
 end

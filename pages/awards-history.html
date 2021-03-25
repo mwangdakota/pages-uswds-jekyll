@@ -66,10 +66,27 @@ permalink: /awardees/history/
         <li>Search is case-insensitive.</li>
         <li>Search any part of the word, beginning, ending, or character(s) in the middle of the word.  For example:
           <ul>
-            <li>If you are looking for <strong>'Nanofiber'</strong>,
-              search for <strong>'Nano'</strong> or <strong>'ber'</strong> or <strong>'nofi'</strong> or any part of the word.</li>
-            <li>If you are looking for <strong>'Diesel Exhaust'</strong>,
-              search for <strong>'diese'</strong> or <strong>'haust'</strong> or <strong>'sel exha'</strong> or any part of the word(s).</li>
+            <li>To find "Nanofiber",
+              search for <strong>Nano</strong> or <strong>ber</strong> or <strong>nofi</strong>.</li>
+          </ul>
+        </li>
+        <li>Separate multiple search terms with at least one space.  Results are found if each term
+          matches some part of a word.  For example:
+          <ul>
+            <li>Searching for <strong>diese</strong>, <strong>haust</strong>, <strong>sel exha</strong> or
+              <strong>exha sel</strong> will all yield results where "Diesel" is followed by "Exhaust"
+              or vice-versa.</li>
+            <li>Searching for <strong>Diesel Exhaust not_here_at_all</strong> fails if
+              "Diesel" and "Exhaust" exist but "not_here_at_all" is missing.</li>
+          </ul>
+        </li>
+        <li>Exact searches should be <span class="emphasized">surrounded by double quotes</span>.
+          For example, to find "Prosthetic Knee" precisely, search for <strong>"Prosthetic Knee"</strong>
+          or <strong>"prosthetic knee"</strong>.  On the other hand:
+          <ul>
+            <li><strong>"Knee Prosthetic"</strong> fails because "Prosthetic" appears first.</li>
+            <li><strong>"Prosthetic&nbsp;&nbsp;&nbsp;Knee"</strong> fails because there
+              is only one space between "Prosthetic" and "Knee"</li>
           </ul>
         </li>
         <li>Search results are returned as you type.</li>

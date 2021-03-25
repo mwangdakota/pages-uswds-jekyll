@@ -4,6 +4,7 @@ title: Award History Details
 scripts: /assets/js/dateFormatter.js
 permalink: /awardees/history/details/
 ---
+{% assign show_pitchbook = site['show']['pitchbook'] %}
 {% include loading.html msg='Loading company details...' %}
 
 <div id="awards-history-details">
@@ -22,10 +23,53 @@ permalink: /awardees/history/details/
       return Promise.resolve(award);
 
     }).then(function (award) {
-      function val(v) {
-        return v ? v : '';
+      function hasPitchbookData(award) {
+        return !!((award.PitchbookCompanyDescription +
+          award.PitchbookYearFounded +
+          award.PitchbookNumberEmployees +
+          award.PitchbookTotalRaised +
+          award.PitchbookWebsite).trim().length);
       }
-      
+
+      function val(v, opt) {
+        if (!v) return '';
+
+        return (opt && opt.prefix ? opt.prefix : '') +
+          (opt && opt.protocol && !v.match(/^https?\:\/\//) ? 'http://' : '') +
+          v +
+          (opt && opt.suffix ? opt.suffix : '');
+      }
+
+      function pitchBookData(awd) {
+        return '' +
+          {% if show_pitchbook['company_description'] %}
+          '<strong style="font-size:1.6rem;">Company Description</strong><br>' +
+          val(awd.PitchbookCompanyDescription) + '<br><br>' +
+          {% endif %}
+
+          {% if show_pitchbook['total_raised'] %}
+          '<strong style="font-size:1.6rem;">Total Raised (in millions)</strong><br>' +
+          val(awd.PitchbookTotalRaised, {prefix: '$'}) + '<br><br>' +
+          {% endif %}
+
+          {% if show_pitchbook['website'] %}
+          '<strong style="font-size:1.6rem;">Website</strong><br>' +
+          '<a href="' + val(awd.PitchbookWebsite, {protocol: 'http'}) + '" target="_blank">' +
+          val(awd.PitchbookWebsite) + '</a><br><br>' +
+          {% endif %}
+
+          {% if show_pitchbook['year_founded'] %}
+          '<strong style="font-size:1.6rem;">Year Founded</strong><br>' +
+          val(awd.PitchbookYearFounded) + '<br><br>' +
+          {% endif %}
+
+          {% if show_pitchbook['employee_count'] %}
+          '<strong style="font-size:1.6rem;">Number of Employees</strong><br>' +
+          val(awd.PitchbookNumberEmployees) + '<br><br>' +
+          {% endif %}
+          '';
+      }
+
       let html = '';
 
       for (let awd of award) {
@@ -82,7 +126,7 @@ permalink: /awardees/history/details/
                         '<h4 class="subhead uppercase">Errata</h4>' +
                         '<p class="abstractText">Please report errors in award information by writing to <a href="mailto:awardsearch@nsf.gov">awardsearch@nsf.gov</a>.</p>' +
                       '</div>' +
-                      
+
                       '<div class="mb5">' +
                         '<h4 class="subhead uppercase">Addenda</h4>' +
                         '<p class="abstractText">If you&#39;re a member of this company, you may <a' +
@@ -96,52 +140,25 @@ permalink: /awardees/history/details/
                         '<h4 class="subhead uppercase">Abstract</h4>' +
                         '<p class="abstractText">' + awd.Abstract + '</p>' +
                       '</div>' +
-                      {% assign show_pitchbook = site['show']['pitchbook'] %}
                       {% if show_pitchbook['data'] %}
                       '<div class="pitchbook">' +
                         '<p class="pitchbook-source" style="text-align:right;font-size:1.4rem;"><em>This information has been provided by</em>' +
                         '<img width="150px"style="margin-left:5px;"src="../../../assets/img/pitch-book-logo.png" /></p><br>' +
-                        
-                        {% if show_pitchbook['company_description'] %}
-                        {% if val(awd.PitchbookCompanyDescription).length !== '0' %}  	
-                        '<strong style="font-size:1.6rem;">Company Description</strong><br>' +
-                        val(awd.PitchbookCompanyDescription) + '<br><br>' +
-                        {% endif %} 
-                        {% endif %}  
 
-                        {% if show_pitchbook['total_raised'] %}
-                        '<strong style="font-size:1.6rem;">Total Raised</strong><br>' +
-                        val(awd.PitchbookTotalRaised) + '<br><br>' +
-                        {% endif %}
-
-                        {% if show_pitchbook['website'] %}
-                        '<strong style="font-size:1.6rem;">Website</strong><br>' +
-                        '<a href="https://' + val(awd.PitchbookWebsite) + '" target="_blank">' +
-                        val(awd.PitchbookWebsite) + '</a><br><br>' +
-                        {% endif %}
-
-                        {% if show_pitchbook['year_founded'] %} 
-                        '<strong style="font-size:1.6rem;">Year Founded</strong><br>' +
-                        val(awd.PitchbookYearFounded) + '<br><br>' +
-                        {% endif %}
-
-                        {% if show_pitchbook['employee_count'] %} 
-                        '<strong style="font-size:1.6rem;">Number of Employees</strong><br>' +
-                        val(awd.PitchbookNumberEmployees) + '<br><br>' +
-                        {% endif %}
+                        (hasPitchbookData(awd) ? pitchBookData(awd) : '<h3>No data found</h3>') +
 
                         '<span class="pitchbook-disclaimer" style="font-size:1.2rem;"><em>Disclaimer: Company Data presented by NSF: (1) is the property of and proprietary to PitchBook Data, Inc.; (2) may not be copied, reproduced, or distributed; and (3) is not warranted to be accurate, complete nor timely. Neither PitchBook Data nor the National Science Foundation are responsible for any damages or losses arising from any use of such Data.</em></span>' +
                       '</div>' +
-                      {% endif %}   
+                      {% endif %}
 
                     '</div>' +
                   '</div>' +
                 '</li>' +
               '</ul>' +
-              
+
             '</div>' +
-          '</div>' 
-      } 
+          '</div>'
+      }
 
       document.querySelector('#awards-history-details').innerHTML = html;
       document.querySelector('.results-loading').style.display = 'none';
