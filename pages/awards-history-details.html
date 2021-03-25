@@ -103,10 +103,11 @@ permalink: /awardees/history/details/
                         '<img width="150px"style="margin-left:5px;"src="../../../assets/img/pitch-book-logo.png" /></p><br>' +
                         
                         {% if show_pitchbook['company_description'] %}
-                        val(awd.PitchbookCompanyDescription).length + '<br>' +  	
+                        {% if val(awd.PitchbookCompanyDescription).length !== 0 %}  	
                         '<strong style="font-size:1.6rem;">Company Description</strong><br>' +
                         val(awd.PitchbookCompanyDescription) + '<br><br>' +
                         {% endif %} 
+                        {% endif %}  
 
                         {% if show_pitchbook['total_raised'] %}
                         '<strong style="font-size:1.6rem;">Total Raised</strong><br>' +
