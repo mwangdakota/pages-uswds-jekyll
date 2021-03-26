@@ -5,10 +5,10 @@ url: https://seedfund.nsf.gov
 baseurl: ""
 permalink: pretty
 
-deadline: 
+deadline:
 past_deadline: December 3
 next_deadline: March 4
-second_deadline: 
+second_deadline:
 solicitation_released: February 12, 2021
 solicitation_window_1: February 12, 2021 - March 4, 2021
 solicitation_window_2: March 5, 2021 - June 3, 2021
@@ -112,6 +112,9 @@ topics_api:
     - piLastName
     - piPhone
     - piEmail
+
+awards_history:
+  download_limit: 300
 
 show:
   pitchbook:

@@ -1,6 +1,5 @@
 ---
 ---
-
 function init_awards_history_filters() {
   return {
     year: 'All',
@@ -76,6 +75,8 @@ $(document).ready(function () {
   let dt;
 
   let groupRowHeaders;
+
+  let download_limit = {{ site['awards_history']['download_limit'] }};
 
   awards_history_filters.year = $('.awards-history-year-filters .active').text();
 
@@ -158,13 +159,28 @@ $(document).ready(function () {
         { title: 'ABSTRACT', data: 'abstract', visible: false },
         { title: 'COMPANY URL', data: 'url', visible: false },
         { title: 'PHASE', data: 'phase', visible: false },
-        { title: 'COMPANY ID', data: 'company_id', visible: true}
+        { title: 'COMPANY ID', data: 'company_id', visible: false}
       ],
       lengthMenu: [[50, 100, -1], [50, 100, "All"]],
       dom: 'flBrtip',
       buttons: [
         {
           extend: 'csv',
+          action: function(e, dt, button, config) {
+            let rowCount = dt.rows({search:'applied'}).count();
+
+            if (download_limit < 0) {
+              console.warn('config::site.awards_history.download_limit < 0');
+              return false;
+            }
+
+            if (download_limit > 0 && rowCount > download_limit) {
+              $('.history-download-alert').show();
+              return false;
+            }
+
+            $.fn.dataTable.ext.buttons.csvHtml5.action.call(this, e, dt, button, config);
+          },
           text: 'Download results to CSV',
           filename: 'nsf_seedfund_award_history',
           exportOptions: {
@@ -194,10 +210,18 @@ $(document).ready(function () {
             (groupRowHeaders && awards_history_filters.expandGroup[group] ? groupRowHeaders : '');
           return $(html);
         }
+      },
+      fnDrawCallback: function() {
+        $('.history-download-alert').hide();
       }
     });
-    
+
     dt = $('#awards_history').DataTable(config);
+
+    $('.dt-buttons').append(
+      '<div class="history-download-alert">Only ' + download_limit +
+      ' records can be downloaded.  Please refine your search accordingly.</div>'
+    );
 
     $('.awards-history-year-filters button').click(function (evt) {
       if (awards_history_group_view) {

@@ -60,13 +60,13 @@
         font-weight: bold;
       }
     }
-  
+
     .awards-history-grid-filters {
       float: left;
       margin-top: 0;
       position: sticky;
       top: 0;
-  
+
       [type=checkbox]+label {
         margin: 0;
       }
@@ -74,17 +74,17 @@
       h3:first-of-type {
         margin-bottom: 0;
       }
-  
+
       h4 {
         font-size: 0.9em;
         margin: 1em 1em 0.5em 0;
       }
-      
+
       .filter {
         font-size: .8em;
         margin: 1em 1em 1em 0;
       }
-  
+
       .state-list {
         height: 20em;
         overflow-x: hidden;
@@ -92,16 +92,16 @@
         border: 1px solid #AEB0B5;
         position: relative;
         background: white;
-  
+
         .filter {
           margin: 1em;
         }
-  
+
         [type=checkbox] {
           margin: 0;
         }
       }
-  
+
       [type=checkbox]+label::before,
       [type=radio]+label::before {
         height: 1.6rem;
@@ -133,7 +133,7 @@
           color: black;
           font-weight: 600;
         }
-  
+
         &:hover {
           background: none;
           border-bottom: 1px dotted black;
@@ -148,11 +148,11 @@
       .dataTables_length {
         margin-top: 1.2em;
         margin-left: 2em;
-  
+
         label {
           margin-top: 0;
         }
-  
+
         select {
           display: inline-block;
           width: 4em;
@@ -164,7 +164,7 @@
           height: 3.6rem;
         }
       }
-  
+
       .dataTables_filter {
         float: left;
         text-align: left;
@@ -177,7 +177,7 @@
           font-size: 0.9em;
           letter-spacing: -0.05em;
         }
-  
+
         input {
           margin-left: 0;
           height: 2.3rem;
@@ -196,6 +196,21 @@
           background: url('../img/tooltip.svg') no-repeat;
           background-size: contain;
 
+        }
+      }
+
+      .dt-buttons {
+        position: relative;
+        width: 12em;
+
+        .history-download-alert {
+          position: absolute;
+          top: 5em;
+          padding: 0.5em;
+          font-size: 0.6em;
+          font-weight: 600;
+          color: #900;
+          display: none;
         }
       }
 
