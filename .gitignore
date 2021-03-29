@@ -4,4 +4,5 @@ _site/
 .DS_store
 vendor/
 _data/portfolio.yml
+_data/awards_history_ac_index.yml
 npm-debug*

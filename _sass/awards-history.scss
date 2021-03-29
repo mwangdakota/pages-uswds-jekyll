@@ -298,4 +298,29 @@
   #awards-history-search-help {
     display: none;
   }
+
+  // TDB: move some of this into its own SASS for other pages?
+  .typeahead.dropdown-menu {
+    background: white;
+    border: 1px solid #aaa;
+    position: absolute;
+    top: 80% !important;
+    min-width: 12.7em;
+    padding: 0;
+    list-style-type: none;
+
+    li {
+      padding: 0.3em 0.6em;
+      margin: 0;
+
+      a {
+        border-bottom: none;
+      }
+
+      &.active {
+        background: #f6f6f6;
+        border-botom: none;
+      }
+    }
+  }
 }

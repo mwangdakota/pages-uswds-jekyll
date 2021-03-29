@@ -78,10 +78,45 @@ $(document).ready(function () {
 
   let download_limit = {{ site['awards_history']['download_limit'] }};
 
+  let autocomplete_index;
+
   awards_history_filters.year = $('.awards-history-year-filters .active').text();
 
-  fetch('{{ site.baseurl }}/data/awards-history.json').then(function (response) {
-    return response.json();
+  let substringMatcher = function(strs) {
+    return function findMatches(q, cb) {
+      var matches, substringRegex;
+
+      // an array that will be populated with substring matches
+      matches = [];
+
+      // regex used to determine if a string contains the substring `q`
+      substrRegex = new RegExp(q, 'i');
+
+      // iterate through the pool of strings and for any string that
+      // contains the substring `q`, add it to the `matches` array
+      $.each(strs, function(i, str) {
+        if (substrRegex.test(str)) {
+          matches.push(str);
+        }
+      });
+
+      cb(matches);
+    };
+  };
+
+  Promise.all([
+
+    fetch('{{ site.baseurl }}/data/awards-history.json'),
+    fetch('{{ site.baseurl }}/data/awards-history-ac-index.json')
+
+  ]).then(function(responses) {
+
+    (async function() {
+      autocomplete_index = await responses[1].json();
+    })();
+
+    return responses[0].json();
+
   }).then(function (data) {
 
     let awards_history = data.map(function (award) {
@@ -132,6 +167,14 @@ $(document).ready(function () {
           })).
           concat('</tr>').
           join('');
+
+        let api = this.api();
+        $('.dataTables_filter input[type="search"]', api.table().container()).typeahead({
+          source: autocomplete_index,
+          afterSelect: function (value) {
+            api.search(value).draw();
+          }
+        });
       },
       data: awards_history,
       columns: [
