@@ -1,11 +1,14 @@
 require 'yaml'
 require 'fileutils'
 
+puts "Generating _data/awards_history_ac_index.yml..."
+
 module SiteData
   class AwardsHistoryAutocompleteIndex
-    def initialize(site)
+    def initialize
       @basepath = Dir.pwd
     end
+
 
     def generate
       count = 0
@@ -27,17 +30,12 @@ module SiteData
       awards.each do |award|
         props.each do |prop|
           tokenize(award[prop]).each do |word|
-          #award[prop].to_s.split(/\s+/).each do |word|
-            # word = word.strip.downcase.gsub(/[^\A-Za-z0-9 \'\-%]/, '')
-            # word = word.gsub(/^\'/, '').gsub(/\'$/, '')
-            #unless word.empty? or word.match(/^\-+$/)
-              if words.key?(word)
-                words[word] += 1
-              else
-                count += 1
-                words[word] = 1
-              end
-            #end
+            if words.key?(word)
+              words[word] += 1
+            else
+              count += 1
+              words[word] = 1
+            end
           end
         end
       end
@@ -54,9 +52,9 @@ module SiteData
       end
 
       if count == 1
-        puts "   1 search tokens generated."
+        puts "1 search tokens generated."
       else
-        puts "   #{count} search tokens generated."
+        puts "#{count} search tokens generated."
       end
     end
 
@@ -73,3 +71,5 @@ module SiteData
     end
   end
 end
+
+SiteData::AwardsHistoryAutocompleteIndex.new().generate

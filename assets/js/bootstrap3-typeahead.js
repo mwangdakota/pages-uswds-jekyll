@@ -206,11 +206,16 @@
         return this.render(items).show();
       } else {
         /*
-        Dakota Consulting - SLJ - in some cases, if the user backspaces
-        or otherwise clears the input field quickly enough, the logic
-        reaches this block.  So, examine the query and only return
-        something if the query is not empty
+        Dakota Consulting - SLJ
+
+        In some cases, if the user backspaces or otherwise clears the input field quickly enough,
+        the logic reaches this block.  So return something only if the query is not empty.
+
+        Furthermore, if the user previously seleted a suggestion, it gets written to the input field's
+        innerText, which gets detected here, causing a dropdown to reappear even though the field is
+        clear.  Prevent this behavior by deleting the innerText first.
         */
+        this.$element.text('');
         if (!this.query.trim().length) return;
         return this.render(items.slice(0, this.options.items)).show();
       }

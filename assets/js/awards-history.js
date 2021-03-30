@@ -1,5 +1,8 @@
 ---
 ---
+{% assign use_autocomplete = site['awards_history']['autocomplete']['use'] %}
+{% assign suggestions = site['awards_history']['autocomplete']['suggestions'] | downcase %}
+{% if suggestions == 'all' %}{% assign suggestions = "'all'" %}{% endif %}
 function init_awards_history_filters() {
   return {
     year: 'All',
@@ -107,13 +110,17 @@ $(document).ready(function () {
   Promise.all([
 
     fetch('{{ site.baseurl }}/data/awards-history.json'),
+    {% if use_autocomplete %}
     fetch('{{ site.baseurl }}/data/awards-history-ac-index.json')
+    {% endif %}
 
   ]).then(function(responses) {
 
+    {% if use_autocomplete %}
     (async function() {
       autocomplete_index = await responses[1].json();
     })();
+    {% endif %}
 
     return responses[0].json();
 
@@ -168,13 +175,16 @@ $(document).ready(function () {
           concat('</tr>').
           join('');
 
+        {% if use_autocomplete %}
         let api = this.api();
         $('.dataTables_filter input[type="search"]', api.table().container()).typeahead({
+          items: {{ suggestions }},
           source: autocomplete_index,
           afterSelect: function (value) {
             api.search(value).draw();
           }
         });
+        {% endif %}
       },
       data: awards_history,
       columns: [
@@ -297,6 +307,14 @@ $(document).ready(function () {
 
     $('.awards-history-grid-filters .state-list input[type="checkbox"]').change(function(evt) {
       awards_history_filters.states[evt.target.value] = evt.target.checked;
+      dt.draw();
+    });
+
+    $('.awards-history-grid-filters #all_states').change(function(evt) {
+      $('.awards-history-grid-filters .state-list input[type="checkbox"]').each(function(index, el) {
+        el.checked = evt.target.checked;
+        awards_history_filters.states[el.value] = evt.target.checked;
+      })
       dt.draw();
     });
 

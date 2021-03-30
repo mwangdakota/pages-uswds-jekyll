@@ -115,6 +115,9 @@ topics_api:
 
 awards_history:
   download_limit: 300
+  autocomplete:
+    use: true
+    suggestions: 10
 
 show:
   pitchbook:
@@ -124,3 +127,6 @@ show:
     website: true
     year_founded: true
     employee_count: true
+
+exclude:
+  - scripts/

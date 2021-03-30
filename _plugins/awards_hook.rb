@@ -25,9 +25,4 @@ Jekyll::Hooks.register :site, :after_init do |site|
   puts "updating program directors..."
   program_directors = SiteData::ProgramDirectors.new(site)
   program_directors.generate
-
-  puts "--------------------"
-  puts "Generating history autocomplete index data..."
-  autocomplete_index_data = SiteData::AwardsHistoryAutocompleteIndex.new(site)
-  autocomplete_index_data.generate
 end

@@ -41,6 +41,10 @@ permalink: /awardees/history/
           <label for="phase2">Phase II</label>
         </div>
         <h4>Location</h4>
+        <div class="filter" data-state="AK">
+          <input type="checkbox" id="all_states" name="all_states" title="Select or Unselect All">
+          <label for="all_states">All</label>
+        </div>
         <div class="state-list">
           {% for state_abbr in states %}
           <div class="filter" data-state="{{ state_abbr }}">
@@ -64,29 +68,21 @@ permalink: /awardees/history/
       <ul>
         <li>Minimum 2 characters are required.</li>
         <li>Search is case-insensitive.</li>
-        <li>Search any part of the word, beginning, ending, or character(s) in the middle of the word.  For example:
+        <li>Search any part of the word, beginning, ending, or character(s) in the middle of the word.<br/>For example:
           <ul>
             <li>To find "Nanofiber",
               search for <strong>Nano</strong> or <strong>ber</strong> or <strong>nofi</strong>.</li>
           </ul>
         </li>
         <li>Separate multiple search terms with at least one space.  Results are found if each term
-          matches some part of a word.  For example:
+          matches some part of a word.<br/>For example:
           <ul>
-            <li>Searching for <strong>diese</strong>, <strong>haust</strong>, <strong>sel exha</strong> or
-              <strong>exha sel</strong> will all yield results where "Diesel" is followed by "Exhaust"
-              or vice-versa.</li>
-            <li>Searching for <strong>Diesel Exhaust not_here_at_all</strong> fails if
-              "Diesel" and "Exhaust" exist but "not_here_at_all" is missing.</li>
+            <li>To find "Diesel Exhaust", search for <strong>diese</strong>, <strong>haust</strong> or <strong>sel exha</strong>.</li>
           </ul>
         </li>
-        <li>Exact searches should be <span class="emphasized">surrounded by double quotes</span>.
-          For example, to find "Prosthetic Knee" precisely, search for <strong>"Prosthetic Knee"</strong>
-          or <strong>"prosthetic knee"</strong>.  On the other hand:
+        <li>Exact searches should be <span class="emphasized">surrounded by double quotes</span>.<br/>For example:
           <ul>
-            <li><strong>"Knee Prosthetic"</strong> fails because "Prosthetic" appears first.</li>
-            <li><strong>"Prosthetic&nbsp;&nbsp;&nbsp;Knee"</strong> fails because there
-              is only one space between "Prosthetic" and "Knee"</li>
+            <li>To find "Prosthetic Knee" precisely, search for <strong>"prosthetic knee"</strong> (Double quotes).</li>
           </ul>
         </li>
         <li>Search results are returned as you type.</li>
