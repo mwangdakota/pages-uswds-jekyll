@@ -1,14 +1,11 @@
 require 'yaml'
 require 'fileutils'
 
-puts "Generating _data/awards_history_ac_index.yml..."
-
 module SiteData
   class AwardsHistoryAutocompleteIndex
-    def initialize
+    def initialize(site)
       @basepath = Dir.pwd
     end
-
 
     def generate
       count = 0
@@ -52,9 +49,9 @@ module SiteData
       end
 
       if count == 1
-        puts "1 search tokens generated."
+        puts "   1 search tokens generated."
       else
-        puts "#{count} search tokens generated."
+        puts "   #{count} search tokens generated."
       end
     end
 
@@ -71,5 +68,3 @@ module SiteData
     end
   end
 end
-
-SiteData::AwardsHistoryAutocompleteIndex.new().generate
