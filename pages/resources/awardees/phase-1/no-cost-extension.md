@@ -16,6 +16,7 @@ Here are the requirements for a no-cost extension, excerpted from the NSF's Gran
 - You must submit your request to NSF at least 45 days prior to your award's expiration date. Your request must explain why you need the extension and include an estimate of the unobligated funds remaining and a plan for how you'll use them. Having unobligated funds when your award expires isn't in itself a sufficient justification for an extension.
 - Your plan must follow the previously approved objectives of the project. Any NSF-approved no-cost extension will be issued by an NSF Grants Officer in the form of an amendment to your award and will specify a new expiration date. Please do not make new commitments or incur new expenses after your award's expiration date in anticipation of a no-cost extension.
 - A company may submit a Phase II proposal anytime between six (6) months and two years (24 months) after the start date of the relevant Phase I award. The start date can be found on your Phase I award letter. A no-cost extension will not extend your window to submit a Phase II proposal.
+- Please note: A No-cost extension does not extend the eligibility period for supplements.
 
 ## Instructions for requesting a no-cost extension
 1. From the [Research.gov homepage](https://www.research.gov), navigate to the Awards & Reporting column and select the Notifications & Requests option.
