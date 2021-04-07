@@ -1,6 +1,6 @@
 ---
 title: Advanced Analytics Grant – Apply Today
-keywords: [advanced analytics grant]
+description: Add in new subheading for Advanced Analytics Grant. Add in two sentences about past grant winners in the area and link to showcase if applicable.
 permalink: /topics/advanced-analytics/
 layout: tech-topic
 topic_code: aa
