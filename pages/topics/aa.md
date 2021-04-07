@@ -1,7 +1,8 @@
 ---
 title: Advanced Analytics Grant – Apply Today
-<meta name="description" content="Add in new subheading for Advanced Analytics Grant. Add in two sentences about past grant winners in the area and link to showcase if applicable.">
-<meta name="keywords" content="advanced analytics grant">
+header-includes:
+    <meta name="keywords" content="advanced analytics grant" />
+    <meta name="description" content="Add in new subheading for Advanced Analytics Grant. Add in two sentences about past grant winners in the area and link to showcase if applicable." />
 permalink: /topics/advanced-analytics/
 layout: tech-topic
 topic_code: aa
