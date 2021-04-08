@@ -2,10 +2,6 @@
 title: Advanced Analytics Grant – Apply Today
 description: 
   - NSF provides startups with grant funding for advanced analytics innovations.
-keywords:
-  - advanced
-  - analytics 
-  - grant
 permalink: /topics/advanced-analytics/
 layout: tech-topic
 topic_code: aa
