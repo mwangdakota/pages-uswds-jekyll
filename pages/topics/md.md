@@ -1,6 +1,8 @@
 ---
-title: Medical Devices (MD)
+title: Medical Devices Grant – Apply Today
 permalink: /topics/medical-devices/
+description: 
+  - NSF funds startups. Use a research and development grant to create medical devices.
 layout: tech-topic
 topic_code: md
 section_image: "/assets/img/bg/neural-analytics-2c-sh.jpg"
