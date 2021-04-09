@@ -1,6 +1,8 @@
 ---
-title: Internet of Things (I)
+title: Internet of Things Grant – Apply Today
 permalink: /topics/internet-of-things/
+description: 
+  - NSF provides startups with grant funding for Internet of Things applications. 
 layout: tech-topic
 topic_code: i
 section_image: "/assets/img/bg/iotas-2c-i.jpg"
