@@ -1,0 +1,71 @@
+{% assign tab = page.url | split: '/' | last %}
+
+<section class="usa-section full-bleed-bg--blue">
+  <nav class="section-tabs" aria-label="section links">
+    <ul class="section-tabs__nav">
+        <li class="section-tabs__tab"><a{% if tab == 'get-started'%} class="section-tabs__active"{% else %}{% endif %}
+          href="{{ site.baseurl }}/apply/get-started/">Get Started</a></li>
+        <li class="section-tabs__tab"><a{% if tab == 'understand-basics'%} class="section-tabs__active"{% else %}{% endif %}
+          href="{{ site.baseurl }}/apply/understand-basics/">Step 1</a></li>
+        <li class="section-tabs__tab"><a{% if tab == 'project-pitch'%} class="section-tabs__active"{% else %}{% endif %}
+          href="{{ site.baseurl }}/apply/project-pitch/">Step 2</a></li>
+        <li class="section-tabs__tab"><a{% if tab == 'full-proposal'%} class="section-tabs__active"{% else %}{% endif %}
+          href="{{ site.baseurl }}/apply/full-proposal/">Step 3</a></li>
+        <li class="section-tabs__tab"><a{% if tab == 'review-decision'%} class="section-tabs__active"{% else %}{% endif %}
+          href="{{ site.baseurl }}/apply/review-decision/">Step 4</a></li>
+    </ul>
+
+    {% if tab == 'get-started'%}
+    <h1>Get started</h1>
+    <div class="section-tabs__desc">
+      <p>
+        This is where we give a program overview. What is this program, what can the user get from this (invest
+        up to $1.75m and no equity), and how to get started (read this page, understand eligibility and
+        apply-more info can be given lower on the page).
+      </p>
+    </div>
+    {% endif %}
+
+    {% if tab == 'understand-basics'%}
+    <h1>Understand the basics</h1>
+    <div class="section-tabs__desc">
+      <p>
+        Brief page intro/summary of the content on this page and any. Nori grape silver beet broccoli kombu beet greens fava bean potato quandong celery. Bunya nuts black-eyed pea prairie turnip leek lentil turnip greens parsnip.
+      </p>
+    </div>
+    {% endif %}
+
+    {% if tab == 'project-pitch'%}
+    <h1>Project pitch</h1>
+    <div class="section-tabs__desc">
+      <p>
+        Brief page intro/summary of the content on this page/what is the project pitch. The required Project Pitch allows startups and small businesses to get quick feedback at the start of their application for Phase I funding from America’s Seed Fund powered by NSF.
+      </p>
+    </div>
+    {% endif %}
+
+    {% if tab == 'full-proposal'%}
+    <h1>Full proposal</h1>
+    <div class="section-tabs__desc">
+      <p>
+        Brief page intro/summary of the content on this page/what is. Nori grape silver beet broccoli kombu beet greens fava bean potato quandong celery. Bunya nuts black-eyed pea prairie turnip leek lentil turnip greens parsnip.
+      </p>
+    </div>
+    {% endif %}
+
+    {% if tab == 'review-decision'%}
+    <h1>Application review and decision</h1>
+    <div class="section-tabs__desc">
+      <p>
+        Brief page intro/summary of the content on this page/what is expected from the user. Making it clear that this step happens after you have submitted your application.
+      </p>
+      <p>
+        An optional section about the review critieria. Aliquam eu nisi leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus id nibh vitae nisi rhoncus auctor.
+      </p>
+      <p>
+        Proin mi turpis, interdum at imperdiet ut, condimentum non nulla. Praesent dignissim, lorem ac faucibus finibus, tellus lectus hendrerit enim, eget elementum massa mi eget sem. Phasellus purus metus, efficitur ac sem consequat, placerat molestie magna. Integer libero massa, volutpat vitae hendrerit efficitur, sodales eget justo. Aenean et elit nibh. Nunc tincidunt mauris orci, vitae vulputate mauris vulputate quis.
+      </p>
+    </div>
+    {% endif %}
+  </nav>
+</section>

@@ -1,0 +1,83 @@
+$block: 'step-banner';
+
+.#{$block} {
+	$padding: 30px;
+	$arrow-size: 50px;
+	$arrow-size-sm: 35px;
+
+	margin-top: 30px;
+
+	&__content {
+		position: relative;
+		display: block;
+		padding: 40px (($padding * 2) + $arrow-size) 40px $padding;
+		background: linear-gradient(to right, $color-primary-darkest, $color-primary-alt-medium);
+		border: 0;
+		text-decoration: none;
+		z-index: 1;
+
+		&,
+		&:hover,
+		&:focus,
+		h2 {
+			color: $color-white;
+		}
+
+		&:before,
+		&:after {
+			position: absolute;
+		}
+
+		&:before { // transitionable gradient
+			top: 0;
+			right: 0;
+			bottom: 0;
+			left: 0;
+			// focus the light part on the right side
+			background: linear-gradient(to right, $color-primary-darkest 50%, $color-primary-alt-medium);
+			opacity: 0;
+			transition: opacity .3s;
+			content: '';
+			z-index: -1;
+		}
+
+		&:after {
+			top: 50%;
+			right: $padding;
+			width: $arrow-size;
+			font-family: $font-serif;
+			font-size: $font-size-xl;
+			transition: right .3s;
+			line-height: 0;
+			content: '\2192'; // right arrow
+		}
+
+		&:hover,
+		&:focus {
+			&:before {
+				opacity: 1;
+			}
+
+			&:after {
+				right: $padding - 10px;
+			}
+		}
+
+		p {
+			&:last-child {
+				margin-bottom: 0;
+			}
+		}
+	}
+
+	@media screen and (max-width: $small-screen) {
+		&__content {
+			padding-right: $padding + $arrow-size-sm + 15px;
+
+			&:after {
+				width: $arrow-size-sm;
+				font-size: $font-size-l;
+			}
+		}
+	}
+}

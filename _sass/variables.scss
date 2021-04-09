@@ -45,6 +45,11 @@ $color-tertiary-light: #E59393;
 $color-tertiary-lightest: #F9DEDE;
 $color-white-transprent: rgba(255,255,255,.9);
 
+$color-primary-transparent: rgba($color-primary, .05);
+$color-white: #fff;
+$color-white-transparent-light: rgba($color-white, .12);
+$color-base-transparent: rgba($color-base, .12);
+
 
 // Backgrounds
 $color-bg-light: #F5FBFC;
@@ -76,6 +81,7 @@ $leading-m: 1.625;
 $leading-s: 1.5;
 $leading-xs: 1.35;
 $leading-xxs: 1.2;
+$leading-xxxs: 0.7;
 
 // Letter-spacing
 $kern-tight: -.015em;
@@ -94,3 +100,17 @@ $space-xl: 6rem;
 $font-path: '../uswds/fonts';
 $image-path: '../uswds/img';
 @import 'uswds/all';
+
+///// Custom mixins
+
+$number-height: $font-size-m + 2.5rem;
+@mixin number {
+	display: inline-block;
+	padding: 0 20px;
+	background: $color-primary;
+	background: linear-gradient(to top left, $color-primary-alt-medium 0%, $color-primary-darkest 100%);
+	color: $color-white;
+	font-size: $font-size-m;
+	font-weight: $font-bold;
+	line-height: $number-height;
+}
