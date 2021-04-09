@@ -1,6 +1,8 @@
 ---
-title: Wireless Technologies (W)
+title: Wireless Technologies Grant – Apply Today
 permalink: /topics/wireless-technologies/
+description: 
+  - NSF funds startups. Use a research and development grant to create wireless technologies. 
 layout: tech-topic
 topic_code: w
 section_image: "/assets/img/bg/syntouch-2c-ew.jpg"
