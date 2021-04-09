@@ -1,6 +1,8 @@
 ---
-title: Instrumentation and Hardware Systems (IH)
+title: Instrumentation and Hardware Systems Grant – Apply Today
 permalink: /topics/instrumentation-and-hardware-systems/
+description: 
+  - NSF funds startups. Use a research and development grant to create instrumentation and hardware systems. 
 layout: tech-topic
 topic_code: ih
 section_image: "/assets/img/bg/biomason-2c-mi.jpg"
