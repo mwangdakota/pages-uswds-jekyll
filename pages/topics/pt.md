@@ -1,6 +1,8 @@
 ---
-title: Pharmaceutical Technologies (PT)
+title: Pharmaceutical Technologies Grant – Apply Today
 permalink: /topics/pharmaceutical-technologies/
+description: 
+  - NSF funds startups. Use a research and development grant to create pharmaceutical technologies. 
 layout: tech-topic
 topic_code: pt
 section_image: "/assets/img/bg/neural-analytics-2c-sh.jpg"
