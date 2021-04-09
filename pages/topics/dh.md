@@ -1,6 +1,8 @@
 ---
-title: Digital Health (DH)
+title: Digital Health Grant – Apply Today
 permalink: /topics/digital-health/
+description: 
+  - NSF funds startups. Use a research and development grant to create digital health applications.
 layout: tech-topic
 topic_code: dh
 section_image: "/assets/img/bg/neural-analytics-2c-sh.jpg"
