@@ -83,7 +83,7 @@ layout: secondary-narrow
           <ol class="apply-list">
             <li>
               <h3>
-                <a href="&#x2F;patterns&#x2F;04-pages-08-apply-00-apply-1&#x2F;04-pages-08-apply-00-apply-1.rendered.html">
+                <a href="/patterns/04-pages-08-apply-00-apply-1/04-pages-08-apply-00-apply-1.rendered.html">
                   Understand the basics
                 </a>
               </h3>
@@ -91,7 +91,7 @@ layout: secondary-narrow
             </li>
             <li>
               <h3>
-                <a href="&#x2F;patterns&#x2F;04-pages-08-apply-00-apply-2&#x2F;04-pages-08-apply-00-apply-2.rendered.html">
+                <a href="/patterns/04-pages-08-apply-00-apply-2/04-pages-08-apply-00-apply-2.rendered.html">
                   Submit your project pitch
                 </a>
               </h3>
@@ -99,25 +99,25 @@ layout: secondary-narrow
             </li>
             <li>
               <h3>
-                <a href="&#x2F;patterns&#x2F;04-pages-08-apply-00-apply-3&#x2F;04-pages-08-apply-00-apply-3.rendered.html">
+                <a href="/patterns/04-pages-08-apply-00-apply-3/04-pages-08-apply-00-apply-3.rendered.html">
                   Submit your full proposal
                 </a>
               </h3>
-              <p>Once your pitch is accepted, you&#39;ll need to complete your application using our formal SBIR or STTR solicitations.</p>
+              <p>Once your pitch is accepted, you'll need to complete your application using our formal SBIR or STTR solicitations.</p>
             </li>
             <li>
               <h3>
-                <a href="&#x2F;patterns&#x2F;04-pages-08-apply-00-apply-4&#x2F;04-pages-08-apply-00-apply-4.rendered.html">
+                <a href="/patterns/04-pages-08-apply-00-apply-4/04-pages-08-apply-00-apply-4.rendered.html">
                   Application review, decision, and next steps
                 </a>
               </h3>
-              <p>After you&#39;ve submitted your application you&#39;ll need to wait to hear from us and complete xyz.</p>
+              <p>After you've submitted your application you'll need to wait to hear from us and complete xyz.</p>
             </li>
           </ol>
           <div class="step-banner">
-            <a class="step-banner__content" href="&#x2F;patterns&#x2F;04-pages-08-apply-00-apply-1&#x2F;04-pages-08-apply-00-apply-1.rendered.html">
+            <a class="step-banner__content" href="/patterns/04-pages-08-apply-00-apply-1/04-pages-08-apply-00-apply-1.rendered.html">
               <h2>Step 1: Understanding the basics</h2>
-              <p>Quick overview of this step &quot;There are few eligibility requirements that you need to make sure your company meets.&quot;</p>
+              <p>Quick overview of this step "There are few eligibility requirements that you need to make sure your company meets."</p>
             </a>
           </div>
         </section>
