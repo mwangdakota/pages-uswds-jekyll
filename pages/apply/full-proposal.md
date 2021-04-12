@@ -52,7 +52,8 @@ layout: secondary-narrow
           <br>We encourage you to familiarize yourself with our <a href="#">FastLane guide</a>.</p>
         <a class="usa-button usa-button-secondary" href="#">Submit your Application</a>
   </div>
-        <section class="usa-section full-bleed-bg">
+ 
+ <section class="usa-section full-bleed-bg">
           <h2>Apply resources</h2>
           <p>In case the user has more questions or needs additional support the following pages can help them:</p>
           <p><b>How To Video Tutorials</b>
