@@ -91,7 +91,7 @@ if (!(searchKeyword.value.trim()).match(/\S/)) {
         });
 
         //apply buttom ...        
-        $("button.usa-accordion-button.usa-nav-link").find('<span>How It Works</span>').addClass('nav-apply-button-link');
+        $("ul.usa-nav-primary.usa-accordion li").find('a[href*="/apply/"]').addClass('nav-apply-button-link');
 
         //headroom overrides
         if ( $( "body.landing-layout" ).length == 0) {                
