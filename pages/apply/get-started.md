@@ -57,8 +57,25 @@ layout: secondary-narrow
               </div>
             </div>
           </div>
-</div>
-
+ <div class="apply-timeline__desc apply-timeline__block--expanded">
+            <p>If your project pitch is accepted complete these steps. We offer multiple submission windows, but proposals can be submitted anytime.</p>
+          </div>
+          <div class="apply-timeline__block">
+            <div class="apply-timeline__number">4</div>
+            <div class="apply-timeline__main">
+              <div class="apply-timeline__content">
+                <h3 class="apply-timeline__title">
+                  <a href="/patterns/04-pages-08-apply-00-apply-4/04-pages-08-apply-00-apply-4.rendered.html">
+                    Application Review and Decision
+                  </a>
+                </h3>
+              </div>
+            </div>
+          </div>
+          <div class="apply-timeline__desc">
+            <p>4-6 months after you submit, you’ll be notified about funding.</p>
+          </div>
+        </div>
  <section class="usa-section full-bleed-bg" markdown="0">
           <h2>Process Overview</h2>
           <p class="text-medium">Marketing esque copy to tease ahead the process for the user. “If you’re interested in applying please complete the following steps…”</p>
