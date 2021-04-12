@@ -4,8 +4,7 @@ permalink: /apply/full-proposal/
 layout: secondary-narrow
 ---
 {% include apply-nav.html %}
-
-  <section class="usa-section full-bleed-bg">
+<section class="usa-section full-bleed-bg">
           <h2>Submission</h2>
           <p>We can take this opportunity to explain what the PP submission window means and how its just part 1 of the process.</p>
           <ul>
@@ -15,7 +14,8 @@ layout: secondary-narrow
             <li>Etc.</li>
           </ul>
         </section>
-        <div markdown="0">
+
+<div markdown="0">
         <h2>Next steps</h2>
        <p>Educate the user that the following are all things that need to be done. We can include verbiage about timing and requirements here (they can only submit once, they have a full year to send in their app after their PP is accepted, etc.)</p>
         <p><b>Read the call for proposals (solicitation)</b>
