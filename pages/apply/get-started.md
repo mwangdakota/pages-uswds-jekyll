@@ -16,7 +16,7 @@ layout: secondary-narrow
                 </h3>
               </div>
             </div>
-            </div>
+          </div>
           <div class="apply-timeline__desc">
           </div>
           <div class="apply-timeline__block">
@@ -29,6 +29,31 @@ layout: secondary-narrow
                   </a>
                 </h3>
                 <div class="apply-timeline__required">(Required)</div>
+              </div>
+            </div>
+          </div>
+          <div class="apply-timeline__desc">
+            <p>1 month after you submit your pitch, you’ll hear back.</p>
+          </div>
+          <div class="apply-timeline__block apply-timeline__block--expanded">
+            <div class="apply-timeline__number">3</div>
+            <div class="apply-timeline__main">
+              <div class="apply-timeline__content">
+                <h3 class="apply-timeline__title">
+                  <a href="/patterns/04-pages-08-apply-00-apply-3/04-pages-08-apply-00-apply-3.rendered.html">
+                    Submit a Full Proposal
+                  </a>
+                </h3>
+                <div class="apply-timeline__required">(Required)</div>
+              </div>
+              <div class="apply-timeline__content">
+                <h4 class="apply-timeline__subtitle">Register your company</h4>
+              </div>
+              <div class="apply-timeline__content">
+                <h4 class="apply-timeline__subtitle">Review solicitations</h4>
+              </div>
+              <div class="apply-timeline__content">
+                <h4 class="apply-timeline__subtitle">Submit your proposal</h4>
               </div>
             </div>
           </div>
