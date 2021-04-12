@@ -91,7 +91,7 @@ if (!(searchKeyword.value.trim()).match(/\S/)) {
         });
 
         //apply buttom ...        
-        $("ul.usa-nav-primary.usa-accordion li").find('a[href*="/apply/"]').addClass('nav-apply-button-link');
+        $("button.usa-accordion-button.usa-nav-link").addClass('nav-apply-button-link');
 
         //headroom overrides
         if ( $( "body.landing-layout" ).length == 0) {                
