@@ -16,8 +16,22 @@ layout: secondary-narrow
                 </h3>
               </div>
             </div>
+            </div>
+          <div class="apply-timeline__desc">
           </div>
-</div>
+          <div class="apply-timeline__block">
+            <div class="apply-timeline__number">2</div>
+            <div class="apply-timeline__main">
+              <div class="apply-timeline__content">
+                <h3 class="apply-timeline__title">
+                  <a href="/patterns/04-pages-08-apply-00-apply-2/04-pages-08-apply-00-apply-2.rendered.html">
+                    Submit a Project Pitch
+                  </a>
+                </h3>
+                <div class="apply-timeline__required">(Required)</div>
+              </div>
+            </div>
+          </div>
 </div>
 
  <section class="usa-section full-bleed-bg" markdown="0">
