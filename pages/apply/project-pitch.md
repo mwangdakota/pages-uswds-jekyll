@@ -24,4 +24,13 @@ layout: secondary-narrow
         <p><b>5. Submit your pitch below</b></p>
         <a class="usa-button usa-button-secondary" href="#">Submit your Project Pitch</a>
         <p class="text-small">*Each small business can only submit one Project Pitch at a time. Any small business with a pending Project Pitch must wait for a response before submitting another Project Pitch. Any small business that has received an invitation to submit a full proposal must wait for a resolution of the full proposal before submitting a new or revised Project Pitch.</p>
-</div>        
+</div>   
+
+<section class="usa-section full-bleed-bg">
+          <div class="step-banner">
+            <a class="step-banner__content" href="/patterns/04-pages-08-apply-00-apply-3/04-pages-08-apply-00-apply-3.rendered.html">
+              <h2>Step 3: Full proposal</h2>
+              <p>What happens after the user submits their project pitch, what should they expect next. We can also recommend that they go to the full proposal page next to learn about what they’ll need to do if they’re PP is accepted.</p>
+            </a>
+          </div>
+        </section>
