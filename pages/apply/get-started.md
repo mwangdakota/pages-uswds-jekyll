@@ -4,7 +4,22 @@ permalink: /apply/get-started/
 layout: secondary-narrow
 ---
 {% include apply-nav.html %}
-<div class="apply-timeline apply-timeline--expanded-1">test</div>
+<div class="apply-timeline apply-timeline--expanded-1">
+<div class="apply-timeline__block">
+            <div class="apply-timeline__number">1</div>
+            <div class="apply-timeline__main">
+              <div class="apply-timeline__content">
+                <h3 class="apply-timeline__title">
+                  <a href="/patterns/04-pages-08-apply-00-apply-1/04-pages-08-apply-00-apply-1.rendered.html">
+                    Understand the Basics
+                  </a>
+                </h3>
+              </div>
+            </div>
+          </div>
+</div>
+</div>
+
  <section class="usa-section full-bleed-bg" markdown="0">
           <h2>Process Overview</h2>
           <p class="text-medium">Marketing esque copy to tease ahead the process for the user. “If you’re interested in applying please complete the following steps…”</p>
