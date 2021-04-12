@@ -2,13 +2,13 @@
 permalink: /data/awards-history.json
 ---
 {% assign awards_history = site.data.awards_history | sort: 'AwardDate' | reverse %}[
-  {% for award in awards_history %}{
+  {% for award in awards_history %}{% assign abstract = award.Abstract | linebreaks %}{
     "AwardID": "{{ award.AwardID }}",
     "Title": "{{ award.Title | replace: "'", "&#39;" | replace: '"', "&#34;" }}",
     "CalendarYear": "{{ award.CalendarYear }}",
     "FiscalYear": "{{ award.FiscalYear }}",
     "ProgramManager": "{{ award.ProgramManager | replace: "'", "&#39;" | replace: '"', "&#34;" }}",
-    "Abstract": "{{ award.Abstract | replace: "'", "&#39;" | replace: '"', "&#34;" | replace: '?\', '-' }}",
+    "Abstract": "{{ abstract | replace: "'", "&#39;" | replace: '"', "&#34;" | replace: '?\', '-' }}",
     "AwardDate": "{{ award.AwardDate }}",
     "StartDate": "{{ award.StartDate }}",
     "EndDate": "{{ award.EndDate }}",
