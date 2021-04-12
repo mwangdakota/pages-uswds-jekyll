@@ -120,5 +120,3 @@ layout: secondary-narrow
             </a>
           </div>
         </section>
-</div>
-</div>
