@@ -36,7 +36,6 @@ layout: secondary-narrow
               <p>What happens after the user submits their project pitch, what should they expect next. We can also recommend that they go to the full proposal page next to learn about what they’ll need to do if they’re PP is accepted.</p>
             </a>
           </div>
-        </section>
 
       </div>
     </div>
