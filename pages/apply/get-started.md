@@ -77,7 +77,6 @@ layout: secondary-narrow
             <p>4-6 months after you submit, you’ll be notified about funding.</p>
           </div>
         </div>
-        </section>
         <section class="usa-section full-bleed-bg">
           <h2>Process Overview</h2>
           <p class="text-medium">Marketing esque copy to tease ahead the process for the user. “If you’re interested in applying please complete the following steps…”</p>
