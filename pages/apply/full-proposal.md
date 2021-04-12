@@ -15,6 +15,7 @@ layout: secondary-narrow
             <li>Etc.</li>
           </ul>
         </section>
+        <div markdown="0">
         <h2>Next steps</h2>
        <p>Educate the user that the following are all things that need to be done. We can include verbiage about timing and requirements here (they can only submit once, they have a full year to send in their app after their PP is accepted, etc.)</p>
         <p><b>Read the call for proposals (solicitation)</b>
@@ -50,6 +51,7 @@ layout: secondary-narrow
         <p><b>Ready to submit your application?</b>
           <br>We encourage you to familiarize yourself with our <a href="#">FastLane guide</a>.</p>
         <a class="usa-button usa-button-secondary" href="#">Submit your Application</a>
+  </div>
         <section class="usa-section full-bleed-bg">
           <h2>Apply resources</h2>
           <p>In case the user has more questions or needs additional support the following pages can help them:</p>
