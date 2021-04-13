@@ -78,7 +78,7 @@ layout: secondary-narrow
         </div>
  <section class="usa-section full-bleed-bg" markdown="0">
           <h2>Process Overview</h2>
-          <p class="text-medium">Marketing esque copy to tease ahead the process for the user. “If you’re interested in applying please complete the following steps…”</p>
+          <p class="text-medium">Learn about our Phase I application timeline, how to prepare your Project Pitch, and what to expect once you submit your Project Pitch or full proposal.</p>
           <ol class="apply-list">
             <li>
               <h3>
