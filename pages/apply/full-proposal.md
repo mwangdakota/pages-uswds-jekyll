@@ -15,11 +15,11 @@ layout: secondary-narrow
           </ul>
         </section>
 
-<div markup="1">
+<div>
         <h2>Next steps</h2>
        <p>Educate the user that the following are all things that need to be done. We can include verbiage about timing and requirements here (they can only submit once, they have a full year to send in their app after their PP is accepted, etc.)</p>
         <p><b>Read the call for proposals (solicitation)</b>
-          <br>After a brief pause, new Phase I SBIR and STTR solicitations are expected in the weeks following the Dec. 3 closing date. You can check out our last  [{{ site.data.solicitations['SBIR'].title }}]({{ site.data.solicitations['SBIR'].url }}){:target="_blank"} or [{{ site.data.solicitations['STTR'].title }}]({{ site.data.solicitations['STTR'].url }}){:target="_blank"} to get a sense of NSF’s objectives.</p>
+          <br>After a brief pause, new Phase I SBIR and STTR solicitations are expected in the weeks following the Dec. 3 closing date. You can check out our last  <a href="{{ site.data.solicitations['SBIR'].url }})">SBIR solicitation</a> or <a href="{{ site.data.solicitations['STTR'].url }}">STTR solicitation</a> to get a sense of NSF’s objectives.</p>
         <p><b>Register your company (FREE and required)</b>
           <br>If your company hasn’t worked with the government before, you’ll need to register with these systems. You MUST have completed your SAM registration BEFORE you can begin entering your proposal in FastLane. Start as soon as possible!</p>
         <ol class="timeline timeline__no-numbers">
@@ -66,9 +66,9 @@ layout: secondary-narrow
           <p><b>FastLane guide</b>
             <br>Before you start your proposal, take a look at our FastLane guide.</p>
           <p><b>Understanding our Review Process</b>
-            <br>The <a href="#">merit review process</a> enables the NSF to make wise investments in all fields of science and engineering research and education. Please review our documentation to understand each component of our process:
-            <br><a href="#">Review process</a>
-            <br><a href="#">Peer review</a></p>
+            <br>The <a href="https://www.nsf.gov/bfa/dias/policy/merit_review/facts.jsp" target="_blank">merit review process</a> enables the NSF to make wise investments in all fields of science and engineering research and education. Please review our documentation to understand each component of our process:
+            <br><a href="{{ site.baseurl }}/resources/review/review-process/">Review process</a>
+            <br><a href="{{ site.baseurl }}/resources/review/peer-review/">Peer review</a></p>
           <div class="step-banner">
             <a class="step-banner__content" href="{{ site.baseurl }}/apply/review-decision/">
               <h2>Step 4: Application review and decision</h2>
