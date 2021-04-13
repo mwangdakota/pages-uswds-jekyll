@@ -19,7 +19,7 @@ layout: secondary-narrow
         <h2>Next steps</h2>
        <p>Educate the user that the following are all things that need to be done. We can include verbiage about timing and requirements here (they can only submit once, they have a full year to send in their app after their PP is accepted, etc.)</p>
         <p><b>Read the call for proposals (solicitation)</b>
-          <br>After a brief pause, new Phase I SBIR and STTR solicitations are expected in the weeks following the Dec. 3 closing date. You can check out our last  <a href="{{ site.data.solicitations['SBIR'].url }})">SBIR solicitation</a> or <a href="{{ site.data.solicitations['STTR'].url }}">STTR solicitation</a> to get a sense of NSF’s objectives.</p>
+          <br>After a brief pause, new Phase I SBIR and STTR solicitations are expected in the weeks following the Dec. 3 closing date. You can check out our last  <a href="{{ site.data.solicitations['SBIR'].url }}" target="_blank">SBIR solicitation</a> or <a href="{{ site.data.solicitations['STTR'].url }}" target="_blank">STTR solicitation</a> to get a sense of NSF’s objectives.</p>
         <p><b>Register your company (FREE and required)</b>
           <br>If your company hasn’t worked with the government before, you’ll need to register with these systems. You MUST have completed your SAM registration BEFORE you can begin entering your proposal in FastLane. Start as soon as possible!</p>
         <ol class="timeline timeline__no-numbers">
