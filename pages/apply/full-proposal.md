@@ -15,7 +15,7 @@ layout: secondary-narrow
           </ul>
         </section>
 
-<div>
+<div markup="1">
         <h2>Next steps</h2>
        <p>Educate the user that the following are all things that need to be done. We can include verbiage about timing and requirements here (they can only submit once, they have a full year to send in their app after their PP is accepted, etc.)</p>
         <p><b>Read the call for proposals (solicitation)</b>
