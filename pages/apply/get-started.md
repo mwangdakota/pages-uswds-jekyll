@@ -90,7 +90,7 @@ layout: secondary-narrow
             </li>
             <li>
               <h3>
-                <a href="/patterns/04-pages-08-apply-00-apply-2/04-pages-08-apply-00-apply-2.rendered.html">
+                <a href="{{ site.baseurl }}/apply/project-pitch/">
                   Submit your project pitch
                 </a>
               </h3>
@@ -98,7 +98,7 @@ layout: secondary-narrow
             </li>
             <li>
               <h3>
-                <a href="/patterns/04-pages-08-apply-00-apply-3/04-pages-08-apply-00-apply-3.rendered.html">
+                <a href="{{ site.baseurl }}/apply/full-proposal/">
                   Submit your full proposal
                 </a>
               </h3>
@@ -106,7 +106,7 @@ layout: secondary-narrow
             </li>
             <li>
               <h3>
-                <a href="/patterns/04-pages-08-apply-00-apply-4/04-pages-08-apply-00-apply-4.rendered.html">
+                <a href="{{ site.baseurl }}/apply/review-decision/">
                   Application review, decision, and next steps
                 </a>
               </h3>
@@ -114,7 +114,7 @@ layout: secondary-narrow
             </li>
           </ol>
           <div class="step-banner">
-            <a class="step-banner__content" href="/patterns/04-pages-08-apply-00-apply-1/04-pages-08-apply-00-apply-1.rendered.html">
+            <a class="step-banner__content" href="{{ site.baseurl }}/apply/understand-basics/">
               <h2>Step 1: Understanding the basics</h2>
               <p>Quick overview of this step "There are few eligibility requirements that you need to make sure your company meets."</p>
             </a>
