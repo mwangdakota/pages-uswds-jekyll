@@ -46,16 +46,8 @@
         <p class="amount">{{ award.fundsObligatedAmt | round | intcomma_dollar }}</p>
       </div>
       <div class="mb5">
-        {% if award.startDate and award.expDate %}
-          <h4 class="subhead uppercase">Start / end date</h4>
-          <p>{{ award.startDate }} – {{ award.expDate }}</p>
-        {% elsif award.startDate %}
-          <h4 class="subhead uppercase">Start date</h4>
-          <p>{{ award.startDate }}</p>
-        {% elsif award.expDate %}
-          <h4 class="subhead uppercase">End date</h4>
-          <p>{{ award.expDate }}</p>
-        {% endif %}
+        <h4 class="subhead uppercase">Start / end date</h4>
+         <p> dateFormatter.mdyyyy(awd.StartDate)  –  formatEndDate(isEstDate, awd.EndDate) </p>
       </div>
     </div>
 
