@@ -19,7 +19,7 @@ layout: secondary-narrow
         <h2>Next steps</h2>
        <p>Educate the user that the following are all things that need to be done. We can include verbiage about timing and requirements here (they can only submit once, they have a full year to send in their app after their PP is accepted, etc.)</p>
         <p><b>Read the call for proposals (solicitation)</b>
-          <br>After a brief pause, new Phase I SBIR and STTR solicitations are expected in the weeks following the Dec. 3 closing date. You can check out our last [{{ site.data.solicitations['SBIR'].title }}]({{ site.data.solicitations['SBIR'].url }}){:target="_blank"} or [{{ site.data.solicitations['STTR'].title }}]({{ site.data.solicitations['STTR'].url }}){:target="_blank"} to get a sense of NSF’s objectives.</p>
+          <br>After a brief pause, new Phase I SBIR and STTR solicitations are expected in the weeks following the Dec. 3 closing date. You can check out our last <a href="site.data.solicitations['SBIR'].url" target="_blank">SBIR solicitation</a> or <a href="site.data.solicitations['STTR'].url" target="_blank">STTR solicitation</a> to get a sense of NSF’s objectives.</p>
         <p><b>Register your company (FREE and required)</b>
           <br>If your company hasn’t worked with the government before, you’ll need to register with these systems. You MUST have completed your SAM registration BEFORE you can begin entering your proposal in FastLane. Start as soon as possible!</p>
         <ol class="timeline timeline__no-numbers">
@@ -32,7 +32,7 @@ layout: secondary-narrow
                   </button></h2>
                 <div id="required-registrations" class="usa-accordion-content" aria-hidden="true">
                   <!-- https://github.com/18F/nsf-sbir/blob/dev/_timeline/step-3.md -->
-                  <h3 id="dun-and-bradstreet-duns-number"><a href="https://www.nsf.gov/cgi-bin/good-bye?https://www.dnb.com/duns-number/get-a-duns.html" target="_blank">Dun and Bradstreet (DUNS number)</a></h3>
+                  <h3 id="dun-and-bradstreet-duns-number">[Dun and Bradstreet (DUNS number)](https://www.nsf.gov/cgi-bin/good-bye?https://www.dnb.com/duns-number/get-a-duns.html)</h3>
                   <p><strong>Processing time:</strong> Up to five business days</p>
                   <p>A DUNS number is a unique, nine-digit number that identifies each physical location of your company. You’ll need one in order to receive government funding. Because you’re applying for a DUNS number for government funding, processing time should take about five business days.</p>
                   <h3 id="system-for-award-management-sam"><a href="https://www.sam.gov/SAM/" target="_blank">System for Award Management (SAM)</a></h3>
