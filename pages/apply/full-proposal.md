@@ -32,7 +32,7 @@ layout: secondary-narrow
                   </button></h2>
                 <div id="required-registrations" class="usa-accordion-content" aria-hidden="true">
                   <!-- https://github.com/18F/nsf-sbir/blob/dev/_timeline/step-3.md -->
-                  <h3 id="dun-and-bradstreet-duns-number"><a href="https://www.dnb.com/duns-number/get-a-duns.html" target="_blank">Dun and Bradstreet (DUNS number)</h3>
+                  <h3 id="dun-and-bradstreet-duns-number"><a href="https://www.dnb.com/duns-number/get-a-duns.html" target="_blank">Dun and Bradstreet (DUNS number)</a></h3>
                   <p><strong>Processing time:</strong> Up to five business days</p>
                   <p>A DUNS number is a unique, nine-digit number that identifies each physical location of your company. You’ll need one in order to receive government funding. Because you’re applying for a DUNS number for government funding, processing time should take about five business days.</p>
                   <h3 id="system-for-award-management-sam"><a href="https://www.sam.gov/SAM/" target="_blank">System for Award Management (SAM)</a></h3>
