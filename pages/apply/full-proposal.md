@@ -8,10 +8,10 @@ layout: secondary-narrow
           <h2>Submission</h2>
           <p>We can take this opportunity to explain what the PP submission window means and how its just part 1 of the process.</p>
           <ul>
-            <li>Window 1</li>
-            <li>Window 2</li>
-            <li>Window 3</li>
-            <li>Etc.</li>
+            <li>{{ site.solicitation_window_1 }}</li>
+            <li>{{ site.solicitation_window_2 }}</li>
+            <li>{{ site.solicitation_window_3 }}</li>
+            <li>{{ site.solicitation_window_4 }}</li>
           </ul>
         </section>
 
@@ -19,7 +19,7 @@ layout: secondary-narrow
         <h2>Next steps</h2>
        <p>Educate the user that the following are all things that need to be done. We can include verbiage about timing and requirements here (they can only submit once, they have a full year to send in their app after their PP is accepted, etc.)</p>
         <p><b>Read the call for proposals (solicitation)</b>
-          <br>After a brief pause, new Phase I SBIR and STTR solicitations are expected in the weeks following the Dec. 3 closing date. You can check out our last <a href="#">SBIR solicitation</a> or <a href="#">STTR solicitation</a> to get a sense of NSF’s objectives.</p>
+          <br>After a brief pause, new Phase I SBIR and STTR solicitations are expected in the weeks following the Dec. 3 closing date. You can check out our last [{{ site.data.solicitations['SBIR'].title }}]({{ site.data.solicitations['SBIR'].url }}){:target="_blank"} or [{{ site.data.solicitations['STTR'].title }}]({{ site.data.solicitations['STTR'].url }}){:target="_blank"} to get a sense of NSF’s objectives.</p>
         <p><b>Register your company (FREE and required)</b>
           <br>If your company hasn’t worked with the government before, you’ll need to register with these systems. You MUST have completed your SAM registration BEFORE you can begin entering your proposal in FastLane. Start as soon as possible!</p>
         <ol class="timeline timeline__no-numbers">
@@ -32,16 +32,16 @@ layout: secondary-narrow
                   </button></h2>
                 <div id="required-registrations" class="usa-accordion-content" aria-hidden="true">
                   <!-- https://github.com/18F/nsf-sbir/blob/dev/_timeline/step-3.md -->
-                  <h3 id="dun-and-bradstreet-duns-number"><a href="https://www.nsf.gov/cgi-bin/good-bye?https://www.dnb.com/duns-number/get-a-duns.html">Dun and Bradstreet (DUNS number)</a></h3>
+                  <h3 id="dun-and-bradstreet-duns-number"><a href="https://www.nsf.gov/cgi-bin/good-bye?https://www.dnb.com/duns-number/get-a-duns.html" target="_blank">Dun and Bradstreet (DUNS number)</a></h3>
                   <p><strong>Processing time:</strong> Up to five business days</p>
                   <p>A DUNS number is a unique, nine-digit number that identifies each physical location of your company. You’ll need one in order to receive government funding. Because you’re applying for a DUNS number for government funding, processing time should take about five business days.</p>
-                  <h3 id="system-for-award-management-sam"><a href="https://www.sam.gov/SAM/">System for Award Management (SAM)</a></h3>
+                  <h3 id="system-for-award-management-sam"><a href="https://www.sam.gov/SAM/" target="_blank">System for Award Management (SAM)</a></h3>
                   <p><strong>Processing time:</strong> Up to three weeks</p>
                   <p>You MUST register to do business with the U.S. government through System for Award Management (SAM). When you register, you’ll have to share bank account information of the account where the NSF funds would be deposited. This registration process is free and takes only 10-15 minutes to initiate, but can take up to three weeks to complete. An active SAM.gov registration is needed to create a FastLane account and submit a proposal to NSF. Registration expires after one year.</p>
-                  <h3 id="researchgov-online-grant-management-for-the-nsf-community"><a href="https://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&amp;_pageLabel=research_home_page">Research.gov (Online Grant Management for the NSF Community)</a></h3>
+                  <h3 id="researchgov-online-grant-management-for-the-nsf-community"><a href="https://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&amp;_pageLabel=research_home_page" target="_blank">Research.gov (Online Grant Management for the NSF Community)</a></h3>
                   <p><strong>Processing time:</strong> Up to 48 hours</p>
-                  <p>Before applying, you need to register your company with NSF in Research.gov. Only after registering with Research.gov can you login to <a href="https://www.fastlane.nsf.gov/">FastLane</a> and begin preparing your proposal. (SBIR and STTR proposals are not accepted in Research.gov). We recommend you explore FastLane before submitting your application.</p>
-                  <h3 id="sbir-company-registry"><a href="http://sbir.gov/registration">SBIR Company Registry</a></h3>
+                  <p>Before applying, you need to register your company with NSF in Research.gov. Only after registering with Research.gov can you login to <a href="https://www.fastlane.nsf.gov/" target="_blank">FastLane</a> and begin preparing your proposal. (SBIR and STTR proposals are not accepted in Research.gov). We recommend you explore FastLane before submitting your application.</p>
+                  <h3 id="sbir-company-registry"><a href="http://sbir.gov/registration" target="_blank">SBIR Company Registry</a></h3>
                   <p>Finally, you need to register with the SBIR Company Registry (operated by the Small Business Administration). Post-registration, you’ll receive a Business Concern Control ID (SBC ID), which you’ll need to include in your FastLane application.</p>
                 </div>
               </li>
@@ -49,8 +49,8 @@ layout: secondary-narrow
           </li>
         </ol>
         <p><b>Ready to submit your application?</b>
-          <br>We encourage you to familiarize yourself with our <a href="#">FastLane guide</a>.</p>
-        <a class="usa-button usa-button-secondary" href="#">Submit your Application</a>
+          <br>We encourage you to familiarize yourself with our <a href="{{ site.baseurl }}/fastlane/">FastLane guide</a>.</p>
+        <a class="usa-button usa-button-secondary" href="https://www.fastlane.nsf.gov/">Submit your Application</a>
   </div>
  
  <section class="usa-section full-bleed-bg">
@@ -70,7 +70,7 @@ layout: secondary-narrow
             <br><a href="#">Review process</a>
             <br><a href="#">Peer review</a></p>
           <div class="step-banner">
-            <a class="step-banner__content" href="/patterns/04-pages-08-apply-00-apply-4/04-pages-08-apply-00-apply-4.rendered.html">
+            <a class="step-banner__content" href="{{ site.baseurl }}/apply/review-decision/">
               <h2>Step 4: Application review and decision</h2>
               <p>To learn more about what comes after they submit their application, they can visit the recommend that they go to the application review and decision page.</p>
             </a>
