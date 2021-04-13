@@ -33,5 +33,5 @@ layout: secondary-narrow
 <div markdown="0">
         <h2>Phase II</h2>
         <p>If your technology needs more development — and if you’ve met all the Phase I requirements — you can apply for more funding. Phase II awardees receive up to $1,000,000 over two years.</p>
-        <p>To help current Phase II awardees speed the commercialization of their technology, NSF may match 50 cents on every $1 of qualifying revenues or third-party investment (minimum match $50,000 and maximum $500,000) through a Phase IIB supplement. <a href="#">Learn more about Supplemental funding</a> and visit our awardee resource guide to <a href="#">apply for Phase IIB supplemental funding</a>.</p>
+        <p>To help current Phase II awardees speed the commercialization of their technology, NSF may match 50 cents on every $1 of qualifying revenues or third-party investment (minimum match $50,000 and maximum $500,000) through a Phase IIB supplement. <a href="{{ site.baseurl }}/resources/awardees/supplement/overview/">Learn more about Supplemental funding</a> and visit our awardee resource guide to <a href="#">apply for Phase IIB supplemental funding</a>.</p>
 </div>
