@@ -70,11 +70,25 @@ permalink: /awardees/history/details/
           '';
       }
 
+      let today = new Date();
+      today.setHours(0, 0, 0, 0);
+
+      function isEstimatedDate(endDate) {
+        let date = new Date(endDate + ' 00:00:00');
+        return date > today;
+      }
+
+      function formatEndDate(isEstDate, date) {
+        return dateFormatter.mdyyyy(date) + (isEstDate ? ' (estimated)' : '');
+      }
+
       let html = '';
 
       for (let awd of award) {
+        let isEstDate = isEstimatedDate(awd.EndDate);
+
         html += '' +
-          '<div id="awards-details-list">' +
+          '<div' + (isEstDate ? ' class="estimated-end-date"' : '') + '>' +
             '<div class="usa-grid usa-section">' +
               '<h1 class="h2 subhead uppercase results-phase" style="">' + awd.ProgramElementName + '</h1>' +
               '<h2 class="h1 results-company-title" style="">' + awd.InstitutionName + '</h2>' +
@@ -119,18 +133,12 @@ permalink: /awardees/history/details/
 
                       '<div class="mb5">' +
                         '<h4 class="subhead uppercase">Start / end date</h4>' +
-                        '<p>' + dateFormatter.mdyyyy(awd.StartDate) + ' – ' + dateFormatter.mdyyyy(awd.EndDate) + '</p>' +
+                        '<p>' + dateFormatter.mdyyyy(awd.StartDate) + ' – ' + formatEndDate(isEstDate, awd.EndDate) + '</p>' +
                       '</div>' +
 
                       '<div class="mb5">' +
                         '<h4 class="subhead uppercase">Errata</h4>' +
                         '<p class="abstractText">Please report errors in award information by writing to <a href="mailto:awardsearch@nsf.gov">awardsearch@nsf.gov</a>.</p>' +
-                      '</div>' +
-
-                      '<div class="mb5">' +
-                        '<h4 class="subhead uppercase">Addenda</h4>' +
-                        '<p class="abstractText">If you&#39;re a member of this company, you may <a' +
-                          'href="https://github.com/18F/nsf-sbir/issues/new">submit updates and supplemental company information via GitHub</a>.</p>' +
                       '</div>' +
                     '</div>' +
 
