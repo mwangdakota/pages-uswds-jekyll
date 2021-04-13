@@ -10,7 +10,7 @@ layout: secondary-narrow
             <div class="apply-timeline__main">
               <div class="apply-timeline__content">
                 <h3 class="apply-timeline__title">
-                  <a href="/apply/understand-basics/">
+                  <a href="{{ site.baseurl }}/apply/understand-basics/">
                     Understand the Basics
                   </a>
                 </h3>
@@ -24,7 +24,7 @@ layout: secondary-narrow
             <div class="apply-timeline__main">
               <div class="apply-timeline__content">
                 <h3 class="apply-timeline__title">
-                  <a href="/apply/project-pitch/">
+                  <a href="{{ site.baseurl }}/apply/project-pitch/">
                     Submit a Project Pitch
                   </a>
                 </h3>
@@ -40,7 +40,7 @@ layout: secondary-narrow
             <div class="apply-timeline__main">
               <div class="apply-timeline__content">
                 <h3 class="apply-timeline__title">
-                  <a href="/apply/full-proposal/">
+                  <a href="{{ site.baseurl }}/apply/full-proposal/">
                     Submit a Full Proposal
                   </a>
                 </h3>
@@ -65,7 +65,7 @@ layout: secondary-narrow
             <div class="apply-timeline__main">
               <div class="apply-timeline__content">
                 <h3 class="apply-timeline__title">
-                  <a href="/apply/review-decision/">
+                  <a href="{{ site.baseurl }}/apply/review-decision/">
                     Application Review and Decision
                   </a>
                 </h3>
@@ -82,7 +82,7 @@ layout: secondary-narrow
           <ol class="apply-list">
             <li>
               <h3>
-                <a href="/patterns/04-pages-08-apply-00-apply-1/04-pages-08-apply-00-apply-1.rendered.html">
+                <a href="{{ site.baseurl }}/apply/understand-basics/">
                   Understand the basics
                 </a>
               </h3>
