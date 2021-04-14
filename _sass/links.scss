@@ -106,3 +106,9 @@ a { cursor: pointer; }
     }
   }
 }
+
+.step-banner__content {
+  &:visited {
+    color: $color-white;
+  }
+}
