@@ -22,7 +22,7 @@ layout: secondary-narrow
           <br>Describe the background and current status of the applicant small business, including key team members who will lead the technical and/or commercial efforts discussed in this Project Pitch.</p>
         <p>Create an account to submit your Project Pitch. More details about the NSF’s new process and eligibility requirements are on our Apply page.</p>
         <p><b>5. Submit your pitch below</b></p>
-        <a class="usa-button usa-button-secondary" href="https://nsfiip.force.com/sbir/s/login/">Submit your Project Pitch</a>
+        <a class="usa-button usa-button-secondary" style="background-color: #fff039;" href="https://nsfiip.force.com/sbir/s/login/" target="_blank">Submit your Project Pitch</a>
         <p class="text-small">*Each small business can only submit one Project Pitch at a time. Any small business with a pending Project Pitch must wait for a response before submitting another Project Pitch. Any small business that has received an invitation to submit a full proposal must wait for a resolution of the full proposal before submitting a new or revised Project Pitch.</p>
 </div>   
 
