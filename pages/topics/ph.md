@@ -1,6 +1,8 @@
 ---
-title: Photonics (PH)
+title: Photonics Grant – Apply Today
 permalink: /topics/photonics/
+description: 
+  - NSF provides startups with grant funding for photonics innovations. 
 layout: tech-topic
 topic_code: ph
 section_image: "/assets/img/bg/arable-2c-s-ph.jpg"

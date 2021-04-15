@@ -1,6 +1,8 @@
 ---
-title: Environmental Technologies (ET)
+title: Environmental Technologies Grant – Apply Today
 permalink: /topics/environmental-technologies/
+description: 
+  - NSF funds startups. Use a research and development grant to create environmental technologies.
 layout: tech-topic
 topic_code: et
 section_image: "/assets/img/bg/kepley-2c-ct.jpg"

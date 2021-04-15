@@ -1,6 +1,8 @@
 ---
-title: Artificial Intelligence (AI)
+title: Artificial Intelligence Grant – Apply Today
 permalink: /topics/artificial-intelligence/
+description: 
+  - NSF funds startups. Use a research and development grant to create an artificial intelligence technology.
 layout: tech-topic
 topic_code: ai
 section_image: "/assets/img/bg/biomason-2c-mi.jpg"

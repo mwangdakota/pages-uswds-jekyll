@@ -1,6 +1,8 @@
 ---
-title: Space (SP)
+title: Space Grant – Apply Today
 permalink: /topics/space/
+description: 
+  - NSF provides startups with grant funding for space technology. 
 layout: tech-topic
 topic_code: sp
 section_image: "/assets/img/bg/syntouch-2c-ew.jpg"

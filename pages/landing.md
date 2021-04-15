@@ -1,6 +1,8 @@
 ---
-title: NSF SBIR
+title: America’s Seed Fund – NSF SBIR/STTR
 permalink: /
+description: 
+  - America’s Seed Fund powered by the National Science Foundation (NSF SBIR/STTR) supports startups with research and development funding to create technologies.
 layout: landing
 
 hero:

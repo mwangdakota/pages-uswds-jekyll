@@ -1,6 +1,8 @@
 ---
-title: Power Management (PM)
+title: Power Management Grant – Apply Today
 permalink: /topics/power-management/
+description: 
+  - NSF provides startups with grant funding for power management solutions. 
 layout: tech-topic
 topic_code: pm
 section_image: "/assets/img/bg/syntouch-2c-ew.jpg"

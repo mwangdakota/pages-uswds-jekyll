@@ -1,5 +1,7 @@
 ---
-title: Other Topics (OT)
+title: Other Topics Grant – Apply Today
+description: 
+  - America’s Seed Fund powered by the National Science Foundation (NSF SBIR/STTR) supports startups with research and development funding to create technologies.
 permalink: /topics/other-topics/
 layout: tech-topic
 topic_code: ot

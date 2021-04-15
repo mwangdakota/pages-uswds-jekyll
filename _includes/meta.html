@@ -4,3 +4,11 @@
 
 <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
 {% include favicon.html %}
+
+{% if page.keywords %}
+<meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
+{% endif %}
+
+{% if page.description %}
+<meta name="description" content="{{ page.description | join: ', ' | escape }}">
+{% endif %}

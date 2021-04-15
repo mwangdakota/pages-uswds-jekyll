@@ -1,6 +1,8 @@
 ---
-title: Advanced Materials (AM)
+title: Advanced Materials Grant – Apply Today
 permalink: /topics/advanced-materials/
+description: 
+  - NSF provides startups with grant funding for advanced materials applications.
 layout: tech-topic
 topic_code: am
 section_image: "/assets/img/bg/biomason-2c-mi.jpg"
