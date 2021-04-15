@@ -1,6 +1,8 @@
 ---
-title: Biological Technologies (BT)
+title: Biological Technologies Grant – Apply Today
 permalink: /topics/biological-technologies/
+description: 
+  - NSF funds startups. Use a research and development grant to create biological technologies. 
 layout: tech-topic
 topic_code: bt
 section_image: "/assets/img/bg/miromatrix-2c-bt.jpg"

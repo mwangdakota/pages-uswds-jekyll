@@ -1,6 +1,8 @@
 ---
-title: Human-Computer Interaction (HC)
+title: Human-Computer Interaction Grant – Apply Today 
 permalink: /topics/human-computer-interaction/
+description: 
+  - NSF provides startups with grant funding for human-computer interaction technology. 
 layout: tech-topic
 topic_code: hc
 section_image: "/assets/img/bg/kepley-2c-ct.jpg"

@@ -1,6 +1,8 @@
 ---
-title: Mobility (MO)
+title: Mobility Grant – Apply Today
 permalink: /topics/mobility/
+description: 
+  - NSF provides startups with grant funding for mobility technology. 
 layout: tech-topic
 topic_code: mo
 section_image: "/assets/img/bg/neural-analytics-2c-sh.jpg"

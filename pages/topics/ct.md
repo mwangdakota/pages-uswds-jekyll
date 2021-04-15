@@ -1,6 +1,8 @@
 ---
-title: Chemical Technologies (CT) 
+title: Chemical Technologies Grant – Apply Today
 permalink: /topics/chemical-technologies/
+description: 
+  - NSF funds startups. Use a research and development grant to create chemical technologies. 
 layout: tech-topic
 topic_code: ct
 section_image: "/assets/img/bg/kepley-2c-ct.jpg"

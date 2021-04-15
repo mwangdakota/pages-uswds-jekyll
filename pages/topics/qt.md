@@ -1,6 +1,8 @@
 ---
-title: Quantum Information Technologies (QT)
+title: Quantum Information Technologies Grant – Apply Today
 permalink: /topics/quantum-information-technologies/
+description: 
+  - NSF funds startups. Use a research and development grant to create quantum information technologies. 
 layout: tech-topic
 topic_code: qt
 section_image: "/assets/img/bg/mental-canvas-2c-it.gif"

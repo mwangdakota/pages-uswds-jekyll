@@ -1,6 +1,8 @@
 ---
-title: Biomedical Technologies (BM)
+title: Biomedical Technologies Grant – Apply Today
 permalink: /topics/biomedical-technologies/
+description: 
+  - NSF provides startups with grant funding for biomedical technologies.
 layout: tech-topic
 topic_code: bm
 section_image: "/assets/img/bg/flexdex-surgical-2c-bm.jpg"

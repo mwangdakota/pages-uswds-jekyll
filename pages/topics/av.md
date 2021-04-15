@@ -1,6 +1,8 @@
 ---
-title: Augmented and Virtual Reality (AV) 
+title: Augmented and Virtual Reality Grant – Apply Today
 permalink: /topics/augmented-virtual-reality/
+description: 
+  - NSF provides startups with grant funding for augmented and virtual reality technologies.
 layout: tech-topic
 topic_code: av
 section_image: "/assets/img/bg/biomason-2c-mi.jpg"

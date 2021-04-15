@@ -1,6 +1,8 @@
 ---
-title: Advanced Manufacturing (M)
+title: Advanced Manufacturing Grant – Apply Today
 permalink: /topics/advanced-manufacturing/
+description: 
+  - NSF funds startups. Use a research and development grant to create an advanced manufacturing technology.
 layout: tech-topic
 topic_code: m
 section_image: "/assets/img/bg/branch-2c-mn.jpg"
