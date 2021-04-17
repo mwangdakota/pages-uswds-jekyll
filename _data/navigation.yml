@@ -31,6 +31,7 @@ primary:
   - text: Contact
     href: /contact/
   - text: How It Works
+    class: nav-apply-button-link
     links:
       - text: Get Started
         href: /apply/get-started/

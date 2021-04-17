@@ -3,15 +3,15 @@
   <div class="usa-banner">
     <div class="usa-accordion">
       <header class="usa-banner-header">
-        <div class="usa-grid usa-banner-inner flex flex-center flex-column">        
+        <div class="usa-grid usa-banner-inner flex flex-center flex-column">
           <p class="banner-left"><img src="{{ site.baseurl }}/assets/uswds/img/favicons/favicon-57.png" alt="U.S. flag">
           An official website of the United States government.</p>
-        </div>     
+        </div>
       </header>
     </div>
   </div>
-  <div class="usa-banner" style="background-color:#fff039; text-align:center;padding:3px;">  
-        <div class="usa-grid usa-banner-inner flex flex-center flex-column">        
+  <div class="usa-banner" style="background-color:#fff039; text-align:center;padding:3px;">
+        <div class="usa-grid usa-banner-inner flex flex-center flex-column">
           <p class="banner-left" style="font-weight:bold;font-size:14px;">NSF staff is working virtually and continues to review Project Pitches in all areas of technology. Send us your good ideas today!</p>
         </div>
   </div>
@@ -49,7 +49,7 @@
             {% assign section_links = site.data.navigation[_section.links] | default: _section.links %}
             {% assign _section_id = _section.id %}
             {% unless _section_id %}{% assign _section_id = 'nav-' | append: forloop.index %}{% endunless %}
-          <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="{{ _section_id }}">
+          <button class="usa-accordion-button usa-nav-link {{ _section.class }}" aria-expanded="false" aria-controls="{{ _section_id }}">
             <span>{{ _section.text }}</span>
           </button>
           <ul id="{{ _section_id }}" class="usa-nav-submenu">
@@ -60,7 +60,7 @@
             {% endfor %}
           </ul>
           {% else %}
-          <a class="usa-nav-link" href="{{ _section.href | relative_url }}">
+          <a class="usa-nav-link {{ _section.class }}" href="{{ _section.href | relative_url }}">
             <span>{{ _section.text }}</span>
           </a>
           {% endif %}
@@ -74,7 +74,7 @@
                <input id="affiliate" name="affiliate" type="hidden" value="seedfund" />
                <label for="query" class="usa-sr-only">Search</label>
                <input autocomplete="off" class="usagov-search-autocomplete sb-search-input" id="query" name="query" type="search" placeholder="Search" />
-               
+
              </div>
             </form>
           </div>

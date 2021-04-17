@@ -1,6 +1,8 @@
 ---
 title: How It Works - Get Started
 permalink: /apply/get-started/
+redirect_from:
+  - /apply/
 layout: secondary-narrow
 ---
 {% include apply-nav.html %}
