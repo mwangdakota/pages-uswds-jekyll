@@ -139,7 +139,9 @@ $(document).ready(function () {
         abstract: award.Abstract,
         id: award.AwardID,
         url: award.CompanyUrl,
-        phase: award.ProgramElementName
+        phase: award.ProgramElementName,
+        pi_name: award.PIFirstName + ' ' + award.PILastName,
+        pi_phone: award.PIPhoneNumber
       };
     });
 
@@ -212,7 +214,8 @@ $(document).ready(function () {
         { title: 'ABSTRACT', data: 'abstract', visible: false },
         { title: 'COMPANY URL', data: 'url', visible: false },
         { title: 'PHASE', data: 'phase', visible: false },
-        { title: 'COMPANY ID', data: 'company_id', visible: false}
+        { title: 'PI', data: 'pi_name', visible: false},
+        { title: 'PI PHONE', data: 'pi_phone', visible: false}
       ],
       lengthMenu: [[50, 100, -1], [50, 100, "All"]],
       dom: 'flBrtip',
@@ -237,7 +240,7 @@ $(document).ready(function () {
           text: 'Download results to CSV',
           filename: 'nsf_seedfund_award_history',
           exportOptions: {
-            columns: [6, 0, 1, 2, 3, 4, 5]
+            columns: [6, 0, 1, 2, 3, 4, 5, 9, 10]
           }
         }
       ],

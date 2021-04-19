@@ -114,7 +114,7 @@ topics_api:
     - piEmail
 
 awards_history:
-  download_limit: 300
+  download_limit: 0
   autocomplete:
     use: true
     suggestions: 10
