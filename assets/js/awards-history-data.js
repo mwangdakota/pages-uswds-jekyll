@@ -21,7 +21,7 @@ permalink: /data/awards-history.json
     "PIFirstName": "{{ award.PIFirstName | replace: "'", "&#39;" | replace: '"', "&#34;" }}",
     "PILastName": "{{ award.PILastName | replace: "'", "&#39;" | replace: '"', "&#34;" }}",
     "PIMiddle": "{{ award.PIMiddle | replace: "'", "&#39;" | replace: '"', "&#34;" }}",
-    "PIPhoneNumber": "{{ award.PIPhoneNumber }}",
+    "PIPhoneNumber": "{{ award.PIPhoneNumber | phone_number }}",
     "PIEmail": "{{ award.PIEmail }}",
     "InstitutionIdentifer": "{{ award.InstitutionIdentifer }}",
     "InstitutionName": "{{ award.InstitutionName | replace: "'", "&#39;" | replace: '"', "&#34;" }}",

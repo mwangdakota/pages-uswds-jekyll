@@ -1,11 +1,12 @@
 {% assign award = include.award | default: award %}
+{% assign endDate = award.expDate | end_date %}
 <li id="{{ award.awardeeName | slugify }}" class="usa-grid-full">
   <div class="mb5 mt5">
     <h1 class="h2 awardeeName usa-sr-only">{{ award.awardeeName }}</h1>
     <h2 class="title h5 font-regular">{{ award.title }}</h2>
   </div>
-  
-  <div class="usa-grid-full {% unless forloop.last %}award-listing{% endunless %}">
+
+  <div class="usa-grid-full {% unless forloop.last %}award-listing{% endunless %} {% if endDate contains 'Estimated' %}estimated-end-date{% endif %}">
     <div class="usa-width-one-fourth">
        <address>
          <div class="mb5">
@@ -20,7 +21,7 @@
             {% endif %}
           </p>
           {% if award.piPhone %}
-            <p><a href="tel:{{ award.piPhone }}">{{ award.piPhone | phone }}</a></p>
+            <p><a href="tel:{{ award.piPhone }}">{{ award.piPhone | phone_number }}</a></p>
           {% endif %}
           <p>Principal Investigator</p>
         </div>
@@ -48,19 +49,23 @@
       <div class="mb5">
         {% if award.startDate and award.expDate %}
           <h4 class="subhead uppercase">Start / end date</h4>
-          <p>{{ award.startDate }} – {{ award.expDate }}</p>
+          <p>{{ award.startDate }} – {{ endDate }}</p>
         {% elsif award.startDate %}
           <h4 class="subhead uppercase">Start date</h4>
           <p>{{ award.startDate }}</p>
         {% elsif award.expDate %}
           <h4 class="subhead uppercase">End date</h4>
-          <p>{{ award.expDate }}</p>
+          <p>{{ endDate }}</p>
         {% endif %}
+      </div>
+      <div class="mb5">
+        <h4 class="subhead uppercase">Errata</h4>
+        <p class="abstractText">Please report errors in award information by writing to <a href="mailto:awardsearch@nsf.gov">awardsearch@nsf.gov</a>.</p>
       </div>
     </div>
 
-    <div class="usa-width-three-fourths">     
-      {% if award.covid == 'y' %}     
+    <div class="usa-width-three-fourths">
+      {% if award.covid == 'y' %}
         {% if page.phase == 'Phase I' %}
         <div style="background-color: #FFFAC3;
             padding-top: 1rem;
@@ -76,17 +81,13 @@
             padding-left: 1rem;
             padding-right: 2rem;
             margin-bottom: 3rem;
-            text-align: center; ">This phase II award received additional funding to mitigate the COVID-19 crisis.</div>  
+            text-align: center; ">This phase II award received additional funding to mitigate the COVID-19 crisis.</div>
         {% endif %}
       {% endif %}
-      
+
       <div class="mb5">
         <h4 class="subhead uppercase">Abstract</h4>
         <p class="abstractText">{{ award.abstractText }}</p>
-      </div>
-      <div class="mb5">
-        <h4 class="subhead uppercase">Errata</h4>
-        <p class="abstractText">Please report errors in award information by writing to <a href="mailto:awardsearch@nsf.gov">awardsearch@nsf.gov</a>.</p>
       </div>
     </div>
   </div>

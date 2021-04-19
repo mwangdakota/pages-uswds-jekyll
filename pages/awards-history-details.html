@@ -7,8 +7,7 @@ permalink: /awardees/history/details/
 {% assign show_pitchbook = site['show']['pitchbook'] %}
 {% include loading.html msg='Loading company details...' %}
 
-<div id="awards-history-details">
-</div>
+<div id="awards-history-details" />
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
@@ -70,22 +69,10 @@ permalink: /awardees/history/details/
           '';
       }
 
-      let today = new Date();
-      today.setHours(0, 0, 0, 0);
-
-      function isEstimatedDate(endDate) {
-        let date = new Date(endDate + ' 00:00:00');
-        return date > today;
-      }
-
-      function formatEndDate(isEstDate, date) {
-        return dateFormatter.mdyyyy(date) + (isEstDate ? ' (estimated)' : '');
-      }
-
       let html = '';
 
       for (let awd of award) {
-        let isEstDate = isEstimatedDate(awd.EndDate);
+        let isEstDate = dateFormatter.isEstimatedDate(awd.EndDate);
 
         html += '' +
           '<div' + (isEstDate ? ' class="estimated-end-date"' : '') + '>' +
@@ -133,7 +120,8 @@ permalink: /awardees/history/details/
 
                       '<div class="mb5">' +
                         '<h4 class="subhead uppercase">Start / end date</h4>' +
-                        '<p>' + dateFormatter.mdyyyy(awd.StartDate) + ' – ' + formatEndDate(isEstDate, awd.EndDate) + '</p>' +
+                        '<p>' + dateFormatter.mmddyyyy(awd.StartDate) + ' – ' +
+                        dateFormatter.formatEndDate(isEstDate, awd.EndDate, dateFormatter.mmddyyyy) + '</p>' +
                       '</div>' +
 
                       '<div class="mb5">' +

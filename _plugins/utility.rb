@@ -66,6 +66,11 @@ module Jekyll
       code = "#{code[0..2]}–#{code[3..5]}–#{code[6..-1]}"
     end
 
+    def phone_number(code)
+      number = code.to_s
+      "(#{number[0..2]}) #{number[3..5]}–#{number[6..-1]}"
+    end
+
     def where_phase_1_and_2(awards)
       awards.select do |a|
         a['fundProgramName'].downcase.include?("phase i")

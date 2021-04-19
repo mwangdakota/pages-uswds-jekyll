@@ -206,7 +206,7 @@ $(document).ready(function () {
           title: 'AWARD DATE',
           data: 'award_date',
           render: function(data, type, row, meta) {
-            return type === 'sort' ? data : dateFormatter.mdyyyy(data);
+            return type === 'sort' ? data : dateFormatter.mmddyyyy(data);
           }
         },
         { title: 'ABSTRACT', data: 'abstract', visible: false },
