@@ -232,3 +232,32 @@ button:visited,
       }
   }
 }
+
+.gdd-apply {
+  .usa-button {
+    padding: 1.5rem 2rem;
+  }
+
+  a.usa-button {
+    border: 0;
+    background: none !important;
+    background-color: $color-secondary !important;
+
+    &[target="_blank"] {
+      &::after {
+        content: '';
+        display: inline-block;
+        width: 16px;
+        height: 10px;
+        position: relative;
+        top: 0.1rem;
+        background: url("../img/links/external-link.svg") right center no-repeat;
+        background-size: cover;
+      }
+    }
+
+    &:hover {
+      background-color: $color-secondary-dark !important;
+    }
+  }
+}
