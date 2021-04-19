@@ -58,6 +58,22 @@
           <p>{{ endDate }}</p>
         {% endif %}
       </div>
+      {% for topic in site.data.tech-topics %}
+      {% if award.ttopic and award.ttopic == topic.topic_code %}
+      <div class="mb5 details-program-director">
+        <h4 class="subhead uppercase">Program Director</h4>
+        {% for programDirector in topic.programDirector %}
+        <strong class="program-director-name">{{ programDirector.name }}</strong>
+        <ul>
+          <li><a href="mailto:{{ programDirector.email }}">Send email</a></li>
+          {% if programDirector.bio %}
+          <li><a href="{{ site.baseurl }}/contact/bios#{{ programDirector.name }}">View bio</a></li>
+          {% endif %}
+        </ul>
+        {% endfor %}
+      </div>
+      {% endif %}
+      {% endfor %}
       <div class="mb5">
         <h4 class="subhead uppercase">Errata</h4>
         <p class="abstractText">Please report errors in award information by writing to <a href="mailto:awardsearch@nsf.gov">awardsearch@nsf.gov</a>.</p>
