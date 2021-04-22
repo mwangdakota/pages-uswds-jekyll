@@ -15583,30 +15583,7 @@
   startDate: 10/01/2020
   expDate: '09/30/2021'
   title: 'STTR Phase I:  Nuclear Magnetic Resonance Spectroscopy at Low Magnetic Fields'
-- abstractText: "The broader impact/commercial potential of this Small Business Innovation
-    Research (SBIR) Phase I project is to develop safe and affordable COVID-19 vaccination
-    technology, with broader utility in preventing other types of outbreak in the
-    future. This novel vaccination platform is based on modifying bacteria, long used
-    as a cost-effective, safe vaccine for pediatric tuberculosis immunization. The
-    novel vaccine is anticipated to show heat-stability, safety, cost-effectiveness,
-    and ease of mass production. It may be employed for pediatric immunizations and
-    for other at-risk groups, including first responders, the elderly, and those with
-    underlying chronic conditions. In addition, this can be used in emerging and disadvantaged
-    communities.  \n\nThe proposed project enables a novel microbial vaccine platform
-    based on recombinant BCG bacteria (rBCG) engineered to target SARS-CoV-2, with
-    the potential to protect against COVID-19 disease. This new design addresses the
-    potential limitation of a lack of specificity to SARS-CoV-2. Preliminary results
-    demonstrate that the integration and the expression of foreign genes can be successfully
-    achieved in BCG bacteria. This project will develop BCG that expresses SARS-CoV-2
-    protein fragments, which could lead to the induction of appropriate immune responses
-    against SARS-CoV-2 specific antigens. New rBCG candidates with the highest secretion
-    and durable expression levels of viral polypeptides will be selected and prioritized
-    based on their biological properties. The rBCG vaccines will be evaluated for
-    safety and immunogenicity in animal models. Promising vaccine candidates that
-    show no adverse events and induce robust T-cell and antibody responses will be
-    selected for future studies.\n\nThis award reflects NSF's statutory mission and
-    has been deemed worthy of support through evaluation using the Foundation's intellectual
-    merit and broader impacts review criteria."
+- abstractText: "The broader impact of this Small Business Innovation Research (SBIR) Phase I project will be improvement of quality of life and reduction of healthcare costs associated with tendon and ligament injuries which are notoriously difficult and slow to heal, depriving millions of Americans years of productivity. Tendon and ligament injuries are especially debilitating for the aged, the active or those with physically demanding professions. Injured ligaments (e.g. anterior cruciate ligament) or tendons (e.g. Achilles) require months of rehabilitation and can take up to a year to heal. In the elderly, rotator cuff injuries are pernicious, prevalent and refractory to treatment. Every year in the US, $130 billion is spent on musculoskeletal injury-related medical visits, 60% of which are tendon and ligament injuries. Tendon and ligament injuries result in 288 million lost work days costing the US economy $50 billion annually. In spite of decades of effort, there has been very little improvement in either the rate or the quality of healing for these injuries. The injectable repair system proposed could reduce healing time and improve repair quality. The proposed plan to drastically reduce the cost of the raw materials through human cell engineering will make the treatment solution universally affordable. The proposed project will determine the feasibility of an entirely new approach to tendon and ligament repair based upon the in vivo delivery and assembly of collagen monomers into the path of force. The approach is derivative of two recent innovations that will be combined in four objectives to produce an injectable collagen-based solution designed to accelerate the repair of damaged connective tissues (i.e. ligaments and tendons) the healing of which presents a significant medical challenge. The first innovation is the use of CRISPR/CAS9 technology which will be used to accelerate the production of collagen by human fibroblasts. Objective 1 will to optimize the CRISPR process and scale it up through isolation and expansion of cells receptive to enhanced collagen production. Objective 2 will leverage the second major innovation, liquid crystal collagen processing technology, to develop a shelf stable injectable solution of highly-dense particulates that is expected to donate large amounts of collagen to injured connective tissue. Objective 3 will demonstrate that the injectable repair solution will deliver collagen to repair damage in vitro and Objective 4 will apply the approach in vivo, to demonstrate that exogenous collagen delivery can speed the repair of damaged, living tendon. This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria."
   awardeeAddress: 145 South Bedford St
   awardeeCity: Burlington
   awardeeCountryCode: US
@@ -15629,7 +15606,30 @@
   expDate: '08/31/2021'
   title: 'SBIR Phase I:  An Injectable Treatment for the Repair of Damaged Tendons
     and Ligaments'
-- abstractText: "The broader impact of this Small Business Innovation Research (SBIR) Phase I project will be improvement of quality of life and reduction of healthcare costs associated with tendon and ligament injuries which are notoriously difficult and slow to heal, depriving millions of Americans years of productivity. Tendon and ligament injuries are especially debilitating for the aged, the active or those with physically demanding professions. Injured ligaments (e.g. anterior cruciate ligament) or tendons (e.g. Achilles) require months of rehabilitation and can take up to a year to heal. In the elderly, rotator cuff injuries are pernicious, prevalent and refractory to treatment. Every year in the US, $130 billion is spent on musculoskeletal injury-related medical visits, 60% of which are tendon and ligament injuries. Tendon and ligament injuries result in 288 million lost work days costing the US economy $50 billion annually. In spite of decades of effort, there has been very little improvement in either the rate or the quality of healing for these injuries. The injectable repair system proposed could reduce healing time and improve repair quality. The proposed plan to drastically reduce the cost of the raw materials through human cell engineering will make the treatment solution universally affordable. \n\nThe proposed project will determine the feasibility of an entirely new approach to tendon and ligament repair based upon the in vivo delivery and assembly of collagen monomers into the path of force. The approach is derivative of two recent innovations that will be combined in four objectives to produce an injectable collagen-based solution designed to accelerate the repair of damaged connective tissues (i.e. ligaments and tendons) the healing of which presents a significant medical challenge. The first innovation is the use of CRISPR/CAS9 technology which will be used to accelerate the production of collagen by human fibroblasts. Objective 1 will to optimize the CRISPR process and scale it up through isolation and expansion of cells receptive to enhanced collagen production. Objective 2 will leverage the second major innovation, liquid crystal collagen processing technology, to develop a shelf stable injectable solution of highly-dense particulates that is expected to donate large amounts of collagen to injured connective tissue. Objective 3 will demonstrate that the injectable repair solution will deliver collagen to repair damage in vitro and Objective 4 will apply the approach in vivo, to demonstrate that exogenous collagen delivery can speed the repair of damaged, living tendon.\n\nThis award reflects NSF's statutory mission and has been deemed worthy
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) project encompasses development new coatings for face masks and
+    filtration pieces for N95-grade respirators. The outer layer will repel the viral
+    particles while the inner layer will adsorb moisture, making the mask comfortable
+    for wear and assisting with social distancing compliance during the COVID-19 pandemic.
+    The coatings are efficient in their function, provide reliable protection, and
+    are durable. This technology is also highly promising for applications in other
+    types of personal protective equipment such as gowns, drapes, medical aprons,
+    as well as coatings on disposable medical devices. Apart from the medical sector,
+    this platform has potential advantages for other goods, pharmaceutical formulations,
+    and personal care products. \n\nThis SBIR Phase I project proposes to develop
+    innovative formulations for deposition of high-performance superhydrophobic and
+    superhydrophilic coatings on textile surfaces for personal protective equipment.
+    The technical innovation is fabrication of novel dendritic polymer particles with
+    extraordinary high surface area and unusually strong adhesivity. The soft dendritic
+    colloids are formed when a polymer solution is injected into turbulently sheared
+    anti-solvent medium. Random stretching of the polymer solution droplets by the
+    turbulent anti-solvent flow causes the polymer to precipitate in the form of soft
+    dendritic structures. The critical technical hurdle is scaling manufacturing of
+    large volumes of soft dendritic particles with fractal morphology. Technical objectives
+    are: 1) develop an efficient liquid-based process for soft dendritic colloids
+    fabrication on a bench scale; and 2) characterize textiles coated with the new
+    formulations using a series of morphological, filtration efficiency, and breathability
+    tests.\n\nThis award reflects NSF's statutory mission and has been deemed worthy
     of support through evaluation using the Foundation's intellectual merit and broader
     impacts review criteria."
   awardeeAddress: '840 Main Campus Dr. #3550'
