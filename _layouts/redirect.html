@@ -1,7 +1,7 @@
 ---
 ---
 {% assign site_url = site.url %}
-{% assign redirect_to = page.redirect.to | replace: site_url, '' | prepend: '/' | prepend: site.baseurl | replace: '//', '/' %}
+{% assign redirect_to = page.redirect.to | replace: site_url, '' | prepend: '/' | replace: '//', '/' %}
 <!DOCTYPE html>
 <html lang="en-US">
   <meta charset="utf-8">
