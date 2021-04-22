@@ -1,0 +1,15 @@
+---
+---
+{% assign site_url = site.url %}
+{% assign redirect_to = page.redirect.to | replace: site_url, '' | prepend: site.baseurl | prepend: site.url %}
+<!DOCTYPE html>
+<html lang="en-US">
+  <meta charset="utf-8">
+  <title>Redirecting&hellip;</title>
+  <link rel="canonical" href="{{ redirect_to }}">
+  <script>location="{{ redirect_to }}"</script>
+  <meta http-equiv="refresh" content="0; url={{ page.redirect.to }}">
+  <meta name="robots" content="noindex">
+  <h1>Redirecting&hellip;</h1>
+  <a href="{{ redirect_to }}">Click here if you are not redirected.</a>
+</html>
