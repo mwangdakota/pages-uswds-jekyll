@@ -40,7 +40,7 @@ If you’re concerned about fraud or abuse with any award, contact the NSF Offic
 You can also report fraud to the anonymous fraud hotline at 800-428-2189, email [oig@nsf.gov](mailto:oig@nsf.gov), or send written correspondence to 4201 Wilson Boulevard, Suite 1135; Arlington, VA 22230; ATTN: OIG hotline.
 
 ## Site feedback
-Notice something wrong with the site or want to make a recommendation? Open an issue in our [GitHub repository](https://github.com/18F/nsf-sbir/issues/new). Please provide a detailed description of the problem you encountered (along with screenshots and steps we can take to reproduce the error) or the change you're suggesting. You can also share feedback by emailing us at [SBIRwebmaster@nsf.gov](mailto:SBIRwebmaster@nsf.gov). We'll respond as quickly as possible — usually within a few business days.
+Notice something wrong with the site or want to make a recommendation? You can share feedback by emailing us at [SBIRwebmaster@nsf.gov](mailto:SBIRwebmaster@nsf.gov). We'll respond as quickly as possible — usually within a few business days.
 
 </div>
 </div>
