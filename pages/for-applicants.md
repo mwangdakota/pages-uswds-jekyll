@@ -19,7 +19,7 @@ If you’re interested in applying for funding, we encourage you to watch our vi
 {% if site.app_process == "active" %}
 ## Virtual Office Hours
 
-Thinking of applying for Phase I funding? Ask all your application-related questions during our [Virtual Office Hours](https://seedfund.nsf.gov/events/) or watch a recorded [program overview](https://youtu.be/oVhWWydWWc4) or a recorded [how to apply overview](https://youtu.be/tFPIn8wDQUo). (We offer a [PDF version of program basics]({{site.baseurl}}/assets/files/press/overview2020.pdf), too.)
+Thinking of applying for Phase I funding? Ask all your application-related questions during our [Virtual Office Hours](https://seedfund.nsf.gov/events/) or watch a recorded [program overview](https://youtu.be/oVhWWydWWc4) or a recorded [how to apply overview](https://youtu.be/tFPIn8wDQUo). (We offer a [PDF version of program basics]({{site.baseurl}}/assets/files/press/overview.pdf), too.)
 
 {% else %}
 ## Q&A videos
@@ -31,7 +31,7 @@ Check out our video covering <a href="https://youtu.be/oVhWWydWWc4" target="_bla
 Or watch our video with <a href="https://youtu.be/8WPa4Epdl1k">tips and tricks for submitting a proposal</a>.  
  <a style="border-bottom:0px;" href="https://youtu.be/8WPa4Epdl1k" target="_blank"><img src="{{ site.baseurl }}/assets/img/qa_video2.jpg" alt="Tips and Tricks Video" style="max-width:400px;margin-top:15px;"></a>
 
-(We offer a <a href="../../assets/files/press/overview2020.pdf">PDF version of program basics</a>, too.)
+(We offer a <a href="../../assets/files/press/overview.pdf">PDF version of program basics</a>, too.)
 
 {% endif %}
 
