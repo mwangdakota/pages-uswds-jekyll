@@ -54,4 +54,4 @@ The [NSF logo (and guidance for its use)](https://www.nsf.gov/policies/logos.jsp
 
 To learn more about the SBIR/STTR program at other government agencies, visit the [Small Business Administration's SBIR website](https://www.sbir.gov/#).
 
-We also have a [one sheet (PDF)]({{site.baseurl}}/assets/files/press/overview2020.pdf) covering program basics and points of interest.
+We also have a [one sheet (PDF)]({{site.baseurl}}/assets/files/press/overview.pdf) covering program basics and points of interest.
