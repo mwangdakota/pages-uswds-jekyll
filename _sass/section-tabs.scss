@@ -34,7 +34,7 @@ $block: 'section-tabs';
 			border: 0;
 			color: $color-base;
 			transition: background .3s;
-	
+
 			&.#{$block}__active,
 			&:hover,
 			&:focus {
@@ -53,12 +53,42 @@ $block: 'section-tabs';
 		}
 	}
 
+	&__columns {
+		display: flex;
+
+		.#{$block}__desc,
+		.#{$block}__video {
+			flex: 0 0 50%;
+		}
+
+		.#{$block}__desc {
+			padding-right: 25px;
+		}
+
+		.#{$block}__video {
+			padding-left: 25px;
+		}
+	}
+
 	@media screen and (max-width: $large-screen) {
 		&__tab {
 			a {
 				padding-right: 12px;
 				padding-left: 12px;
 				font-size: $font-size-xxs;
+			}
+		}
+
+		&__columns {
+			display: block;
+
+			.#{$block}__desc {
+				margin-bottom: 25px;
+				padding-right: 0;
+			}
+
+			.#{$block}__video {
+				padding-left: 0;
 			}
 		}
 	}

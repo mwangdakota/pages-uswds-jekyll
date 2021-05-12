@@ -11,7 +11,7 @@ $block: 'step-banner';
 		position: relative;
 		display: block;
 		padding: 40px (($padding * 2) + $arrow-size) 40px $padding;
-		background: linear-gradient(to right, $color-primary-darkest, $color-primary-alt-medium);
+		background: $color-primary-darkest;
 		border: 0;
 		text-decoration: none;
 		z-index: 1;
@@ -26,19 +26,6 @@ $block: 'step-banner';
 		&:before,
 		&:after {
 			position: absolute;
-		}
-
-		&:before { // transitionable gradient
-			top: 0;
-			right: 0;
-			bottom: 0;
-			left: 0;
-			// focus the light part on the right side
-			background: linear-gradient(to right, $color-primary-darkest 50%, $color-primary-alt-medium);
-			opacity: 0;
-			transition: opacity .3s;
-			content: '';
-			z-index: -1;
 		}
 
 		&:after {

@@ -23,7 +23,7 @@ $block: 'topic-grid';
 		&:hover,
 		&:focus {
 			color: $color-white;
-			background: linear-gradient(-45deg, $color-primary-alt-medium, $color-primary-darkest);
+			background: $color-primary-darkest;
 
 			.#{$block}__name {
 				&:after {

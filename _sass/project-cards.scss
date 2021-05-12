@@ -38,7 +38,7 @@ $block: 'project-cards';
 			right: 0;
 			bottom: 0;
 			left: 0;
-			background: linear-gradient(308.48deg, $color-primary-alt-medium 0, $color-primary-darkest 40%, rgba($color-primary-darkest, .7) 90%);
+			background: linear-gradient(308.48deg, $color-primary-darkest 40%, rgba($color-primary-darkest, .7) 90%);
 			content: '';
 			z-index: 2; // on top of bg
 		}

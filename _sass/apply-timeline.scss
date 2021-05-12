@@ -34,7 +34,7 @@ $block: 'apply-timeline';
 	&__block {
 		position: relative;
 		display: flex;
-		align-items: center;
+		align-items: flex-start;
 		order: 1;
 		padding-top: $number-height;
 		background: $color-white;
@@ -168,31 +168,18 @@ $block: 'apply-timeline';
 		color: $color-tertiary-dark;
 	}
 
-
 	@media screen and (max-width: $large-screen) {
-		$basis: 50%;
+		$blockBasis: 190px;
+		$descBasis: calc(100% - 190px);
 
 		&__block,
 		&__desc {
 			order: 1;
-			flex: 0 0 $basis;
-			max-width: $basis;
-
-			// overriding larger breakpoint specificity
-			@for $numEx from 1 through $maxNumExpanded {
-				.#{$block}--expanded-#{$numEx} & {
-					flex-basis: $basis;
-					max-width: $basis;
-
-					&.#{$block}__block--expanded {
-						flex: 0 0 $basis;
-						max-width: $basis;
-					}
-				}
-			}
 		}
 
 		&__block {
+			flex: 0 0 $blockBasis;
+			max-width: $blockBasis;
 			border-right-width: 2px; // reinstating from large
 			border-bottom-width: 0;
 
@@ -201,21 +188,51 @@ $block: 'apply-timeline';
 			}
 
 			// overriding larger breakpoint specificity
+			@for $numEx from 1 through $maxNumExpanded {
+				.#{$block}--expanded-#{$numEx} & {
+					flex-basis: $blockBasis;
+					max-width: $blockBasis;
+
+					&.#{$block}__block--expanded {
+						flex: 0 0 $blockBasis;
+						max-width: $blockBasis;
+					}
+				}
+			}
+
 			@for $step from ($minNumSteps + 1) through $maxNumSteps {
 				&:nth-last-child(#{$step * 2}):first-child,
-				&:nth-last-child(#{$step * 2}):first-child ~ div {
+				&:nth-last-child(#{$step * 2}):first-child ~ .#{$block}__block {
 					&,
 					&.#{$block}__block--expanded {
-						flex-basis: $basis;
-						max-width: $basis;
+						flex-basis: $blockBasis;
+						max-width: $blockBasis;
 					}
 
 					@for $numEx from 1 through $maxNumExpanded {
 						.#{$block}--expanded-#{$numEx} & {
 							&,
 							&.#{$block}__block--expanded {
-								flex-basis: $basis;
-								max-width: $basis;
+								flex-basis: $blockBasis;
+								max-width: $blockBasis;
+							}
+						}
+					}
+				}
+
+				&:nth-last-child(#{$step * 2}):first-child ~ .#{$block}__desc {
+					&,
+					&.#{$block}__block--expanded {
+						flex-basis: $descBasis;
+						max-width: $descBasis;
+					}
+
+					@for $numEx from 1 through $maxNumExpanded {
+						.#{$block}--expanded-#{$numEx} & {
+							&,
+							&.#{$block}__block--expanded {
+								flex-basis: $descBasis;
+								max-width: $descBasis;
 							}
 						}
 					}
@@ -225,7 +242,23 @@ $block: 'apply-timeline';
 
 		&__desc {
 			display: flex;
+			flex: 0 0 $descBasis;
+			max-width: $descBasis;
 			margin: 0;
+			text-align: left;
+
+			// overriding larger breakpoint specificity
+			@for $numEx from 1 through $maxNumExpanded {
+				.#{$block}--expanded-#{$numEx} & {
+					flex-basis: $descBasis;
+					max-width: $descBasis;
+
+					&.#{$block}__block--expanded {
+						flex: 0 0 $descBasis;
+						max-width: $descBasis;
+					}
+				}
+			}
 
 			p {
 				$line-w: 2px;
