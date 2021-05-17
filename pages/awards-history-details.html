@@ -133,7 +133,9 @@ permalink: /awardees/history/details/
                     '<div class="usa-width-three-fourths">' +
                       '<div class="mb5">' +
                         '<h4 class="subhead uppercase">Abstract</h4>' +
-                        '<p class="abstractText">' + awd.Abstract + '</p>' +
+                        '<p class="abstractText">' +
+                        awd.Abstract.replaceAll(/\n/g, '<br>').replaceAll(/(<br>){3,}/g, '<br><br>') +
+                        '</p>' +
                       '</div>' +
                       {% if show_pitchbook['data'] %}
                       '<div class="pitchbook">' +

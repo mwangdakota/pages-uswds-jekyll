@@ -1,4 +1,4 @@
-require 'yaml'
+require 'json'
 require 'fileutils'
 
 module SiteData
@@ -10,7 +10,8 @@ module SiteData
     def generate
       count = 0
       words = {}
-      awards = YAML.load_file(File.join(@basepath, '_data', 'awards_history.yml'))
+      data = File.read(File.join(@basepath, 'data', 'awards-history.json'))
+      awards = JSON.parse(data)
 
       props = %w(
         AwardID
