@@ -118,7 +118,7 @@ awards_history:
   autocomplete:
     use: true
     suggestions: 10
-    generate_index: true
+    generate_index: false
 
 show:
   pitchbook:
