@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Award History Details
-scripts: /assets/js/dateFormatter.js
+scripts: /assets/js/dateFormatter.js /assets/js/strFormatter.js
 permalink: /awardees/history/details/
 ---
 {% assign show_pitchbook = site['show']['pitchbook'] %}
@@ -115,7 +115,7 @@ permalink: /awardees/history/details/
 
                       '<div class="mb5">' +
                         '<h4 class="subhead uppercase">Award amount to date</h4>' +
-                        '<p class="amount">' + awd.AwardAmount + '</p>' +
+                        '<p class="amount">' + strFormatter.usd_pretty(awd.AwardAmount) + '</p>' +
                       '</div>' +
 
                       '<div class="mb5">' +

@@ -203,7 +203,13 @@ $(document).ready(function () {
         { title: 'LOCATION', data: 'city_state' },
         { title: 'AWARD ID', data: 'id' },
         { title: 'AWARD TITLE', data: 'title' },
-        { title: 'AWARD AMOUNT', data: 'amount' },
+        {
+          title: 'AWARD AMOUNT',
+          data: 'amount',
+          render: function(data, type, row, meta) {
+            return type === 'sort' ? data : strFormatter.usd_pretty(data);
+          }
+        },
         {
           title: 'AWARD DATE',
           data: 'award_date',
