@@ -2,7 +2,7 @@ require 'json'
 require 'fileutils'
 
 module SiteData
-  class AwardsHistoryAutocompleteIndex
+  class AwardsHistorySupportData
     def initialize(site)
       @basepath = Dir.pwd
     end
@@ -13,6 +13,7 @@ module SiteData
       data = File.read(File.join(@basepath, 'data', 'awards-history.json'))
       awards = JSON.parse(data)
 
+      # Keys whose values will be used to build autocomplete index
       props = %w(
         AwardID
         Title
@@ -48,11 +49,26 @@ module SiteData
           file.puts("  - \"#{search_term}\"")
         end
       end
+      puts "   - #{count} autocomplete search token(s) generated."
 
-      if count == 1
-        puts "   1 search tokens generated."
-      else
-        puts "   #{count} search tokens generated."
+      # Create awards history years
+      File.open(File.join(@basepath, '_data', "awards_history_years.yml"), 'w') do |file|
+        years = awards.map{|d| d['AwardDate'].split('-').first}.uniq.sort.reverse
+        file.puts("---")
+        years.each do |year|
+          file.puts("  - #{year}")
+        end
+        puts "   - Years: #{years.first} - #{years.last}."
+      end
+
+      # Create awards history state codes
+      File.open(File.join(@basepath, '_data', "awards_history_state_codes.yml"), 'w') do |file|
+        state_codes = awards.map{|d| d['StateCode']}.uniq.sort
+        file.puts("---")
+        state_codes.each do |state_code|
+          file.puts("  - #{state_code}")
+        end
+        puts "   - #{state_codes.size} state codes generated."
       end
     end
 

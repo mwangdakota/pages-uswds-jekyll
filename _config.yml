@@ -114,11 +114,11 @@ topics_api:
     - piEmail
 
 awards_history:
+  generate_support_data: true
   download_limit: 0
   autocomplete:
     use: true
     suggestions: 10
-    generate_index: false
 
 show:
   pitchbook:

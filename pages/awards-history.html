@@ -5,14 +5,7 @@ scripts: /assets/js/datatables.min.js /assets/js/dataTablesConfig.js /assets/js/
 css: /assets/css/datatables.min.css
 permalink: /awardees/history/
 ---
-{% assign years = "" | split: '' %}
-{% for award in site.data.awards_history %}
-  {% assign year = award.AwardDate | split: '-' | first %}
-  {% assign years = years | push: year %}
-{% endfor %}
-{% assign years = years | uniq | sort | reverse %}
 {% assign current_year = site.time | date: "%Y" %}
-{% assign states = site.data.awards_history | map: 'StateCode' | uniq | sort %}
 
 <div class="usa-section usa-content usa-grid">
   <h1>Award History</h1>
@@ -26,7 +19,7 @@ permalink: /awardees/history/
   <div class="awards-history-container">
     <ul class="awards-history-year-filters">
       <li><button type="button" class="active">All</button></li>
-      {% for award_year in years %}<li><button type="button">{{ award_year }}</button></li>
+      {% for award_year in site.data.awards_history_years %}<li><button type="button">{{ award_year }}</button></li>
       {% endfor %}
     </ul>
 
@@ -49,7 +42,7 @@ permalink: /awardees/history/
           <label for="all_states">All</label>
         </div>
         <div class="state-list">
-          {% for state_abbr in states %}
+          {% for state_abbr in site.data.awards_history_state_codes %}
           <div class="filter" data-state="{{ state_abbr }}">
             <input type="checkbox" id="state_{{ state_abbr }}" name="state_{{ state_abbr }}" value="{{ state_abbr }}" title="{{ site.data.states[ state_abbr ] }}">
             <label for="state_{{ state_abbr }}">{{ state_abbr }}</label>
