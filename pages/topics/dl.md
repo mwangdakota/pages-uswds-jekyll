@@ -1,6 +1,8 @@
 ---
-title: Distributed Ledger (DL)
+title: Distributed Ledger Grant – Apply Today
 permalink: /topics/distributed-ledger/
+description: 
+  - NSF provides startups with grant funding for distributed ledger technology. 
 layout: tech-topic
 topic_code: dl
 section_image: "/assets/img/bg/neural-analytics-2c-sh.jpg"

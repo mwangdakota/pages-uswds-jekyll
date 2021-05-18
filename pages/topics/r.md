@@ -1,6 +1,8 @@
 ---
-title: Robotics (R)
+title: Robotics Grant – Apply Today
 permalink: /topics/robotics/
+description: 
+  - NSF provides startups with grant funding for robotics applications. 
 layout: tech-topic
 topic_code: r
 section_image: "/assets/img/bg/syntouch-2c-ew.jpg"

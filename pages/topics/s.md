@@ -1,6 +1,8 @@
 ---
-title: Semiconductors (S)
+title: Semiconductors Grant – Apply Today
 permalink: /topics/semiconductors/
+description: 
+  - NSF funds startups. Use a research and development grant to create semiconductors. 
 layout: tech-topic
 topic_code: s
 section_image: "/assets/img/bg/arable-2c-s-ph.jpg"

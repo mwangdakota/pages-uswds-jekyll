@@ -1,6 +1,8 @@
 ---
-title: About
+title: About NSF SBIR/STTR – Startup Funding
 permalink: /about/
+description: 
+  - For 40 years, America’s Seed Fund has provided funding to help startups transform ideas into marketable products and services.
 layout: secondary
 section_image: "/assets/img/bg/robotic-arm.jpg"
 section_image_caption: |
@@ -54,7 +56,7 @@ You’ll work with a program director, who will serve as your coach. You’ll al
 <div class="usa-section usa-content usa-grid" >
 <div class="usa-width-one-half" markdown="1">
 
-### We support small companies and new entrepreneurs
+### We provide startup funding to small companies and new entrepreneurs
 
 We work with startups and small businesses, and we welcome proposals from newly formed companies — you don’t need a track record of commercialization to apply for funding. Please note that your company needs to be a legal entity before you apply.
 
@@ -65,7 +67,7 @@ If your company is majority owned by venture capital operating companies, hedge 
 
 ### We support R&D with lots of technical risk
 
-Our seed funding is for R&D that involves a good amount of technical risk. If you’re already sure that your product is technically feasible, this program isn’t a good fit for you.
+Our startup funding is for R&D that involves a good amount of technical risk. If you’re already sure that your product is technically feasible, this program isn’t a good fit for you.
 
 In selected cases, we support innovations to existing products and services, but these innovations must dramatically change the products’ commercial prospects. We don’t fund work that simply improves existing products. Check out our [portfolio]({{ '/portfolio/' | relative_url }}) to get a sense of our founders’ work. 
 </div>

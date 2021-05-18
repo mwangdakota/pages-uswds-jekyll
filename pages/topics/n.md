@@ -1,6 +1,8 @@
 ---
-title: Nanotechnology (N)
+title: Nanotechnology Grant – Apply Today
 permalink: /topics/nanotechnology/
+description: 
+  - NSF funds startups. Use a research and development grant to create nanotechnology. 
 layout: tech-topic
 topic_code: n
 section_image: "/assets/img/bg/branch-2c-mn.jpg"

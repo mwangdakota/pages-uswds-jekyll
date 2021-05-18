@@ -1,6 +1,8 @@
 ---
-title: Energy Technologies (EN)
+title: Energy Technologies Grant – Apply Today
 permalink: /topics/energy-technologies/
+description: 
+  - NSF funds startups. Use a research and development grant to create energy technologies.
 layout: tech-topic
 topic_code: en
 section_image: "/assets/img/bg/syntouch-2c-ew.jpg"

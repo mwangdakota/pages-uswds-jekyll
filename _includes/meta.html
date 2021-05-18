@@ -8,3 +8,11 @@
 {% if page.css %}
 <link rel="stylesheet" href="{{ site.baseurl }}{{ page.css }}">
 {% endif %}
+
+{% if page.keywords %}
+<meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
+{% endif %}
+
+{% if page.description %}
+<meta name="description" content="{{ page.description | join: ', ' | escape }}">
+{% endif %}

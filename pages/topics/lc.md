@@ -1,6 +1,8 @@
 ---
-title: Learning and Cognition Technologies (LC)  
+title: Learning and Cognition Technologies Grant – Apply Today
 permalink: /topics/learning-cognition-technologies/
+description: 
+  - NSF provides startups with grant funding for learning and cognition technologies.
 layout: tech-topic
 topic_code: lc
 section_image: "/assets/img/bg/iotas-2c-i.jpg"

@@ -1,6 +1,8 @@
 ---
-title: Cloud and High-Performance Computing (CH)
+title: Cloud and High-Performance Computing – Apply Today
 permalink: /topics/cloud-high-performance-computing/
+description: 
+  - NSF provides startups with grant funding for cloud and high-performance computing.
 layout: tech-topic
 topic_code: ch
 section_image: "/assets/img/bg/kepley-2c-ct.jpg"

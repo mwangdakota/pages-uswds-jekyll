@@ -1,6 +1,8 @@
 ---
-title: Cybersecurity and Authentication (CA)
+title: Cybersecurity and Authentication – Apply Today 
 permalink: /topics/cybersecurity-authentication/
+description: 
+  - NSF provides startups with grant funding for cybersecurity and authentication. 
 layout: tech-topic
 topic_code: ca
 section_image: "/assets/img/bg/kepley-2c-ct.jpg"

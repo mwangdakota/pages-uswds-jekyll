@@ -12,7 +12,7 @@ layout: secondary
 
 ## Upcoming
 
-We regularly host virtual office hours for startups and small businesses to learn about the application process and what we look for when we review proposals. Can’t make it to office hours? Watch a [recorded webinar](https://youtu.be/oVhWWydWWc4) about the Project Pitch Pilot or a [recorded webinar](https://youtu.be/jsWEvht0s6Y) about How to Apply.
+We regularly host virtual office hours for startups and small businesses to learn about the application process and what we look for when we review proposals. Can’t make it to office hours? Watch a [recorded webinar](https://youtu.be/oVhWWydWWc4) about the Project Pitch Pilot or a [recorded webinar](https://youtu.be/jsWEvht0s6Y) about How to Apply. For reasonable accommodations, please email [iip@nsf.gov](mailto:iip@nsf.gov) 14 days prior to the event.
 
 <!-- {% include events-table.html %} -->
 
@@ -27,7 +27,7 @@ We regularly host virtual office hours for startups and small businesses to lear
 
 ## Annual events
 
-You can often find NSF staff at major tradeshows and events throughout the year. Here's a calendar of some of the events we plan on attending in 2020:
+You can often find NSF staff at major tradeshows and events throughout the year. Here's a calendar of some of the events we plan on attending in 2021:
 
 {% include events-annual.html %}
 
