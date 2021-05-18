@@ -26,4 +26,10 @@ Jekyll::Hooks.register :site, :after_init do |site|
   program_directors = SiteData::ProgramDirectors.new(site)
   program_directors.generate
 
+  if site.config['awards_history']['generate_support_data']
+    puts "--------------------"
+    puts "Generating awards history support data..."
+    awards_history_support_data = SiteData::AwardsHistorySupportData.new(site)
+    awards_history_support_data.generate
+  end
 end

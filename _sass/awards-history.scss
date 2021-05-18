@@ -1,0 +1,326 @@
+.awards-history-container {
+  display: none;
+
+  .awards-history-year-filters {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 5rem;
+    padding-left: 0;
+    padding-right: 0;
+
+    li {
+      margin: 0;
+      line-height: unset;
+
+      &+ li {
+        margin-left: 1.5em;
+      }
+    }
+
+    button {
+      border: 0;
+      color: #212121;
+      font-weight: 500;
+      background: transparent;
+      padding: 0;
+      margin: 0;
+      min-width: auto;
+      border-bottom: 1px dotted #027;
+
+      &:focus {
+        box-shadow: none;
+      }
+    }
+
+    .active {
+      font-size: 1.75em;
+      color: #323A45;
+      border: none;
+      font-weight: bold;
+      position: relative;
+      top: -0.1rem;
+    }
+  }
+
+  .awards-history-grid-container {
+    position: relative;
+
+    .clear-filters-btn {
+      padding: 0;
+      border: 0;
+      border-bottom: 1px dotted black;
+      background: none;
+      min-width: unset;
+
+      &:hover {
+        background: none;
+        font-weight: bold;
+      }
+    }
+
+    .awards-history-grid-filters {
+      float: left;
+      margin-top: 0;
+      position: sticky;
+      top: 0;
+
+      [type=checkbox]+label {
+        margin: 0;
+      }
+
+      h3:first-of-type {
+        margin-bottom: 0;
+      }
+
+      h4 {
+        font-size: 1em;
+        margin: 1em 1em 0.5em 0;
+      }
+
+      .filter {
+        font-size: .8em;
+        margin: 1em 1em 1em 0;
+      }
+
+      .state-list {
+        height: 20em;
+        overflow-x: hidden;
+        overflow-y: scroll;
+        border: 1px solid #AEB0B5;
+        position: relative;
+        background: white;
+
+        .filter {
+          margin: 1em;
+        }
+
+        [type=checkbox] {
+          margin: 0;
+        }
+      }
+
+      [type=checkbox]+label::before,
+      [type=radio]+label::before {
+        height: 1.6rem;
+        line-height: 1.6rem;
+        width: 1.6rem;
+      }
+    }
+
+    .awards-history-grid-view {
+      // display: none;
+      position: absolute;
+      top: 3.25rem;
+      right: 0;
+      z-index: 10;
+
+      button {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font-size: 1.7rem;
+        font-weight: normal;
+        color: #333;
+        background: none;
+        min-width: unset;
+        -moz-osx-font-smoothing: unset;
+        -webkit-font-smoothing: unset;
+
+        &.active {
+          color: black;
+          font-weight: 600;
+        }
+
+        &:hover {
+          background: none;
+          border-bottom: 1px dotted black;
+        }
+      }
+    }
+
+    .dataTables_wrapper {
+      clear: right;
+      margin-left: 7em;
+
+      .dataTables_length {
+        margin-top: 1.2em;
+        margin-left: 2em;
+
+        label {
+          margin-top: 0;
+        }
+
+        select {
+          display: inline-block;
+          width: 4em;
+          font-size: 1em;
+          background-size: 1rem;
+          background-position: right 0.7rem center;
+          background-color: white;
+          padding: 0 5px;
+          height: 3.6rem;
+        }
+      }
+
+      .dataTables_filter {
+        float: left;
+        text-align: left;
+        margin-bottom: 2em;
+        position: relative;
+
+        label {
+          margin-top: 0.25em;
+          font-weight: bold;
+          font-size: 0.9em;
+          letter-spacing: -0.05em;
+        }
+
+        input {
+          margin-left: 0;
+          height: 2.3rem;
+          background: white;
+          font-weight: normal;
+          max-width: unset;
+          width: auto;
+        }
+
+        .help-icon {
+          position: absolute;
+          top: 3px;
+          right: 0;
+          height: 20px;
+          width: 20px;
+          background: url('../img/tooltip.svg') no-repeat;
+          background-size: contain;
+
+        }
+      }
+
+      .dt-buttons {
+        position: relative;
+        width: 12em;
+
+        .history-download-alert {
+          position: absolute;
+          top: 5em;
+          padding: 0.5em;
+          font-size: 0.6em;
+          font-weight: 600;
+          color: #900;
+          display: none;
+        }
+      }
+
+      .dt-buttons, .dl-csv {
+        float: right;
+        margin-top: .6em;
+
+        button {
+          min-width: unset;
+
+          &:hover {
+            color: black;
+            background: #FFE61A;
+          }
+        }
+      }
+
+      .dl-csv {
+        display: none;
+      }
+
+      .dataTable {
+        clear: right;
+
+        .dtrg-group {
+          &.dtrg-start {
+            background-color: transparent;
+
+            td {
+              background-color: transparent;
+              border: 0;
+            }
+
+            td:nth-child(3) {
+              text-align: right;
+            }
+
+            .group-count {
+              color: $color-primary;
+            }
+
+            .expand-collapse {
+              display: inline-block;
+              width: 1em;
+              height: 1em;
+              position: relative;
+              top: 0.35rem;
+              background: url(../img/arrow-down.svg) center right no-repeat;
+            }
+
+            &[aria-expanded="true"] {
+              border: 0;
+              .expand-collapse {
+                background: url(../img/arrow-up.svg) center right no-repeat;
+              }
+            }
+
+            &[aria-expanded="false"] {
+              .expand-collapse {
+                background: url(../img/arrow-down.svg) center right no-repeat;
+              }
+            }
+          }
+        }
+
+        .awards-history-group-hdrs {
+          td {
+            font-weight: 500;
+            white-space: nowrap;
+            border: 0;
+          }
+        }
+      }
+
+      .dataTables_info {
+        clear: right;
+      }
+
+      .group-company-name {
+        font-weight: 500;
+      }
+    }
+  }
+
+  #awards-history-search-help {
+    display: none;
+  }
+
+  // TDB: move some of this into its own SASS for other pages?
+  .typeahead.dropdown-menu {
+    background: white;
+    border: 1px solid #aaa;
+    position: absolute;
+    top: 80% !important;
+    min-width: 12.7em;
+    padding: 0;
+    list-style-type: none;
+
+    li {
+      padding: 0.3em 0.6em;
+      margin: 0;
+
+      a {
+        border-bottom: none;
+      }
+
+      &.active {
+        background: #f6f6f6;
+        border-botom: none;
+      }
+    }
+  }
+}

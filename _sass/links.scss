@@ -18,6 +18,16 @@ a { cursor: pointer; }
       }
     }
 
+    &[href^='tel']:not(.usa-button) {
+      background: url('../img/links/phone.svg') right center no-repeat;
+      background-size: 10px auto;
+      padding-right: 16px;
+      &:focus,
+      &:active {
+        @include focus-icon-linkstyle;
+      }
+    }
+
     &[href *='.doc']:not(.usa-button) {
       background: url('../img/links/file-word.svg') right center no-repeat;
       background-size: 16px auto;

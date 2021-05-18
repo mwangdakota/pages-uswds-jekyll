@@ -1,0 +1,71 @@
+.dataTable-seedfund {
+  .dataTables_wrapper {
+    table.dataTable {
+      border-collapse: collapse;
+      margin-top: 1em;
+    
+      thead {
+        border-bottom: 1px solid $color-gray-light;
+
+        .sorting {
+          background-image: url('../img/sort_both.png') !important;
+        }
+
+        .sorting_asc {
+          background-image: url('../img/sort_asc.png') !important;
+        }
+
+        .sorting_desc {
+          background-image: url('../img/sort_desc.png') !important;
+        }
+
+        tr {
+          th {
+            border: 0;
+            padding: 8px 20px 8px 8px;
+            background-color: transparent;
+            white-space: nowrap;
+            font-weight: 500;
+
+            &:focus {
+              outline: none;
+              border: 1px solid $color-gray-light;
+            }
+
+            &.sorting_asc,
+            &.sorting_desc {
+              color: black;
+              font-weight: bold;
+            }
+          }
+        }
+      }
+
+      tbody {
+        tr {
+          border-bottom: 1px solid $color-gray-light;
+
+          &.odd, &.even {
+            background-color: transparent;
+
+            td, td[class^="sorting_"] {
+              background-color: transparent;
+              border: 0;
+            }
+          }
+        }
+      }
+    }
+
+    .dataTables_paginate .paginate_button {
+      padding: 0.5em;
+
+      &.current,
+      &.current:hover {
+        background: none;
+        border: none;
+        font-weight: bold;
+      }
+    }
+  }
+}

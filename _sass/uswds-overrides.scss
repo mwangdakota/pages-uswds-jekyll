@@ -232,3 +232,14 @@ button:visited,
       }
   }
 }
+
+@include media($medium-screen) {
+  .estimated-end-date {
+    .usa-width-one-fourth {
+      width: 30%;
+    }
+    .usa-width-three-fourths {
+      width: 67%;
+    }
+  }
+}

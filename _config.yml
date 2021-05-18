@@ -5,10 +5,10 @@ url: https://seedfund.nsf.gov
 baseurl: ""
 permalink: pretty
 
-deadline: 
+deadline:
 past_deadline: December 3
 next_deadline: March 4
-second_deadline: 
+second_deadline:
 solicitation_released: February 12, 2021
 solicitation_window_1: February 12, 2021 - March 4, 2021
 solicitation_window_2: March 5, 2021 - June 3, 2021
@@ -45,6 +45,10 @@ defaults:
     values:
       layout: styleguide
       include_subnav: true
+  - scope:
+      path: "data/**"
+    values:
+      sitemap: false
 
 gems:
   - jekyll-redirect-from
@@ -108,3 +112,22 @@ topics_api:
     - piLastName
     - piPhone
     - piEmail
+
+awards_history:
+  generate_support_data: false
+  download_limit: 0
+  autocomplete:
+    use: true
+    suggestions: 10
+
+show:
+  pitchbook:
+    data: true
+    company_description: true
+    total_raised: true
+    website: true
+    year_founded: true
+    employee_count: true
+
+exclude:
+  - scripts/
