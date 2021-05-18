@@ -14,10 +14,11 @@
   {% assign _site_scripts = '' | split: ''
     | push: _uswds_js %}
 {% endunless %}
+{% assign _page_scripts = page.scripts | split: ' ' %}
 {% assign _scripts = _scripts
   | push: _site_scripts
   | push: layout.scripts
-  | push: page.scripts
+  | push: _page_scripts
   | uniq %}
 {% for _list in _scripts %}{% for _script in _list %}
   {% assign _src = _script.src | default: _script %}

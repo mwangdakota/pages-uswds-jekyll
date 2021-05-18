@@ -1,0 +1,164 @@
+---
+layout: base
+title: Award History Details
+scripts: /assets/js/dateFormatter.js /assets/js/strFormatter.js
+permalink: /awardees/history/details/
+---
+{% assign show_pitchbook = site['show']['pitchbook'] %}
+{% include loading.html msg='Loading company details...' %}
+
+<div id="awards-history-details" />
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const company_url = window.location.search.slice(1).split('&')[0].split('=')[1];
+
+    fetch('{{ site.baseurl }}/data/awards-history.json').then(function (response) {
+      return response.json();
+
+    }).then(function (awards_history) {
+
+      let award = awards_history.filter(function (awrd) { return awrd.CompanyUrl == company_url });
+      return Promise.resolve(award);
+
+    }).then(function (award) {
+      function hasPitchbookData(award) {
+        return !!((award.PitchbookCompanyDescription +
+          award.PitchbookYearFounded +
+          award.PitchbookNumberEmployees +
+          award.PitchbookTotalRaised +
+          award.PitchbookWebsite).trim().length);
+      }
+
+      function val(v, opt) {
+        if (!v) return '';
+
+        return (opt && opt.prefix ? opt.prefix : '') +
+          (opt && opt.protocol && !v.match(/^https?\:\/\//) ? 'http://' : '') +
+          v +
+          (opt && opt.suffix ? opt.suffix : '');
+      }
+
+      function pitchBookData(awd) {
+        return '' +
+          {% if show_pitchbook['company_description'] %}
+          '<strong style="font-size:1.6rem;">Company Description</strong><br>' +
+          val(awd.PitchbookCompanyDescription) + '<br><br>' +
+          {% endif %}
+
+          {% if show_pitchbook['total_raised'] %}
+          '<strong style="font-size:1.6rem;">Total Raised (in millions)</strong><br>' +
+          val(awd.PitchbookTotalRaised, {prefix: '$'}) + '<br><br>' +
+          {% endif %}
+
+          {% if show_pitchbook['website'] %}
+          '<strong style="font-size:1.6rem;">Website</strong><br>' +
+          '<a href="' + val(awd.PitchbookWebsite, {protocol: 'http'}) + '" target="_blank">' +
+          val(awd.PitchbookWebsite) + '</a><br><br>' +
+          {% endif %}
+
+          {% if show_pitchbook['year_founded'] %}
+          '<strong style="font-size:1.6rem;">Year Founded</strong><br>' +
+          val(awd.PitchbookYearFounded) + '<br><br>' +
+          {% endif %}
+
+          {% if show_pitchbook['employee_count'] %}
+          '<strong style="font-size:1.6rem;">Number of Employees</strong><br>' +
+          val(awd.PitchbookNumberEmployees) + '<br><br>' +
+          {% endif %}
+          '';
+      }
+
+      let html = '';
+
+      for (let awd of award) {
+        let isEstDate = dateFormatter.isEstimatedDate(awd.EndDate);
+
+        html += '' +
+          '<div' + (isEstDate ? ' class="estimated-end-date"' : '') + '>' +
+            '<div class="usa-grid usa-section">' +
+              '<h1 class="h2 subhead uppercase results-phase" style="">' + awd.ProgramElementName + '</h1>' +
+              '<h2 class="h1 results-company-title" style="">' + awd.InstitutionName + '</h2>' +
+              '<ul class="list results list-reset" style="">' +
+                '<li id="' + awd.CompanyUrl + '" class="usa-grid-full">' +
+                  '<div class="mb5 mt5">' +
+                    '<h1 class="h2 awardeeName usa-sr-only">' + awd.InstitutionName + '</h1>' +
+                    '<h2 class="title h5 font-regular">' + awd.Title + '</h2>' +
+                  '</div>' +
+
+                  '<div class="usa-grid-full ">' +
+                    '<div class="usa-width-one-fourth">' +
+                      '<address>' +
+                        '<div class="mb5">' +
+                          '<h4 class="subhead uppercase">Team</h4>' +
+                          '<p class="piName font-bold">' +
+                            '<a href="mailto:' + awd.PIEmail + '">' + awd.PIFirstName + ' ' + awd.PILastName +
+                            '</a>' +
+                          '</p>' +
+                          '<p><a href="tel:' + awd.PIPhoneNumber + '">' + awd.PIPhoneNumber + '</a></p>' +
+                          '<p>Principal Investigator</p>' +
+                        '</div>' +
+
+                        '<div class="mb5">' +
+                          '<h4 class="subhead uppercase">Contact</h4>' +
+                          '<p>' + awd.StreetAddress + '</p>' +
+                          '<p class="city">' +
+                            awd.CityName + ', ' + awd.StateCode + ' ' + awd.ZipCode +
+                          '</p>' +
+                        '</div>' +
+                      '</address>' +
+
+                      '<div class="mb5">' +
+                        '<h4 class="subhead uppercase">NSF Award</h4>' +
+                        '<p class="id">' + awd.AwardID + ' – ' + awd.ProgramElementName + '</p>' +
+                      '</div>' +
+
+                      '<div class="mb5">' +
+                        '<h4 class="subhead uppercase">Award amount to date</h4>' +
+                        '<p class="amount">' + strFormatter.usd_pretty(awd.AwardAmount) + '</p>' +
+                      '</div>' +
+
+                      '<div class="mb5">' +
+                        '<h4 class="subhead uppercase">Start / end date</h4>' +
+                        '<p>' + dateFormatter.mmddyyyy(awd.StartDate) + ' – ' +
+                        dateFormatter.formatEndDate(isEstDate, awd.EndDate, dateFormatter.mmddyyyy) + '</p>' +
+                      '</div>' +
+
+                      '<div class="mb5">' +
+                        '<h4 class="subhead uppercase">Errata</h4>' +
+                        '<p class="abstractText">Please report errors in award information by writing to <a href="mailto:awardsearch@nsf.gov">awardsearch@nsf.gov</a>.</p>' +
+                      '</div>' +
+                    '</div>' +
+
+                    '<div class="usa-width-three-fourths">' +
+                      '<div class="mb5">' +
+                        '<h4 class="subhead uppercase">Abstract</h4>' +
+                        '<p class="abstractText">' +
+                        awd.Abstract.replaceAll(/\n/g, '<br>').replaceAll(/(<br>){3,}/g, '<br><br>') +
+                        '</p>' +
+                      '</div>' +
+                      {% if show_pitchbook['data'] %}
+                      '<div class="pitchbook">' +
+                        '<p class="pitchbook-source" style="text-align:right;font-size:1.4rem;"><em>This information has been provided by</em>' +
+                        '<img width="150px"style="margin-left:5px;"src="../../../assets/img/pitch-book-logo.png" /></p><br>' +
+
+                        (hasPitchbookData(awd) ? pitchBookData(awd) : '<h3>No data found</h3>') +
+
+                        '<span class="pitchbook-disclaimer" style="font-size:1.2rem;"><em>Disclaimer: Company Data presented by NSF: (1) is the property of and proprietary to PitchBook Data, Inc.; (2) may not be copied, reproduced, or distributed; and (3) is not warranted to be accurate, complete nor timely. Neither PitchBook Data nor the National Science Foundation are responsible for any damages or losses arising from any use of such Data.</em></span>' +
+                      '</div>' +
+                      {% endif %}
+
+                    '</div>' +
+                  '</div>' +
+                '</li>' +
+              '</ul>' +
+
+            '</div>' +
+          '</div>'
+      }
+
+      document.querySelector('#awards-history-details').innerHTML = html;
+      document.querySelector('.results-loading').style.display = 'none';
+    });
+  });
+</script>

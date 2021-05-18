@@ -5,6 +5,10 @@
 <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
 {% include favicon.html %}
 
+{% if page.css %}
+<link rel="stylesheet" href="{{ site.baseurl }}{{ page.css }}">
+{% endif %}
+
 {% if page.keywords %}
 <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
 {% endif %}
