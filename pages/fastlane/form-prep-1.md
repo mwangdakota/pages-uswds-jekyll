@@ -10,7 +10,7 @@ sidenav: fastlane
 
 ### Formatting Instructions
 
-Visit the [PAPPG Guide](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf20001&org=NSF) for information on how to format your proposal.
+Visit the [{{ site.data.solicitations['SBIR'].title }}]({{ site.data.solicitations['SBIR'].url }}){:target="_blank"} or [{{ site.data.solicitations['STTR'].title }}]({{ site.data.solicitations['STTR'].url }}){:target="_blank"} for information on how to format your proposal.
 
 ### Create Proposal
 
