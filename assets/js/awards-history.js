@@ -367,6 +367,16 @@ $(document).ready(function () {
       dt.draw(false);
     });
 
+    dt.on('order', function() {
+      let order = dt.order();
+      console.log('order', order, Date.now());
+      if (order.length === 1) {
+        let newOrder = [[ order[0][0], order[0][1] ], [0, 'asc']];
+        console.log('new order', newOrder, Date.now());
+        dt.order(newOrder).draw();
+      }
+    });
+
   });
 
 });
