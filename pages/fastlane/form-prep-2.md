@@ -212,6 +212,6 @@ ABC Machining will manufacture two sample holders, requiring an estimated 20 hou
 The indirect rate for this project is 40% of total salaries and wages, for a total of $52,000 * 40% = $20,800.
 
 **K. Fee**  
-The fee is calculated as 4.43% of the total direct plus indirect costs (line J), or $6,370. Taking the maximum allowed fee of 7% would lead to a project budget over the $150,000  limit for Phase I.
+The fee is calculated as 4.43% of the total direct plus indirect costs (line J), or $6,370. Taking the maximum allowed fee of 7% would lead to a project budget over the $256,000  limit for Phase I.
 
 [Prev]({{ site.baseurl }}/fastlane/form-prep/) \| [Next]({{ site.baseurl }}/fastlane/form-prep-3/)
