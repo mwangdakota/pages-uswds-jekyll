@@ -104,7 +104,7 @@ This program is based on the NSF's Innovation Corps program, and more informatio
 **H. Total Direct Costs section:** Click "Calculate" and the total of items A through G will update.
 
 ![Total Direct Costs calculate button]({{ site.baseurl }}/assets/img/fastlane/16-TotalCosts.jpg)
-**I. Indirect Costs** section: The budgeted indirect costs must be in line with your organization's past actual spending patterns. Note that the total sum of requested Indirect Costs (line I) plus Fringe Benefits (line C) cannot exceed 150% of the total Direct Labor Costs (line A + line B). Enter the requested amount, then click "Calculate".
+**I. Indirect Costs** section: The budgeted indirect costs must be in line with your organization's past actual spending patterns. Enter the requested amount, then click "Calculate".
 
 ![Indirect costs section with item, rate %, and base input fields]({{ site.baseurl }}/assets/img/fastlane/17-IndirectCosts.jpg)
 **J. Total Direct and Indirect Costs** section: Click "Calculate" and the total of items H and I will update.
@@ -162,13 +162,6 @@ Return to the **"Project Budget"** screen and follow the previous instructions f
 ![Project Budget table displaying organizations, funds, and options to edit]({{ site.baseurl }}/assets/img/fastlane/28-ProjectBudget-Overview.jpg)
 After completing all budget requirements, click **"Go Back"** to return to the "Form Preparation" screen.
 
-In most cases, every employee listed in line A or B of the budget should fall under one of the following four occupational groups:
-- [Management Occupations (11-0000)](http://www.bls.gov/oes/current/oes_nat.htm#11-0000)
-- [Computer and Mathematical Occupations (15-0000)](http://www.bls.gov/oes/current/oes_nat.htm#15-0000)
-- [Architecture and Engineering Occupations (17-0000)](http://www.bls.gov/oes/current/oes_nat.htm#17-0000)
-- [Life, Physical, and Social Science Occupations (19-0000)](http://www.bls.gov/oes/current/oes_nat.htm#19-0000)
-
-Click [here]({{ site.baseurl }}/assets/files/awardees/SBIR_Salary_Validation_Guide.pdf) for detailed salary survey guidance
 ### Samples
 
 #### PLEASE REVIEW THE SAMPLE BUDGETS AND BUDGET JUSTIFICATIONS BELOW
