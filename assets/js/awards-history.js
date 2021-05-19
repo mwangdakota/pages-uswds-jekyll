@@ -250,7 +250,7 @@ $(document).ready(function () {
           }
         }
       ],
-      order: [[5, "desc"]],
+      order: [[5, "desc"], [0, "asc"]],
       rowGroup: {
         dataSrc: '',
         startRender: function(rows, group) {
