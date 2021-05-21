@@ -256,7 +256,7 @@ $(document).ready(function () {
         { title: 'PI', data: 'pi_name', visible: false},
         { title: 'PI PHONE', data: 'pi_phone', visible: false}
       ],
-      lengthMenu: [[50, 100, -1], [50, 100, "All"]],
+      lengthMenu: [[50, 100, -1], [50, 100, 'All']],
       dom: 'flBrtip',
       buttons: [
         {
@@ -283,7 +283,10 @@ $(document).ready(function () {
           }
         }
       ],
-      order: [[5, "desc"], [0, "asc"]],
+      order: [[5, 'desc'], [0, 'asc']],
+      orderFixed: {
+        post: [[0, 'asc']]
+      },
       rowGroup: {
         dataSrc: '',
         startRender: function(rows, group) {
@@ -383,7 +386,7 @@ $(document).ready(function () {
 
       if (target.text() === 'Group by Awardee') {
         awards_history_group_view = true;
-        dt.rowGroup().dataSrc('company_id').order([9, 'asc']);
+        dt.rowGroup().dataSrc('company_id').order([0, 'asc']);
         $('#awards_history thead th').hide();
       } else {
         awards_history_group_view = false;
@@ -398,16 +401,6 @@ $(document).ready(function () {
       let name = tr.data('name');
       awards_history_filters.expandGroup[name] = !awards_history_filters.expandGroup[name];
       dt.draw(false);
-    });
-
-    dt.on('order', function() {
-      let order = dt.order();
-      console.log('order', order, Date.now());
-      if (order.length === 1) {
-        let newOrder = [[ order[0][0], order[0][1] ], [0, 'asc']];
-        console.log('new order', newOrder, Date.now());
-        dt.order(newOrder).draw();
-      }
     });
 
   });
