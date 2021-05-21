@@ -148,6 +148,10 @@ $(document).ready(function () {
     return Promise.resolve(awards_history);
 
   }).then(function (awards_history) {
+    function userAgentStrugglesWithSticky() {
+      return navigator.userAgent.indexOf("Firefox") > -1;
+    }
+
     const config = Object.assign(dataTablesConfig(), {
       initComplete: function (settings, json) {
         $('.results-loading').hide();
@@ -178,7 +182,7 @@ $(document).ready(function () {
           join('');
 
         {% if use_autocomplete %}
-        let api = this.api();
+        const api = this.api();
         $('.dataTables_filter input[type="search"]', api.table().container()).typeahead({
           items: {{ suggestions }},
           source: autocomplete_index,
@@ -187,6 +191,35 @@ $(document).ready(function () {
           }
         });
         {% endif %}
+
+        if (userAgentStrugglesWithSticky()) {
+          const historyGrid = $('.usa-section.usa-content.usa-grid');
+          const topMargin = historyGrid.offset().top;
+          const spaceBetweenGridAndFooter = parseInt(historyGrid.css('padding-bottom'));
+          const gridFilters = $('.awards-history-grid-filters');
+          const gridFiltersHeight = gridFilters.height() + topMargin;
+          const gridFiltersTop = gridFilters.offset().top - topMargin;
+          const footer = document.querySelector(".usa-footer");
+          const fixedTopValue = '160px';
+
+          $(window).on('scroll', function() {
+            if (window.scrollY > gridFiltersTop) {
+              gridFilters[0].style.cssText = 'position:fixed; top:' + fixedTopValue;
+              footerTop = footer.getBoundingClientRect().top - spaceBetweenGridAndFooter;
+
+              if (gridFiltersHeight > footerTop) {
+                let diff = gridFiltersHeight - footerTop;
+                gridFilters[0].style.top = (parseInt(gridFilters[0].style.top) - diff) + 'px';
+              } else {
+                gridFilters[0].style.top = fixedTopValue;
+              }
+            } else {
+              // cssText is nice here because it replaces the entire inline style,
+              // i.e., deleting position and respecting the stylesheet value again
+              gridFilters[0].style.cssText = 'top:0';
+            }
+          });
+        }
       },
       data: awards_history,
       columns: [
