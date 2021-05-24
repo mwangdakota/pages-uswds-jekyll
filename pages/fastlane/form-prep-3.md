@@ -101,9 +101,9 @@ Follow the instructions on the below screen, then click **"Upload File"** to upl
 
 ### Mentoring Plan
 
-19\. Click on the **"Go"** button to the left of **"Mentoring Plan":**
+19\. If the SBIR or STTR project will include a sub-award to an academic institution, and that institution is requesting funding for postdoctoral researchers, a "Post Doc Mentoring  Plan" must be included as a supplementary document in this proposal. Otherwise, you may skip this section. **Note that employees of the small business or other for-profit  companies DO NOT count as postdocs, as they relate to this requirement, and should not be budgeted on line B.1.**
 
-If the SBIR or STTR project will include a sub-award to an academic institution, and that institution is requesting funding for postdoctoral researchers, a "Post Doc Mentoring  Plan" must be included as a supplementary document in this proposal. Otherwise, you may skip this section. **Note that employees of the small business or other for-profit  companies DO NOT count as postdocs, as they relate to this requirement, and should not be budgeted on line B.1.**
+Click on the **"Go"** button to the left of **"Mentoring Plan":**
 
 Please consult the solicitation for more information and a sample mentoring plan.
 
