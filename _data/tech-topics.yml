@@ -500,13 +500,14 @@
   permalink: /topics/medical-devices/
   topic_code: md
   programDirector:
-    - name: Henry Ahn
-      last_name: Ahn
-      api_name: Henry Ahn
-      email: hahn@nsf.gov
-      photo: Henry-compressed.jpg
+    - name: Ed Chinchoy
+      last_name: Chinchoy
+      api_name: Ed Chinchoy
+      email: echincho@nsf.gov
+      photo: chinchoy-compressed.jpg
       ttopic: md
-      bio: "joined the National Science Foundation in July 2016 as an SBIR/STTR Program Director. Prior to joining NSF, Henry managed seed/early stage investment programs for TEDCO for 12 years including Technology Commercialization Fund, TEDCO’s flagship seed funding program for technology-based companies in Maryland. During his time at TEDCO, Henry was actively involved with various entrepreneurs and entrepreneur support groups as a guest speaker, an advisory board member, a judge, a mentor, among others. Additionally, Henry was part of the licensing/supplier relations team at a biotechnology company called Upstate, where he successfully negotiated, licensed and commercialized approximately 190 biomedical research reagents from around the world. Henry has also done approximately five years of research, mostly in the field of immunology (including graduate work). Henry has an MBA from Rice University, an M.S. in biotechnology from the University of Tennessee, Knoxville and a B.S. in biomedical engineering from Boston University."  
+      bio: "joined the NSF in 2021 as an SBIR/STTR Program Director. Ed has more than two decades of experience in medical device research and development, and commercialization in startups and large global medical device manufacturers. Most recently, Ed founded and served as the CEO of 3VO Medical, and as Executive Vice President of VisCardia. Prior to those roles, Ed held various management positions with overall product division responsibilities for strategy, technology and product planning, and global commercialization at Abbott (St. Jude Medical) and Medtronic in cardiac rhythm management. He began his career as a scientist at Medtronic, and earned B.S. and M.S. degrees in Mechanical Engineering and Ph.D. in Biomedical Engineering, all from the University of Minnesota.
+"  
   subtopics:
     - Implantables (MD1)
     - Orthopedic (MD2)
