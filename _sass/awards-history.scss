@@ -65,7 +65,7 @@
       float: left;
       margin-top: 0;
       position: sticky;
-      top: 0;
+      top: 10em;
 
       [type=checkbox]+label {
         margin: 0;
@@ -238,6 +238,7 @@
         .dtrg-group {
           &.dtrg-start {
             background-color: transparent;
+            cursor: pointer;
 
             td {
               background-color: transparent;

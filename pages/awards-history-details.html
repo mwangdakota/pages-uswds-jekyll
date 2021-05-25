@@ -69,10 +69,28 @@ permalink: /awardees/history/details/
           '';
       }
 
+      function pitchBookDataSection(pitch_book_data) {
+        return '' +
+          '<div class="pitchbook">' +
+            '<p class="pitchbook-source" style="text-align:right;font-size:1.4rem;"><em>This information has been provided by</em>' +
+            '<img width="150px"style="margin-left:5px;"src="../../../assets/img/pitch-book-logo.png" /></p><br>' +
+
+            (pitch_book_data || '<h3>No data found</h3>') +
+
+            '<span class="pitchbook-disclaimer" style="font-size:1.2rem;"><em>Disclaimer: Company Data presented by NSF: (1) is the property of and proprietary to PitchBook Data, Inc.; (2) may not be copied, reproduced, or distributed; and (3) is not warranted to be accurate, complete nor timely. Neither PitchBook Data nor the National Science Foundation are responsible for any damages or losses arising from any use of such Data.</em></span>' +
+          '</div>';
+      }
+
+      const lastAwardIndex = award.length - 1;
+      let pitch_book_data = '';
       let html = '';
 
-      for (let awd of award) {
+      for (let [awdIndex, awd] of award.entries()) {
         let isEstDate = dateFormatter.isEstimatedDate(awd.EndDate);
+
+        if (!pitch_book_data) {
+          pitch_book_data = hasPitchbookData(awd) ? pitchBookData(awd) : '';
+        }
 
         html += '' +
           '<div' + (isEstDate ? ' class="estimated-end-date"' : '') + '>' +
@@ -138,14 +156,7 @@ permalink: /awardees/history/details/
                         '</p>' +
                       '</div>' +
                       {% if show_pitchbook['data'] %}
-                      '<div class="pitchbook">' +
-                        '<p class="pitchbook-source" style="text-align:right;font-size:1.4rem;"><em>This information has been provided by</em>' +
-                        '<img width="150px"style="margin-left:5px;"src="../../../assets/img/pitch-book-logo.png" /></p><br>' +
-
-                        (hasPitchbookData(awd) ? pitchBookData(awd) : '<h3>No data found</h3>') +
-
-                        '<span class="pitchbook-disclaimer" style="font-size:1.2rem;"><em>Disclaimer: Company Data presented by NSF: (1) is the property of and proprietary to PitchBook Data, Inc.; (2) may not be copied, reproduced, or distributed; and (3) is not warranted to be accurate, complete nor timely. Neither PitchBook Data nor the National Science Foundation are responsible for any damages or losses arising from any use of such Data.</em></span>' +
-                      '</div>' +
+                      (lastAwardIndex === awdIndex ? pitchBookDataSection(pitch_book_data) : '') +
                       {% endif %}
 
                     '</div>' +
