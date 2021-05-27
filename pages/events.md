@@ -12,7 +12,7 @@ layout: secondary
 
 ## Upcoming
 
-We regularly host virtual office hours for startups and small businesses to learn about the application process and what we look for when we review proposals. Can’t make it to office hours? Watch a [recorded webinar](https://youtu.be/oVhWWydWWc4) about the Project Pitch Pilot or a [recorded webinar](https://youtu.be/jsWEvht0s6Y) about How to Apply. For reasonable accommodations, please email [iip@nsf.gov](mailto:iip@nsf.gov) 14 days prior to the event.
+We regularly host a virtual Question and Answer session for startups and small businesses to learn about our program and the Project Pitch process. Can’t make it? Watch an [Introduction to America's Seed Fund recording](https://www.youtube.com/watch?v=ckitTDdcWbU) or a [How to Apply recording](https://youtu.be/jsWEvht0s6Y). For reasonable accommodations, please email [iip@nsf.gov](mailto:iip@nsf.gov) 14 days prior to the event.
 
 <!-- {% include events-table.html %} -->
 
