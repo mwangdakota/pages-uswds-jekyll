@@ -25,20 +25,35 @@ We’re not interested in innovation for innovation’s sake — we back technol
 
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
+  
+<div class="usa-width-one-half">
+  <iframe sandbox="allow-same-origin allow-scripts" title="Squishy Robotics" width="100%" height="300" src="https://www.youtube.com/embed/mKWCoHlInZg" frameborder="0" allowfullscreen></iframe><br>
+  <p><em>View on <a href="https://www.youtube.com/watch?v=mKWCoHlInZg" target="_blank">Youtube</a>.</em></p>
+</div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
-
-### New engine tech allows diesel engines to run on any fuel – ClearFlame Engine Technologies
-
-ClearFlame Engine Technologies, a small business funded by the National Science Foundation (NSF), has developed a novel engine technology that allows diesel engines to run on any fuel.
-
-To learn more visit: [https://www.clearflameengines.com/](https://www.clearflameengines.com/).
-
+### Engineering bacteria to treat skin disease – Azitra
+Azitra, a small business funded by the National Science Foundation (NSF), is harnessing the microbiome to treat skin disease.
+To learn more visit: [https://azitrainc.com/](https://azitrainc.com/).
 </div>
+
+  </div>
+</section>
+
+<section class="usa-section showcase-content background-gray-dark">
+<div class="usa-content usa-grid">
+  
+<div class="usa-content usa-width-one-half" markdown="1">
+### New engine tech allows diesel engines to run on any fuel – ClearFlame Engine Technologies
+ClearFlame Engine Technologies, a small business funded by the National Science Foundation (NSF), has developed a novel engine technology that allows diesel engines to run on any fuel.
+To learn more visit: [https://www.clearflameengines.com/](https://www.clearflameengines.com/).
+</div>
+
 <div class="usa-width-one-half">
   <iframe sandbox="allow-same-origin allow-scripts" title="re:3D" width="100%" height="300" src="https://www.youtube.com/embed/wuXqAjPGldE?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe><br>
   <p><em>View on <a href="https://www.youtube.com/watch?v=wuXqAjPGldE" target="_blank">Youtube</a>.</em></p>
 </div>
+  
 </div>
 </section>
 
@@ -51,13 +66,9 @@ To learn more visit: [https://www.clearflameengines.com/](https://www.clearflame
 </div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
-
 <h3 style="color:#323A45;">Shape-shifting robots provide real-time data in disasters - Squishy Robotics</h3>
-
 Squishy Robotics is developing mobile sensor robots for use in disaster rescue, remote monitoring, and space exploration.
-
 To learn more visit: [https://squishy-robotics.com/](https://squishy-robotics.com/).
-
 </div>
 
 </div>
@@ -67,13 +78,9 @@ To learn more visit: [https://squishy-robotics.com/](https://squishy-robotics.co
 <div class="usa-content usa-grid">
 
 <div class="usa-content usa-width-one-half" markdown="1">
-
 <h3 style="color:#323A45;">Learning math using music and psychology – Muzology</h3>
-
 Muzology is developing a learning platform to help students learn math. Grounded in psychology, Muzology’s platform helps students learn algebra concepts with music.
-
 To learn more visit: [https://www.muzology.com/](https://www.muzology.com/).
-
 </div>
 
 <div class="usa-width-one-half">
@@ -93,13 +100,9 @@ To learn more visit: [https://www.muzology.com/](https://www.muzology.com/).
 </div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
-
 ### From plastic trash to 3D printing– re:3D
-
 re:3D makes large-scale, industrial 3D printers that can print from plastic waste. The company’s open-source and affordable printers can grind, dry, and feed plastic waste into the 3D printer, Gigabot X (GBX). The company hopes to address local needs by creating a circular economy. 
-
 To learn more visit: [https://re3d.org/](https://re3d.org/).
-
 </div>
 
 </div>
