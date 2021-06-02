@@ -32,7 +32,7 @@ We’re not interested in innovation for innovation’s sake — we back technol
 </div>
 
 <div class="usa-content usa-width-one-half" markdown="1">
-###Engineering bacteria to treat skin disease – Azitra
+### Engineering bacteria to treat skin disease – Azitra
 Azitra, a small business funded by the National Science Foundation (NSF), is harnessing the microbiome to treat skin disease.
 To learn more visit: [https://azitrainc.com/](https://azitrainc.com/).
 </div>
