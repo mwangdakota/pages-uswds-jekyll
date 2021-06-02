@@ -8,10 +8,21 @@ sidenav: phase-1
 <script type="text/javascript"> setTimeout(function(){var a=document.createElement("script"); var b=document.getElementsByTagName("script")[0]; a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0041/5508.js?"+Math.floor(new Date().getTime()/3600000); a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1); </script>
 </head>
 <h1>
-  <span>Resources:</span>Phase I awardees
+  <span>Resources:</span>Getting started with a Phase I award 
 </h1>
 
-This page has all the forms you need to manage your Phase I award, information you need to apply for Phase II funding, and other useful resources.
+This page has information, forms and opportunities for Phase I awardees. It also includes information you’ll need to apply for Phase II funding, and other useful resources. Please direct any questions to your program director or to [sbir@nsf.gov](mailto:sbir@nsf.gov).
+
+Please view this 30-minute video that covers important information regarding your Phase I award:
+<iframe sandbox="allow-same-origin allow-scripts" title="Phase I award information" width="100%" height="300" src="https://www.youtube.com/embed/JUhBJ1frOO8" frameborder="0" allowfullscreen></iframe>
+
+## SBIR/STTR Phase I Workshop 
+
+NSF requires each Phase I awardee company to participate in the SBIR/STTR Phase I Workshop. This virtual workshop (hosted on Zoom) consists of about 8-10 hours of sessions spread over three days. The first day of the workshop includes general-purpose sessions required for all Phase I awardees. The second day will feature a one-on-one meeting with your program director and other sessions. The principal investigator (PI) is required to participate, and we strongly suggest that the person(s) who lead the business activities (if not the PI) for the Phase I project also participate, as the workshop is heavily focused on commercial and entrepreneurial discussions.  
+
+You should receive information in the first 1-2 months of your award on how to register. If your team is unable to attend this required event, you will need to contact [sbir@iqsolutions.com](sbir@iqsolutions.com) and your program director as soon as possible. Visit our workshop website for more information, plus dates of upcoming events.
+
+
 
 
 ## Information for current Phase I awardees
