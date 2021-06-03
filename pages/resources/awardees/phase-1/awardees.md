@@ -22,8 +22,13 @@ NSF requires each Phase I awardee company to participate in the SBIR/STTR Phase 
 
 You should receive information in the first 1-2 months of your award on how to register. If your team is unable to attend this required event, you will need to contact [sbir@iqsolutions.com](sbir@iqsolutions.com) and your program director as soon as possible. Visit our workshop website for more information, plus dates of upcoming events.
 
+## Boot Camp
 
+You are expected to participate in the [Beat-the-Odds Boot Camp]({{ site.baseurl }}/resources/awardees/phase-1/bootcamp/). The program provides successful startup basics based on the Customer Discovery method and is designed specifically for NSF SBIR/STTR Phase I awardees. Please reserve time on your calendars to participate. 
 
+## Commercialization planning
+
+All Phase I awardees are given the opportunity to work with a commercialization planning contractor under NSF’s Commercialization Assistance Program (CAP). Currently, NSF contracts with a third party, Dawnbreaker, to provide this service, which is free of charge for awardees. This program is designed to familiarize you with the commercialization plan which is a key part of a Phase II proposal, and to give guidance and feedback as you begin to draft this document. You will be contacted in the first months of your Phase I award to kick-off this activity. 
 
 ## Information for current Phase I awardees
 
