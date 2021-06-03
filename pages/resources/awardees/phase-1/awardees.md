@@ -20,7 +20,7 @@ Please view this 30-minute video that covers important information regarding you
 
 NSF requires each Phase I awardee company to participate in the SBIR/STTR Phase I Workshop. This virtual workshop (hosted on Zoom) consists of about 8-10 hours of sessions spread over three days. The first day of the workshop includes general-purpose sessions required for all Phase I awardees. The second day will feature a one-on-one meeting with your program director and other sessions. The principal investigator (PI) is required to participate, and we strongly suggest that the person(s) who lead the business activities (if not the PI) for the Phase I project also participate, as the workshop is heavily focused on commercial and entrepreneurial discussions.  
 
-You should receive information in the first 1-2 months of your award on how to register. If your team is unable to attend this required event, you will need to contact [sbir@iqsolutions.com](sbir@iqsolutions.com) and your program director as soon as possible. Visit our workshop website for more information, plus dates of upcoming events.
+You should receive information in the first 1-2 months of your award on how to register. If your team is unable to attend this required event, you will need to contact [sbir@iqsolutions.com](mailto:sbir@iqsolutions.com) and your program director as soon as possible. Visit our workshop website for more information, plus dates of upcoming events.
 
 ## Boot Camp
 
