@@ -11,7 +11,7 @@ To receive final payment, you are required to submit a final report and a projec
 
 ## Final report  
 
-The report must be submitted via [research.gov](research.gov) no later than 15 days after the end of your award. We encourage you to include not only the data you obtained during the project, but also discuss the results and how they may inform your future technical and commercialization plans. [Follow the guide]({{ site.baseurl }}/resources/awardees/phase-1/reporting/) to submit your final report. 
+The report must be submitted via [research.gov](http://www.research.gov) no later than 15 days after the end of your award. We encourage you to include not only the data you obtained during the project, but also discuss the results and how they may inform your future technical and commercialization plans. [Follow the guide]({{ site.baseurl }}/resources/awardees/phase-1/reporting/) to submit your final report. 
 
 The final report must show your results and actual data for each research objective and task funded by NSF. You should also discuss progress made by your company during Phase I in other, non-NSF-funded aspects, such as business development, customer and partner engagements, fundraising, and building your team.  
 
