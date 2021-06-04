@@ -39,13 +39,7 @@ layout: secondary-narrow
         <li class="pd-bio-content">
         <img src="{{ site.baseurl }}/assets/img/adcom/cathy.jpg">
    <p class="bio"><strong>Cathy Hill</strong> is President of The Plummer – Hill Group (PHG), LLC providing strategic business development services. Georgia Chamber of Commerce engaged PHG to develop Georgia InVenture Prize, an annual college innovation competition. Cathy is also a Managing Director with Golden Seeds, Inc. a discerning network of investors, seeking and funding high-potential, women-led businesses. Cathy retired as vice president of Georgia Power Company after 33 years of leading real estate, transportation, engineering, construction, customer operations, external affairs and as assistant to the president & CEO.  She received the Bachelor of Electrical Engineering from Georgia Tech and the Master of Business Administration from Georgia State University. She completed executive management programs at Harvard Business School and Cambridge University’s Judge School of Business. She is enrolled in Georgia State University’s Executive Doctorate in Business Administration program. Cathy’s civic achievements have been recognized in resolutions from Georgia’s governor and state general assembly.</p>
-       </li> 
-       
-   <a name="MaryJuhas"></a>
-        <li class="pd-bio-content">
-        <img src="{{ site.baseurl }}/assets/img/adcom/mary.jpg">
-   <p class="bio"><strong>Mary Juhas</strong> is associate vice president in the Office of Research at the Ohio State University.  In this role, she develops programs that expand pathways to research leadership. As the leader of Ohio State ADVANCE, Mary directs “REACH for Commercialization™”, a career development program for women innovators. She is an angel investor. For two years, Mary served as program director in the Directorate for Engineering at NSF. She is a Fellow of ASM International; former ABET board member and past president of the Women in Engineering ProActive Network (WEPAN).  Mary earned a Master’s degree in Materials Science and Engineering from Carnegie Mellon University and a Ph.D. in Materials Science and Engineering from the Ohio State University.  She was a postdoctoral fellow at the University of Paris. Mary has held engineering research and leadership positions at Lawrence Livermore National Laboratory and Edison Welding Institute.</p>
-       </li> 
+       </li>  
  
    <a name="KirstenLeute"></a>
         <li class="pd-bio-content">
@@ -53,7 +47,7 @@ layout: secondary-narrow
    <p class="bio"><strong>Kirsten Leute</strong> of Osage University Partners (OUP) is responsible for the relationships with the more than 100 academic institutions that are partnered with the fund, engaging potential new partner institutions, and enhancing and creating value-add programs for the partnered academic institutions. Kirsten is an experienced technology transfer professional, spending 19 years in technology transfer at Stanford University and the German Cancer Research Center. Prior to joining OUP, she was Associate Director at Stanford’s Office of Technology Licensing. Over her career at Stanford, she managed portfolios of inventions in most technology areas, but concentrated in biotechnology. Kirsten has also been actively involved in technology transfer outside her daily work. She is a former two-time board member for the Association of University Technology Managers and speaks frequently on university technology transfer.</p>
        </li>  
        
-    <a name="ChrisMoran"></a>
+   <a name="ChrisMoran"></a>
         <li class="pd-bio-content">
         <img src="{{ site.baseurl }}/assets/img/adcom/moran.jpg">
    <p class="bio"><strong>John Christopher “Chris” Moran</strong> is the Executive Director and General Manager of Lockheed Martin Ventures; the venture capital investment arm of Lockheed Martin Corporation. In this capacity, he is responsible for leading the Corporation’s investments in small technology companies which support Lockheed Martin’s strategic business objectives. Prior to joining Lockheed Martin, Chris served in a variety of increasingly responsible positions at Applied Materials, Inc., Santa Clara, California. He served most recently as the head of the Business Systems and Analytics group in the Applied Global Services Organization. Chris was with Applied for over 32 years. Prior to his most recent role, Chris was head of Corporate Strategy and General Manager of Applied Ventures LLC; the strategic investing arm of Applied Materials. He is a graduate of the Massachusetts Institute of Technology where he obtained both his Bachelor’s and Master’s degrees in Mechanical Engineering.</p>
