@@ -56,14 +56,7 @@ The SBIR/STTR Stakeholder Subcommittee is a team of nationally recognized leader
    <span class="pd-list-content">
         <h3 class="pd-name"><a href="{{ site.baseurl }}/sbir-sttr-subcommittee-bios/#CathyHill">Cathy Hill</a></h3>
   </span>
-  </li> 
-    
-  <li class="pd-card" style="height: 35rem;">
-  <img src="{{ site.baseurl }}/assets/img/adcom/mary.jpg" alt="Mary Juhas headshot">
-   <span class="pd-list-content">
-        <h3 class="pd-name"><a href="{{ site.baseurl }}/sbir-sttr-subcommittee-bios/#MaryJuhas">Mary Juhas</a></h3>
-  </span>
-  </li> 
+  </li>  
   
   <li class="pd-card" style="height: 35rem;">
   <img src="{{ site.baseurl }}/assets/img/adcom/kirsten.jpg" alt="Kirsten Leute headshot">
