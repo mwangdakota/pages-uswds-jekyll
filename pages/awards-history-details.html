@@ -92,6 +92,8 @@ permalink: /awardees/history/details/
           pitch_book_data = hasPitchbookData(awd) ? pitchBookData(awd) : '';
         }
 
+        let programDirector = awd.ProgramManager ? awd.ProgramManager.split(/,\s+/) : '';
+
         html += '' +
           '<div' + (isEstDate ? ' class="estimated-end-date"' : '') + '>' +
             '<div class="usa-grid usa-section">' +
@@ -141,6 +143,14 @@ permalink: /awardees/history/details/
                         '<p>' + dateFormatter.mmddyyyy(awd.StartDate) + ' – ' +
                         dateFormatter.formatEndDate(isEstDate, awd.EndDate, dateFormatter.mmddyyyy) + '</p>' +
                       '</div>' +
+
+                      (programDirector && programDirector[0] && programDirector[1] ? (
+                        '<div class="mb5 details-program-director">' +
+                          '<h4 class="subhead uppercase">Program Director</h4>' +
+                          '<strong class="program-director-name">' +
+                          programDirector[1] + ' ' + programDirector[0] + '</strong>' +
+                        '</div>'
+                      ) : '') +
 
                       '<div class="mb5">' +
                         '<h4 class="subhead uppercase">Errata</h4>' +
