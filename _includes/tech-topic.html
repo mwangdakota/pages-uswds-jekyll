@@ -26,7 +26,7 @@
     <div class="usa-width-two-thirds tech-topic-content">
       <p class="subhead">Technology topic</p>
       <h2>{{ topic.topic }}</h2>
-      {{ include.desc }}
+      {{ include.desc | markdownify }}
       <h3>Sub-Topics</h3>
       <p>{% for sub_topic in sub_topics %}
         {{ sub_topic }}{% if forloop.last == false %}<br/>{% endif %}
