@@ -93,6 +93,13 @@ The SBIR/STTR Stakeholder Subcommittee is a team of nationally recognized leader
   </span>
   </li>  
   
+     <li class="pd-card" style="height: 35rem;">
+  <img src="{{ site.baseurl }}/assets/img/adcom/thompson.jpg" alt="Jim Thompson headshot">
+   <span class="pd-list-content">
+        <h3 class="pd-name"><a href="{{ site.baseurl }}/sbir-sttr-subcommittee-bios/#JimThompson">Jim Thompson</a></h3>
+  </span>
+  </li>  
+  
    <li class="pd-card" style="height: 35rem;">
   <img src="{{ site.baseurl }}/assets/img/adcom/vase.jpg" alt="Ajoy Vase headshot">
    <span class="pd-list-content">
