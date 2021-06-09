@@ -1,15 +1,4 @@
 {% assign topic = site.data.tech-topics | where: "topic_code", page.topic_code | first %}
-{% assign subtopics = "" %}
-{% for subtopic in topic.subtopics %}
-  {% assign stopic = subtopic | split: " (" %}
-  {% assign stopic_code = stopic[1] | split: ")" | first | append: ". " %}
-  {% if forloop.last == false %}
-    {% assign subtopics = subtopics | append: stopic_code | append: stopic[0] | append: "|" %}
-  {% else %}
-    {% assign subtopics = subtopics | append: stopic_code | append: stopic[0] %}
-  {% endif %}
-  {% assign sub_topics = subtopics | split: "|" %}
-{% endfor %}
 <section class="section-background-image">
   <div class="usa-grid topic-icon" style="background-image:url('{{ site.baseurl }}/assets/img/icons/{{ topic.topic_code | downcase }}-white.svg')">
     <h1 class="text-large">{{ topic.topic }}</h1>
@@ -28,8 +17,8 @@
       <h2>{{ topic.topic }}</h2>
       {{ include.desc | markdownify }}
       <h3>Sub-Topics</h3>
-      <p>{% for sub_topic in sub_topics %}
-        {{ sub_topic }}{% if forloop.last == false %}<br/>{% endif %}
+      <p>{% for subtopic in topic.subtopics %}
+        {{ subtopic | bulletize_sub_topic }}{% if forloop.last == false %}<br/>{% endif %}
       {% endfor %}</p>
     </div>
    <div class="usa-width-one-third">
