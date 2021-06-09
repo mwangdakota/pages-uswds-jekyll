@@ -7,13 +7,20 @@ section_image: "/assets/img/bg/biomason-2c-mi.jpg"
 section_image_caption: |
   [bioMASON Inc]({{ site.baseurl }}/portfolio/details/?company=biomason-inc#biomason-inc) interior and exterior façade tile made with biocement, which is less costly and more sustainable than its traditional counterpart
 ---
+{% capture tt_description %}
+The Instrumentation and Hardware Systems topic addresses the research and development of new and improved instrumentation and related systems for a wide variety of commercial and industrial applications. Proposals in this topic may deal with new instruments for use in scientific, industrial, engineering, or manufacturing environments, among others. Types of instruments that will be considered include systems and tools designed for the purposes of detection, manipulation, characterization, measurement, processing, control, and/or monitoring. A wide variety of applications areas will be considered as part of this topic.
+{% endcapture %}
 
-The Instrumentation and Hardware Systems topic addresses the research and development of new and improved instrumentation and related systems for a wide variety of commercial and industrial applications. Proposals in this topic may deal with new instruments for use in scientific, industrial, engineering, or manufacturing environments, among others. Types of instruments that will be considered include systems and tools designed for the purposes of detection, manipulation, characterization, measurement, processing, control, and/or monitoring. A wide variety of applications areas will be considered as part of this topic.  
+{% capture tt_features %}
+<div class="usa-section usa-content usa-grid">
+  <h3>FEATURE 1</h3>
+</div>
 
-### IHI. Instrumentation or Hardware Systems for Actuation, Control, and Manipulation
+<div class="background-light-blue">
+  <div class="usa-section usa-content usa-grid">
+    <h3>FEATURE 2</h3>
+  </div>
+</div>
+{% endcapture %}
 
-### IH2. Instrumentation or Hardware Systems for Detection and Characterization
-
-### IH3. Instrumentation or Hardware Systems for Imaging
-
-### IH4. Other Instrumentation or Hardware Systems Technologies
+{% include tech-topic.html desc=tt_description features=tt_features %}

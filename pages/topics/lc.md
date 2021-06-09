@@ -7,26 +7,20 @@ section_image: "/assets/img/bg/iotas-2c-i.jpg"
 section_image_caption: |
   Showcasing [IOTAS]({{ site.baseurl }}/portfolio/details/?company=iotas-inc#iotas-inc)'s' Home app, featuring a unique floor plan view and Smart Stories™.
 ---
-The Learning and Cognition Technologies topic aims to cover all learning and cognitive innovations that require research and development to advance the field of STEM education. This topic supports the development of a prototype or proof-of-concept and does not support curriculum development or incremental work on existing technologies. Subtopics include but are not limited to: 
+{% capture tt_description %}
+The Learning and Cognition Technologies topic aims to cover all learning and cognitive innovations that require research and development to advance the field of STEM education. This topic supports the development of a prototype or proof-of-concept and does not support curriculum development or incremental work on existing technologies. Subtopics include but are not limited to:
+{% endcapture %}
 
-### LC1. Asynchronous and Remote Learning  
+{% capture tt_features %}
+<div class="usa-section usa-content usa-grid">
+  <h3>FEATURE 1</h3>
+</div>
 
-### LC2. Collaborative Networking 
+<div class="background-light-blue">
+  <div class="usa-section usa-content usa-grid">
+    <h3>FEATURE 2</h3>
+  </div>
+</div>
+{% endcapture %}
 
-### LC3. Digital Learning 
-
-### LC4. Learning Disabilities and Difficulties 
-
-### LC5. Learning and Workforce Development 
-
-### LC6. Learning Modalities 
-
-### LC7. Mental Health Assessment and Support 
-
-### LC8. Neuroscience-based Technologies 
-
-### LC9. Scalable Educational Enterprise Systems  
-
-### LC10. Statistical and Heuristic Analysis 
-
-### LC11. Other Learning and Cognition Technologies 
+{% include tech-topic.html desc=tt_description features=tt_features %}
