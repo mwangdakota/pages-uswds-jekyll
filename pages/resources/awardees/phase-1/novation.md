@@ -15,7 +15,7 @@ Any changes in the **research scope** must be approved by your program director 
 
 ## Revised budget 
 
-You will need NSF approval to make changes (by more than 5 percent of the total) to your budget. Please email your program director for permission and [next steps]({{ site.baseurl }}/resources/awardees/phase-1/revised-budget/). 
+You will need NSF approval to make changes (by more than 5 percent of the total) to your budget. Please email your program director for permission and next steps. 
 
 ## Principal investigator 
 
