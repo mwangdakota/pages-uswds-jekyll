@@ -37,7 +37,7 @@ All Phase I awardees are given the opportunity to work with a commercialization 
 - [Phase I reporting requirements]({{ site.baseurl }}/resources/awardees/phase-1/reporting/)
 - [How to apply for a Phase II award]({{ site.baseurl }}/resources/awardees/phase-2/apply/)
 
-## General awardee information
+## Making changes to your award
 
 Useful information for Phase I awardees
 
