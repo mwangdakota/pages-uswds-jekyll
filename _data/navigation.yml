@@ -75,6 +75,8 @@ review:
 phase-1:
   - text: Phase I awardees
     href: /resources/awardees/phase-1/
+  - text: Accounting
+    href: /resources/awardees/phase-1/accounting/  
   - text: Rules and Regulations
     href: /resources/awardees/phase-1/rules-and-regulations/
   - text: Boot Camp
@@ -99,10 +101,6 @@ phase-1:
     href: /resources/awardees/phase-1/research-experiences/
   - text: General awardee conditions
     href: https://www.nsf.gov/awards/managing/sbirsttr_conditions.jsp
-  - text: CAAR Videos for Phase I Awardees
-    href: https://www.youtube.com/playlist?list=PLGhBP1C7iCOmI1p5UtqYCXzmUL9SzSApv
-  - text: Accounting
-    href: /resources/awardees/phase-1/accounting/
   - text: Final Report
     href: /resources/awardees/phase-1/final-report/
 
