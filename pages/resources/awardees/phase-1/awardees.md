@@ -8,7 +8,7 @@ sidenav: phase-1
 <script type="text/javascript"> setTimeout(function(){var a=document.createElement("script"); var b=document.getElementsByTagName("script")[0]; a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0041/5508.js?"+Math.floor(new Date().getTime()/3600000); a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1); </script>
 </head>
 <h1>
-  <span>Resources:</span> The basics
+  <span>Resources:</span>Phase I awardees
 </h1>
 
 This page has all the forms you need to manage your Phase I award, information you need to apply for Phase II funding, and other useful resources.
