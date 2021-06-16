@@ -41,7 +41,7 @@ layout: secondary-narrow
       </div>
 
       <div class="apply-timeline__desc">
-        <p>About 1 month after you submit your Project Pitch, you’ll hear back.</p>
+        <p>Submit your Project Pitch anytime. Hear back in about 1 month.</p>
       </div>
 
       <div class="apply-timeline__block apply-timeline__block--expanded">
