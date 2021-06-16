@@ -84,9 +84,9 @@ layout: secondary-narrow
     <br>Read our step-by-step <a href="{{ site.baseurl }}/fastlane/">FastLane guide</a>. We have screenshots to help walk you through the submission process.
   </p>
   <p><b>Understanding the review process</b>
-    <br>The <a href="https://www.nsf.gov/bfa/dias/policy/merit_review/facts.jsp" target="_blank">merit review
-      process</a> enables NSF to make wise investments in all fields of science and engineering research and
-    education. Please review our documentation to understand each component of our process and what we mean by intellectual merit, broader impacts and commercial impacts: <br><a href="{{ site.baseurl }}/resources/review/peer-review/">Peer review</a>
+    <br>The merit review
+      process enables NSF to make wise investments in all fields of science and engineering research and
+    education. Please review information on our <a href="{{ site.baseurl }}/resources/review/peer-review/">peer review</a> criteria to understand each component of our process and what we mean by intellectual merit, broader impacts and commercial impacts. <br>
   </p>
   <div class="step-banner">
     <a class="step-banner__content" href="{{ site.baseurl }}/apply/review-decision/">
