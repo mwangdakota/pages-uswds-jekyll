@@ -86,7 +86,7 @@ layout: secondary-narrow
   <p><b>Understanding the review process</b>
     <br>The merit review
       process enables NSF to make wise investments in all fields of science and engineering research and
-    education. Please review information on our <a href="{{ site.baseurl }}/resources/review/peer-review/">peer review</a> criteria to understand each component of our process and what we mean by intellectual merit, broader impacts and commercial impacts. <br>
+    education. Please review information on our <a href="{{ site.baseurl }}/resources/review/peer-review/">peer review</a> criteria to understand what we mean by intellectual merit, broader impacts and commercial impacts. <br>
   </p>
   <div class="step-banner">
     <a class="step-banner__content" href="{{ site.baseurl }}/apply/review-decision/">
