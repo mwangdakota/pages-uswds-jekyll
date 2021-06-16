@@ -6,7 +6,7 @@ layout: secondary-narrow
 {% include apply-nav.html %}
 <section class="usa-section full-bleed-bg">
   <h2>Timeline overview</h2>
-  <p>The Project Pitch is the first step in our process. We accept Project Pitches at any time (24/7) and 365 days a year. Typically, it'll take about one month to get an official response from NSF staff.</p>
+  <p>We accept Project Pitches at any time (24/7) and 365 days a year. Typically, it'll take about one month to get an official response from NSF staff.</p>
 </section>
 
 <div markdown="0">
