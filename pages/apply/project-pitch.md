@@ -33,7 +33,7 @@ layout: secondary-narrow
     <br>Describe the background and current status of the applicant small business, including key team members who
     will lead the technical and/or commercial efforts discussed in this Project Pitch.
   </p>
-  <p><b><h2>Submit your pitch below</h2></b></p>
+  <p><b><h2>Submit your pitch</h2></b></p>
   <br> When you're ready, you'll need to create an account to submit your Project Pitch.*</br>
   <a class="usa-button usa-button-secondary" href="https://nsfiip.force.com/sbir/s/login/" target="_blank">
     Submit your Project Pitch
