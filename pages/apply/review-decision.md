@@ -18,7 +18,6 @@ layout: secondary-narrow
   </p>
   <p>For a more detailed view, proceed to the <a href="#">post submission page</a>.</p>
 </section>
-
 <div markdown="0">
   <h2>Application</h2>
   <p>Educate the user that the following are all things that need to be done. We can include verbiage about timing and
@@ -28,7 +27,7 @@ layout: secondary-narrow
     <br>To see your submitted application proceed to <a href="#">XYZ page</a>.
   </p>
   <p><b>Award status</b>
-    <br>To review the status of your application, please proceed to <a href="#">XYZ page</a>.
+    <br>To review the status of your application, please sign into Fastlane to see where it stands and read anonymous, verbatim written reviews <a href="#">XYZ page</a>.
   </p>
 </div>
 
