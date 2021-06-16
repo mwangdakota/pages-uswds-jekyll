@@ -1,19 +1,19 @@
 ---
-title: How It Works - Application Review & Decision
+title: How It Works - Proposal Review & Decision
 permalink: /apply/review-decision/
 layout: secondary-narrow
 ---
 {% include apply-nav.html %}
 <section class="usa-section full-bleed-bg">
-  <h2>After you submit your application</h2>
-  <p>What to expect after you’ve submitted your application:</p>
+  <h2>After you submit your proposal</h2>
+  <p>What to expect after you’ve submitted your proposal:</p>
   <p><b>1-3 months after the window closes</b>
-    <br>Applications undergo panel and merit reviews.
+    <br>Proposals are reviewed by a panel of at least three technical and commercial experts.
   </p>
   <p><b>4-6 months after the window closes</b>
     <br>We'll notify you whether your proposal is accepted or declined.
   </p>
-  <p><b>5-6 months after the window closes</b>
+  <p><b>6-9 months after the window closes</b>
     <br>If your proposal is accepted, you'll receive funding of up to $256,000.
   </p>
   <p>For a more detailed view, proceed to the <a href="#">post submission page</a>.</p>
