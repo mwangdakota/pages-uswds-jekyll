@@ -16,7 +16,7 @@ layout: secondary-narrow
   <p><b>6-9 months after the window closes</b>
     <br>If your proposal is accepted, you'll receive funding of up to $256,000.
   </p>
-  <p>For a more detailed view, proceed to the <a href="#">post submission page</a>.</p>
+
 </section>
 <div markdown="0">
   <h2>Application</h2>
