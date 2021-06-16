@@ -20,7 +20,7 @@ layout: secondary-narrow
         <img src="{{ site.baseurl }}/assets/img/icons/icon-innovation.svg" alt="Innovation" class="two-column-content-block__icon-wide">
         <span class="two-column-content-block__list-content">
           <h3 class="two-column-content-block__list-title">Technological Innovation</h3>
-          Your product is based on unproven technology that needs further testing (and funding for that testing).
+          You need research and development funding to create new products, services, and other scalable solutions based on fundamental science or engineering. NSF does not fund straightforward engineering or incremental product development tasks.
         </span>
       </li>
       <li>
@@ -41,9 +41,9 @@ layout: secondary-narrow
   </div>
   <div class="two-column-content-block__col">
     <h2>What we fund</h2>
-    <p>We fund research in a multitude of different technology topic areas. From Advanced manufacturing to environmental technologies to semiconductors, we invest in them all. Regardless of the technology area your company current occupies, if your company is a good fit we want to invest.</p>
+    <p>We help startups navigate the earliest stages of technology translation, investing roughly $200 million annually in approximately 400 startups. Each startup can receive up to $2 million to support translational research and development. From advanced manufacturing to artificial intelligence to biological technologies to environmental technologies, we fund nearly all areas of technology.</p>
     <p>To view all the topic areas we invest in, <a href="#">click here and browse our portfolio</a>.</p>
-    <p>If you’re interested in seeing the work our current awaredees are doing, view our current <a href="#">phase 1 awardees</a> or current <a href="#">phase II awardees</a>.</p>
+    <p>If you’re interested in seeing the sorts of startups we have recently funded, view our current <a href="#">Phase 1 awardees</a> or current <a href="#">Phase II awardees</a>.</p>
   </div>
 </section>
 
@@ -62,7 +62,7 @@ layout: secondary-narrow
 <section class="usa-section full-bleed-bg">
   <h2>Technology topic areas</h2>
 
-  <p>This section can reiterate very clearly how you a company can apply without having one of these areas - these are just a starting point. Review this list of technology topic areas (sectors we fund) to see which best aligns with your company.</p>
+  <p>We fund roughly startups doing work across nearly all technology and market sectors (with the exception of clinical trials and schedule I controlled substances). Review this list of technology topic areas (sectors we fund) to see which best aligns with your company. This list is not exhaustive and we do not require that you fit perfectly into a topic area, if your company is doing research and development of deep technology with potential commercial and societal impact, chances are we want to fund it.</p>
 
   <div class="topic-grid">{% for topic in site.data['tech-topics'] %}
     <a href="{{ site.baseurl }}{{ topic.permalink }}">
@@ -87,28 +87,26 @@ layout: secondary-narrow
   </div>
 {% endfor %}</div>
 
-<p>For more case studies and current companies please visit our <a href="{{ site.baseurl }}/portfolio/">Portfolio</a>.</p>
-
 <p>Get to know our awardees better — we’ve got <a href="{{ site.baseurl }}/showcase/">video profiles of startups and small businesses that have received NSF funding</a>.</p>
 
 <section class="usa-section full-bleed-bg">
   <h2>Additional resources</h2>
 
-  <p>In case the user has more questions or needs additional support the following pages can help them:</p>
+  <p>If you have more questions checking out the following resources for potential applicants:</p>
 
   <p><b>Events</b>
-    <br>Visit our <a href="{{ site.baseurl }}/events/">events page</a> to see our virtual office hours to learn about the application process.</p>
+    <br>Visit our <a href="{{ site.baseurl }}/events/">events page</a> to see join our virtual office hours and learn about the application process.</p>
 
   <p><b>Program basics</b>
     <br>Check out our <a href="https://www.research.gov/common/attachment/Desktop/AcctMgmtSIDVideo3.html">video tutorial</a>.</p>
 
   <p><b>FAQ</b>
-    <br>Have lingering questions? <a href="https://www.nsf.gov/pubs/2021/nsf21060/nsf21060.jsp">Visit our FAQ</a>, which covers the pre-application process to post-award reporting (and everything in between).</p>
+    <br>Have lingering questions? <a href="https://www.nsf.gov/pubs/2021/nsf21060/nsf21060.jsp">Visit our FAQ</a>, which cover the pre-application process to post-award reporting (and everything in between).</p>
 
   <div class="step-banner">
     <a class="step-banner__content" href="{{ site.baseurl }}/apply/project-pitch/">
       <h2>Step 2: Project pitch</h2>
-      <p>After you’ve understood our eligibility guidelines and feel ready to apply, please visit our project pitch guide.</p>
+      <p>Once you feel like you understand our eligibility guidelines and are ready to apply, please visit our Project Pitch guide.</p>
     </a>
   </div>
 </section>
