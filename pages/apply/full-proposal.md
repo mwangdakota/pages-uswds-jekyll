@@ -6,7 +6,7 @@ layout: secondary-narrow
 {% include apply-nav.html %}
 <section class="usa-section full-bleed-bg">
   <h2>Submission</h2>
-  <p>We recommend treating the submission window like a deadline. You can submit anytime within a year of receiving an official invitation from NSF. (NSF uses quarterly submission windows to help gather and review proposals, but sometimes proposals are reviewed as they are received).</p>
+  <p>We recommend treating the submission window like a deadline, but you can submit anytime within a year of receiving an official invitation from NSF. (NSF uses quarterly submission windows to help gather and review proposals, but sometimes proposals are reviewed as they are received).</p>
   <ul>
     <li>{{ site.solicitation_window_1 }}</li>
     <li>{{ site.solicitation_window_2 }}</li>
@@ -19,11 +19,8 @@ layout: secondary-narrow
   <h2>Next steps</h2>
   <p>Ready to get started? You'll need to read the official policy document (the solicitation) which outlines the official requirements, key elements and supplemental information you'll need to draft your proposal. We also recommend that you start the registration process right away.</p>
   <p><b>Read the call for proposals (solicitation)</b>
-    <br>After a brief pause, new Phase I SBIR and STTR solicitations are expected in the weeks following the Dec. 3
-    closing date. You can check out our last <a href="{{ site.data.solicitations['SBIR'].url }}" target="_blank">SBIR
-      solicitation</a> or <a href="{{ site.data.solicitations['STTR'].url }}" target="_blank">STTR solicitation</a> to
-    get a sense of NSF’s objectives.
-  </p>
+    <br>NSF has two Phase I solicitations: the Small Business Innovation Research (SBIR) and the Small Business Technology Transfer (STTR). They are almost identical, but an SBIR proposal does not require that the startup partner with an eligible research institution. In an STTR proposal, the startup must perform a minimum of 40% of the research, as measured by the budget, and a minimum of 30% of the research must be performed by the partner research institution.<a href="{{ site.data.solicitations['SBIR'].url }}" target="_blank">SBIR
+      solicitation</a> or <a href="{{ site.data.solicitations['STTR'].url }}" target="_blank">STTR solicitation</a></p>
   <p><b>Register your company (FREE and required)</b>
     <br>If your company hasn’t worked with the government before, you’ll need to register with these systems. You MUST
     have completed your SAM registration BEFORE you can begin entering your proposal in FastLane. Start as soon as
@@ -71,40 +68,30 @@ layout: secondary-narrow
       </ol>
     </li>
   </ol>
-  <p><b>Ready to submit your application?</b>
-    <br>We encourage you to familiarize yourself with our <a href="{{ site.baseurl }}/fastlane/">FastLane guide</a>.
-  </p>
+  <p><b><h2>Ready to submit your application?</h2></b>
+   </p>
   <a class="usa-button usa-button-secondary" href="https://www.fastlane.nsf.gov/">Submit your Application</a>
 </div>
 
 <section class="usa-section full-bleed-bg">
   <h2>Apply resources</h2>
-  <p>In case the user has more questions or needs additional support the following pages can help them:</p>
-  <p><b>How To Video Tutorials</b>
-    <br><a href="#">Budget</a>
-    <br><a href="#">IP</a>
-    <br><a href="#">Staffing</a>
-    <br><a href="#">Etc.</a>
-  </p>
-  <p><b>FAQ</b>
-    <br>Have lingering questions? Visit our FAQ, which covers the pre-application process to post-award reporting (and
+  <p>If you have more questions, we have answers!</p>
+  <p><b>Frequently asked questions</b>
+    <br>Have lingering questions? Visit our FAQ, which cover the pre-application process to post-award reporting (and
     everything in between).
   </p>
   <p><b>FastLane guide</b>
-    <br>Before you start your proposal, take a look at our FastLane guide.
+    <br>Read our step-by-step <a href="{{ site.baseurl }}/fastlane/">FastLane guide</a>. We have screenshots to help walk you through the submission process.
   </p>
-  <p><b>Understanding our Review Process</b>
+  <p><b>Understanding the review process</b>
     <br>The <a href="https://www.nsf.gov/bfa/dias/policy/merit_review/facts.jsp" target="_blank">merit review
-      process</a> enables the NSF to make wise investments in all fields of science and engineering research and
-    education. Please review our documentation to understand each component of our process:
-    <br><a href="{{ site.baseurl }}/resources/review/review-process/">Review process</a>
-    <br><a href="{{ site.baseurl }}/resources/review/peer-review/">Peer review</a>
+      process</a> enables NSF to make wise investments in all fields of science and engineering research and
+    education. Please review our documentation to understand each component of our process and what we mean by intellectual merit, broader impacts and commercial impacts: <br><a href="{{ site.baseurl }}/resources/review/peer-review/">Peer review</a>
   </p>
   <div class="step-banner">
     <a class="step-banner__content" href="{{ site.baseurl }}/apply/review-decision/">
       <h2>Step 4: Application review and decision</h2>
-      <p>To learn more about what comes after they submit their application, they can visit the recommend that they go
-        to the application review and decision page.</p>
+      <p>Learn more about what happens after you submit your full proposal and when you'll receive an official response.</p>
     </a>
   </div>
 </section>
