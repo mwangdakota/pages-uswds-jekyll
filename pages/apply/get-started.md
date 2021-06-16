@@ -41,7 +41,7 @@ layout: secondary-narrow
       </div>
 
       <div class="apply-timeline__desc">
-        <p>1 month after you submit your pitch, you’ll hear back.</p>
+        <p>About 1 month after you submit your Project Pitch, you’ll hear back.</p>
       </div>
 
       <div class="apply-timeline__block apply-timeline__block--expanded">
@@ -56,10 +56,10 @@ layout: secondary-narrow
             <div class="apply-timeline__required">(Required)</div>
           </div>
           <div class="apply-timeline__content">
-            <h4 class="apply-timeline__subtitle">Register your company</h4>
+            <h4 class="apply-timeline__subtitle">Review solicitations</h4>
           </div>
           <div class="apply-timeline__content">
-            <h4 class="apply-timeline__subtitle">Review solicitations</h4>
+            <h4 class="apply-timeline__subtitle">Register your company</h4>
           </div>
           <div class="apply-timeline__content">
             <h4 class="apply-timeline__subtitle">Submit your proposal</h4>
@@ -68,7 +68,7 @@ layout: secondary-narrow
       </div>
 
       <div class="apply-timeline__desc apply-timeline__block--expanded">
-        <p>If your project pitch is accepted complete these steps. We offer multiple submission windows, but proposals
+        <p>If you are invited to submit a proposal,  complete these steps. We offer multiple submission windows, but proposals
           can be submitted anytime.</p>
       </div>
 
@@ -86,7 +86,7 @@ layout: secondary-narrow
       </div>
 
       <div class="apply-timeline__desc">
-        <p>4-6 months after you submit, you’ll be notified about funding.</p>
+        <p> About 6 months after you submit, you’ll be notified about funding.</p>
       </div>
     </div>
   </div>
@@ -96,8 +96,7 @@ layout: secondary-narrow
     <a class="step-banner__content"
       href="{{ site.baseurl }}/apply/understand-basics/">
       <h2>Step 1: Understand the basics</h2>
-      <p>Quick overview of this step "There are few eligibility requirements that you need to make sure your company
-        meets."</p>
+      <p>Learn about what we fund, the basics of eligibility and review our topic areas.</p>
     </a>
   </div>
 </section>
