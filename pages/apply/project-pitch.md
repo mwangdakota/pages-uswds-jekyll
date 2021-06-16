@@ -11,7 +11,7 @@ layout: secondary-narrow
 
 <div markdown="0">
   <h2>Instructions</h2>
-  <p>The *required* Project Pitch allows startups to learn if their proposed project is a good fit for funding from America’s Seed Fund powered by NSF. See four key questions you'll be asked to answer. When you're ready, you'll need to create an account to submit your Project Pitch.*</p>
+  <p>The *required* Project Pitch allows startups to learn if their proposed project is a good fit for funding from America’s Seed Fund powered by NSF. See four key questions you'll be asked to answer.</p>
   <p><b>1. The Technology Innovation. (Up to 500 words)</b>
     <br>Describe the technical innovation that would be the focus of a Phase I project, including a brief discussion
     of the origins of the innovation as well as explanation as to why it meets the program’s mandate to focus on
@@ -33,7 +33,8 @@ layout: secondary-narrow
     <br>Describe the background and current status of the applicant small business, including key team members who
     will lead the technical and/or commercial efforts discussed in this Project Pitch.
   </p>
-  <p><b><h2>Subbmit your pitch below</h2></b></p>
+  <p><b><h2>Submit your pitch below</h2></b></p>
+  <br> When you're ready, you'll need to create an account to submit your Project Pitch.*</br>
   <a class="usa-button usa-button-secondary" href="https://nsfiip.force.com/sbir/s/login/" target="_blank">
     Submit your Project Pitch
   </a>
