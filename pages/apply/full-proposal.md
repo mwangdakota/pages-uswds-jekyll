@@ -6,8 +6,7 @@ layout: secondary-narrow
 {% include apply-nav.html %}
 <section class="usa-section full-bleed-bg">
   <h2>Submission</h2>
-  <p>We can take this opportunity to explain what the PP submission window means and how its just part 1 of the
-    process.</p>
+  <p>We recommend treating the submission window like a deadline. You can submit anytime within a year of receiving an official invitation from NSF. (NSF uses quarterly submission windows to help gather and review proposals, but sometimes proposals are reviewed as they are received).</p>
   <ul>
     <li>{{ site.solicitation_window_1 }}</li>
     <li>{{ site.solicitation_window_2 }}</li>
@@ -18,9 +17,7 @@ layout: secondary-narrow
 
 <div>
   <h2>Next steps</h2>
-  <p>Educate the user that the following are all things that need to be done. We can include verbiage about timing and
-    requirements here (they can only submit once, they have a full year to send in their app after their PP is
-    accepted, etc.)</p>
+  <p>Ready to get started? You'll need to read the official policy document (the solicitation) which outlines the official requirements, key elements and supplemental information you'll need to draft your proposal. We also recommend that you start the registration process right away.</p>
   <p><b>Read the call for proposals (solicitation)</b>
     <br>After a brief pause, new Phase I SBIR and STTR solicitations are expected in the weeks following the Dec. 3
     closing date. You can check out our last <a href="{{ site.data.solicitations['SBIR'].url }}" target="_blank">SBIR
