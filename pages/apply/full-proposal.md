@@ -19,8 +19,8 @@ layout: secondary-narrow
   <h2>Next steps</h2>
   <p>Ready to get started? You'll need to read the official policy document (the solicitation) which outlines the official requirements, key elements and supplemental information you'll need to draft your proposal. We also recommend that you start the registration process right away.</p>
   <p><b>Read the call for proposals (solicitation)</b>
-    <br>NSF has two Phase I solicitations: the Small Business Innovation Research (SBIR) and the Small Business Technology Transfer (STTR). They are almost identical, but an SBIR proposal does not require that the startup partner with an eligible research institution. In an STTR proposal, the startup must perform a minimum of 40% of the research, as measured by the budget, and a minimum of 30% of the research must be performed by the partner research institution.<a href="{{ site.data.solicitations['SBIR'].url }}" target="_blank">SBIR
-      solicitation</a> or <a href="{{ site.data.solicitations['STTR'].url }}" target="_blank">STTR solicitation</a></p>
+    <br>NSF has two Phase I solicitations: the Small Business Innovation Research (<a href="{{ site.data.solicitations['SBIR'].url }}" target="_blank">SBIR
+      solicitation</a>) and the Small Business Technology Transfer (<a href="{{ site.data.solicitations['STTR'].url }}" target="_blank">STTR solicitation</a>). They are almost identical, but an SBIR proposal does not require that the startup partner with an eligible research institution. In an STTR proposal, the startup must perform a minimum of 40% of the research, as measured by the budget, and a minimum of 30% of the research must be performed by the partner research institution. </p>
   <p><b>Register your company (FREE and required)</b>
     <br>If your company hasn’t worked with the government before, you’ll need to register with these systems. You MUST
     have completed your SAM registration BEFORE you can begin entering your proposal in FastLane. Start as soon as
