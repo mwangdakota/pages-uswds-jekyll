@@ -7,7 +7,7 @@ layout: secondary-narrow
 <section class="usa-section two-column-content-block full-bleed-bg">
   <div class="two-column-content-block__col">
     <h2>What we look for</h2>
-    <p>Here’s what we look for when determining which companies to fund:</p>
+    <p>Here’s what we look for when determining which startups to fund:</p>
     <ul class="two-column-content-block__list">
       <li>
         <img src="{{ site.baseurl }}/assets/img/icons/icon-impact.svg" alt="Impact">
