@@ -6,13 +6,12 @@ layout: secondary-narrow
 {% include apply-nav.html %}
 <section class="usa-section full-bleed-bg">
   <h2>Timeline overview</h2>
-  <p>We can take this opportunity to explain what the PP submission window means and how its just part 1 of the
-    process, what they should expect next, and any kind of general time estimate.</p>
+  <p>The Project Pitch is the first step in our process. We accept Project Pitches at any time (24/7) and 365 days a year. Typically, it'll take about one month to get an official response from NSF staff.</p>
 </section>
 
 <div markdown="0">
   <h2>Instructions</h2>
-  <p>The required Project Pitch allows startups and small businesses to get quick feedback at the start of their
+  <p>The Project Pitch is required. Once you've submitted your Project Pitch, you must wait to hear back before submitting another and you can only submit one Project Pitch per submission window (which occur roughly every three months). allows startups and small businesses to get quick feedback at the start of their
     application for Phase I funding from America’s Seed Fund powered by NSF.</p>
   <p><b>1. The Technology Innovation. (Up to 500 words)</b>
     <br>Describe the technical innovation that would be the focus of a Phase I project, including a brief discussion
