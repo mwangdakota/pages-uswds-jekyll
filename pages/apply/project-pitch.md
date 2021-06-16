@@ -11,8 +11,7 @@ layout: secondary-narrow
 
 <div markdown="0">
   <h2>Instructions</h2>
-  <p>The Project Pitch is required. Once you've submitted your Project Pitch, you must wait to hear back before submitting another and you can only submit one Project Pitch per submission window (which occur roughly every three months). allows startups and small businesses to get quick feedback at the start of their
-    application for Phase I funding from America’s Seed Fund powered by NSF.</p>
+  <p>The *required* Project Pitch allows startups to learn if their proposed project is a good fit for funding from America’s Seed Fund powered by NSF. See four key questions you'll be asked to answer. When you're ready, you'll need to create an account to submit your Project Pitch.*</p>
   <p><b>1. The Technology Innovation. (Up to 500 words)</b>
     <br>Describe the technical innovation that would be the focus of a Phase I project, including a brief discussion
     of the origins of the innovation as well as explanation as to why it meets the program’s mandate to focus on
@@ -34,24 +33,18 @@ layout: secondary-narrow
     <br>Describe the background and current status of the applicant small business, including key team members who
     will lead the technical and/or commercial efforts discussed in this Project Pitch.
   </p>
-  <p>Create an account to submit your Project Pitch. More details about the NSF’s new process and eligibility
-    requirements are on our Apply page.</p>
-  <p><b>5. Submit your pitch below</b></p>
+  <p><b><h2>Subbmit your pitch below</h2></b></p>
   <a class="usa-button usa-button-secondary" href="https://nsfiip.force.com/sbir/s/login/" target="_blank">
     Submit your Project Pitch
   </a>
-  <p class="text-small">*Each small business can only submit one Project Pitch at a time. Any small business with a
-    pending Project Pitch must wait for a response before submitting another Project Pitch. Any small business that
-    has received an invitation to submit a full proposal must wait for a resolution of the full proposal before
-    submitting a new or revised Project Pitch.</p>
+  <p class="text-small">*Each startup or entrepreneur can only submit one Project Pitch at a time and must wait for a response before submitting another. You can only submit one Project Pitch per submission window (which occur roughly every three months). Any small business that has received an invitation to submit a full proposal must wait for a resolution of the full proposal before submitting a new or revised Project Pitch. An invitation to submit a full proposal is valid for one year.</p>
 </div>
 
 <section class="usa-section full-bleed-bg">
   <div class="step-banner">
     <a class="step-banner__content" href="{{ site.baseurl }}/apply/full-proposal/">
       <h2>Step 3: Full proposal</h2>
-      <p>What happens after the user submits their project pitch, what should they expect next. We can also recommend
-        that they go to the full proposal page next to learn about what they’ll need to do if they’re PP is accepted.
+      <p>Here's what to expect if your company is officially invited to submit a full proposal to NSF. 
       </p>
     </a>
   </div>
