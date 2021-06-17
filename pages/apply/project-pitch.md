@@ -33,19 +33,20 @@ layout: secondary-narrow
     <br>Describe the background and current status of the applicant small business, including key team members who
     will lead the technical and/or commercial efforts discussed in this Project Pitch.
   </p>
-  <p><b><h2>Submit your pitch</h2></b></p>
-  <br> When you're ready, you'll need to create an account to submit your Project Pitch.*</br>
+</div>
+
+<section class="usa-section full-bleed-bg">
+  <h2>Submit your pitch</h2>
+  <p>When you're ready, you'll need to create an account to submit your Project Pitch.*</p>
   <a class="usa-button usa-button-secondary" href="https://nsfiip.force.com/sbir/s/login/" target="_blank">
     Submit your Project Pitch
   </a>
   <p class="text-small">*Each startup or entrepreneur can only submit one Project Pitch at a time and must wait for a response before submitting another. You can only submit one Project Pitch per submission window (which occur roughly every three months). Any small business that has received an invitation to submit a full proposal must wait for a resolution of the full proposal before submitting a new or revised Project Pitch. An invitation to submit a full proposal is valid for one year.</p>
-</div>
 
-<section class="usa-section full-bleed-bg">
   <div class="step-banner">
     <a class="step-banner__content" href="{{ site.baseurl }}/apply/full-proposal/">
       <h2>Step 3: Full proposal</h2>
-      <p>Here's what to expect if your company is officially invited to submit a full proposal to NSF. 
+      <p>Here's what to expect if your company is officially invited to submit a full proposal to NSF.
       </p>
     </a>
   </div>
