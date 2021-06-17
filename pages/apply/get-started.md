@@ -78,7 +78,7 @@ layout: secondary-narrow
           <div class="apply-timeline__content">
             <h3 class="apply-timeline__title">
               <a href="{{ site.baseurl }}/apply/review-decision/">
-                Application Review and Decision
+                Proposal Review & Decision
               </a>
             </h3>
           </div>

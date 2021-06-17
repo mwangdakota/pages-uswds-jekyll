@@ -90,7 +90,7 @@ layout: secondary-narrow
   </p>
   <div class="step-banner">
     <a class="step-banner__content" href="{{ site.baseurl }}/apply/review-decision/">
-      <h2>Step 4: Application review and decision</h2>
+      <h2>Step 4: Proposal review & decision</h2>
       <p>Learn more about what happens after you submit your full proposal and when you'll receive an official response.</p>
     </a>
   </div>

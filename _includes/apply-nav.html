@@ -4,15 +4,15 @@
   <nav class="section-tabs" aria-label="section links">
     <ul class="section-tabs__nav">
         <li class="section-tabs__tab"><a{% if tab == 'get-started'%} class="section-tabs__active"{% else %}{% endif %}
-          href="{{ site.baseurl }}/apply/get-started/">Get Started</a></li>
+          href="{{ site.baseurl }}/apply/get-started/">Get started</a></li>
         <li class="section-tabs__tab"><a{% if tab == 'understand-basics'%} class="section-tabs__active"{% else %}{% endif %}
-          href="{{ site.baseurl }}/apply/understand-basics/">Step 1</a></li>
+          href="{{ site.baseurl }}/apply/understand-basics/">Understand the basics</a></li>
         <li class="section-tabs__tab"><a{% if tab == 'project-pitch'%} class="section-tabs__active"{% else %}{% endif %}
-          href="{{ site.baseurl }}/apply/project-pitch/">Step 2</a></li>
+          href="{{ site.baseurl }}/apply/project-pitch/">Project pitch</a></li>
         <li class="section-tabs__tab"><a{% if tab == 'full-proposal'%} class="section-tabs__active"{% else %}{% endif %}
-          href="{{ site.baseurl }}/apply/full-proposal/">Step 3</a></li>
+          href="{{ site.baseurl }}/apply/full-proposal/">Full proposal</a></li>
         <li class="section-tabs__tab"><a{% if tab == 'review-decision'%} class="section-tabs__active"{% else %}{% endif %}
-          href="{{ site.baseurl }}/apply/review-decision/">Step 4</a></li>
+          href="{{ site.baseurl }}/apply/review-decision/">Proposal review & decision</a></li>
     </ul>
 
     {% if tab == 'get-started'%}
@@ -55,7 +55,7 @@
     {% endif %}
 
     {% if tab == 'review-decision'%}
-    <h1>Application review and decision</h1>
+    <h1>Proposal review & decision</h1>
     <div class="section-tabs__desc">
       <p>
         Brief page intro/summary of the content on this page/what is expected from the user. Making it clear that this step happens after you have submitted your application.
