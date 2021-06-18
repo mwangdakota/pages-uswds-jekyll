@@ -2,6 +2,7 @@
 title: How It Works - Proposal Review & Decision
 permalink: /apply/review-decision/
 layout: secondary-narrow
+page-class: gdd-apply
 ---
 {% include apply-nav.html %}
 <section class="usa-section full-bleed-bg">
@@ -16,9 +17,9 @@ layout: secondary-narrow
   <p><b>6-9 months after the window closes</b>
     <br>If your proposal is accepted, you'll receive funding of up to $256,000.
   </p>
-
 </section>
-<div markdown="0">
+
+<section class="usa-section full-bleed-bg--lightblue">
   <h2>Application</h2>
   <p>Educate the user that the following are all things that need to be done. We can include verbiage about timing and
     requirements here (they can only submit once, they have a full year to send in their app after their PP is
@@ -29,7 +30,7 @@ layout: secondary-narrow
   <p><b>Award status</b>
     <br>To review the status of your application, please sign into Fastlane to see where it stands and read anonymous, verbatim written reviews <a href="#">XYZ page</a>.
   </p>
-</div>
+</section>
 
 <section class="usa-section full-bleed-bg">
   <h2>Declined</h2>
@@ -37,7 +38,7 @@ layout: secondary-narrow
     that has more details.</p>
 </section>
 
-<div markdown="0">
+<section class="usa-section full-bleed-bg--lightblue">
   <h2>Phase II</h2>
   <p>If your technology needs more development — and if you’ve met all the Phase I requirements — you can apply for
     more funding. Phase II awardees receive up to $1,000,000 over two years.</p>
@@ -47,4 +48,4 @@ layout: secondary-narrow
       Supplemental funding</a> and visit our awardee resource guide to <a
       href="{{ site.baseurl }}/resources/awardees/phase-2/instructions/">apply for Phase IIB supplemental funding</a>.
   </p>
-</div>
+</section>

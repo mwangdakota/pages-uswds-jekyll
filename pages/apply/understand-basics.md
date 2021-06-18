@@ -2,6 +2,7 @@
 title: How It Works - Understand The Basics
 permalink: /apply/understand-basics/
 layout: secondary-narrow
+page-class: gdd-apply
 ---
 {% include apply-nav.html %}
 <section class="usa-section two-column-content-block full-bleed-bg">
@@ -47,17 +48,19 @@ layout: secondary-narrow
   </div>
 </section>
 
-<h2>Eligibility</h2>
+<section class="usa-section full-bleed-bg--lightblue">
+  <h2>Eligibility</h2>
 
-<ul>
-  <li>Your company must be a small business (fewer than 500 employees) located in the United States.</li>
-  <li>At least 50% of your company’s equity must be owned by U.S. citizens or permanent residents. NSF does not permit companies that are majority-owned by multiple venture capital firms, private equity firms, or hedge funds, to participate in SBIR and STTR.</li>
-  <li>All funded work needs to take place in the United States (including work done by consultants and contractors).</li>
-  <li>The project’s principal investigator (tech lead) must be legally employed at least 20 hours a week by the company seeking funding. The PI doesn’t need any advanced degrees.</li>
-  <li>The principal investigator needs to commit to at least one month (173 hours) of work on a funded project per six months of project duration.</li>
-</ul>
+  <ul>
+    <li>Your company must be a small business (fewer than 500 employees) located in the United States.</li>
+    <li>At least 50% of your company’s equity must be owned by U.S. citizens or permanent residents. NSF does not permit companies that are majority-owned by multiple venture capital firms, private equity firms, or hedge funds, to participate in SBIR and STTR.</li>
+    <li>All funded work needs to take place in the United States (including work done by consultants and contractors).</li>
+    <li>The project’s principal investigator (tech lead) must be legally employed at least 20 hours a week by the company seeking funding. The PI doesn’t need any advanced degrees.</li>
+    <li>The principal investigator needs to commit to at least one month (173 hours) of work on a funded project per six months of project duration.</li>
+  </ul>
 
-<p>For more detailed information, check out the <a href="https://www.sbir.gov/faqs/eligibility-requirements">Eligibility Guide</a>.</p>
+  <p>For more detailed information, check out the <a href="https://www.sbir.gov/faqs/eligibility-requirements">Eligibility Guide</a>.</p>
+</section>
 
 <section class="usa-section full-bleed-bg">
   <h2>Technology topic areas</h2>
@@ -72,22 +75,24 @@ layout: secondary-narrow
   {% endfor %}</div>
 </section>
 
-<h2>Project examples</h2>
+<section class="usa-section full-bleed-bg--lightblue">
+  <h2>Project examples</h2>
 
-<div class="project-cards">{% for project in site.data.project_examples %}{% assign url = project.url | replace: 'site.baseurl', site.baseurl %}
-  <div class="project-cards__single project-cards__single--bg" {% if project.img %}style="background-image: url('{{ site.baseurl }}{{ project.img }}');"{% endif %}>
-    <div class="project-cards__title">
-      <h3>{{ project.title }}</h3>
-      <p class="project-cards__company">{{ project.company }}</p>
+  <div class="project-cards">{% for project in site.data.project_examples %}{% assign url = project.url | replace: 'site.baseurl', site.baseurl %}
+    <div class="project-cards__single project-cards__single--bg" {% if project.img %}style="background-image: url('{{ site.baseurl }}{{ project.img }}');"{% endif %}>
+      <div class="project-cards__title">
+        <h3>{{ project.title }}</h3>
+        <p class="project-cards__company">{{ project.company }}</p>
+      </div>
+      <div class="project-cards__desc">
+        <p>{{ project.description }}</p>
+        <p><a href="{{ url }}">Learn more</a></p>
+      </div>
     </div>
-    <div class="project-cards__desc">
-      <p>{{ project.description }}</p>
-      <p><a href="{{ url }}">Learn more</a></p>
-    </div>
-  </div>
-{% endfor %}</div>
+  {% endfor %}</div>
 
-<p>Get to know our awardees better — we’ve got <a href="{{ site.baseurl }}/showcase/">video profiles of startups and small businesses that have received NSF funding</a>.</p>
+  <p>Get to know our awardees better — we’ve got <a href="{{ site.baseurl }}/showcase/">video profiles of startups and small businesses that have received NSF funding</a>.</p>
+</section>
 
 <section class="usa-section full-bleed-bg">
   <h2>Additional resources</h2>

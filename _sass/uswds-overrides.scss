@@ -236,3 +236,16 @@ button:visited,
 .usa-button {
   padding: 1.5rem 2rem;
 }
+
+.usa-section {
+  &.gdd-apply {
+    padding-left: 0;
+    padding-right: 0;
+
+    [class*="full-bleed"] {
+      padding-left: 3rem;
+      padding-right: 3rem;
+      margin: 0;
+    }
+  }
+}

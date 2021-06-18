@@ -4,6 +4,7 @@ permalink: /apply/get-started/
 redirect_from:
   - /apply/
 layout: secondary-narrow
+page-class: gdd-apply
 ---
 {% include apply-nav.html %}
 <section class="usa-section full-bleed-bg--blue">

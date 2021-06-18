@@ -2,6 +2,7 @@
 title: How It Works - Full Proposal
 permalink: /apply/full-proposal/
 layout: secondary-narrow
+page-class: gdd-apply
 ---
 {% include apply-nav.html %}
 <section class="usa-section full-bleed-bg">
@@ -15,7 +16,7 @@ layout: secondary-narrow
   </ul>
 </section>
 
-<div>
+<section class="usa-section full-bleed-bg--lightblue">
   <h2>Next steps</h2>
   <p>Ready to get started? You'll need to read the official policy document (the solicitation) which outlines the official requirements, key elements and supplemental information you'll need to draft your proposal. We also recommend that you start the registration process right away.</p>
   <p><b>Read the call for proposals (solicitation)</b>
@@ -71,7 +72,7 @@ layout: secondary-narrow
   <p><b><h2>Ready to submit your application?</h2></b>
    </p>
   <a class="usa-button usa-button-secondary" href="https://www.fastlane.nsf.gov/">Submit your Application</a>
-</div>
+</section>
 
 <section class="usa-section full-bleed-bg">
   <h2>Apply resources</h2>

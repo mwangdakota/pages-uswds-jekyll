@@ -2,6 +2,7 @@
 title: How It Works - Project Pitch
 permalink: /apply/project-pitch/
 layout: secondary-narrow
+page-class: gdd-apply
 ---
 {% include apply-nav.html %}
 <section class="usa-section full-bleed-bg">
@@ -9,7 +10,7 @@ layout: secondary-narrow
   <p>We accept Project Pitches at any time (24/7) and 365 days a year. Typically, it'll take about one month to get an official response from NSF staff.</p>
 </section>
 
-<div markdown="0">
+<section class="usa-section full-bleed-bg--lightblue">
   <h2>Instructions</h2>
   <p>The **required** Project Pitch allows startups to learn if their proposed project is a good fit for funding from America’s Seed Fund powered by NSF. See four key questions you'll be asked to answer.</p>
   <p><b>1. The Technology Innovation. (Up to 500 words)</b>
@@ -33,7 +34,7 @@ layout: secondary-narrow
     <br>Describe the background and current status of the applicant small business, including key team members who
     will lead the technical and/or commercial efforts discussed in this Project Pitch.
   </p>
-</div>
+</section>
 
 <section class="usa-section full-bleed-bg">
   <h2>Submit your pitch</h2>
