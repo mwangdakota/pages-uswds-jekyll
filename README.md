@@ -63,3 +63,70 @@ To get it working, do the following:
     ```sh
     pa11y-ci http://localhost:4000/[name of link]
     ```
+
+## Awards History maintenance
+
+Anytime the awards history changes, the system needs to make sure several pieces of supporting data are current:
+  * The autocomplete index
+  * The list of states
+  * The list of years
+
+### Changing the awards history data directly in Github
+
+1.  In `_config.yml`, under awards_history, set generate_support_data to true:
+```
+awards_history:
+  generate_support_data: true
+  download_limit: 0
+  autocomplete:
+    use: true
+    suggestions: 10
+```
+
+2. Replace `data/awards-history.json` **(not _data/)** with the latest from the [shared drive](https://drive.google.com/drive/u/0/folders/1PrihQNKC98SbBR2u6q_pFRbAp1htn2c0).
+
+3. In `_config.yml`, set generate_support_data to back to false:
+```
+awards_history:
+  generate_support_data: false
+  download_limit: 0
+  autocomplete:
+    use: true
+    suggestions: 10
+```
+
+### Changing the awards history data through a local build
+
+1.  In `_config.yml`, under awards_history, set generate_support_data to true:
+```
+awards_history:
+  generate_support_data: true
+  download_limit: 0
+  autocomplete:
+    use: true
+    suggestions: 10
+```
+
+2. Replace `data/awards-history.json` **(not _data/)** with the latest from the [shared drive](https://drive.google.com/drive/u/0/folders/1PrihQNKC98SbBR2u6q_pFRbAp1htn2c0).
+
+3. Run `bundle exec jekyll serve`.  This may change any of the following:
+
+  * _data/awards_history_ac_index.yml
+  * _data/awards_history_years.yml
+  * _data/awards_history_state_codes.yml
+
+4. Commit your changes, then in `_config.yml`, set generate_support_data to back to false:
+```
+awards_history:
+  generate_support_data: false
+  download_limit: 0
+  autocomplete:
+    use: true
+    suggestions: 10
+```
+
+and commit your changes.
+
+## Pitchbook data maintenance
+
+Simply replace `data/pitchbook.json` **(not _data/)** with the latest from the [shared drive](https://drive.google.com/drive/u/0/folders/1PrihQNKC98SbBR2u6q_pFRbAp1htn2c0), and commit your change.
