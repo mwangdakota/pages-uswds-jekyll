@@ -81,6 +81,7 @@ $(document).ready(function () {
 
   let download_limit = {{ site['awards_history']['download_limit'] }};
 
+  let awards_history;
   let autocomplete_index;
 
   awards_history_filters.year = $('.awards-history-year-filters .active').text();
@@ -107,26 +108,12 @@ $(document).ready(function () {
     };
   };
 
-  Promise.all([
-
-    fetch('{{ site.baseurl }}/data/awards-history.json'),
-    {% if use_autocomplete %}
-    fetch('{{ site.baseurl }}/data/awards-history-ac-index.json')
-    {% endif %}
-
-  ]).then(function(responses) {
-
-    {% if use_autocomplete %}
-    (async function() {
-      autocomplete_index = await responses[1].json();
-    })();
-    {% endif %}
-
-    return responses[0].json();
-
-  }).then(function (data) {
-
-    let awards_history = data.map(function (award) {
+  let getAwardsHistory = async function() {
+    //window.AH = await sfService.getAwardsHistory();
+    //uh = window.AH[0]
+    //kk = Object.keys(uh).filter(k => k.startsWith('Pitchbook'))
+    //window.pitch = window.AH.map(a => { let pb = { InstitutionIdentifer: a.InstitutionIdentifer, CompanyUrl: a.CompanyUrl }; for (let k of kk) { pb[k] = a[k] }; return pb; })
+    awards_history = (await sfService.getAwardsHistory()).map(function (award) {
       update_company_names(award.InstitutionIdentifer, award.InstitutionName);
 
       return {
@@ -144,10 +131,22 @@ $(document).ready(function () {
         pi_phone: award.PIPhoneNumber
       };
     });
+  }
 
-    return Promise.resolve(awards_history);
+  let getAutocompleteIndex = async function() {
+    autocomplete_index = await sfService.getAwardsHistoryAutocompleteIndex();
+  }
 
-  }).then(function (awards_history) {
+  Promise.all([
+
+    getAwardsHistory(),
+
+    {% if use_autocomplete %}
+    getAutocompleteIndex()
+    {% endif %}
+
+  ]).then(function() {
+
     function userAgentStrugglesWithSticky() {
       return navigator.userAgent.indexOf("Firefox") > -1;
     }
