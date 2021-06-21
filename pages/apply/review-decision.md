@@ -20,32 +20,29 @@ page-class: gdd-apply
 </section>
 
 <section class="usa-section full-bleed-bg--lightblue">
-  <h2>Application</h2>
-  <p>Educate the user that the following are all things that need to be done. We can include verbiage about timing and
-    requirements here (they can only submit once, they have a full year to send in their app after their PP is
-    accepted, etc.)</p>
+  <h2>Proposal</h2>
+  <p>Sometimes NSF will ask you for more information throughout the review process.</p>
   <p><b>Review award</b>
-    <br>To see your submitted application proceed to <a href="#">XYZ page</a>.
+    <br>To see your submitted application login to <a href="https://www.fastlane.nsf.gov/">Fastlane</a>.
   </p>
   <p><b>Award status</b>
-    <br>To review the status of your application, please sign into Fastlane to see where it stands and read anonymous, verbatim written reviews <a href="#">XYZ page</a>.
+    <br>To review the status of your proposal, sign into Fastlane to see where it stands and read anonymous, verbatim written reviews <a href="#">XYZ page</a>.
   </p>
 </section>
 
 <section class="usa-section full-bleed-bg">
   <h2>Declined</h2>
-  <p>Quick content section for those whose applications were not accepted. As a future update, create a link to a page
-    that has more details.</p>
+  <p>We can't fund all of the proposals we receive. We recommend reading your proposal's reviews and the panel summary (if applicable). If you'd like to speak to the NSF program director for more information, please email them to schedule a debrief call.</p>
 </section>
 
 <section class="usa-section full-bleed-bg--lightblue">
+  <h2>Accepted</h2>
+  <p>Congratulations! Visit our and visit our <a href="{{ site.baseurl }}/resources/awardees/phase-1/">Phase I awardee section</a> to see what you'll need to get started. </p>
+</section>
+<section class="usa-section full-bleed-bg">
   <h2>Phase II</h2>
   <p>If your technology needs more development — and if you’ve met all the Phase I requirements — you can apply for
-    more funding. Phase II awardees receive up to $1,000,000 over two years.</p>
-  <p>To help current Phase II awardees speed the commercialization of their technology, NSF may match 50 cents on
-    every $1 of qualifying revenues or third-party investment (minimum match $50,000 and maximum $500,000) through a
-    Phase IIB supplement. <a href="{{ site.baseurl }}/resources/awardees/supplement/overview/">Learn more about
-      Supplemental funding</a> and visit our awardee resource guide to <a
-      href="{{ site.baseurl }}/resources/awardees/phase-2/instructions/">apply for Phase IIB supplemental funding</a>.
+    more funding. Phase II awardees receive up to $1,000,000 over two years and become eligible for the Phase IIB matching supplement, which could mean another $500,000.
+    <a href="{{ site.baseurl }}/resources/awardees/phase-2/apply">Learn more applying for Phase II. </a> 
   </p>
 </section>
