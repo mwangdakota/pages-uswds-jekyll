@@ -77,8 +77,8 @@ page-class: gdd-apply
 </section>
 
 <section class="usa-section full-bleed-bg">
-  <h2>Ready to submit your application?</h2>
-  <a class="usa-button usa-button-secondary" href="https://www.fastlane.nsf.gov/">Submit your Application</a>
+  <h2>Ready to submit your proposal?</h2>
+  <a class="usa-button usa-button-secondary" href="https://www.fastlane.nsf.gov/">Submit your proposal</a>
 </section>
 
 <section class="usa-section full-bleed-bg--lightblue">
