@@ -84,7 +84,8 @@ page-class: gdd-apply
     <br>Visit our <a href="{{ site.baseurl }}/events/">events page</a> to see join our virtual office hours and learn about the application process.</p>
 
   <p><b>Program basics</b>
-    <br>Check out our <a href="https://www.youtube.com/watch?v=ckitTDdcWbU">recorded intro webinar</a>.</p>
+    <br>Check out our <a href="https://www.youtube.com/watch?v=ckitTDdcWbU">recorded intro webinar</a>.
+  </p>
 
   <p><b>FAQ</b>
     <br>Have lingering questions? <a href="https://www.nsf.gov/pubs/2021/nsf21060/nsf21060.jsp">Visit our FAQ</a>, which cover the pre-application process to post-award reporting (and everything in between).</p>
