@@ -44,34 +44,36 @@ layout: secondary
   <div class="usa-section usa-content usa-grid">
     <h2>Featured Companies</h2>
 
-    <p>We’re not interested in innovation for innovation’s sake — we back technologies that promote the social good. View a few of our many success stories below:</p>
+    <p>We’re not interested in innovation for innovation’s sake — we back technologies that promote the social good. View a few of our many success stories.</p>
 
     <div class="three-column-grid__columns">
       <div class="usa-width-one-third">
-        <iframe sandbox="allow-same-origin allow-scripts" title="New engine tech allows diesel engines to run on any fuel - ClearFlame Engine Technologies" width="100%" height="150" src="https://www.youtube.com/embed/RcPFQJorwpc?modestbranding=1&amp;showinfo=0&amp;fs=1" frameborder="0" allowfullscreen=""></iframe>
+        <iframe sandbox="allow-same-origin allow-scripts" title="New engine tech allows diesel engines to run on any fuel - ClearFlame Engine Technologies" width="100%" height="150" src="https://www.youtube.com/watch?v=wuXqAjPGldE" frameborder="0" allowfullscreen=""></iframe>
 
         <h3 class="three-column-grid__title">New engine tech allows diesel engines to run on any fuel</h3>
         <p>
           <span class="three-column-grid__company">ClearFlame Engine Technologies</span>
-          <br><a href="#" class="three-column-grid__cta">http://projectexample.com</a>
+          <br><a href="#" class="three-column-grid__cta">https://www.clearflameengines.com/</a>
+           <br><a href="#" class="three-column-grid__cta">https://seedfund.nsf.gov/awardees/history/details/?company=clearflame-engines-inc/</a>
+          
         </p>
       </div>
       <div class="usa-width-one-third">
-        <iframe sandbox="allow-same-origin allow-scripts" title="Learning math using music and psychology - Muzology" width="100%" height="150" src="https://www.youtube.com/embed/rnUx5iRdHWk?modestbranding=1&amp;showinfo=0&amp;fs=1" frameborder="0" allowfullscreen=""></iframe>
+        <iframe sandbox="allow-same-origin allow-scripts" title="Engineering bacteria to treat skin disease" width="100%" height="150" src="https://www.youtube.com/watch?v=mKWCoHlInZg" frameborder="0" allowfullscreen=""></iframe>
 
         <h3 class="three-column-grid__title">Learning math using music and psychology</h3>
         <p>
-          <span class="three-column-grid__company">Muzology</span>
-          <br><a href="#" class="three-column-grid__cta">https://www.muzology.com/</a>
+          <span class="three-column-grid__company">Azitra</span>
+          <br><a href="#" class="three-column-grid__cta">https://azitrainc.com/</a>
         </p>
       </div>
       <div class="usa-width-one-third">
-        <iframe sandbox="allow-same-origin allow-scripts" title="From plastic trash to 3D printing" width="100%" height="150" src="https://www.youtube.com/embed/XDEgLYwdKP4?modestbranding=1&amp;showinfo=0&amp;fs=1" frameborder="0" allowfullscreen=""></iframe>
+        <iframe sandbox="allow-same-origin allow-scripts" title="From plastic trash to 3D printing" width="100%" height="150" src="https://www.youtube.com/watch?v=RcPFQJorwpc" frameborder="0" allowfullscreen=""></iframe>
 
-        <h3 class="three-column-grid__title">From plastic trash to 3D printing</h3>
+        <h3 class="three-column-grid__title">Squishy Robotics’ shape-shifting robots provide real-time data in disasters</h3>
         <p>
-          <span class="three-column-grid__company">re:3D</span>
-          <br><a href="#" class="three-column-grid__cta">https://re3d.org/</a>
+          <span class="three-column-grid__company">Squishy Robotics</span>
+          <br><a href="#" class="three-column-grid__cta">https://squishy-robotics.com/</a>
         </p>
       </div>
     </div>
