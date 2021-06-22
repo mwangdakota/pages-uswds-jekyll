@@ -44,7 +44,7 @@ page-class: gdd-apply
     <h2>What we fund</h2>
     <p>We help startups navigate the earliest stages of technology translation, investing roughly $200 million annually in approximately 400 startups. Each startup can receive up to $2 million to support translational research and development. From advanced manufacturing to artificial intelligence to biological technologies to environmental technologies, we fund nearly all areas of technology.</p>
     <p><a href="https://seedfund.nsf.gov/awardees/history/" class="usa-button usa-button-secondary">Search awards we've made over the last 10 years </a></p>
-    <p>We also encourage you to browse a list of our current<a href="#">Phase 1 awardees</a> or current <a href="#">Phase II awardees</a>.</p>
+    <p>We also encourage you to browse a list of our current <a href="#">Phase 1 awardees</a> or current <a href="#">Phase II awardees</a>.</p>
   </div>
 </section>
 
@@ -65,7 +65,7 @@ page-class: gdd-apply
 <section class="usa-section full-bleed-bg">
   <h2>Technology topic areas</h2>
 
-  <p>We fund roughly startups doing work across nearly all technology and market sectors (with the exception of clinical trials and schedule I controlled substances). Review this list of technology topic areas (sectors we fund) to see which best aligns with your company. This list is not exhaustive and we do not require that you fit perfectly into a topic area, if your company is doing research and development of deep technology with potential commercial and societal impact, chances are we want to fund it.</p>
+  <p>We fund roughly startups doing work across nearly all technology and market sectors (with the exception of clinical trials and schedule I controlled substances). Review this nonexhaustive list of technology topic areas. We do not require that you fit perfectly into a topic area, if your company is doing research and development of deep technology with potential commercial and societal impact, chances are we want to fund it.</p>
 
   <div class="topic-grid">{% for topic in site.data['tech-topics'] %}
     <a href="{{ site.baseurl }}{{ topic.permalink }}">
@@ -73,25 +73,6 @@ page-class: gdd-apply
       <div class="topic-grid__abbr">{{ topic.topic_code }}</div>
     </a>
   {% endfor %}</div>
-</section>
-
-<section class="usa-section full-bleed-bg--lightblue">
-  <h2>Project examples</h2>
-
-  <div class="project-cards">{% for project in site.data.project_examples %}{% assign url = project.url | replace: 'site.baseurl', site.baseurl %}
-    <div class="project-cards__single project-cards__single--bg" {% if project.img %}style="background-image: url('{{ site.baseurl }}{{ project.img }}');"{% endif %}>
-      <div class="project-cards__title">
-        <h3>{{ project.title }}</h3>
-        <p class="project-cards__company">{{ project.company }}</p>
-      </div>
-      <div class="project-cards__desc">
-        <p>{{ project.description }}</p>
-        <p><a href="{{ url }}">Learn more</a></p>
-      </div>
-    </div>
-  {% endfor %}</div>
-
-  <p>Get to know our awardees better — we’ve got <a href="{{ site.baseurl }}/showcase/">video profiles of startups and small businesses that have received NSF funding</a>.</p>
 </section>
 
 <section class="usa-section full-bleed-bg">
@@ -107,10 +88,13 @@ page-class: gdd-apply
 
   <p><b>FAQ</b>
     <br>Have lingering questions? <a href="https://www.nsf.gov/pubs/2021/nsf21060/nsf21060.jsp">Visit our FAQ</a>, which cover the pre-application process to post-award reporting (and everything in between).</p>
+   <p><b>Showcase videos</b>
+    <p>Get to know our awardees better — we’ve got <a href="{{ site.baseurl }}/showcase/">video profiles of startups and small businesses that have received NSF funding</a>.</p>
+</section>
 
   <div class="step-banner">
     <a class="step-banner__content" href="{{ site.baseurl }}/apply/project-pitch/">
-      <h2>Step 2: Project pitch</h2>
+      <h2>Step 2: Project Pitch</h2>
       <p>Once you feel like you understand our eligibility guidelines and are ready to apply, please visit our Project Pitch guide.</p>
     </a>
   </div>
