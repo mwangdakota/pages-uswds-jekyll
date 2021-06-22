@@ -97,4 +97,3 @@ page-class: gdd-apply
       <p>Once you feel like you understand our eligibility guidelines and are ready to apply, please visit our Project Pitch guide.</p>
     </a>
   </div>
-</section>
