@@ -90,8 +90,6 @@ page-class: gdd-apply
     <br>Have lingering questions? <a href="https://www.nsf.gov/pubs/2021/nsf21060/nsf21060.jsp">Visit our FAQ</a>, which cover the pre-application process to post-award reporting (and everything in between).</p>
    <p><b>Showcase videos</b>
     <p>Get to know our awardees better — we’ve got <a href="{{ site.baseurl }}/showcase/">video profiles of startups and small businesses that have received NSF funding</a>.</p>
-</section>
-
   <div class="step-banner">
     <a class="step-banner__content" href="{{ site.baseurl }}/apply/project-pitch/">
       <h2>Step 2: Project Pitch</h2>
