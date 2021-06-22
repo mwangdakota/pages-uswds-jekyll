@@ -8,6 +8,8 @@ if (window.sfPitchBook) {
   window.sfPitchBook = {
 
     dataExists: function(data) {
+      if (!data) return false;
+
       return !!((data.PitchbookCompanyDescription +
         data.PitchbookYearFounded +
         data.PitchbookNumberEmployees +
