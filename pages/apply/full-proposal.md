@@ -82,9 +82,8 @@ page-class: gdd-apply
 </section>
 
 <section class="usa-section full-bleed-bg--lightblue">
-  <h2>Apply resources</h2>
-  <p>If you have more questions, we have answers!</p>
-  <p><b>Frequently asked questions</b>
+  <h2>Submission resources</h2>
+   <p><b>Frequently asked questions</b>
     <br>Have lingering questions? Visit our FAQ, which cover the pre-application process to post-award reporting (and
     everything in between).
   </p>
