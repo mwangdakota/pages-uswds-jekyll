@@ -18,7 +18,6 @@ page-class: gdd-apply
     <br>We'll notify you whether your proposal is accepted or declined.  Official communications about the status of your proposal will be via email to the address listed for the project’s Principal Investigator (PI).  If your proposal is awarded, you'll receive funding of up to $256,000.  Access to most of the award funds will happen at the time of the award notification.
   </p>
  </section>
-
 <section class="usa-section full-bleed-bg--lightblue">
   <h2>Proposal documents and status</h2>
   <p><b>Review your submission</b>
@@ -26,13 +25,12 @@ page-class: gdd-apply
   </p>
   </section>
 <section class="usa-section full-bleed-bg">
-  <h2>If your proposal has been declined</h2>
-  <p>We can't fund all of the proposals we receive. Historical Phase I funding rates for NSF SBIR/STTR Phase I proposal have been between 10% and 20%. We recommend reading your proposal's reviews and the panel summary (if applicable). If you'd like to speak to the NSF Program Director for more information, please email them to schedule a debrief call.</p>
-</section>
-
-<section class="usa-section full-bleed-bg--lightblue">
   <h2>Accepted</h2>
   <p>Congratulations! Visit our and visit our <a href="{{ site.baseurl }}/resources/awardees/phase-1/">Phase I awardee section</a> to see what you'll need to get started. </p>
+</section>
+<section class="usa-section full-bleed-bg--lightblue">
+  <h2>If your proposal has been declined</h2>
+  <p>We can't fund all of the proposals we receive. Historical Phase I funding rates for NSF SBIR/STTR Phase I proposal have been between 10% and 20%. We recommend reading your proposal's reviews and the panel summary (if applicable). If you'd like to speak to the NSF Program Director for more information, please email them to schedule a debrief call.</p>
 </section>
 <section class="usa-section full-bleed-bg">
   <h2>About Phase II</h2>
