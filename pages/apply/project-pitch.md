@@ -43,7 +43,7 @@ page-class: gdd-apply
     Submit your Project Pitch
   </a>
   <br>
-  <p class="text-small">*Each startup or entrepreneur can only submit one Project Pitch at a time and must wait for a response before submitting another. You can only submit one Project Pitch per submission window (which occur roughly every three months). Any small business that has received an invitation to submit a full proposal must wait for a resolution of the full proposal before submitting a new or revised Project Pitch. An invitation to submit a full proposal is valid for one year.<br/></p>
+  <p class="text-small">*Each startup or entrepreneur can only submit one Project Pitch at a time and must wait for a response before submitting another. You can only submit one Project Pitch per quarterly submission window (which occur roughly every three months - see the submission windows on the next page). Any small business that has received an invitation to submit a full proposal must wait for a resolution of the full proposal before submitting a new or revised Project Pitch. An invitation to submit a full proposal is valid for one year.<br/></p>
 
   <div class="step-banner">
     <a class="step-banner__content" href="{{ site.baseurl }}/apply/full-proposal/">
