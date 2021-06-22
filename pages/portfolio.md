@@ -52,11 +52,8 @@ layout: secondary
 
         <h3 class="three-column-grid__title">New engine tech allows diesel engines to run on any fuel</h3>
         <p>
-          <span class="three-column-grid__company">ClearFlame Engine Technologies</span>
-          <br><a href="#" class="three-column-grid__cta">https://www.clearflameengines.com/</a>
-           <br><a href="#" class="three-column-grid__cta">https://seedfund.nsf.gov/awardees/history/details/?company=clearflame-engines-inc/</a>
-          
-        </p>
+           <span class="three-column-grid__company"><a href="https://www.clearflameengines.com/">ClearFlame Engine Technologies</a>.</span></a>
+       </p>
       </div>
       <div class="usa-width-one-third">
         <iframe sandbox="allow-same-origin allow-scripts" title="Engineering bacteria to treat skin disease" width="100%" height="150" src="https://www.youtube.com/watch?v=mKWCoHlInZg" frameborder="0" allowfullscreen=""></iframe>
@@ -69,12 +66,11 @@ layout: secondary
         </p>
       </div>
       <div class="usa-width-one-third">
-        <iframe sandbox="allow-same-origin allow-scripts" title="From plastic trash to 3D printing" width="100%" height="150" src="https://www.youtube.com/watch?v=RcPFQJorwpc" frameborder="0" allowfullscreen=""></iframe>
+        <iframe sandbox="allow-same-origin allow-scripts" title="Shape-shifting robots" width="100%" height="150" src="https://www.youtube.com/watch?v=RcPFQJorwpc" frameborder="0" allowfullscreen=""></iframe>
 
         <h3 class="three-column-grid__title">Squishy Robotics’ shape-shifting robots provide real-time data in disasters</h3>
         <p>
-          <span class="three-column-grid__company">Squishy Robotics</span>
-          <br><a href="#" class="three-column-grid__cta">https://squishy-robotics.com/</a>
+          <span class="three-column-grid__company"><a href="https://squishy-robotics.com">Squishy Robotics</a>.</span></a>
         </p>
       </div>
     </div>
