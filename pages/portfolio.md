@@ -56,7 +56,7 @@ layout: secondary
        </p>
       </div>
       <div class="usa-width-one-third">
-        <iframe sandbox="allow-same-origin allow-scripts" title="Engineering bacteria to treat skin disease" width="100%" height="150" src="https://www.youtube.com/watch?v=mKWCoHlInZg" frameborder="0" allowfullscreen=""></iframe>
+        <iframe sandbox="allow-same-origin allow-scripts" title="Engineering bacteria to treat skin disease" width="100%" height="150" src="https://www.youtube.com/embed/mKWCoHlInZg?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen=""></iframe>
 
         <h3 class="three-column-grid__title">Engineering bacteria to treat skin disease</h3>
         <p>
@@ -66,7 +66,7 @@ layout: secondary
         </p>
       </div>
       <div class="usa-width-one-third">
-        <iframe sandbox="allow-same-origin allow-scripts" title="Shape-shifting robots" width="100%" height="150" src="https://www.youtube.com/watch?v=RcPFQJorwpc" frameborder="0" allowfullscreen=""></iframe>
+        <iframe sandbox="allow-same-origin allow-scripts" title="Shape-shifting robots" width="100%" height="150" src="https://www.youtube.com/embed/RcPFQJorwpc?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen=""></iframe>
 
         <h3 class="three-column-grid__title">Squishy Robotics’ shape-shifting robots provide real-time data in disasters</h3>
         <p>
