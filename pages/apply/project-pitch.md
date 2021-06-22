@@ -12,7 +12,7 @@ page-class: gdd-apply
 
 <section class="usa-section full-bleed-bg--lightblue">
   <h2>Instructions</h2>
-  <p>The **required** Project Pitch allows startups to learn if their proposed project is a good fit for funding from America’s Seed Fund powered by NSF. See four key questions you'll be asked to answer.</p>
+  <p>The required Project Pitch allows startups to learn if their proposed project is a good fit for funding from America’s Seed Fund powered by NSF. See four key questions you'll be asked to answer.</p>
   <p><b>1. The Technology Innovation. (Up to 500 words)</b>
     <br>Describe the technical innovation that would be the focus of a Phase I project, including a brief discussion
     of the origins of the innovation as well as explanation as to why it meets the program’s mandate to focus on
