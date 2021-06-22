@@ -61,10 +61,11 @@ layout: secondary
       <div class="usa-width-one-third">
         <iframe sandbox="allow-same-origin allow-scripts" title="Engineering bacteria to treat skin disease" width="100%" height="150" src="https://www.youtube.com/watch?v=mKWCoHlInZg" frameborder="0" allowfullscreen=""></iframe>
 
-        <h3 class="three-column-grid__title">Learning math using music and psychology</h3>
+        <h3 class="three-column-grid__title">Engineering bacteria to treat skin disease</h3>
         <p>
-          <span class="three-column-grid__company">Azitra</span>
-          <br><a href="#" class="three-column-grid__cta">https://azitrainc.com/</a>
+          <span class="three-column-grid__company"><a href="https://azitrainc.com/">Azitra</a>.</span>
+          <br><a href="#" class="three-column-grid__cta"></a>
+          
         </p>
       </div>
       <div class="usa-width-one-third">
