@@ -1,5 +1,5 @@
 ---
-title: How It Works - Understand The Basics
+title: How It Works - The Basics
 permalink: /apply/understand-basics/
 layout: secondary-narrow
 page-class: gdd-apply

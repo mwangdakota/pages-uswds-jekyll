@@ -18,7 +18,7 @@ page-class: gdd-apply
           <div class="apply-timeline__content">
             <h3 class="apply-timeline__title">
               <a href="{{ site.baseurl }}/apply/understand-basics/">
-                Understand the Basics
+                The basics
               </a>
             </h3>
           </div>
@@ -96,7 +96,7 @@ page-class: gdd-apply
   <div class="step-banner">
     <a class="step-banner__content"
       href="{{ site.baseurl }}/apply/understand-basics/">
-      <h2>Step 1: Understand the basics</h2>
+      <h2>Step 1: The basics</h2>
       <p>Learn about what we fund, the basics of eligibility and review our topic areas.</p>
     </a>
   </div>
