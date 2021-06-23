@@ -29,7 +29,7 @@ page-class: gdd-apply
   <p>Congratulations! Visit our and visit our <a href="{{ site.baseurl }}/resources/awardees/phase-1/">Phase I awardee section</a> to see what you'll need to get started. </p>
 </section>
 <section class="usa-section full-bleed-bg--lightblue">
-  <h2>If your proposal has been declined</h2>
+  <h2>If your proposal is declined</h2>
   <p>We can't fund all of the proposals we receive. Historical Phase I funding rates for NSF SBIR/STTR Phase I proposal have been between 10% and 20%. We recommend reading your proposal's reviews and the panel summary (if applicable). If you'd like to speak to the NSF Program Director for more information, please email them to schedule a debrief call.</p>
 </section>
 <section class="usa-section full-bleed-bg">
