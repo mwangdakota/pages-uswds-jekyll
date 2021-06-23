@@ -24,14 +24,14 @@ Here are some sample tweets you can use too:
 > Proud to be an @NSFSBIR recipient. Find out if @NSF can help you, too. https://seedfund.nsf.gov/  
 [Tweet this](https://ctt.ec/f6qDd)
 
-> Interested in learning about one of our funders, @NSFSBIR? (Video): https://www.youtube.com/watch?v=vPNkUWDKvck  
+> Interested in learning about one of our funders, @NSFSBIR? (Video): https://youtu.be/zkwh7Yk9LsY  
 [Tweet this](https://ctt.ec/1j_53)
 
 ## NSF logo
 
 As an awardee, use the NSF logo on your website and marketing materials to acknowledge your NSF grant. Many investors view the NSF logo as a stamp of approval, so use it with pride!
 
-Visit https://www.nsf.gov/policies/logos.jsp for the current version and usage guidance.
+Visit [https://www.nsf.gov/policies/logos.jsp](https://www.nsf.gov/policies/logos.jsp) for the current version and usage guidance.
 
 ## Press releases
 If you're putting out a press release and want to mention your award, please use this description, which is approved for use in press releases and other publications:

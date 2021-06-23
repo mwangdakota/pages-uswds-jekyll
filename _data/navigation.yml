@@ -73,8 +73,12 @@ review:
     href: /resources/review/virtual-panelist/
 
 phase-1:
-  - text: Phase I awardees
+  - text: The basics
     href: /resources/awardees/phase-1/
+  - text: Accounting
+    href: /resources/awardees/phase-1/accounting/  
+  - text: Rules and Regulations
+    href: /resources/awardees/phase-1/rules-and-regulations/
   - text: Boot Camp
     href: /resources/awardees/phase-1/bootcamp/
   - text: Phase I reporting requirements
@@ -86,19 +90,13 @@ phase-1:
   - text: No-cost extension
     href: /resources/awardees/phase-1/no-cost-extension/
   - text: Changes at your organization
-    href: /resources/awardees/phase-1/novation/
+    href: /resources/awardees/phase-1/changes/
   - text: Change of PI
     href: /resources/awardees/phase-1/pi-change/
   - text: How to apply for Phase II
     href: /resources/awardees/phase-2/apply/
   - text: Ambassador
     href: /resources/awardees/phase-1/ambassador/
-  - text: Research experiences
-    href: /resources/awardees/phase-1/research-experiences/
-  - text: General awardee conditions
-    href: https://www.nsf.gov/awards/managing/sbirsttr_conditions.jsp
-  - text: CAAR Videos for Phase I Awardees
-    href: https://www.youtube.com/playlist?list=PLGhBP1C7iCOmI1p5UtqYCXzmUL9SzSApv
 
 
 phase-2:
