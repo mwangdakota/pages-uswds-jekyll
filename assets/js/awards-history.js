@@ -154,6 +154,7 @@ $(document).ready(function () {
     const config = Object.assign(dataTablesConfig(), {
       initComplete: function (settings, json) {
         $('.results-loading').hide();
+        $('.awards-history-latest-award').text('As of ' + dateFormatter.mmddyyyy(awards_history[0].award_date)).show();
         $('.awards-history-container .dataTables_filter input').attr('title', 'Enter one or more search terms');
         $('.dt-buttons .buttons-csv').attr('class', 'dl-csv usa-button usa-button-primary').attr('title', 'Download filtered data as CSV')
         $('#awards_history_filter').append('<span class="help-icon"></span>');
