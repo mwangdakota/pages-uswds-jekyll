@@ -28,9 +28,7 @@ page-class: gdd-apply
         href="{{ site.data.solicitations['STTR'].url }}" target="_blank">Read the STTR solicitation</a>
   </p>
   <p><b>Register your company (FREE and required)</b>
-    <br>If your company hasn’t worked with the government before, you’ll need to register with these systems. You MUST
-    have completed your SAM registration BEFORE you can begin entering your proposal in FastLane. Start as soon as
-    possible!
+    <br>If your company hasn’t worked with the government before, you’ll need to register with these systems (we recommend the order listed below).  Every step in our process, including all of these registrations, is free.  You MUST have completed your SAM registration BEFORE you can begin entering your proposal in FastLane. Start as soon as possible!
   </p>
   <ol class="timeline timeline__no-numbers">
     <li class="timeline-step">
@@ -51,11 +49,7 @@ page-class: gdd-apply
             <h3 id="system-for-award-management-sam"><a href="https://www.sam.gov/SAM/" target="_blank">System for
                 Award Management (SAM)</a></h3>
             <p><strong>Processing time:</strong> Up to three weeks</p>
-            <p>You MUST register to do business with the U.S. government through System for Award Management (SAM).
-              When you register, you’ll have to share bank account information of the account where the NSF funds
-              would be deposited. This registration process is free and takes only 10-15 minutes to initiate, but can
-              take up to three weeks to complete. An active SAM.gov registration is needed to create a FastLane
-              account and submit a proposal to NSF. Registration expires after one year.</p>
+            <p>You MUST register to do business with the U.S. government through System for Award Management (SAM). When you register, you’ll have to share bank account information of the account where the NSF funds would be deposited. This registration process is free and takes only 10-15 minutes to initiate, but can take up to three weeks to complete. An active SAM.gov registration is needed to create a FastLane account and submit a proposal to NSF. To submit proposals to NSF SBIR/STTR, you only need to request “financial assistance” authority and do NOT need “contract” authority (which can be a much longer process to obtain).  SAM registration must be renewed annually.</p>
             <h3 id="researchgov-online-grant-management-for-the-nsf-community"><a
                 href="https://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&amp;_pageLabel=research_home_page"
                 target="_blank">Research.gov (Online Grant Management for the NSF Community)</a></h3>
@@ -78,7 +72,10 @@ page-class: gdd-apply
 
 <section class="usa-section full-bleed-bg">
   <h2>Ready to submit your proposal?</h2>
+   <p>
+       <br>The Fastlane system allows you to create your proposal piece-by-piece, so there’s no need to have everything ready before you start working in Fastlane (and we recommend exploring the Fastlane interface once or twice before starting to write the various proposal documents).</br></p>
   <a class="usa-button usa-button-secondary" href="https://www.fastlane.nsf.gov/">Submit your proposal</a>
+  
 </section>
 
 <section class="usa-section full-bleed-bg--lightblue">
