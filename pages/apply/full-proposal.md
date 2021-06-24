@@ -81,7 +81,7 @@ page-class: gdd-apply
 <section class="usa-section full-bleed-bg--lightblue">
   <h2>Submission resources</h2>
    <p><b>Frequently asked questions</b>
-    <br>Have lingering questions? Visit our FAQ, which cover the pre-application process to post-award reporting (and
+    <br>Have lingering questions? <a href="https://www.nsf.gov/pubs/2021/nsf21060/nsf21060.jsp">Visit our FAQ</a>, which cover the pre-application process to post-award reporting (and
     everything in between).
   </p>
   <p><b>FastLane guide</b>
