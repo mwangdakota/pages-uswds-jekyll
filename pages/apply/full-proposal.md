@@ -7,7 +7,7 @@ page-class: gdd-apply
 {% include apply-nav.html %}
 <section class="usa-section full-bleed-bg">
   <h2>Submission</h2>
-  <p>We recommend treating the submission window like a deadline, but you can submit anytime within a year of receiving an official invitation from NSF. (NSF uses quarterly submission windows to help gather and review proposals, but sometimes proposals are reviewed as they are received).</p>
+  <p>We recommend treating the submission window like a deadline, but you can submit anytime within a year of receiving an official invitation from NSF. (NSF uses quarterly submission windows to help gather and review proposals, but sometimes proposals are reviewed as they are received.)</p>
   <ul>
     <li>{{ site.solicitation_window_1 }}</li>
     <li>{{ site.solicitation_window_2 }}</li>
@@ -73,7 +73,7 @@ page-class: gdd-apply
 <section class="usa-section full-bleed-bg">
   <h2>Ready to submit your proposal?</h2>
    <p>
-       <br>The Fastlane system allows you to create your proposal piece-by-piece, so there’s no need to have everything ready before you start working in Fastlane (and we recommend exploring the Fastlane interface once or twice before starting to write the various proposal documents).</p>
+       <br>The Fastlane system allows you to create your proposal piece by piece, so there’s no need to have everything ready before you start working in Fastlane (and we recommend exploring the Fastlane interface once or twice before starting to write the various proposal documents).</p>
   <a class="usa-button usa-button-secondary" href="https://www.fastlane.nsf.gov/">Submit your proposal</a>
   
 </section>
