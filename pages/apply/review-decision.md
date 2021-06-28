@@ -35,7 +35,7 @@ page-class: gdd-apply
 <section class="usa-section full-bleed-bg">
   <h2>About Phase II</h2>
   <p>If your technology needs more development — and if you’ve made strong progress in Phase I — you can apply for
-    more funding. Phase II awardees receive up to $1,000,000 over two years and become eligible for the Phase IIB matching supplement, which could mean another $500,000.
+    more funding. Phase II awardees receive up to $1,000,000 over two years and become eligible to apply for several supplemental funding opportunities.
     <a href="{{ site.baseurl }}/resources/awardees/phase-2/apply">Learn more about applying for Phase II. </a> 
   </p>
 </section>
