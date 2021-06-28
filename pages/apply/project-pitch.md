@@ -6,8 +6,8 @@ page-class: gdd-apply
 ---
 {% include apply-nav.html %}
 <section class="usa-section full-bleed-bg">
-  <h2>Timeline overview</h2>
-  <p>We accept Project Pitches at any time (24/7) and 365 days a year. Typically, it'll take about one month to get an official response from NSF staff.</p>
+  <h2>Timing</h2>
+  <p>We accept Project Pitches at any time (24/7) and 365 days a year. Typically, it takes about one month to get an official response from NSF staff.</p>
 </section>
 
 <section class="usa-section full-bleed-bg--lightblue">
@@ -21,7 +21,7 @@ page-class: gdd-apply
   </p>
   <p><b>2. The Technical Objectives and Challenges. (Up to 500 words)</b>
     <br>Describe the R&amp;D or technical work to be done in a Phase I project, including a discussion of how and why
-    the proposed work will help prove that the product or service is technically feasible and/or significantly reduce
+    the proposed work will help prove that the product or service is technically feasible and/or will significantly reduce
     technical risk. Discuss how, ultimately, this work could contribute to making the new product, service, or process
     commercially viable and impactful. This section should also convey that the proposed work meets the definition of
     R&amp;D, rather than straightforward engineering or incremental product development tasks.
