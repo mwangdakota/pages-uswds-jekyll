@@ -65,11 +65,9 @@ a { cursor: pointer; }
     &[href*='.tech'],
     &[href*='.vc'],
     &.external-link {
-      background-image: url('../img/links/external-link.svg');
-      background-position: 92% center;
-      background-repeat: no-repeat;
+      background: url('../img/links/external-link.svg') right center no-repeat;
       background-size: 16px auto;
-      padding-right: 3.75rem;
+      padding-right: 18px;
       &:focus,
       &:active {
         @include focus-icon-linkstyle;
