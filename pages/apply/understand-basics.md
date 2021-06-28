@@ -53,8 +53,8 @@ page-class: gdd-apply
 
   <ul>
     <li>Your company must be a small business (fewer than 500 employees) located in the United States.</li>
-    <li>At least 50% of your company’s equity must be owned by U.S. citizens or permanent residents. NSF does not permit companies that are majority-owned by multiple venture capital firms, private equity firms, or hedge funds, to participate in SBIR and STTR.</li>
-    <li>All funded work needs to take place in the United States (including work done by consultants and contractors).</li>
+    <li>At least 50% of your company’s equity must be owned by U.S. citizens or permanent residents. NSF does not fund companies that are majority-owned by multiple venture capital firms, private equity firms, or hedge funds, to participate in SBIR and STTR.</li>
+    <li>All funded work, including work done by consultants and contractors, needs to take place in the United States.</li>
     <li>The project’s principal investigator (tech lead) must be legally employed at least 20 hours a week by the company seeking funding. The PI doesn’t need any advanced degrees.</li>
     <li>The principal investigator needs to commit to at least one month (173 hours) of work on a funded project per six months of project duration.</li>
   </ul>
@@ -65,7 +65,7 @@ page-class: gdd-apply
 <section class="usa-section full-bleed-bg">
   <h2>Technology topic areas</h2>
 
-  <p>We fund roughly startups doing work across nearly all technology and market sectors (with the exception of clinical trials and schedule I controlled substances). Review this nonexhaustive list of technology topic areas. We do not require that you fit perfectly into a topic area, if your company is doing research and development of deep technology with potential commercial and societal impact, chances are we want to fund it.</p>
+  <p>We fund startups doing work across nearly all technology and market sectors (with the exception of clinical trials and schedule I controlled substances). Review this nonexhaustive list of technology topic areas. We do not require your project to fit perfectly into a topic area. If your company is doing research and development of deep technology with potential commercial and societal impact, chances are we want to fund it.</p>
 
   <div class="topic-grid">{% for topic in site.data['tech-topics'] %}
     <a href="{{ site.baseurl }}{{ topic.permalink }}">
@@ -78,13 +78,13 @@ page-class: gdd-apply
 <section class="usa-section full-bleed-bg">
   <h2>Additional resources</h2>
 
-  <p>If you have more questions checking out the following resources for potential applicants:</p>
+  <p>If you have more questions, check out the following resources for potential applicants:</p>
 
   <p><b>Events</b>
     <br>Visit our <a href="{{ site.baseurl }}/events/">events page</a> to see join our virtual office hours and learn about the application process.</p>
 
   <p><b>Program basics</b>
-    <br>Check out our <a href="https://www.youtube.com/watch?v=ckitTDdcWbU">recorded intro webinar</a>.
+    <br>Check out our <a href="https://www.youtube.com/watch?v=ckitTDdcWbU">recorded intro webinar.</a>
   </p>
 
   <p><b>FAQ</b>
