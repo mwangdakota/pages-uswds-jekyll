@@ -1,5 +1,6 @@
 ---
 ---
+{% assign show_pitchbook = site['show']['pitchbook'] %}
 
 $(function() {
 
@@ -34,7 +35,7 @@ $(function() {
       .toString()
       .trim()
       .toLowerCase()
-      .replace('&amp;', '') 
+      .replace('&amp;', '')
       .replace(/\s+/g, '-')
       .replace(/[^\w\-]+/g, '')
       .replace(/\-\-+/g, '-')
@@ -94,8 +95,18 @@ $(function() {
 
   showFailure();
 
-  $('.results-loading').hide();
-  $('.results').show();
+  (async function() {
+    var company_slug = getQueryVariable('company');
+    {% if show_pitchbook['data'] %}
+    var pbData = (await sfService.getPitchbookData()).filter(
+      function (pb) { return pb.CompanyUrl == company_slug }
+    )[0];
+    pitch_book_data = sfPitchBook.dataExists(pbData) ? sfPitchBook.getData(pbData) : '';
+    $('.pitch-book-data').html(sfPitchBook.showData(pitch_book_data));
+    {% endif %}
+    $('.results-loading').hide();
+    $('.results').show();
+  })();
 
   window.searchAwards = function searchAwards(value) {
     awardsLists.forEach(function(list) {
