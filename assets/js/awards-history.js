@@ -81,6 +81,7 @@ $(document).ready(function () {
 
   let download_limit = {{ site['awards_history']['download_limit'] }};
 
+  let awards_history;
   let autocomplete_index;
 
   awards_history_filters.year = $('.awards-history-year-filters .active').text();
@@ -107,26 +108,12 @@ $(document).ready(function () {
     };
   };
 
-  Promise.all([
-
-    fetch('{{ site.baseurl }}/data/awards-history.json'),
-    {% if use_autocomplete %}
-    fetch('{{ site.baseurl }}/data/awards-history-ac-index.json')
-    {% endif %}
-
-  ]).then(function(responses) {
-
-    {% if use_autocomplete %}
-    (async function() {
-      autocomplete_index = await responses[1].json();
-    })();
-    {% endif %}
-
-    return responses[0].json();
-
-  }).then(function (data) {
-
-    let awards_history = data.map(function (award) {
+  let getAwardsHistory = async function() {
+    //window.AH = await sfService.getAwardsHistory();
+    //uh = window.AH[0]
+    //kk = Object.keys(uh).filter(k => k.startsWith('Pitchbook'))
+    //window.pitch = window.AH.map(a => { let pb = { InstitutionIdentifer: a.InstitutionIdentifer, CompanyUrl: a.CompanyUrl }; for (let k of kk) { pb[k] = a[k] }; return pb; })
+    awards_history = (await sfService.getAwardsHistory()).map(function (award) {
       update_company_names(award.InstitutionIdentifer, award.InstitutionName);
 
       return {
@@ -144,20 +131,34 @@ $(document).ready(function () {
         pi_phone: award.PIPhoneNumber
       };
     });
+  }
 
-    return Promise.resolve(awards_history);
+  let getAutocompleteIndex = async function() {
+    autocomplete_index = await sfService.getAwardsHistoryAutocompleteIndex();
+  }
 
-  }).then(function (awards_history) {
+  Promise.all([
+
+    getAwardsHistory(),
+
+    {% if use_autocomplete %}
+    getAutocompleteIndex()
+    {% endif %}
+
+  ]).then(function() {
+
     function userAgentStrugglesWithSticky() {
       return navigator.userAgent.indexOf("Firefox") > -1;
     }
 
     const config = Object.assign(dataTablesConfig(), {
       initComplete: function (settings, json) {
-        $('.results-loading').hide();
+        let latest_award = awards_history.map(a => a.award_date).sort().reverse()[0];
+        $('.awards-history-latest-award').text('As of ' + dateFormatter.mmddyyyy(latest_award)).show();
         $('.awards-history-container .dataTables_filter input').attr('title', 'Enter one or more search terms');
         $('.dt-buttons .buttons-csv').attr('class', 'dl-csv usa-button usa-button-primary').attr('title', 'Download filtered data as CSV')
         $('#awards_history_filter').append('<span class="help-icon"></span>');
+        $('.results-loading').hide();
         $('.awards-history-container').show();
         const searchMarkup = $('#awards-history-search-help').html();
         tippy('#awards_history_filter .help-icon', {

@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Award History Details
-scripts: /assets/js/dateFormatter.js /assets/js/strFormatter.js
+scripts: /assets/js/dateFormatter.js /assets/js/strFormatter.js /assets/js/services.js /assets/js/pitchbook.js
 permalink: /awardees/history/details/
 ---
 {% assign show_pitchbook = site['show']['pitchbook'] %}
@@ -10,76 +10,89 @@ permalink: /awardees/history/details/
 <div id="awards-history-details" />
 
 <script>
+  const company_url = window.location.search.slice(1).split('&')[0].split('=')[1];
+
+  let award;
+  let pitchBook;
+
+  let getAward = async function() {
+    award = (await sfService.getAwardsHistory()).filter(
+      function (awrd) { return awrd.CompanyUrl == company_url }
+    );
+  }
+
+  let getPitchBookData = async function() {
+    pitchBook = (await sfService.getPitchbookData()).filter(
+      function (pb) { return pb.CompanyUrl == company_url }
+    )[0];
+  }
+
   document.addEventListener("DOMContentLoaded", function () {
-    const company_url = window.location.search.slice(1).split('&')[0].split('=')[1];
+    Promise.all([
 
-    fetch('{{ site.baseurl }}/data/awards-history.json').then(function (response) {
-      return response.json();
+      getAward(),
+      getPitchBookData()
 
-    }).then(function (awards_history) {
+    ]).then(function () {
+      // console.log('WE GOT', award, pitchBook, Date.now())
+      // function pitchBookDataExists(data) {
+      //   return !!((data.PitchbookCompanyDescription +
+      //     data.PitchbookYearFounded +
+      //     data.PitchbookNumberEmployees +
+      //     data.PitchbookTotalRaised +
+      //     data.PitchbookWebsite).trim().length);
+      // }
 
-      let award = awards_history.filter(function (awrd) { return awrd.CompanyUrl == company_url });
-      return Promise.resolve(award);
+      // function val(v, opt) {
+      //   if (!v) return '';
 
-    }).then(function (award) {
-      function hasPitchbookData(award) {
-        return !!((award.PitchbookCompanyDescription +
-          award.PitchbookYearFounded +
-          award.PitchbookNumberEmployees +
-          award.PitchbookTotalRaised +
-          award.PitchbookWebsite).trim().length);
-      }
+      //   return (opt && opt.prefix ? opt.prefix : '') +
+      //     (opt && opt.protocol && !v.match(/^https?\:\/\//) ? 'http://' : '') +
+      //     v +
+      //     (opt && opt.suffix ? opt.suffix : '');
+      // }
 
-      function val(v, opt) {
-        if (!v) return '';
+      // function pitchBookData(data) {
+      //   return '' +
+      //     {% if show_pitchbook['company_description'] %}
+      //     '<strong style="font-size:1.6rem;">Company Description</strong><br>' +
+      //     val(data.PitchbookCompanyDescription) + '<br><br>' +
+      //     {% endif %}
 
-        return (opt && opt.prefix ? opt.prefix : '') +
-          (opt && opt.protocol && !v.match(/^https?\:\/\//) ? 'http://' : '') +
-          v +
-          (opt && opt.suffix ? opt.suffix : '');
-      }
+      //     {% if show_pitchbook['total_raised'] %}
+      //     '<strong style="font-size:1.6rem;">Total Raised (in millions)</strong><br>' +
+      //     val(data.PitchbookTotalRaised, {prefix: '$'}) + '<br><br>' +
+      //     {% endif %}
 
-      function pitchBookData(awd) {
-        return '' +
-          {% if show_pitchbook['company_description'] %}
-          '<strong style="font-size:1.6rem;">Company Description</strong><br>' +
-          val(awd.PitchbookCompanyDescription) + '<br><br>' +
-          {% endif %}
+      //     {% if show_pitchbook['website'] %}
+      //     '<strong style="font-size:1.6rem;">Website</strong><br>' +
+      //     '<a href="' + val(data.PitchbookWebsite, {protocol: 'http'}) + '" target="_blank">' +
+      //     val(data.PitchbookWebsite) + '</a><br><br>' +
+      //     {% endif %}
 
-          {% if show_pitchbook['total_raised'] %}
-          '<strong style="font-size:1.6rem;">Total Raised (in millions)</strong><br>' +
-          val(awd.PitchbookTotalRaised, {prefix: '$'}) + '<br><br>' +
-          {% endif %}
+      //     {% if show_pitchbook['year_founded'] %}
+      //     '<strong style="font-size:1.6rem;">Year Founded</strong><br>' +
+      //     val(data.PitchbookYearFounded) + '<br><br>' +
+      //     {% endif %}
 
-          {% if show_pitchbook['website'] %}
-          '<strong style="font-size:1.6rem;">Website</strong><br>' +
-          '<a href="' + val(awd.PitchbookWebsite, {protocol: 'http'}) + '" target="_blank">' +
-          val(awd.PitchbookWebsite) + '</a><br><br>' +
-          {% endif %}
+      //     {% if show_pitchbook['employee_count'] %}
+      //     '<strong style="font-size:1.6rem;">Number of Employees</strong><br>' +
+      //     val(data.PitchbookNumberEmployees) + '<br><br>' +
+      //     {% endif %}
+      //     '';
+      // }
 
-          {% if show_pitchbook['year_founded'] %}
-          '<strong style="font-size:1.6rem;">Year Founded</strong><br>' +
-          val(awd.PitchbookYearFounded) + '<br><br>' +
-          {% endif %}
+      // function pitchBookDataSection(pitch_book_data) {
+      //   return '' +
+      //     '<div class="pitchbook">' +
+      //       '<p class="pitchbook-source" style="text-align:right;font-size:1.4rem;"><em>This information has been provided by</em>' +
+      //       '<img width="150px"style="margin-left:5px;"src="../../../assets/img/pitch-book-logo.png" /></p><br>' +
 
-          {% if show_pitchbook['employee_count'] %}
-          '<strong style="font-size:1.6rem;">Number of Employees</strong><br>' +
-          val(awd.PitchbookNumberEmployees) + '<br><br>' +
-          {% endif %}
-          '';
-      }
+      //       (pitch_book_data || '<h3>No data found</h3>') +
 
-      function pitchBookDataSection(pitch_book_data) {
-        return '' +
-          '<div class="pitchbook">' +
-            '<p class="pitchbook-source" style="text-align:right;font-size:1.4rem;"><em>This information has been provided by</em>' +
-            '<img width="150px"style="margin-left:5px;"src="../../../assets/img/pitch-book-logo.png" /></p><br>' +
-
-            (pitch_book_data || '<h3>No data found</h3>') +
-
-            '<span class="pitchbook-disclaimer" style="font-size:1.2rem;"><em>Disclaimer: Company Data presented by NSF: (1) is the property of and proprietary to PitchBook Data, Inc.; (2) may not be copied, reproduced, or distributed; and (3) is not warranted to be accurate, complete nor timely. Neither PitchBook Data nor the National Science Foundation are responsible for any damages or losses arising from any use of such Data.</em></span>' +
-          '</div>';
-      }
+      //       '<span class="pitchbook-disclaimer" style="font-size:1.2rem;"><em>Disclaimer: Company Data presented by NSF: (1) is the property of and proprietary to PitchBook Data, Inc.; (2) may not be copied, reproduced, or distributed; and (3) is not warranted to be accurate, complete nor timely. Neither PitchBook Data nor the National Science Foundation are responsible for any damages or losses arising from any use of such Data.</em></span>' +
+      //     '</div>';
+      // }
 
       const lastAwardIndex = award.length - 1;
       let pitch_book_data = '';
@@ -89,7 +102,7 @@ permalink: /awardees/history/details/
         let isEstDate = dateFormatter.isEstimatedDate(awd.EndDate);
 
         if (!pitch_book_data) {
-          pitch_book_data = hasPitchbookData(awd) ? pitchBookData(awd) : '';
+          pitch_book_data = sfPitchBook.dataExists(pitchBook) ? sfPitchBook.getData(pitchBook) : '';
         }
 
         let programDirector = awd.ProgramManager ? awd.ProgramManager.split(/,\s+/) : '';
@@ -166,7 +179,7 @@ permalink: /awardees/history/details/
                         '</p>' +
                       '</div>' +
                       {% if show_pitchbook['data'] %}
-                      (lastAwardIndex === awdIndex ? pitchBookDataSection(pitch_book_data) : '') +
+                      (lastAwardIndex === awdIndex ? sfPitchBook.showData(pitch_book_data) : '') +
                       {% endif %}
 
                     '</div>' +
