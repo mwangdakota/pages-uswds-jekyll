@@ -44,7 +44,7 @@ Click on the **"Funds"** hyperlink (under the Year heading).
 **IMPORTANT: To avoid budget reductions, NSF strongly advises you to visit the Department of Labor/Bureau of Labor Statistics website to determine the allowed pay scale for each budgeted position. In general, unless your company has other significant internal revenue sources, as well as recent payroll records showing a precedent for the requested salary, the NSF will not allow budgeted salaries in excess of the median salary for the same job title in the same geographical area. Click here to search for your city/state data. If your city is not listed, click here and use your state data. Remember that direct salaries and wages requested in an NSF SBIR/STTR budget are permitted only for work on R&D tasks.**
 
 In most cases, every employee listed in line A or B of the budget should fall under one of the following four occupational groups:
-- [Management Occupations (11-0000)](https://www.bls.gov/oes/current/oes_nat.htm#11-0000)
+- [Management Occupations (11-0000)](https://www.bls.gov/oes/current/oes_nat.htm#11-0000) Please note that NSF does not recognize C-level positions on an SBIR/STTR budget.
 - [Computer and Mathematical Occupations (15-0000)](https://www.bls.gov/oes/current/oes_nat.htm#15-0000)
 - [Architecture and Engineering Occupations (17-0000)](https://www.bls.gov/oes/current/oes_nat.htm#17-0000)
 - [Life, Physical, and Social Science Occupations (19-0000)](https://www.bls.gov/oes/current/oes_nat.htm#19-0000)
@@ -110,7 +110,7 @@ This program is based on the NSF's Innovation Corps program, and more informatio
 **J. Total Direct and Indirect Costs** section: Click "Calculate" and the total of items H and I will update.
 ![Total direct and indirect costs section with calculate button]({{ site.baseurl }}/assets/img/fastlane/18-TotalDirectIndirect.jpg)
 
-**K. Small business fee** section: The "Small business fee" line is used to request a fee (profit) for the small business. If requested, the maximum amount of this profit must not exceed 7% of line item J. Click "Calculate" to update the amount.
+**K. Small business fee** section: The "Small business fee" line is used to request a fee (profit) for the small business. If requested, the maximum amount of this profit must not exceed 7% (in Phase I) and 10% (in Phase II) of line item J. Click "Calculate" to update the amount.
 ![Small Busines fee section with input field and calculate button]({{ site.baseurl }}/assets/img/fastlane/19-SmallBusiness.jpg)
 
 **L. Total Cost and Fee** section: After all applicable line items have been inputted into your budget, click "Calculate and Save"; then click "Go Back" to return to the "Project Budget" screen.
