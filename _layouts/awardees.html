@@ -102,6 +102,7 @@ class: awardees-layout
               <li class="table-row table-header">
                 <div class="table-row-item subhead">Company</div>
                 <div class="table-row-item subhead">Location</div>
+                <div class="table-row-item subhead narrow numeric">Award ID</div>
                 <div class="table-row-item subhead narrow numeric">Award amount</div>
                 <div class="table-row-item subhead narrow numeric">Award date</div>
               </li>
@@ -115,6 +116,7 @@ class: awardees-layout
                     </a>
                   </div>
                   <div class="table-row-item" data-header="Location">{{ matching.awardeeStateCode }}</div>
+                  <div class="table-row-item" data-header="Award ID">{{ matching.id }}</div>
                   <div class="table-row-item narrow numeric font-mono text-small" data-header="Award amount">{{ matching.fundsObligatedAmt | intcomma_dollar }}</div>
                   <div class="table-row-item narrow numeric font-mono text-small" data-header="Award date">{{ matching.date }}</div>
                 </li>
