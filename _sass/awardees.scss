@@ -148,6 +148,13 @@
 
       }
     }
+    .table-row-item:first-child {
+      flex-grow:3;
+    }
+    .table-row-item {
+      justify-content: flex-start;
+    }
+      
   }
 
   .usa-accordion-button {
