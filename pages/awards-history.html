@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Award History
-scripts: /assets/js/datatables.min.js /assets/js/dataTablesConfig.js /assets/js/awards-history.js /assets/js/popper.min.js /assets/js/tippy-bundle.umd.min.js /assets/js/dateFormatter.js /assets/js/strFormatter.js /assets/js/services.js /assets/js/bootstrap3-typeahead.js
+scripts: /assets/js/simplequerystring.min.js /assets/js/datatables.min.js /assets/js/dataTablesConfig.js /assets/js/awards-history.js /assets/js/popper.min.js /assets/js/tippy-bundle.umd.min.js /assets/js/dateFormatter.js /assets/js/strFormatter.js /assets/js/services.js /assets/js/bootstrap3-typeahead.js
 css: /assets/css/datatables.min.css
 permalink: /awardees/history/
 ---
@@ -19,8 +19,8 @@ permalink: /awardees/history/
 
   <div class="awards-history-container">
     <ul class="awards-history-year-filters">
-      <li><button type="button" class="active">All</button></li>
-      {% for award_year in site.data.awards_history_years %}<li><button type="button">{{ award_year }}</button></li>
+      <li><button type="button" class="active" id="year_All">All</button></li>
+      {% for award_year in site.data.awards_history_years %}<li><button type="button" id="year_{{ award_year }}">{{ award_year }}</button></li>
       {% endfor %}
     </ul>
 
@@ -50,10 +50,6 @@ permalink: /awardees/history/
           </div>
           {% endfor %}
         </div>
-      </div>
-      <div class="awards-history-grid-view">
-        <button id="list-view" class="active">List View</button> |
-        <button id="group-view">Group by Awardee</button>
       </div>
       <div class="dataTable-seedfund">
         <table id="awards_history" class="display dataTable" width="100%"></table>

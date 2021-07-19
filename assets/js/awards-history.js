@@ -3,19 +3,58 @@
 {% assign use_autocomplete = site['awards_history']['autocomplete']['use'] %}
 {% assign suggestions = site['awards_history']['autocomplete']['suggestions'] | downcase %}
 {% if suggestions == 'all' %}{% assign suggestions = "'all'" %}{% endif %}
-function init_awards_history_filters() {
-  return {
-    year: 'All',
+
+awards_history_qsConfig = simpleQueryString.parse(location.search);
+
+awards_history_redraws = 0;
+
+awards_history_group_view = !!awards_history_qsConfig.gv;
+
+awards_history_filters = init_awards_history_filters(awards_history_qsConfig);
+
+awards_history_company_names = {};
+
+function init_awards_history_filters(qsConfig = {}) {
+  var filters = {
+    phase1: qsConfig.p1 || null,
+    phase2: qsConfig.p2 || null,
+    keyword: qsConfig.kw || null,
+    perPage: qsConfig.pp || null,
+    year: qsConfig.yr || 'All',
     states: {},
     expandGroup: {}
   };
+
+  if (qsConfig.st) {
+    qsConfig.st.split('-').forEach(function(abbr) {
+      filters.states[abbr] = true;
+    });
+  }
+
+  return filters;
 }
 
-awards_history_group_view = false;
+function update_awards_history_url_with_filters() {
+  if (!awards_history_redraws++) return;
 
-awards_history_filters = init_awards_history_filters();
+  setTimeout(function() {
+    var states = Object.keys(awards_history_filters.states).join('-');
+    var allStatesSelected = $('.awards-history-grid-filters #all_states')[0].checked;
 
-awards_history_company_names = {};
+    var qs = {
+      yr: awards_history_filters.year,
+      p1: awards_history_filters.phase1 ? 1 : null,
+      p2: awards_history_filters.phase2 ? 1 : null,
+      kw: !!awards_history_filters.keyword ? awards_history_filters.keyword : null,
+      pp: awards_history_filters.perPage,
+      gv: awards_history_group_view ? 1 : null,
+      st: !allStatesSelected && states.length ? states : null
+    }
+
+    var url = location.origin + location.pathname + '?' + simpleQueryString.stringify(qs);
+    history.replaceState({}, '', url);
+  });
+}
 
 $.fn.dataTable.ext.search.push(
 
@@ -23,6 +62,7 @@ $.fn.dataTable.ext.search.push(
   function (settings, data, dataIndex, dataObj) {
     const year = dataObj.award_date.split('-')[0];
 
+    // In case the query string specified anything
     if (awards_history_filters.year === 'All') {
       return true;
     } else {
@@ -36,12 +76,21 @@ $.fn.dataTable.ext.search.push(
       return true;
     }
 
+    // In case the query string specified anything
+    if (awards_history_filters.phase1) $('#phase1')[0].checked = true;
+    if (awards_history_filters.phase2) $('#phase2')[0].checked = true;
+
     return (awards_history_filters.phase1 && dataObj.phase.endsWith('Phase I')) ||
       (awards_history_filters.phase2 && dataObj.phase.endsWith('Phase II'));
   },
 
   // States filter
   function (settings, data, dataIndex, dataObj) {
+    // In case the query string specified anything
+    for (let abbr of Object.keys(awards_history_filters.states)) {
+      $('#state_' + abbr)[0].checked = true;
+    }
+
     if (! $('.awards-history-grid-filters .state-list input[type="checkbox"]:checked').length ) {
       return true;
     }
@@ -74,6 +123,22 @@ function update_company_names(company_id, company_name) {
   }
 }
 
+async function copyUrl(event) {
+  if (!navigator.clipboard) {
+    // Clipboard API not available
+    return;
+  }
+  try {
+    await navigator.clipboard.writeText(location.href);
+    $('#copy-url .success').addClass('show');
+    setTimeout(function() {
+      $('#copy-url .success').removeClass('show');
+    }, 1500);
+  } catch (err) {
+    console.error('Failed to copy!', err)
+  }
+}
+
 $(document).ready(function () {
   let dt;
 
@@ -84,35 +149,10 @@ $(document).ready(function () {
   let awards_history;
   let autocomplete_index;
 
-  awards_history_filters.year = $('.awards-history-year-filters .active').text();
-
-  let substringMatcher = function(strs) {
-    return function findMatches(q, cb) {
-      var matches, substringRegex;
-
-      // an array that will be populated with substring matches
-      matches = [];
-
-      // regex used to determine if a string contains the substring `q`
-      substrRegex = new RegExp(q, 'i');
-
-      // iterate through the pool of strings and for any string that
-      // contains the substring `q`, add it to the `matches` array
-      $.each(strs, function(i, str) {
-        if (substrRegex.test(str)) {
-          matches.push(str);
-        }
-      });
-
-      cb(matches);
-    };
-  };
+  $('.awards-history-year-filters button').removeClass('active');
+  $('#year_' + awards_history_filters.year).addClass('active');
 
   let getAwardsHistory = async function() {
-    //window.AH = await sfService.getAwardsHistory();
-    //uh = window.AH[0]
-    //kk = Object.keys(uh).filter(k => k.startsWith('Pitchbook'))
-    //window.pitch = window.AH.map(a => { let pb = { InstitutionIdentifer: a.InstitutionIdentifer, CompanyUrl: a.CompanyUrl }; for (let k of kk) { pb[k] = a[k] }; return pb; })
     awards_history = (await sfService.getAwardsHistory()).map(function (award) {
       update_company_names(award.InstitutionIdentifer, award.InstitutionName);
 
@@ -156,8 +196,23 @@ $(document).ready(function () {
         let latest_award = awards_history.map(a => a.award_date).sort().reverse()[0];
         $('.awards-history-latest-award').text('As of ' + dateFormatter.mmddyyyy(latest_award)).show();
         $('.awards-history-container .dataTables_filter input').attr('title', 'Enter one or more search terms');
-        $('.dt-buttons .buttons-csv').attr('class', 'dl-csv usa-button usa-button-primary').attr('title', 'Download filtered data as CSV')
+        $('.dt-buttons .buttons-csv').attr('class', 'dl-csv usa-button usa-button-primary').attr('title', 'Download results to CSV')
         $('#awards_history_filter').append('<span class="help-icon"></span>');
+        let lengthUI = document.getElementById('awards_history_length');
+        lengthUI.firstChild.firstChild.nodeValue = "Rows per page";
+        lengthUI.firstChild.lastChild.remove();
+        $('.flbv-container .awards-history-grid-view').append(
+          '<button id="list-view" class="active">List View</button> | ' +
+          '<button id="group-view">Group by Awardee</button>'
+        );
+        $('#copy-url').append(
+          '<button class="usa-button usa-button-primary" onClick="copyUrl()">Copy Results Link</button>' +
+          '<span class="success">Copied!</span>'
+        );
+        if (awards_history_filters.year !== 'All') {
+          $('.dl-csv').show();
+          $('.awards-history-grid-view').hide();
+        }
         $('.results-loading').hide();
         $('.awards-history-container').show();
         const searchMarkup = $('#awards-history-search-help').html();
@@ -258,7 +313,7 @@ $(document).ready(function () {
         { title: 'PI PHONE', data: 'pi_phone', visible: false}
       ],
       lengthMenu: [[50, 100, -1], [50, 100, 'All']],
-      dom: 'flBrtip',
+      dom: '<"flbv-container"flB<"awards-history-grid-view"><"#copy-url">>r<"x-scrollable"t>ip',
       buttons: [
         {
           extend: 'csv',
@@ -289,7 +344,7 @@ $(document).ready(function () {
         post: [[0, 'asc']]
       },
       rowGroup: {
-        dataSrc: '',
+        dataSrc: awards_history_group_view ? 'company_id' : '',
         startRender: function(rows, group) {
           rows.nodes().each(function(rowNode) {
             if (!awards_history_group_view) {
@@ -299,10 +354,12 @@ $(document).ready(function () {
             }
           });
 
+          var row_count = rows.count();
+
           const html = '<tr class="dtrg-group dtrg-start" data-name="' + group + '"' +
               historyRowGroupExpanded(group) +
               historyShowOrHideStyle(awards_history_group_view) + '>' +
-            '<td class="group-count">' + rows.count() + ' Award' + (rows.count > 1 ? 's' : '') + '</td>' +
+            '<td class="group-count">' + row_count + ' Award' + (row_count > 1 ? 's' : '') + '</td>' +
             '<td colspan="4" class="group-company-name"><span>' + awards_history_company_names[group] + '</span></td>' +
             '<td><span class="expand-collapse"></span></td>' +
             '</tr>' +
@@ -312,10 +369,28 @@ $(document).ready(function () {
       },
       fnDrawCallback: function() {
         $('.history-download-alert').hide();
+        update_awards_history_url_with_filters();
       }
     });
 
+    // If the initial queryString contained a keyword search...
+    if (awards_history_filters.keyword) {
+      config.oSearch = {sSearch: awards_history_filters.keyword};
+    }
+
+    // If the initial queryString contained a (per) page length
+    if (awards_history_filters.perPage) {
+      config.pageLength = Number(awards_history_filters.perPage);
+    }
+
     dt = $('#awards_history').DataTable(config);
+
+    if (awards_history_group_view) {
+      dt.rowGroup().dataSrc('company_id').order([0, 'asc']);
+      $('#group-view').addClass('active');
+      $('#list-view').removeClass('active');
+      $('#awards_history thead th').hide();
+    }
 
     $('.dt-buttons').append(
       '<div class="history-download-alert">Only ' + download_limit +
@@ -352,14 +427,23 @@ $(document).ready(function () {
     });
 
     $('.awards-history-grid-filters .state-list input[type="checkbox"]').change(function(evt) {
-      awards_history_filters.states[evt.target.value] = evt.target.checked;
+      if (evt.target.checked) {
+        awards_history_filters.states[evt.target.value] = true;
+      } else {
+        delete awards_history_filters.states[evt.target.value];
+      }
       dt.draw();
     });
 
     $('.awards-history-grid-filters #all_states').change(function(evt) {
       $('.awards-history-grid-filters .state-list input[type="checkbox"]').each(function(index, el) {
         el.checked = evt.target.checked;
-        awards_history_filters.states[el.value] = evt.target.checked;
+        ///awards_history_filters.states[el.value] = evt.target.checked;
+        if (evt.target.checked) {
+          awards_history_filters.states[el.value] = true;
+        } else {
+          delete awards_history_filters.states[el.value];
+        }
       })
       dt.draw();
     });
@@ -377,6 +461,14 @@ $(document).ready(function () {
       awards_history_filters = init_awards_history_filters();
 
       dt.page.len(parseInt(length_select.val(), 10)).search('').draw();
+    });
+
+    $('#awards_history_filter input').change(function(evt) {
+      awards_history_filters.keyword = evt.target.value;
+    });
+
+    $('select[name="awards_history_length"]').change(function(evt) {
+      awards_history_filters.perPage = evt.target.value;
     });
 
     $('#list-view, #group-view').click(function(evt) {
@@ -401,6 +493,9 @@ $(document).ready(function () {
       let tr = $(this);
       let name = tr.data('name');
       awards_history_filters.expandGroup[name] = !awards_history_filters.expandGroup[name];
+      for (let grp of Object.keys(awards_history_filters.expandGroup)) {
+        if (!awards_history_filters.expandGroup[grp]) delete awards_history_filters.expandGroup[grp];
+      }
       dt.draw(false);
     });
 
