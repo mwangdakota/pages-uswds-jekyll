@@ -196,7 +196,9 @@ $(document).ready(function () {
         let latest_award = awards_history.map(a => a.award_date).sort().reverse()[0];
         $('.awards-history-latest-award').text('As of ' + dateFormatter.mmddyyyy(latest_award)).show();
         $('.awards-history-container .dataTables_filter input').attr('title', 'Enter one or more search terms');
-        $('.dt-buttons .buttons-csv').attr('class', 'dl-csv usa-button usa-button-primary').attr('title', 'Download results to CSV')
+        $('.dt-buttons .buttons-csv')
+          .attr('class', 'dl-csv usa-button usa-button-primary')
+          .attr('title', 'Download results to CSV');
         $('#awards_history_filter').append('<span class="help-icon"></span>');
         let lengthUI = document.getElementById('awards_history_length');
         lengthUI.firstChild.firstChild.nodeValue = "Rows per page";
@@ -206,7 +208,8 @@ $(document).ready(function () {
           '<button id="group-view">Group by Awardee</button>'
         );
         $('#copy-url').append(
-          '<button class="usa-button usa-button-primary" onClick="copyUrl()">Copy Results Link</button>' +
+          '<button class="usa-button usa-button-primary" title="Copy results link" onClick="copyUrl()">' +
+          'Copy results link</button>' +
           '<span class="success">Copied!</span>'
         );
         if (awards_history_filters.year !== 'All') {
