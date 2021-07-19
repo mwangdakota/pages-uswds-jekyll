@@ -16,7 +16,7 @@ section_image_caption: |
 
 # About NSF
 
-America’s Seed Fund is a program within the <a href="#">National Science Foundation</a> and housed within the <a href="#">Division of Industrial Innovation and Partnerships</a> within the Directorate of Engineering. NSF is a federal agency that supports fundamental research and education across all fields of science and engineering, currently with an $8.5 billion budget.
+America’s Seed Fund is a program within the <a href="https://www.nsf.gov/">National Science Foundation</a> and housed within the <a href="https://www.nsf.gov/div/index.jsp?div=IIP">Division of Industrial Innovation and Partnerships</a> within the Directorate of Engineering. NSF is a federal agency that supports fundamental research and education across all fields of science and engineering, currently with an $8.5 billion budget.
 
 </div>
 </div>
@@ -34,7 +34,7 @@ America’s Seed Fund is a program within the <a href="#">National Science Found
   <h3>Our Mission</h3>
   <p>We focus on high-risk, high-impact technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award $200 million in funding to entrepreneurs across the country.</p>
   <p>Our goals are to foster innovation and help create businesses and jobs in the United States, and companies seed funded by our program have since gone on to tremendous success. We are a congressionally mandated program — Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR).</p>
-            <p><a href="#" class="usa-button usa-button-primary">VIEW OUR PORTFOLIO</a></p>
+            <p><a href="{{ site.baseurl }}/portfolio/" class="usa-button usa-button-primary">VIEW OUR PORTFOLIO</a></p>
 </div>
 
 <div class="usa-width-one-half">
@@ -42,7 +42,7 @@ America’s Seed Fund is a program within the <a href="#">National Science Found
 <h3>What We Do</h3>
             <p>Through the merit review process, NSF funds the most innovative ideas in science and technology. Notable NSF-supported advances include Doppler radar, the Internet, web browsers, bar codes, magnetic resonance imaging, inkjet printers, computer-aided design systems, tissue engineering, and other technology-based innovations that spur economic activity and improve the quality of life for all Americans.</p>
             <p>In selected cases, we support innovations to existing products and services, but these innovations must dramatically change the products’ commercial prospects. We don’t fund work that simply improves existing products. Check out our portfolio to get a sense of our founders’ work.</p>
-            <p><a href="#" class="usa-button usa-button-primary">LEARN HOW IT WORKS</a></p>
+            <p><a href="{{ site.baseurl }}/apply/get-started/" class="usa-button usa-button-primary">LEARN HOW IT WORKS</a></p>
           </div>
         </div>
 </section>
@@ -90,7 +90,7 @@ America’s Seed Fund is a program within the <a href="#">National Science Found
               </li>
               <li>
                 <h3>Options for venture captial companies</h3>
-                If your company is majority owned by venture capital operating companies, hedge funds, or private-equity firms, you’re not eligible to apply for funding, although joint ventures and partnerships are eligible. Read more about proposal eligibility in our <a href="#">Eligibility Guide</a>.
+                If your company is majority owned by venture capital operating companies, hedge funds, or private-equity firms, you’re not eligible to apply for funding, although joint ventures and partnerships are eligible. Read more about proposal eligibility in our <a href="https://www.sbir.gov/faqs/eligibility-requirements">Eligibility Guide</a>.
               </li>
             </ul>
 
@@ -100,7 +100,7 @@ America’s Seed Fund is a program within the <a href="#">National Science Found
 <section class="background-white">
 <div class="usa-section usa-content usa-grid">
  <div class="step-banner">
-            <a class="step-banner__content" href="&#x2F;patterns&#x2F;04-pages-08-apply-00-apply-2&#x2F;04-pages-08-apply-00-apply-2.rendered.html">
+            <a class="step-banner__content" href="{{ site.baseurl }}/apply/get-started/">
               <h2>Ready to Learn More?</h2>
               <p>We invest up to $2 million in seed funding and take zero equity. We’re looking for companies that are transformative, high-risk, have a market pull, and are scaleable.</p>
               <p><b>Get Started Today</b></p>
