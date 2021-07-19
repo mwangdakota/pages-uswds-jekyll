@@ -235,4 +235,9 @@ section {
 	&.full-bleed-bg--no-margin {
 		margin: 0; // for pages with full bg images
 	}
+	
+	&.full-bleed-bg--auto-margin {
+		margin-right: auto; // for portfolio detail pages
+		margin-left: auto;
+	}
 }
