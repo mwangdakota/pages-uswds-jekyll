@@ -466,9 +466,10 @@ $(document).ready(function () {
       dt.page.len(parseInt(length_select.val(), 10)).search('').draw();
     });
 
-    $('#awards_history_filter input').change(function(evt) {
+    $('#awards_history_filter input').keyup($.debounce(500, function(evt) {
       awards_history_filters.keyword = evt.target.value;
-    });
+      update_awards_history_url_with_filters();
+    }));
 
     $('select[name="awards_history_length"]').change(function(evt) {
       awards_history_filters.perPage = evt.target.value;
