@@ -2,7 +2,7 @@
 layout: base
 ---
 
-<div>
+<div class="portfolio-details">
   <div class="results-failure flex flex-column usa-grid usa-section" style="display: none;">
     <h1 class="h3 m0">There were no results found for <span class="results-query background-secondary font-mono">that query</span>.</h1>
     <p>Try a new search or return to <a href="{{ page.parent_permalink | relative_url }}">previous page</a> to try again.</p>
@@ -24,28 +24,28 @@ layout: base
     {% assign awards_by_phase_2 = awards_to_detail | uniq | where_phase_2 %}
     {% assign awards_by_company_phase_1 = awards_by_phase_1 | uniq | group_by: "awardeeName" | sort: 'name' %}
     {% assign awards_by_company_phase_2 = awards_by_phase_2 | uniq | group_by: "awardeeName" | sort: 'name' %}
-    <div id="awards-details-list" style="display: none;">
+    <section class="full-bleed-bg full-bleed-bg--blue full-bleed-bg--auto-margin awardee-header" id="awardee-header">
       <div class="usa-grid usa-section">
-        <h1 class="h2 subhead uppercase results-phase" style="display: none;">Phase II</h1>
+        <h1 class="h2 subhead uppercase results-phase" style="display: none;"></h1>
         <h2 class="h1 results-company-title" style="display: none;"></h2>
         {% include details-list.html awards_by_company=awards_by_company_phase_2 %}
       </div>
-    </div>
-    <div id="awards-details-list-phase-2" class="background-white" style="display: none;">
+    </section>
+    <section class="full-bleed-bg full-bleed-bg--blue full-bleed-bg--auto-margin awardee-header" id="awardee-header">
       <div class="usa-grid usa-section">
-        <h1 class="h2 subhead uppercase results-phase" style="display: none;">Phase I</h1>
+        <h1 class="h2 subhead uppercase results-phase" style="display: none;"></h1>
         <h2 class="h1 results-company-title" style="display: none;"></h2>
         {% include details-list.html awards_by_company=awards_by_company_phase_1 %}
       </div>
-    </div>
+    </section>
   {% else %}
     {% assign awards_by_company = awards_to_detail | uniq | group_by: "awardeeName" | sort: 'name' %}
-    <div id="awards-details-list">
+    <section class="full-bleed-bg full-bleed-bg--blue full-bleed-bg--auto-margin awardee-header" id="awardee-header">
       <div class="usa-grid usa-section">
         <h1 class="h2 subhead uppercase results-phase" style="display: none;">{{ page.phase }}</h1>
         <h2 class="h1 results-company-title" style="display: none;"></h2>
         {% include details-list.html awards_by_company=awards_by_company %}
       </div>
-    </div>
+  </section>
   {% endif %}
 </div>
