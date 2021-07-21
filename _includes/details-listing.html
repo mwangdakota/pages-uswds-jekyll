@@ -1,126 +1,112 @@
 {% assign award = include.award | default: award %}
+{% assign endDate = award.expDate | end_date %}
 <li id="{{ award.awardeeName | slugify }}" class="usa-grid-full">
   <div class="mb5 mt5">
     <h1 class="h2 awardeeName usa-sr-only">{{ award.awardeeName }}</h1>
     <h2 class="title h5 font-regular">{{ award.title }}</h2>
   </div>
-  
-  <div class="usa-grid-full">
 
-
-      <section class="full-bleed-bg full-bleed-bg--auto-margin awardee-profile" data-pitchbook-info="../../endpoints/awards-history.json">
-
-        <section class="usa-grid usa-section">
-
-          <div class="usa-width-one-fourth">
-
-            <h3 class="h2">Company Profile</h3>
-
-          </div>
-
-          <div class="usa-width-three-fourths">
-
-            <div class="awardee-profile__results">
-
-              <h3 class="awardee-profile__no-data" style="display: none">No data found</h3>
-
-              <div class="awardee-profile__data" style="display: none">
-
-                <h3>Company Description</h3>
-
-                <p><a href="#" class="usa-button usa-button-primary">VISIT WEBSITE</a></p>
-
-                <div class="awardee-profile__stats">
-
-                  <div class="usa-grid">
-
-                    <div class="usa-width-one-third">
-
-                      <div class="awardee-profile__stats-column">
-
-                        <h4>Total Raised</h4>
-
-                        <p class="awardee-profile__stat-single"></p>
-
-                      </div>
-
-                    </div>
-
-                    <div class="usa-width-one-third">
-
-                      <div class="awardee-profile__stats-column">
-
-                        <h4>Year Founded</h4>
-
-                        <p class="awardee-profile__stat-single"></p>
-
-                      </div>
-
-                    </div>
-
-                    <div class="usa-width-one-third">
-
-                      <div class="awardee-profile__stats-column">
-
-                        <h4>Number of Employees</h4>
-
-                        <p class="awardee-profile__stat-single"></p>
-
-                      </div>
-
-                    </div>
-
-                  </div>
-
-                </div>
-
-              </div>
-
-            </div>
-
-            <p>This information has been provided by <img src="../../assets/img/pitch-book-logo.png" alt="PitchBook Logo"></p>
-
-            <p>Disclaimer: Company Data presented by NSF: (1) is the property of and proprietary to PitchBook Data, Inc.; (2) may not be copied, reproduced, or distributed; and (3) is not warranted to be accurate, complete nor timely. Neither PitchBook Data nor the National Science Foundation are responsible for any damages or losses arising from any use of such Data.</p>
-
-          </div>
-
-        </section>
-
-      </section>
-
-      <section class="full-bleed-bg awardee-history">
-
-        <div class="usa-grid usa-section">
-
-          <h3 class="h2">Award Histories</h3>
-
-          <p>To view related awards from NSF startups and small businesses click the link below.</p>
-
-          <p><a href="#" class="usa-button usa-button-primary">SEARCH AWARDS</a></p>
-
+  <div class="usa-grid-full {% unless forloop.last %}award-listing{% endunless %} {% if endDate contains 'Estimated' %}estimated-end-date{% endif %}">
+    <div class="usa-width-one-fourth">
+       <address>
+         <div class="mb5">
+          <h4 class="subhead uppercase">Project Leader</h4>
+          <p class="piName font-bold">
+            {% if award.piEmail %}
+              <a href="mailto:{{ award.piEmail }}">
+                {{ award.piFirstName }} {{ award.piLastName }}
+              </a>
+            {% else %}
+              {{ award.piFirstName }} {{ award.piLastName }}
+            {% endif %}
+          </p>
+          {% if award.piPhone %}
+            <p><a href="tel:{{ award.piPhone }}">{{ award.piPhone | phone_number }}</a></p>
+          {% endif %}
+          <p>Principal Investigator</p>
         </div>
-
-      </section>
-
-      <section class="awardee-cta">
-
-        <div class="usa-grid usa-section">
-
-          <div class="step-banner">
-
-            <a class="step-banner__content" href="&#x2F;patterns&#x2F;04-pages-08-apply-00-apply-2&#x2F;04-pages-08-apply-00-apply-2.rendered.html">
-
-              <h2>Step 2: Project pitch</h2>
-
-              <p>After you’ve understood our eligibility guidelines and feel ready to apply, please visit our project pitch guide.</p>
-
-            </a>
-
-          </div>
-
+        <div class="mb5">
+          <h4 class="subhead uppercase">Contact</h4>
+          {% if award.awardeeAddress %}
+            <p>{{ award.awardeeAddress }}</p>
+          {% endif %}
+          <p class="city">
+            {{ award.awardeeCity | titlecase }}, {{ award.awardeeStateCode }}{% if award.awardeeZipCode %} {{ award.awardeeZipCode | zip_code }}{% endif %}
+          </p>
+          {% if award.poPhone %}
+            <p>{{ award.poPhone }}</p>
+          {% endif %}
         </div>
+      </address>
+      <div class="mb5">
+        <h4 class="subhead uppercase">NSF Award</h4>
+        <p class="id">{{ award.id }} – {{ award.fundProgramName }}</p>
+      </div>
+      <div class="mb5">
+        <h4 class="subhead uppercase">Award amount to date</h4>
+        <p class="amount">{{ award.fundsObligatedAmt | round | intcomma_dollar }}</p>
+      </div>
+      <div class="mb5">
+        {% if award.startDate and award.expDate %}
+          <h4 class="subhead uppercase">Start / end date</h4>
+          <p>{{ award.startDate }} – {{ endDate }}</p>
+        {% elsif award.startDate %}
+          <h4 class="subhead uppercase">Start date</h4>
+          <p>{{ award.startDate }}</p>
+        {% elsif award.expDate %}
+          <h4 class="subhead uppercase">End date</h4>
+          <p>{{ endDate }}</p>
+        {% endif %}
+      </div>
+      {% for topic in site.data.tech-topics %}
+      {% if award.ttopic and award.ttopic == topic.topic_code %}
+      <div class="mb5 details-program-director">
+        <h4 class="subhead uppercase">NSF Program Director</h4>
+        {% for programDirector in topic.programDirector %}
+        <strong class="program-director-name">{{ programDirector.name }}</strong>
+        <ul>
+          <li><a href="mailto:{{ programDirector.email }}">Send email</a></li>
+          {% if programDirector.bio %}
+          <li><a href="{{ site.baseurl }}/contact/bios#{{ programDirector.name }}">View bio</a></li>
+          {% endif %}
+        </ul>
+        {% endfor %}
+      </div>
+      {% endif %}
+      {% endfor %}
+      <div class="mb5">
+        <h4 class="subhead uppercase">Errata</h4>
+        <p class="abstractText">Please report errors in award information by writing to <a href="mailto:awardsearch@nsf.gov">awardsearch@nsf.gov</a>.</p>
+      </div>
+    </div>
 
-      </section>
+    <div class="usa-width-three-fourths">
+      {% if award.covid == 'y' %}
+        {% if page.phase == 'Phase I' %}
+        <div style="background-color: #FFFAC3;
+            padding-top: 1rem;
+            padding-bottom: 1rem;
+            padding-left: 1rem;
+            padding-right: 2rem;
+            margin-bottom: 3rem;
+            text-align: center; ">This is a COVID-19 award.</div>
+        {% elsif page.phase == 'phase II' %}
+        <div style="background-color: #FFFAC3;
+            padding-top: 1rem;
+            padding-bottom: 1rem;
+            padding-left: 1rem;
+            padding-right: 2rem;
+            margin-bottom: 3rem;
+            text-align: center; ">This phase II award received additional funding to mitigate the COVID-19 crisis.</div>
+        {% endif %}
+      {% endif %}
+
+      <div class="mb5">
+        <h4 class="subhead uppercase">Abstract</h4>
+        <p class="abstractText">{{ award.abstractText | linebreaks }}</p>
+
+        <div class="pitch-book-data"></div>
+      </div>
     </div>
   </div>
 </li>
