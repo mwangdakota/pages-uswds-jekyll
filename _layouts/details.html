@@ -48,7 +48,10 @@ layout: base
         {% include details-list.html awards_by_company=awards_by_company %}
       </div>
     </section>
-  <section class="full-bleed-bg full-bleed-bg--auto-margin awardee-profile" data-pitchbook-info="../../endpoints/awards-history.json">
+  
+  {% endif %}
+  
+   <section class="full-bleed-bg full-bleed-bg--auto-margin awardee-profile" data-pitchbook-info="../../endpoints/awards-history.json">
         <section class="usa-grid usa-section">
           <div class="usa-width-one-fourth">
             <h3 class="h2">Company Profile</h3>
@@ -88,9 +91,7 @@ layout: base
           </div>
         </section>
       </section>
-  {% endif %}
   
-   
       <section class="full-bleed-bg awardee-history">
         <div class="usa-grid usa-section">
           <h3 class="h2">Award Histories</h3>
