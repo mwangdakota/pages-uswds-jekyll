@@ -24,14 +24,14 @@ layout: base
     {% assign awards_by_phase_2 = awards_to_detail | uniq | where_phase_2 %}
     {% assign awards_by_company_phase_1 = awards_by_phase_1 | uniq | group_by: "awardeeName" | sort: 'name' %}
     {% assign awards_by_company_phase_2 = awards_by_phase_2 | uniq | group_by: "awardeeName" | sort: 'name' %}
-    <div id="awards-details-list" style="display: none;">
+    <div id="awards-details-list" class="full-bleed-bg full-bleed-bg--blue full-bleed-bg--auto-margin awardee-header" style="display: none;">
       <div class="usa-grid usa-section">
         <h1 class="h2 subhead uppercase results-phase" style="display: none;">Phase II</h1>
         <h2 class="h1 results-company-title" style="display: none;"></h2>
         {% include details-list.html awards_by_company=awards_by_company_phase_2 %}
       </div>
     </div>
-    <div id="awards-details-list-phase-2" class="background-white" style="display: none;">
+    <div id="awards-details-list-phase-2" class="full-bleed-bg full-bleed-bg--blue full-bleed-bg--auto-margin awardee-header" style="display: none;">
       <div class="usa-grid usa-section">
         <h1 class="h2 subhead uppercase results-phase" style="display: none;">Phase I</h1>
         <h2 class="h1 results-company-title" style="display: none;"></h2>
@@ -40,7 +40,7 @@ layout: base
     </div>
   {% else %}
     {% assign awards_by_company = awards_to_detail | uniq | group_by: "awardeeName" | sort: 'name' %}
-    <div id="awards-details-list">
+    <div id="awards-details-list" class="full-bleed-bg full-bleed-bg--blue full-bleed-bg--auto-margin awardee-header">
       <div class="usa-grid usa-section">
         <h1 class="h2 subhead uppercase results-phase" style="display: none;">{{ page.phase }}</h1>
         <h2 class="h1 results-company-title" style="display: none;"></h2>
