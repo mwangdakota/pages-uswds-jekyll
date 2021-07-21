@@ -30,28 +30,7 @@ layout: base
         <h2 class="h1 results-company-title" style="display: none;"></h2>
         {% include details-list.html awards_by_company=awards_by_company_phase_2 %}
       </div>
-    </section>
-    <section id="awards-details-list-phase-2" class="full-bleed-bg full-bleed-bg--blue full-bleed-bg--auto-margin awardee-header" style="display: none;">
-      <div class="usa-grid usa-section">
-        <h1 class="h2 subhead uppercase results-phase" style="display: none;">Phase I</h1>
-        <h2 class="h1 results-company-title" style="display: none;"></h2>
-        {% include details-list.html awards_by_company=awards_by_company_phase_1 %}
-      </div>
-    </section>
-  
-  {% else %}
-    {% assign awards_by_company = awards_to_detail | uniq | group_by: "awardeeName" | sort: 'name' %}
-    <section id="awards-details-list" class="full-bleed-bg full-bleed-bg--blue full-bleed-bg--auto-margin awardee-header">
-      <div class="usa-grid usa-section">
-        <h1 class="h2 subhead uppercase results-phase" style="display: none;">{{ page.phase }}</h1>
-        <h2 class="h1 results-company-title" style="display: none;"></h2>
-        {% include details-list.html awards_by_company=awards_by_company %}
-      </div>
-    </section>
-  
-  {% endif %}
-  
-   <section class="full-bleed-bg full-bleed-bg--auto-margin awardee-profile" data-pitchbook-info="../../endpoints/awards-history.json">
+      <section class="full-bleed-bg full-bleed-bg--auto-margin awardee-profile" data-pitchbook-info="../../endpoints/awards-history.json">
         <section class="usa-grid usa-section">
           <div class="usa-width-one-fourth">
             <h3 class="h2">Company Profile</h3>
@@ -86,13 +65,73 @@ layout: base
                 </div>
               </div>
             </div>
-            <p>This information has been provided by test 3<img src="../../assets/img/pitch-book-logo.png" alt="PitchBook Logo"></p>
+            <p>This information has been provided by <img src="../../assets/img/pitch-book-logo.png" alt="PitchBook Logo"></p>
             <p>Disclaimer: Company Data presented by NSF: (1) is the property of and proprietary to PitchBook Data, Inc.; (2) may not be copied, reproduced, or distributed; and (3) is not warranted to be accurate, complete nor timely. Neither PitchBook Data nor the National Science Foundation are responsible for any damages or losses arising from any use of such Data.</p>
           </div>
         </section>
       </section>
+    </section>
+    <section id="awards-details-list-phase-2" class="full-bleed-bg full-bleed-bg--blue full-bleed-bg--auto-margin awardee-header" style="display: none;">
+      <div class="usa-grid usa-section">
+        <h1 class="h2 subhead uppercase results-phase" style="display: none;">Phase I</h1>
+        <h2 class="h1 results-company-title" style="display: none;"></h2>
+        {% include details-list.html awards_by_company=awards_by_company_phase_1 %}
+      </div>
+      <section class="full-bleed-bg full-bleed-bg--auto-margin awardee-profile" data-pitchbook-info="../../endpoints/awards-history.json">
+        <section class="usa-grid usa-section">
+          <div class="usa-width-one-fourth">
+            <h3 class="h2">Company Profile</h3>
+          </div>
+          <div class="usa-width-three-fourths">
+            <div class="awardee-profile__results">
+              <h3 class="awardee-profile__no-data" style="display: none">No data found</h3>
+              <div class="awardee-profile__data" style="display: none">
+                <h3>Company Description</h3>
+                <p><a href="#" class="usa-button usa-button-primary">VISIT WEBSITE</a></p>
+                <div class="awardee-profile__stats">
+                  <div class="usa-grid">
+                    <div class="usa-width-one-third">
+                      <div class="awardee-profile__stats-column">
+                        <h4>Total Raised</h4>
+                        <p class="awardee-profile__stat-single"></p>
+                      </div>
+                    </div>
+                    <div class="usa-width-one-third">
+                      <div class="awardee-profile__stats-column">
+                        <h4>Year Founded</h4>
+                        <p class="awardee-profile__stat-single"></p>
+                      </div>
+                    </div>
+                    <div class="usa-width-one-third">
+                      <div class="awardee-profile__stats-column">
+                        <h4>Number of Employees</h4>
+                        <p class="awardee-profile__stat-single"></p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <p>This information has been provided by <img src="../../assets/img/pitch-book-logo.png" alt="PitchBook Logo"></p>
+            <p>Disclaimer: Company Data presented by NSF: (1) is the property of and proprietary to PitchBook Data, Inc.; (2) may not be copied, reproduced, or distributed; and (3) is not warranted to be accurate, complete nor timely. Neither PitchBook Data nor the National Science Foundation are responsible for any damages or losses arising from any use of such Data.</p>
+          </div>
+        </section>
+      </section>
+    </section>
   
-      <section class="full-bleed-bg awardee-history">
+  {% else %}
+    {% assign awards_by_company = awards_to_detail | uniq | group_by: "awardeeName" | sort: 'name' %}
+    <section id="awards-details-list" class="full-bleed-bg full-bleed-bg--blue full-bleed-bg--auto-margin awardee-header">
+      <div class="usa-grid usa-section">
+        <h1 class="h2 subhead uppercase results-phase" style="display: none;">{{ page.phase }}</h1>
+        <h2 class="h1 results-company-title" style="display: none;"></h2>
+        {% include details-list.html awards_by_company=awards_by_company %}
+      </div>
+    </section>
+  
+  {% endif %}
+  
+      <section class="full-bleed-bg awardee-history full-bleed-bg--blue">
         <div class="usa-grid usa-section">
           <h3 class="h2">Award Histories</h3>
           <p>To view related awards from NSF startups and small businesses click the link below.</p>
