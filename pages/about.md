@@ -16,7 +16,7 @@ section_image_caption: |
 
 # About NSF
 
-America’s Seed Fund is a program within the <a href="https://www.nsf.gov/">National Science Foundation</a> and housed within the <a href="https://www.nsf.gov/div/index.jsp?div=IIP">Division of Industrial Innovation and Partnerships</a> within the Directorate of Engineering. NSF is a federal agency that supports fundamental research and education across all fields of science and engineering, currently with an $8.5 billion budget.
+America’s Seed Fund is a program within the <a href="https://www.nsf.gov/" target="_blank">National Science Foundation</a> and housed within the <a href="https://www.nsf.gov/div/index.jsp?div=IIP" target="_blank">Division of Industrial Innovation and Partnerships</a> within the Directorate of Engineering. NSF is a federal agency that supports fundamental research and education across all fields of science and engineering, currently with an $8.5 billion budget.
 
 </div>
 </div>
@@ -90,7 +90,7 @@ America’s Seed Fund is a program within the <a href="https://www.nsf.gov/">Nat
               </li>
               <li>
                 <h3>Options for venture captial companies</h3>
-                If your company is majority owned by venture capital operating companies, hedge funds, or private-equity firms, you’re not eligible to apply for funding, although joint ventures and partnerships are eligible. Read more about proposal eligibility in our <a href="https://www.sbir.gov/faqs/eligibility-requirements">Eligibility Guide</a>.
+                If your company is majority owned by venture capital operating companies, hedge funds, or private-equity firms, you’re not eligible to apply for funding, although joint ventures and partnerships are eligible. Read more about proposal eligibility in our <a href="https://www.sbir.gov/faqs/eligibility-requirements" target="_blank">Eligibility Guide</a>.
               </li>
             </ul>
 
@@ -115,7 +115,7 @@ America’s Seed Fund is a program within the <a href="https://www.nsf.gov/">Nat
   
 ## About NSF
 
-America's Seed Fund is a program within the [National Science Foundation](https://www.nsf.gov/) and housed within the [Division of Industrial Innovation and Partnerships](https://www.nsf.gov/div/index.jsp?div=IIP) within the Directorate of Engineering. NSF is a federal agency that supports fundamental research and education across all fields of science and engineering, currently with an $8.5 billion budget.
+America's Seed Fund is a program within the <a href="https://www.nsf.gov/" target="_blank">National Science Foundation</a> and housed within the <a href="https://www.nsf.gov/div/index.jsp?div=IIP" target="_blank">Division of Industrial Innovation and Partnerships</a> within the Directorate of Engineering. NSF is a federal agency that supports fundamental research and education across all fields of science and engineering, currently with an $8.5 billion budget.
 
 Through the merit review process, NSF funds the most innovative ideas in science and technology. Notable NSF-supported advances include Doppler radar, the Internet, web browsers, bar codes, magnetic resonance imaging, inkjet printers, computer-aided design systems, tissue engineering, and other technology-based innovations that spur economic activity and improve the quality of life for all Americans.
 </div>
