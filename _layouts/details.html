@@ -29,7 +29,7 @@ layout: base
         <h1 class="h2 subhead uppercase results-phase" style="display: none;">Phase II</h1>
         <h2 class="h1 results-company-title" style="display: none;"></h2>
         {% include details-list.html awards_by_company=awards_by_company_phase_2 %}
-      </div>
+      
       <section class="full-bleed-bg full-bleed-bg--auto-margin awardee-profile" data-pitchbook-info="../../endpoints/awards-history.json">
         <section class="usa-grid usa-section">
           <div class="usa-width-one-fourth">
@@ -70,13 +70,16 @@ layout: base
           </div>
         </section>
       </section>
+        
+      </div>
+      
     </section>
     <section id="awards-details-list-phase-2" class="full-bleed-bg full-bleed-bg--blue full-bleed-bg--auto-margin awardee-header" style="display: none;">
       <div class="usa-grid usa-section">
         <h1 class="h2 subhead uppercase results-phase" style="display: none;">Phase I</h1>
         <h2 class="h1 results-company-title" style="display: none;"></h2>
         {% include details-list.html awards_by_company=awards_by_company_phase_1 %}
-      </div>
+      
       <section class="full-bleed-bg full-bleed-bg--auto-margin awardee-profile" data-pitchbook-info="../../endpoints/awards-history.json">
         <section class="usa-grid usa-section">
           <div class="usa-width-one-fourth">
@@ -117,6 +120,9 @@ layout: base
           </div>
         </section>
       </section>
+        
+        </div>
+      
     </section>
   
   {% else %}
