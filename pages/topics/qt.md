@@ -14,15 +14,14 @@ Examples of technology innovations in the quantum computing subtopic could inclu
 {% endcapture %}
 
 {% capture tt_features %}
-<div class="usa-section usa-content usa-grid">
+<!--<div class="usa-section usa-content usa-grid">
   <h3>FEATURE 1</h3>
 </div>
-
 <div class="background-light-blue">
   <div class="usa-section usa-content usa-grid">
     <h3>FEATURE 2</h3>
   </div>
-</div>
+</div>-->
 {% endcapture %}
 
 {% include tech-topic.html desc=tt_description features=tt_features %}
