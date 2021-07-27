@@ -12,7 +12,7 @@ The Cybersecurity and Authentication topic focuses on innovations related to the
 {% endcapture %}
 
 {% capture tt_features %}
-<div class="background-light-blue">
+<div>
   <div class="usa-section usa-content usa-grid">
     <h3>Monitoring internal and external network performance - ThousandEyes</h3>
     <div class="usa-content usa-width-one-whole">
