@@ -31,7 +31,7 @@ The Pharmaceutical Technologies topic is not aimed at supporting or conducting c
   <div class="usa-section usa-content usa-grid">
    <div class="usa-content">
  <img src="{{ site.baseurl }}/assets/img/showcase/Shasqi%20-%20Hero%20Image.jpg" alt="Polymer material">
-  <div class="caption"><p style="max-width: 100%;"> A polymer material (blue) targets drug activation of doxorubicin (red) to tumors, minimizing toxicity because the drug is shielded while in the blood (green).*Photo credit: Shasqi*</p></div>
+  <div class="caption"><p style="max-width: 100%;"> A polymer material (blue) targets drug activation of doxorubicin (red) to tumors, minimizing toxicity because the drug is shielded while in the blood (green). <em>Photo credit: Shasqi</em></p></div>
 
  <h3 id="new-drug-delivery-technology-for-tumor-treatment">New drug delivery technology for tumor treatment</h3>
 </div>
