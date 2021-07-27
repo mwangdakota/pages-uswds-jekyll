@@ -20,7 +20,7 @@ Proposals in the Energy Technologies topic are encouraged in the areas of new en
       <p>To learn more visit: <a href="https://dimensionalenergy.com/">https://dimensionalenergy.com/</a></p>
     </div>
     <div class="usa-width-one-half">
-      <iframe sandbox="allow-same-origin allow-scripts" title="Dimensional Energy" width="100%" height="250" src="https://www.youtube.com/embed/SlVRqx6w3rQ?modestbranding=1&showinfo=0&fs=1"" frameborder="0" allowfullscreen=""></iframe>
+      <iframe sandbox="allow-same-origin allow-scripts" title="Dimensional Energy" width="100%" height="250" src="https://www.youtube.com/embed/SlVRqx6w3rQ?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen=""></iframe>
     </div>
   </div>
 </div>
