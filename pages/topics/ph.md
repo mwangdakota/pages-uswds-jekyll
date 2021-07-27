@@ -13,12 +13,15 @@ The Photonics topic addresses the research and development of new materials, dev
 
 {% capture tt_features %}
 <div class="usa-section usa-content usa-grid">
-  <h3>FEATURE 1</h3>
-</div>
-
-<div class="background-light-blue">
-  <div class="usa-section usa-content usa-grid">
-    <h3>FEATURE 2</h3>
+  <div class="image-video">
+    <div class="usa-width-one-half">
+      <h3>Solar power for smartphones and buildings</h3>
+      <p>Ever wish you could charge your device by letting it sunbathe? An NSF-funded company, Ubiquitous Energy, is developing transparent solar technology that could be used on smartphones and buildings.</p>
+      <p>To learn more visit: <a href="http://ubiquitous.energy/">http://ubiquitous.energy/</a></p>
+    </div>
+    <div class="usa-width-one-half">
+      <iframe sandbox="allow-same-origin allow-scripts" title="Ubiquitous Energy" width="100%" height="250" src="https://www.youtube.com/embed/5AXu-kGjwHE" frameborder="0" allowfullscreen=""></iframe>
+    </div>
   </div>
 </div>
 {% endcapture %}
