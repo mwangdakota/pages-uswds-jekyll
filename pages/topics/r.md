@@ -13,12 +13,15 @@ Proposals addressing robot intelligence and experiential learning, particularly 
 
 {% capture tt_features %}
 <div class="usa-section usa-content usa-grid">
-  <h3>FEATURE 1</h3>
-</div>
-
-<div class="background-light-blue">
-  <div class="usa-section usa-content usa-grid">
-    <h3>FEATURE 2</h3>
+  <div class="image-video">
+    <div class="usa-width-one-half">
+      <h3>Robot quickly picks and places orders</h3>
+      <p>Righthand Robotics, a small business funded by the National Science Foundation (NSF), is developing a robot that can pick and place thousands of products.</p>
+      <p>To learn more visit: <a href="https://www.righthandrobotics.com/">https://www.righthandrobotics.com/</a></p>
+    </div>
+    <div class="usa-width-one-half">
+      <iframe sandbox="allow-same-origin allow-scripts" title="RightHand Robotics" width="100%" height="250" src="https://www.youtube.com/embed/ZuKJSA4uCPU" frameborder="0" allowfullscreen=""></iframe>
+    </div>
   </div>
 </div>
 {% endcapture %}
