@@ -29,7 +29,7 @@ The Advanced Manufacturing topic aims to support emerging innovations in manufac
   <div class="usa-section usa-content usa-grid">
    <div class="image-video">
     <div class="usa-width-one-half">
-      <iframe sandbox="allow-same-origin allow-scripts" title="re:3D" width="100%" height="250" src="https://www.youtube.com/embed/wuXqAjPGldE?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen=""></iframe>
+      <iframe sandbox="allow-same-origin allow-scripts" title="re:3D" width="100%" height="250" src="https://www.youtube.com/embed/XDEgLYwdKP4" frameborder="0" allowfullscreen=""></iframe>
     </div>
      <div class="usa-width-one-half">
       <h3>From plastic trash to 3D printing</h3>
