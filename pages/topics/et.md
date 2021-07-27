@@ -30,12 +30,12 @@ Environmental Technologies cover a range of innovations that bring the promise o
   <div class="usa-section usa-content usa-grid">
    <div class="image-video">
     <div class="usa-width-one-half">
+      <iframe sandbox="allow-same-origin allow-scripts" title="ClearFlame Engine Technologies" width="100%" height="250" src="https://www.youtube.com/embed/wuXqAjPGldE?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen=""></iframe>
+    </div>
+      <div class="usa-width-one-half">
       <h3>ClearFlame Engine Technologies</h3>
       <p>ClearFlame Engine Technologies, a small business funded by the National Science Foundation (NSF), has developed a novel engine technology that allows diesel engines to run on any fuel.</p>
       <p>To learn more visit: <a href="https://www.clearflameengines.com/">https://www.clearflameengines.com/</a></p>
-    </div>
-    <div class="usa-width-one-half">
-      <iframe sandbox="allow-same-origin allow-scripts" title="ClearFlame Engine Technologies" width="100%" height="250" src="https://www.youtube.com/embed/wuXqAjPGldE?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen=""></iframe>
     </div>
   </div>
   </div>
