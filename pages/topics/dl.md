@@ -11,7 +11,7 @@ section_image_caption: |
 The Distributed Ledger topic area covers a wide range of technology areas of current and emerging commercial significance and impact spanning all areas of distributed ledger including blockchains, Directed Acyclic Graphs (DAGs), and related capabilities (cryptography, smart contracts, etc.). Applications of these technologies and approaches across any range of industries and commercial uses are appropriate for this topic area. It is important that the proposed project involve novel, distinctive approaches and/or disruptive innovations that enable high potential impact and competitive advantage in its field of use. These subtopic areas are meant to serve as examples of what entrepreneurs may propose in this space; all distributed ledger proposals with technical innovation and significant commercial potential are welcome, regardless of the specific area of focus of the project.
 {% endcapture %}
 
-{% capture tt_features %}
+{% capture tt_features %}<!--
 <div class="usa-section usa-content usa-grid">
   <div class="image-video">
     <div class="usa-width-one-half">
@@ -24,7 +24,6 @@ The Distributed Ledger topic area covers a wide range of technology areas of cur
     </div>
   </div>
 </div>
-
 <div class="background-light-blue">
   <div class="usa-section usa-content usa-grid">
     <h3>Monitoring internal and external network performance - ThousandEyes</h3>
@@ -42,7 +41,7 @@ The Distributed Ledger topic area covers a wide range of technology areas of cur
     </div>
     <div style="clear:both" />
   </div>
-</div>
+</div>-->
 {% endcapture %}
 
 {% include tech-topic.html desc=tt_description features=tt_features %}
