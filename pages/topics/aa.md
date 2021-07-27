@@ -12,7 +12,7 @@ The Advanced Analytics topic focuses on innovations that involve the mathematica
 {% endcapture %}
 
 {% capture tt_features %}
-<div class="usa-section usa-content usa-grid">
+<!--<div class="usa-section usa-content usa-grid">
   <div class="image-video">
     <div class="usa-width-one-half">
       <h3>ClearFlame Engine Technologies</h3>
@@ -24,7 +24,6 @@ The Advanced Analytics topic focuses on innovations that involve the mathematica
     </div>
   </div>
 </div>
-
 <div class="background-light-blue">
   <div class="usa-section usa-content usa-grid">
     <h3>Monitoring internal and external network performance - ThousandEyes</h3>
@@ -42,7 +41,7 @@ The Advanced Analytics topic focuses on innovations that involve the mathematica
     </div>
     <div style="clear:both" />
   </div>
-</div>
+</div>-->
 {% endcapture %}
 
 {% include tech-topic.html desc=tt_description features=tt_features %}
