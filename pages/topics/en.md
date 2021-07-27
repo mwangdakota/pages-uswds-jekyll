@@ -13,14 +13,18 @@ Proposals in the Energy Technologies topic are encouraged in the areas of new en
 
 {% capture tt_features %}
 <div class="usa-section usa-content usa-grid">
-  <h3>FEATURE 1</h3>
-</div>
-
-<div class="background-light-blue">
-  <div class="usa-section usa-content usa-grid">
-    <h3>FEATURE 2</h3>
+  <div class="image-video">
+    <div class="usa-width-one-half">
+      <h3>Recycling CO2 into fuels</h3>
+      <p>Dimensional Energy uses sunlight to convert carbon dioxide (CO2) into energy. Mimicking photosynthesis, Dimensional Energy’s Hi-Light Reactor uses concentrated sunlight and catalysts to turn CO2 and water into raw materials which could be used to create fuel.</p>
+      <p>To learn more visit: <a href="https://dimensionalenergy.com/">https://dimensionalenergy.com/</a></p>
+    </div>
+    <div class="usa-width-one-half">
+      <iframe sandbox="allow-same-origin allow-scripts" title="Dimensional Energy" width="100%" height="250" src="https://www.youtube.com/embed/SlVRqx6w3rQ?modestbranding=1&showinfo=0&fs=1"" frameborder="0" allowfullscreen=""></iframe>
+    </div>
   </div>
 </div>
+
 {% endcapture %}
 
 {% include tech-topic.html desc=tt_description features=tt_features %}
