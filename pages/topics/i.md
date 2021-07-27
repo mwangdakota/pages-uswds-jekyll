@@ -13,14 +13,33 @@ The Internet of Things (IoT) is a rapidly evolving field that involves the inter
 
 {% capture tt_features %}
 <div class="usa-section usa-content usa-grid">
-  <h3>FEATURE 1</h3>
-</div>
-
-<div class="background-light-blue">
-  <div class="usa-section usa-content usa-grid">
-    <h3>FEATURE 2</h3>
+  <div class="image-video">
+    <div class="usa-width-one-half">
+      <h3>Small, wearable device to reduce workplace injuries</h3>
+      <p>Kinetic created a small, wearable device to reduce common workplace injuries. Loaded with sensors that detect motion, twisting, bending and lifting, the device is attached to the belt or waistband of construction, factory or delivery workers. If the device detects improper biomechanics – bad posture or lifting stance – it will “buzz” to alert the worker to correct his or her stance and avert common back injuries.</p>
+      <p>To learn more visit: <a href="https://www.wearkinetic.com/">https://www.wearkinetic.com/</a></p>
+    </div>
+    <div class="usa-width-one-half">
+       <iframe sandbox="allow-same-origin allow-scripts" title="Kinetic" width="100%" height="250" src="https://www.youtube.com/embed/1UAXId9owiY?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen=""></iframe>
+    </div>
   </div>
 </div>
+
+<!--<div class="background-light-blue">
+  <div class="usa-section usa-content usa-grid">
+   <div class="image-video">
+    <div class="usa-width-one-half">
+      <iframe sandbox="allow-same-origin allow-scripts" title="Kinetic" width="100%" height="250" src="https://www.youtube.com/embed/1UAXId9owiY?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen=""></iframe>
+    </div>
+     <div class="usa-width-one-half">
+      <h3>Small, wearable device to reduce workplace injuries</h3>
+      <p>Kinetic created a small, wearable device to reduce common workplace injuries. Loaded with sensors that detect motion, twisting, bending and lifting, the device is attached to the belt or waistband of construction, factory or delivery workers. If the device detects improper biomechanics – bad posture or lifting stance – it will “buzz” to alert the worker to correct his or her stance and avert common back injuries.</p>
+      <p>To learn more visit: <a href="https://www.wearkinetic.com/">https://www.wearkinetic.com/</a></p>
+    </div>
+    
+  </div>
+  </div>
+</div>-->
 {% endcapture %}
 
 {% include tech-topic.html desc=tt_description features=tt_features %}
