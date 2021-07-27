@@ -15,12 +15,15 @@ The medical devices topic is not aimed at supporting or conducting clinical tria
 
 {% capture tt_features %}
 <div class="usa-section usa-content usa-grid">
-  <h3>FEATURE 1</h3>
-</div>
-
-<div class="background-light-blue">
-  <div class="usa-section usa-content usa-grid">
-    <h3>FEATURE 2</h3>
+  <div class="image-video">
+    <div class="usa-width-one-half">
+      <h3>Device to treat stress urinary incontinence in women</h3>
+      <p>Elidah created a medical device to help women with stress urinary incontinence - the inability to control the urge to urinate - a condition which impacts about one in three women.</p>
+      <p>To learn more visit: <a href="https://www.elidah.com/">https://www.elidah.com/</a></p>
+    </div>
+    <div class="usa-width-one-half">
+      <iframe sandbox="allow-same-origin allow-scripts" title="Elidah" width="100%" height="250" src="https://www.youtube.com/embed/ksxUK6OWpOA?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen=""></iframe>
+    </div>
   </div>
 </div>
 {% endcapture %}
