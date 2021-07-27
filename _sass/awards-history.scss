@@ -111,17 +111,16 @@
     }
 
     .awards-history-grid-view {
-      // display: none;
-      position: absolute;
-      top: 3.25rem;
-      right: 0;
-      z-index: 10;
+      flex-grow: 1;
+      text-align: right;
+      white-space: nowrap;
 
       button {
-        margin: 0;
+        margin: 1.5rem 0 0 0;
         padding: 0;
         border: 0;
-        font-size: 1.7rem;
+        font-size: 0.9em;
+        letter-spacing: -0.05em;
         font-weight: normal;
         color: #333;
         background: none;
@@ -145,31 +144,47 @@
       clear: right;
       margin-left: 7em;
 
+      .flbv-container {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        > div {
+          margin: 0 1rem;
+
+          &:first-child { margin-left: 0; }
+          &:last-child { margin-right: 0; }
+        }
+      }
+
       .dataTables_length {
-        margin-top: 1.2em;
-        margin-left: 2em;
+        flex-grow: 0;
 
         label {
-          margin-top: 0;
+          margin-top: 0.25em;
+          font-weight: bold;
+          font-size: 0.9em;
+          letter-spacing: -0.05em;
+          white-space: nowrap;
         }
 
         select {
-          display: inline-block;
-          width: 4em;
+          display: block;
           font-size: 1em;
           background-size: 1rem;
           background-position: right 0.7rem center;
           background-color: white;
           padding: 0 5px;
           height: 3.6rem;
+          font-weight: normal;
         }
       }
 
       .dataTables_filter {
-        float: left;
+        flex-grow: 0;
         text-align: left;
-        margin-bottom: 2em;
         position: relative;
+        width: 16rem;
 
         label {
           margin-top: 0.25em;
@@ -184,7 +199,7 @@
           background: white;
           font-weight: normal;
           max-width: unset;
-          width: auto;
+          width: 91%;
         }
 
         .help-icon {
@@ -200,26 +215,28 @@
       }
 
       .dt-buttons {
+        flex-grow: 1;
         position: relative;
-        width: 12em;
+        text-align: right;
 
         .history-download-alert {
           position: absolute;
-          top: 5em;
+          top: -2rem;
+          right: 0;
           padding: 0.5em;
           font-size: 0.6em;
           font-weight: 600;
-          color: #900;
+          color: #f00;
+          width: 20rem;
+          text-align: left;
           display: none;
         }
       }
 
       .dt-buttons, .dl-csv {
-        float: right;
-        margin-top: .6em;
-
         button {
           min-width: unset;
+          margin: 1.6rem 0 0 0;
 
           &:hover {
             color: black;
@@ -230,6 +247,88 @@
 
       .dl-csv {
         display: none;
+      }
+
+      #copy-url {
+        flex-grow: 0;
+        button {
+          margin: 1.5rem 0 0 0;
+          min-width: unset;
+          background: none;
+
+          &:hover {
+            background: #FFE61A;
+          }
+        }
+
+        .success {
+          position: absolute;
+          color: #3ab79b;
+          background: #000;
+          font-size: 1.2rem;
+          font-weight: bold;
+          padding: 0.7rem;
+          top: -1rem;
+          right: -99999rem;
+          opacity: 0;
+
+          &.show {
+            right: 0;
+            opacity: 1;
+            transition: opacity 200ms linear;
+            -webkit-transform-style: preserve-3d;
+            -moz-transform-style: preserve-3d;
+            transform-style: preserve-3d;
+            -webkit-backface-visibility: hidden;
+            -moz-backface-visibility: hidden;
+            backface-visibility: hidden;
+          }
+        }
+      }
+
+      @media screen and (max-width: 767px) {
+        .flbv-container {
+          display: block;
+          height: 13rem;
+          position: relative;
+
+          .dataTables_filter {
+            position: absolute;
+            top: 0;
+            left: 0;
+          }
+          .dataTables_length {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            margin: 0;
+
+            select { margin-bottom: 0 }
+          }
+          .dt-buttons {
+            position: absolute;
+            top: 0;
+            right: 0;
+            margin: 0;
+          }
+          .awards-history-grid-view {
+            position: absolute;
+            top: 1rem;
+            right: 0;
+            margin: 1rem 0 0 0;
+          }
+          #copy-url {
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            margin: 0;
+          }
+        }
+      }
+
+      .x-scrollable {
+        width: 100%;
+        overflow-x: auto;
       }
 
       .dataTable {
