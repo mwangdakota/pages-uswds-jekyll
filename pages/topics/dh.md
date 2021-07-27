@@ -18,7 +18,7 @@ The Digital Health topic aims to support the early-stage development of novel de
   <div class="image-video">
     <div class="usa-width-one-half">
       <h3>'Moxi' the robot that supports nurses</h3>
-      <pDiligent Robotics, a small business funded by the National Science Foundation (NSF), created “Moxi,” a robot that supports clinical staff teams in acute care hospitals by executing logistical tasks so staff can focus on direct human care.</p>
+      <p>Diligent Robotics, a small business funded by the National Science Foundation (NSF), created “Moxi,” a robot that supports clinical staff teams in acute care hospitals by executing logistical tasks so staff can focus on direct human care.</p>
       <p>To learn more visit: <a href="https://diligentrobots.com/">https://diligentrobots.com/</a></p>
     </div>
     <div class="usa-width-one-half">
