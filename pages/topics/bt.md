@@ -21,13 +21,12 @@ Proposed projects should be focused on using or modifying living organisms, syst
       <p>Living Ink Technologies, a small business funded by the National Science Foundation (NSF), is developing ink from algae cells. The Colorado-based biomaterials company is “changing the way pigments are made” to use algae as a colorant. Its sustainable algae products could replace ink made from petroleum.</p>
       <p>To learn more visit: <a href="https://livingink.co/">https://livingink.co/</a></p>
     </div>
-    <!--
     <div class="usa-width-one-half">
       <iframe sandbox="allow-same-origin allow-scripts" title="Living Ink" width="100%" height="250" src="https://www.youtube.com/embed/f5iYvMtqTAo?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen=""></iframe>
     </div>
   </div>
 </div>
-<div class="background-light-blue">
+<!--<div class="background-light-blue">
   <div class="usa-section usa-content usa-grid">
   </div>
 </div>-->
