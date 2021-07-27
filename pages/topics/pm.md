@@ -13,14 +13,18 @@ The Power Management topic address the development of novel technologies that en
 
 {% capture tt_features %}
 <div class="usa-section usa-content usa-grid">
-  <h3>FEATURE 1</h3>
-</div>
-
-<div class="background-light-blue">
-  <div class="usa-section usa-content usa-grid">
-    <h3>FEATURE 2</h3>
+  <div class="image-video">
+    <div class="usa-width-one-half">
+      <h3>Energy router handles complex electrical distribution</h3>
+      <p>GridBridge, a small business funded by the National Science Foundation, developed the Grid Energy Router to manage variations in energy production and demand, and ensure that energy flows smoothly from production sources to users.</p>
+      <p>To learn more visit: <a href="http://www.grid-bridge.com/">http://www.grid-bridge.com/</a></p>
+    </div>
+    <div class="usa-width-one-half">
+      <iframe sandbox="allow-same-origin allow-scripts" title="GridBridge" width="100%" height="250" src="https://www.youtube.com/embed/1uzXCyZVebk" frameborder="0" allowfullscreen=""></iframe>
+    </div>
   </div>
 </div>
+
 {% endcapture %}
 
 {% include tech-topic.html desc=tt_description features=tt_features %}
