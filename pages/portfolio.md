@@ -36,7 +36,7 @@ layout: secondary
       </a>
     {% endfor %}</div>
 
-    <p>Download a <a href="../../assets/files/applicants/combined-topics-01-2020.pdf">searchable PDF</a> of the full list of technology topic areas that also includes descriptions of the subtopics.</p>
+    <p>Download a <a href="{{ site.baseurl }}/assets/files/applicants/combined-topics-01-2020.pdf">searchable PDF</a> of the full list of technology topic areas that also includes descriptions of the subtopics.</p>
   </div>
 </section>
 
