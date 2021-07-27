@@ -12,19 +12,6 @@ The Cybersecurity and Authentication topic focuses on innovations related to the
 {% endcapture %}
 
 {% capture tt_features %}
-<div class="usa-section usa-content usa-grid">
-  <div class="image-video">
-    <div class="usa-width-one-half">
-      <h3>ClearFlame Engine Technologies</h3>
-      <p>ClearFlame Engine Technologies, a small business funded by the National Science Foundation (NSF), has developed a novel engine technology that allows diesel engines to run on any fuel.</p>
-      <p>To learn more visit: <a href="#">http://project-example.com</a></p>
-    </div>
-    <div class="usa-width-one-half">
-      <iframe sandbox="allow-same-origin allow-scripts" title="ClearFlame Engine Technologies" width="100%" height="250" src="https://www.youtube.com/embed/XDEgLYwdKP4?modestbranding=1&amp;showinfo=0&amp;fs=1" frameborder="0" allowfullscreen=""></iframe>
-    </div>
-  </div>
-</div>
-
 <div class="background-light-blue">
   <div class="usa-section usa-content usa-grid">
     <h3>Monitoring internal and external network performance - ThousandEyes</h3>
