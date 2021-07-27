@@ -13,12 +13,15 @@ The Human Computer Interaction (HC) topic aims to support the early-stage develo
 
 {% capture tt_features %}
 <div class="usa-section usa-content usa-grid">
-  <h3>FEATURE 1</h3>
-</div>
-
-<div class="background-light-blue">
-  <div class="usa-section usa-content usa-grid">
-    <h3>FEATURE 2</h3>
+  <div class="image-video">
+    <div class="usa-width-one-half">
+      <h3>Accessible, multisensory content for visually impaired students</h3>
+      <p>Vital, a small business funded by the National Science Foundation (NSF), is developing touchscreen-based software that translates visual educational content into accessible, multisensory content for students with special needs.</p>
+      <p>To learn more visit: <a href="https://www.vital.education/">https://www.vital.education/</a></p>
+    </div>
+    <div class="usa-width-one-half">
+      <iframe sandbox="allow-same-origin allow-scripts" title="Vital" width="100%" height="250" src="https://www.youtube.com/embed/iKqpWy_9KSE" frameborder="0" allowfullscreen=""></iframe>
+    </div>
   </div>
 </div>
 {% endcapture %}
