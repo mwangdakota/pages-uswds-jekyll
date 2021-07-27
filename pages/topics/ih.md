@@ -11,16 +11,15 @@ section_image_caption: |
 The Instrumentation and Hardware Systems topic addresses the research and development of new and improved instrumentation and related systems for a wide variety of commercial and industrial applications. Proposals in this topic may deal with new instruments for use in scientific, industrial, engineering, or manufacturing environments, among others. Types of instruments that will be considered include systems and tools designed for the purposes of detection, manipulation, characterization, measurement, processing, control, and/or monitoring. A wide variety of applications areas will be considered as part of this topic.
 {% endcapture %}
 
-{% capture tt_features %}
+{% capture tt_features %}<!--
 <div class="usa-section usa-content usa-grid">
   <h3>FEATURE 1</h3>
 </div>
-
 <div class="background-light-blue">
   <div class="usa-section usa-content usa-grid">
     <h3>FEATURE 2</h3>
   </div>
-</div>
+</div>-->
 {% endcapture %}
 
 {% include tech-topic.html desc=tt_description features=tt_features %}
