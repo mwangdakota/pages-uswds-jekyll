@@ -12,7 +12,7 @@ The Augmented and Virtual Reality topic aims to support the early-stage developm
 {% endcapture %}
 
 {% capture tt_features %}
-<div class="usa-section usa-content usa-grid">
+<!--<div class="usa-section usa-content usa-grid">
   <div class="image-video">
     <div class="usa-width-one-half">
       <h3>ClearFlame Engine Technologies</h3>
@@ -24,7 +24,6 @@ The Augmented and Virtual Reality topic aims to support the early-stage developm
     </div>
   </div>
 </div>
-
 <div class="background-light-blue">
   <div class="usa-section usa-content usa-grid">
     <h3>Monitoring internal and external network performance - ThousandEyes</h3>
@@ -42,7 +41,7 @@ The Augmented and Virtual Reality topic aims to support the early-stage developm
     </div>
     <div style="clear:both" />
   </div>
-</div>
+</div>-->
 {% endcapture %}
 
 {% include tech-topic.html desc=tt_description features=tt_features %}
