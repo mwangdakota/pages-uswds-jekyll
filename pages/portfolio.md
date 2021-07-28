@@ -26,7 +26,7 @@ layout: secondary
       <a href="{{ site.baseurl }}/awardees/phase-1/" class="usa-button usa-button-primary">CURRENT PHASE I AWARDEES</a>
       <a href="{{ site.baseurl }}/awardees/phase-2/" class="usa-button usa-button-primary">CURRENT PHASE II AWARDEES</a>
       <a href="{{ site.baseurl }}/covid-awards-phase-1/" class="usa-button usa-button-primary">COVID-19 RELATED AWARDS</a>
-      <a href="{{ site.baseurl }}/awardees/history/" class="usa-button usa-button-primary">VIEW ALL AWARDEES</a>
+      <a href="{{ site.baseurl }}/awardees/history/" class="usa-button usa-button-secondary">VIEW ALL AWARDEES</a>
     </p>
 
     <div class="topic-grid">{% for topic in site.data.tech-topics %}
