@@ -32,8 +32,8 @@ America’s Seed Fund is a program within the <a href="https://www.nsf.gov/" tar
 
 <div class="usa-width-one-half">
   <h3>Our Mission</h3>
-  <p>We focus on high-risk, high-impact technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award $200 million in funding to entrepreneurs across the country.</p>
-  <p>Our goals are to foster innovation and help create businesses and jobs in the United States, and companies seed funded by our program have since gone on to tremendous success. We are a congressionally mandated program — Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR).</p>
+  <p>We focus on transforming scientific and engineering discoveries into products and services with commercial and societal impact. The deep technologies we fund show promise but their success hasn’t yet been validated. And, each year, we award $200+ million in funding to startups across the country.</p>
+  <p>Our goals are to foster innovation and help create businesses and jobs in the United States, and companies funded by our program have since gone on to tremendous success, changing industries, and helping people and the planet. We are a congressionally mandated program — Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR).</p>
             <p><a href="{{ site.baseurl }}/portfolio/" class="usa-button usa-button-primary">VIEW OUR PORTFOLIO</a></p>
 </div>
 
