@@ -27,9 +27,10 @@ wireless sensor that does not need cables or batteries to be “the eyes” on t
 feedback from customers and establish a proof of concept around our innovation. Without the support of the National Science Foundation, I would have not been able
 to start the company and commence demonstrating the technical merits of the innovation to customers.</p></blockquote>
 
+    Reamonn Soto, Founder of Sensatek Propulsion Technology, Inc  
 </div>
 
-Reamonn Soto, Founder of Sensatek Propulsion Technology, Inc  
+
 
 </div>
 
