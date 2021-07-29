@@ -23,12 +23,12 @@ wireless sensor that does not need cables or batteries to be “the eyes” on t
 
 <img src="{{ site.baseurl }}/assets/img/showcase/reamonn_soto.png" alt="reamonn soto" width="150px" />
 
-<blockquote> <p>The NSF helped me develop our technology with the early-adopting customer in mind. The SBIR funding helped us overcome the highest technical risk based on
+<blockquote>The NSF helped me develop our technology with the early-adopting customer in mind. The SBIR funding helped us overcome the highest technical risk based on
 feedback from customers and establish a proof of concept around our innovation. Without the support of the National Science Foundation, I would have not been able
-to start the company and commence demonstrating the technical merits of the innovation to customers.</p></blockquote>
+to start the company and commence demonstrating the technical merits of the innovation to customers.<br>
+  <strong>Reamonn Soto, Founder of Sensatek Propulsion Technology, Inc </strong></blockquote>
  
 </div>
-  <p>Reamonn Soto, Founder of Sensatek Propulsion Technology, Inc </p> 
 
 </div>
 
