@@ -15,11 +15,11 @@ The Instrumentation and Hardware Systems topic addresses the research and develo
 <div class="usa-section usa-content usa-grid">
   <h3>Sensatek Propulsion Technology, Inc.</h3>
   
-  <div><p style="max-width:100%;">Florida <br>Sensatek Propulsion Technology develops ceramic materials derived from fused polymers for wireless sensors on the most extreme parts of an engine. This technology, led by a Marine Corps veteran, may be used for aircraft such as F-18s or Air Force One. These passive resonant frequency antennas create a
+  <div><p style="max-width:100%;">Sensatek Propulsion Technology develops ceramic materials derived from fused polymers for wireless sensors on the most extreme parts of an engine. This technology, led by a Marine Corps veteran, may be used for aircraft such as F-18s or Air Force One. These passive resonant frequency antennas create a
 wireless sensor that does not need cables or batteries to be “the eyes” on the costliest parts of gas turbine engines. The wireless sensors are sprayed directly on blades to provide temperature data that feeds into remaining useful life models to further predict outages. The sensors can withstand temperatures up to 800°C and speeds up to 126,000 revolutions per minute (rpm) to increase the efficiency of engines and determine how long the parts will last, allowing manufacturers to schedule maintenance, and saving money.</p>
       </div>
   
-  <div class="quote-content" markdown="1">
+  <div class="quote-content showcase-quote" markdown="1">
 
 ![Reamonn Soto]({{ site.baseurl }}/assets/img/showcase/reamonn_soto.png)
 
