@@ -35,7 +35,7 @@ Proposed projects should be focused on using or modifying living organisms, syst
     <div class="usa-width-one-half">
       <h3>Technology helps create bio-engineered organs for human transplant</h3>
       <p>More than 120,000 people are on the national organ transplant waiting list, and the list continues to grow. To meet this need, Miromatrix Medical, a small business funded by the National Science Foundation (NSF), is developing a technology to create bio-engineered organs for human transplant.</p>
-      <p>To learn more visit: <a href="www.miromatrix.com/">www.miromatrix.com/</a></p>
+      <p>To learn more visit: <a href="https://www.miromatrix.com/">www.miromatrix.com/</a></p>
     </div>
    
   </div>
