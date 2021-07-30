@@ -35,15 +35,15 @@ America’s Seed Fund is a program within the <a href="https://www.nsf.gov/" tar
   <h3>Our Mission</h3>
   <p>We focus on transforming scientific and engineering discoveries into products and services with commercial and societal impact. The deep technologies we fund show promise but their success hasn’t yet been validated. And, each year, we award $200+ million to about 400 startups across the United States.</p>
   <p>Our goals are to foster innovation and help create businesses and jobs in all areas of the United States, and small businesses funded by our program have since gone on to tremendous success, changing industries, and helping people and the planet. We are a congressionally mandated program — Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR).</p>
-            <p><a href="{{ site.baseurl }}/portfolio/" class="usa-button usa-button-primary">VIEW OUR PORTFOLIO</a></p>
+           
 </div>
 
 <div class="usa-width-one-half">
 
 <h3>What We Do</h3>
            <p>We fund startups to create the next game-changing technologies -- often based on fundamental science or engineering -- in need research and development to create new products, services, and other scalable solutions. They've got an idea that is not a straightforward engineering or incremental product development task. In selected cases, we support innovations to existing products and services, but these innovations must dramatically change the products’ commercial prospects. We don’t fund work that simply improves existing products. Check out our portfolio to get a sense of our founders’ work.</p><p>Most of the startups we fund have fewer than five employees, are recently formed and haven't received funding from the government before.</p>
-            <p><a href="{{ site.baseurl }}/apply/get-started/" class="usa-button usa-button-primary">LEARN HOW IT WORKS</a></p>
-          </div>
+   <p><a href="{{ site.baseurl }}/portfolio/" class="usa-button usa-button-primary">VIEW OUR PORTFOLIO</a></p>
+            </div>
         </div>
 </section>
 
@@ -57,7 +57,7 @@ America’s Seed Fund is a program within the <a href="https://www.nsf.gov/" tar
   <ul>
 
 <li>
-                <h3>Up to $2M / 24+ months</h3>
+                <h3>Up to $2M / 36+ months</h3>
                 Receive up to $256,000 in non-dilutive funding for research and development (R&D) to build your prototype or proof-of-concept over six to 12 months. During this period, your company will receive guidance from NSF program directors who are seasoned entrepreneurs and technologists. After you complete your Phase I award, you’re welcome to apply for Phase II,  which can be up to $1,000,000 over the course of 24 months. During that second award, you can apply for supplements that may add up to more than $500,000.
               </li>
               <li>
@@ -70,7 +70,7 @@ America’s Seed Fund is a program within the <a href="https://www.nsf.gov/" tar
               </li>
               <li>
                 <h3>0% equity</h3>
-                You retain full ownership over your company and intellectual property. And because our awards aren’t loans, there’s nothing to pay back.
+                Our awards are grants and cooperative agreements. You retain full ownership over your company and intellectual property. And because our awards aren’t loans, there’s nothing to pay back.
               </li>
               <li>
                 <h3>Major societal impact</h3>
