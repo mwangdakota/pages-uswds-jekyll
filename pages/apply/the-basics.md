@@ -1,6 +1,6 @@
 ---
 title: How It Works - The Basics
-permalink: /apply/understand-basics/
+permalink: /apply/the-basics/
 layout: secondary-narrow
 page-class: gdd-apply
 ---
