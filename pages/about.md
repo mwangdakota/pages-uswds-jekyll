@@ -40,7 +40,7 @@ America’s Seed Fund is a program within the <a href="https://www.nsf.gov/" tar
 <div class="usa-width-one-half">
 
 <h3>What We Do</h3>
-            <p>Through the merit review process, NSF funds the most innovative ideas in science and technology. Notable NSF-supported advances include Doppler radar, the Internet, web browsers, bar codes, magnetic resonance imaging, inkjet printers, computer-aided design systems, tissue engineering, and other technology-based innovations that spur economic activity and improve the quality of life for all Americans.</p>
+            <p>Through the merit review process, NSF funds the most innovative ideas in science and technology. Notable NSF-supported advances include LASIK eye surgery, Doppler radar, the Internet, web browsers, bar codes, magnetic resonance imaging, inkjet printers, computer-aided design systems, tissue engineering, and other technology-based innovations that spur economic activity and improve the quality of life for all Americans.</p>
             <p>In selected cases, we support innovations to existing products and services, but these innovations must dramatically change the products’ commercial prospects. We don’t fund work that simply improves existing products. Check out our portfolio to get a sense of our founders’ work.</p>
             <p><a href="{{ site.baseurl }}/apply/get-started/" class="usa-button usa-button-primary">LEARN HOW IT WORKS</a></p>
           </div>
@@ -58,7 +58,7 @@ America’s Seed Fund is a program within the <a href="https://www.nsf.gov/" tar
 
 <li>
                 <h3>Up to $2M / 24+ months</h3>
-                Receive up to $256,000 in seed capital to conduct product Research and Development (R&D) over six to 12 months. During this period, your company will be immersed in the NSF network and you’ll receive training and mentorship from seasoned entrepreneurs and innovators. After you complete your Phase I award, you’re welcome to apply for a second-round investment of $1,000,000 over 24 months. During the course of that award, you can apply for supplements that may add up to another $500,000.
+                Receive up to $256,000 in non-dilutive funding for research and development (R&D) to build your prototype or proof-of-concept over six to 12 months. During this period, your company will receive guidance from NSF program directors who are seasoned entrepreneurs and technologists. After you complete your Phase I award, you’re welcome to apply for Phase II,  which can be up to $1,000,000 over the course of 24 months. During that second award, you can apply for supplements that may add up to more than $500,000.
               </li>
               <li>
                 <h3>Feedback from experts</h3>
@@ -66,7 +66,7 @@ America’s Seed Fund is a program within the <a href="https://www.nsf.gov/" tar
               </li>
               <li>
                 <h3>NSF’s Merit Review Process</h3>
-                An NSF award is more than just funding. Being selected by experts out of thousands of applicants signals that your technology and expertise have strong technical and commercial merit.
+                An NSF award is more than just funding. Being selected by experts out of thousands of applicants signals that your technology and expertise have strong technical and commercial merit with potential for broad impact.
               </li>
               <li>
                 <h3>0% equity</h3>
@@ -74,7 +74,7 @@ America’s Seed Fund is a program within the <a href="https://www.nsf.gov/" tar
               </li>
               <li>
                 <h3>Major societal impact</h3>
-                We don’t have the same financial incentives as most investors, so we can make impact investments that may take longer to provide a financial return. Our goal is to invest in a better future for our shareholders: the American public.
+                We don’t have the same financial incentives as most investors, so we can make impact investments that may potentially help billions of people and take longer to provide a financial return. Our goal is to invest in a better future for our shareholders: the American public.
               </li>
               <li>
                 <h3>Minimal standard reporting</h3>
@@ -102,7 +102,7 @@ America’s Seed Fund is a program within the <a href="https://www.nsf.gov/" tar
  <div class="step-banner">
             <a class="step-banner__content" href="{{ site.baseurl }}/apply/get-started/">
               <h2>Ready to Learn More?</h2>
-              <p>We invest up to $2 million in seed funding and take zero equity. We’re looking for companies that are transformative, high-risk, have a market pull, and are scaleable.</p>
+              <p>We invest up to $2 million in seed funding and take zero equity. We’re looking for scalable companies that are transformative, have deep technological innovation and market pull.</p>
               <p><b>Get Started Today</b></p>
             </a>
           </div>
@@ -117,6 +117,5 @@ America’s Seed Fund is a program within the <a href="https://www.nsf.gov/" tar
 
 America's Seed Fund is a program within the <a href="https://www.nsf.gov/" target="_blank">National Science Foundation</a> and housed within the <a href="https://www.nsf.gov/div/index.jsp?div=IIP" target="_blank">Division of Industrial Innovation and Partnerships</a> within the Directorate of Engineering. NSF is a federal agency that supports fundamental research and education across all fields of science and engineering, currently with an $8.5 billion budget.
 
-Through the merit review process, NSF funds the most innovative ideas in science and technology. Notable NSF-supported advances include Doppler radar, the Internet, web browsers, bar codes, magnetic resonance imaging, inkjet printers, computer-aided design systems, tissue engineering, and other technology-based innovations that spur economic activity and improve the quality of life for all Americans.
 </div>
 </section>
