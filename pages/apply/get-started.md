@@ -95,7 +95,7 @@ page-class: gdd-apply
 <section class="usa-section full-bleed-bg">
   <div class="step-banner">
     <a class="step-banner__content"
-      href="{{ site.baseurl }}/apply/understand-basics/">
+      href="{{ site.baseurl }}/apply/the-basics/">
       <h2>Step 1: The basics</h2>
       <p>Learn about what we fund, the basics of eligibility and review our topic areas.</p>
     </a>
