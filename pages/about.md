@@ -17,7 +17,7 @@ section_image_caption: |
 # About NSF
 
 America’s Seed Fund is a program within the <a href="https://www.nsf.gov/" target="_blank">National Science Foundation</a> and housed within the <a href="https://www.nsf.gov/div/index.jsp?div=IIP" target="_blank">Division of Industrial Innovation and Partnerships</a> within the Directorate of Engineering. NSF is a federal agency that supports research and education across all fields of science and engineering, currently with an $8.5 billion budget.
-   <p>Through the merit review process, NSF funds the most innovative ideas in science and technology. Notable NSF-supported advances include LASIK eye surgery, Doppler radar, the Internet, web browsers, bar codes, magnetic resonance imaging, inkjet printers, computer-aided design systems, tissue engineering, and other technology-based innovations that spur economic activity and improve the quality of life for all Americans.</p>
+   <p>Through the merit review process, NSF funds the most innovative ideas in science and engineering. Notable NSF-supported advances include LASIK eye surgery, Doppler radar, the Internet, web browsers, bar codes, magnetic resonance imaging, inkjet printers, computer-aided design systems, tissue engineering, and other technology-based innovations that spur economic activity and improve the quality of life for all Americans.</p>
 
 </div>
 </div>
