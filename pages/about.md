@@ -16,7 +16,8 @@ section_image_caption: |
 
 # About NSF
 
-America’s Seed Fund is a program within the <a href="https://www.nsf.gov/" target="_blank">National Science Foundation</a> and housed within the <a href="https://www.nsf.gov/div/index.jsp?div=IIP" target="_blank">Division of Industrial Innovation and Partnerships</a> within the Directorate of Engineering. NSF is a federal agency that supports fundamental research and education across all fields of science and engineering, currently with an $8.5 billion budget.
+America’s Seed Fund is a program within the <a href="https://www.nsf.gov/" target="_blank">National Science Foundation</a> and housed within the <a href="https://www.nsf.gov/div/index.jsp?div=IIP" target="_blank">Division of Industrial Innovation and Partnerships</a> within the Directorate of Engineering. NSF is a federal agency that supports research and education across all fields of science and engineering, currently with an $8.5 billion budget.
+   <p>Through the merit review process, NSF funds the most innovative ideas in science and technology. Notable NSF-supported advances include LASIK eye surgery, Doppler radar, the Internet, web browsers, bar codes, magnetic resonance imaging, inkjet printers, computer-aided design systems, tissue engineering, and other technology-based innovations that spur economic activity and improve the quality of life for all Americans.</p>
 
 </div>
 </div>
@@ -40,8 +41,7 @@ America’s Seed Fund is a program within the <a href="https://www.nsf.gov/" tar
 <div class="usa-width-one-half">
 
 <h3>What We Do</h3>
-            <p>Through the merit review process, NSF funds the most innovative ideas in science and technology. Notable NSF-supported advances include LASIK eye surgery, Doppler radar, the Internet, web browsers, bar codes, magnetic resonance imaging, inkjet printers, computer-aided design systems, tissue engineering, and other technology-based innovations that spur economic activity and improve the quality of life for all Americans.</p>
-            <p>In selected cases, we support innovations to existing products and services, but these innovations must dramatically change the products’ commercial prospects. We don’t fund work that simply improves existing products. Check out our portfolio to get a sense of our founders’ work.</p>
+           <p>We fund startups to create the next game-changing technologies -- often based on fundamental science or engineering -- in need research and development to create new products, services, and other scalable solutions. Most of the startups we fund are recently formed and haven't received funding from the government before. They've got an idea that is not a straightforward engineering or incremental product development task.<p>In selected cases, we support innovations to existing products and services, but these innovations must dramatically change the products’ commercial prospects. We don’t fund work that simply improves existing products. Check out our portfolio to get a sense of our founders’ work.</p>
             <p><a href="{{ site.baseurl }}/apply/get-started/" class="usa-button usa-button-primary">LEARN HOW IT WORKS</a></p>
           </div>
         </div>
