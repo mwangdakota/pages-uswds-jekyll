@@ -17,7 +17,7 @@ page-class: gdd-apply
         <div class="apply-timeline__main">
           <div class="apply-timeline__content">
             <h3 class="apply-timeline__title">
-              <a href="{{ site.baseurl }}/apply/understand-basics/">
+              <a href="{{ site.baseurl }}/apply/the-basics/">
                 The basics
               </a>
             </h3>
