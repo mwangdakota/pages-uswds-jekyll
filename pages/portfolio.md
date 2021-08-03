@@ -17,10 +17,10 @@ layout: secondary
 
 <section class="full-bleed-bg">
   <div class="usa-section usa-content usa-grid">
-    <h2>We fund a variety of tech sectors</h2>
-    <p class="text-medium">Each year, we fund roughly 400 companies across nearly all technology and market sectors. Select a topic area below to see topic <b>success</b> stories, featured <b>phase I and phase II companies</b>, and <b>program director information</b>.</p>
+    <h2>We fund almost all areas of technology</h2>
+    <p class="text-medium">Each year, we fund roughly 400 companies across nearly all technology areas and market sectors (with the exception of clinical trials and schedule I controlled substances). Select a topic area below to read more about the topic, see featured <b>Phase I and Phase II success stories</b>, and <b>find program director information</b>.</p>
 
-    <p>If you’re interested in seeing all of our current awardees (who are still completing the research outlined in their proposals and who haven’t yet reached the estimated ends of their award terms)...</p>
+    <p>Browse lists of our current Phase I and Phase II awardees, who are still completing the research outlined in their proposals, view a list of awards to combat COVID-19, and see all of the awards we've made over the last 10 years.</p>
 
     <p>
       <a href="{{ site.baseurl }}/awardees/phase-1/" class="usa-button usa-button-primary">CURRENT PHASE I AWARDEES</a>
