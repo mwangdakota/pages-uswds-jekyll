@@ -16,7 +16,7 @@ section_image_caption: |
 
 # About America's Seed Fund powered by NSF
 
-We focus on transforming scientific and engineering discoveries into products and services with commercial and societal impact. The deep technologies we fund show promise but their success hasn’t yet been validated. And, each year, we award $200+ million to about 400 startups across the United States.America’s Seed Fund is a program within the <a href="https://www.nsf.gov/" target="_blank">National Science Foundation</a> and housed within the <a href="https://www.nsf.gov/div/index.jsp?div=IIP" target="_blank">Division of Industrial Innovation and Partnerships</a> within the Directorate for Engineering.
+We focus on transforming scientific and engineering discoveries into products and services with commercial and societal impact. The deep technologies we fund show promise but their success hasn’t yet been validated. And, each year, we award $200+ million to about 400 startups across the United States. America’s Seed Fund is a program within the <a href="https://www.nsf.gov/" target="_blank">National Science Foundation</a> and housed within the <a href="https://www.nsf.gov/div/index.jsp?div=IIP" target="_blank">Division of Industrial Innovation and Partnerships</a> within the Directorate for Engineering.
 
 </div>
 </div>
@@ -38,7 +38,7 @@ We focus on transforming scientific and engineering discoveries into products an
 </div>
 
 <div class="usa-width-one-half">
-
+  </section>
 <h3>What We Do</h3>
            <p>We fund startups to create the next game-changing technologies -- often based on fundamental science or engineering -- in need of research and development to create new products, services, and other scalable solutions. The project we fund must have the potential to positively benefit society and to lead to significant outcomes in the commercial market. Most of the startups we fund have fewer than five employees, are recently formed and haven't received funding from the government before.</p><p>Check out our portfolio to get a sense of our founders’ work.</p>
    <p><a href="{{ site.baseurl }}/portfolio/" class="usa-button usa-button-primary">VIEW OUR PORTFOLIO</a></p>
