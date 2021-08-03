@@ -16,8 +16,7 @@ section_image_caption: |
 
 # About America's Seed Fund powered by NSF
 
-America’s Seed Fund is a program within the <a href="https://www.nsf.gov/" target="_blank">National Science Foundation</a> and housed within the <a href="https://www.nsf.gov/div/index.jsp?div=IIP" target="_blank">Division of Industrial Innovation and Partnerships</a> within the Directorate for Engineering. NSF is a federal agency that supports research and education across all fields of science and engineering, currently with an $8.5 billion budget.
-   <p>Through the merit review process, NSF funds the most innovative ideas in science and engineering. Notable NSF-supported advances include LASIK eye surgery, Doppler radar, the Internet, web browsers, bar codes, magnetic resonance imaging, inkjet printers, computer-aided design systems, tissue engineering, and other technology-based innovations that spur economic activity and improve the quality of life for all Americans.</p>
+    <p>We focus on transforming scientific and engineering discoveries into products and services with commercial and societal impact. The deep technologies we fund show promise but their success hasn’t yet been validated. And, each year, we award $200+ million to about 400 startups across the United States.America’s Seed Fund is a program within the <a href="https://www.nsf.gov/" target="_blank">National Science Foundation</a> and housed within the <a href="https://www.nsf.gov/div/index.jsp?div=IIP" target="_blank">Division of Industrial Innovation and Partnerships</a> within the Directorate for Engineering. </p>
 
 </div>
 </div>
@@ -33,7 +32,6 @@ America’s Seed Fund is a program within the <a href="https://www.nsf.gov/" tar
 
 <div class="usa-width-one-half">
   <h3>Our Mission</h3>
-  <p>We focus on transforming scientific and engineering discoveries into products and services with commercial and societal impact. The deep technologies we fund show promise but their success hasn’t yet been validated. And, each year, we award $200+ million to about 400 startups across the United States.</p>
   <p>Our goals are to foster innovation and help create businesses and jobs in all areas of the United States, and small businesses funded by our program have since gone on to tremendous success, changing industries, and helping people and the planet. We are a congressionally mandated program — Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR).</p>
            
 </div>
@@ -41,7 +39,7 @@ America’s Seed Fund is a program within the <a href="https://www.nsf.gov/" tar
 <div class="usa-width-one-half">
 
 <h3>What We Do</h3>
-           <p>We fund startups to create the next game-changing technologies -- often based on fundamental science or engineering -- in need of research and development to create new products, services, and other scalable solutions. They've got an idea that is not a straightforward engineering or incremental product development task. In selected cases, we support innovations to existing products and services, but these innovations must dramatically change the products’ commercial prospects. We don’t fund work that simply improves existing products. Check out our portfolio to get a sense of our founders’ work.</p><p>Most of the startups we fund have fewer than five employees, are recently formed and haven't received funding from the government before.</p>
+           <p>We fund startups to create the next game-changing technologies -- often based on fundamental science or engineering -- in need of research and development to create new products, services, and other scalable solutions. Most of the startups we fund have fewer than five employees, are recently formed and haven't received funding from the government before.</p><p>Check out our portfolio to get a sense of our founders’ work.</p>
    <p><a href="{{ site.baseurl }}/portfolio/" class="usa-button usa-button-primary">VIEW OUR PORTFOLIO</a></p>
             </div>
         </div>
@@ -114,8 +112,9 @@ America’s Seed Fund is a program within the <a href="https://www.nsf.gov/" tar
 <div class="usa-section usa-content usa-grid" markdown="1">  
   
 ## About NSF
-
-America's Seed Fund is a program within the <a href="https://www.nsf.gov/" target="_blank">National Science Foundation</a> and housed within the <a href="https://www.nsf.gov/div/index.jsp?div=IIP" target="_blank">Division of Industrial Innovation and Partnerships</a> within the Directorate of Engineering. NSF is a federal agency that supports fundamental research and education across all fields of science and engineering, currently with an $8.5 billion budget.
+<p>
+The U.S. National Science Foundation is a federal agency that supports research and education across all fields of science and engineering, currently with an $8.5 billion budget.</p>
+   <p>Through the merit review process, NSF funds the most innovative ideas in science and engineering. Notable NSF-supported advances include LASIK eye surgery, Doppler radar, the Internet, web browsers, bar codes, magnetic resonance imaging, inkjet printers, computer-aided design systems, tissue engineering, and other technology-based innovations that spur economic activity and improve the quality of life for all Americans.</p>
 
 </div>
 </section>
