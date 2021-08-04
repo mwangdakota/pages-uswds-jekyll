@@ -16,7 +16,7 @@ section_image_caption: |
 
 # About America's Seed Fund powered by NSF
 
-We focus on transforming scientific and engineering discoveries into products and services with commercial and societal impact. The deep technologies we fund show promise but their success hasn’t yet been validated. And, each year, we award $200+ million to about 400 startups across the United States. America’s Seed Fund is a program within the <a href="https://www.nsf.gov/" target="_blank">National Science Foundation</a> and housed within the <a href="https://www.nsf.gov/div/index.jsp?div=IIP" target="_blank">Division of Industrial Innovation and Partnerships</a> within the Directorate for Engineering. test
+We focus on transforming scientific and engineering discoveries into products and services with commercial and societal impact. The deep technologies we fund show promise but their success hasn’t yet been validated. And, each year, we award $200+ million to about 400 startups across the United States. America’s Seed Fund is a program within the <a href="https://www.nsf.gov/" target="_blank">National Science Foundation</a> and housed within the <a href="https://www.nsf.gov/div/index.jsp?div=IIP" target="_blank">Division of Industrial Innovation and Partnerships</a> within the Directorate for Engineering. 
 
 </div>
 </div>
@@ -27,13 +27,13 @@ We focus on transforming scientific and engineering discoveries into products an
           <h2>Program Overview</h2>
 
  <div class="about__video">
-            <iframe sandbox="allow-same-origin allow-scripts" title="Program Overview" width="530" height="300" src="https://www.youtube.com/watch?v=zkwh7Yk9LsY?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe>
+            <iframe sandbox="allow-same-origin allow-scripts" title="Program Overview" width="530" height="300" src="https://www.youtube.com/watch?v=zkwh7Yk9LsY" frameborder="0"></iframe>
           </div>
   
 <div class="usa-width-one-half">
   <h3>Our Mission</h3>
   
-  <p>Our goals are to foster innovation and help create businesses and jobs in all areas of the United States, and small businesses funded by our program have since gone on to tremendous success, changing industries, and helping people and the planet. 
+  <p>Our goals are to foster innovation and help create businesses and jobs in all areas of the United States, and small businesses funded by our program have since gone on to tremendous success, changing industries, and helping people and the planet. </p>
     <p>We are a congressionally mandated program — Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR).</p>
            
 </div>
