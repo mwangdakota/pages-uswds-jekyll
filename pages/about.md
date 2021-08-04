@@ -27,20 +27,21 @@ We focus on transforming scientific and engineering discoveries into products an
           <h2>Program Overview</h2>
 
  <div class="about__video">
-            <iframe sandbox="allow-same-origin allow-scripts" title="Program Overview" width="530" height="300" src="tps://www.youtube.com/watch?v=zkwh7Yk9LsY?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe>
+            <iframe sandbox="allow-same-origin allow-scripts" title="Program Overview" width="530" height="300" src="https://www.youtube.com/watch?v=zkwh7Yk9LsY?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe>
           </div>
-
+  
 <div class="usa-width-one-half">
   <h3>Our Mission</h3>
+  
   <p>Our goals are to foster innovation and help create businesses and jobs in all areas of the United States, and small businesses funded by our program have since gone on to tremendous success, changing industries, and helping people and the planet. 
     <p>We are a congressionally mandated program — Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR).</p>
            
 </div>
 
 <div class="usa-width-one-half">
-  </section>
 <h3>What We Do</h3>
-           <p>We fund startups to create the next game-changing technologies -- often based on fundamental science or engineering -- in need of research and development to create new products, services, and other scalable solutions. The project we fund must have the potential to positively benefit society and to lead to significant outcomes in the commercial market. Most of the startups we fund have fewer than five employees, are recently formed and haven't received funding from the government before.</p><p>Check out our portfolio to get a sense of our founders’ work.</p>
+           <p>We fund startups to create the next game-changing technologies -- often based on fundamental science or engineering -- in need of research and development to create new products, services, and other scalable solutions. The project we fund must have the potential to positively benefit society and to lead to significant outcomes in the commercial market. Most of the startups we fund have fewer than five employees, are recently formed and haven't received funding from the government before.</p>
+  <p>Check out our portfolio to get a sense of our founders’ work.</p>
    <p><a href="{{ site.baseurl }}/portfolio/" class="usa-button usa-button-primary">VIEW OUR PORTFOLIO</a></p>
             </div>
         </div>
