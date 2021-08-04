@@ -26,9 +26,9 @@ We focus on transforming scientific and engineering discoveries into products an
         <div class="usa-section usa-content usa-grid">
           <h2>Program Overview</h2>
 
- <div class="about__video">
-            <iframe sandbox="allow-same-origin allow-scripts" title="Program Overview" width="530" height="300" src="https://www.youtube.com/watch?v=zkwh7Yk9LsY" frameborder="0"></iframe>
-          </div>
+          <div class="about__video">
+            <iframe sandbox="allow-same-origin allow-scripts" title="Program Overview" width="530" height="300" src="https://www.youtube.com/embed/VUMYhk13ne4?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe>
+          </div>        
   
 <div class="usa-width-one-half">
   <h3>Our Mission</h3>
@@ -40,7 +40,7 @@ We focus on transforming scientific and engineering discoveries into products an
 
 <div class="usa-width-one-half">
 <h3>What We Do</h3>
-           <p>We fund startups to create the next game-changing technologies -- often based on fundamental science or engineering -- in need of research and development to create new products, services, and other scalable solutions. The project we fund must have the potential to positively benefit society and to lead to significant outcomes in the commercial market. Most of the startups we fund have fewer than five employees, are recently formed and haven't received funding from the government before.</p>
+           <p>We fund startups to create the next game-changing technologies — often based on fundamental science or engineering — in need of research and development to create new products, services, and other scalable solutions. The project we fund must have the potential to positively benefit society and to lead to significant outcomes in the commercial market. Most of the startups we fund have fewer than five employees, are recently formed and haven't received funding from the government before.</p>
   <p>Check out our portfolio to get a sense of our founders’ work.</p>
    <p><a href="{{ site.baseurl }}/portfolio/" class="usa-button usa-button-primary">VIEW OUR PORTFOLIO</a></p>
             </div>
