@@ -30,8 +30,19 @@ primary:
         href: /events/
   - text: Contact
     href: /contact/
-  - text: Apply
-    href: /apply/
+  - text: How It Works
+    class: nav-apply-button-link
+    links:
+      - text: Get Started
+        href: /apply/get-started/
+      - text: The basics
+        href: /apply/the-basics/
+      - text: Project Pitch
+        href: /apply/project-pitch/
+      - text: Full Proposal
+        href: /apply/full-proposal/
+      - text: Proposal Review & Decision
+        href: /apply/review-decision/
 
 fastlane:
   - text: Fastlane Overview
@@ -48,13 +59,13 @@ fastlane:
   - text: Form Preparation part 3
     href: /fastlane/form-prep-3/
   - text: Proposal Submission
-    href: /fastlane/proposal-submission/ 
+    href: /fastlane/proposal-submission/
   - text: Pre-Award Budget Changes
     href: /fastlane/budget-changes/
   - text: Definitions
     href: /fastlane/definitions/
   - text: COVID-19 Proposal Instructions
-    href: /fastlane/covid-19-proposal-instructions/    
+    href: /fastlane/covid-19-proposal-instructions/
 
 review:
   - text: Reviewers
@@ -86,7 +97,7 @@ phase-1:
   - text: Forms and checklists
     href: /resources/awardees/phase-1/forms/
   - text: Revising a budget
-    href: /resources/awardees/phase-1/revised-budget/  
+    href: /resources/awardees/phase-1/revised-budget/
   - text: No-cost extension
     href: /resources/awardees/phase-1/no-cost-extension/
   - text: Changes at your organization

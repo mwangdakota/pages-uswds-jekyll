@@ -1,0 +1,18 @@
+---
+- title: From plastic trash to 3D printing
+  company: Platcis LLC
+  description: |-
+    Nori grape silver beet broccoli kombu beet greens fava bean potato quandong celery. Bunya nuts black-eyed pea prairie turnip leek lentil turnip greens parsnip.
+  img: /assets/img/hero.png
+  url: site.baseurl/TBD/plastics
+- title: Shape-shifting robots provide real-time data in disasters
+  company: Squishy Robotics
+  description: |-
+    Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  img: /assets/img/hero-2.png
+  url: site.baseurl/TBD/squish-robotics
+- title: Small, wearable device to reduce workplace injuries
+  company: Lorem Ipsum LLC
+  description: |-
+    Convallis tellus id interdum velit. Tortor dignissim convallis aenean et tortor at risus viverra. Mi sit amet mauris commodo quis imperdiet massa tincidunt nunc. In est ante in nibh mauris cursus mattis molestie a. In arcu cursus euismod quis viverra nibh. Lacus luctus accumsan tortor posuere ac. Neque sodales ut etiam sit amet nisl purus.
+  url: site.baseurl/TBD/lorem-ipsum

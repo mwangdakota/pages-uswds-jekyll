@@ -2,7 +2,7 @@
 layout: base
 ---
 
-<div>
+<div class="portfolio-details">
   <div class="results-failure flex flex-column usa-grid usa-section" style="display: none;">
     <h1 class="h3 m0">There were no results found for <span class="results-query background-secondary font-mono">that query</span>.</h1>
     <p>Try a new search or return to <a href="{{ page.parent_permalink | relative_url }}">previous page</a> to try again.</p>
@@ -24,28 +24,91 @@ layout: base
     {% assign awards_by_phase_2 = awards_to_detail | uniq | where_phase_2 %}
     {% assign awards_by_company_phase_1 = awards_by_phase_1 | uniq | group_by: "awardeeName" | sort: 'name' %}
     {% assign awards_by_company_phase_2 = awards_by_phase_2 | uniq | group_by: "awardeeName" | sort: 'name' %}
-    <div id="awards-details-list" style="display: none;">
+    <section id="awards-details-list" class="full-bleed-bg full-bleed-bg--blue full-bleed-bg--auto-margin awardee-header" style="display: none;">
       <div class="usa-grid usa-section">
         <h1 class="h2 subhead uppercase results-phase" style="display: none;">Phase II</h1>
         <h2 class="h1 results-company-title" style="display: none;"></h2>
-        {% include details-list.html awards_by_company=awards_by_company_phase_2 %}
-      </div>
-    </div>
-    <div id="awards-details-list-phase-2" class="background-white" style="display: none;">
+        {% include details-list.html awards_by_company=awards_by_company_phase_2 %}     
+      </div>   
+    </section>
+  
+    <section id="awards-details-list-phase-2" class="full-bleed-bg full-bleed-bg--blue full-bleed-bg--auto-margin awardee-header" style="display: none;">
       <div class="usa-grid usa-section">
         <h1 class="h2 subhead uppercase results-phase" style="display: none;">Phase I</h1>
         <h2 class="h1 results-company-title" style="display: none;"></h2>
-        {% include details-list.html awards_by_company=awards_by_company_phase_1 %}
-      </div>
-    </div>
+        {% include details-list.html awards_by_company=awards_by_company_phase_1 %}     
+        </div>    
+    </section>
+  
   {% else %}
     {% assign awards_by_company = awards_to_detail | uniq | group_by: "awardeeName" | sort: 'name' %}
-    <div id="awards-details-list">
+    <section id="awards-details-list" class="full-bleed-bg full-bleed-bg--blue full-bleed-bg--auto-margin awardee-header">
       <div class="usa-grid usa-section">
         <h1 class="h2 subhead uppercase results-phase" style="display: none;">{{ page.phase }}</h1>
         <h2 class="h1 results-company-title" style="display: none;"></h2>
         {% include details-list.html awards_by_company=awards_by_company %}
       </div>
-    </div>
+    </section>
+  
   {% endif %}
+  
+   <section class="full-bleed-bg full-bleed-bg--auto-margin awardee-profile" data-pitchbook-info="../../endpoints/awards-history.json">
+        <section class="usa-grid usa-section">
+          <div class="usa-width-one-fourth">
+            <h3 class="h2">Company Profile</h3>
+          </div>
+          <div class="usa-width-three-fourths">
+            <div class="awardee-profile__results">
+              <h3 class="awardee-profile__no-data" style="display: none">No data found</h3>
+              <div class="awardee-profile__data" style="display: none">
+                <h3>Company Description</h3>
+                <p><a href="#" class="usa-button usa-button-primary">VISIT WEBSITE</a></p>
+                <div class="awardee-profile__stats">
+                  <div class="usa-grid">
+                    <div class="usa-width-one-third">
+                      <div class="awardee-profile__stats-column">
+                        <h4>Total Raised</h4>
+                        <p class="awardee-profile__stat-single"></p>
+                      </div>
+                    </div>
+                    <div class="usa-width-one-third">
+                      <div class="awardee-profile__stats-column">
+                        <h4>Year Founded</h4>
+                        <p class="awardee-profile__stat-single"></p>
+                      </div>
+                    </div>
+                    <div class="usa-width-one-third">
+                      <div class="awardee-profile__stats-column">
+                        <h4>Number of Employees</h4>
+                        <p class="awardee-profile__stat-single"></p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <p>This information has been provided by <img src="{{ site.baseurl }}/assets/img/pitch-book-logo.png" alt="PitchBook Logo"></p>
+            <p>Disclaimer: Company Data presented by NSF: (1) is the property of and proprietary to PitchBook Data, Inc.; (2) may not be copied, reproduced, or distributed; and (3) is not warranted to be accurate, complete nor timely. Neither PitchBook Data nor the National Science Foundation are responsible for any damages or losses arising from any use of such Data.</p>
+          </div>
+        </section>
+      </section>
+  
+      <section class="full-bleed-bg awardee-history full-bleed-bg--blue">
+        <div class="usa-grid usa-section">
+          <h3 class="h2">Award Histories</h3>
+          <p>To view related awards from NSF startups and small businesses click the link below.</p>
+          <p><a href="../../awardees/history/" class="usa-button usa-button-primary">SEARCH AWARDS</a></p>
+        </div>
+      </section>
+      <section class="awardee-cta">
+        <div class="usa-grid usa-section">
+          <div class="step-banner">
+            <a class="step-banner__content" href="../../apply/project-pitch/">
+              <h2>Step 2: Project pitch</h2>
+              <p>After you’ve understood our eligibility guidelines and feel ready to apply, please visit our project pitch guide.</p>
+            </a>
+          </div>
+        </div>
+      </section>
+  
 </div>

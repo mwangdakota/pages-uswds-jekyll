@@ -6,20 +6,20 @@ class: secondary-narrow-layout
 {% if sidenav %}
 <div class="usa-grid">
 <aside class="usa-width-one-fourth usa-layout-docs-sidenav">
-  <div class="usa-section">
+  <div class="usa-section {{ page.page-class }}">
   {% include sidenav.html links=sidenav %}
 </div>
 </aside>
 
 <div class="usa-width-three-fourths">
-  <div class="usa-section usa-content">
+  <div class="usa-section usa-content {{ page.page-class }}">
     {{ content }}
   </div>
 </div>
 </div>
 {% else %}
 <div class="usa-layout-docs-main_content usa-content">
-  <div class="usa-section usa-content usa-grid">
+  <div class="usa-section usa-content usa-grid {{ page.page-class }}">
     {{ content }}
   </div>
 </div>

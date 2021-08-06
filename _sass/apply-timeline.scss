@@ -1,0 +1,313 @@
+$block: 'apply-timeline';
+
+.#{$block} {
+	$minNumSteps: 2; // The minimum number of steps to account for
+	$maxNumSteps: 5; // The maximum number of steps to account for
+	$maxNumExpanded: 2; // The maximum number of steps that are expanded to account for
+	$expandedMultiplier: 3; // an expanded item is this many times larger than a regular step item
+
+	display: flex;
+	flex-wrap: wrap;
+
+	&__block,
+	&__desc {
+		flex: 0 0 (100% / $minNumSteps);
+		max-width: (100% / $minNumSteps);
+
+		// If there are expanded steps, adjust based on how many there are
+		@for $numEx from 1 through $maxNumExpanded {
+			.#{$block}--expanded-#{$numEx} & {
+				$blockWidth: 100% / (($minNumSteps - $numEx) + ($numEx * $expandedMultiplier));
+				$expandedMaxWidth: $blockWidth * $expandedMultiplier;
+
+				flex-basis: $blockWidth;
+				max-width: $blockWidth;
+
+				&.#{$block}__block--expanded {
+					flex: 0 1 $expandedMaxWidth;
+					max-width: $expandedMaxWidth;
+				}
+			}
+		}
+	}
+
+	&__block {
+		position: relative;
+		display: flex;
+		align-items: flex-start;
+		order: 1;
+		padding-top: $number-height;
+		background: $color-white;
+		border: 2px solid $color-base;
+		border-right-width: 0;
+
+		&:nth-last-child(2) {
+			border-right-width: 2px;
+		}
+
+		@for $step from ($minNumSteps + 1) through $maxNumSteps {
+			// Adjust the width of the steps based on how many steps there are
+			&:nth-last-child(#{$step * 2}):first-child,
+			&:nth-last-child(#{$step * 2}):first-child ~ div { // each step has 2 parts - a block and a desc
+				&,
+				&.#{$block}__block--expanded {
+					flex-basis: (100% / $step);
+					max-width: (100% / $step);
+				}
+
+				// If there are expanded steps, adjust based on how many there are
+				@for $numEx from 1 through $maxNumExpanded {
+					.#{$block}--expanded-#{$numEx} & {
+						$blockWidth: 100% / (($step - $numEx) + ($numEx * $expandedMultiplier));
+						$expandedMaxWidth: $blockWidth * $expandedMultiplier;
+
+						flex-basis: $blockWidth;
+						max-width: $blockWidth;
+
+						&.#{$block}__block--expanded {
+							flex-basis: $expandedMaxWidth;
+							max-width: $expandedMaxWidth;
+						}
+					}
+				}
+			}
+		}
+	}
+
+	&__desc {
+		order: 2;
+		margin-top: 20px;
+		text-align: center;
+
+		p {
+			$line-w: 2px;
+			$dot-size: 6px;
+
+			position: relative;
+			margin: 0 15px;
+			padding-top: 15px;
+			border-top: $line-w solid $color-primary;
+
+			// dots at the ends of the lines
+			&:before,
+			&:after {
+				position: absolute;
+				top: -(($line-w + $dot-size) / 2);
+				display: block;
+				width: $dot-size;
+				height: $dot-size;
+				background: $color-primary;
+				border-radius: 50%;
+				content: '';
+			}
+
+			&:before {
+				left: 0;
+			}
+
+			&:after {
+				right: 0;
+			}
+		}
+	}
+
+	&__number {
+		@include number;
+		position: absolute;
+		top: 0;
+		left: 0;
+	}
+
+	&__main {
+		display: flex;
+		flex: 0 0 100%;
+		margin: 15px 0;
+	}
+
+	&__content {
+		display: flex;
+		flex-wrap: wrap;
+		flex: 1 1 0%; // distribute their width evenly; IE needs a unit on the 0
+		align-items: center;
+		padding: 0 15px;
+
+		&:nth-child(n + 2) {
+			border-left: 1px solid $color-gray-light;
+		}
+	}
+
+	&__title,
+	&__subtitle,
+	&__required {
+		flex: 1 1 100%;
+		font-size: $font-size-xs;
+	}
+
+	&__title,
+	&__subtitle {
+		margin: 0;
+		font-weight: $font-normal;
+	}
+
+	&__title,
+	&__required {
+		font-family: $font-mono;
+	}
+
+	&__title {
+		color: $color-primary;
+		text-transform: uppercase;
+	}
+
+	&__subtitle {
+		color: $color-base;
+	}
+
+	&__required {
+		margin-top: 5px;
+		color: $color-tertiary-dark;
+	}
+
+	@media screen and (max-width: $large-screen) {
+		$blockBasis: 190px;
+		$descBasis: calc(100% - 190px);
+
+		&__block,
+		&__desc {
+			order: 1;
+		}
+
+		&__block {
+			flex: 0 0 $blockBasis;
+			max-width: $blockBasis;
+			border-right-width: 2px; // reinstating from large
+			border-bottom-width: 0;
+
+			&:nth-last-child(2) {
+				border-bottom-width: 2px;
+			}
+
+			// overriding larger breakpoint specificity
+			@for $numEx from 1 through $maxNumExpanded {
+				.#{$block}--expanded-#{$numEx} & {
+					flex-basis: $blockBasis;
+					max-width: $blockBasis;
+
+					&.#{$block}__block--expanded {
+						flex: 0 0 $blockBasis;
+						max-width: $blockBasis;
+					}
+				}
+			}
+
+			@for $step from ($minNumSteps + 1) through $maxNumSteps {
+				&:nth-last-child(#{$step * 2}):first-child,
+				&:nth-last-child(#{$step * 2}):first-child ~ .#{$block}__block {
+					&,
+					&.#{$block}__block--expanded {
+						flex-basis: $blockBasis;
+						max-width: $blockBasis;
+					}
+
+					@for $numEx from 1 through $maxNumExpanded {
+						.#{$block}--expanded-#{$numEx} & {
+							&,
+							&.#{$block}__block--expanded {
+								flex-basis: $blockBasis;
+								max-width: $blockBasis;
+							}
+						}
+					}
+				}
+
+				&:nth-last-child(#{$step * 2}):first-child ~ .#{$block}__desc {
+					&,
+					&.#{$block}__block--expanded {
+						flex-basis: $descBasis;
+						max-width: $descBasis;
+					}
+
+					@for $numEx from 1 through $maxNumExpanded {
+						.#{$block}--expanded-#{$numEx} & {
+							&,
+							&.#{$block}__block--expanded {
+								flex-basis: $descBasis;
+								max-width: $descBasis;
+							}
+						}
+					}
+				}
+			}
+		}
+
+		&__desc {
+			display: flex;
+			flex: 0 0 $descBasis;
+			max-width: $descBasis;
+			margin: 0;
+			text-align: left;
+
+			// overriding larger breakpoint specificity
+			@for $numEx from 1 through $maxNumExpanded {
+				.#{$block}--expanded-#{$numEx} & {
+					flex-basis: $descBasis;
+					max-width: $descBasis;
+
+					&.#{$block}__block--expanded {
+						flex: 0 0 $descBasis;
+						max-width: $descBasis;
+					}
+				}
+			}
+
+			p {
+				$line-w: 2px;
+				$dot-size: 6px;
+
+				display: flex;
+				align-items: center;
+				margin: 15px 0 15px 15px;
+				padding-top: 0;
+				padding-left: 15px;
+				border-top: 0;
+				border-left: $line-w solid $color-primary;
+
+				// dots at the ends of the lines
+				&:before,
+				&:after {
+					left: -(($line-w + $dot-size) / 2);
+				}
+
+				&:before {
+					top: 0;
+				}
+
+				&:after {
+					top: auto;
+					right: auto;
+					bottom: 0;
+				}
+			}
+		}
+
+		&__main {
+			display: block;
+			padding: 0 15px;
+		}
+
+		&__content {
+			display: block;
+			margin: 15px 0;
+			padding: 0;
+
+			&:nth-child(2) {
+				border-top: 1px solid $color-gray-light;
+				padding-top: 15px;
+			}
+
+			&:nth-child(n + 2) {
+				border-left: 0;
+			}
+		}
+	}
+}

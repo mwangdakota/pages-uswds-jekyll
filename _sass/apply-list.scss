@@ -1,0 +1,33 @@
+$block: 'apply-list';
+
+.#{$block} {
+	$li-margin: 1rem;
+	$bullet-width: $number-height;
+
+	margin: 3rem 0;
+	padding-left: 0;
+	list-style-type: none;
+	counter-reset: applyListCounter;
+
+	> li {
+		position: relative;
+		min-height: $number-height;
+		margin-bottom: 5rem;
+		padding-left: ($bullet-width + $li-margin);
+		counter-increment: applyListCounter;
+
+		&:before {
+			@include number;
+			position: absolute;
+			left: 0;
+			width: $bullet-width; // fixed width is needed for positioning calculations
+			padding: 0; // using width instead
+			text-align: center;
+			content: counter(applyListCounter);
+		}
+	}
+
+	h3 {
+		padding-top: .9rem; // approximately vertically centered on the number
+	}
+}
