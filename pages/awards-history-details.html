@@ -108,6 +108,7 @@ permalink: /awardees/history/details/
         let programDirector = awd.ProgramManager ? awd.ProgramManager.split(/,\s+/) : '';
 
         html += '' +
+          '<section id="awards-details-list" class="full-bleed-bg full-bleed-bg--blue full-bleed-bg--auto-margin awardee-header" style="display: none;">' +
           '<div' + (isEstDate ? ' class="estimated-end-date"' : '') + '>' +
             '<div class="usa-grid usa-section">' +
               '<h1 class="h2 subhead uppercase results-phase" style="">' + awd.ProgramElementName + '</h1>' +
@@ -178,18 +179,28 @@ permalink: /awardees/history/details/
                         awd.Abstract.replaceAll(/\n/g, '<br>').replaceAll(/(<br>){3,}/g, '<br><br>') +
                         '</p>' +
                       '</div>' +
-                      {% if show_pitchbook['data'] %}
-                      (lastAwardIndex === awdIndex ? sfPitchBook.showData(pitch_book_data) : '') +
-                      {% endif %}
-
                     '</div>' +
                   '</div>' +
                 '</li>' +
               '</ul>' +
 
             '</div>' +
-          '</div>'
-      }
+          '</div>' +
+        '</section>' +
+                      
+       '<section class="full-bleed-bg full-bleed-bg--auto-margin awardee-profile" data-pitchbook-info="../../endpoints/awards-history.json">' +
+        '<section class="usa-grid usa-section">' +
+          '<div class="usa-width-one-fourth">' +
+            '<h3 class="h2">Company Profile</h3>' +
+          '</div>' +
+          '<div class="usa-width-three-fourths">' +
+           //{% if show_pitchbook['data'] %}' +
+                     // (lastAwardIndex === awdIndex ? sfPitchBook.showData(pitch_book_data) : '') +
+                     // {% endif %}           
+             // }
+          '</div>' +
+          '</section>' +
+          '</section>' 
 
       document.querySelector('#awards-history-details').innerHTML = html;
       document.querySelector('.results-loading').style.display = 'none';
