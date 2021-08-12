@@ -30,29 +30,29 @@ if (window.sfPitchBook) {
 
       return '' +
         {% if show_pitchbook['company_description'] %}
-        '<strong style="font-size:1.6rem;">Company Description</strong><br>' +
-        val(data.PitchbookCompanyDescription) + '<br><br>' +
+        '<strong style="font-size:1.6rem;">Company Description</strong><p>' +
+        val(data.PitchbookCompanyDescription) + '</p>' +
         {% endif %}
 
         {% if show_pitchbook['total_raised'] %}
-        '<strong style="font-size:1.6rem;">Total Raised (in millions)</strong><br>' +
-        val(data.PitchbookTotalRaised, {prefix: '$'}) + '<br><br>' +
+        '<strong style="font-size:1.6rem;">Total Raised (in millions)</strong><p>' +
+        val(data.PitchbookTotalRaised, {prefix: '$'}) + '</p>' +
         {% endif %}
 
         {% if show_pitchbook['website'] %}
-        '<strong style="font-size:1.6rem;">Website</strong><br>' +
+        '<strong style="font-size:1.6rem;">Website</strong><p>' +
         '<a href="' + val(data.PitchbookWebsite, {protocol: 'http'}) + '" target="_blank">' +
-        val(data.PitchbookWebsite) + '</a><br><br>' +
+        val(data.PitchbookWebsite) + '</a></p>' +
         {% endif %}
 
         {% if show_pitchbook['year_founded'] %}
-        '<strong style="font-size:1.6rem;">Year Founded</strong><br>' +
-        val(data.PitchbookYearFounded) + '<br><br>' +
+        '<strong style="font-size:1.6rem;">Year Founded</strong><p' +
+        val(data.PitchbookYearFounded) + '</p>' +
         {% endif %}
 
         {% if show_pitchbook['employee_count'] %}
-        '<strong style="font-size:1.6rem;">Number of Employees</strong><br>' +
-        val(data.PitchbookNumberEmployees) + '<br><br>' +
+        '<strong style="font-size:1.6rem;">Number of Employees</strong><p>' +
+        val(data.PitchbookNumberEmployees) + '</p>' +
         {% endif %}
         '';
     },
