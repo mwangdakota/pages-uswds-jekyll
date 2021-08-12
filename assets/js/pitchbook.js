@@ -60,12 +60,7 @@ if (window.sfPitchBook) {
     showData: function(pitch_book_data) {
       return '' +
         '<div class="pitchbook">' +
-          '<p class="pitchbook-source" style="text-align:right;font-size:1.4rem;"><em>This information has been provided by</em>' +
-          '<img width="150px"style="margin-left:5px;"src="{{ site.baseurl }}/assets/img/pitch-book-logo.png" /></p><br>' +
-
           (pitch_book_data || '<h3>No data found</h3>') +
-
-          '<span class="pitchbook-disclaimer" style="font-size:1.2rem;"><em>Disclaimer: Company Data presented by NSF: (1) is the property of and proprietary to PitchBook Data, Inc.; (2) may not be copied, reproduced, or distributed; and (3) is not warranted to be accurate, complete nor timely. Neither PitchBook Data nor the National Science Foundation are responsible for any damages or losses arising from any use of such Data.</em></span>' +
         '</div>';
     }
   }

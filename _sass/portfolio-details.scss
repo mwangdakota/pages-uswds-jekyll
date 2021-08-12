@@ -7,30 +7,30 @@ $block: 'portfolio-details';
 	.awardee-story {
 		&__columns {
 			display: flex;
-	
+
 			.awardee-story__desc,
 			.awardee-story__video {
 				flex: 0 0 50%;
 			}
-	
+
 			.awardee-story__desc {
 				padding-right: 25px;
 			}
-	
+
 			.awardee-story__video {
 				padding-left: 25px;
 			}
 		}
-	
+
 		@media screen and (max-width: $large-screen) {
 			&__columns {
 				display: block;
-	
+
 				.awardee-story__desc {
 					margin-bottom: 25px;
 					padding-right: 0;
 				}
-		
+
 				.awardee-story__video {
 					padding-left: 0;
 				}
@@ -46,6 +46,8 @@ $block: 'portfolio-details';
 		}
 	}
 	.awardee-profile {
+    display: none;
+
 		#main-content & { // more specific to override global style
 			a {
 				background: none;
