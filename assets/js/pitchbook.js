@@ -46,7 +46,7 @@ if (window.sfPitchBook) {
         {% endif %}
 
         {% if show_pitchbook['year_founded'] %}
-        '<strong style="font-size:1.6rem;">Year Founded</strong><p' +
+        '<strong style="font-size:1.6rem;">Year Founded</strong><p>' +
         val(data.PitchbookYearFounded) + '</p>' +
         {% endif %}
 
