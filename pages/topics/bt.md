@@ -7,7 +7,7 @@ layout: tech-topic
 topic_code: bt
 section_image: "/assets/img/bg/miromatrix-2c-bt.jpg"
 section_image_caption: |
-  [Miromatrix Medical Inc]({{ site.baseurl }}/portfolio/details/?company=miromatrix-medical-inc#miromatrix-medical-inc)'s unique technology allows scientists to create human organs, offsetting shortages of transplantable organs.
+  Miromatrix Medical Inc's unique technology allows scientists to create human organs, offsetting shortages of transplantable organs.
 ---
 {% capture tt_description %}
 The Biological Technologies topic covers a wide range of technology areas to advance engineering and science innovation across the biological spectrum. Biological technologies have disrupted decades-old chemical, agricultural, and medical products and services, producing a new bioeconomy. Potential breakthroughs in this space are on course to make major socioeconomic contributions to the economy by boosting productivity in industrial and agricultural processes, improving human health, and making advances toward environmental sustainability.  
