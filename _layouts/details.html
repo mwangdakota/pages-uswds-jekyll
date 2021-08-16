@@ -78,9 +78,9 @@ layout: base
     {% assign awards_by_phase_2 = awards_to_detail | uniq | where_phase_2 %}
     {% assign awards_by_company_phase_1 = awards_by_phase_1 | uniq | group_by: "awardeeName" | sort: 'name' %}
     {% assign awards_by_company_phase_2 = awards_by_phase_2 | uniq | group_by: "awardeeName" | sort: 'name' %}
-    <p><a href="../../../awardees/history/" class="usa-button usa-button-primary">SEARCH AWARDS</a></p>
- {% else %}
     <p><a href="../../awardees/history/" class="usa-button usa-button-primary">SEARCH AWARDS</a></p>
+ {% else %}
+    <p><a href="../../../awardees/history/" class="usa-button usa-button-primary">SEARCH AWARDS</a></p>
  {% endif %}
     </div>
   </section>
