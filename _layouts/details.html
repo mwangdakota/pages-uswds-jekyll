@@ -73,7 +73,15 @@ layout: base
     <div class="usa-grid usa-section">
       <h3 class="h2">Award Histories</h3>
       <p>To view related awards from NSF startups and small businesses click the link below.</p>
-      <p><a href="/awardees/history/" class="usa-button usa-button-primary">SEARCH AWARDS</a></p>
+  {% if page.split_by_awards %}
+    {% assign awards_by_phase_1 = awards_to_detail | uniq | where_phase_1 %}
+    {% assign awards_by_phase_2 = awards_to_detail | uniq | where_phase_2 %}
+    {% assign awards_by_company_phase_1 = awards_by_phase_1 | uniq | group_by: "awardeeName" | sort: 'name' %}
+    {% assign awards_by_company_phase_2 = awards_by_phase_2 | uniq | group_by: "awardeeName" | sort: 'name' %}
+    <p><a href="../../../awardees/history/" class="usa-button usa-button-primary">SEARCH AWARDS</a></p>
+ {% else %}
+    <p><a href="../../awardees/history/" class="usa-button usa-button-primary">SEARCH AWARDS</a></p>
+ {% endif %}
     </div>
   </section>
 
