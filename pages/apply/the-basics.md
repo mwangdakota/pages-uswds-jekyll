@@ -44,7 +44,7 @@ page-class: gdd-apply
     <h2>What we fund</h2>
     <p>We help startups navigate the earliest stages of technology translation, investing roughly $200 million annually in approximately 400 startups. Each startup can receive up to $2 million to support translational research and development. From advanced manufacturing to artificial intelligence to biological technologies to environmental technologies, we fund nearly all areas of technology.</p>
     <p><a href="https://seedfund.nsf.gov/awardees/history/" class="usa-button usa-button-secondary">Search awards we've made over the last 10 years </a></p>
-    <p>We also encourage you to browse a list of our current <a href="#">Phase 1 awardees</a> or current <a href="#">Phase II awardees</a>.</p>
+    <p>We also encourage you to browse a list of our current <a href="{{ site.baseurl }}/awardees/phase-1">Phase 1 awardees</a> or current <a href="{{ site.baseurl }}/awardees/phase-2">Phase II awardees</a>.</p>
   </div>
 </section>
 
