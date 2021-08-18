@@ -1,8 +1,10 @@
 ---
 layout: base
 ---
+{% assign show_pitchbook = site['show']['pitchbook'] %}
+<h1 style="display: none">Award Details</h1>
 
-<div>
+<div class="portfolio-details award-details">
   <div class="results-failure flex flex-column usa-grid usa-section" style="display: none;">
     <h1 class="h3 m0">There were no results found for <span class="results-query background-secondary font-mono">that query</span>.</h1>
     <p>Try a new search or return to <a href="{{ page.parent_permalink | relative_url }}">previous page</a> to try again.</p>
@@ -24,28 +26,64 @@ layout: base
     {% assign awards_by_phase_2 = awards_to_detail | uniq | where_phase_2 %}
     {% assign awards_by_company_phase_1 = awards_by_phase_1 | uniq | group_by: "awardeeName" | sort: 'name' %}
     {% assign awards_by_company_phase_2 = awards_by_phase_2 | uniq | group_by: "awardeeName" | sort: 'name' %}
-    <div id="awards-details-list" style="display: none;">
+    <section id="awards-details-list" class="full-bleed-bg full-bleed-bg--blue full-bleed-bg--auto-margin awardee-header" style="display: none;">
       <div class="usa-grid usa-section">
         <h1 class="h2 subhead uppercase results-phase" style="display: none;">Phase II</h1>
         <h2 class="h1 results-company-title" style="display: none;"></h2>
         {% include details-list.html awards_by_company=awards_by_company_phase_2 %}
       </div>
-    </div>
-    <div id="awards-details-list-phase-2" class="background-white" style="display: none;">
+    </section>
+
+    <section id="awards-details-list-phase-2" class="full-bleed-bg full-bleed-bg--blue full-bleed-bg--auto-margin awardee-header" style="display: none;">
       <div class="usa-grid usa-section">
         <h1 class="h2 subhead uppercase results-phase" style="display: none;">Phase I</h1>
         <h2 class="h1 results-company-title" style="display: none;"></h2>
         {% include details-list.html awards_by_company=awards_by_company_phase_1 %}
-      </div>
-    </div>
+        </div>
+    </section>
+
   {% else %}
     {% assign awards_by_company = awards_to_detail | uniq | group_by: "awardeeName" | sort: 'name' %}
-    <div id="awards-details-list">
+    <section id="awards-details-list" class="full-bleed-bg full-bleed-bg--blue full-bleed-bg--auto-margin awardee-header">
       <div class="usa-grid usa-section">
         <h1 class="h2 subhead uppercase results-phase" style="display: none;">{{ page.phase }}</h1>
         <h2 class="h1 results-company-title" style="display: none;"></h2>
         {% include details-list.html awards_by_company=awards_by_company %}
       </div>
-    </div>
+    </section>
+
   {% endif %}
+
+  {% if show_pitchbook['data'] %}
+  <section class="full-bleed-bg full-bleed-bg--auto-margin awardee-profile" data-pitchbook-info="../../endpoints/awards-history.json">
+    <section class="usa-grid usa-section">
+      <div class="usa-width-one-fourth">
+        <h3 class="h2">Company Profile</h3>
+      </div>
+      <div class="usa-width-three-fourths">
+        <p>This information has been provided by <img class="pitchbook-logo" src="{{ site.baseurl }}/assets/img/pitch-book-logo.png" alt="PitchBook Logo"></p>
+        <div class="pitch-book-data"></div>
+        <p>Disclaimer: Company Data presented by NSF: (1) is the property of and proprietary to PitchBook Data, Inc.; (2) may not be copied, reproduced, or distributed; and (3) is not warranted to be accurate, complete nor timely. Neither PitchBook Data nor the National Science Foundation are responsible for any damages or losses arising from any use of such Data.</p>
+      </div>
+    </section>
+  </section>
+  {% endif %}
+
+  <section class="full-bleed-bg awardee-history full-bleed-bg--blue">
+    <div class="usa-grid usa-section">
+      <h3 class="h2">Award Histories</h3>
+      <p>To view related awards from NSF startups and small businesses click the link below.</p>
+  {% if page.split_by_awards %}
+    {% assign awards_by_phase_1 = awards_to_detail | uniq | where_phase_1 %}
+    {% assign awards_by_phase_2 = awards_to_detail | uniq | where_phase_2 %}
+    {% assign awards_by_company_phase_1 = awards_by_phase_1 | uniq | group_by: "awardeeName" | sort: 'name' %}
+    {% assign awards_by_company_phase_2 = awards_by_phase_2 | uniq | group_by: "awardeeName" | sort: 'name' %}
+    <p><a href="../../awardees/history/" class="usa-button usa-button-primary">SEARCH AWARDS</a></p>
+ {% else %}
+    <p><a href="../../../awardees/history/" class="usa-button usa-button-primary">SEARCH AWARDS</a></p>
+ {% endif %}
+    </div>
+  </section>
+
+
 </div>

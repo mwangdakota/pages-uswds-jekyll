@@ -1,0 +1,70 @@
+{% assign tab = page.url | split: '/' | last %}
+
+<section class="usa-section full-bleed-bg--blue">
+  <nav class="section-tabs" aria-label="section links">
+    <ul class="section-tabs__nav">
+        <li class="section-tabs__tab"><a{% if tab == 'get-started'%} class="section-tabs__active"{% else %}{% endif %}
+          href="{{ site.baseurl }}/apply/get-started/">Get started</a></li>
+        <li class="section-tabs__tab"><a{% if tab == 'the-basics'%} class="section-tabs__active"{% else %}{% endif %}
+          href="{{ site.baseurl }}/apply/the-basics/">The basics</a></li>
+        <li class="section-tabs__tab"><a{% if tab == 'project-pitch'%} class="section-tabs__active"{% else %}{% endif %}
+          href="{{ site.baseurl }}/apply/project-pitch/">Project pitch</a></li>
+        <li class="section-tabs__tab"><a{% if tab == 'full-proposal'%} class="section-tabs__active"{% else %}{% endif %}
+          href="{{ site.baseurl }}/apply/full-proposal/">Full proposal</a></li>
+        <li class="section-tabs__tab"><a{% if tab == 'review-decision'%} class="section-tabs__active"{% else %}{% endif %}
+          href="{{ site.baseurl }}/apply/review-decision/">Proposal review & decision</a></li>
+    </ul>
+
+    {% if tab == 'get-started'%}
+    <h1>Get started</h1>
+    <div class="section-tabs__columns">
+      <div class="section-tabs__desc">
+        <p>Learn how startups can get up to $2 million to develop deep technologies. We'll walk you through our process and timeline, how to submit a Project Pitch and what to expect along the way. </p>
+      </div>
+      <div class="section-tabs__video">
+        <div class="embed-video-container"><iframe sandbox="allow-same-origin allow-scripts" title="From Idea to Proposal" src="https://www.youtube.com/embed/VUMYhk13ne4?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe> 
+        </div> 
+      </div>
+    </div>
+    {% endif %}
+
+    {% if tab == 'the-basics'%}
+    <h1>The basics</h1>
+    <div class="section-tabs__desc">
+      <p>
+        Learn about the research and development work we fund, the eligibility requirements, and our technology topic areas.
+      </p>
+    </div>
+    {% endif %}
+
+    {% if tab == 'project-pitch'%}
+    <h1>Project pitch</h1>
+    <div class="section-tabs__desc">
+      <p>
+        Submit a Project Pitch to see if your idea might be a good fit for NSF funding.
+      </p>
+    </div>
+    {% endif %}
+
+    {% if tab == 'full-proposal'%}
+    <h1>Full proposal</h1>
+    <div class="section-tabs__desc">
+      <p>
+        Learn more about what you'll need to submit a full Phase I SBIR/STTR proposal to NSF.
+      </p>
+    </div>
+    {% endif %}
+
+    {% if tab == 'review-decision'%}
+    <h1>Proposal review & decision</h1>
+    <div class="section-tabs__desc">
+      <p>
+        Once you submit your Phase I proposal, NSF finds at least three external experts (in technology, commercialization, or both) to review it and provide feedback.
+      </p>
+      <p>
+       All proposals are reviewed against the NSF merit review criteria, which cover the quality of research (intellectual or technical merit), its potential impact on society (broader impacts), and the commercial potential of the project (commercial impact).
+      </p>
+    </div>
+    {% endif %}
+  </nav>
+</section>
