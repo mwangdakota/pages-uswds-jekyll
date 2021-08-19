@@ -70,7 +70,7 @@ layout: secondary
 
         <h3 class="three-column-grid__title">Squishy Robotics’ shape-shifting robots provide real-time data in disasters</h3>
         <p>
-          <span class="three-column-grid__company"><a href="https://squishy-robotics.com">Squishy Robotics</a>.</span>
+          <span class="three-column-grid__company"><a href="https://squishy-robotics.com" target="_blank">Squishy Robotics</a>.</span>
         </p>
       </div>
     </div>
