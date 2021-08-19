@@ -106,6 +106,7 @@ $(function() {
     {% endif %}
     $('.results-loading').hide();
     $('.results').show();
+    $('.awardee-profile').show();
   })();
 
   window.searchAwards = function searchAwards(value) {

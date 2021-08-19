@@ -1,0 +1,243 @@
+$grid-gutter-width: 30px;
+
+// Typical beyond uswds customizations
+$scrollbar-width: 15px; // fallback if the CSS variable isn't overwritten by JS
+$container-padding: $grid-gutter-width; // container doubles up on padding
+
+//// FULL BLEED
+
+// Utility function to determine if the value is a percent
+// From https://stackoverflow.com/a/58638675/738394
+@function is-percentage($value) {
+	@return is-number($value) and unit($value) == "%";
+}
+
+// Utility function to determine if the value is a "vw" unit
+// From https://stackoverflow.com/a/58638675/738394
+@function is-vw($value) {
+	@return is-number($value) and unit($value) == "vw";
+}
+
+// Internal mixin for make-full-width - applies the margins that adjust the width
+// @param {Number} $content-width - The width of the content (with unit)
+// @param {Number} $padding - The padding that is overcome on either side of the $content-width (with unit)
+// @param {String} $side - Which side is full-bleed; valid options are: full, left, or right
+@mixin _make-full-width-generate-calc($content-width, $padding, $side) {
+	// Reducing the math...
+	// contentWidth + (padding * 2) + (margin * 2) = 100vw
+	// (contentWidth / 2) + padding + margin = 50vw
+	// margin = 50vw - (contentWidth / 2) - padding
+
+	// adjustment = -margin
+	// adjustment = -(50vw - (contentWidth / 2) - padding)
+	// adjustment = -50vw + (contentWidth / 2) + padding
+
+	@if(is-vw($content-width)) {
+		// No need to adjust for scrollbar, it evens out with our calculation
+		$calc: calc(#{($content-width / 2) - 50vw} - #{$padding} + .25px); // .25px for sub-pixel calculation issues
+		@if($side == full or $side == right) {
+			margin-right: $calc;
+		}
+		@if($side == full or $side == left) {
+			margin-left: $calc;
+		}
+	} @else {
+		// Adding scrollbar into the mix - setting something to 100vw when there is a vertical scrollbar pushes it wider than the viewport
+		$adjustment-fallback: calc(-50vw + #{ ceil($scrollbar-width / 2) } + #{ ($content-width / 2) } - #{$padding}); // fallback for IE (doesn't support vars) - also using ceil to avoid subpixel anti-aliasing weirdness in IE
+		$adjustment: calc(-50vw + (var(--page-scroll-bar-width) / 2) + #{ ($content-width / 2) } - #{$padding});
+		$adjustment-noscrollbar: calc(-50vw + #{ ($content-width / 2) } - #{$padding});
+
+		// sass-lint:disable force-element-nesting no-qualifying-elements
+
+		@if($side == full or $side == right) {
+			margin-right: $adjustment-fallback;
+			margin-right: $adjustment; // sass-lint:disable-line no-duplicate-properties
+
+			// when the body is position:fixed, the scrollbar goes away, so we don't need to adjust for it
+			body.modal-open & {
+				margin-right: $adjustment-noscrollbar;
+			}
+		}
+
+		@if($side == full or $side == left) {
+			margin-left: $adjustment-fallback;
+			margin-left: $adjustment; // sass-lint:disable-line no-duplicate-properties
+
+			// when the body is position:fixed, the scrollbar goes away, so we don't need to adjust for it
+			body.modal-open & {
+				margin-left: $adjustment-noscrollbar;
+			}
+		}
+		// sass-lint:enable force-element-nesting no-qualifying-elements
+	}
+}
+
+// Internal mixin for make-full-width - wraps styles in a media query if the min width is > 0
+// @param {Number} $min-width - the width to use in the media query
+@mixin _make-full-width-conditional-media($min-width) {
+	@if ($min-width > 0) {
+		@media(min-width:#{$min-width}) {
+			@content
+		}
+	} @else {
+		@content;
+	}
+}
+
+// Internal mixin for make-full-width - applies the breakpoints based on when the container breaks away from the viewport
+// @param {Number} $c-width - The width of the content (with unit)
+// @param {Number} $c-pad - The padding that is overcome on either side of the $content-width (with unit)
+// @param {Number} $my-bp-w - The global min-width breakpoint to apply this to (0 if it is the smallest)
+// @param {Number} $next-bp-w - The next largest global min-width breakpoint (false if this is already applying to the largest)
+// @param {String} $side - Which side is full-bleed; valid options are: full, left, or right
+@mixin _make-full-width-for-breakpoint($c-width, $c-pad, $my-bp-w, $next-bp-w, $side) {
+	@if(is-percentage($c-width)) {
+		@include _make-full-width-conditional-media($my-bp-w) {
+			$c-width-vw: ($c-width / 100%) * 100vw; // convert percentage to vw
+			@include _make-full-width-generate-calc($c-width-vw, $c-pad, $side);
+		}
+	} @elseif(is-vw($c-width)) {
+		@include _make-full-width-conditional-media($my-bp-w) {
+			@include _make-full-width-generate-calc($c-width, $c-pad, $side);
+		}
+	} @else {
+		$breakaway: $c-width - ($c-pad * 2);
+		@if( $breakaway < $my-bp-w ) { $breakaway: $my-bp-w; }
+
+		// The container will be full-width before it breaks away from the viewport
+		@if( $breakaway > $my-bp-w ) {
+			@include _make-full-width-conditional-media($my-bp-w) {
+				@if($c-pad != 0px) {
+					@if($side == full or $side == right) {
+						margin-right: -$c-pad;
+					}
+					@if($side == full or $side == left) {
+						margin-left: -$c-pad;
+					}
+				} @else {
+					@if($side == full or $side == right) {
+						margin-right: 0;
+					}
+					@if($side == full or $side == left) {
+						margin-left: 0;
+					}
+				}
+			}
+		}
+		
+		// The container will break away from the edges of the viewport before the next breakpoint triggers
+		@if( (not $next-bp-w) or ($next-bp-w and $c-width <= $next-bp-w )) {
+			@media( min-width: #{$breakaway} ) {
+				@include _make-full-width-generate-calc($c-width, $c-pad, $side);
+			}
+		}
+	}
+}
+
+// Entry point for making something full width when it sits within a container
+// @param {String} $side - Which side is full-bleed; valid options are: full, left, or right. full is default
+// @param {Boolean} $no-padding - If set to true, the element will go right up to the edge of the viewport.
+//      If it is set to false, the element will be $container-padding from the edge of the viewport.
+// Assumptions: 
+//    * This is called on an element whos width is determined solely by a single container
+//    * variables exist and follow the Bootstrap convention: $container-max-widths, $grid-breakpoints
+//    * A variable exists: $container-padding which reflects the padding on either side of the container
+//    * The $container-max-widths may be %, vw, or another unit; 
+//.     if they are in a unit other than % or vw, it must match the unit of $grid-breakpoints
+@mixin make-full-width($side: full, $no-padding: true) {
+	$sm-c-w: $site-max-width;
+	$md-c-w: $site-max-width;
+	$lg-c-w: $site-max-width;
+	$xl-c-w: $site-max-width;
+	
+	$xs-bp: 0;
+	$sm-bp: $small-screen;
+	$md-bp: $medium-screen;
+	$lg-bp: $large-screen;
+	$xl-bp: $large-screen;
+	
+	@if($no-padding) {
+		// xs and sm combined since container widths are the same
+		@include _make-full-width-for-breakpoint($sm-c-w, $container-padding, $xs-bp, $md-bp, $side);
+		@include _make-full-width-for-breakpoint($md-c-w, $container-padding, $md-bp, $lg-bp, $side);
+		@include _make-full-width-for-breakpoint($lg-c-w, $container-padding, $lg-bp, $xl-bp, $side);
+		@include _make-full-width-for-breakpoint($xl-c-w, $container-padding, $xl-bp, false, $side);
+	} @else {
+		// xs and sm combined since container widths are the same
+		@include _make-full-width-for-breakpoint($sm-c-w, 0px, $xs-bp, $md-bp, $side);
+		@include _make-full-width-for-breakpoint($md-c-w, 0px, $md-bp, $lg-bp, $side);
+		@include _make-full-width-for-breakpoint($lg-c-w, 0px, $lg-bp, $xl-bp, $side);
+		@include _make-full-width-for-breakpoint($xl-c-w, 0px, $xl-bp, false, $side);
+	}
+}
+
+:root {
+	--page-scroll-bar-width: #{$scrollbar-width};
+}
+
+section {
+	&.full-bleed-bg,
+	&.full-bleed-bg--blue {
+		$margin: 50px;
+		position: relative;
+		margin: $margin 0;
+		z-index: 1; // base
+		
+		&:before {
+			@include make-full-width(full);
+			background: $color-white;
+			position: absolute;
+			top: 0;
+			right: 0;
+			bottom: 0;
+			left: 0;
+			display: block;
+			content: '';
+			z-index: -1; // behind the contents of the section
+		}
+
+		&:first-child,
+		script + & { // sorta first child, but a script got in the way
+			margin-top: 0;
+
+			.usa-section > & { // close the gap from the padding on the parent .usa-section
+				margin-top: -$site-margins;
+
+				 @include media($medium-screen) {
+					margin-top: -6rem;
+				}
+			}
+		}
+
+		& + & { // when they're back-to-back
+			margin-top: -$margin; // sit on top of the margin-bottom of the one above
+		}
+
+		&:last-child {
+			margin-bottom: 0;
+
+			.usa-section > & { // close the gap from the padding on the parent .usa-section
+				margin-bottom: -$site-margins;
+
+				 @include media($medium-screen) {
+					margin-bottom: -6rem;
+				}
+			}
+		}
+	}
+
+	&.full-bleed-bg--blue {
+		&:before {
+			background: $color-blue-light;
+		}
+	}
+
+	&.full-bleed-bg--no-margin {
+		margin: 0; // for pages with full bg images
+	}
+	
+	&.full-bleed-bg--auto-margin {
+		margin-right: auto; // for portfolio detail pages
+		margin-left: auto;
+	}
+}

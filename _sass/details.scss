@@ -1,49 +1,76 @@
-.results-company-title {
-  margin-top: 0;
-  margin-bottom: $space-xs;
-}
+.award-details {
+  background: #e1f4f9;
 
-.award-listing {
-  border-bottom: 1px solid $color-primary-alt-light;
-  padding-bottom: $space-xl;
-}
-
-.pitch-book-data {
-  margin-top: 4em;
-}
-
-.pitchbook {
-  color:#323A45;
-  background:rgba(155, 218, 241, 0.55);
-  padding:3rem;
-  margin-bottom: 3rem;
-  font-size:1.3rem;
-}
-
-.pitchbook-source {
-  text-align:right;
-  font-size:1.4rem;
-}
-
-.pitchbook strong {
-  font-size:1.6rem;
-}
-
-.pitchbook-disclaimer {
-  font-size:1.2rem;
-}
-
-.details-program-director {
-  .program-director-name {
-    font-weight: 600;
+  .results-company-title {
+    margin-top: 0;
+    margin-bottom: $space-xs;
   }
 
-  ul {
-    margin: 0;
-    padding: 0;
+  .mb5 {
+    margin-bottom: 4rem;
 
-    li {
-      margin: 0 0 .2rem 1.75rem;
+    p {
+      margin-bottom: 0.5rem;
+    }
+  }
+
+  .award {
+    + .award {
+      .usa-section {
+        padding-top: 0;
+      }
+    }
+
+    &:last-of-type {
+      .usa-section {
+        padding-bottom: 0;
+      }
+    }
+  }
+
+  .award-listing {
+    border-bottom: 1px solid $color-primary-alt-light;
+    padding-bottom: $space-xl;
+  }
+
+  .pitchbook-logo {
+    position: relative;
+    top: 0.5rem;
+    width: 120px;
+  }
+
+  .pitch-book-data {
+    margin-top: 2em;
+  }
+
+  .pitchbook {
+    color:#323A45;
+    font-size:1.3rem;
+  }
+
+  .pitchbook-source {
+    text-align:right;
+    font-size:1.4rem;
+  }
+
+  .pitchbook strong {
+    font-size: 1.6rem;
+    display: inline-block;
+    margin-bottom: 0.25rem;
+  }
+
+  .pitchbook-disclaimer {
+    font-size:1.2rem;
+  }
+
+  .details-program-director {
+    ul {
+      margin: 0;
+      padding: 0;
+
+      li {
+        margin: 0 0 .2rem 1.75rem;
+      }
     }
   }
 }

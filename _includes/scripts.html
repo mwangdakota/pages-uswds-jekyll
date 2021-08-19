@@ -1,6 +1,6 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"
-  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" 
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" 
         crossorigin="anonymous"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.10.2/headroom.min.js"></script>
@@ -29,100 +29,154 @@
 
 
 <script language="javascript" type="text/javascript">
-    function findSearchResults() {
-        var searchType = document.getElementsByName('rdSearchType');
-        var searchKeyword = document.getElementById('txtSearchKeyword');
-     if (!String.prototype.trim) {
-String.prototype.trim = function() {
-  return this.replace(/^\s+|\s+$/g, '');
-}
-}
-if (!(searchKeyword.value.trim()).match(/\S/)) {
-            alert('Enter Search Keyword!')
-            searchKeyword.focus();
-        }
-        else {
-            var i;
-            var value;
-            var keyWord = '{{keyword}}';
-            var currentAwards = 'https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=5373%2C+1591%2C+5371%2C+1505&BooleanElement=Any&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=' + keyWord + '&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=';
-            var allAwards     = 'https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=5373%2C+1591%2C+5371%2C+1505&BooleanElement=Any&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=' + keyWord + '&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&ExpiredAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=';
-            var searchResultUrl = '';
-            for (i = 0; i < searchType.length; i++) {
-                if (searchType[i].checked) {
-                    value = searchType[i].value;
-                    if (value == "current") {
-                        searchResultUrl = currentAwards.replace(keyWord, searchKeyword.value);
-                    } else {
-                        searchResultUrl = allAwards.replace(keyWord, searchKeyword.value);
-                    }
-                    if (searchResultUrl != null || searchResultUrl != '') {
-                        window.open(searchResultUrl);
-                    }
-                }
-            }
-        }
+  function findSearchResults() {
+    var searchType = document.getElementsByName('rdSearchType');
+    var searchKeyword = document.getElementById('txtSearchKeyword');
+
+    if (!String.prototype.trim) {
+      String.prototype.trim = function () {
+        return this.replace(/^\s+|\s+$/g, '');
+      }
     }
 
-    function searchKeyPress(e) {
-        if (typeof e == 'undefined' && window.event) { e = window.event; }
-        if (e.keyCode == 13) {
-                e = $.event.fix(e);
-            e.preventDefault();
-            document.getElementById('btnSearch').click();
-        }            
+    if (!(searchKeyword.value.trim()).match(/\S/)) {
+      alert('Enter Search Keyword!')
+      searchKeyword.focus();
+    } else {
+      var i;
+      var value;
+      var keyWord = '{{keyword}}';
+      var currentAwards = 'https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=5373%2C+1591%2C+5371%2C+1505&BooleanElement=Any&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=' + keyWord + '&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=';
+      var allAwards = 'https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=5373%2C+1591%2C+5371%2C+1505&BooleanElement=Any&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=' + keyWord + '&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&ExpiredAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=';
+      var searchResultUrl = '';
+      for (i = 0; i < searchType.length; i++) {
+        if (searchType[i].checked) {
+          value = searchType[i].value;
+          if (value == "current") {
+            searchResultUrl = currentAwards.replace(keyWord, searchKeyword.value);
+          } else {
+            searchResultUrl = allAwards.replace(keyWord, searchKeyword.value);
+          }
+          if (searchResultUrl != null || searchResultUrl != '') {
+            window.open(searchResultUrl);
+          }
+        }
+      }
     }
-     
-    /*UX Audit Changes*/
-    /*Scroll to top when arrow up clicked*/
-    $(window).scroll(function() {
-        var height = $(window).scrollTop();
-        if (height > 100) {
-            $('#back2Top').fadeIn();
+  }
+
+  function searchKeyPress(e) {
+    if (typeof e == 'undefined' && window.event) { e = window.event; }
+    if (e.keyCode == 13) {
+      e = $.event.fix(e);
+      e.preventDefault();
+      document.getElementById('btnSearch').click();
+    }
+  }
+
+  /* UX Audit Changes */
+  /* Scroll to top when arrow up clicked */
+  $(window).scroll(function () {
+    var height = $(window).scrollTop();
+    if (height > 100) {
+      $('#back2Top').fadeIn();
+    } else {
+      $('#back2Top').fadeOut();
+    }
+  });
+
+  $(document).ready(function () {
+    var menuButton = $('.usa-navbar .usa-menu-btn');
+    var visibleSubMenu = null;
+
+    // Expanded menu height calculator
+    function setMenuHeight(menu) {
+        menu.style.height = Array.prototype.reduce.call(menu.childNodes, function (p, c) { return p + (c.offsetHeight || 0); }, 0) + 'px';
+    }
+
+    // Sub-menu hover...       
+    $("ul.usa-nav-primary.usa-accordion li").hover(function () {
+      if (menuButton.is(':visible')) return;
+
+      var subMenu = $(this).children("ul.usa-nav-submenu")[0];
+      if (subMenu) {
+        $(this).addClass('expanded');
+        subMenu.setAttribute('aria-hidden', false);
+        setMenuHeight(subMenu);
+      }
+
+      $(this).find('.usa-accordion-button.usa-nav-link').attr('aria-expanded', true);
+
+    }, function () {
+      if (menuButton.is(':visible')) return;
+
+      var subMenu = $(this).children("ul.usa-nav-submenu")[0];
+      if (subMenu) {
+        $(this).removeClass('expanded');
+        subMenu.setAttribute('aria-hidden', true);
+        subMenu.style.height = '0px';
+      }
+
+      $(this).find('.usa-accordion-button.usa-nav-link').attr('aria-expanded', false).blur();
+    });
+
+    // Nav menu accordion buttons
+    $('.usa-accordion-button.usa-nav-link').click(function (evt) {
+      var listItem = $(this).closest('li');
+      var subMenu = listItem.children("ul.usa-nav-submenu")[0];
+      if (subMenu) {
+        if (listItem.hasClass('expanded')) {
+          listItem.removeClass('expanded');
+          subMenu.setAttribute('aria-hidden', true);
+          subMenu.style.height = '0px';
         } else {
-            $('#back2Top').fadeOut();
+          var li = null;
+
+          if (visibleSubMenu) {
+            li = $(visibleSubMenu).closest('li');
+            li.removeClass('expanded');
+            visibleSubMenu.setAttribute('aria-hidden', true);
+            visibleSubMenu.style.height = '0px';
+          }
+
+          listItem.addClass('expanded');
+          subMenu.setAttribute('aria-hidden', false);
+          setMenuHeight(subMenu);
+
+          visibleSubMenu = subMenu;
         }
+      }
     });
-    $(document).ready(function() {   
-        //sub-menu hover...        
-        $("ul.usa-nav-primary.usa-accordion li").hover(function (){ 
-            $(this).children("ul.usa-nav-submenu").slideDown('slow').show();    
-        }, function () {        
-            $(this).children("ul.usa-nav-submenu").slideUp('slow');    
-        });
 
-        //apply buttom ...        
-        $("ul.usa-nav-primary.usa-accordion li").find('a[href*="/apply/"]').addClass('nav-apply-button-link');
-
-        //headroom overrides
-        if ( $( "body.landing-layout" ).length == 0) {                
-                //headroom.js
-                const Header = document.querySelector("header.usa-header");
-                const headroom = new Headroom(Header, {
-                    offset: 50,
-                    tolerance: {
-                        up: 0,
-                        down: 0
-                    },
-                    classes: {
-                        initial: "header--fixed",
-                        pinned: "slideDown",
-                        unpinned: "slideUp",
-                        top: "top",
-                        notTop: "not-top"
-                    }
-                });
-                headroom.init();
-            $("#main-content").addClass('main-content-headroom');
+    // headroom overrides
+    if ($("body.landing-layout").length == 0) {
+      // headroom.js
+      const Header = document.querySelector("header.usa-header");
+      const headroom = new Headroom(Header, {
+        offset: 50,
+        tolerance: {
+          up: 0,
+          down: 0
+        },
+        classes: {
+          initial: "header--fixed",
+          pinned: "slideDown",
+          unpinned: "slideUp",
+          top: "top",
+          notTop: "not-top"
         }
+      });
+      headroom.init();
+      $("#main-content").addClass('main-content-headroom');
+    }
 
-        /*Scroll to top when arrow up clicked*/
-        $("#back2Top").click(function(event) {
-            event.preventDefault();
-            $("html, body").animate({ scrollTop: 0 }, "slow");
-            return false;
-        });
+    /* Scroll to top when arrow up clicked */
+    $("#back2Top").click(function (event) {
+      event.preventDefault();
+      $("html, body").animate({ scrollTop: 0 }, "slow");
+      return false;
     });
+  });
 </script>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -136,9 +190,9 @@ ga('seedfundTracker.send', 'pageview');
 </script>
 <script type="text/javascript">
 function currentAwards(a1) {
-window.open('https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=5373%2C+1591%2C+5371%2C+1505&BooleanElement=Any&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=' + a1 + '&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=',   'a1window');
+  window.open('https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=5373%2C+1591%2C+5371%2C+1505&BooleanElement=Any&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=' + a1 + '&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=',   'a1window');
 }
 function allAwards(a1) {
-window.open('https://www.nsf.gov/awardsearch/simpleSearchResult?queryText=' + a1 + '&ActiveAwards=true',   'a1window');
+  window.open('https://www.nsf.gov/awardsearch/simpleSearchResult?queryText=' + a1 + '&ActiveAwards=true',   'a1window');
 }
 </script>
