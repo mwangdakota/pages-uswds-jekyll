@@ -131,3 +131,11 @@ show:
 
 exclude:
   - scripts/
+  - Gemfile 
+  - Gemfile.lock
+  - .gitignore
+  - Dockerfile
+  - LICENSE.md
+  - serve
+  - README.md
+  - ISSUE_TEMPLATE.md 
