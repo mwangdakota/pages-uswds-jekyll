@@ -131,3 +131,19 @@ show:
 
 exclude:
   - scripts/
+  - Gemfile 
+  - Gemfile.lock
+  - .gitignore
+  - Dockerfile
+  - LICENSE.md
+  - serve
+  - README.md
+  - ISSUE_TEMPLATE.md 
+  - .dockerignore
+  - .node-version
+  - .rubocop.yml
+  - .ruby-gemset
+  - .ruby-version
+  - PULL_REQUEST_TEMPLATE.md
+  - package-lock.json
+  - new-page
