@@ -139,3 +139,10 @@ exclude:
   - serve
   - README.md
   - ISSUE_TEMPLATE.md 
+  - .dockerignore
+  - .node-version
+  - .rubocop.yml
+  - .ruby-gemset
+  - .ruby-version
+  - PULL_REQUEST_TEMPLATE.md
+  - package-lock.json
