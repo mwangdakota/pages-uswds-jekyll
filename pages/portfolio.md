@@ -52,7 +52,7 @@ layout: secondary
 
         <h3 class="three-column-grid__title">New engine tech allows diesel engines to run on any fuel</h3>
         <p>
-           <span class="three-column-grid__company"><a href="https://www.clearflameengines.com/">ClearFlame Engine Technologies</a>.</span>
+           <span class="three-column-grid__company"><a href="https://www.clearflameengines.com/" target="_blank">ClearFlame Engine Technologies</a>.</span>
        </p>
       </div>
       <div class="usa-width-one-third">
@@ -60,7 +60,7 @@ layout: secondary
 
         <h3 class="three-column-grid__title">Engineering bacteria to treat skin disease</h3>
         <p>
-          <span class="three-column-grid__company"><a href="https://azitrainc.com/">Azitra</a>.</span>
+          <span class="three-column-grid__company"><a href="https://azitrainc.com/" target="_blank">Azitra</a>.</span>
           <br><a href="#" class="three-column-grid__cta"></a>
           
         </p>
@@ -70,7 +70,7 @@ layout: secondary
 
         <h3 class="three-column-grid__title">Squishy Robotics’ shape-shifting robots provide real-time data in disasters</h3>
         <p>
-          <span class="three-column-grid__company"><a href="https://squishy-robotics.com">Squishy Robotics</a>.</span>
+          <span class="three-column-grid__company"><a href="https://squishy-robotics.com" target="_blank">Squishy Robotics</a>.</span>
         </p>
       </div>
     </div>
