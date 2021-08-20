@@ -146,3 +146,4 @@ exclude:
   - .ruby-version
   - PULL_REQUEST_TEMPLATE.md
   - package-lock.json
+  - new-page
