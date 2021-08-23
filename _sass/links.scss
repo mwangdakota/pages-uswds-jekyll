@@ -9,7 +9,9 @@ a { cursor: pointer; }
   a {
 
     &[href^='mailto']:not(.usa-button) {
-      background: url('../img/links/email.svg') right center no-repeat;
+      background-image: url('../img/links/email.svg');
+      background-position: right center;
+      background-repeat: no-repeat;
       background-size: 16px auto;
       padding-right: 20px;
       &:focus,
@@ -19,7 +21,9 @@ a { cursor: pointer; }
     }
 
     &[href^='tel']:not(.usa-button) {
-      background: url('../img/links/phone.svg') right center no-repeat;
+      background-image: url('../img/links/phone.svg');
+      background-position: right center;
+      background-repeat: no-repeat;
       background-size: 10px auto;
       padding-right: 16px;
       &:focus,
@@ -29,7 +33,9 @@ a { cursor: pointer; }
     }
 
     &[href *='.doc']:not(.usa-button) {
-      background: url('../img/links/file-word.svg') right center no-repeat;
+      background-image: url('../img/links/file-word.svg');
+      background-position: right center;
+      background-repeat: no-repeat;
       background-size: 16px auto;
       padding-right: 20px;
       &:focus,
@@ -39,7 +45,9 @@ a { cursor: pointer; }
     }
 
     &[href $='.pdf']:not(.usa-button) {
-      background: url('../img/links/file-acrobat.svg') right center no-repeat;
+      background-image: url('../img/links/file-acrobat.svg');
+      background-position: right center;
+      background-repeat: no-repeat;
       background-size: 16px auto;
       padding-right: 20px;
       &:focus,
@@ -49,7 +57,9 @@ a { cursor: pointer; }
     }
 
     &[href $='.ppt']:not(.usa-button) {
-      background: url('../img/links/file-powerpoint.svg') right center no-repeat;
+      background-image: url('../img/links/file-powerpoint.svg');
+      background-position: right center;
+      background-repeat: no-repeat;
       background-size: 16px auto;
       padding-right: 20px;
       &:focus,
@@ -59,7 +69,9 @@ a { cursor: pointer; }
     }
 
     &[href *='.xls']:not(.usa-button) {
-      background: url('../img/links/file-excel.svg') right center no-repeat;
+      background-image: url('../img/links/file-excel.svg');
+      background-position: right center;
+      background-repeat: no-repeat;
       background-size: 16px auto;
       padding-right: 20px;
       &:focus,
@@ -75,13 +87,20 @@ a { cursor: pointer; }
     &[href*='.tech'],
     &[href*='.vc'],
     &.external-link {
-      background: url('../img/links/external-link.svg') right center no-repeat;
+      background-image: url('../img/links/external-link.svg');
+      background-position: right center;
+      background-repeat: no-repeat;
       background-size: 16px auto;
       padding-right: 18px;
       &:focus,
       &:active {
         @include focus-icon-linkstyle;
       }
+    }
+
+    &.usa-button {
+      background-position: 92% center;
+      padding-right: 3.5rem;
     }
 }
 
@@ -109,7 +128,9 @@ a { cursor: pointer; }
       &[href*='.net'],
       &[href*='.co'],
       &.external-link {
-        background: url('../img/links/external-link-inverse.svg') right center no-repeat;
+        background-image: url('../img/links/external-link-inverse.svg');
+        baackground-position: right center;
+        background-repeat: no-repeat;
         background-size: 16px auto;
         padding-right: 18px;
       }
