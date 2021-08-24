@@ -7,7 +7,7 @@
         <ul>
           {% for month_event in annual_event.events %}
             <li>
-              <h4><a href="{{ month_event.href }}">{{ month_event.eventname }}</a></h4>
+              <h4><a href="{{ month_event.href }}" target="_blank">{{ month_event.eventname }}</a></h4>
               <p markdown="1">{{ month_event.desc }}</p>
             </li>
           {% endfor %}
