@@ -11,24 +11,40 @@
       href: http://convention.nsbe.org/  
 - month: May
   events:
-    - eventname: ACA Summit (online)
+    - eventname: ACA
       href: https://events.angelcapitalassociation.org/2021summit
+    - eventname: ARPA-E
+      href: https://www.arpae-summit.com/
 - month: Jun
   events:
 - month: Jul
   events:   
+    - eventname: ASEE Annual Conference
+      href: https://www.asee.org/annual-conference/2021  
 - month: Aug
   events:
+    - eventname: NSBE Professional Development Conference
+      href: https://pdc.nsbe.org/
 - month: Sep
   events:
+    - eventname: AISES
+      href: https://www.aises.org/
+    - eventname: NOBCCHE
+      href: https://www.nobcche.org/conference
 - month: Oct
   events:
-    - eventname: AISES
-      href: http://conference.aises.org/
     - eventname: SACNAS
       href: https://www.sacnas.org/what-we-do/conference/
+    - eventname: SWE
+      href: https://we21.swe.org/about/conference-schedule/      
 - month: Nov
   events:
+    - eventname: NSBP
+      href: http://www.nsbp.org/
+    - eventname: SHPE
+      href: https://www.shpe.org/events/nc2021 
+    - eventname: WEPAN
+      href: https://www.wepan.org/      
 - month: Dec
-
+  events:
 ---
