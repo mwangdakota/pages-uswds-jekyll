@@ -10,7 +10,7 @@ Supplemental funding opportunity applicable for SBIR and STTR Phase II awardees.
 
 The objective of Phase IIB funding is to provide additional R&D funds to further accelerate commercialization of the Phase II project, when a qualifying third party financial investment/commitment has been received as a direct consequence of the NSF funded Phase I/Phase II research outcomes. The third party funding should serve to accelerate commercialization activity of the NSF funded Phase II Program.
 
-## Overall submission and review process
+## Overall Submission and Review Process
 
 ### Request timing
 Phase II awardees are encouraged to start discussing any Phase IIB requests as early as possible with the Program Director on the Grant. The awardee may be invited to submit a formal Financial Package after initial review by the Program Director. The Financial Package must be submitted to the Program Director for review at least a month in advance of the expiry date of the grant to initiate formal NSF review. The Program Director may recommend that the awardee request approval for a no-cost extension (to extend the grant expiry date by up to 6 months) to allow NSF time to review the Phase IIB supplement request.
@@ -62,7 +62,7 @@ NSF does not place restrictions on how the awardee spends the third party funds.
 ### Use of NSF Phase IIB funds
 NSF match funds shall only be used for research & development activities that further build on the Phase II program and catalyze acceleration towards commercialization.
 
-## Phase IIB proposal preparation
+## Phase IIB Proposal Preparation
 Phase IIB proposals MUST be submitted using FastLane. The Phase IIB proposal shall not exceed 15 pages. The additional work proposed should be an expansion of the technical work being performed in the Phase II project and must fall within the scope of the present Phase II project. The proposal will contain the following:
 
 ### The following sections count toward the 15 pages
