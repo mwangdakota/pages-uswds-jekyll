@@ -59,22 +59,85 @@ View our portfolio
 </div>
 </section>
 
-<section class="usa-section usa-section-alt-bg usa-content section-goodfit background-bold-blue">
+<section class="usa-section usa-content section-stories background-light-blue">
+
+      <div class="usa-grid">
+
+        <h2>Success Stories</h2>
+
+      </div>
+
+      <div class="usa-grid">
+        <div class="usa-width-one-half">
+          <div class="stories__media">
+            <iframe sandbox="allow-same-origin allow-scripts" title="New engine tech allows diesel engines to run on any fuel – ClearFlame" width="100%" height="250" src="https://www.youtube.com/embed/wuXqAjPGldE?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe>
+          </div>
+          <h3 class="text-large">ClearFlame Engine Technologies</h3>
+          <p>ClearFlame Engine Technologies, a small business funded by the National Science Foundation (NSF), has developed a novel engine technology that allows diesel engines to run on any fuel. To learn more visit: <a href="https://www.clearflameengines.com" target="_blank" rel="noopener">clearflameengines.com</a>.</p>
+          <p><a class="usa-button usa-button-primary" href="/portfolio/details/?company=clearflame-engine-technologies">
+              View Company Profile
+            </a></p>
+        </div>
+        <div class="usa-width-one-half">
+          <div class="stories__media">
+            <iframe sandbox="allow-same-origin allow-scripts" title="Engineering bacteria to treat skin disease – Azitra" width="100%" height="250" src="https://www.youtube.com/embed/mKWCoHlInZg?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe>
+          </div>
+          <h3 class="text-large">Azitra</h3>
+          <p>Azitra, a small business funded by the National Science Foundation (NSF), is harnessing the microbiome to treat skin disease. To learn more visit: <a href="https://azitrainc.com/" target="_blank" rel="noopener">azitrainc.com</a>.</p>
+          <p><a class="usa-button usa-button-primary" href="/portfolio/details/?company=azitra">
+              View Company Profile
+            </a></p>
+        </div>
+      </div>
+      <div class="usa-grid">
+        <div class="usa-width-one-half">
+          <div class="stories__media">
+            <img src="https:&#x2F;&#x2F;squishy-robotics.com&#x2F;wp-content&#x2F;uploads&#x2F;2021&#x2F;04&#x2F;home_box_images-01-1024x768.jpg" alt="Photo of Squishy Robot in a simulated earthquake disaster" width="100%" height="250" />
+          </div>
+          <h3 class="text-large">Squishy Robotics</h3>
+          <p>ClearFlame Engine Technologies, a small business funded by the National Science Foundation (NSF), has developed a novel engine technology that allows diesel engines to run on any fuel. To learn more visit: <a href="https://squishy-robotics.com/" target="_blank" rel="noopener">squishy-robotics.com</a>.</p>
+          <p><a class="usa-button usa-button-primary" href="/portfolio/details/?company=squishy-robotics">
+              View Company Profile
+            </a></p>
+        </div>
+        <div class="usa-width-one-half">
+          <div class="stories__media">
+            <iframe sandbox="allow-same-origin allow-scripts" title="Learning math using music and psychology – Muzology" width="100%" height="250" src="https://www.youtube.com/embed/rnUx5iRdHWk?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe>
+          </div>
+          <h3 class="text-large">Muzology</h3>
+          <p>Muzology is developing a learning platform to help students learn math. Grounded in psychology, Muzology’s platform helps students learn algebra concepts with music. To learn more visit: <a href="https://www.muzology.com/" target="_blank" rel="noopener">muzology.com</a>.</p>
+          <p><a class="usa-button usa-button-primary" href="/portfolio/details/?company=muzology">
+              View Company Profile
+            </a></p>
+        </div>
+      </div>
+      <div class="usa-grid stories__more-btn">
+        <p><a class="usa-button usa-button-primary" href="/portfolio/">
+            View More Success Stories
+          </a></p>
+      </div>
+    </section>
+    <section class="usa-section usa-content section-goodfit">
 <div class="usa-grid" markdown="1">
-**America's Seed Fund**<br>
-National Science Foundation<br>
-SBIR &#124; STTR
+<div class="usa-content" markdown="1">
 
-<div class="usa-width-two-thirds usa-grid-center usa-content" markdown="1">
-<hr class="divider divider-left">
-<p class="text-large"><strong>We support research and development of  deep technologies - those that are based on discoveries in fundamental science and engineering. As we review applications, we consider your technology’s innovativeness, commercial potential, and possible societal impact.</strong></p>
+<p class="text-large">We support research and development of deep technologies - those that are based on discoveries in fundamental science and engineering. As we review applications, we consider your technology’s innovativeness, commercial potential, and possible societal impact.<a href="{{ site.baseurl }}/awardees/phase-1/">View current awardees</a>
+  </p>
 
-<a class="usa-button usa-button-secondary usa-button-big button-arrow" href="{{ site.baseurl }}/awardees/phase-1/">
-View current awardees
-</a>
+ <hr class="divider divider-left" />
+          <p><strong>America's Seed Fund</strong><br />
+            National Science Foundation<br />
+
+            SBIR &#124; STTR</p>
 
 </div>
 </div>
+   <small>
+
+        <div class="usa-grid">
+          <p>Photo Credit: Cyclopure | Cyclopure CP analytical chemists can measure DEXSORB@ efficiency at 1-2 part per trillion concentration</p>
+        </div>
+      </small>
 </section>
 
 
@@ -101,3 +164,104 @@ What we look for
 
 </div></div>
 </section>
+
+<section class="usa-section usa-content section-testimonials background-light-neutral">
+
+      <div class="usa-grid">
+
+        <h2>Testimonials</h2>
+
+
+        <div class="carousel" id="testimonial-carousel" role="region" aria-roledescription="carousel" aria-live="off">
+
+          <div class="slides">
+
+            <article class="slide current" role="group" aria-roledescription="slide" aria-label="Testimonial 1">
+
+              <img src="https:&#x2F;&#x2F;loremflickr.com&#x2F;200&#x2F;200&#x2F;professional-headshot?1" alt="Photo of Mohit Lad" />
+
+              <blockquote>
+
+                <p>"The grants we received from NSF were instrumental in building the first version of our product and acquiring our first customers"</p>
+
+                <hr class="divider divider-left" />
+
+                <cite>
+
+                  <strong>Mohit Lad</strong>
+
+                  <span>CEO of ThousandEyes</span>
+
+                </cite>
+
+              </blockquote>
+
+            </article>
+
+            <article class="slide" role="group" aria-roledescription="slide" aria-label="Testimonial 2">
+
+              <img src="https:&#x2F;&#x2F;loremflickr.com&#x2F;200&#x2F;200&#x2F;professional-headshot?2" alt="Photo of Lorem Ipsum" />
+
+              <blockquote>
+
+                <p>"Lorem ipsum sint aute mollit non officia sint dolor commodo fugiat labore adipisicing nisi excepteur est labore ut ut enim amet."</p>
+
+                <hr class="divider divider-left" />
+
+                <cite>
+
+                  <strong>Lorem Ipsum</strong>
+
+                  <span>Anim Nonest Adipisicing</span>
+
+                </cite>
+
+              </blockquote>
+
+            </article>
+
+            <article class="slide" role="group" aria-roledescription="slide" aria-label="Testimonial 3">
+
+
+              <blockquote>
+
+                <p>"Nisi dolor dolor incididunt dolor sint irure excepteur cillum anim exercitation."</p>
+
+                <hr class="divider divider-left" />
+
+                <cite>
+
+                  <strong>Mollit Tempor</strong>
+
+                  <span>Cillum in Laborum Ullamco Ex</span>
+
+                </cite>
+
+              </blockquote>
+
+            </article>
+
+            </ul>
+
+          </div>
+
+        </div>
+
+
+    </section>
+    <script type="text/javascript" src="../../assets/js/w3c-carousel.js"></script>
+    <script>
+      var carousel = new myCarousel();
+      carousel.init({
+        id: 'testimonial-carousel',
+        slidenav: true,
+        animate: true,
+        startAnimated: true,
+        duration: 8000,
+        slideLabel: 'Testimonial
+      });
+    </script>
+
+
+
+
