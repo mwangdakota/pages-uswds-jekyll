@@ -113,30 +113,23 @@ View our portfolio
             View More Success Stories
           </a></p>
       </div>
-    </section>
-    <section class="usa-section usa-content section-goodfit">
+    </section><section class="usa-section usa-content section-goodfit">
 <div class="usa-grid" markdown="1">
 <div class="usa-content" markdown="1">
-
-<p class="text-large">We support research and development of deep technologies - those that are based on discoveries in fundamental science and engineering. As we review applications, we consider your technology’s innovativeness, commercial potential, and possible societal impact.<a href="{{ site.baseurl }}/awardees/phase-1/">View current awardees</a>
+  <p class="text-large">We support research and development of deep technologies - those that are based on discoveries in fundamental science and engineering. As we review applications, we consider your technology’s innovativeness, commercial potential, and possible societal impact.<a href="{{ site.baseurl }}/awardees/phase-1/">View current awardees</a>
   </p>
-
- <hr class="divider divider-left" />
-          <p><strong>America's Seed Fund</strong><br />
+  <hr class="divider divider-left" />
+  <p><strong>America's Seed Fund</strong><br />
             National Science Foundation<br />
-
             SBIR &#124; STTR</p>
-
 </div>
 </div>
    <small>
-
         <div class="usa-grid">
           <p>Photo Credit: Cyclopure | Cyclopure CP analytical chemists can measure DEXSORB@ efficiency at 1-2 part per trillion concentration</p>
         </div>
       </small>
 </section>
-
 
 <section class="usa-section usa-content section-about background-light-blue">
 <div class="usa-grid">
