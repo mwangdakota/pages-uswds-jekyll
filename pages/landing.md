@@ -71,7 +71,7 @@ View our portfolio
           </div>
           <h3 class="text-large">ClearFlame Engine Technologies</h3>
           <p>ClearFlame Engine Technologies, a small business funded by the National Science Foundation (NSF), has developed a novel engine technology that allows diesel engines to run on any fuel. To learn more visit: <a href="https://www.clearflameengines.com" target="_blank" rel="noopener">clearflameengines.com</a>.</p>
-          <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}/portfolio/details/?company=clearflame-engine-technologies">
+          <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}/awardees/history/details/?company=clearflame-engines-inc">
               View Company Profile
             </a></p>
         </div>
@@ -81,7 +81,7 @@ View our portfolio
           </div>
           <h3 class="text-large">Azitra</h3>
           <p>Azitra, a small business funded by the National Science Foundation (NSF), is harnessing the microbiome to treat skin disease. To learn more visit: <a href="https://azitrainc.com/" target="_blank" rel="noopener">azitrainc.com</a>.</p>
-          <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}/portfolio/details/?company=azitra">
+          <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}/awardees/history/details/?company=azitra-inc">
               View Company Profile
             </a></p>
         </div>
@@ -93,7 +93,7 @@ View our portfolio
           </div>
           <h3 class="text-large">Squishy Robotics</h3>
           <p>ClearFlame Engine Technologies, a small business funded by the National Science Foundation (NSF), has developed a novel engine technology that allows diesel engines to run on any fuel. To learn more visit: <a href="https://squishy-robotics.com/" target="_blank" rel="noopener">squishy-robotics.com</a>.</p>
-          <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}/portfolio/details/?company=squishy-robotics">
+          <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}/awardees/history/details/?company=squishy-robotics-inc">
               View Company Profile
             </a></p>
         </div>
@@ -103,7 +103,7 @@ View our portfolio
           </div>
           <h3 class="text-large">Muzology</h3>
           <p>Muzology is developing a learning platform to help students learn math. Grounded in psychology, Muzology’s platform helps students learn algebra concepts with music. To learn more visit: <a href="https://www.muzology.com/" target="_blank" rel="noopener">muzology.com</a>.</p>
-          <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}/portfolio/details/?company=muzology">
+          <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}/awardees/history/details/?company=muzology-llc">
               View Company Profile
             </a></p>
         </div>
@@ -172,15 +172,15 @@ What we look for
                 </cite>
               </blockquote>
             </article>
-            <article class="slide" role="group" aria-roledescription="slide" aria-label="Testimonial 2">
-              <img src="https:&#x2F;&#x2F;loremflickr.com&#x2F;200&#x2F;200&#x2F;professional-headshot?2" alt="Photo of Lorem Ipsum" />
-
-              <blockquote>
-                <p>"Lorem ipsum sint aute mollit non officia sint dolor commodo fugiat labore adipisicing nisi excepteur est labore ut ut enim amet."</p>
+            
+            <article class="slide current" role="group" aria-roledescription="slide" aria-label="Testimonial 1">
+              <img src="{{ site.baseurl }}/assets/img/showcase/thousandEyes.jpg" alt="Photo of Mohit Lad" />
+             <blockquote>
+                <p>"The grants we received from NSF were instrumental in building the first version of our product and acquiring our first customers"</p>
                 <hr class="divider divider-left" />
                 <cite>
-                  <strong>Lorem Ipsum</strong>
-                  <span>Anim Nonest Adipisicing</span>
+                  <strong>Mohit Lad</strong>
+                  <span>CEO of ThousandEyes</span>
                 </cite>
               </blockquote>
             </article>
