@@ -60,11 +60,8 @@ View our portfolio
 </section>
 
 <section class="usa-section usa-content section-stories background-light-blue">
-
-      <div class="usa-grid">
-
+     <div class="usa-grid">
         <h2>Success Stories</h2>
-
       </div>
 
       <div class="usa-grid">
@@ -166,87 +163,49 @@ What we look for
 </section>
 
 <section class="usa-section usa-content section-testimonials background-light-neutral">
-
       <div class="usa-grid">
-
         <h2>Testimonials</h2>
 
-
         <div class="carousel" id="testimonial-carousel" role="region" aria-roledescription="carousel" aria-live="off">
-
           <div class="slides">
-
             <article class="slide current" role="group" aria-roledescription="slide" aria-label="Testimonial 1">
-
               <img src="https:&#x2F;&#x2F;loremflickr.com&#x2F;200&#x2F;200&#x2F;professional-headshot?1" alt="Photo of Mohit Lad" />
-
-              <blockquote>
-
+             <blockquote>
                 <p>"The grants we received from NSF were instrumental in building the first version of our product and acquiring our first customers"</p>
-
                 <hr class="divider divider-left" />
-
                 <cite>
-
-                  <strong>Mohit Lad</strong>
-
+                  <strong>Mohit Lad</strong
                   <span>CEO of ThousandEyes</span>
-
                 </cite>
-
               </blockquote>
-
             </article>
-
             <article class="slide" role="group" aria-roledescription="slide" aria-label="Testimonial 2">
-
               <img src="https:&#x2F;&#x2F;loremflickr.com&#x2F;200&#x2F;200&#x2F;professional-headshot?2" alt="Photo of Lorem Ipsum" />
 
               <blockquote>
-
                 <p>"Lorem ipsum sint aute mollit non officia sint dolor commodo fugiat labore adipisicing nisi excepteur est labore ut ut enim amet."</p>
-
                 <hr class="divider divider-left" />
-
                 <cite>
-
                   <strong>Lorem Ipsum</strong>
-
                   <span>Anim Nonest Adipisicing</span>
-
                 </cite>
-
               </blockquote>
-
             </article>
 
             <article class="slide" role="group" aria-roledescription="slide" aria-label="Testimonial 3">
 
-
               <blockquote>
-
                 <p>"Nisi dolor dolor incididunt dolor sint irure excepteur cillum anim exercitation."</p>
-
                 <hr class="divider divider-left" />
-
                 <cite>
-
                   <strong>Mollit Tempor</strong>
-
                   <span>Cillum in Laborum Ullamco Ex</span>
-
                 </cite>
-
-              </blockquote>
-
+              </blockquote
             </article>
-
             </ul>
-
           </div>
-
         </div>
-
 
     </section>
     <script type="text/javascript" src="../../assets/js/w3c-carousel.js"></script>
