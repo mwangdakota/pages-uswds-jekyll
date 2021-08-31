@@ -167,7 +167,7 @@ What we look for
                 <p>"The grants we received from NSF were instrumental in building the first version of our product and acquiring our first customers"</p>
                 <hr class="divider divider-left" />
                 <cite>
-                  <strong>Mohit Lad</strong
+                  <strong>Mohit Lad</strong>
                   <span>CEO of ThousandEyes</span>
                 </cite>
               </blockquote>
