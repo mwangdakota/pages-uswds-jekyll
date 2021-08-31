@@ -147,4 +147,4 @@ For Phase IIB supplements greater than $250,000 (24 month extension) 25% will be
 
 ## Reporting Requirements
 
-In updating the milestone chart, the reports due during the Phase IIB supplement period should reflect the progress of both the Phase II and IIB programs using the standard progress report format. Upon completion of the Phase IIB, complete documentation, including initial Phase II as well as Phase IIB supplemental activities must be reported.
+In updating the milestone chart, the reports due during the Phase IIB supplement period should reflect the progress of both the Phase II and IIB programs using the standard progress report format. Upon completion of the Phase IIB, complete documentation, including initial Phase II as well as Phase IIB supplemental activities must be reported..
