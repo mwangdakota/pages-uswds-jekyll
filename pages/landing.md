@@ -197,8 +197,7 @@ What we look for
               </blockquote
             </article>
             
-          </div>
-              <ul class="controls">
+          </div><ul class="controls">
                 <li><button type="button" class="btn-prev" aria-controls="testimonial-carousel"><span class="usa-sr-only">Previous Item</span></button></li>
                 <li><button type="button" class="btn-next" aria-controls="testimonial-carousel"><span class="usa-sr-only">Next Item</span></button></li>
               </ul>
