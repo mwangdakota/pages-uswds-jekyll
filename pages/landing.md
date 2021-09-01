@@ -191,10 +191,10 @@ What we look for
                 </cite>
               </blockquote>
             </article>
-            </ul>
+            
           </div>
         </div>
-    </section>
+   
 
     <script type="text/javascript" src="{{ site.baseurl }}/assets/js/w3c-carousel.js"></script>
     <script>
