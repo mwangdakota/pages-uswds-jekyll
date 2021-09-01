@@ -222,7 +222,7 @@ What we look for
         animate: true,
         startAnimated: true,
         duration: 8000,
-        slideLabel: 'Testimonial
+        slideLabel: 'Testimonial'
       });
     </script>
 
