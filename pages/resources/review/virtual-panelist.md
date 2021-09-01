@@ -27,7 +27,7 @@ Please join the panel at least 15 minutes prior to the scheduled start time to e
 5. **NSF discourages the use of mobile devices** due to poor quality of communications (noise, drop calls, unintelligible signals, etc.).  
 To ensure the confidentiality and integrity of the NSF review process, you **MUST** ensure that panel discussions are not overheard by anyone else besides you. Closed doors and/or headset are strongly recommended. Similarly, it is imperative that no one else can see your computer screen showing the working of the panel.  
 
-**Peer review guidelines Fastlane instructions for panelists can be found at:** https://www.nsf.gov/eng/iip/sbir/review_process.jsp.
+**Merit review guidelines Fastlane instructions for panelists can be found at:** https://www.nsf.gov/eng/iip/sbir/review_process.jsp.
 
 ## Additional Notes
 
