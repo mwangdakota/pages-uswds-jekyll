@@ -194,7 +194,7 @@ What we look for
                   <strong>Mollit Tempor</strong>
                   <span>Cillum in Laborum Ullamco Ex</span>
                 </cite>
-              </blockquote
+              </blockquote>
             </article>
             
           </div>
