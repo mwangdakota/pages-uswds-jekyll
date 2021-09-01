@@ -67,7 +67,7 @@ View our portfolio
       <div class="usa-grid">
         <div class="usa-width-one-half">
           <div class="stories__media">
-            <iframe sandbox="allow-same-origin allow-scripts" title="New engine tech allows diesel engines to run on any fuel – ClearFlame" width="100%" height="250" src="https://www.youtube.com/embed/wuXqAjPGldE?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe>
+            <iframe sandbox="allow-same-origin allow-scripts" title="ClearFlame Engine Technologies" width="100%" height="300" src="https://www.youtube.com/embed/wuXqAjPGldE?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe>
           </div>
           <h3 class="text-large">ClearFlame Engine Technologies</h3>
           <p>ClearFlame Engine Technologies, a small business funded by the National Science Foundation (NSF), has developed a novel engine technology that allows diesel engines to run on any fuel. To learn more visit: <a href="https://www.clearflameengines.com" target="_blank" rel="noopener">clearflameengines.com</a>.</p>
@@ -77,7 +77,7 @@ View our portfolio
         </div>
         <div class="usa-width-one-half">
           <div class="stories__media">
-            <iframe sandbox="allow-same-origin allow-scripts" title="Engineering bacteria to treat skin disease – Azitra" width="100%" height="250" src="https://www.youtube.com/embed/mKWCoHlInZg?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe>
+            <iframe sandbox="allow-same-origin allow-scripts" title="Azitra" width="100%" height="300" src="https://www.youtube.com/embed/mKWCoHlInZg" frameborder="0" allowfullscreen></iframe>
           </div>
           <h3 class="text-large">Azitra</h3>
           <p>Azitra, a small business funded by the National Science Foundation (NSF), is harnessing the microbiome to treat skin disease. To learn more visit: <a href="https://azitrainc.com/" target="_blank" rel="noopener">azitrainc.com</a>.</p>
@@ -89,7 +89,7 @@ View our portfolio
       <div class="usa-grid">
         <div class="usa-width-one-half">
           <div class="stories__media">
-            <img src="https:&#x2F;&#x2F;squishy-robotics.com&#x2F;wp-content&#x2F;uploads&#x2F;2021&#x2F;04&#x2F;home_box_images-01-1024x768.jpg" alt="Photo of Squishy Robot in a simulated earthquake disaster" width="100%" height="250" />
+             <iframe sandbox="allow-same-origin allow-scripts" title="Squishy Robotics" width="100%" height="300" src="https://www.youtube.com/embed/RcPFQJorwpc?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe>
           </div>
           <h3 class="text-large">Squishy Robotics</h3>
           <p>ClearFlame Engine Technologies, a small business funded by the National Science Foundation (NSF), has developed a novel engine technology that allows diesel engines to run on any fuel. To learn more visit: <a href="https://squishy-robotics.com/" target="_blank" rel="noopener">squishy-robotics.com</a>.</p>
@@ -99,7 +99,7 @@ View our portfolio
         </div>
         <div class="usa-width-one-half">
           <div class="stories__media">
-            <iframe sandbox="allow-same-origin allow-scripts" title="Learning math using music and psychology – Muzology" width="100%" height="250" src="https://www.youtube.com/embed/rnUx5iRdHWk?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe>
+            <iframe sandbox="allow-same-origin allow-scripts" title="Muzology" width="100%" height="300" src="https://www.youtube.com/embed/rnUx5iRdHWk?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe>
           </div>
           <h3 class="text-large">Muzology</h3>
           <p>Muzology is developing a learning platform to help students learn math. Grounded in psychology, Muzology’s platform helps students learn algebra concepts with music. To learn more visit: <a href="https://www.muzology.com/" target="_blank" rel="noopener">muzology.com</a>.</p>
