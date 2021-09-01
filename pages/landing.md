@@ -154,16 +154,14 @@ What we look for
 
 </div></div>
 </section>
-
 <section class="usa-section usa-content section-testimonials background-light-neutral">
       <div class="usa-grid">
         <h2>Testimonials</h2>
-
         <div class="carousel" id="testimonial-carousel" role="region" aria-roledescription="carousel" aria-live="off">
           <div class="slides">
             <article class="slide current" role="group" aria-roledescription="slide" aria-label="Testimonial 1">
-              <img src="{{ site.baseurl }}/assets/img/showcase/thousandEyes.jpg" alt="Photo of Mohit Lad" />
-             <blockquote>
+              <img src="https:&#x2F;&#x2F;loremflickr.com&#x2F;200&#x2F;200&#x2F;professional-headshot?1" alt="Photo of Mohit Lad" />
+              <blockquote>
                 <p>"The grants we received from NSF were instrumental in building the first version of our product and acquiring our first customers"</p>
                 <hr class="divider divider-left" />
                 <cite>
@@ -172,21 +170,18 @@ What we look for
                 </cite>
               </blockquote>
             </article>
-            
-            <article class="slide current" role="group" aria-roledescription="slide" aria-label="Testimonial 1">
-              <img src="{{ site.baseurl }}/assets/img/showcase/thousandEyes.jpg" alt="Photo of Mohit Lad" />
-             <blockquote>
-                <p>"The grants we received from NSF were instrumental in building the first version of our product and acquiring our first customers"</p>
+            <article class="slide" role="group" aria-roledescription="slide" aria-label="Testimonial 2">
+              <img src="https:&#x2F;&#x2F;loremflickr.com&#x2F;200&#x2F;200&#x2F;professional-headshot?2" alt="Photo of Lorem Ipsum" />
+              <blockquote>
+                <p>"Lorem ipsum sint aute mollit non officia sint dolor commodo fugiat labore adipisicing nisi excepteur est labore ut ut enim amet."</p>
                 <hr class="divider divider-left" />
                 <cite>
-                  <strong>Mohit Lad</strong>
-                  <span>CEO of ThousandEyes</span>
+                  <strong>Lorem Ipsum</strong>
+                  <span>Anim Nonest Adipisicing</span>
                 </cite>
               </blockquote>
             </article>
-
             <article class="slide" role="group" aria-roledescription="slide" aria-label="Testimonial 3">
-
               <blockquote>
                 <p>"Nisi dolor dolor incididunt dolor sint irure excepteur cillum anim exercitation."</p>
                 <hr class="divider divider-left" />
@@ -196,23 +191,11 @@ What we look for
                 </cite>
               </blockquote>
             </article>
-            
+            </ul>
           </div>
-              <ul class="controls">
-                <li><button type="button" class="btn-prev" aria-controls="testimonial-carousel"><span class="usa-sr-only">Previous Item</span></button></li>
-                <li><button type="button" class="btn-next" aria-controls="testimonial-carousel"><span class="usa-sr-only">Next Item</span></button></li>
-              </ul>
-              <ul class="slidenav">
-                <li><button data-action="stop" class="btn-stop" type="button" aria-controls="testimonial-carousel"><span class="usa-sr-only">Stop Animation</span></button></li>
-                <li><button class="" data-slide="0" type="button" aria-controls="testimonial-carousel"><span class="usa-sr-only">Testimonial 1</span></button></li>
-                <li><button data-slide="1" type="button" aria-controls="testimonial-carousel" class="current"><span class="usa-sr-only">Testimonial 2 (Current)</span></button></li>
-                <li><button data-slide="2" type="button" aria-controls="testimonial-carousel" class=""><span class="usa-sr-only">Testimonial 3</span></button></li>
-              </ul>
-              <div aria-live="polite" aria-atomic="true" class="liveregion usa-sr-only"></div>
-              </div>
         </div>
-
     </section>
+
     <script type="text/javascript" src="{{ site.baseurl }}/assets/js/w3c-carousel.js"></script>
     <script>
       var carousel = new myCarousel();
@@ -225,7 +208,4 @@ What we look for
         slideLabel: 'Testimonial'
       });
     </script>
-
-
-
 
