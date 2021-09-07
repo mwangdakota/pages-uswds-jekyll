@@ -1,12 +1,12 @@
 ---
-title: Peer mail review
-permalink: /resources/review/peer-mail-review/
+title: Merit mail review
+permalink: /resources/review/merit-mail-review/
 layout: resources-layout
 sidenav: review
 ---
 # Mail review instructions
 
-## Peer mail review
+## Merit mail review
 
 The "Proposal Review" feature of NSF's FastLane system is required by the Directorate of Engineering for all Mail Review Functions. The **Proposal Review** feature has several important components:
 
@@ -19,7 +19,7 @@ The "Proposal Review" feature of NSF's FastLane system is required by the Direct
 4. The **"Proposal Review"** screen will appear. By clicking the "Edit" button, all reviewer contact information can be updated or corrected. The Proposal Information is displayed to the right and is not editable. Reviewers can also update demographic information on this screen as well.
 5. Scroll to the very bottom of the screen.
 6. The "Prepare Review" link will allow the reviewer to rate the proposal and enter review text, as well as identify any potential Conflict of Interest and supply other Suggested Reviewers (please include email address).  
-Please note that the Proposal Evaluation Criteria listed on this page is general for NSF. See specific and additional [SBIR/STTR Program Review Criteria here]({{ site.baseurl }}/resources/review/peer-review/).  
+Please note that the Proposal Evaluation Criteria listed on this page is general for NSF. See specific and additional [SBIR/STTR Program Review Criteria here]({{ site.baseurl }}/resources/review/merit-review/).  
 - Scroll to the bottom of the first page and click the "Continue" button to reach the **'Proposal Review'** screen where the Principal Investigator’s name, proposal number, submitting institution, and other data will be displayed.
 - Under **'Rating Section'** please click "I am rating this proposal." and then click the **overall rating box** that is most appropriate. This can be done after entering the review text if desired. Please do not select multiple ratings for SBIR/STTR proposals.
 - In the box titled **"What is the intellectual merit of the proposed activity?"** please enter your review comments to address this question.

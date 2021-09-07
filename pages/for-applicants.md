@@ -59,7 +59,7 @@ Before you start your proposal, take a look at our [FastLane guide]({{ site.base
 
 ## Review Guidelines
 
-Read the [Peer Review Guidelines](https://seedfund.nsf.gov/resources/review/peer-review/) to determine if your proposal fits the merit review or broader impacts criteria that we use to make funding decisions.
+Read the [Merit Review Guidelines](https://seedfund.nsf.gov/resources/review/merit-review/) to determine if your proposal fits the merit review or broader impacts criteria that we use to make funding decisions.
 
 ## Beyond Phase I
 
