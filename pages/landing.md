@@ -67,21 +67,21 @@ View our portfolio
       <div class="usa-grid">
         <div class="usa-width-one-half">
           <div class="stories__media">
-            <iframe sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="ClearFlame Engine Technologies" width="100%" height="300" src="https://www.youtube.com/embed/wuXqAjPGldE?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe>
+            <iframe sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Dimensional Energy" width="100%" height="300" src="https://www.youtube.com/embed/SlVRqx6w3rQ" frameborder="0" allowfullscreen></iframe>
           </div>
-          <h3 class="text-large">ClearFlame Engine Technologies</h3>
-          <p>ClearFlame Engine Technologies, a small business funded by the National Science Foundation (NSF), has developed a novel engine technology that allows diesel engines to run on any fuel. To learn more visit: <a href="https://www.clearflameengines.com" target="_blank" rel="noopener">clearflameengines.com</a>.</p>
-          <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}/awardees/history/details/?company=clearflame-engines-inc">
+          <h3 class="text-large"Recycling CO2 into fuels</h3>
+          <p>Dimensional Energy, a small business funded by the National Science Foundation (NSF), uses sunlight to convert carbon dioxide (CO2) into energy. To learn more visit: <a href="https://dimensionalenergy.com/" target="_blank" rel="noopener">https://dimensionalenergy.com/</a>.</p>
+          <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}/awardees/history/details/?company=dimensional-energy-inc">
               View Company Profile
             </a></p>
         </div>
         <div class="usa-width-one-half">
           <div class="stories__media">
-            <iframe sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Azitra" width="100%" height="300" src="https://www.youtube.com/embed/mKWCoHlInZg" frameborder="0" allowfullscreen></iframe>
+            <iframe sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Path Ex" width="100%" height="300" src="https://www.youtube.com/embed/fnv-hdTCSPM" frameborder="0" allowfullscreen></iframe>
           </div>
-          <h3 class="text-large">Azitra</h3>
-          <p>Azitra, a small business funded by the National Science Foundation (NSF), is harnessing the microbiome to treat skin disease. To learn more visit: <a href="https://azitrainc.com/" target="_blank" rel="noopener">azitrainc.com</a>.</p>
-          <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}/awardees/history/details/?company=azitra-inc">
+          <h3 class="text-large">Blood cleansing device removes pathogens</h3>
+          <p>Path Ex, a small business funded by the National Science Foundation (NSF), is developing a device to remove pathogens from blood. To learn more visit: <a href="https://pathex.co/" target="_blank" rel="noopener">https://pathex.co/</a>.</p>
+          <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}/awardees/history/details/?company=path-ex">
               View Company Profile
             </a></p>
         </div>
@@ -89,11 +89,11 @@ View our portfolio
       <div class="usa-grid">
         <div class="usa-width-one-half">
           <div class="stories__media">
-             <iframe sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Squishy Robotics" width="100%" height="300" src="https://www.youtube.com/embed/RcPFQJorwpc?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe>
+             <iframe sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Re:3D" width="100%" height="300" src="https://www.youtube.com/embed/XDEgLYwdKP4?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe>
           </div>
-          <h3 class="text-large">Squishy Robotics</h3>
-          <p>ClearFlame Engine Technologies, a small business funded by the National Science Foundation (NSF), has developed a novel engine technology that allows diesel engines to run on any fuel. To learn more visit: <a href="https://squishy-robotics.com/" target="_blank" rel="noopener">squishy-robotics.com</a>.</p>
-          <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}/awardees/history/details/?company=squishy-robotics-inc">
+          <h3 class="text-large">From plastic trash to 3D printing</h3>
+          <p>re:3D, a small business funded by the National Science Foundation (NSF), makes large-scale, industrial 3D printers that can print from plastic waste. To learn more visit: <a href="https://re3d.org/" target="_blank" rel="noopener">https://re3d.org/</a>.</p>
+          <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}/awardees/history/details/?company=re3d-inc">
               View Company Profile
             </a></p>
         </div>
