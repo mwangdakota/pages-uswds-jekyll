@@ -194,19 +194,6 @@ What we look for
             </article>
             
           </div>
-          
-          <ul class="controls">
-                <li><button type="button" class="btn-prev" aria-controls="testimonial-carousel"><span class="usa-sr-only">Previous Item</span></button></li>
-                <li><button type="button" class="btn-next" aria-controls="testimonial-carousel"><span class="usa-sr-only">Next Item</span></button></li>
-              </ul>
-              <ul class="slidenav">
-                <li><button data-action="stop" class="btn-stop" type="button" aria-controls="testimonial-carousel"><span class="usa-sr-only">Stop Animation</span></button></li>
-                <li><button class="" data-slide="0" type="button" aria-controls="testimonial-carousel"><span class="usa-sr-only">Testimonial 1</span></button></li>
-                <li><button data-slide="1" type="button" aria-controls="testimonial-carousel" class="current"><span class="usa-sr-only">Testimonial 2 (Current)</span></button></li>
-                <li><button data-slide="2" type="button" aria-controls="testimonial-carousel" class=""><span class="usa-sr-only">Testimonial 3</span></button></li>
-              </ul>
-              <div aria-live="polite" aria-atomic="true" class="liveregion usa-sr-only"></div>
-              </div>
         
         </div>
    
