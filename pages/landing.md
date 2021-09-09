@@ -177,7 +177,7 @@ What we look for
                 <hr class="divider divider-left" />
                 <cite>
                   <strong>Jignesh Patel</strong>
-                  <span>CEO of <a href="https://datachat.ai/" target="_blank">DataChat</a>] (<a href="{{ site.baseurl/awardees/history/details/?company=datachat-inc ">NSF-1853057</a>)</span>
+                  <span>CEO of <a href="https://datachat.ai/" target="_blank">DataChat</a> (<a href="{{ site.baseurl/awardees/history/details/?company=datachat-inc ">NSF-1853057</a>)</span>
                 </cite>
               </blockquote>
             </article>
@@ -187,24 +187,12 @@ What we look for
                 <p>"NSF helped us refine our vision, figure out if our technology could be used for different applications, and helped us figure out if we can manufacture our technology in a scalable fashion — taking it from an academic project to a real-scale commercial project."</p>
                 <hr class="divider divider-left" />
                 <cite>
-                  <strong>Jignesh Patel</strong>
-                  <span>Shreya Dave, co-founder and CEO of <a href="https://www.viaseparations.com/" target="_blank">Via Separations</a> (<a href="{{ site.baseurl/awardees/history/details/?company=via-separations-llc">NSF-1831203</a>)</span>
+                  <strong>Shreya Dave</strong>
+                  <span>Co-founder and CEO of <a href="https://www.viaseparations.com/" target="_blank">Via Separations</a> (<a href="{{ site.baseurl/awardees/history/details/?company=via-separations-llc">NSF-1831203</a>)</span>
                 </cite>
               </blockquote>
             </article>
             
-          </div>
-              <ul class="controls">
-                <li><button type="button" class="btn-prev" aria-controls="testimonial-carousel"><span class="usa-sr-only">Previous Item</span></button></li>
-                <li><button type="button" class="btn-next" aria-controls="testimonial-carousel"><span class="usa-sr-only">Next Item</span></button></li>
-              </ul>
-              <ul class="slidenav">
-                <li><button data-action="stop" class="btn-stop" type="button" aria-controls="testimonial-carousel"><span class="usa-sr-only">Stop Animation</span></button></li>
-                <li><button class="" data-slide="0" type="button" aria-controls="testimonial-carousel"><span class="usa-sr-only">Testimonial 1</span></button></li>
-                <li><button data-slide="1" type="button" aria-controls="testimonial-carousel" class="current"><span class="usa-sr-only">Testimonial 2 (Current)</span></button></li>
-                <li><button data-slide="2" type="button" aria-controls="testimonial-carousel" class=""><span class="usa-sr-only">Testimonial 3</span></button></li>
-              </ul>
-              <div aria-live="polite" aria-atomic="true" class="liveregion usa-sr-only"></div>
               </div>
         </div>
    
@@ -221,4 +209,3 @@ What we look for
         slideLabel: 'Testimonial'
       });
     </script>
-
