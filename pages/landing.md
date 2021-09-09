@@ -177,7 +177,7 @@ What we look for
                 <hr class="divider divider-left" />
                 <cite>
                   <strong>Jignesh Patel</strong>
-                  <span>CEO of <a href="https://datachat.ai/" target="_blank">DataChat</a> (<a href="{{ site.baseurl/awardees/history/details/?company=datachat-inc ">NSF-1853057</a>)</span>
+                  <span>CEO of <a href="https://datachat.ai/" target="_blank">DataChat</a> (<a href="{{ site.baseurl }}/awardees/history/details/?company=datachat-inc">NSF-1853057</a>)</span>
                 </cite>
               </blockquote>
             </article>
@@ -188,7 +188,7 @@ What we look for
                 <hr class="divider divider-left" />
                 <cite>
                   <strong>Shreya Dave</strong>
-                  <span>Co-founder and CEO of <a href="https://www.viaseparations.com/" target="_blank">Via Separations</a> (<a href="{{ site.baseurl/awardees/history/details/?company=via-separations-llc">NSF-1831203</a>)</span>
+                  <span>Co-founder and CEO of <a href="https://www.viaseparations.com/" target="_blank">Via Separations</a> (<a href="{{ site.baseurl }}/awardees/history/details/?company=via-separations-llc">NSF-1831203</a>)</span>
                 </cite>
               </blockquote>
             </article>
