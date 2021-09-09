@@ -1,6 +1,8 @@
 ---
 title: Merit review guidelines
 permalink: /resources/review/merit-review/
+redirect_from:
+  - /resources/review/peer-review/
 layout: resources-layout
 sidenav: review
 ---
