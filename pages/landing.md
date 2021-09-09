@@ -159,7 +159,7 @@ What we look for
         <h2>Testimonials</h2>
         <div class="carousel" id="testimonial-carousel" role="region" aria-roledescription="carousel" aria-live="off">
           <div class="slides">
-            <article class="slide current" role="group" aria-roledescription="slide" aria-label="Testimonial 1">
+            <article class="slide" role="group" aria-roledescription="slide" aria-label="Testimonial 1">
               <img src="{{ site.baseurl }}/assets/img/showcase/thousandEyes.jpg" alt="Photo of Mohit Lad" />
               <blockquote>
                 <p>"The grants we received from NSF were instrumental in building the first version of our product and acquiring our first customers"</p>
