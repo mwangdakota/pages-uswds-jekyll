@@ -171,23 +171,24 @@ What we look for
               </blockquote>
             </article>
             <article class="slide" role="group" aria-roledescription="slide" aria-label="Testimonial 2">
-              <img src="https:&#x2F;&#x2F;loremflickr.com&#x2F;200&#x2F;200&#x2F;professional-headshot?2" alt="Photo of Lorem Ipsum" />
+              <img src="{{ site.baseurl }}/assets/img/showcase/01_Jignesh_CoFounder.png" alt="Jignesh Patel" />
               <blockquote>
-                <p>"Lorem ipsum sint aute mollit non officia sint dolor commodo fugiat labore adipisicing nisi excepteur est labore ut ut enim amet."</p>
+                <p>"Huge thanks NSF SBIR for giving us the chance to build the underlying foundational technology that is allowing us to dream big."</p>
                 <hr class="divider divider-left" />
                 <cite>
-                  <strong>Lorem Ipsum</strong>
-                  <span>Anim Nonest Adipisicing</span>
+                  <strong>Jignesh Patel</strong>
+                  <span>CEO of <a href="https://datachat.ai/" target="_blank">DataChat</a>] (<a href="{{ site.baseurl/awardees/history/details/?company=datachat-inc ">NSF-1853057</a>)</span>
                 </cite>
               </blockquote>
             </article>
-            <article class="slide" role="group" aria-roledescription="slide" aria-label="Testimonial 3">
+            <article class="slide" role="group" aria-roledescription="slide" aria-label="Testimonial 2">
+              <img src="{{ site.baseurl }}/assets/img/showcase/sDave.jpg" alt="Shreya Dave" />
               <blockquote>
-                <p>"Nisi dolor dolor incididunt dolor sint irure excepteur cillum anim exercitation."</p>
+                <p>"NSF helped us refine our vision, figure out if our technology could be used for different applications, and helped us figure out if we can manufacture our technology in a scalable fashion — taking it from an academic project to a real-scale commercial project."</p>
                 <hr class="divider divider-left" />
                 <cite>
-                  <strong>Mollit Tempor</strong>
-                  <span>Cillum in Laborum Ullamco Ex</span>
+                  <strong>Jignesh Patel</strong>
+                  <span>Shreya Dave, co-founder and CEO of <a href="https://www.viaseparations.com/" target="_blank">Via Separations</a> (<a href="{{ site.baseurl/awardees/history/details/?company=via-separations-llc">NSF-1831203</a>)</span>
                 </cite>
               </blockquote>
             </article>
