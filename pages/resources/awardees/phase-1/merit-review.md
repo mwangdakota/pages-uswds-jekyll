@@ -1,6 +1,8 @@
 ---
 title: Merit Review
 permalink: /resources/awardees/phase-1/merit-review/
+redirect_from:
+  - /resources/awardees/phase-1/peer-review/
 layout: resources-layout
 sidenav: phase-1
 ---
