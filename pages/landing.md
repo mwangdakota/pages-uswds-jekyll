@@ -192,6 +192,17 @@ What we look for
                 </cite>
               </blockquote>
             </article>
+            <article class="slide" role="group" aria-roledescription="slide" aria-label="Testimonial 4">
+              <img src="{{ site.baseurl }}/assets/img/showcase/dYounger.jpg" alt="David Younger" />
+              <blockquote>
+                <p>"“We were able to spin out from the University of Washington and get started as an independent company entirely with the support of our first NSF SBIR, and we are incredibly grateful for NSF’ continued support over the years!"</p>
+                <hr class="divider divider-left" />
+                <cite>
+                  <strong>David Younger</strong>
+                  <span>Co-Founder & CEO, <a href="http://www.aalphabio.com/" target="_blank">A-Alpha Bio</a> (<a href="{{ site.baseurl }}/awardees/history/details/?company=a-alpha-bio-inc">NSF-1831203</a>)</span>
+                </cite>
+              </blockquote>
+            </article>
             
               </div>
         </div>
