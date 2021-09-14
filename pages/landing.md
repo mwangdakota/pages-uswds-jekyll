@@ -216,7 +216,7 @@ What we look for
         slidenav: true,
         animate: true,
         startAnimated: true,
-        duration: 3000,
+        duration: 6000,
         slideLabel: 'Testimonial'
       });
     </script>
