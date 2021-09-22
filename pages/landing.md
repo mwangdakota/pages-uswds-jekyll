@@ -204,6 +204,17 @@ What we look for
               </blockquote>
             </article>
             
+            <article class="slide" role="group" aria-roledescription="slide" aria-label="Testimonial 5">
+              <img src="{{ site.baseurl }}/assets/img/showcase/mArtunduaga.jpg" alt="Maria Artunduaga" />
+              <blockquote>
+                <p>"It's no secret that there is a dearth of black and brown women in technology; but for immigrants with accents (like me) things get even more complicated: I look and sound too different from anyone who has successfully led a company to an exit, making it extra hard for me to raise money from investors. Having the opportunity to get non-dilutive funding from an early start has helped not only de-risk our engineering development but has validated me as a founder and built confidence in my business, that I’m betting will grow over the next decade."</p>
+                <hr class="divider divider-left" />
+                <cite>
+                  <strong>Maria Artunduaga</strong>
+                  <span>Founder and CEO, <a href="https://respiralabs.com/" target="_blank">Respira Labs</a> (<a href="{{ site.baseurl }}/awardees/history/details/?company=respira-labs-inc">NSF-2112096</a>)</span>
+                </cite>
+              </blockquote>
+            </article>
               </div>
         </div>
    
