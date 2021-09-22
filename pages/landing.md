@@ -37,9 +37,9 @@ See program details
 
 </div>
 <div class="usa-width-one-third" markdown="1">
-<h2 class="text-medium">Access to our network of innovators and industry experts</h2>
+<h2 class="text-medium">Find us at dozens of annual events</h2>
 
-Meet other entrepreneurs, technical experts, industry leaders, and NSF program directors, and build lasting bonds with future leaders in your industry. Find us at dozens of annual events — conferences, road shows, and more.
+Join our regular webinars or find NSF staff and program directors at events like conferences, SBIR road tours, and more.
 
 <a class="usa-button usa-button-primary button-arrow" href="{{ site.baseurl }}/events/">
 View events
@@ -49,7 +49,7 @@ View events
 <div class="usa-width-one-third" markdown="1">
 <h2 class="text-medium">A diverse portfolio</h2>
 
-We fund startups and small businesses across technology areas and markets including artificial intelligence, energy, medical devices, robotics, semiconductors, and many more.
+We fund startups across nearly all technology areas and markets like artificial intelligence, energy, medical devices, robotics, semiconductors, and many more.
 
 <a class="usa-button usa-button-primary button-arrow" href="{{ site.baseurl }}/portfolio/">
 View our portfolio
@@ -70,7 +70,7 @@ View our portfolio
             <iframe sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Dimensional Energy" width="100%" height="300" src="https://www.youtube.com/embed/SlVRqx6w3rQ" frameborder="0" allowfullscreen></iframe>
           </div>
           <h3 class="text-large">Recycling CO2 into fuels</h3>
-          <p>Dimensional Energy, a small business funded by the National Science Foundation (NSF), uses sunlight to convert carbon dioxide (CO2) into energy. To learn more visit: <a href="https://dimensionalenergy.com/" target="_blank" rel="noopener">https://dimensionalenergy.com/</a>.</p>
+          <p>Dimensional Energy uses sunlight to convert carbon dioxide (CO2) into energy. To learn more visit: <a href="https://dimensionalenergy.com/" target="_blank" rel="noopener">https://dimensionalenergy.com/</a>.</p>
           <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}/awardees/history/details/?company=dimensional-energy-inc">
               View Company Profile
             </a></p>
@@ -80,7 +80,7 @@ View our portfolio
             <iframe sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Path Ex" width="100%" height="300" src="https://www.youtube.com/embed/fnv-hdTCSPM" frameborder="0" allowfullscreen></iframe>
           </div>
           <h3 class="text-large">Blood cleansing device removes pathogens</h3>
-          <p>Path Ex, a small business funded by the National Science Foundation (NSF), is developing a device to remove pathogens from blood. To learn more visit: <a href="https://pathex.co/" target="_blank" rel="noopener">https://pathex.co/</a>.</p>
+          <p>Path Ex is developing a device to remove pathogens from blood. To learn more visit: <a href="https://pathex.co/" target="_blank" rel="noopener">https://pathex.co/</a>.</p>
           <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}/awardees/history/details/?company=path-ex">
               View Company Profile
             </a></p>
@@ -92,7 +92,7 @@ View our portfolio
              <iframe sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Re:3D" width="100%" height="300" src="https://www.youtube.com/embed/XDEgLYwdKP4?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe>
           </div>
           <h3 class="text-large">From plastic trash to 3D printing</h3>
-          <p>re:3D, a small business funded by the National Science Foundation (NSF), makes large-scale, industrial 3D printers that can print from plastic waste. To learn more visit: <a href="https://re3d.org/" target="_blank" rel="noopener">https://re3d.org/</a>.</p>
+          <p>re:3D makes large-scale, industrial 3D printers that can print from plastic waste. To learn more visit: <a href="https://re3d.org/" target="_blank" rel="noopener">https://re3d.org/</a>.</p>
           <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}/awardees/history/details/?company=re3d-inc">
               View Company Profile
             </a></p>
@@ -136,7 +136,7 @@ View our portfolio
 <div class="usa-width-one-half" markdown="1">
 <h2 class="text-large">We are America's Seed Fund</h2>
 
-Since 1977, America’s Seed Fund powered by NSF (also known as the NSF SBIR/STTR program) has helped startups develop their ideas and bring them to market. From 2007 to 2016, we funded roughly 400 companies each year.
+Since 1977, America’s Seed Fund powered by NSF (also known as the NSF SBIR/STTR program) has helped startups develop their ideas and bring them to market. We funded about 400 companies each year.
 
 <a class="usa-button usa-button-primary button-arrow" href="{{ site.baseurl }}/showcase/">
 Learn about our impact
