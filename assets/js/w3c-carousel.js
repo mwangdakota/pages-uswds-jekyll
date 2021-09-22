@@ -239,11 +239,11 @@ var myCarousel = (function() {
 
                 if (settings.startAnimated) {
 
-                    li.innerHTML = '<button data-action="stop" class="btn-stop" type="button" aria-controls="' + settings.id + '"><span class="usa-sr-only">Stop Animation</span></button>';
+                    li.innerHTML = '<button data-action="stop" class="btn-stop" type="button" aria-controls="' + settings.id + '"><span>Stop &nbsp &nbsp</span></button>';
 
                 } else {
 
-                    li.innerHTML = '<button data-action="start" class="btn-start" type="button" aria-controls="' + settings.id + '"><span class="usa-sr-only">Start Animation</span></button>';
+                    li.innerHTML = '<button data-action="start" class="btn-start" type="button" aria-controls="' + settings.id + '"><span>Play &nbsp &nbsp</span></button>';
 
                 }
 
