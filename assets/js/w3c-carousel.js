@@ -619,7 +619,7 @@ var myCarousel = (function() {
 
         var _this = carousel.querySelector('[data-action]');
 
-        _this.innerHTML = '<span class="usa-sr-only">Start Animation</span>';
+        _this.innerHTML = '<span>Play&nbsp&nbsp</span>';
 
         _this.setAttribute('data-action', 'start');
 
@@ -640,7 +640,7 @@ var myCarousel = (function() {
 
         var _this = carousel.querySelector('[data-action]');
 
-        _this.innerHTML = '<span class="usa-sr-only">Stop Animation</span>';
+        _this.innerHTML = '<span>Stop&nbsp&nbsp</span>';
 
         _this.setAttribute('data-action', 'stop');
 
