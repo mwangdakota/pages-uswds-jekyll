@@ -69,8 +69,8 @@ View our portfolio
           <div class="stories__media">
             <iframe sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Dimensional Energy" width="100%" height="300" src="https://www.youtube.com/embed/SlVRqx6w3rQ" frameborder="0" allowfullscreen></iframe>
           </div>
-          <h3 class="text-large">Recycling CO2 into fuels</h3>
-          <p>Dimensional Energy uses sunlight to convert carbon dioxide (CO2) into energy. To learn more visit: <a href="https://dimensionalenergy.com/" target="_blank" rel="noopener">https://dimensionalenergy.com/</a>.</p>
+          <h3 class="text-large">Recycling carbon dioxide into fuels</h3>
+          <p>Dimensional Energy uses sunlight to convert carbon dioxide into energy. To learn more visit: <a href="https://dimensionalenergy.com/" target="_blank" rel="noopener">https://dimensionalenergy.com/</a>.</p>
           <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}/awardees/history/details/?company=dimensional-energy-inc">
               View Company Profile
             </a></p>
