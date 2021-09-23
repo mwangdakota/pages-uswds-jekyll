@@ -506,7 +506,7 @@
           margin-right: $dot-space;
 
 
-          button {
+          button {                     
 
             &:after {
 
@@ -576,6 +576,7 @@
     .btn-stop,
 
     .btn-start {
+      cursor:auto;
 
       color: $color-base;
 
@@ -593,6 +594,7 @@
         box-shadow: none;
         
         width:auto;*/
+        cursor:auto;
 
       }
       
@@ -608,6 +610,7 @@
       &:after {
 
         content: '\25A0'; // filled square
+        cursor:pointer;
 
       }
 
@@ -623,6 +626,8 @@
         content: '\25B2'; // filled up pointing triangle (the vertical alignment worked better than the right pointing one)
 
         transform: rotate(90deg);
+        
+        cursor:pointer
 
       }
 
