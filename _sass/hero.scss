@@ -580,16 +580,24 @@
       color: $color-base;
 
       transition: background .3s;
+      
+      width: auto;
 
 
       &:hover,
 
       &:focus {
 
-        background: $color-secondary-lightest;
+        /*background: $color-secondary-lightest;
 
         box-shadow: none;
+        
+        width:auto;*/
 
+      }
+      
+      span {
+        cursor:auto;
       }
 
     }
