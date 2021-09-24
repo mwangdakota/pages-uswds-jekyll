@@ -32,12 +32,12 @@
       desc: 8/12 - 8/14
 - month: Sep
   events:
+    - eventname: National Organization for the Professional Advancement of Black Chemists and Chemical Engineers (NOBCCHE)
+      href: https://www.nobcche.org/conference
+      desc: 9/16 - 9/18
     - eventname: American Indian Science and Engineering Society (AISES) National Conference
       href: https://www.aises.org/
       desc: 9/23 - 9/25
-    - eventname: National Organization for the Professional Advancement of Black Chemists and Chemical Engineers (NOBCCHE)
-      href: https://www.nobcche.org/conference
-      desc: 9/23 - 9/24
 - month: Oct
   events:
     - eventname: Society of Women Engineers (SWE) Conference
@@ -52,7 +52,7 @@
       href: http://www.nsbp.org/
       desc: 11/04 - 11/07
     - eventname: Women in Engineering ProActive Network (WEPAN) Virtual Women of Color Summit
-      href: https://www.wepan.org/      
+      href: https://www.wepan.org/     
       desc: 11/09 - 11/10
     - eventname: Society of Hispanic Professional Engineers (SHPE) National Convention
       href: https://www.shpe.org/events/nc2021 
