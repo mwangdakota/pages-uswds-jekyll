@@ -96,14 +96,546 @@
   }
 
   .section-goodfit {
-
-    padding-bottom: $space-xl * 1.5;
+    background: $color-base url('../img/landing/quote-bg.png') no-repeat center center;
+    background-size: cover;
+    color: $color-white;
 
     .text-large {
-      max-width: 56rem;
-      font-size: $font-size-m - .2rem;
+      max-width: none;
+
+      margin: 0;
+
+      font-weight: bold;
+
+      font-size: $font-size-m;
+
+      line-height: $leading-s;
+
+
+      @include media($medium-screen) {
+
+        font-size: $font-size-l;
+
+        line-height: $leading-xs;
+
+      }
+
+
+      a {
+
+        &:last-child {
+
+          color: $color-secondary;
+
+          border-bottom: 1px dotted transparent;
+
+          transition: border-bottom-color .3s;
+
+
+          &:after {
+
+            display: inline-block;
+
+            transition: transform .3s;
+
+            content: '\00a0\2192'; // non-breaking space and arrow pointing to the right
+
+          }
+
+
+          &:hover,
+
+          &:focus {
+
+            border-bottom-color: $color-secondary;
+
+
+            &:after {
+
+              transform: translateX(5px);
+
+            }
+
+          }
+
+        }
+
+      }
+
     }
+
+
+    .divider {
+
+      margin-bottom: $space-l;
+
+      margin-top: $space-l;
+
+    }
+
+
+    small {
+
+      display: block;
+
+      margin-top: $space-l;
+
+      margin-bottom: (-$space-l); // pull it down over the usa-section bottom padding
+
+      padding: $space-s 0;
+
+      background: rgba(#000, .2);
+
+
+      p {
+
+        margin: 0;
+
+        max-width: none;
+
+        font-size: $font-size-xxs;
+
+      }
+
+
+      @include media($medium-screen) {
+
+        margin-bottom: (-$space-xl); // usa-section updates its bottom padding at this breakpoint
+
+      }
+
+    }
+
   }
+
+
+  .section-testimonials {
+
+    $control-btn-tap-area: 3.5rem;
+
+    $dot-size: 1rem;
+
+    $dot-space: ($control-btn-tap-area - $dot-size) / 2; // the space between the edge of the dot and the edge of it's clickable area
+
+
+    overflow: hidden;
+
+
+    h2 {
+
+      &:before {
+
+        display: inline-block;
+
+        vertical-align: baseline;
+
+        width: $leading-xxs * 1em;
+
+        height: $leading-xxs * 1em;
+
+        margin-right: 1rem;
+
+        margin-bottom: -($leading-xxs - 1) * 1em;
+
+        background: $color-primary-alt-lightest url('../img/landing/quote.svg') no-repeat center center;
+
+        background-size: 60%;
+
+        content: '';
+
+      }
+
+    }
+
+
+    .carousel {
+
+
+      ul {
+
+        margin: 0;
+
+        padding: 0;
+
+        list-style-type: none;
+
+
+        &.slidenav {
+
+          padding-right: $control-btn-tap-area + 1rem; // reserved space for the stop/play button
+
+        }
+
+      }
+
+    }
+
+
+    .slides {
+
+      display: flex;
+
+      padding-bottom: 1rem + $dot-space;
+
+      border-bottom: 1px solid $color-primary-alt-lightest;
+
+    }
+
+
+    .slide {
+
+      position: relative;
+
+      display: flex;
+
+      flex: 0 0 100%;
+
+      min-width: 100%;
+
+      margin-bottom: 0;
+
+      margin-left: -100%; // stack them on top of each other
+
+      opacity: 0;
+
+      z-index: 0;
+
+      visibility: hidden;
+
+      transition: opacity 1s;
+
+
+      &:first-child {
+
+        margin-left: 0; // use this to push everything else over (and their negative margins will pull them back)
+
+      }
+
+
+      &:focus-visible {
+
+        background-color: $color-white;
+
+        box-shadow: 0 0 30px rgba($color-focus, .1);
+
+        outline: 0;
+
+      }
+
+
+      &.current,
+
+      &.in-transition {
+
+        visibility: visible;
+
+        z-index: 1;
+
+      }
+
+
+      &.current {
+
+        opacity: 1;
+
+      }
+
+
+      img {
+
+        flex: 0 0 auto;
+
+        align-self: flex-start;
+
+        width: 25vw;
+
+        min-width: 100px;
+
+        max-width: 200px;
+
+        margin-right: $space-l;
+
+      }
+
+
+      blockquote {
+
+        flex: 1 1 100%;
+
+        margin: 0;
+
+
+        p {
+
+          max-width: none;
+
+          margin: 0;
+
+          font-weight: bold;
+
+          font-size: $font-size-xs;
+
+
+          @include media($medium-screen) {
+
+            font-size: $font-size-s;
+
+          }
+
+
+          @include media($large-screen) {
+
+            font-size: $font-size-m;
+
+          }
+
+        }
+
+      }
+
+
+      .divider {
+
+        margin-top: $space-s;
+
+        margin-bottom: $space-s;
+
+        border-color: $color-base;
+
+      }
+
+
+      cite {
+
+        display: block;
+
+        font-size: $font-size-xs;
+
+
+        strong {
+
+          display: block;
+
+        }
+
+      }
+
+    }
+
+
+    .controls {
+
+      display: none;
+
+    }
+
+
+    .slidenav {
+
+      position: relative;
+
+      display: flex;
+
+      flex-wrap: wrap;
+
+      justify-content: flex-start;
+
+      width: 100%;
+
+
+      button {
+
+        display: flex;
+
+        align-items: center;
+
+        justify-content: center;
+
+        width: $control-btn-tap-area;
+
+        min-width: auto;
+
+        height: $control-btn-tap-area;
+
+        margin: 0;
+
+        padding: 0;
+
+        border: 0;
+
+        border-radius: 0;
+
+        background: transparent;
+
+
+        &:after {
+
+          display: inline-block;
+
+        }
+
+      }
+
+
+      li {
+
+        display: inline-block;
+
+        margin: 0;
+
+
+        // the stop/play button
+
+        &:first-child {
+
+          position: absolute;
+
+          top: 0;
+
+          right: 0;
+
+        }
+
+
+        // the slide indicators
+
+        &:nth-child(n + 2) {
+
+          margin-left: -$dot-space;
+
+          margin-right: $dot-space;
+
+
+          button {                     
+
+            &:after {
+
+              width: $dot-size;
+
+              height: $dot-size;
+
+              background: $color-white;
+
+              border: 1px solid $color-base;
+
+              border-radius: 50%;
+
+              transition: background .3s, border-color .3s, box-shadow .3s;
+
+              content: '';
+
+            }
+
+
+            &:hover,
+
+            &:focus {
+
+              box-shadow: none;
+
+
+              &:after {
+
+                background-color: $color-secondary-lightest;
+
+                box-shadow: 0 0 5px 2px $color-secondary;
+
+              }
+
+            }
+
+
+            &.current {
+
+              &,
+
+              &:hover,
+
+              &:focus {
+
+                &:after {
+
+                  background: $color-primary-alt-lightest;
+
+                }
+
+              }
+
+            }
+
+
+          }
+
+        }
+
+      }
+
+    }
+
+
+    .btn-stop,
+
+    .btn-start {
+      cursor:auto;
+
+      color: $color-base;
+
+      transition: background .3s;
+      
+      width: auto;
+
+
+      &:hover,
+
+      &:focus {
+
+        /*background: $color-secondary-lightest;
+
+        box-shadow: none;
+        
+        width:auto;*/
+        cursor:auto;
+        box-shadow: none;
+
+      }
+      
+      span {
+        cursor:auto;
+      }
+
+    }
+
+
+    .btn-stop {
+
+      &:after {
+
+        content: '\25A0'; // filled square
+        cursor:pointer;
+
+      }
+
+    }
+
+
+    .btn-start {
+
+      &:after {
+
+        margin-left: .2em; // more visual weight on the wide end of the triangle - shift it towards the center
+
+        content: '\25B2'; // filled up pointing triangle (the vertical alignment worked better than the right pointing one)
+
+        transform: rotate(90deg);
+        
+        cursor:pointer
+
+      }
+
+    }
+
+  }
+
   .usa-width-one-half {
     padding-right: $space-s;
   }

@@ -7,44 +7,56 @@
   events:
 - month: Apr
   events: 
-    - eventname: NSBE (online)
+    - eventname: National Society of Black Engineers (NSBE)
       href: http://convention.nsbe.org/  
+      desc: 4/5 - 4/9 (online)
 - month: May
   events:
-    - eventname: ACA
+    - eventname: Angel Capital Association Summit
       href: https://events.angelcapitalassociation.org/2021summit
-    - eventname: ARPA-E
+      desc: 5/4 - 5/6
+    - eventname: Advanced Research Projects Agency-Energy (ARPA-E) Summit
       href: https://www.arpae-summit.com/
+      desc: 5/24 - 5/27
 - month: Jun
   events:
 - month: Jul
   events:   
-    - eventname: ASEE Annual Conference
+    - eventname: American Society for Engineering Education (ASEE) Annual Conference
       href: https://www.asee.org/annual-conference/2021  
+      desc: 7/26 -7/29
 - month: Aug
   events:
-    - eventname: NSBE Professional Development Conference
+    - eventname: National Society of Black Engineers (NSBE) Professional Development Conference
       href: https://pdc.nsbe.org/
+      desc: 8/12 - 8/14
 - month: Sep
   events:
-    - eventname: AISES
-      href: https://www.aises.org/
-    - eventname: NOBCCHE
+    - eventname: National Organization for the Professional Advancement of Black Chemists and Chemical Engineers (NOBCCHE)
       href: https://www.nobcche.org/conference
+      desc: 9/16 - 9/18
+    - eventname: American Indian Science and Engineering Society (AISES) National Conference
+      href: https://www.aises.org/
+      desc: 9/23 - 9/25
 - month: Oct
   events:
-    - eventname: SACNAS
+    - eventname: Society of Women Engineers (SWE) Conference
+      href: https://we21.swe.org/about/conference-schedule/ 
+      desc: 10/21 - 10/23
+    - eventname: Society for Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS) National Diversity in STEM Conference
       href: https://www.sacnas.org/what-we-do/conference/
-    - eventname: SWE
-      href: https://we21.swe.org/about/conference-schedule/      
+      desc: 10/25 - 10/29   
 - month: Nov
   events:
-    - eventname: NSBP
+    - eventname: National Society of Black Physicists (NSBP) Conference
       href: http://www.nsbp.org/
-    - eventname: SHPE
+      desc: 11/04 - 11/07
+    - eventname: Women in Engineering ProActive Network (WEPAN) Virtual Women of Color Summit
+      href: https://www.wepan.org/     
+      desc: 11/09 - 11/10
+    - eventname: Society of Hispanic Professional Engineers (SHPE) National Convention
       href: https://www.shpe.org/events/nc2021 
-    - eventname: WEPAN
-      href: https://www.wepan.org/      
+      desc: 11/10 - 11/14
 - month: Dec
   events:
 ---
