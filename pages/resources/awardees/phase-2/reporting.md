@@ -9,7 +9,7 @@ sidenav: phase-2
 
   
   
-If your **Phase II proposal was submitted in the year 2020 or later**, please download and follow the instructions in [Phase II Interim Report PDF]({{site.baseurl}}/assets/files/awardees/NSF_Interim_Report2_02-19-21_Fillable.pdf). 
+If your **Phase II proposal was submitted in the year 2020 or later**, please download and follow the instructions in [Phase II Interim Report PDF]({{site.baseurl}}/assets/files/awardees/NSF_Interim_Report_Fillable.pdf). 
 
 If your **Phase II proposal was submitted in the year 2019 or earlier**, please follow the instructions below.
 
