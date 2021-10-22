@@ -91,7 +91,7 @@ We focus on transforming scientific and engineering discoveries into products an
                 We’re not interested in driving the direction of your company; in fact, our goal is to align your vision with our funding. You can use your funding on employees’ salaries and wages, fringe benefits, materials and supplies, and other R&D costs (though intellectual property, marketing and business development costs aren’t covered).
               </li>
               <li>
-                <h3>Options for venture captial companies</h3>
+                <h3>Options for venture capital companies</h3>
                 If your company is majority owned by venture capital operating companies, hedge funds, or private-equity firms, you’re not eligible to apply for funding, although joint ventures and partnerships are eligible. Read more about proposal eligibility in our <a href="https://www.sbir.gov/faqs/eligibility-requirements" target="_blank">Eligibility Guide</a>.
               </li>
             </ul>
