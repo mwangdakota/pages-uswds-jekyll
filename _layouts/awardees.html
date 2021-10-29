@@ -57,22 +57,16 @@ class: awardees-layout
 <section class="background-white" style="padding-top:6rem;">
     <div class="usa-grid">
       {% if page.phase == "Phase I" %}
-         <div style="
-    background-color: #FFFAC3;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-    padding-left: 2rem;
-    padding-right: 3rem;">
-        <a href="../../covid-awards-phase-1/">View a list of COVID-19 Phase I awards here.</a>
+      <p>
+      <a href="{{ site.baseurl }}/covid-awards-phase-1/" class="usa-button usa-button-primary">COVID-19 PHASE I RELATED AWARDS</a>
+      <a href="{{ site.baseurl }}/awardees/history/" class="usa-button usa-button-secondary">VIEW ALL AWARDEES</a>
+      </p>
       </div>
       {% elsif page.phase == "Phase II" %} 
-        <div style="
-    background-color: #FFFAC3;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-    padding-left: 2rem;
-    padding-right: 3rem;">
-        <a href="../../covid-awards-phase-2/">View a list of COVID-19 Phase II awards here.</a>
+      <p>
+      <a href="{{ site.baseurl }}/covid-awards-phase-2" class="usa-button usa-button-primary">COVID-19 PHASE I RELATED AWARDS</a>
+      <a href="{{ site.baseurl }}/awardees/history/" class="usa-button usa-button-secondary">VIEW ALL AWARDEES</a>
+      </p>
       </div>
       {% endif %}
      
