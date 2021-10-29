@@ -3,7 +3,7 @@
   <li>
     <div class="date">{{ upcoming_event.date }}</div>
     <div class="upcoming-event-info">
-      <h3>{{ upcoming_event.eventName }}</h3>
+      <h3 markdown="1">{{ upcoming_event.eventName }}</h3>
       <p class="time"> {{ upcoming_event.time }}</p>
       <p class="description" markdown="1">{{ upcoming_event.description }}</p>
       {% if upcoming_event.registrationLink %}
