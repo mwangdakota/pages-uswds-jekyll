@@ -18,11 +18,13 @@ permalink: /awardees/history/
   {% include loading.html msg='Loading awards...' %}
 
   <div class="awards-history-container">
-    <ul class="awards-history-year-filters">
-      <li><button type="button" class="active" id="year_All">All</button></li>
-      {% for award_year in site.data.awards_history_years %}<li><button type="button" id="year_{{ award_year }}">{{ award_year }}</button></li>
-      {% endfor %}
-    </ul>
+    <div class="awards-history-year-filters">
+      <div class="year_All"><button type="button" id="year_All" class="active">All</button></div>
+      <ul>
+        {% for award_year in site.data.awards_history_years %}<li><button type="button" id="year_{{ award_year }}">{{ award_year }}</button></li>
+        {% endfor %}
+      </ul>
+    </div>
 
     <div class="awards-history-grid-container">
       <div class="awards-history-grid-filters">
