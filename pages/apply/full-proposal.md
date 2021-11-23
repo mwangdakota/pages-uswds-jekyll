@@ -62,7 +62,8 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
             <h3 id="researchgov-online-grant-management-for-the-nsf-community"><a
                 href="https://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&amp;_pageLabel=research_home_page"
                 target="_blank">Research.gov (Online Grant Management for the NSF Community)</a></h3>
-            <p style="background-color:#fff039;"><strong>Processing time: Up to 48 hours<br><br>
+            <p><strong>Processing time:</strong> Up to 48 hours</p>
+            <p style="background-color:#fff039;"><strong>
             Some organizations that registered in sam.gov after 10/21/21 cannot currently register in Research.gov. NSF is working on a fix. 
               Contact NSF <a href="mailto:rgov@nsf.gov">rgov@nsf.gov</a> with your DUNS ID for help.<br><br>
             Before applying, you need to register your company with NSF in Research.gov. Only after registering
