@@ -36,7 +36,7 @@ Before you can begin entering your full proposal in FastLane, your company must 
 * [NSF Research.gov](https://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_home_page) 
   <p style="background:#fff039;"><strong>
   Some organizations that registered in sam.gov after 10/21/21 cannot currently register in Research.gov. NSF is working on a fix. Contact NSF 
-  <a href="mailto:rgov@nsf.gov">rgov@nsf.gov</a> with your DUNS ID for help.<br><br>
+  <a href="mailto:rgov@nsf.gov">rgov@nsf.gov</a> with your DUNS ID for help.
   </strong></p>
   
   Organizations new to NSF must register via the account management system in <a href="https://www.research.gov" target="_blank">Research.gov</a>.
