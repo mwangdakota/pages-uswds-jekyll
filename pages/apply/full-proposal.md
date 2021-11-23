@@ -58,15 +58,19 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
             <h3 id="system-for-award-management-sam"><a href="https://www.sam.gov/SAM/" target="_blank">System for
                 Award Management (SAM)</a></h3>
             <p><strong>Processing time:</strong> Up to three weeks</p>
-            <p>You MUST register to do business with the U.S. government through System for Award Management (SAM). When you register, you’ll have to share bank account information of the account where the NSF funds would be deposited. This registration process is free and takes only 10-15 minutes to initiate, but can take up to three weeks to complete. An active SAM.gov registration is needed to create a FastLane account and submit a proposal to NSF. To submit proposals to NSF SBIR/STTR, you only need to request “financial assistance” authority and do NOT need “contract” authority (which can be a much longer process to obtain).  SAM registration must be renewed annually.</p>
+            <p>You MUST register to do business with the U.S. government through System for Award Management (SAM). When you register, you’ll have to share bank account information of the account where the NSF funds would be deposited. This registration process is free and takes only 10-15 minutes to initiate, but can take up to three weeks to complete. An active SAM.gov registration is needed to create a FastLane account and submit a proposal to NSF. To submit proposals to NSF SBIR/STTR, you only need to request “financial assistance” authority and do NOT need “contract” authority (which can be a much longer process to obtain).  SAM registration must be renewed annually.</p>            
             <h3 id="researchgov-online-grant-management-for-the-nsf-community"><a
                 href="https://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&amp;_pageLabel=research_home_page"
                 target="_blank">Research.gov (Online Grant Management for the NSF Community)</a></h3>
             <p><strong>Processing time:</strong> Up to 48 hours</p>
+            <p style="background-color:#fff039;"><strong>
+            Some organizations that registered in sam.gov after 10/21/21 cannot currently register in Research.gov. NSF is working on a fix. 
+              Contact NSF <a href="mailto:rgov@nsf.gov">rgov@nsf.gov</a> with your DUNS ID for help.</strong></p>
             <p>Before applying, you need to register your company with NSF in Research.gov. Only after registering
               with Research.gov can you login to <a href="https://www.fastlane.nsf.gov/" target="_blank">FastLane</a>
               and begin preparing your proposal. (SBIR and STTR proposals are not accepted in Research.gov). We
-              recommend you explore FastLane before submitting your application.</p>
+              recommend you explore FastLane before submitting your application.
+            </p>
             <h3 id="sbir-company-registry"><a href="http://sbir.gov/registration" target="_blank">SBIR Company
                 Registry</a></h3>
             <p>Finally, you need to register with the SBIR Company Registry (operated by the Small Business

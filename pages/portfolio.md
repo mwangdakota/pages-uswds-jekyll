@@ -9,8 +9,8 @@ layout: secondary
   <div class="usa-section usa-content usa-grid">
     <h1 id="portfolio">Portfolio</h1>
     <p>
-      Since 2012, America’s Seed Fund powered by NSF has made nearly 3,400 awards to startups and small businesses. Since 2015, NSF-funded small businesses have had 153 exits and have received $9.1 billion in private investment.* We encourage you to explore this list of assorted companies we’ve funded.<br>
-      <span class="text-small" style="font-style:italic;">*Data from CB Insights.</span>
+      NSF-funded startups and small businesses saw around 200 exits and more than $14 billion in private investments during fiscal years 2016 to 2021.
+      <span class="text-small" style="font-style:italic;">*</span>
     </p>
   </div>
 </section>
@@ -18,7 +18,7 @@ layout: secondary
 <section class="full-bleed-bg">
   <div class="usa-section usa-content usa-grid">
     <h2>We fund almost all areas of technology</h2>
-    <p class="text-medium">Each year, we fund roughly 400 companies across nearly all technology areas and market sectors (with the exception of clinical trials and schedule I controlled substances). Select a topic area below to read more about the topic, see featured <b>Phase I and Phase II success stories</b>, and <b>find program director information</b>.</p>
+    <p class="text-medium">Between fiscal years 2016 and 2020, America’s Seed Fund powered by NSF made 2,200+ awards to startups and small businesses. Each year, we fund roughly 400 companies across nearly all technology areas and market sectors (with the exception of clinical trials and schedule I controlled substances). Select a topic area below to read more about the topic, see featured <b>Phase I and Phase II success stories</b>, and <b>find program director information</b>.</p>
 
     <p>Browse lists of our current Phase I and Phase II awardees, who are still completing the research outlined in their proposals, view a list of awards to combat COVID-19, and see all of the awards we've made over the last 10 years.</p>
 
@@ -83,3 +83,9 @@ layout: secondary
     {% include featured-companies.html %}
   </div>
 </section>
+<section class="full-bleed-bg">
+   <div class="text-medium" style="font-style:italic;text-align:center">
+      (*These figures were pulled from Pitchbook from 10/01/2015 to 09/30/2021 <br> and include companies that received NSF funding prior to 2016.)
+  </div>
+</section>
+
