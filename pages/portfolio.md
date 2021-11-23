@@ -85,7 +85,7 @@ layout: secondary
 </section>
 <section class="full-bleed-bg">
    <div class="text-medium" style="font-style:italic;text-align:center">
-      (*These figures were pulled from Pitchbook from 10/01/2015 to 09/30/2021 and include companies that received NSF funding prior to 2016.)
+      (*These figures were pulled from Pitchbook from 10/01/2015 to 09/30/2021 <br> and include companies that received NSF funding prior to 2016.)
   </div>
 </section>
 
