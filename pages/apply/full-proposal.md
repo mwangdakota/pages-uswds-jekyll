@@ -65,11 +65,11 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
             <p><strong>Processing time:</strong> Up to 48 hours</p>
             <p style="background-color:#fff039;"><strong>
             Some organizations that registered in sam.gov after 10/21/21 cannot currently register in Research.gov. NSF is working on a fix. 
-              Contact NSF <a href="mailto:rgov@nsf.gov">rgov@nsf.gov</a> with your DUNS ID for help.<br><br>
-            Before applying, you need to register your company with NSF in Research.gov. Only after registering
+              Contact NSF <a href="mailto:rgov@nsf.gov">rgov@nsf.gov</a> with your DUNS ID for help.</strong></p>
+            <p>Before applying, you need to register your company with NSF in Research.gov. Only after registering
               with Research.gov can you login to <a href="https://www.fastlane.nsf.gov/" target="_blank">FastLane</a>
               and begin preparing your proposal. (SBIR and STTR proposals are not accepted in Research.gov). We
-              recommend you explore FastLane before submitting your application.</strong>
+              recommend you explore FastLane before submitting your application.
             </p>
             <h3 id="sbir-company-registry"><a href="http://sbir.gov/registration" target="_blank">SBIR Company
                 Registry</a></h3>
