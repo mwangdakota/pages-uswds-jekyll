@@ -38,7 +38,7 @@ Before you can begin entering your full proposal in FastLane, your company must 
   Some organizations that registered in sam.gov after 10/21/21 cannot currently register in Research.gov. NSF is working on a fix. Contact NSF 
   <a href="mailto:rgov@nsf.gov">rgov@nsf.gov</a> with your DUNS ID for help.<br><br>
 
-  Organizations new to NSF must register via the account management system in [Research.gov](https://www.research.gov).
+  Organizations new to NSF must register via the account management system in <a href="https://www.research.gov" target="_blank">Research.gov</a>.
   </strong></p>
 
   For additional information and step-by-step instructions, please see the "Register a New Organization" [video tutorial](https://www.research.gov/common/attachment/Desktop/AcctMgmtSIDVideo3.html) and [Account Management Guide](https://www.research.gov/common/attachment/Desktop/Single_ID_Help.pdf) section. If the video tutorial does not open, please try viewing it using another browser. 
