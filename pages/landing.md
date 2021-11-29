@@ -7,7 +7,7 @@ layout: landing
 
 hero:
 
-  image: /assets/img/landing/ogilvy.jpg
+  image: /assets/img/landing/landing1.jpg
   callout:
     alt: We invest up to <br>$2 million in <br> seed funding.
     text: And take zero equity.
