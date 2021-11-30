@@ -123,7 +123,7 @@
 
     .usa-accordion-button,
     .usa-accordion-button[aria-expanded="false"] {
-      color: #ffffff;
+      color: #000;
       font-family: $font-mono;
       font-size: $font-size-xxxs;
       font-weight: 400;
@@ -148,7 +148,7 @@
     button[aria-expanded="true"]:hover {
       background-color: #01c6f1;
       background-image: url("../img/arrow-up.svg");
-      color: #ffffff;
+      color: #000;
       z-index: 1000;
       position: relative;
       background-position: right 1.5rem top 50%;
@@ -166,7 +166,7 @@
 
     li {
       a {
-        color: #ffffff;
+        color: #000;
         font-family: $font-mono;
         font-size: $font-size-xxxs;
         font-weight: 400;
