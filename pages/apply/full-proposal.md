@@ -21,7 +21,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
     <li>{{ site.solicitation_window_1 }}</li>
     <li>{{ site.solicitation_window_2 }}</li>
     <li>{{ site.solicitation_window_3 }}</li>
-    <li><strike>September 3, 2021 - December 2, 2021</strike> extended until January 6, 2022.</li>
+    <li>September 3, 2021 - <strike>December 2, 2021</strike> extended until January 6, 2022.</li>
   </ul>
 </section>
 
