@@ -4,6 +4,12 @@
   background-size: cover;
 }
 
+@supports ( -webkit-touch-callout : none) {
+.page-background {
+background-attachment:scroll;
+}
+}
+
 .section-background-image {
   background-color: transparent;
   padding-top: 300px;
