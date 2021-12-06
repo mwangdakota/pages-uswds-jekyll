@@ -1,5 +1,8 @@
 ---
 ---
+{% assign background_image_url = '' %}
+{% if page.section_image %}{% assign background_image_url = page.section_image | relative_url %}{% endif %}
+{% if page.hero.image %}{% assign background_image_url = page.hero.image | relative_url %}{% endif %}
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: 'en-US' }}" class="no-js">
   <head>
@@ -7,7 +10,7 @@
     {% include styles.html %}
     <!-- We participate in the US government's analytics program. See the data at analytics.usa.gov. -->
     <script async type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NSF" id="_fed_an_ua_tag"></script>
- 
+
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -17,9 +20,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <!-- End Google Tag Manager -->
   </head>
 
-  <body class="{{ layout.class }} page-{{ page.title | slugify }} {{ page.class }} {% if page.section_image %} page-background {% endif %} {% if page.hero.image %} page-background {% endif %}"
-{% if page.section_image %} style="background-image: url('{{ page.section_image | relative_url }}');" {% endif %}
-{% if page.hero.image %} style="background-image: url('{{ page.hero.image | relative_url }}');" {% endif %}>
+  <body class="{{ layout.class }} page-{{ page.title | slugify }} {{ page.class }} {% if background_image_url != '' %} page-background {% endif %}">
+    {% if background_image_url != '' %}
+    <div class="page-background-image" style="background-image: url('{{ background_image_url }}');"></div>
+    {% endif %}
   <!-- Google Tag Manager (noscript) -->
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PFT6WRB"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
