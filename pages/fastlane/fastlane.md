@@ -10,7 +10,7 @@ Read this guide to help you submit a Small Business Innovation Research (SBIR) o
 
 Please contact the FastLane Help Desk (1-800-673-6188 or [fastlane@nsf.gov](mailto:fastlane@nsf.gov)) for IT system or ADA and 508 compliance-related questions (7:00 AM – 9:00 PM Eastern Time; Monday – Friday except federal holidays). SBIR and STTR program-related questions should be directed to [sbir@nsf.gov](mailto:sbir@nsf.gov).  
 
-FastLane will not accept proposals after 5:00 PM submitter’s time on {{ site.next_deadline }}. We encourage you to follow guidance from your program director about when and how to submit your proposal.
+FastLane will not accept proposals after 5:00 PM submitter’s time on the submission window closing date. We encourage you to follow guidance from your program director about when and how to submit your proposal.
 
 ## 1. Proposal Overview
 
