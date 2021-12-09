@@ -48,7 +48,7 @@ Follow the instructions on the below screen, then click **"Upload File"** to upl
 Click **"Go"** beside the appropriate person's name to upload their biographical sketch. Biographical sketches may be uploaded individually or as one file (under the PI).
 ![List of personnel assigned to proposal]({{ site.baseurl }}/assets/img/fastlane/35-bio-sketch.jpg)
 
-* Download the NSF-approved fillable [Biographical Sketch PDF](https://www.nsf.gov/bfa/dias/policy/nsfapprovedformats/biosketch.pdf) for each individual designated as Principal Investigator (PI), co-PI or Senior Personnel.
+* Download the NSF-approved fillable [Biographical Sketch PDF](https://www.nsf.gov/bfa/dias/policy/nsfapprovedformats/biosketch.docx) for each individual designated as Principal Investigator (PI), co-PI or Senior Personnel.
 * Complete the “Name”, “Title” and “Institution” (Organization) fields at the top of each form.
 * If you want to continue using the PDF, please complete the remaining fields and upload them into the Biographical Sketches section of the proposal.
 * *If you do not want to continue using this new format,* you must enter “N/A” into the remaining fields of this PDF and upload it into the “Biographical Sketches” section of the proposal. If you choose this option, **you must upload resumes for the PI, co-PI, and all Senior Personnel in Supplementary Documents** in the format outlined in the relevant NSF SBIR/STTR solicitation (under the “Biographical Sketches” section of Proposal Preparation).
