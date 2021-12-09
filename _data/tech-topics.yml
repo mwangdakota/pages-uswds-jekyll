@@ -39,12 +39,12 @@
     - Additive Manufacturing Components and Systems (M1)
     - Bio-Inspired Manufacturing (M2)
     - Cybermanufacturing (M3)
-    - Human-Centric Industrial Technologies (M4)
+    - Eco-Manufacturing and Circular Economy Technologies (M4)
     - Infrastructure (M5)
     - Manufacturing Technologies (M6)
     - Modeling and Simulation (M7)
     - Personalized Manufacturing, Maker Manufacturing, and Maker to Manufacturer (M8)
-    - Sustainable Manufacturing Technology and Circular Economy Technologies (M9)
+    - Quantum Manufacturing (M9)
     - Other Manufacturing Technologies (M10)
   companies:
     - name: Branch Technology LLC
@@ -66,12 +66,11 @@
       bio: "has been a SBIR/STTR Program Director since 2012. Prior to joining NSF in 2012, he was a senior research technologist at Kodak where his 26-year career spanned work at Kodak Research Laboratories, and Manufacturing Research and Engineering Organization. His work covered a broad range of materials science based technologies related to photographic film and paper manufacturing, thermal, inkjet, and electro-photographic printing, and OLED device manufacturing. He has a B. Tech. degree in Chemical Engineering from Indian Institute of Technology, Bombay, M.S. and Ph.D. degrees in Chemical Engineering from Penn State, a post-doctoral fellowship at Imperial College, and a M.S. degree in New Product Development from Rochester Institute of Technology." 
   subtopics:
     - Coatings and Surface Modifications (AM1)
-    - Materials for Sustainability (AM2)
-    - Metals and Ceramics (AM3)
-    - Novel Advanced Materials-based Sensors  (AM4)
-    - Specialized Functional Materials (AM5)
-    - Structural and Infrastructural Materials (AM6)
-    - Other Advanced Materials Technologies (AM7)
+    - Metals and Ceramics (AM2)
+    - Novel Advanced Materials-based Sensors  (AM3)
+    - Specialized Functional Materials (AM4)
+    - Structural and Infrastructural Materials (AM5)
+    - Other Advanced Materials Technologies (AM6)
   companies:
     - name: bioMASON Inc.
     - name: Mallinda, LLC
@@ -147,15 +146,15 @@
   subtopics:
     - Animal Biotechnology (BT1)
     - Bio-Inspired Technologies (BT2)
-    - Bioinstruments (BT3)
-    - Biosensors (BT4)
-    - Cell and Tissue Engineering (BT5)
-    - Computational Biology and Bioinformatics (BT6)
-    - Fermentation Technologies (BT7)
-    - Life Science Research Tools (BT8)
-    - Materials for Biomedical Applications (BT9)
-    - Plant Biotechnology (BT10)
-    - Synthetic Biology and Metabolic Engineering (BT11)
+    - Bioinstruments and Biosensors (BT3)
+    - Cell and Tissue Engineering (BT4)
+    - Computational Biology and Bioinformatics (BT5)
+    - Health in Underserved Communities (BT6)
+    - Life Science Research Tools (BT7)
+    - Materials for Biomedical Applications (BT8)
+    - Plant Biotechnology (BT9)
+    - Synthetic Biology and Metabolic Engineering (BT10)
+    - Women’s Health (BT11)
     - Other Biological Technologies (BT12)
   companies:
     - name: Lygos Inc.
@@ -182,9 +181,11 @@
       bio: "joined the National Science Foundation in July 2016 as an SBIR/STTR Program Director. Prior to joining NSF, Henry managed seed/early stage investment programs for TEDCO for 12 years including Technology Commercialization Fund, TEDCO’s flagship seed funding program for technology-based companies in Maryland. During his time at TEDCO, Henry was actively involved with various entrepreneurs and entrepreneur support groups as a guest speaker, an advisory board member, a judge, a mentor, among others. Additionally, Henry was part of the licensing/supplier relations team at a biotechnology company called Upstate, where he successfully negotiated, licensed and commercialized approximately 190 biomedical research reagents from around the world. Henry has also done approximately five years of research, mostly in the field of immunology (including graduate work). Henry has an MBA from Rice University, an M.S. in biotechnology from the University of Tennessee, Knoxville and a B.S. in biomedical engineering from Boston University."
   subtopics:
     - Diagnostics (BM1)
-    - Medical Imaging (BM2)
-    - Monitoring Devices (BM3)
-    - Other Biomedical Technologies (BM4)
+    - Health in Underserved Communities (BM2)
+    - Medical Imaging (BM3)
+    - Monitoring Devices (BM4)
+    - Women’s Health (BM5)
+    - Other Biomedical Technologies (BM6)
   companies:
     - name: Elektrofi Inc
     - name: ActivSignal, LLC
@@ -288,11 +289,13 @@
     ttopic: dh
     bio: "joined the National Science Foundation as an SBIR/STTR program director in November 2019. Prior to NSF, Alastair was an active member of the startup ecosystem in Virginia as a mentor, judge, and entrepreneur. He has been directly involved in medical startups for the last 10 years. Most recently, Alastair was the Vice President of Medical Products at Cupron, Inc. where he led the development, protection, and commercialization of a platform copper antimicrobial technology. He also founded and ran Chrysalides Consultants, a consultancy firm mentoring and providing strategic support to medical startups. Prior to Cupron and Chrysalides Consultants, Alastair was Head Scientist at Biocontrol Ltd (now Armata Pharmaceuticals) developing and commercializing bacteriophage therapy for clinical applications. Alastair had an active academic life as a microbiology postdoc at Virginia Commonwealth University in Internal Medicine, and has authored a number of published papers, conference abstracts, and oral presentations. Alastair has a Ph.D. in microbiology from the University of Bath UK, and a BSc in microbiology from the University of Birmingham, UK."
   subtopics:
-    - Clinical Decision Support (DH1)
-    - Healthcare System Workflow (DH2)
-    - Medical Diagnostics  (DH3)
-    - Personalized Software Systems (DH4)
-    - Other Digital Health Technologies (DH5)
+    - Healthcare Informatics (DH1)
+    - Health in Underserved Communities (DH2)
+    - Healthcare Workflow and Delivery (DH3)
+    - Medical Diagnostics and Devices (DH4)
+    - Personal and Mental Health Digital Interventions (DH5)
+    - Women’s Health (DH6)
+    - Other Digital Health Technologies (DH7)
   companies:
     - name: Bioinfoexperts, LLC
     - name: Diligent Droids, LLC
@@ -350,8 +353,9 @@
     - Energy Efficiencies and Data Technologies (EN1)
     - Energy Production and Power Generation (EN2)
     - Energy Storage (EN3)
-    - Petrochemicals, Oil and Gas (EN4)
-    - Other Energy Technologies (EN5)
+    - Hydrogen Technologies (EN4)
+    - Petrochemicals, Oil and Gas (EN5)
+    - Other Energy Technologies (EN6)
   companies:
     - name: Proton Energy Systems, Inc.
     - name: Syzygy Plasmonics Inc
@@ -375,16 +379,17 @@
       ttopic: et
       bio: "has been a SBIR/STTR Program Director since 2012. Prior to joining NSF in 2012, he was a senior research technologist at Kodak where his 26-year career spanned work at Kodak Research Laboratories, and Manufacturing Research and Engineering Organization. His work covered a broad range of materials science based technologies related to photographic film and paper manufacturing, thermal, inkjet, and electro-photographic printing, and OLED device manufacturing. He has a B. Tech. degree in Chemical Engineering from Indian Institute of Technology, Bombay, M.S. and Ph.D. degrees in Chemical Engineering from Penn State, a post-doctoral fellowship at Imperial College, and a M.S. degree in New Product Development from Rochester Institute of Technology." 
   subtopics:
-    - Computational Sustainability (ET1)
-    - Digital Ecosystem for the Environment (ET2)
-    - Emission/Waste Reduction and the Circular Economy (ET3)
-    - Environmental Health (ET4)
-    - Environmental and Societal Impact Measurement (ET5)
-    - Food, Regenerative Agriculture, and Energy (ET6)
-    - Habitat Conservation, Adaptation and Restoration (ET7)
-    - Sustainable Community Systems (ET8)
-    - Water Treatment, Resilience, and Sanitation (ET9)
-    - Other Environmental Technologies (ET10)
+    - Climate Change Adaptation, Mitigation and Reversal (ET1)
+    - Computational Sustainability (ET2)
+    - Digital Ecosystem for the Environment (ET3)
+    - Emission/Waste Reduction and the Circular Economy (ET4)
+    - Environmental Health (ET5)
+    - Environmental and Societal Impact Measurement (ET6)
+    - Food, Regenerative Agriculture, and Energy (ET7)
+    - Habitat Conservation, Adaptation and Restoration (ET8)
+    - Sustainable Community Systems (ET9)
+    - Water Treatment, Resilience, and Sanitation (ET10)
+    - Other Environmental Technologies (ET11)
   companies:
     - name: ClearFlame Engines, Inc.
     - name: CycloPure, Inc.
@@ -414,7 +419,7 @@
     - Embodied and Wearable Computing (HC4)
     - Optometry and Human Vision (HC5)
     - Tactile Technologies (HC6)
-    -  Technology Aids for Disabilities (HC7)
+    - Technology Aids for Disabilities (HC7)
     - Other Human-Computer Interaction Technologies (HC8)
   companies:
     - name: Neural Analytics
@@ -458,7 +463,7 @@
   subtopics:
     - IoT Communications (I1)
     - IoT Integrated Systems (I2)
-    - IoT Sensors and Actuators  (I3)
+    - IoT Sensors and Actuators (I3)
     - Networking (I4)
     - Other IoT Technologies (I5)
   companies:
@@ -481,7 +486,7 @@
   subtopics:
     - Asynchronous and Remote Learning (LC1)
     - Collaborative Networking (LC2)
-    -  Digital Learning (LC3)
+    - Digital Learning (LC3)
     - Learning Disabilities and Difficulties (LC4)
     - Learning and Workforce Development (LC5)
     - Learning Modalities (LC6)
@@ -597,9 +602,11 @@
   subtopics:
     - Drug Delivery Methods (PT1)
     - Drug Discovery (PT2)
-    - Pharmaceutical and Biologic Manufacturing (PT3)
-    - Therapeutic Molecules (PT4)
-    - Other Pharmaceutical Technologies (PT5)
+    - Health in Underserved Communities (PT3)
+    - Pharmaceutical and Biologic Manufacturing (PT4)
+    - Therapeutic Molecules (PT5)
+    - Women’s Health (PT6)
+    - Other Pharmaceutical Technologies (PT7)
   companies:
     - name: SQZ Biotechnologies Company
     - name: ConsortiEX, Inc
@@ -626,9 +633,13 @@
     - Advanced Optical Components and Systems (PH2)
     - Communications, Information, and Data Storage (PH3)
     - Lighting and Displays (PH4)
-    - Photon-based Energy Conversion (PH5)
-    - Photonic Materials (PH6)
-    - Other Photonics Technologies (PH7)
+    - Photonic Devices (PH5)
+    - Photonic Energy Conversion (PH6)
+    - Photonic Materials (PH7)
+    - Silicon Photonics and Photonic Integrated Circuits (PH8)
+    - Photonic Metamaterials and Plasmonics (PH9)
+    - Quantum Optics and Nanophotonics (PH10)
+    - Other Photonics Technologies (PH11)
   companies:
     - name: Clerio Vision, Inc.
     - name: Solchroma Technologies Inc
@@ -650,9 +661,10 @@
     - Materials and Devices for Power Electronics (PM2)
     - Materials and Devices for Thermal Management (PM3)
     - Novel Power and Thermal Management Sensors (PM4)
-    - Power Management Infrastructure and Smart Grid Systems (PM5)
-    - Systems for Thermal Management (PM6)
-    - Other Power Management Technologies (PM7)
+    - Power Electronics Circuits and Control Systems (PM5)
+    - Power Management Infrastructure and Smart Grid Systems (PM6)
+    - Systems for Thermal Management (PM7)
+    - Other Power Management Technologies (PM8)
   companies:
     - name: Microgrid Labs Inc.
     - name: Imagen Energy, LLC
@@ -724,7 +736,8 @@
     - Microelectronics Packaging and Systems Integration (S4)
     - Novel Semiconductor-based Sensors (S5)
     - Processing and Metrology Technology (S6)
-    - Other Semiconductor Technologies (S7)
+    - Wide Bandgap Power Devices and Materials (S7)
+    - Other Semiconductor Technologies (S8)
   companies:
     - name: Uniqarta, Inc.
     - name: Inpria Corporation
