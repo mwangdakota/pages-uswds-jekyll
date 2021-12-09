@@ -108,7 +108,7 @@ Click the **"GO"** button and provide the required information to complete the c
 ![Title of proposed project field]({{ site.baseurl }}/assets/img/fastlane/11a-title-of-proposed-project--and-budget.duration.jpg)
 
 **"Budget and Duration Information":** Three items are requested.
-- **Requested Amount:** Enter the requested amount of funds. _(SBIR and STTR Phase I budgets cannot exceed $256,000. The requested amount on the Cover Page should match the total funds requested in the budget.)_
+- **Requested Amount:** Enter the requested amount of funds. _(SBIR and STTR Phase I budgets cannot exceed $275,000. The requested amount on the Cover Page should match the total funds requested in the budget.)_
 - **Proposal Duration:** _Enter the proposed duration of the project in months (between 6 and 12 months)._
 - **Requested Start Date:** We recommend that you enter a start date six months from your proposal submission. For instance, a proposal submitted in June would enter January 1st of the following year.
 
