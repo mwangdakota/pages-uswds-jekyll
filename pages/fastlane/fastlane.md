@@ -22,7 +22,7 @@ Only SBIR/STTR proposals that have been invited will be reviewed by NSF. To lear
 
 ### Read the SBIR/STTR Solicitation
 
-The Phase I [SBIT/STTR Solicitation]({{ site.data.solicitations['SBIRSTTR'].url }}) solicitation explains what information should go in the proposal. The following steps will walk through the process of submitting a proposal to FastLane, one of NSF’s electronic proposal submission systems.
+The Phase I [SBIT/STTR Solicitation]({{ site.data.solicitations['SBIR_STTR'].url }}) solicitation explains what information should go in the proposal. The following steps will walk through the process of submitting a proposal to FastLane, one of NSF’s electronic proposal submission systems.
 
 SBIR/STTR Proposals must be submitted to NSF via FastLane. The NSF’s Research.gov proposal preparation and submission site is not currently available for SBIR and STTR proposal submissions.  
 
