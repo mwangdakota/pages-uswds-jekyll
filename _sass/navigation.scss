@@ -7,7 +7,7 @@
 
   .usa-accordion-button,
   .usa-accordion-button[aria-expanded="false"] {
-    color: #fff;
+    color: $color-secondary;
     font-family: $font-mono;
     font-size: $font-size-xxxs;
     font-weight: 400;
@@ -19,7 +19,7 @@
 
     &:hover {
       color: $color-base;
-      background-color: #fff;
+      background-color: $color-secondary;
       border: 0;
 
       span {
@@ -30,7 +30,7 @@
 
   button[aria-expanded="true"],
   button[aria-expanded="true"]:hover {
-    background-color: #fff;
+    background-color: $color-secondary;
     background-image: url("../img/arrow-up.svg");
     color: $color-base;
     z-index: 1000;
@@ -140,7 +140,7 @@
 
     &:hover {
       color: $color-base;
-      background-color: $color-secondary;
+      background-color: #fff;
       border: 0;
 
         span {
@@ -151,7 +151,7 @@
 
     button[aria-expanded="true"],
     button[aria-expanded="true"]:hover {
-    background-color: $color-secondary;
+    background-color: #fff;
     background-image: url("../img/arrow-up.svg");
     color: $color-base;
     z-index: 1000;
