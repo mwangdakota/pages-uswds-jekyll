@@ -180,8 +180,8 @@
         text-rendering: optimizeLegibility;
 
         &:hover {
-          color: #fff;
-          background-color: #01c6f1;
+          color: #000;
+          background-color: #fff;
           border: 0;
 
           span {
@@ -238,7 +238,7 @@
       background-color: transparent !important;
     }
     .usa-nav-submenu {
-      background-color: #01c6f1;
+      background-color: #fff;
       padding: 0.5rem 0;
 
       a:hover {
