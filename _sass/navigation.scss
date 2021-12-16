@@ -199,7 +199,11 @@
   .usa-nav {
     background-color: #fff;
   }
-
+  
+  .usa-nav-primary button:focus, .usa-nav-primary button:active {
+    box-shadow:none;
+  }
+    
   .usa-hero .large-header {
     font-size: 3.6rem;
   }
