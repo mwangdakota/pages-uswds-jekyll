@@ -111,4 +111,4 @@ This definition does not include owners of the small business, their family memb
 ## Women-owned small business
 A small business concern that is at least 51 percent owned by a woman or women. In the case of any publicly owned business, it must have at least 51 percent of its stock owned by women, who also control and operate it. In this context, _control_ means exercising the power to make policy decisions. _Operate_ means being actively involved in the day-to-day management.
 
-[Prev]({{ site.baseurl }}/fastlane/proposal-file-update/) \| [Next]({{ site.baseurl }}/fastlane/covid-19-proposal-instructions/)
+[Prev]({{ site.baseurl }}/fastlane/proposal-file-update/) 
