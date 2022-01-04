@@ -10,7 +10,7 @@ sidenav: fastlane
 
 ### Formatting Instructions
 
-Visit the [{{ site.data.solicitations['SBIR_STTR'].title }}]({{ site.data.solicitations['SBIR_STTR'].url }}){:target="_blank"} for information on how to format your proposal.
+Visit the [SBIR/STTR Solicitation]({{ site.data.solicitations['SBIR_STTR'].url }}){:target="_blank"} for information on how to format your proposal.
 
 ### Create Proposal
 
@@ -90,7 +90,7 @@ The second Cover Sheet **"GO"** Button is **"Program Announcement / Solicitation
 
 ![Program announcement/solicitation/program descriptions button]({{ site.baseurl }}/assets/img/fastlane/coverSheetProgramAnnouncement.png)
 
-The third Cover Sheet **"GO"** Button is **"NSF Unit Consideration"**.
+The third Cover Sheet **"GO"** Button is **"NSF Unit Consideration"**. Select a program. Choose either SBIR or STTR. The difference between the NSF SBIR and STTR Programs is that small businesses applying to the STTR program are required to partner with a not-for-profit research institution in their proposal. Such a partnership is optional for SBIR proposals. For more information visit our FAQs linked from the [For Applicants page]({{ site.baseurl }}/resources/applicants/).
 
 ![NSF unit consideration button]({{ site.baseurl }}/assets/img/fastlane/coverSheetUnitConsideration.png)
 
