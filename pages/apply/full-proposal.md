@@ -31,9 +31,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
     <br>NSF has two Phase I solicitations: the Small Business Innovation Research (SBIR) and the Small Business Technology Transfer (STTR). They are almost identical, but an SBIR proposal does not require that the startup partner with an eligible research institution. In an STTR proposal, the startup must perform a minimum of 40% of the research, as measured by the budget, and a minimum of 30% of the research must be performed by the partner research institution.</p>
   <p>
     <a class="usa-button usa-button-secondary"
-        href="{{ site.data.solicitations['SBIR'].url }}" target="_blank">Read the SBIR solicitation</a>
-    <a class="usa-button usa-button-secondary"
-        href="{{ site.data.solicitations['STTR'].url }}" target="_blank">Read the STTR solicitation</a>
+        href="{{ site.data.solicitations['SBIR_STTR'].url }}" target="_blank">Read the SBIR/STTR solicitation</a>
   </p>
   <p><b>Register your company (FREE and required)</b>
     <br>If your company hasn’t worked with the government before, you’ll need to register with these systems (we recommend the order listed below).  Every step in our process, including all of these registrations, is free.  You MUST have completed your SAM registration BEFORE you can begin entering your proposal in FastLane. Start as soon as possible!
