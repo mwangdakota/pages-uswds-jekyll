@@ -4,15 +4,12 @@ STTR:
 SBIR:
   title: SBIR solicitation
   url: https://www.nsf.gov/pubs/2021/nsf21562/nsf21562.htm
+SBIR_STTR:
+  title: SBIR/STTR solicitation
+  url: https://www.nsf.gov/pubs/2021/nsf21562/nsf21562.htm  
 PHASE_II:
-  title: SBIR Phase II solicitation 
+  title: SBIR/STTR Phase II solicitation 
   url: https://www.nsf.gov/pubs/2021/nsf21565/nsf21565.htm
 STTR_PHASE_II:
   title: STTR Phase II solicitation 
   url: https://www.nsf.gov/pubs/2021/nsf21566/nsf21566.htm
-SBIR_STTR:
-  title: SBIR/STTR solicitation
-  url: https://www.nsf.gov/pubs/2021/nsf21562/nsf21562.htm  
-SBIR_STTR_PHASE_II:
-  title: SBIR/STTR Phase II solicitation
-  url: https://www.nsf.gov/pubs/2021/nsf21562/nsf21562.htm
