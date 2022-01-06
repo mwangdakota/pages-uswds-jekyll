@@ -11,7 +11,7 @@ Interested in applying for Phase II funding? Review this information before star
 
 The Phase II submission window will be open another 30+ days through January 6, 2022. Read the solicitations for more information.
 
-<a class="usa-button usa-button-primary button-arrow" href="{{ site.data.solicitations['SBIR_STTR'].url }}">
+<a class="usa-button usa-button-primary button-arrow" href="{{ site.data.solicitations['PHASE_II'].url }}">
   Read the SBIR/STTR Phase II Solicitation</a>
 
 ## Eligibility and the basics
