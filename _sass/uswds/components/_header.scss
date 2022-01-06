@@ -74,8 +74,8 @@ $z-index-nav:     9000;
 .usa-menu-btn {
   /* stylelint-disable declaration-block-no-ignored-properties */
   @include button-unstyled;
-  background-color: $color-primary;
-  color: $color-white;
+  background-color: #fff;
+  color: #000;
   display: inline;
   float: right;
   font-size: $h6-font-size;
@@ -92,8 +92,8 @@ $z-index-nav:     9000;
   }
 
   &:hover {
-    color: $color-white;
-    background-color: $color-primary-darker;
+    color: #000;
+    background-color: #FFFAC3;
   }
 
   &:visited {
