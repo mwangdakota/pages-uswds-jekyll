@@ -1,11 +1,5 @@
 ---
 - eventName: "NSF Human-Technology Interface Series: Pathways to Products for Lifelong Learning Workshop"
-  description: "Event 2: COVID"
-  eventType: Webinar
-  date: 16 Dec 2021 
-  time: 11:30 AM - 7:00 PM ET
-  registrationLink: https://www.accelevents.com/e/nsfhtiworkshopseries
-- eventName: "NSF Human-Technology Interface Series: Pathways to Products for Lifelong Learning Workshop"
   description: "Event 3: Missing Millions"
   eventType: Webinar
   date: 25 Jan 2022 
