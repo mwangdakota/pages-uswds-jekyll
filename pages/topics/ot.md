@@ -15,4 +15,4 @@ For projects that do not seem to fit into one of the other technology topic area
 <!--
 {% capture tt_features %}
 {% endcapture %}-->
-{% include tech-topic.html desc=tt_description features=tt_features %}
+{% include tech-topic.html desc=tt_description %}
