@@ -1,7 +1,7 @@
 ---
 title: Cloud and High-Performance Computing – Apply Today
 permalink: /topics/cloud-high-performance-computing/
-description: 
+description:
   - NSF provides startups with grant funding for cloud and high-performance computing.
 layout: tech-topic
 topic_code: ch
@@ -13,7 +13,7 @@ section_image_caption: |
 The Cloud and High-Performance Computing topic focuses on innovations that result in substantial improvements to cloud computing or high-performance computing platforms. These improvements may be in terms of computing power and efficiency, energy management, data storage, latency, data integrity and availability, cost, or any other factor of importance in such platforms, and may result from software- or hardware-based innovations. These subtopic areas are meant to serve as examples; all proposals with technical innovation and significant commercial potential are welcome, regardless of the specific area of focus of the project.
 {% endcapture %}
 
-{% capture tt_features %}<!--
+{% capture tt_features___ignore %}
 <div class="usa-section usa-content usa-grid">
   <div class="image-video">
     <div class="usa-width-one-half">
@@ -43,7 +43,7 @@ The Cloud and High-Performance Computing topic focuses on innovations that resul
     </div>
     <div style="clear:both" />
   </div>
-</div>-->
+</div>
 {% endcapture %}
 
 {% include tech-topic.html desc=tt_description features=tt_features %}

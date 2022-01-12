@@ -1,6 +1,6 @@
 ---
 title: Advanced Analytics Grant – Apply Today
-description: 
+description:
   - NSF provides startups with grant funding for advanced analytics innovations.
 permalink: /topics/advanced-analytics/
 layout: tech-topic
@@ -13,8 +13,8 @@ section_image_caption: |
 The Advanced Analytics topic focuses on innovations that involve the mathematical or computational analysis of data or statistics. This topic does not include learning-based systems, which are covered under the Artificial Intelligence (AI) topic. These subtopic areas are meant to serve as examples; all proposals with technical innovation and significant commercial potential are welcome, regardless of the specific area of focus of the project.
 {% endcapture %}
 
-{% capture tt_features %}
-<!--<div class="usa-section usa-content usa-grid">
+{% capture tt_features___ignore %}
+<div class="usa-section usa-content usa-grid">
   <div class="image-video">
     <div class="usa-width-one-half">
       <h3>ClearFlame Engine Technologies</h3>
@@ -43,7 +43,7 @@ The Advanced Analytics topic focuses on innovations that involve the mathematica
     </div>
     <div style="clear:both" />
   </div>
-</div>-->
+</div>
 {% endcapture %}
 
 {% include tech-topic.html desc=tt_description features=tt_features %}

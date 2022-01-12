@@ -124,7 +124,7 @@ $container-padding: $grid-gutter-width; // container doubles up on padding
 				}
 			}
 		}
-		
+
 		// The container will break away from the edges of the viewport before the next breakpoint triggers
 		@if( (not $next-bp-w) or ($next-bp-w and $c-width <= $next-bp-w )) {
 			@media( min-width: #{$breakaway} ) {
@@ -138,24 +138,24 @@ $container-padding: $grid-gutter-width; // container doubles up on padding
 // @param {String} $side - Which side is full-bleed; valid options are: full, left, or right. full is default
 // @param {Boolean} $no-padding - If set to true, the element will go right up to the edge of the viewport.
 //      If it is set to false, the element will be $container-padding from the edge of the viewport.
-// Assumptions: 
+// Assumptions:
 //    * This is called on an element whos width is determined solely by a single container
 //    * variables exist and follow the Bootstrap convention: $container-max-widths, $grid-breakpoints
 //    * A variable exists: $container-padding which reflects the padding on either side of the container
-//    * The $container-max-widths may be %, vw, or another unit; 
+//    * The $container-max-widths may be %, vw, or another unit;
 //.     if they are in a unit other than % or vw, it must match the unit of $grid-breakpoints
 @mixin make-full-width($side: full, $no-padding: true) {
 	$sm-c-w: $site-max-width;
 	$md-c-w: $site-max-width;
 	$lg-c-w: $site-max-width;
 	$xl-c-w: $site-max-width;
-	
+
 	$xs-bp: 0;
 	$sm-bp: $small-screen;
 	$md-bp: $medium-screen;
 	$lg-bp: $large-screen;
 	$xl-bp: $large-screen;
-	
+
 	@if($no-padding) {
 		// xs and sm combined since container widths are the same
 		@include _make-full-width-for-breakpoint($sm-c-w, $container-padding, $xs-bp, $md-bp, $side);
@@ -180,9 +180,9 @@ section {
 	&.full-bleed-bg--blue {
 		$margin: 50px;
 		position: relative;
-		margin: $margin 0;
+		// margin: $margin 0;
 		z-index: 1; // base
-		
+
 		&:before {
 			@include make-full-width(full);
 			background: $color-white;
@@ -210,7 +210,7 @@ section {
 		}
 
 		& + & { // when they're back-to-back
-			margin-top: -$margin; // sit on top of the margin-bottom of the one above
+			// margin-top: -$margin; // sit on top of the margin-bottom of the one above
 		}
 
 		&:last-child {
@@ -235,7 +235,7 @@ section {
 	&.full-bleed-bg--no-margin {
 		margin: 0; // for pages with full bg images
 	}
-	
+
 	&.full-bleed-bg--auto-margin {
 		margin-right: auto; // for portfolio detail pages
 		margin-left: auto;
