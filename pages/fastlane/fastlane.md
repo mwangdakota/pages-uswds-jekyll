@@ -16,14 +16,14 @@ FastLane will not accept proposals after 5:00 PM submitter’s time on the submi
 
 ### Were you invited to submit a proposal?
 
-NSF SBIR/STTR Program Phase I applicants are now **REQUIRED** to submit a three-page “Project Pitch” that outlines the project objectives, technical innovation and associated technical risks. Projects that seem to be a good fit will be officially **INVITED** to submit a full proposal. 
+NSF SBIR/STTR Program Phase I applicants are now **REQUIRED** to submit a “Project Pitch” that outlines the project objectives, technical innovation and associated technical risks. Projects that seem to be a good fit will be officially **INVITED** to submit a full proposal. 
 
-Only SBIR/STTR proposals that have been invited will be reviewed by NSF. To learn more about the Project Pitch, please visit [How to Apply]({{ site.baseurl }}/apply/). 
+Only SBIR/STTR proposals that have been invited will be reviewed by NSF. To learn more about the Project Pitch, please visit [How It Works]({{ site.baseurl }}/apply/get-started/). 
 
 ### Read the SBIR/STTR Solicitation
 
-The Phase I [{{ site.data.solicitations['SBIR'].title }}]({{ site.data.solicitations['SBIR'].url }}) and [{{ site.data.solicitations['STTR'].title }}]({{ site.data.solicitations['STTR'].url }}) solicitations explain what information should go in the proposal. The following steps will walk through the process of submitting a proposal to FastLane, one of NSF’s electronic proposal submission systems.
+The Phase I [SBIR/STTR Solicitation]({{ site.data.solicitations['SBIR_STTR'].url }}) explains what information should go in the proposal. The following steps will walk through the process of submitting a proposal to FastLane, one of NSF’s electronic proposal submission systems.
 
-SBIR/STTR Proposals must be submitted to NSF via FastLane. The NSF’s Research.gov proposal preparation and submission site is not currently available for SBIR and STTR proposal submissions.  
+SBIR/STTR Proposals must be submitted to NSF via FastLane. The NSF’s Research.gov proposal preparation and submission site is not currently available for SBIR and STTR proposal submissions but must be used to register for Fastlane.  
 
 [Next]({{ site.baseurl }}/fastlane/registrations/)

@@ -10,7 +10,7 @@ sidenav: fastlane
 
 ### Formatting Instructions
 
-Visit the [{{ site.data.solicitations['SBIR'].title }}]({{ site.data.solicitations['SBIR'].url }}){:target="_blank"} or [{{ site.data.solicitations['STTR'].title }}]({{ site.data.solicitations['STTR'].url }}){:target="_blank"} for information on how to format your proposal.
+Visit the [SBIR/STTR Solicitation]({{ site.data.solicitations['SBIR_STTR'].url }}){:target="_blank"} for information on how to format your proposal.
 
 ### Create Proposal
 
@@ -90,7 +90,7 @@ The second Cover Sheet **"GO"** Button is **"Program Announcement / Solicitation
 
 ![Program announcement/solicitation/program descriptions button]({{ site.baseurl }}/assets/img/fastlane/coverSheetProgramAnnouncement.png)
 
-The third Cover Sheet **"GO"** Button is **"NSF Unit Consideration"**.
+The third Cover Sheet **"GO"** Button is **"NSF Unit Consideration"**. Select a program. Choose either SBIR or STTR. The difference between the NSF SBIR and STTR Programs is that small businesses applying to the STTR program are required to partner with a not-for-profit research institution in their proposal. Such a partnership is optional for SBIR proposals. For more information visit our FAQs linked from the [For Applicants page]({{ site.baseurl }}/resources/applicants/).
 
 ![NSF unit consideration button]({{ site.baseurl }}/assets/img/fastlane/coverSheetUnitConsideration.png)
 
@@ -108,7 +108,7 @@ Click the **"GO"** button and provide the required information to complete the c
 ![Title of proposed project field]({{ site.baseurl }}/assets/img/fastlane/11a-title-of-proposed-project--and-budget.duration.jpg)
 
 **"Budget and Duration Information":** Three items are requested.
-- **Requested Amount:** Enter the requested amount of funds. _(SBIR and STTR Phase I budgets cannot exceed $256,000. The requested amount on the Cover Page should match the total funds requested in the budget.)_
+- **Requested Amount:** Enter the requested amount of funds. _(SBIR and STTR Phase I budgets cannot exceed $275,000. The requested amount on the Cover Page should match the total funds requested in the budget.)_
 - **Proposal Duration:** _Enter the proposed duration of the project in months (between 6 and 12 months)._
 - **Requested Start Date:** We recommend that you enter a start date six months from your proposal submission. For instance, a proposal submitted in June would enter January 1st of the following year.
 
