@@ -164,7 +164,7 @@ $(document).ready(function () {
         amount: award.AwardAmount,
         award_date: award.AwardDate,
         abstract: award.Abstract,
-        id: award.AwardID,
+        id: award.AwardNumber,
         url: award.CompanyUrl,
         phase: award.ProgramElementName,
         pi_name: award.PIFirstName + ' ' + award.PILastName,
