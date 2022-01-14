@@ -57,7 +57,7 @@
 {% if topic.companies.size > 0 %}
 <section class="full-bleed-bg">
   <div class="usa-section usa-content usa-grid">
-    <h3>More</h3>
+    <h3>More featured companies</h3>
     <ul class="flex-list flex-list-4-col featured-companies shuffled-list">
       {% for company in topic.companies %}
       <li><a href="{{ site.baseurl }}/portfolio/details/?company={{ company.name | slugify }}">{{ company.name }}</a></li>
