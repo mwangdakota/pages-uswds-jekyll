@@ -161,7 +161,7 @@ $(document).ready(function () {
         company: award.InstitutionName,
         city_state: award.CityName + ', ' + award.StateCode,
         title: award.Title,
-        amount: award.AwardAmount,
+        amount: award.AwardAmount.replaceAll(',', ''),
         award_date: award.AwardDate,
         abstract: award.Abstract,
         id: award.AwardNumber,

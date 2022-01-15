@@ -4,6 +4,8 @@ if (window.strFormatter) {
   window.strFormatter = {
 
     usd_pretty: function(amount) {
+      if (!(amount.trim())) return '';
+      if (amount.includes(',')) return ('$' + amount);
       return '$' + amount.replaceAll(/\s/g, '').replaceAll(/\D/g, '').replaceAll(/\B(?=(\d{3})+(?!\d))/g, ',');
     },
 
