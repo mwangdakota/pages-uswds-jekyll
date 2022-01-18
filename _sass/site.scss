@@ -197,3 +197,9 @@ a {
   }
 
 }
+
+// There should never be multiple H1 tags in a valid HTML page, but
+// the resources page is breaking this rule.  But for now...
+h1:first-of-type {
+  margin-top: 0;
+}

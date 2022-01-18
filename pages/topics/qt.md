@@ -1,8 +1,8 @@
 ---
 title: Quantum Information Technologies Grant – Apply Today
 permalink: /topics/quantum-information-technologies/
-description: 
-  - NSF funds startups. Use a research and development grant to create quantum information technologies. 
+description:
+  - NSF funds startups. Use a research and development grant to create quantum information technologies.
 layout: tech-topic
 topic_code: qt
 section_image: "/assets/img/bg/mental-canvas-2c-it.gif"
@@ -15,15 +15,15 @@ This topic focuses on innovations in information and communications technologies
 Examples of technology innovations in the quantum computing subtopic could include qubit generation and detection; development of computational models (quantum circuits, etc.); error correction; algorithms; software; hardware sub-systems and systems; and Noisy Intermediate-Scale Quantum (NISQ) computers. Examples of technology innovations in the quantum communications subtopic could include components such as sources, memories, repeaters, detectors; hardware sub-systems and systems; networks; cryptography; and key distribution.
 {% endcapture %}
 
-{% capture tt_features %}
-<!--<div class="usa-section usa-content usa-grid">
+{% capture tt_features___ignore %}
+<div class="usa-section usa-content usa-grid">
   <h3>FEATURE 1</h3>
 </div>
 <div class="background-light-blue">
   <div class="usa-section usa-content usa-grid">
     <h3>FEATURE 2</h3>
   </div>
-</div>-->
+</div>
 {% endcapture %}
 
 {% include tech-topic.html desc=tt_description features=tt_features %}

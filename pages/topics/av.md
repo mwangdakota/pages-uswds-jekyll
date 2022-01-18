@@ -1,7 +1,7 @@
 ---
 title: Augmented and Virtual Reality Grant – Apply Today
 permalink: /topics/augmented-virtual-reality/
-description: 
+description:
   - NSF provides startups with grant funding for augmented and virtual reality technologies.
 layout: tech-topic
 topic_code: av
@@ -13,8 +13,8 @@ section_image_caption: |
 The Augmented and Virtual Reality topic aims to support the early-stage development of technological innovations in the hardware, software, photonics, displays, communication processes and other enabling technologies. Additionally, innovations that bring evidence-based academic discoveries to the public sphere via augmented and virtual reality technologies are also appropriate. Since augmented and virtual reality technology is applicable to multiple industries, proposals to this topic should clearly identify target markets, potential paths to commercialization success as well as competitive analysis demonstrating the need for the proposed solution in advancing the entire field.
 {% endcapture %}
 
-{% capture tt_features %}
-<!--<div class="usa-section usa-content usa-grid">
+{% capture tt_features___ignore %}
+<div class="usa-section usa-content usa-grid">
   <div class="image-video">
     <div class="usa-width-one-half">
       <h3>ClearFlame Engine Technologies</h3>
@@ -43,7 +43,7 @@ The Augmented and Virtual Reality topic aims to support the early-stage developm
     </div>
     <div style="clear:both" />
   </div>
-</div>-->
+</div>
 {% endcapture %}
 
 {% include tech-topic.html desc=tt_description features=tt_features %}
