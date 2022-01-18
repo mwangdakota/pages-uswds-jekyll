@@ -84,13 +84,13 @@
   permalink: /topics/artificial-intelligence/
   topic_code: ai
   programDirector:
-  - name: Peter Atherton
-    last_name: Atherton
+  - name: Parvathi Chundi
+    last_name: Chundi
     api_name: Parvathi Chundi
     email: pchundi@nsf.gov
     photo: chundi-compressed.jpg
     ttopic: ai
-    bio: "jParvathi Chundi joined the National Science Foundation as a Program Director for the SBIR/STTR program in 2022. Parvathi is also a professor in the computer science department in the College of Information Science and Technology at the University of Nebraska-Omaha. Her research interests span the areas of data management and scalable machine learning technologies. Recently, she has been studying novel machine learning systems that learn from sparsely annotated data for semantic segmentation, object detection, and text summarization. Parvathi has chaired several department, college, and university level committees during her academic career, and has been a University Distinguished Professor since Fall 2021. Prior to joining academia, Parvathi also has extensive industrial experience including startup ventures and research labs such as the G.E. Corporate Research and Development Center, and HP and Agilent Labs. She holds six patents. Parvathi received her B.E in computer science from the College of Engineering, Guindy in India, and M.S and PhD in computer science from University at Albany - State University of New York."  subtopics:
+    bio: "Parvathi Chundi joined the National Science Foundation as a Program Director for the SBIR/STTR program in 2022. Parvathi is also a professor in the computer science department in the College of Information Science and Technology at the University of Nebraska-Omaha. Her research interests span the areas of data management and scalable machine learning technologies. Recently, she has been studying novel machine learning systems that learn from sparsely annotated data for semantic segmentation, object detection, and text summarization. Parvathi has chaired several department, college, and university level committees during her academic career, and has been a University Distinguished Professor since Fall 2021. Prior to joining academia, Parvathi also has extensive industrial experience including startup ventures and research labs such as the G.E. Corporate Research and Development Center, and HP and Agilent Labs. She holds six patents. Parvathi received her B.E in computer science from the College of Engineering, Guindy in India, and M.S and PhD in computer science from University at Albany - State University of New York." 
   subtopics:
     - AI-Optimized Hardware (AI1)
     - Computer Vision (AI2)
