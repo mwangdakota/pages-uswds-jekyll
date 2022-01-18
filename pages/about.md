@@ -60,7 +60,7 @@ We focus on transforming scientific and engineering discoveries into products an
 
 <li>
                 <h3>Up to $2M / 36+ months</h3>
-                Receive up to $256,000 in non-dilutive funding for research and development (R&D) to build your prototype or proof-of-concept over six to 12 months. During this period, your company will receive guidance from NSF program directors who are seasoned entrepreneurs and technologists. After you complete your Phase I award, you’re welcome to apply for Phase II,  which can be up to $1,000,000 over the course of 24 months. During that second award, you can apply for supplements that may add up to more than $500,000.<p><a href="{{ site.baseurl }}/apply/get-started/" class="usa-button usa-button-primary">LEARN HOW IT WORKS</a></p>
+                Receive up to $275,000 in non-dilutive funding for research and development (R&D) to build your prototype or proof-of-concept over six to 12 months. During this period, your company will receive guidance from NSF program directors who are seasoned entrepreneurs and technologists. After you complete your Phase I award, you’re welcome to apply for Phase II,  which can be up to $1,000,000 over the course of 24 months. During that second award, you can apply for supplements that may add up to more than $500,000.<p><a href="{{ site.baseurl }}/apply/get-started/" class="usa-button usa-button-primary">LEARN HOW IT WORKS</a></p>
               </li>
               <li>
                 <h3>Feedback from experts</h3>

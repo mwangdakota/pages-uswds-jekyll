@@ -85,7 +85,7 @@ Follow the step-by-step process below to register a new organization in Research
 
 ![Choose roles]({{ site.baseurl }}/assets/img/fastlane/newOrg4.jpg)
 
-![Review]({{ site.baseurl }}/assets/img/fastlane/newOrg6.jpg)
+![Review]({{ site.baseurl }}/assets/img/fastlane/newOrg5.jpg)
 
 ![Confirmation]({{ site.baseurl }}/assets/img/fastlane/newOrg6.jpg)
 
