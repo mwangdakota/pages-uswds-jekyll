@@ -1,8 +1,8 @@
 ---
 title: Nanotechnology Grant – Apply Today
 permalink: /topics/nanotechnology/
-description: 
-  - NSF funds startups. Use a research and development grant to create nanotechnology. 
+description:
+  - NSF funds startups. Use a research and development grant to create nanotechnology.
 layout: tech-topic
 topic_code: n
 section_image: "/assets/img/bg/branch-2c-mn.jpg"
@@ -13,7 +13,7 @@ section_image_caption: |
 The Nanotechnology topic addresses the creation and manipulation of functional materials, devices, and systems with novel properties and functions that are achieved through the control of matter at a submicroscopic scale (from a fraction of nanometer to about 100 nanometers). This includes, but is not limited to, innovative hierarchical nanostructures, nanolayered structures, nanowires, nanotubes, quantum dots, nanoparticles, nanofibers, and other nanomaterials and biomaterials and their composite structures. Proposals focusing on global technological challenges through development of innovative nanotechnologies are especially encouraged.
 {% endcapture %}
 
-{% capture tt_features %}<!--
+{% capture tt_features___ignore %}
 <div class="usa-section usa-content usa-grid">
   <h3>FEATURE 1</h3>
 </div>
@@ -21,7 +21,7 @@ The Nanotechnology topic addresses the creation and manipulation of functional m
   <div class="usa-section usa-content usa-grid">
     <h3>FEATURE 2</h3>
   </div>
-</div>-->
+</div>
 {% endcapture %}
 
 {% include tech-topic.html desc=tt_description features=tt_features %}
