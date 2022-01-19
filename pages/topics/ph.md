@@ -20,7 +20,7 @@ The Photonics topic addresses the research and development of new materials, dev
       <p>To learn more visit: <a href="https://anellophotonics.com"https://anellophotonics.com</a></p>
     </div>
     <div class="usa-width-one-half">
-      <img src="{{ site.baseurl }}/assets/img/fastlane/Sep-CreateProposal.png" alt="A silicon photonic optical gyroscope" />
+      <img src="{{ site.baseurl }}/assets/img/topics/photonics-sm.jpg" alt="A silicon photonic optical gyroscope" />
     </div>
 </div>
 
