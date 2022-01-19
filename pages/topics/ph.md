@@ -5,7 +5,7 @@ description:
   - NSF provides startups with grant funding for photonics innovations. 
 layout: tech-topic
 topic_code: ph
-section_image: "/assets/img/bg/aanello-ph.jpg"
+section_image: "/assets/img/bg/anello-ph.jpg"
 section_image_caption: |
   [Anello Photonics]({{ site.baseurl}}/portfolio/details/?company=anello-photonics-inc)'s silicon photonic optical gyroscope.
 ---
@@ -16,16 +16,6 @@ The Photonics topic addresses the research and development of new materials, dev
 
 {% capture tt_features %}
 <div class="usa-section usa-content usa-grid">
-  <div class="usa-section usa-content usa-grid">
-    <div class="usa-width-one-half">
-      <h3>Anello Photonics</h3>
-      <p><a href="{{ site.baseurl}}/portfolio/details/?company=anello-photonics-inc">Anello Photonics</a>, an NSF-funded company (NSF-2052114), creates gyroscopes for use in all kinds of applications from smartphones to submarines.</p>
-      <p>To learn more visit: <a href="https://anellophotonics.com">https://anellophotonics.com</a></p>
-    </div>
-    <div class="usa-width-one-half">
-      <img src="{{ site.baseurl }}/assets/img/topics/photonics-sm.jpg" alt="A silicon photonic optical gyroscope" />
-    </div>
-</div>
   <div class="image-video">
     <div class="usa-width-one-half">
       <h3>Solar power for smartphones and buildings</h3>
@@ -37,6 +27,19 @@ The Photonics topic addresses the research and development of new materials, dev
     </div>
   </div>
 </div>
+
+<div class="usa-section usa-content usa-grid">    
+    <div class="usa-width-one-half">
+      <img src="{{ site.baseurl }}/assets/img/topics/photonics-sm.jpg" alt="A silicon photonic optical gyroscope" />
+      <caption>A silicon photonic optical gyroscope</caption>
+    </div>
+    <div class="usa-width-one-half">
+      <h3>Anello Photonics</h3>
+      <p><a href="{{ site.baseurl}}/portfolio/details/?company=anello-photonics-inc">Anello Photonics</a>, an NSF-funded company (NSF-2052114), creates gyroscopes for use in all kinds of applications from smartphones to submarines.</p>
+      <p>To learn more visit: <a href="https://anellophotonics.com">https://anellophotonics.com</a></p>
+    </div>
+    </div>
+    
 {% endcapture %}
 
 {% include tech-topic.html desc=tt_description features=tt_features %}
