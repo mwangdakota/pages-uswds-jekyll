@@ -154,10 +154,10 @@ $(document).ready(function () {
 
   let getAwardsHistory = async function() {
     awards_history = (await sfService.getAwardsHistory()).map(function (award) {
-      update_company_names(award.InstitutionIdentifer, award.InstitutionName);
+      update_company_names(award.InstitutionIdentifier, award.InstitutionName);
 
       return {
-        company_id: award.InstitutionIdentifer,
+        company_id: award.InstitutionIdentifier,
         company: award.InstitutionName,
         city_state: award.CityName + ', ' + award.StateCode,
         title: award.Title,
