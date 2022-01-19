@@ -5,13 +5,26 @@ description:
   - NSF provides startups with grant funding for photonics innovations. 
 layout: tech-topic
 topic_code: ph
-section_image: "/assets/img/bg/arable-2c-s-ph.jpg"
+section_image: "/assets/img/bg/aanello-ph.jpg"
 section_image_caption: |
-  [Arable Labs Inc.]({{ site.baseurl}}/portfolio/details/?company=arable-labs-inc#arable-labs-inc)’s advanced microclimate and crop growth monitoring device, the Mark.
+  [Anello Photonics]({{ site.baseurl}}/portfolio/details/?company=anello-photonics-inc)'s silicon photonic optical gyroscope.
 ---
 {% capture tt_description %}
 The Photonics topic addresses the research and development of new materials, devices, components, and systems that have the potential for revolutionary change in the optics and photonics industries. Photonic technologies can include anything generally operating in or using photons in the electromagnetic spectrum from gamma rays down to long radio waves. Examples include lasers, various light emitting diode technologies (LED, OLED, QLED), radiation detectors, photonic integrated circuits, optical systems, and novel communications technologies.
 {% endcapture %}
+
+<div class="usa-section usa-content usa-grid">
+    <div class="usa-width-one-half">
+      <h3>Anello Photonics</h3>
+      <p><a href="{{ site.baseurl}}/portfolio/details/?company=anello-photonics-inc">Anello Photonics</a>, an NSF-funded company (NSF-2052114), creates gyroscopes for use in all kinds of applications from smartphones to submarines.</p>
+      <p>To learn more visit: <a href="https://anellophotonics.com"https://anellophotonics.com</a></p>
+    </div>
+    <div class="usa-width-one-half">
+      <img src="{{ site.baseurl }}/assets/img/fastlane/Sep-CreateProposal.png" alt="A silicon photonic optical gyroscope" />
+    </div>
+</div>
+
+
 
 {% capture tt_features %}
 <div class="usa-section usa-content usa-grid">
