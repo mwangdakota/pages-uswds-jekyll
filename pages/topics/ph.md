@@ -7,7 +7,7 @@ layout: tech-topic
 topic_code: ph
 section_image: "/assets/img/bg/anello-ph.jpg"
 section_image_caption: |
-  [Anello Photonics]({{ site.baseurl}}/portfolio/details/?company=anello-photonics-inc)'s silicon photonic optical gyroscope.
+  [Anello Photonics]({{ site.baseurl}}/awardees/history/details/?company=anello-photonics-inc)'s silicon photonic optical gyroscope.
 ---
 {% capture tt_description %}
 The Photonics topic addresses the research and development of new materials, devices, components, and systems that have the potential for revolutionary change in the optics and photonics industries. Photonic technologies can include anything generally operating in or using photons in the electromagnetic spectrum from gamma rays down to long radio waves. Examples include lasers, various light emitting diode technologies (LED, OLED, QLED), radiation detectors, photonic integrated circuits, optical systems, and novel communications technologies.
@@ -34,7 +34,7 @@ The Photonics topic addresses the research and development of new materials, dev
       <caption>A silicon photonic optical gyroscope</caption>
     </div>
     <div class="usa-width-one-half">
-      <p  style="font-size:large;"><a href="{{ site.baseurl}}/portfolio/details/?company=anello-photonics-inc" style="font-size:large;display:inline;">Anello Photonics</a>, an NSF-funded company (NSF-2052114), creates gyroscopes for use in all kinds of applications from smartphones to submarines.</p>
+      <p  style="font-size:large;"><a href="{{ site.baseurl}}/awardees/history/details/?company=anello-photonics-inc" style="font-size:large;display:inline;">Anello Photonics</a>, an NSF-funded company (NSF-2052114), creates gyroscopes for use in all kinds of applications from smartphones to submarines.</p>
       <p>To learn more visit: <a href="https://anellophotonics.com">https://anellophotonics.com</a></p>
     </div>
     </div>
