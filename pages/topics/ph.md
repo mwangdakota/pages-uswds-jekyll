@@ -33,9 +33,8 @@ The Photonics topic addresses the research and development of new materials, dev
       <img src="{{ site.baseurl }}/assets/img/topics/photonics-sm.jpg" alt="A silicon photonic optical gyroscope" />
       <caption>A silicon photonic optical gyroscope</caption>
     </div>
-    <div class="usa-width-one-half">
-      <h3>Anello Photonics</h3>
-      <p><a href="{{ site.baseurl}}/portfolio/details/?company=anello-photonics-inc">Anello Photonics</a>, an NSF-funded company (NSF-2052114), creates gyroscopes for use in all kinds of applications from smartphones to submarines.</p>
+    <div class="usa-width-one-half" style="font-size:larger;">
+      <p><a href="{{ site.baseurl}}/portfolio/details/?company=anello-photonics-inc" style="font-size:larger;display:inline;">Anello Photonics</a>, an NSF-funded company (NSF-2052114), creates gyroscopes for use in all kinds of applications from smartphones to submarines.</p>
       <p>To learn more visit: <a href="https://anellophotonics.com">https://anellophotonics.com</a></p>
     </div>
     </div>
