@@ -22,7 +22,7 @@
       {% endfor %}</p>
     </div>
    <div class="usa-width-one-third">
-      <h2 class="subhead">Program director</h2>
+      <h2 class="subhead">Program director{% if topic.programDirector.size > 1 %}s{% endif %}</h2>
       {% for programDirector in topic.programDirector %}
       {% if programDirector.photo %}
         <img src="{{ site.baseurl }}/assets/img/pd/{{ programDirector.photo }}" class="program-dir-img" alt="{{ programDirector.name | default: 'program director' }} headshot">
