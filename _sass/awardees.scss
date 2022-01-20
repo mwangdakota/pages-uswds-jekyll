@@ -154,7 +154,7 @@
     .table-row-item {
       justify-content: flex-start;
     }
-      
+
   }
 
   .usa-accordion-button {
@@ -217,4 +217,10 @@
     font-weight: 500;
     min-width: 18rem;
     padding: 1.5rem 2.5rem 1.5rem 2rem;
+}
+
+.award-details {
+  .usa-grid-full {
+    padding-bottom: 3rem;
+  }
 }
