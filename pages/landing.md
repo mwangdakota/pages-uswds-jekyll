@@ -65,6 +65,29 @@ View our portfolio
       </div>
 
       <div class="usa-grid">
+         <div class="usa-width-one-half">
+          <div class="stories__media">
+            <iframe sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Mango Materials" width="100%" height="300" src="https://www.youtube.com/embed/vi-TZY-uU_4" frameborder="0" allowfullscreen></iframe>
+          </div>
+          <h3 class="text-large">Biodegradable plastic made from waste methane</h3>
+          <p>PMango Material is developing a biodegradable plastic from waste methane gas. To learn more visit: <a href="https://www.mangomaterials.com" target="_blank" rel="noopener">https://www.mangomaterials.com/</a>.</p>
+          <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}/awardees/history/details/?company=mango-materials">
+              View Company Profile
+            </a></p>
+        </div>
+        <div class="usa-width-one-half">
+          <div class="stories__media">
+            <iframe sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Tambo" width="100%" height="300" src="https://www.youtube.com/embed/SlVRqx6w3rQ" frameborder="0" allowfullscreen></iframe>
+          </div>
+          <h3 class="text-large">New drug delivery technology for tumor treatment – Tambo</h3>
+          <p>Tambo developed a new technology to activate drugs at specific locations within the body to treat diseases with lower doses of drugs and fewer toxic side effects. Learn more about Tambo’s technology at <a href="https://www.shasqi.com/" target="_blank" rel="noopener">https://www.shasqi.com/</a>.</p>
+          <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}/awardees/phase-2/details/?company=shasqi-inc">
+              View Company Profile
+            </a></p>
+        </div>
+      </div>   
+  
+     <div class="usa-grid">
         <div class="usa-width-one-half">
           <div class="stories__media">
             <iframe sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Dimensional Energy" width="100%" height="300" src="https://www.youtube.com/embed/SlVRqx6w3rQ" frameborder="0" allowfullscreen></iframe>
