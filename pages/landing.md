@@ -70,7 +70,7 @@ View our portfolio
             <iframe sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Mango Materials" width="100%" height="300" src="https://www.youtube.com/embed/vi-TZY-uU_4" frameborder="0" allowfullscreen></iframe>
           </div>
           <h3 class="text-large">Biodegradable plastic made from waste methane</h3>
-          <p>PMango Material is developing a biodegradable plastic from waste methane gas. To learn more visit: <a href="https://www.mangomaterials.com" target="_blank" rel="noopener">https://www.mangomaterials.com/</a>.</p>
+          <p>Mango Material is developing a biodegradable plastic from waste methane gas. To learn more visit: <a href="https://www.mangomaterials.com" target="_blank" rel="noopener">https://www.mangomaterials.com/</a>.</p>
           <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}/awardees/history/details/?company=mango-materials">
               View Company Profile
             </a></p>
