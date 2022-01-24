@@ -77,7 +77,7 @@ View our portfolio
         </div>
         <div class="usa-width-one-half">
           <div class="stories__media">
-            <iframe sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Tambo" width="100%" height="300" src="https://www.youtube.com/embed/B0G8CkpX0L8" frameborder="0" allowfullscreen></iframe>
+            <iframe sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Tambo" width="100%" height="300" src="https://www.youtube.com/embed/4e1lHRw6rAI" frameborder="0" allowfullscreen></iframe>
           </div>
           <h3 class="text-large">New drug delivery technology for tumor treatment – Tambo</h3>
           <p>Tambo developed a new technology to activate drugs at specific locations within the body to treat diseases with lower doses of drugs and fewer toxic side effects. Learn more about Tambo’s technology at <a href="https://www.shasqi.com/" target="_blank" rel="noopener">https://www.shasqi.com/</a>.</p>
