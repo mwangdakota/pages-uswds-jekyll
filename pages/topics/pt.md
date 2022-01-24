@@ -18,13 +18,13 @@ The Pharmaceutical Technologies topic is not aimed at supporting or conducting c
 {% capture tt_features %}
 <div class="usa-section usa-content usa-grid">
   <div class="image-video">
+     <div class="usa-width-one-half">
+      <iframe sandbox="allow-same-origin allow-scripts" title="Spheryx" width="100%" height="250" src="https://www.youtube.com/embed/OyR_i_nPkhA" frameborder="0" allowfullscreen=""></iframe>
+    </div>
     <div class="usa-width-one-half">
       <h3>Detecting biological contaminants in water & pharmaceuticals</h3>
       <p>Spheryx, Inc. created a technology to monitor, count and characterize microscopic particles in a variety of fluids, such as water, chemicals, or even pharmaceuticals.</p>
       <p>To learn more visit: <a href="https://spheryx.solutions/">https://spheryx.solutions/</a></p>
-    </div>
-    <div class="usa-width-one-half">
-      <iframe sandbox="allow-same-origin allow-scripts" title="Spheryx" width="100%" height="250" src="https://www.youtube.com/embed/OyR_i_nPkhA" frameborder="0" allowfullscreen=""></iframe>
     </div>
   </div>
    <div class="image-video">
