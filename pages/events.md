@@ -12,7 +12,7 @@ layout: secondary
 
 ## Upcoming
 
-We regularly host a virtual Question and Answer session for startups and small businesses to learn about our program and the Project Pitch process. Can’t make it? Watch an [Introduction to America's Seed Fund recording](https://www.youtube.com/watch?v=ckitTDdcWbU) or a [How to Apply recording](https://www.youtube.com/watch?v=ckitTDdcWbU). For reasonable accommodations, please email [iip@nsf.gov](mailto:iip@nsf.gov) 14 days prior to the event.
+We regularly host a virtual Question and Answer session for startups and small businesses to learn about our program and the Project Pitch process. Can’t make it? Watch an [Introduction to America's Seed Fund recording](https://www.youtube.com/watch?v=GQ-ZJMb3qfU) or a [How to Apply recording](https://www.youtube.com/watch?v=X7jirpYWFZY). For reasonable accommodations, please email [iip@nsf.gov](mailto:iip@nsf.gov) 14 days prior to the event.
 
 <!-- {% include events-table.html %} -->
 
