@@ -20,11 +20,11 @@ layout: secondary
     <h2>We fund almost all areas of technology</h2>
     <p class="text-medium">Between fiscal years 2016 and 2020, America’s Seed Fund powered by NSF made 2,200+ awards to startups and small businesses. Each year, we fund roughly 400 companies across nearly all technology areas and market sectors (with the exception of clinical trials and schedule I controlled substances). Select a topic area below to read more about the topic, see featured <b>Phase I and Phase II success stories</b>, and <b>find program director information</b>.</p>
 
-    <p>Browse lists of our current Phase I and Phase II awardees, who are still completing the research outlined in their proposals, view a list of awards to combat COVID-19, and see all of the awards we've made over the last 10 years.</p>
+    <p>Browse lists of our active Phase I and Phase II awardees, who are still completing the research outlined in their proposals, view a list of awards to combat COVID-19, and see all of the awards we've made over the last 10 years.</p>
 
     <p>
-      <a href="{{ site.baseurl }}/awardees/phase-1/" class="usa-button usa-button-primary">CURRENT PHASE I AWARDEES</a>
-      <a href="{{ site.baseurl }}/awardees/phase-2/" class="usa-button usa-button-primary">CURRENT PHASE II AWARDEES</a>
+      <a href="{{ site.baseurl }}/awardees/phase-1/" class="usa-button usa-button-primary">ACTIVE PHASE I AWARDEES</a>
+      <a href="{{ site.baseurl }}/awardees/phase-2/" class="usa-button usa-button-primary">ACTIVE PHASE II AWARDEES</a>
       <a href="{{ site.baseurl }}/covid-awards-phase-1/" class="usa-button usa-button-primary">COVID-19 RELATED AWARDS</a>
       <a href="{{ site.baseurl }}/awardees/history/" class="usa-button usa-button-secondary">VIEW ALL AWARDEES</a>
     </p>
