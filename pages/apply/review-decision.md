@@ -24,7 +24,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
     <br>In some cases, a follow-on due diligence process will be conducted, in which the Principal Investigator will be asked by the Program Director to provide additional information or to answer questions.
   </p>
     <p><b>5-7 months after the window closes</b>
-    <br>We'll notify you whether your proposal is accepted or declined.  Official communications about the status of your proposal will be via email to the address listed for the project’s Principal Investigator (PI).  If your proposal is awarded, you'll receive funding of up to $256,000.  Access to most of the award funds will happen at the time of the award notification.
+    <br>We'll notify you whether your proposal is accepted or declined.  Official communications about the status of your proposal will be via email to the address listed for the project’s Principal Investigator (PI).  If your proposal is awarded, you'll receive funding of up to $275,000.  Access to most of the award funds will happen at the time of the award notification.
   </p>
  </section>
 <section class="usa-section full-bleed-bg--lightblue">

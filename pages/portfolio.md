@@ -36,7 +36,7 @@ layout: secondary
       </a>
     {% endfor %}</div>
 
-    <p>Download a <a href="{{ site.baseurl }}/assets/files/applicants/combined-topics-01-2020.pdf">searchable PDF</a> of the full list of technology topic areas that also includes descriptions of the subtopics.</p>
+    <p>Download a <a href="{{ site.baseurl }}/assets/files/applicants/combined-topics.pdf">searchable PDF</a> of the full list of technology topic areas that also includes descriptions of the subtopics.</p>
   </div>
 </section>
 
@@ -62,7 +62,7 @@ layout: secondary
         <p>
           <span class="three-column-grid__company"><a href="https://azitrainc.com/" target="_blank">Azitra</a>.</span>
           <br><a href="#" class="three-column-grid__cta"></a>
-          
+
         </p>
       </div>
       <div class="usa-width-one-third">
@@ -78,14 +78,15 @@ layout: secondary
 </section>
 
 <section class="full-bleed-bg--blue">
-  <div class="usa-section usa-content usa-grid">
+  <div class="usa-section usa-content usa-grid" style="padding-bottom:3rem">
     <h3>More</h3>
     {% include featured-companies.html %}
   </div>
-</section>
-<section class="full-bleed-bg">
-   <div class="text-medium" style="font-style:italic;text-align:center">
-      (*These figures were pulled from Pitchbook from 10/01/2015 to 09/30/2021 <br> and include companies that received NSF funding prior to 2016.)
+  <div class="text-medium" style="font-style:italic;padding-bottom:6rem">
+    <p style="margin:0 auto">
+      (*These figures were pulled from Pitchbook from 10/01/2015 to 09/30/2021<br>
+      and include companies that received NSF funding prior to 2016.)
+    </p>
   </div>
 </section>
 

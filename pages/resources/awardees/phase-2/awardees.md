@@ -10,8 +10,7 @@ sidenav: phase-2
 
 Here are all the forms you need to manage your Phase II award.
 
-- [{{ site.data.solicitations['PHASE_II'].title }}]({{ site.data.solicitations['PHASE_II'].url }}) 
-- [{{ site.data.solicitations['STTR_PHASE_II'].title }}]({{ site.data.solicitations['STTR_PHASE_II'].url }})
+- [SBIR/STTR Phase II solicitation]({{ site.data.solicitations['PHASE_II'].url }}) 
 - [Phase II reporting requirements]({{ site.baseurl }}/resources/awardees/phase-2/reporting/)
 - [Common forms and checklists]({{ site.baseurl }}/resources/awardees/phase-2/forms/)
 - [Revising a budget]({{ site.baseurl }}/resources/awardees/phase-2/revised-budget/)
