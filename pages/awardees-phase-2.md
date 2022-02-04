@@ -1,7 +1,7 @@
 ---
 title: Awardees phase 2
 permalink: /awardees/phase-2/
-nav_title: Phase II current awardees
+nav_title: Phase II active awardees
 phase: Phase II
 layout: awardees
 dataset: awards_phase_2
