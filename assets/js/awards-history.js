@@ -154,17 +154,17 @@ $(document).ready(function () {
 
   let getAwardsHistory = async function() {
     awards_history = (await sfService.getAwardsHistory()).map(function (award) {
-      update_company_names(award.InstitutionIdentifer, award.InstitutionName);
+      update_company_names(award.InstitutionIdentifier, award.InstitutionName);
 
       return {
-        company_id: award.InstitutionIdentifer,
+        company_id: award.InstitutionIdentifier,
         company: award.InstitutionName,
         city_state: award.CityName + ', ' + award.StateCode,
         title: award.Title,
-        amount: award.AwardAmount,
+        amount: award.AwardAmount.replaceAll(',', ''),
         award_date: award.AwardDate,
         abstract: award.Abstract,
-        id: award.AwardID,
+        id: award.AwardNumber,
         url: award.CompanyUrl,
         phase: award.ProgramElementName,
         pi_name: award.PIFirstName + ' ' + award.PILastName,

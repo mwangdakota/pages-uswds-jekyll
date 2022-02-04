@@ -7,21 +7,21 @@ class: awardees-layout
 <section class="usa-section background-light-neutral">
   <div class="usa-grid awardees-top-header">
     <div class="usa-width-one-whole">
-      <h1 class="page-title text-xl">Current awardees:</h1>
+      <h1 class="page-title text-xl">Active awardees:</h1>
       <div class="usa-accordion accordion-dropdown ">
             <button class="usa-accordion-button text-xl" aria-expanded="false" aria-controls="awardees-nav">
           {{ page.nav_title | liquify }}
           </button>
             <div id="awardees-nav" class="usa-accordion-content">
               <ul class="usa-unstyled-list">
-                <li><a href="{{ site.baseurl }}/awardees/phase-1/">Phase I current awardees</a></li>
-                <li><a href="{{ site.baseurl }}/awardees/phase-2/">Phase II current awardees</a></li>
+                <li><a href="{{ site.baseurl }}/awardees/phase-1/">Phase I active awardees</a></li>
+                <li><a href="{{ site.baseurl }}/awardees/phase-2/">Phase II active awardees</a></li>
               </ul>
             </div>
       </div>
       <div class="usa-content">
         <p>
-          Current awardees are those who are still conducting research outlined in their proposals and who haven’t yet reached the estimated end dates.
+          Active awardees are those who are still conducting research outlined in their proposals and who haven’t yet reached the estimated end dates.
         </p>
       </div>
 
@@ -76,7 +76,7 @@ class: awardees-layout
 <section class="usa-section background-white">
     <div class="usa-grid">
 
-  <h2 class="text-medium">Current {{ page.phase }} awardees</h2>
+  <h2 class="text-medium">Active {{ page.phase }} awardees</h2>
     <p class="subhead inline-block accordion-number-of-awardees-header">Awardees</p>
     <p class="subhead inline-block accordion-tech-topic-header">Technology topic areas</p>
 </div>
