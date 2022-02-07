@@ -15,7 +15,7 @@ module SiteData
 
       # Keys whose values will be used to build autocomplete index
       props = %w(
-        AwardID
+        AwardNumber
         Title
         Abstract
         AwardDate

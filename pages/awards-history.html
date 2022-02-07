@@ -6,12 +6,13 @@ css: /assets/css/datatables.min.css
 permalink: /awardees/history/
 ---
 {% assign current_year = site.time | date: "%Y" %}
+{% assign since_year = site.data.awards_history_years | last %}
 
 <div class="usa-section usa-content usa-grid">
   <h1>Award History</h1>
   <em class="awards-history-latest-award"></em>
   <p>
-    This page contains startup and small business award information since 2011. For awards prior to 2011, please use the
+    This page contains startup and small business award information since {{ since_year }}. For awards prior to {{ since_year }}, please use the
     <a target="_blank" class="external-link" href="https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=5371%2C+5373%2C+1505%2C+1591&BooleanElement=Any&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&ExpiredAwards=true&OriginalAwardDateOperator=After&OriginalAwardDateFrom=05%2F01%2F1977&StartDateOperator=&ExpDateOperator=">NSF award search</a>.
   </p>
 
