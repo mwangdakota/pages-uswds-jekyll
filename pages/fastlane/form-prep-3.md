@@ -47,7 +47,7 @@ Click **"Go"** beside the appropriate person's name to upload their biographical
 ![List of personnel assigned to proposal]({{ site.baseurl }}/assets/img/fastlane/35-bio-sketch.jpg)
 
 * **All SBIR/STTR proposals submitted to NSF are required to include Biographical Sketches for each PI, co-PI (if STTR), and Senior Personnel (individuals with critical expertise who will be working on the project and are employed at the proposing company or at a subaward organization) using the format provided.**
-* Download the NSF-approved fillable [Biographical Sketch doc]({{ site.baseurl }}/assets/files/applicants/biosketch.docx) for each individual designated as Principal Investigator (PI), co-PI or Senior Personnel.
+* Download the NSF-approved fillable Biographical Sketch doc for each individual designated as Principal Investigator (PI), co-PI or Senior Personnel.
 * Biographical sketches are limited to three pages per person.
 * If you do not use the NSF-approved format for Biographical Sketches your proposal will be Returned Without Review.
 
@@ -62,7 +62,7 @@ Information in this module is collected so that reviewers have visibility into t
 Click the radio button beside the appropriate person's name and then click **"New Form"** to upload their Current & Pending Support.
 ![Current and Pending Support table for existing forms and option to add new ones]({{ site.baseurl }}/assets/img/fastlane/37-current-and-pending-support.jpg)
 
-* Download the NSF-approved fillable [Current and Pending Support]({{ site.baseurl }}/assets/files/applicants/SBIR_STTR_Current_Pending_Support.pdf) for each individual designated as PI, co-PI or Senior Personnel.
+* Download the NSF-approved fillable Current and Pending Support for each individual designated as PI, co-PI or Senior Personnel.
 * Complete the “PI/co-PI/Senior Personnel Name” field at the top of each form.
 * **Proposals that do not include the NSF-approved PDF format (completed or not) will be prevented from submission.**
 * Export a PDF of the Current and Pending Support format for each PI/co-PI and upload the files into FastLane. Proposals without the NSF-approved PDF format will not be able to be submitted in FastLane.
