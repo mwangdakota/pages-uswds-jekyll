@@ -17,7 +17,7 @@ Before you can begin entering your full proposal in FastLane, your company must 
 
   Make sure the organization address registered in SAM matches the address listed in your DUNS Number/D&B record. Entering one address for your DUNS Number/D&B record and a different address for your SAM registration can result in significant SAM registration activation delays.
   
-  *Please Note: Effective February 28, 2022, NSF will transition from DUNS numbers to the new System for Award Management (SAM) Unique Entity Identifier (UEI) in its systems. See the [NSF Advisory Page](https://www.research.gov/research-web/content/UEIPreRelease0124) for more details. However, a DUNS number is still required to register in SAM.gov and to receive a SAM.gov-issued UEI until April 4, 2022.*
+ <span style="color:red;"> <em>Please Note: Effective February 28, 2022, NSF will transition from DUNS numbers to the new System for Award Management (SAM) Unique Entity Identifier (UEI) in its systems. See the [NSF Advisory Page](https://www.research.gov/research-web/content/UEIPreRelease0124) for more details. However, a DUNS number is still required to register in SAM.gov and to receive a SAM.gov-issued UEI until April 4, 2022.</em></span>
 
 * [System for Award Management (SAM)](https://www.sam.gov/SAM/)
 
@@ -53,7 +53,7 @@ Before you can begin entering your full proposal in FastLane, your company must 
 
 Organizations must be registered with the National Science Foundation (NSF) to submit proposals using NSF’s systems. Before a new organization can register with NSF, it must first be registered in the System for Award Management <span markdown="0">(SAM - <a href="https://www.sam.gov"> https://www.sam.gov </a>)</span> and have a DUNS number. Note that completion of the SAM registration process may take up to one month.
 
-*Please Note: Effective February 28, 2022, NSF will transition from DUNS numbers to the new System for Award Management (SAM) Unique Entity Identifier (UEI) in its systems. See the [NSF Advisory Page](https://www.research.gov/research-web/content/UEIPreRelease0124) for more details. However, a DUNS number is still required to register in SAM.gov and to receive a SAM.gov-issued UEI until April 4, 2022.*
+ <span style="color:red;"> <em>Please Note: Effective February 28, 2022, NSF will transition from DUNS numbers to the new System for Award Management (SAM) Unique Entity Identifier (UEI) in its systems. See the [NSF Advisory Page](https://www.research.gov/research-web/content/UEIPreRelease0124) for more details. However, a DUNS number is still required to register in SAM.gov and to receive a SAM.gov-issued UEI until April 4, 2022.</em></span>
 
 Follow the step-by-step process below to register a new organization in Research.gov.
 
