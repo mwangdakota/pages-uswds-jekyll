@@ -42,7 +42,7 @@ Please note that the SRO (and no one else) must submit the revised budget.
 ## How to add a subaward budget to the revised budget
 
 1. Return to the `Project Budget` screen and click `Add Another Organization`.
-2. In the blank field, type the first few characters of the subaward organization's name. Set the radio button to `Contains` and select `Search by Name`. If you know the new organization's DUNS number, you may also search by DUNS.
+2. In the blank field, type the first few characters of the subaward organization's name. Set the radio button to `Contains` and select `Search by Name`. 
 3. The next screen will display your search results. Select the organization's name and click `Select`.
 4. On the next screen, select your subawardee PI by highlighting their name and clicking `Select Subcontract PI`. If the name of the person you'd like to designate as the subaward PI isn't in your list, follow the directions under `How to add an individual as a Senior Personnel` (which appears later on this page).
 5. Click `OK`.
