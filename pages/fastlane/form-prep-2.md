@@ -135,8 +135,8 @@ If you prefer, follow the instructions on the below screen and click **"Upload F
 **12b. Subawardee Budget** section: Click **"Add Another Organization"** if a subawardee budget is required.
 ![Project budget information table with link to add another organization highlighted in lower left corner]({{ site.baseurl }}/assets/img/fastlane/24-AddAnotherOrg.jpg)
 
-To add the organization to the budget, complete a search by the organization's name or DUNS number.
-![Current Budget Organizations screen with input fields for name or DUNS search]({{ site.baseurl }}/assets/img/fastlane/25-DUNS.jpg)
+To add the organization to the budget, complete a search by the organization's name.
+![Current Budget Organizations screen with input fields for name]({{ site.baseurl }}/assets/img/fastlane/25-DUNS.jpg)
 
 Highlight the appropriate organization from the results that appear in the box; then click **"Select".**
 ![Selection box with search results and option to select or cancel]({{ site.baseurl }}/assets/img/fastlane/26-SelectName.jpg)
