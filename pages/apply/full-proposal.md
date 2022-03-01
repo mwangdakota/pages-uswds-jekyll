@@ -52,6 +52,8 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
             <p>A DUNS number is a unique, nine-digit number that identifies each physical location of your company.
               You’ll need one in order to receive government funding. Because you’re applying for a DUNS number for
               government funding, processing time should take about five business days.</p>
+            <p><span style="color:red;"><em>Please Note: Effective February 28, 2022, NSF will transition from DUNS numbers to the new System for Award Management (SAM) Unique Entity Identifier (UEI) in its systems. See the <a href="https://www.research.gov/research-web/content/UEIPreRelease0124">NSF Advisory Page</a> for more details. However, a DUNS number is still required to register in SAM.gov and to receive a SAM.gov-issued UEI until April 4, 2022.</em></span></p>
+            
             <h3 id="system-for-award-management-sam"><a href="https://www.sam.gov/SAM/" target="_blank">System for
                 Award Management (SAM)</a></h3>
             <p><strong>Processing time:</strong> Up to three weeks</p>
@@ -60,9 +62,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
                 href="https://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&amp;_pageLabel=research_home_page"
                 target="_blank">Research.gov (Online Grant Management for the NSF Community)</a></h3>
             <p><strong>Processing time:</strong> Up to 48 hours</p>
-            <p style="background-color:#fff039;"><strong>
-            Some organizations that registered in sam.gov after 10/21/21 cannot currently register in Research.gov. NSF is working on a fix. 
-              Contact NSF <a href="mailto:rgov@nsf.gov">rgov@nsf.gov</a> with your DUNS ID for help.</strong></p>
+           
             <p>Before applying, you need to register your company with NSF in Research.gov. Only after registering
               with Research.gov can you login to <a href="https://www.fastlane.nsf.gov/" target="_blank">FastLane</a>
               and begin preparing your proposal. (SBIR and STTR proposals are not accepted in Research.gov). We

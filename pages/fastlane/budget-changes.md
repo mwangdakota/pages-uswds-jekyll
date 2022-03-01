@@ -57,7 +57,7 @@ Please note that the SRO (and no one else) must submit the revised budget.
 
 1. Return to the `Project Budget` screen and click `Add Another Organization`.
 
-2. In the blank field, type the first few characters of the subaward organization's name. Set the radio button to `Contains` and select `Search by Name`. If you know the new organization's DUNS number, you may also search by DUNS.
+2. In the blank field, type the first few characters of the subaward organization's name. Set the radio button to `Contains` and select `Search by Name`.
 
 3. The next screen will display your search results. Select the organization's name and click `Select`.
 
