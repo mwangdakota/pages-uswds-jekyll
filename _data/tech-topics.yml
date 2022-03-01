@@ -607,11 +607,9 @@
   subtopics:
     - Drug Delivery Methods (PT1)
     - Drug Discovery (PT2)
-    - Health in Underserved Communities (PT3)
-    - Pharmaceutical and Biologic Manufacturing (PT4)
-    - Therapeutic Molecules (PT5)
-    - Women’s Health (PT6)
-    - Other Pharmaceutical Technologies (PT7)
+    - Pharmaceutical and Biologic Manufacturing (PT3)
+    - Therapeutic Molecules (PT4)
+    - Other Pharmaceutical Technologies (PT5)
   companies:
     - name: SQZ Biotechnologies Company
     - name: ConsortiEX, Inc
