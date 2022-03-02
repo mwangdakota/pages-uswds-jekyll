@@ -51,7 +51,7 @@ Once you've received an invitation to submit a proposal (via the Project Pitch p
 </div>
 ## FAQ
 
-Have lingering questions? Visit our [FAQ](https://www.nsf.gov/pubs/2021/nsf21060/nsf21060.jsp), which covers the pre-application process to post-award reporting (and everything in between).
+Have lingering questions? Visit our [FAQ](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22053), which covers the pre-application process to post-award reporting (and everything in between).
 
 ## FastLane guide
 
