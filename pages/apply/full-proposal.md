@@ -91,7 +91,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <section class="usa-section full-bleed-bg--lightblue">
   <h2>Submission resources</h2>
    <p><b>Frequently asked questions</b>
-    <br>Have lingering questions? <a href="https://www.nsf.gov/pubs/2021/nsf21060/nsf21060.jsp">Visit our FAQ</a>, which cover the pre-application process to post-award reporting (and
+    <br>Have lingering questions? <a href="https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22053">Visit our FAQ</a>, which cover the pre-application process to post-award reporting (and
     everything in between).
   </p>
   <p><b>FastLane guide</b>
