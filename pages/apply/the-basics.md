@@ -97,7 +97,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
   </p>
 
   <p><b>FAQ</b>
-    <br>Have lingering questions? <a href="hhttps://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22053">Visit our FAQ</a>, which cover the pre-application process to post-award reporting (and everything in between).</p>
+    <br>Have lingering questions? <a href="https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22053">Visit our FAQ</a>, which cover the pre-application process to post-award reporting (and everything in between).</p>
    <p><b>Showcase videos</b>
     <p>Get to know our awardees better — we’ve got <a href="{{ site.baseurl }}/showcase/">video profiles of startups and small businesses that have received NSF funding</a>.</p>
   <div class="step-banner">
