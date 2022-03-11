@@ -27,7 +27,7 @@ We regularly host a virtual Question and Answer session for startups and small b
 
 ## Annual events
 
-You can often find NSF staff at major tradeshows and events throughout the year. Here's a calendar of some of the events we plan on attending in 2021:
+You can often find NSF staff at major tradeshows and events throughout the year. See some of the events that we participated in over the course of 2021. Check back to see our plan for 2022.
 
 {% include events-annual.html %}
 
