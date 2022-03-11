@@ -18,7 +18,7 @@ The NSF Conflict-of-Interest and Confidentiality Statement for NSF Panelists mus
 Panel Day Instructions
 Please join the panel at least 15 minutes prior to the scheduled start time to ensure that you have time to connect to the Zoom meeting and trouble-shoot any IT issues. If you encounter any IT issues, immediately contact the NSF staff that sent you the Zoom invitation.
 
-## Keys to Successful Participation in a Virtual Panel for IIP at NSF:
+## Keys to Successful Participation in a Virtual Panel for TIP at NSF:
 
 1. Submit signed COI form prior to the day of the panel.
 2. PC with Microsoft Internet Explorer (IE) browser. *Macs are also acceptable
