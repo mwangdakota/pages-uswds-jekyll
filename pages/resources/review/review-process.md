@@ -20,7 +20,7 @@ All NSF proposals are evaluated through use of the two National Science Board (N
 
 - **[Travel Instructions for Panelists]({{ site.baseurl}}/resources/review/travel/)**: Details on compensation rates, federal employees/non-US citizens/non-permanent residents, travel/hotel reservations and payment information.
 
-- **[Virtual Panels]({{ site.baseurl }}/resources/review/virtual-panelist/)**: Guides and guidelines for the virtual panel review process in the Division of Industrial Innovation and Partnerships.
+- **[Virtual Panels]({{ site.baseurl }}/resources/review/virtual-panelist/)**: Guides and guidelines for the virtual panel review process in the Directorate for Technology, Innovation and Partnerships.
 
 - **Panelist Conflict of Interest (COI)**
 Your designation as a NSF panelist requires that you be aware of and sensitive to potential conflicts that may arise during your service.  You are also required to maintain the confidentiality of all proposals and applicants. Please review, sign and return the [Conflict-of-Interests and Confidentiality Statement]({{ site.baseurl }}/assets/files/awardees/coiform.pdf) for NSF Panelists form to the NSF staff person that invited you to serve on the panel.  Put the ‘panel ID’ number in the panel name field.
