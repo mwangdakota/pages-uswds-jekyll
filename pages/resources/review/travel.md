@@ -88,7 +88,7 @@ All participants (except Federal government employees and non-US Citizens/Perman
 Foreign travelers receive reimbursement via a paper check mailed by the U.S. Treasury. Currently, the Federal government cannot process international electronic transactions. The NSF Faststart Direct Deposit Form is used to record the address that checks should be mailed. The first section should be completed and please include your email address. A form can be obtained from your program office and sent by email.
 
 ## Travel Questions
-For specific travel questions involving participation in a Review Panel for the Directorate for Technology, Innovation and Partnerships, Please contact:
+For specific travel questions involving participation in a Review Panel for the Directorate for Technology, Innovation and Partnerships, please contact:
 
 *Stacey Stoby*:
 703-292-8825;
