@@ -61,7 +61,7 @@ AdTrav can make other (unrelated to NSF meeting) ticketing arrangements, but you
 
 There are 3 methods for making travel reservations:
 
-**Option 1: Make your reservations via FastLane at www.fastlane.nsf.gov** and click on "Panelist Functions." AdTrav can make other (unrelated to NSF meeting) ticketing arrangements, but you must pay the difference between the government fare and the fare quoted by AdTrav using your personal credit card. We recommend you call AdTrav directly to make alternate arrangements.  **Please note, all IIP panel meetings are expected to end by 5:00 p.m. on the final panel day, departure flights should be reserved for 6:00 p.m. or later.**
+**Option 1: Make your reservations via FastLane at www.fastlane.nsf.gov** and click on "Panelist Functions." AdTrav can make other (unrelated to NSF meeting) ticketing arrangements, but you must pay the difference between the government fare and the fare quoted by AdTrav using your personal credit card. We recommend you call AdTrav directly to make alternate arrangements.  **Please note, all panel meetings are expected to end by 5:00 p.m. on the final panel day, departure flights should be reserved for 6:00 p.m. or later.**
 
 **Option 2: Email your travel request to AdTrav at nsfpanel.travel@adtrav.com.** Please include the following information in your travel request: name, email address, home address, home and work phone numbers, meeting ID, your departure/return location (train station or airport), and the dates and times of preferred travel.
 
