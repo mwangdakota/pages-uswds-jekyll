@@ -1,9 +1,9 @@
 ---
-funding_total: 721466969.0
-funding_per_company: 617165.93
-companies_total: 1169
-applications_total: 1613
-states_count: 52
+funding_total: 440817294
+funding_per_company: 630639.91
+companies_total: 699
+applications_total: 701
+states_count: 49
 states:
 - AK
 - AL
@@ -18,7 +18,6 @@ states:
 - GA
 - HI
 - IA
-- ID
 - IL
 - IN
 - KS
@@ -33,7 +32,6 @@ states:
 - MS
 - MT
 - NC
-- ND
 - NE
 - NH
 - NJ
@@ -52,34 +50,31 @@ states:
 - TX
 - UT
 - VA
-- VT
 - WA
 - WI
 - WV
 - WY
 awards_phase_1_recent:
-  applications_count: 523
-  funding: 126086086.0
-  companies: 521
-  companies_unique_percent: 100.0
-  funding_per_company: 242007.84
-  funding_per_application: 241082.38
-  states_count: 45
+  applications_count: 357
+  funding: 90402255
+  companies: 357
+  companies_unique_percent: 100
+  funding_per_company: 253227.61
+  funding_per_application: 253227.61
+  states_count: 43
 awards_phase_2:
-  applications_count: 422
-  funding: 411115208.0
-  companies: 421
-  companies_unique_percent: 100.0
-  funding_per_company: 976520.68
-  funding_per_application: 974206.65
+  applications_count: 344
+  funding: 350415039
+  companies: 344
+  companies_unique_percent: 100
+  funding_per_company: 1018648.37
+  funding_per_application: 1018648.37
   states_count: 43
 awards_phase_1:
-  applications_count: 523
-  funding: 126086086.0
-  companies: 521
-  companies_unique_percent: 100.0
-  funding_per_company: 242007.84
-  funding_per_application: 241082.38
-  states_count: 45
----
-
+  applications_count: 357
+  funding: 90402255
+  companies: 357
+  companies_unique_percent: 100
+  funding_per_company: 253227.61
+  funding_per_application: 253227.61
+  states_count: 43
