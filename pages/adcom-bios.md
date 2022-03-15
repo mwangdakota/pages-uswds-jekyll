@@ -6,7 +6,7 @@ layout: secondary-narrow
 
 # Bios
 
-## Members of the SBIR/STTR Subcommittee of the Directorate for Technology, Innovation and Partnerships Advisory Committee
+## Members of the SBIR/STTR Subcommittee
 
 <section class="bios-content">
    <ul class="pd-list">
