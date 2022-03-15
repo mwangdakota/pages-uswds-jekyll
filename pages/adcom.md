@@ -7,7 +7,7 @@ layout: secondary
 <div class="usa-content utility-content usa-grid">
 <div class="usa-width-one-whole">
 
-<h1>Members of the SBIR/STTR Stakeholder Subcommittee of the Directorate for Technology, Innovation and Partnerships Advisory Committee</h1>
+<h1>Members of the SBIR/STTR Stakeholder Subcommittee</h1>
 
 <p class="text-medium" markdown="1">
 The SBIR/STTR Stakeholder Subcommittee is a team of nationally recognized leaders from academia, industry, the investment community, and public organizations. Members guide NSF’s SBIR/STTR program on emerging industries and the evolution of the deep-technology startup community, participating in strategic initiatives to support the NSF’s mission of accelerating the growth of the nation’s innovation ecosystem.
