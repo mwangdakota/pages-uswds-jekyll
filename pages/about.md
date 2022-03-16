@@ -18,7 +18,7 @@ section_image_caption: |
 
 # About America's Seed Fund powered by NSF
 
-We focus on transforming scientific and engineering discoveries into products and services with commercial and societal impact. The deep technologies we fund show promise but their success hasn’t yet been validated. And, each year, we award $200+ million in research and development (R&D) funding to about 400 startups across the United States. America’s Seed Fund is a program within the <a href="https://www.nsf.gov/" target="_blank">National Science Foundation</a> and housed within the <a href="https://www.nsf.gov/div/index.jsp?div=IIP" target="_blank">Division of Industrial Innovation and Partnerships</a> within the Directorate for Engineering. 
+We focus on transforming scientific and engineering discoveries into products and services with commercial and societal impact. The deep technologies we fund show promise but their success hasn’t yet been validated. And, each year, we award $200+ million in research and development (R&D) funding to about 400 startups across the United States. America’s Seed Fund is a program within the <a href="https://www.nsf.gov/" target="_blank">National Science Foundation</a> and housed within the <a href="https://beta.nsf.gov/tip/about-tip" target="_blank">Directorate for Technology, Innovation and Partnerships</a>. 
 
 </div>
 </div>

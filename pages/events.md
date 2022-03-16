@@ -12,7 +12,7 @@ layout: secondary
 
 ## Upcoming
 
-We regularly host a virtual Question and Answer session for startups and small businesses to learn about our program and the Project Pitch process. Can’t make it? Watch an [Introduction to America's Seed Fund recording](https://www.youtube.com/watch?v=GQ-ZJMb3qfU) or a [How to Apply recording](https://www.youtube.com/watch?v=X7jirpYWFZY). For reasonable accommodations, please email [iip@nsf.gov](mailto:iip@nsf.gov) 14 days prior to the event.
+We regularly host a virtual Question and Answer session for startups and small businesses to learn about our program and the Project Pitch process. Can’t make it? Watch an [Introduction to America's Seed Fund recording](https://www.youtube.com/watch?v=GQ-ZJMb3qfU) or a [How to Apply recording](https://www.youtube.com/watch?v=X7jirpYWFZY). 
 
 <!-- {% include events-table.html %} -->
 
@@ -27,7 +27,7 @@ We regularly host a virtual Question and Answer session for startups and small b
 
 ## Annual events
 
-You can often find NSF staff at major tradeshows and events throughout the year. Here's a calendar of some of the events we plan on attending in 2021:
+You can often find NSF staff at major tradeshows and events throughout the year. See some of the events that we participated in over the course of 2021. Check back to see our plan for 2022.
 
 {% include events-annual.html %}
 

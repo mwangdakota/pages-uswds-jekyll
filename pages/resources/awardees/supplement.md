@@ -75,7 +75,7 @@ Phase IIB proposals MUST be submitted using FastLane. The Phase IIB proposal sha
 
 - Executed third party documentation for the investment match for Phase IIB SBIR funding
 - An updated [milestone chart]({{site.baseurl}}/assets/files/awardees/Blank_Milestone_Chart.xlsx) reflecting the additional year of effort.
-- A new [Certificate of Current Cost Pricing Data]()
+- A new [Certificate of Current Cost Pricing Data]({{site.baseurl}}/assets/files/awardees/Certificate_of_Current_Cost.docx)
 - A new budget for the portion of the funds requested from NSF for the Phase IIB project and budget line item justification
 
 ### The following are the steps for preparing the proposal using the FastLane system.
@@ -101,10 +101,10 @@ Phase IIB proposals MUST be submitted using FastLane. The Phase IIB proposal sha
 
 ### Supplementary docs
 
-Upload the following documents (combine the two word documents and upload as one file). The Word templates for the Milestone Chart and the Certificate of Current Cost Pricing Data can be found at: http://www.nsf.gov/eng/sbir/forms.jsp
+Upload the following documents (combine the two word documents and upload as one file).
 
-- New Milestone Chart
-- Certificate of Current Cost Pricing Data
+- [New Milestone Chart](({{site.baseurl}}/assets/files/awardees/Blank_Milestone_Chart.xlsx))
+- [Certificate of Current Cost Pricing Data]({{site.baseurl}}/assets/files/awardees/Certificate_of_Current_Cost.docx)
 
 ### Revised xxpiration date:
 

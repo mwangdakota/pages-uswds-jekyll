@@ -9,8 +9,6 @@ sidenav: phase-1
 
 Interested in applying for Phase II funding? Review this information before starting your application.
 
-The Phase II submission window will be open another 30+ days through January 6, 2022. Read the solicitations for more information.
-
 <a class="usa-button usa-button-primary button-arrow" href="{{ site.data.solicitations['PHASE_II'].url }}">
   Read the SBIR/STTR Phase II Solicitation</a>
 
@@ -52,6 +50,7 @@ You must submit a technical narrative as a component of your Phase II proposal.
 - Revisit the [Merit Review Criteria]({{ site.baseurl}}/resources/review/).
 - View the [Proposal Preparation and Submission Instructions in the Phase II Solicitation]({{ site.data.solicitations['PHASE_II'].url }}).
 - Reference the Phase II Solicitation [guidance on determining salaries]({{ site.data.solicitations['PHASE_II'].url }}) for Phase II personnel.
+- You will need to upload a filled version of the “Project Schedule” as part of your Phase II proposal.  The template to use is found here: [Phase II SBIR-STTR Project Schedule]({{ site.baseurl }}/assets/files/awardees/Phase.II.SBIR-STTR.Project.Schedule.xlsx).
 
 ## Terms and conditions and reporting requirements
 
