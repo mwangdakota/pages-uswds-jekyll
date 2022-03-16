@@ -7,11 +7,11 @@ sidenav: review
 
 # Travel
 
-**Please note:** Policies on this page reflect those of the Division of Industrial Innovation and Partnerships, NOT the entire National Science Foundation.
+**Please note:** Policies on this page reflect those of the Directorate for Technology, Innovation and Partnerships, NOT the entire National Science Foundation.
 
-If you are selected and confirmed to serve on a panel for the Division of Industrial Innovation and Partnerships (ENG/IIP), you will be authorized to travel on behalf of NSF, a Federal Government agency. Please be aware NSF is operating in line with Executive Order 13589 and [OMB Memorandum 12-12](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2012/m-12-12.pdf), which require all Federal agencies to reduce costs for travel and conferences.
+If you are selected and confirmed to serve on a panel for the Directorate for Technology, Innovation and Partnerships (TIP), you will be authorized to travel on behalf of NSF, a Federal Government agency. Please be aware NSF is operating in line with Executive Order 13589 and [OMB Memorandum 12-12](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2012/m-12-12.pdf), which require all Federal agencies to reduce costs for travel and conferences.
 
-The Directorate for Engineering REQUIRES all panelists to use the [Panelist Function]({{ site.baseurl }}/resources/review/panelist-system/) component of NSF's FastLane system. We request that you submit your travel information and your banking information via FastLane.
+The Directorate for Technology, Innovation and Partnerships REQUIRES all panelists to use the [Panelist Function]({{ site.baseurl }}/resources/review/panelist-system/) component of NSF's FastLane system. We request that you submit your travel information and your banking information via FastLane.
 
 You will receive an email notification with travel guidelines and instructions. This notification is to be used as a substitute for traditional government travel orders. Please take a copy of the email to the airport and to your hotel to ensure that you receive government rates.
 
@@ -61,7 +61,7 @@ AdTrav can make other (unrelated to NSF meeting) ticketing arrangements, but you
 
 There are 3 methods for making travel reservations:
 
-**Option 1: Make your reservations via FastLane at www.fastlane.nsf.gov** and click on "Panelist Functions." AdTrav can make other (unrelated to NSF meeting) ticketing arrangements, but you must pay the difference between the government fare and the fare quoted by AdTrav using your personal credit card. We recommend you call AdTrav directly to make alternate arrangements.  **Please note, all IIP panel meetings are expected to end by 5:00 p.m. on the final panel day, departure flights should be reserved for 6:00 p.m. or later.**
+**Option 1: Make your reservations via FastLane at www.fastlane.nsf.gov** and click on "Panelist Functions." AdTrav can make other (unrelated to NSF meeting) ticketing arrangements, but you must pay the difference between the government fare and the fare quoted by AdTrav using your personal credit card. We recommend you call AdTrav directly to make alternate arrangements.  **Please note, all panel meetings are expected to end by 5:00 p.m. on the final panel day, departure flights should be reserved for 6:00 p.m. or later.**
 
 **Option 2: Email your travel request to AdTrav at nsfpanel.travel@adtrav.com.** Please include the following information in your travel request: name, email address, home address, home and work phone numbers, meeting ID, your departure/return location (train station or airport), and the dates and times of preferred travel.
 
@@ -88,7 +88,7 @@ All participants (except Federal government employees and non-US Citizens/Perman
 Foreign travelers receive reimbursement via a paper check mailed by the U.S. Treasury. Currently, the Federal government cannot process international electronic transactions. The NSF Faststart Direct Deposit Form is used to record the address that checks should be mailed. The first section should be completed and please include your email address. A form can be obtained from your program office and sent by email.
 
 ## Travel Questions
-For specific travel questions involving participation in a Review Panel for the Division of Industrial Innovation and Partnership, Please contact:
+For specific travel questions involving participation in a Review Panel for the Directorate for Technology, Innovation and Partnerships, please contact:
 
 *Stacey Stoby*:
 703-292-8825;

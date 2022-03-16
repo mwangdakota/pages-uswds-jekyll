@@ -7,18 +7,18 @@ sidenav: review
 
 # Virtual Panelist
 
-**Please note:** Policies on this page reflect those of the Division of Industrial Innovation and Partnerships, NOT the entire National Science Foundation.
+**Please note:** Policies on this page reflect those of the Directorate for Technology, Innovation and Partnerships, NOT the entire National Science Foundation.
 
-The Division of Industrial Innovation and Partnerships uses Zoom software to facilitate virtual panel review. Please review the guides below to acquaint yourself with the process.
+The Directorate for Technology, Innovation and Partnerships uses Zoom software to facilitate virtual panel review. Please review the guides below to acquaint yourself with the process.
 
-If you are selected and confirmed to serve on a virtual panel for the Division of Industrial Innovation and Partnerships (ENG/IIP), you will be asked to participate via an online conferencing application (Zoom). We want this experience to be as simple and rewarding for you as participating on a face-to-face panel at NSF.  In order to achieve this goal we are providing some critical information below that you need to review prior to the scheduled panel date.
+If you are selected and confirmed to serve on a virtual panel for the Directorate for Technology, Innovation and Partnerships (TIP), you will be asked to participate via an online conferencing application (Zoom). We want this experience to be as simple and rewarding for you as participating on a face-to-face panel at NSF.  In order to achieve this goal we are providing some critical information below that you need to review prior to the scheduled panel date.
 
 The NSF Conflict-of-Interest and Confidentiality Statement for NSF Panelists must be read and signed prior to participating on a virtual panel. Please print and sign the [COI Form]({{ site.baseurl }}/assets/files/awardees/coiform.pdf) and scan/email it to the NSF staff person that invited you to review. If necessary, you can fax the COI form to 703-292-9057. In the field “Panel Name” please clearly indicate the Panel ID (PXXXXXX).
 
 Panel Day Instructions
 Please join the panel at least 15 minutes prior to the scheduled start time to ensure that you have time to connect to the Zoom meeting and trouble-shoot any IT issues. If you encounter any IT issues, immediately contact the NSF staff that sent you the Zoom invitation.
 
-## Keys to Successful Participation in a Virtual Panel for IIP at NSF:
+## Keys to Successful Participation in a Virtual Panel for TIP at NSF:
 
 1. Submit signed COI form prior to the day of the panel.
 2. PC with Microsoft Internet Explorer (IE) browser. *Macs are also acceptable
@@ -27,7 +27,7 @@ Please join the panel at least 15 minutes prior to the scheduled start time to e
 5. **NSF discourages the use of mobile devices** due to poor quality of communications (noise, drop calls, unintelligible signals, etc.).  
 To ensure the confidentiality and integrity of the NSF review process, you **MUST** ensure that panel discussions are not overheard by anyone else besides you. Closed doors and/or headset are strongly recommended. Similarly, it is imperative that no one else can see your computer screen showing the working of the panel.  
 
-**Merit review guidelines Fastlane instructions for panelists can be found at:** https://www.nsf.gov/eng/iip/sbir/review_process.jsp.
+**Merit review guidelines Fastlane instructions for panelists can be found at: [Review process]({{ site.baseurl }}/resources/review/review-process/).
 
 ## Additional Notes
 

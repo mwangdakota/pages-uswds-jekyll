@@ -8,7 +8,7 @@ sidenav: review
 
 ## Merit mail review
 
-The "Proposal Review" feature of NSF's FastLane system is required by the Directorate of Engineering for all Mail Review Functions. The **Proposal Review** feature has several important components:
+The "Proposal Review" feature of NSF's FastLane system is required by the Directorate for Technology, Innovation and Partnerships for all Mail Review Functions. The **Proposal Review** feature has several important components:
 
 ### Step-by-Step instructions for proposal review selection
 
