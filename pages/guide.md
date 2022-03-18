@@ -71,7 +71,7 @@ Fill in
 
 ### 1.2 SBIR/STTR account recovery 
 <div><strong>1.2.1 Sign in page</strong></div>
-- Go to: [https://nsf.force.com/sbir](https://nsf.force.com/sbir){:target="_blank"}
+- Go to: [https://nsfiip.force.com/sbir](https://nsfiip.force.com/sbir){:target="_blank"}
 - Click on **“Forgot your password?”** 
 - For users who have forgotten their usernames or email address, email your first and last name to [tip-ti-tech-support@nsf.gov](mailto:tip-ti-tech-support@nsf.gov). 
 
