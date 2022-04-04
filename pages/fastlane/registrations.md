@@ -9,16 +9,6 @@ sidenav: fastlane
 ## 2. Registrations
 ### Do you have the required registrations?
 
-Before you can begin entering your full proposal in FastLane, your company must have completed the following registrations:  
-
-* [Dun and Bradstreet Data Universal Numbering System (DUNS)](https://www.nsf.gov/cgi-bin/good-bye?https://www.dnb.com/duns-number/get-a-duns.html)
-  
-  All organization information MUST BE IDENTICAL in SAM and in your DUNS Number/Dun & Bradstreet (D&B) record. 
-
-  Make sure the organization address registered in SAM matches the address listed in your DUNS Number/D&B record. Entering one address for your DUNS Number/D&B record and a different address for your SAM registration can result in significant SAM registration activation delays.
-  
- <span style="color:red;"> <em>Please Note: Effective February 28, 2022, NSF will transition from DUNS numbers to the new System for Award Management (SAM) Unique Entity Identifier (UEI) in its systems. See the [NSF Advisory Page](https://www.research.gov/research-web/content/UEIPreRelease0124) for more details. However, a DUNS number is still required to register in SAM.gov and to receive a SAM.gov-issued UEI until April 4, 2022.</em></span>
-
 * [System for Award Management (SAM)](https://www.sam.gov/SAM/)
 
   Please allow sufficient time for a new SAM registration to be processed and active. New SAM registrations can take up to two weeks to become active. Sometimes SAM registrations can take longer if the registration information provided in SAM is incomplete or accurate.
