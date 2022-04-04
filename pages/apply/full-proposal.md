@@ -46,7 +46,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
             </button></h2>
           <div id="required-registrations" class="usa-accordion-content" aria-hidden="false">
             <!-- https://github.com/18F/nsf-sbir/blob/dev/_timeline/step-3.md -->
-            <p><span style="color:red;"><em>Please Note: Effective February 28, 2022, NSF will transition from DUNS numbers to the new System for Award Management (SAM) Unique Entity Identifier (UEI) in its systems. See the <a href="https://www.research.gov/research-web/content/UEIPreRelease0124">NSF Advisory Page</a> for more details. However, a DUNS number is still required to register in SAM.gov and to receive a SAM.gov-issued UEI until April 4, 2022.</em></span></p>
+            
             
             <h3 id="system-for-award-management-sam"><a href="https://www.sam.gov/SAM/" target="_blank">System for
                 Award Management (SAM)</a></h3>
