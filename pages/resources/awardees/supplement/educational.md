@@ -20,7 +20,7 @@ sidenav: phase-2
     - **Max funding**: $10,000 per teacher per year
     - **Deadline**: Rolling submission; does not extend award duration
     - **Recruiting tip**: Guidance counselors at your local middle and high schools may be a great help. You can use this [recruiting template]({{ site.baseurl }}/assets/files/awardees/ED-Supp-Template.docx) to reach out.
-    - **[Official Solicitation](http://www.nsf.gov/pubs/2015/nsf15536/nsf15536.htm?org=NSF)**: In this document, information on supplement requests ONLY (NOT sites) is relevant. In summary, provide:
+    - **[Official Solicitation](https://www.nsf.gov/pubs/2021/nsf21606/nsf21606.htm#:~:text=The%20total%20cost%20of%20an,in%20the%20NSF%20proposal%20budget)**: In this document, information on supplement requests ONLY (NOT sites) is relevant. In summary, provide:
       1. The nature of the involvement of the teacher;
       2. The experience of the PI or other personnel in involving teachers in research;
       3. A biographical sketch of the teacher or the process and criteria for selecting a teacher.
