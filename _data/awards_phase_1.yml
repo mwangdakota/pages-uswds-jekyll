@@ -15857,60 +15857,6 @@
   prcCodes: "8037"
   programCode: "1505"
   topicName: "Energy Technologies"
-- abstractText: "The broader impact/commercial potential of this project is to reduce\
-    \ the burden of accessing information for the 1.5 million blind people in the\
-    \ United States by making a full page of refreshable braille text and tactile\
-    \ graphics available in a device resembling a tablet computer. This assistive\
-    \ technology will provide increased access to braille and enable blind students\
-    \ to read digitized spatial content including mathematical equations, graphs,\
-    \ and figures with their fingers, creating parity with their sighted counterparts\
-    \ interested in Science, Technology, Engineering and Mathematics (STEM) fields.\
-    \ The proposed product will improve braille literacy, opportunities in STEM careers,\
-    \ and ultimately lead to the employment success and independence of blind Americans.\
-    \ \n\nThis Small Business Technology Transfer (STTR) Phase I project relies on\
-    \ microfluidic technology to create a highly manufacturable device that combines\
-    \ an underlying rigid layer supplying pneumatic signals and an overlying soft\
-    \ layer containing membrane actuators at braille spacing. The successful commercialization\
-    \ of a full-page refreshable braille and tactile graphic display requires very\
-    \ tight packaging, high refresh rates, and a materials/manufacturing solution\
-    \ that scales gracefully to a tablet-size product. The proposed solution harnesses\
-    \ existing capabilities in the microfluidics lab-on-a-chip industry and deploys\
-    \ pneumatic actuators to achieve a scalable design. The development project involves\
-    \ identifying compromises to device refresh rates by characterizing timing constraints\
-    \ of the integrated microfluidic chips and membrane actuators. The results of\
-    \ the technical objectives will demonstrate the scalability of the innovation\
-    \ for achieving a full-page refreshable braille and tactile graphics display.\n\
-    \nThis award reflects NSF's statutory mission and has been deemed worthy of support\
-    \ through evaluation using the Foundation's intellectual merit and broader impacts\
-    \ review criteria."
-  awardeeAddress: "2890 CARPENTER RD STE 1700"
-  awardeeCity: "ANN ARBOR"
-  awardeeCountryCode: "US"
-  awardeeName: "NEWHAPTICS CORP."
-  awardeeStateCode: "MI"
-  awardeeZipCode: "48104-1355"
-  fundsObligatedAmt: "224999"
-  fundProgramName: "STTR Phase I"
-  id: "1913671"
-  ttopic: "ew"
-  covid: ""
-  piEmail: "alex@newhaptics.com"
-  piFirstName: "Alexander"
-  piLastName: "Russomanno"
-  piPhone: "7035821874"
-  poName: "Muralidharan Nair"
-  date: "06/20/2019"
-  startDate: "06/15/2019"
-  expDate: "07/31/2022"
-  title: "STTR Phase I:  Microfluidic Technology for Full-Page Digital Braille & Tactile\
-    \ Graphics Display"
-  calendarYear: "2019"
-  instNameSlug: "newhaptics-corp"
-  fiscalYear: "2019"
-  investigatorMiddleName: ""
-  prcCodes: "1505, 6840, 8034"
-  programCode: "1505"
-  topicName: "Electronic Hardware Robotics and Wireles"
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to develop technology to address a significant pain point for farmers associated with reducing nitrogen fertilizer input costs. The technology is based on in-planta sensor technology that will allow farmers to more carefully and precisely tailor nitrogen applications to each part of each field. By monitoring nitrate accumulation within plants, farmers will receive real time readouts of which fields and which portions of fields are nutrient constrained and could produce more yield following the application of additional nitrogen fertilizer.  These readouts also will identify those fields that already have sufficient nitrogen, meaning that further applications would simply reduce farmer profit and environmental sustainability. Widescale adoption and use of these sensors will not only improve farmer profitability, but also improve water quality and ecosystem health via reductions in agricultural losses of reactive nitrogen.
 
@@ -15944,39 +15890,6 @@
   prcCodes: "5371, 8038"
   programCode: "5371"
   topicName: "Biological Technologies"
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be to combat online trade in counterfeit and illicit goods. The project will integrate the results of a decade of academic research on anonymous online ("dark net") marketplaces and modeling of counterfeit pharmaceutical online sales with novel monitoring solutions for traditional e-commerce marketplaces. It will allow for the development and validation through pilot customer tests of an integrated platform for automated continuous data collection and analysis of the major players in the counterfeit and illicit goods online business. Through automation, the proposed technology should considerably reduce costs to brand protection managers (and law enforcement), allowing them to use their limited resources more effectively. This work should also help address some pressing economic and public health issues linked to the proliferation of counterfeits, such as counterfeit drugs.
-
-    This Small Business Innovation Research (SBIR) Phase I project will demonstrate automation of many manual online counterfeiting monitoring activities. The project will also show that intuitive visual interfaces can help customers (law enforcement agencies, brand protection managers) have immediate access to higher-level objects more useful for investigative purposes. These higher-level objects include metrics on the amount of sales conducted by a specific entity, deduplication between vendors, or inventory clustering. To do so, the project will further develop automated classification and analysis using techniques that were prototyped in the research lab, scale these techniques up to a production environment to further minimize human intervention, and combine these techniques with novel algorithms developed for slightly different application cases (traditional e-commerce marketplaces).
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: "4620 HENRY ST"
-  awardeeCity: "PITTSBURGH"
-  awardeeCountryCode: "US"
-  awardeeName: "HIKARI LABS, INC."
-  awardeeStateCode: "PA"
-  awardeeZipCode: "15213-3715"
-  fundsObligatedAmt: "225000"
-  fundProgramName: "SBIR Phase I"
-  id: "1938323"
-  ttopic: "it"
-  covid: ""
-  piEmail: "jhamrick@hikari.io"
-  piFirstName: "James"
-  piLastName: "Hamrick"
-  piPhone: "2145365316"
-  poName: "Peter Atherton"
-  date: "11/22/2019"
-  startDate: "12/01/2019"
-  expDate: "11/30/2022"
-  title: "SBIR Phase I:  Illuminating dark web electronic commerce"
-  calendarYear: "2019"
-  instNameSlug: "hikari-labs-inc"
-  fiscalYear: "2020"
-  investigatorMiddleName: "T"
-  prcCodes: "8032"
-  programCode: "5371"
-  topicName: "Information Technologies"
 - abstractText: "The broader/commercial impact of this SBIR Phase I project leverages\
     \ recent advances in additive manufacturing to solve key technical hurdles and\
     \ design deficits of current industry standard microcapillary needles.  Microinjection\
@@ -17717,3 +17630,90 @@
   prcCodes: "5345"
   programCode: "5371"
   topicName: "Biomedical Technologies"
+- abstractText: "The broader impact/commercial potential of this project is to reduce\
+    \ the burden of accessing information for the 1.5 million blind people in the\
+    \ United States by making a full page of refreshable braille text and tactile\
+    \ graphics available in a device resembling a tablet computer. This assistive\
+    \ technology will provide increased access to braille and enable blind students\
+    \ to read digitized spatial content including mathematical equations, graphs,\
+    \ and figures with their fingers, creating parity with their sighted counterparts\
+    \ interested in Science, Technology, Engineering and Mathematics (STEM) fields.\
+    \ The proposed product will improve braille literacy, opportunities in STEM careers,\
+    \ and ultimately lead to the employment success and independence of blind Americans.\
+    \ \n\nThis Small Business Technology Transfer (STTR) Phase I project relies on\
+    \ microfluidic technology to create a highly manufacturable device that combines\
+    \ an underlying rigid layer supplying pneumatic signals and an overlying soft\
+    \ layer containing membrane actuators at braille spacing. The successful commercialization\
+    \ of a full-page refreshable braille and tactile graphic display requires very\
+    \ tight packaging, high refresh rates, and a materials/manufacturing solution\
+    \ that scales gracefully to a tablet-size product. The proposed solution harnesses\
+    \ existing capabilities in the microfluidics lab-on-a-chip industry and deploys\
+    \ pneumatic actuators to achieve a scalable design. The development project involves\
+    \ identifying compromises to device refresh rates by characterizing timing constraints\
+    \ of the integrated microfluidic chips and membrane actuators. The results of\
+    \ the technical objectives will demonstrate the scalability of the innovation\
+    \ for achieving a full-page refreshable braille and tactile graphics display.\n\
+    \nThis award reflects NSF's statutory mission and has been deemed worthy of support\
+    \ through evaluation using the Foundation's intellectual merit and broader impacts\
+    \ review criteria."
+  awardeeAddress: "2890 CARPENTER RD STE 1700"
+  awardeeCity: "ANN ARBOR"
+  awardeeCountryCode: "US"
+  awardeeName: "NEWHAPTICS CORP."
+  awardeeStateCode: "MI"
+  awardeeZipCode: "48104-1355"
+  fundsObligatedAmt: "224999"
+  fundProgramName: "STTR Phase I"
+  id: "1913671"
+  ttopic: "r"
+  covid: ""
+  piEmail: "alex@newhaptics.com"
+  piFirstName: "Alexander"
+  piLastName: "Russomanno"
+  piPhone: "7035821874"
+  poName: "Muralidharan Nair"
+  date: "06/20/2019"
+  startDate: "06/15/2019"
+  expDate: "07/31/2022"
+  title: "STTR Phase I:  Microfluidic Technology for Full-Page Digital Braille & Tactile\
+    \ Graphics Display"
+  calendarYear: "2019"
+  instNameSlug: "newhaptics-corp"
+  fiscalYear: "2019"
+  investigatorMiddleName: ""
+  prcCodes: "1505, 6840, 8034"
+  programCode: "1505"
+  topicName: "Robotics"
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be to combat online trade in counterfeit and illicit goods. The project will integrate the results of a decade of academic research on anonymous online ("dark net") marketplaces and modeling of counterfeit pharmaceutical online sales with novel monitoring solutions for traditional e-commerce marketplaces. It will allow for the development and validation through pilot customer tests of an integrated platform for automated continuous data collection and analysis of the major players in the counterfeit and illicit goods online business. Through automation, the proposed technology should considerably reduce costs to brand protection managers (and law enforcement), allowing them to use their limited resources more effectively. This work should also help address some pressing economic and public health issues linked to the proliferation of counterfeits, such as counterfeit drugs.
+
+    This Small Business Innovation Research (SBIR) Phase I project will demonstrate automation of many manual online counterfeiting monitoring activities. The project will also show that intuitive visual interfaces can help customers (law enforcement agencies, brand protection managers) have immediate access to higher-level objects more useful for investigative purposes. These higher-level objects include metrics on the amount of sales conducted by a specific entity, deduplication between vendors, or inventory clustering. To do so, the project will further develop automated classification and analysis using techniques that were prototyped in the research lab, scale these techniques up to a production environment to further minimize human intervention, and combine these techniques with novel algorithms developed for slightly different application cases (traditional e-commerce marketplaces).
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: "4620 HENRY ST"
+  awardeeCity: "PITTSBURGH"
+  awardeeCountryCode: "US"
+  awardeeName: "HIKARI LABS, INC."
+  awardeeStateCode: "PA"
+  awardeeZipCode: "15213-3715"
+  fundsObligatedAmt: "225000"
+  fundProgramName: "SBIR Phase I"
+  id: "1938323"
+  ttopic: "ca"
+  covid: ""
+  piEmail: "jhamrick@hikari.io"
+  piFirstName: "James"
+  piLastName: "Hamrick"
+  piPhone: "2145365316"
+  poName: "Peter Atherton"
+  date: "11/22/2019"
+  startDate: "12/01/2019"
+  expDate: "11/30/2022"
+  title: "SBIR Phase I:  Illuminating dark web electronic commerce"
+  calendarYear: "2019"
+  instNameSlug: "hikari-labs-inc"
+  fiscalYear: "2020"
+  investigatorMiddleName: "T"
+  prcCodes: "8032"
+  programCode: "5371"
+  topicName: "Cybersecurity and Authentication"

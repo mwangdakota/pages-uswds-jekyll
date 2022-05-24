@@ -13178,41 +13178,6 @@
   prcCodes: "8028, 8616"
   programCode: "5373"
   topicName: "Instrumentation and Hardware Systems"
-- abstractText: |-
-    This SBIR Phase II project aims to transform the lives and future economic opportunities of young people and their communities through democratized access to cross-curricular computer science, engineering, and cybersecurity education. Daily life, economies, innovation, and national security all depend on having a strong and skilled STEM workforce. For this workforce to exist, our schools must provide the necessary education and experience to prepare students for such careers. Unfortunately, a vast majority of K-12 educators today are not equipped with the resources to do so successfully. The importance of solving this problem cannot be overstated; developing a plentitude of competent STEM professionals is critical to ensure economic and security stability. These project goals are aligned with NSF?s mission to promote the progress of science; to advance the national health, prosperity, and welfare; and to secure the national defense. The resulting technology innovation is of potential service to more than 50 million primary and secondary school students and 3.5 million educators nationally, with an ability to impact their course of study, improve STEM outcomes, increase hands-on project-based experience, and improve future economic opportunities.
-
-
-    This technology innovation emerges at the intersection of cloud-based software technology, real-time collaboration tools, and learning management systems. This reimagined technology tool easily connects, attracts, and fosters delivery of cross-curricular, educational computing literacy resources aligned with national and state educational standards. The project aims to empower and support educators and students in tackling the many new opportunities and growing number of resources in computer science (CS) and engineering education at home, in classrooms, and in community centers. As the CS education landscape evolves with new and exciting technical curriculum, this innovation analyzes the willingness of educators to create or adopt new computer science education, the effectiveness of real-time collaboration tools on CS education outcomes, and measures student awareness and feelings about computer science and engineering disciplines. This technology innovation promotes customer participation and a unique ability to provide support at the ground level in real-time. There are solutions that provide massive online CS courses and curricula; however, none targeting K-12 classrooms or educators which support and integrate cross-curricular computer science, engineering, and cybersecurity education. Offering cloud-based, synchronous technology tools this technology enables real-time, expert mentoring and pair-programming in a K12 virtual learning environment on a massive scale.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: "2428 IRWIN ST"
-  awardeeCity: "Melbourne Beach"
-  awardeeCountryCode: "US"
-  awardeeName: "Codecraft Works, LLC"
-  awardeeStateCode: "FL"
-  awardeeZipCode: "32951-2716"
-  fundsObligatedAmt: "888640"
-  fundProgramName: "SBIR Phase II"
-  id: "1831060"
-  ttopic: "ea"
-  covid: "y"
-  piEmail: "josh@codecraftworks.com"
-  piFirstName: "Josh"
-  piLastName: "Landin"
-  piPhone: "3212094674"
-  poName: "Rajesh Mehta"
-  date: "09/17/2018"
-  startDate: "09/15/2018"
-  expDate: "08/31/2022"
-  title: "SBIR Phase II:  A Co-creation, Cross-curricular, Standard Aligned Computer\
-    \ Science, Engineering, and Cybersecurity Education Technology Platform"
-  calendarYear: "2018"
-  instNameSlug: "codecraft-works-llc"
-  fiscalYear: "2018"
-  investigatorMiddleName: ""
-  prcCodes: "096Z, 1707, 5373, 8031"
-  programCode: "5373"
-  topicName: "Educational Technologies and Application"
 - abstractText: "This Small Business Innovation Research Phase II project improves\
     \ assistive devices for people with disabilities (PwD). The assistive technology\
     \ industry is projected to reach $2.4 billion in 2022, and the home rehabilitation\
@@ -13403,6 +13368,41 @@
   prcCodes: "165E, 5373, 6883, 8038"
   programCode: "5373"
   topicName: "Biological Technologies"
+- abstractText: |-
+    This SBIR Phase II project aims to transform the lives and future economic opportunities of young people and their communities through democratized access to cross-curricular computer science, engineering, and cybersecurity education. Daily life, economies, innovation, and national security all depend on having a strong and skilled STEM workforce. For this workforce to exist, our schools must provide the necessary education and experience to prepare students for such careers. Unfortunately, a vast majority of K-12 educators today are not equipped with the resources to do so successfully. The importance of solving this problem cannot be overstated; developing a plentitude of competent STEM professionals is critical to ensure economic and security stability. These project goals are aligned with NSF?s mission to promote the progress of science; to advance the national health, prosperity, and welfare; and to secure the national defense. The resulting technology innovation is of potential service to more than 50 million primary and secondary school students and 3.5 million educators nationally, with an ability to impact their course of study, improve STEM outcomes, increase hands-on project-based experience, and improve future economic opportunities.
+
+
+    This technology innovation emerges at the intersection of cloud-based software technology, real-time collaboration tools, and learning management systems. This reimagined technology tool easily connects, attracts, and fosters delivery of cross-curricular, educational computing literacy resources aligned with national and state educational standards. The project aims to empower and support educators and students in tackling the many new opportunities and growing number of resources in computer science (CS) and engineering education at home, in classrooms, and in community centers. As the CS education landscape evolves with new and exciting technical curriculum, this innovation analyzes the willingness of educators to create or adopt new computer science education, the effectiveness of real-time collaboration tools on CS education outcomes, and measures student awareness and feelings about computer science and engineering disciplines. This technology innovation promotes customer participation and a unique ability to provide support at the ground level in real-time. There are solutions that provide massive online CS courses and curricula; however, none targeting K-12 classrooms or educators which support and integrate cross-curricular computer science, engineering, and cybersecurity education. Offering cloud-based, synchronous technology tools this technology enables real-time, expert mentoring and pair-programming in a K12 virtual learning environment on a massive scale.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: "2428 IRWIN ST"
+  awardeeCity: "Melbourne Beach"
+  awardeeCountryCode: "US"
+  awardeeName: "Codecraft Works, LLC"
+  awardeeStateCode: "FL"
+  awardeeZipCode: "32951-2716"
+  fundsObligatedAmt: "888640"
+  fundProgramName: "SBIR Phase II"
+  id: "1831060"
+  ttopic: "lc"
+  covid: "y"
+  piEmail: "josh@codecraftworks.com"
+  piFirstName: "Josh"
+  piLastName: "Landin"
+  piPhone: "3212094674"
+  poName: "Diane Hickey"
+  date: "09/17/2018"
+  startDate: "09/15/2018"
+  expDate: "08/31/2022"
+  title: "SBIR Phase II:  A Co-creation, Cross-curricular, Standard Aligned Computer\
+    \ Science, Engineering, and Cybersecurity Education Technology Platform"
+  calendarYear: "2018"
+  instNameSlug: "codecraft-works-llc"
+  fiscalYear: "2018"
+  investigatorMiddleName: ""
+  prcCodes: "096Z, 1707, 5373, 8031"
+  programCode: "5373"
+  topicName: "Learning and Cognition Technologies"
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is the commercialization of an aqueous lithium and zinc ion battery that is a replacement for lead-acid and lithium-ion batteries in stationary energy storage applications.  This battery has a nonflammable, environmentally-friendly, water-based electrolyte and does not utilize cobalt or nickel, reducing reliance on critical materials and helping to diversify battery material supply chains.  The battery chemistry combines the high safety and low cost associated with zinc-based batteries with the long life of lithium-ion batteries.  This aqueous battery may help to advance the adoption of beneficial energy technologies such as intermittent renewables and electric vehicles.  The battery utilizes zinc that can be sourced domestically and does not introduce a dependency on foreign sources, promoting both national security and the creation of US-based jobs.  The battery is also fully recyclable using existing methods.
 
@@ -14416,38 +14416,6 @@
   prcCodes: "165E, 169E, 5373, 7257, 8034, 8240, 9139, HPCC"
   programCode: "5373"
   topicName: "Energy Technologies"
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project are both technical and economic. The developed error-correction solutions will enable flash-memory-based devices to have higher capacities, higher reliability, and faster speeds at lower power while driving down the cost. This will have a major impact on mobile computing capabilities and enterprise storage by improving the efficiency and reliability of data centers, servers, and mission-critical storage that incorporate flash memories. Improved enterprise storage boosts the efficiency and growth of IT businesses, e-commerce, and financial trade. The solutions will also enable reduced power consumption and heat dissipation leading to greener systems.  The benefits of the error-correction solutions are also applicable to the hard disk drive and communications industries.
-
-    This Small Business Innovation Research (SBIR) Phase II project will develop and validate novel low-density parity-check (LDPC)-based error-correction for flash memory-based solid state drives (SSDs). SSDs are rapidly being deployed for both enterprise and consumer storage due to their fast speeds, low power, and low heat dissipation. But they bring numerous technical challenges stemming from the fact that reducing flash memory cell sizes leads to an unavoidable degradation in the reliability. With a trend of increasing die density to enable higher storage capacities, the industry is swiftly moving towards adopting LDPC codes to provide more powerful error-correction. However existing LDPC solutions use complex post-processing and multiple reads to bring down the error rates to the desired levels which lowers the read speeds, making them unattractive for future SSDs.  Novel binary LDPC-based solutions will be developed for a range of parameters, and validated in hardware.  The design method will be extended to develop new non-binary LDPC solutions which provide even greater reliability enhancements, leading to greater endurance in SSDs.
-  awardeeAddress: "100 N STONE AVE, SUITE 1108"
-  awardeeCity: "Tucson"
-  awardeeCountryCode: "US"
-  awardeeName: "Codelucida, Inc."
-  awardeeStateCode: "AZ"
-  awardeeZipCode: "85701-1511"
-  fundsObligatedAmt: "1408239"
-  fundProgramName: "SBIR Phase II"
-  id: "1534760"
-  ttopic: "ei"
-  covid: ""
-  piEmail: "planjery@codelucida.com"
-  piFirstName: "Shiva"
-  piLastName: "Planjery"
-  piPhone: "5202396653"
-  poName: "Peter Atherton"
-  date: "08/12/2015"
-  startDate: "08/15/2015"
-  expDate: "06/30/2022"
-  title: "SBIR Phase II:  Low-density parity-check error correction for enhanced reliability\
-    \ of flash memories"
-  calendarYear: "2015"
-  instNameSlug: "codelucida-inc"
-  fiscalYear: "2015"
-  investigatorMiddleName: "K"
-  prcCodes: "097E, 106E, 165E, 169E, 5373, 8035, 8240"
-  programCode: "5373"
-  topicName: "Electronics, Information and Communicati"
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation\
     \ Research (SBIR) Phase II project is to allow the Internet infrastructure to\
     \ keep up with explosive growth demand.  A core aspect of Internet operational\
@@ -15497,40 +15465,6 @@
   programCode: "5373"
   topicName: "Other Topics"
 - abstractText: |-
-    The broader societal impact/commercial potential of this project centers on improving rehabilitation outcomes for individuals suffering from motor dysfunction due to stroke, spinal cord injury, and other conditions. In the US alone, there are 600,000 new stroke patients each year who rely on conventional one-on-one therapies for recovery. Due to cost and labor limitations they do not receive consistent, frequent, and intensive training needed for full recovery and optimal quality of life. As a result, stroke care guidelines recommend robotic rehabilitation in all care settings. Providing robotic rehabilitation using the proposed exoskeleton robots is a compelling solution for hospitals, rehabilitation centers, and senior living communities. In addition to providing frequent and intensive therapy, the devices can accurately measure patient progress and performance for personalized care. The exoskeletons are also a powerful research tool into effective rehabilitation methods and have the potential to transform the manufacturing sector by providing a solution for industrial processes that are too complex for full automation and too physically demanding for humans. The proposed exoskeleton devices reduce the risk of injury from accidents and overexertion for individuals performing repetitive, high-stress tasks. Additional results include increased productivity and decreased absenteeism and turn-over.
-
-    This Small Business Innovation Research (SBIR) Phase II project advances the development of exoskeleton robots targeted at rehabilitation. A substantial portion of the US population requires intensive rehabilitation services for neuromuscular impairment. Robotic rehabilitation has attracted attention due to the potential for better patient outcomes. Current robotic solutions lack the anatomical mobility and compliant dynamic behavior to produce neurologically-sound therapeutic behaviors. The proposed project addresses these deficits and will result in exoskeleton robots capable of essential advanced rehabilitation behaviors. During the Phase I project, a high-performance, force-controlled actuator was developed and will be the core component enabling the desired behavior. In this project, the physical structures and control algorithms of the exoskeletons will be designed and built with a focus on dynamic transparency and kinematic compatibility with the human body to capitalize on the capabilities of the actuator. Additionally, the control software will use feedback loops and a visually interactive environment with performance metrics to keep patients engaged.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: "11740 JOLLYVILLE RD STE 200"
-  awardeeCity: "Austin"
-  awardeeCountryCode: "US"
-  awardeeName: "LinkDyn Robotics Inc."
-  awardeeStateCode: "TX"
-  awardeeZipCode: "78759-4284"
-  fundsObligatedAmt: "957139"
-  fundProgramName: "SBIR Phase II"
-  id: "1853183"
-  ttopic: "ew"
-  covid: ""
-  piEmail: "bongsu.kim@linkdyn.com"
-  piFirstName: "Bongsu"
-  piLastName: "Kim"
-  piPhone: "5123518094"
-  poName: "Muralidharan Nair"
-  date: "04/17/2019"
-  startDate: "04/15/2019"
-  expDate: "09/30/2022"
-  title: "SBIR Phase II:  Force And Impedance-Based Exoskeleton Robots For Seamless\
-    \ Assistance And Neurologically Sound Rehabilitation"
-  calendarYear: "2019"
-  instNameSlug: "linkdyn-robotics-inc"
-  fiscalYear: "2019"
-  investigatorMiddleName: ""
-  prcCodes: "169E, 5373, 8033, 8034, 8240, 9251"
-  programCode: "5373"
-  topicName: "Electronic Hardware Robotics and Wireles"
-- abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to develop a fast, efficient, and scalable cell engineering technology that is easily automated through integration with liquid handling robots.  Currently, there is a bottleneck in the process of cell engineering, especially in the engineering of cells for discovery of new therapeutics.  The field of delivery of genetic or other material to cells has not kept pace with advancements in genetic modification and high-throughput screening technologies.  The proposed platform will offer an alternative to the time-consuming and labor-intensive methods of transfection including lentiviral transduction and cuvette-based electroporation, which are difficult to automate.  Applications of cell engineering technology range from fundamental research in cell physiology to the discovery of new targets for cellular therapies.  The platform will allow scientists and clinicians to more rapidly and reliably engineer immune and other cells for discovery of new therapeutic targets and therapeutics.
 
     The intellectual merit of this SBIR Phase II project will be to develop a scalable, automated, non-viral cell engineering platform with the potential to operate up to 10,000 times faster than conventional electroporation using high-throughput liquid handling.  Using the core cell engineering technology developed in Phase I, the goal is to develop an automated protocol for gene transfection on a liquid handling robot compatible with 96 or 384 well plate technology.  The first objective is to demonstrate the manufacturability of cell engineering devices for high-throughput cell engineering. Preliminary work in this area has shown that these devices can be injection molded, thus reducing cost while increasing the potential for production at scale. In the Phase II project, injection molded prototypes of the cell engineering devices will be developed to prove manufacturability and determine the cost to manufacture at scale (millions of parts per year). Second, there are several supplemental systems that must be integrated with a liquid handling apparatus to enable the proposed high-throughput cell engineering. Supplemental systems include a power source and power distribution manifold that interacts with each sample of the 96 or 384 well array. In this project, these systems will be integrated with the cell engineering devices and automated liquid handling robot. Third, the integrated system will be used to generate a large library of primary human T cell variants as proof-of-concept to demonstrate the potential for high-throughput cell engineering for therapeutic target discovery.
@@ -15817,6 +15751,40 @@
   prcCodes: "5373, 8032, 8240"
   programCode: "5373"
   topicName: "Advanced Analytics"
+- abstractText: |-
+    The broader societal impact/commercial potential of this project centers on improving rehabilitation outcomes for individuals suffering from motor dysfunction due to stroke, spinal cord injury, and other conditions. In the US alone, there are 600,000 new stroke patients each year who rely on conventional one-on-one therapies for recovery. Due to cost and labor limitations they do not receive consistent, frequent, and intensive training needed for full recovery and optimal quality of life. As a result, stroke care guidelines recommend robotic rehabilitation in all care settings. Providing robotic rehabilitation using the proposed exoskeleton robots is a compelling solution for hospitals, rehabilitation centers, and senior living communities. In addition to providing frequent and intensive therapy, the devices can accurately measure patient progress and performance for personalized care. The exoskeletons are also a powerful research tool into effective rehabilitation methods and have the potential to transform the manufacturing sector by providing a solution for industrial processes that are too complex for full automation and too physically demanding for humans. The proposed exoskeleton devices reduce the risk of injury from accidents and overexertion for individuals performing repetitive, high-stress tasks. Additional results include increased productivity and decreased absenteeism and turn-over.
+
+    This Small Business Innovation Research (SBIR) Phase II project advances the development of exoskeleton robots targeted at rehabilitation. A substantial portion of the US population requires intensive rehabilitation services for neuromuscular impairment. Robotic rehabilitation has attracted attention due to the potential for better patient outcomes. Current robotic solutions lack the anatomical mobility and compliant dynamic behavior to produce neurologically-sound therapeutic behaviors. The proposed project addresses these deficits and will result in exoskeleton robots capable of essential advanced rehabilitation behaviors. During the Phase I project, a high-performance, force-controlled actuator was developed and will be the core component enabling the desired behavior. In this project, the physical structures and control algorithms of the exoskeletons will be designed and built with a focus on dynamic transparency and kinematic compatibility with the human body to capitalize on the capabilities of the actuator. Additionally, the control software will use feedback loops and a visually interactive environment with performance metrics to keep patients engaged.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: "11740 JOLLYVILLE RD STE 200"
+  awardeeCity: "Austin"
+  awardeeCountryCode: "US"
+  awardeeName: "LinkDyn Robotics Inc."
+  awardeeStateCode: "TX"
+  awardeeZipCode: "78759-4284"
+  fundsObligatedAmt: "957139"
+  fundProgramName: "SBIR Phase II"
+  id: "1853183"
+  ttopic: "r"
+  covid: ""
+  piEmail: "bongsu.kim@linkdyn.com"
+  piFirstName: "Bongsu"
+  piLastName: "Kim"
+  piPhone: "5123518094"
+  poName: "Muralidharan Nair"
+  date: "04/17/2019"
+  startDate: "04/15/2019"
+  expDate: "09/30/2022"
+  title: "SBIR Phase II:  Force And Impedance-Based Exoskeleton Robots For Seamless\
+    \ Assistance And Neurologically Sound Rehabilitation"
+  calendarYear: "2019"
+  instNameSlug: "linkdyn-robotics-inc"
+  fiscalYear: "2019"
+  investigatorMiddleName: ""
+  prcCodes: "169E, 5373, 8033, 8034, 8240, 9251"
+  programCode: "5373"
+  topicName: "Robotics"
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation\
     \ Research (SBIR) Phase II project is to reduce the cost and increase the quality\
     \ and throughput of mass spectrometry research through the development of advanced\
@@ -16367,3 +16335,35 @@
   prcCodes: "5373, 8018, 8023, 8032, 8042, 8240"
   programCode: "5373"
   topicName: "Digital Health"
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project are both technical and economic. The developed error-correction solutions will enable flash-memory-based devices to have higher capacities, higher reliability, and faster speeds at lower power while driving down the cost. This will have a major impact on mobile computing capabilities and enterprise storage by improving the efficiency and reliability of data centers, servers, and mission-critical storage that incorporate flash memories. Improved enterprise storage boosts the efficiency and growth of IT businesses, e-commerce, and financial trade. The solutions will also enable reduced power consumption and heat dissipation leading to greener systems.  The benefits of the error-correction solutions are also applicable to the hard disk drive and communications industries.
+
+    This Small Business Innovation Research (SBIR) Phase II project will develop and validate novel low-density parity-check (LDPC)-based error-correction for flash memory-based solid state drives (SSDs). SSDs are rapidly being deployed for both enterprise and consumer storage due to their fast speeds, low power, and low heat dissipation. But they bring numerous technical challenges stemming from the fact that reducing flash memory cell sizes leads to an unavoidable degradation in the reliability. With a trend of increasing die density to enable higher storage capacities, the industry is swiftly moving towards adopting LDPC codes to provide more powerful error-correction. However existing LDPC solutions use complex post-processing and multiple reads to bring down the error rates to the desired levels which lowers the read speeds, making them unattractive for future SSDs.  Novel binary LDPC-based solutions will be developed for a range of parameters, and validated in hardware.  The design method will be extended to develop new non-binary LDPC solutions which provide even greater reliability enhancements, leading to greater endurance in SSDs.
+  awardeeAddress: "100 N STONE AVE, SUITE 1108"
+  awardeeCity: "Tucson"
+  awardeeCountryCode: "US"
+  awardeeName: "Codelucida, Inc."
+  awardeeStateCode: "AZ"
+  awardeeZipCode: "85701-1511"
+  fundsObligatedAmt: "1408239"
+  fundProgramName: "SBIR Phase II"
+  id: "1534760"
+  ttopic: "ch"
+  covid: ""
+  piEmail: "planjery@codelucida.com"
+  piFirstName: "Shiva"
+  piLastName: "Planjery"
+  piPhone: "5202396653"
+  poName: "Peter Atherton"
+  date: "08/12/2015"
+  startDate: "08/15/2015"
+  expDate: "06/30/2022"
+  title: "SBIR Phase II:  Low-density parity-check error correction for enhanced reliability\
+    \ of flash memories"
+  calendarYear: "2015"
+  instNameSlug: "codelucida-inc"
+  fiscalYear: "2015"
+  investigatorMiddleName: "K"
+  prcCodes: "097E, 106E, 165E, 169E, 5373, 8035, 8240"
+  programCode: "5373"
+  topicName: "Cloud and High-Performance Computing"
