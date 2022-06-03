@@ -42,8 +42,6 @@ If you have suggestions, we’d love to hear them — share your feedback [via e
 
 [Bio: Sethuraman Panchanathan](https://nsf.gov/staff/staff_bio.jsp?lan=spanchan&org=EF&from_org=EF): The official bio of Sethuraman Panchanathan, NSF's 15th director.
 
-[Bio: Andrea Belz](https://seedfund.nsf.gov/contact/bios/#Andrea%20Belz): The official bio of Andrea Belz, the Division Director for Division of Translational Impacts within the Technology, Innovation and Partnerships (TIP) directorate, home of America’s Seed Fund powered by NSF.
-
 [Directorate for Technology, Innovation and Partnerships (TIP)](https://beta.nsf.gov/tip/about-tip): The directorate that houses America’s Seed Fund at NSF. TIP works closely with the entire agency to leverage ongoing research investments and to grow them at speed and scale. TIP invests in high-tech small businesses and collaborations between academia and industry to transform discoveries into innovative commercial technologies with economical and societal benefits.
 
 A team of nationally recognized leaders from academia, industry, the investment community, and public organizations participate in the [SBIR/STTR Subcommittee]({{ site.baseurl }}/sbir-sttr-subcommittee/). Members guide NSF’s SBIR/STTR program on emerging industries and the evolution of the deep-technology startup community, participating in strategic initiatives to support the NSF’s mission of accelerating the growth of the nation’s innovation ecosystem.
