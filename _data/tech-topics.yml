@@ -596,14 +596,13 @@
   permalink: /topics/pharmaceutical-technologies/
   topic_code: pt
   programDirector:
-    - name: Kaitlin Bratlie
-      last_name: Bratlie
-      api_name: Kaitlin Bratlie
-      email: kbratlie@nsf.gov
-      photo: Kaitlin-compressed.jpg
+    - name: Erik Pierstorff
+      last_name: Pierstorff
+      api_name: Erik Pierstorff
+      email: epiersto@nsf.gov
+      photo: Erik-compressed.jpg
       ttopic: pt
-      desc:
-      bio: "joined NSF as a Program Director for the Partnerships for Innovation (PFI) program in June 2020. Since 2011, Katie has been an Assistant Professor in the Department of Materials Science & Engineering and the Department of Chemical & Biological Engineering at Iowa State University. Her current research thrusts include the development of biomaterials for medical applications and evaluation of these materials in in-vitro and in vivo contexts for drug delivery and regenerative medicine. She received the NSF BRIGE Award in 2012, the ISU Honors Mentor Award in 2014, was nominated “Outstanding Faculty Member” by the Interfraternity Council in 2015, and won both the Akinc Excellence in Research and Teaching Awards in 2015. Katie earned her B.S. from the University of Minnesota and her PhD from the University of California, Berkeley under the supervision of Prof. Gabor Somorjai. She was a post-doctoral research fellow at MIT as an NIH fellow in Professor Bob Langer’s lab."
+      bio: "joined the NSF as Program Director in November 2019. Prior to NSF, he was Chief of Operations and led Research and Development at O-Ray Pharma, where he focused on integrating biology and biomedical engineering for the goal of drug development and sustained drug delivery for the treatment of hearing loss and other ear disorders. During his time working at early stage companies, he helped secure both Angel investment and non-dilutive funding in the form of licensing and co-development deals. Additionally, he served as Principal Investigator on several Phase I, II and IIB SBIR grants from the National Institutes of Health and NSF. His research interests have focused on the intersection of the biotic and abiotic, spanning molecular and cell biology, materials science, gene therapy, nanomaterials and drug delivery. Erik has a Ph.D. in Molecular and Cell Biology from the University of California, Berkeley, and a B.S. in Biology from Emory University."  
   subtopics:
     - Drug Delivery Methods (PT1)
     - Drug Discovery (PT2)
