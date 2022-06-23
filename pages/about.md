@@ -117,7 +117,7 @@ We focus on transforming scientific and engineering discoveries into products an
   
 ## About NSF
 <p>
-The U.S. National Science Foundation is a federal agency that supports research and education across all fields of science and engineering, currently with an $8.5 billion budget.</p>
+The U.S. National Science Foundation is a federal agency that supports research and education across all fields of science and engineering, currently with an $8.8 billion budget.</p>
    <p>Through the merit review process, NSF funds the most innovative ideas in science and engineering. Notable NSF-supported advances include LASIK eye surgery, Doppler radar, the Internet, web browsers, bar codes, magnetic resonance imaging, inkjet printers, computer-aided design systems, tissue engineering, and other technology-based innovations that spur economic activity and improve the quality of life for all Americans.</p>
 
 </div>
