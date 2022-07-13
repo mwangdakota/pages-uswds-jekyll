@@ -64,6 +64,13 @@
       photo: Rajesh-compressed.jpg
       ttopic: am
       bio: "has been a SBIR/STTR Program Director since 2012. Prior to joining NSF in 2012, he was a senior research technologist at Kodak where his 26-year career spanned work at Kodak Research Laboratories, and Manufacturing Research and Engineering Organization. His work covered a broad range of materials science based technologies related to photographic film and paper manufacturing, thermal, inkjet, and electro-photographic printing, and OLED device manufacturing. He has a B. Tech. degree in Chemical Engineering from Indian Institute of Technology, Bombay, M.S. and Ph.D. degrees in Chemical Engineering from Penn State, a post-doctoral fellowship at Imperial College, and a M.S. degree in New Product Development from Rochester Institute of Technology." 
+    - name: Samir Iqbal
+      last_name: Iqbal
+      api_name: Samir Iqbal
+      email: smiqbal@nsf.gov
+      photo: samir.jpg
+      ttopic: am
+      bio: "joined the U.S. National Science Foundation in 2021. He serves as a program director for the SBIR/STTR program and the Partnerships for Innovation (PFI) program. Samir is also currently a professor of electrical engineering and department chair at the University of Texas Rio Grande Valley (UTRGV), a Minority-Serving Institution. Prior to UTRGV, Samir was an associate professor at the University of Texas at Arlington (UT-Arlington) where he spun off two companies from his NSF-funded research. Samir has also served as a mentor for several startups, bringing together academics and industrial partners. He was instrumental in developing programs that provided meaningful research and education experiences in STEM areas to women and students from underrepresented backgrounds. His research has focused on cancer nanotechnology, nano-bio interfaces, machine learning and developing measurement techniques for single molecule and single cell analysis. He was a Presidential Fellow at UT-Arlington in 2017, a Distinguished Lecturer for IEEE-EMBS and Nanotechnology Council for many years and is a Fellow of the Royal Society of Chemistry. Samir earned his Ph.D. from Purdue University in 2007." 
   subtopics:
     - Coatings and Surface Modifications (AM1)
     - Metals and Ceramics (AM2)
@@ -211,6 +218,13 @@
       photo: Anna-compressed.jpg
       ttopic: ct
       bio: "joined the National Science Foundation as a SBIR/STTR Program Director in 2016. In this role she brings breadth of background across entrepreneurship and venture capital, innovative research, and direction of corporate strategy and investments. Anna has served as a collaborator with numerous startups having worked as an inventor for an early stage venture-backed start-up providing low-cost, low-energy portable water treatment, and a Principal Investor for an early stage venture firm. Anna’s contributions were recognized in 2009 when she was selected as one of  about 30 Kauffman Fellows from around the globe, for leadership in innovation and venture capital. She served as Director of Corporate Strategy for leading multinationals including The AES Corporation and Cummins Inc., and advised numerous clients while serving as a management consultant for The Boston Consulting Group. Anna’s work in these roles resulted in over $6B of infrastructure investments with enhanced returns, identification of $B+ cost reduction opportunities, contributing to a core transformation team of a $T+ entity in oil & gas, and the implementation of several new technologies spanning nanotechnology, advanced manufacturing, Big Data and Internet of Things, along with new equipment that enabled transforming energy economics. Earlier in her career, she performed research at the intersection of innovation and international relations with the Office of Naval Research at the U.S. Embassy in Chile. Anna holds a PhD from Yale University in Chemical and Environmental Engineering, where she held a National Science Foundation Graduate Research Fellowship; and a B.S. in Chemical Engineering and B.A. in Spanish from The Johns Hopkins University."
+    - name: Samir Iqbal
+      last_name: Iqbal
+      api_name: Samir Iqbal
+      email: smiqbal@nsf.gov
+      photo: samir.jpg
+      ttopic: ph
+      bio: "joined the U.S. National Science Foundation in 2021. He serves as a program director for the SBIR/STTR program and the Partnerships for Innovation (PFI) program. Samir is also currently a professor of electrical engineering and department chair at the University of Texas Rio Grande Valley (UTRGV), a Minority-Serving Institution. Prior to UTRGV, Samir was an associate professor at the University of Texas at Arlington (UT-Arlington) where he spun off two companies from his NSF-funded research. Samir has also served as a mentor for several startups, bringing together academics and industrial partners. He was instrumental in developing programs that provided meaningful research and education experiences in STEM areas to women and students from underrepresented backgrounds. His research has focused on cancer nanotechnology, nano-bio interfaces, machine learning and developing measurement techniques for single molecule and single cell analysis. He was a Presidential Fellow at UT-Arlington in 2017, a Distinguished Lecturer for IEEE-EMBS and Nanotechnology Council for many years and is a Fellow of the Royal Society of Chemistry. Samir earned his Ph.D. from Purdue University in 2007." 
   subtopics:
     - Biochemicals (CT1)
     - Catalysts, Advanced Chemicals and Materials (CT2)
