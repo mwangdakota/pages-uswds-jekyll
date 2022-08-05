@@ -14617,7 +14617,7 @@
   fundsObligatedAmt: "969999"
   fundProgramName: "SBIR Phase II"
   id: "1853212"
-  ttopic: "ea"
+  ttopic: "lc"
   covid: ""
   piEmail: "skyler@infinidlearning.com"
   piFirstName: "Anthony"
@@ -14635,7 +14635,7 @@
   investigatorMiddleName: "S"
   prcCodes: "169E, 1707, 5373, 7218, 8031, 8240"
   programCode: "5373"
-  topicName: "Educational Technologies and Application"
+  topicName: "Learning and Cognition Technologies"
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation\
     \ Research (SBIR) Phase II project is to attempt to reduce the largest financial\
     \ protection gap in the world: the impact of a great earthquake on a major population\
@@ -15108,7 +15108,7 @@
   fundsObligatedAmt: "838000"
   fundProgramName: "SBIR Phase II"
   id: "1926849"
-  ttopic: "sh"
+  ttopic: "dh"
   covid: ""
   piEmail: "luke@vitalflohealth.com"
   piFirstName: "Luke"
@@ -15126,7 +15126,7 @@
   investigatorMiddleName: "G"
   prcCodes: "7744, 8032, 8240, 9102, 9251, 9261"
   programCode: "5373"
-  topicName: "Smart Health"
+  topicName: "Digital Health"
 - abstractText: |-
     The broader/commercial impact of this SBIR phase II project will develop magnetic and fluorescent reagents for the separation and analysis of cells from tissue samples stored in biobanks, central repositories for biological samples, including tissues, cells, blood, sera, and urine, and their associated patient data, used in research to identify new methods to diagnose and treat disease; this industry is currently $52 B/yr with a compound annual growth rate (CAGR) of 4.5%.  Biobank samples typically consist of a mixture of pathologically normal and diseased cells and tissues, requiring separation.  Sample quality is thus critical for biobanks. The cell separation market ($3.9 B/yr, CAGR 4.1%) is dominated by the flow cytometry segment ($3.1 B/yr, CAGR 3.6%); whereas magnetic cell separation is a growing market ($582 M/yr by 2020 CAGR of 6.4%). Most biobanks currently provide unpurified samples or samples purified via flow cytometry alone, with typical recoveries of <10% at purities of ~20%. This research will develop and commercialize reagents that combine magnetic separation with flow cytometry analysis for target cell purification from biobank tissue samples. In the company's Phase I research of cells in suspension, these reagents yielded ~100% recovery with purities >75%. This research will expand this technology to tissue homogenates with increased heterogeneity and viscosity, increasing purity of biobank samples and enhancing researcher ability to develop breakthrough medical technologies.
 
