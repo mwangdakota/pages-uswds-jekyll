@@ -22,5 +22,5 @@ You can find the terms and conditions for your SBIR/STTR project linked in your 
 
 ## Registering you intellectual property
 
-Per the Bayh-Dole Act, any intellectual property (IP) resulting from your work under this award **must** be registered with the [iEdison database](https://public.era.nih.gov/iedison/public/login.do?TARGET=https%3A%2F%2Fpublic.era.nih.gov%3A443%2Fiedison%2Finit.do) at the National Institutes of Health (NIH). **You own the IP but you must register it.** The Bayh-Dole Invention Step Guide gives you instructions on how to register your IP. 
+Per the Bayh-Dole Act, any intellectual property (IP) resulting from your work under this award **must** be registered with the [iEdison database](https://www.nist.gov/iedison) at the National Institutes of Health (NIH). **You own the IP but you must register it.** The Bayh-Dole Invention Step Guide gives you instructions on how to register your IP. 
  
