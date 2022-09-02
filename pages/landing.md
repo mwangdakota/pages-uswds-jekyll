@@ -185,11 +185,11 @@ What we look for
             <article class="slide current" role="group" aria-roledescription="slide" aria-label="Testimonial 1">
               <img src="{{ site.baseurl }}/assets/img/showcase/thousandEyes.jpg" alt="Photo of Mohit Lad" />
               <blockquote>
-                <p>"The grants we received from NSF were instrumental in building the first version of our product and acquiring our first customers"</p>
+                <p>"The grants we received from NSF were instrumental in building the first version of our product and acquiring our first customers. When we received our Phase I funding in 2010 we were two founders. As of 2022, our team within Cisco has grown to 700 employees and growing."</p>
                 <hr class="divider divider-left" />
                 <cite>
                   <strong>Mohit Lad</strong>
-                  <span>CEO of ThousandEyes</span>
+                  <span>CEO, ThousandEyes, acquired by Cisco for $1 billion, <a href="https://www.cnbc.com/2020/05/28/cisco-acquires-thousandeyes-to-make-deeper-push-into-software.html" target="_blank">according to CNBC</a></span>
                 </cite>
               </blockquote>
             </article>
