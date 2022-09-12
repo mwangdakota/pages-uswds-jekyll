@@ -189,7 +189,7 @@ What we look for
                 <hr class="divider divider-left" />
                 <cite>
                   <strong>Mohit Lad</strong>
-                  <span>CEO, ThousandEyes, acquired by Cisco for $1 billion, <a href="https://www.cnbc.com/2020/05/28/cisco-acquires-thousandeyes-to-make-deeper-push-into-software.html" target="_blank">according to CNBC</a></span>(<span>Co-Founder & CEO, <a href="http://www.aalphabio.com/" target="_blank">A-Alpha Bio</a> (<a href="{{ site.baseurl }}/awardees/history/details/?company=thousand-eyes">NSF-1058602</a>)</span>)
+                  <span>CEO, ThousandEyes, acquired by Cisco for $1 billion, <a href="https://www.cnbc.com/2020/05/28/cisco-acquires-thousandeyes-to-make-deeper-push-into-software.html" target="_blank">according to CNBC</a></span>(<span>Co-Founder & CEO, <a href="http://www.aalphabio.com/" target="_blank">A-Alpha Bio</a> (<a href="{{ site.baseurl }}/portfolio/details/?company=thousand-eyes">NSF-1058602</a></span>)
                 </cite>
               </blockquote>
             </article>
