@@ -50,6 +50,6 @@ For general NSF questions, please visit the [NSF's page here](https://www.nsf.go
 
 The [NSF logo (and guidance for its use)](https://www.nsf.gov/policies/logos.jsp) is available for use by current and former NSF awardees.
 
-To learn more about the SBIR/STTR program at other government agencies, visit the [Small Business Administration's SBIR website](https://www.sbir.gov/#).
+To learn more about the status of [SBIR/STTR authorization]({{ site.baseurl }}/SBIR-reauthorization/) or the SBIR/STTR program at other government agencies, visit the [Small Business Administration's SBIR website](https://www.sbir.gov/#).
 
 We also have a [one sheet (PDF)]({{site.baseurl}}/assets/files/press/overview.pdf) covering program basics and points of interest.
