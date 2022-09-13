@@ -4,7 +4,7 @@ permalink: /SBIR-reauthorization/
 layout: secondary
 ---
 
-<section class="section-header background-light-blue">
+<section class="background-light-blue">
 <div class="usa-section usa-content usa-grid">
 <div class="usa-width-one-whole" markdown="0">
 
