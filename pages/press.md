@@ -1,6 +1,8 @@
 ---
 title: Press
 permalink: /press/
+redirect_from:
+  - /SBIR-reauthorization/
 layout: secondary-narrow
 ---
 
