@@ -35,7 +35,7 @@ In the event the grantee desires to continue the project with a substitute PI/PD
 ## Change of PI request from PI to SRO  
 
 1. Select **Forward to SRO** to submit the request. The **Change of PI Request Verification** screen will appear.
-2. Select **Forward to SPO** again to confirm the action.
+2. Select **Forward to SRO** again to confirm the action.
 3. If your forward was successful, you'll see a **FORWARDED** message onscreen:  
 >Forwarded Add Co-PI/Change of PI/Co-PI to SPO  
 >Award #: XXXXXXX  
