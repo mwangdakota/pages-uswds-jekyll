@@ -77,8 +77,8 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <section class="usa-section full-bleed-bg">
   <h2>Ready to submit your proposal?</h2>
    <p>
-       <br>The Fastlane system allows you to create your proposal piece by piece, so there’s no need to have everything ready before you start working in Fastlane (and we recommend exploring the Fastlane interface once or twice before starting to write the various proposal documents).</p>
-  <p><span style="color:red">Proposals must be submitted in Fastlane by October 26, 2022.  Beginning October 27, 2022, proposals will NOT be accepted in Fastlane.</span></p>
+       <br>The FastLane system allows you to create your proposal piece by piece, so there’s no need to have everything ready before you start working in FastLane (and we recommend exploring the FastLane interface once or twice before starting to write the various proposal documents).</p>
+  <p><span style="color:red">Proposals must be submitted in FastLane by October 26, 2022.  Beginning October 27, 2022, proposals will NOT be accepted in FastLane.</span></p>
   <a class="usa-button usa-button-secondary" href="https://www.fastlane.nsf.gov/">Submit your proposal</a>
   
 </section>

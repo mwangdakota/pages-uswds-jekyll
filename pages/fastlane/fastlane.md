@@ -12,7 +12,7 @@ Please contact the FastLane Help Desk (1-800-673-6188 or [fastlane@nsf.gov](mail
 
 FastLane will not accept proposals after 5:00 PM submitter’s time on the submission window closing date. We encourage you to follow guidance from your program director about when and how to submit your proposal.
 
-<span style="color:red">Proposals must be submitted in Fastlane by October 26, 2022.  Beginning October 27, 2022, proposals will NOT be accepted in Fastlane.</span>
+<span style="color:red">Proposals must be submitted in FastLane by October 26, 2022.  Beginning October 27, 2022, proposals will NOT be accepted in FastLane.</span>
 
 ## 1. Proposal Overview
 
