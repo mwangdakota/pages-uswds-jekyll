@@ -79,6 +79,37 @@ review:
   - text: Virtual panels
     href: /resources/review/virtual-panelist/
 
+submission-guide:
+  - text: Overview
+    href: /submission-guide/
+  - text: Project Pitch Guide
+    href: /project-pitch/guide/
+    target: '_blank'
+  - text: Registrations
+    href: /submission-guide/registrations/
+  - text: Submission Guide
+    href: /submission-guide/details/
+  - text: Definitions
+    href: /submission-guide/definitions/
+  - text: Fastlane guide
+    href: /fastlane/
+
+review:
+  - text: Reviewers
+    href: /resources/review/
+  - text: Review process
+    href: /resources/review/review-process/
+  - text: Merit review
+    href: /resources/review/merit-review/
+  - text: Instructions for panelists
+    href: /resources/review/panelist-system/
+  - text: Instructions for mail reviewers
+    href: /resources/review/merit-mail-review/
+  - text: Travel instructions
+    href: /resources/review/travel/
+  - text: Virtual panels
+    href: /resources/review/virtual-panelist/
+
 phase-1:
   - text: The basics
     href: /resources/awardees/phase-1/
