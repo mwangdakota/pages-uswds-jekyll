@@ -7,7 +7,7 @@ sidenav: phase-1
 
 # Apply for Phase II
 
-Interested in applying for Phase II funding? Review this information before starting your application.
+Interested in applying for Phase II funding? Review this information before starting your application. Please note: New SBIR/STTR Phase I proposals are not being accepted until the next solicitation is released in early November. Read the last solicitation if you’d like to get a sense of what’s needed when you create your full proposal.
 
 <a class="usa-button usa-button-primary button-arrow" href="{{ site.data.solicitations['PHASE_II'].url }}">
   Read the SBIR/STTR Phase II Solicitation</a>
@@ -22,7 +22,6 @@ Interested in applying for Phase II funding? Review this information before star
 ## Award amount 
 
 - As of summer 2020, Phase II awards are funded up to $1 million for up to 24 months.
-- This amount includes up to $50,000 to be used by the Phase II awardee for commercial assistance under the SBIR [Technical and Business Assistance (TABA) legislation]({{ site.data.solicitations['PHASE_II'].url }}) for details.
 
 ## Technical narrative 
 
