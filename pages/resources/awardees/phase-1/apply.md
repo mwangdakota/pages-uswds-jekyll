@@ -7,7 +7,7 @@ sidenav: phase-1
 
 # Apply for Phase II
 
-Interested in applying for Phase II funding? Review this information before starting your application. Please note: New SBIR/STTR Phase I proposals are not being accepted until the next solicitation is released in early November. Read the last solicitation if you’d like to get a sense of what’s needed when you create your full proposal.
+Interested in applying for Phase II funding? Review this information before starting your application. Please note: New SBIR/STTR Phase II proposals are not being accepted until the next solicitation is released in early November. Read the last solicitation if you’d like to get a sense of what’s needed when you create your full proposal.
 
 <a class="usa-button usa-button-primary button-arrow" href="{{ site.data.solicitations['PHASE_II'].url }}">
   Read the SBIR/STTR Phase II Solicitation</a>
