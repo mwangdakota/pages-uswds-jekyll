@@ -41,7 +41,7 @@ You must submit a technical narrative as a component of your Phase II proposal.
 
 ## Administrative and financial capability reviews
 
-- If your Phase II proposal is considered potentially meritorious for funding, you will be required to undergo an [administrative and financial capability review]((http://www.nsf.gov/bfa/dias/caar/sbirrev.jsp) in the latter stages of the Phase II review process
+- If your Phase II proposal is considered potentially meritorious for funding, you will be required to undergo an [administrative and financial capability review](http://www.nsf.gov/bfa/dias/caar/sbirrev.jsp) in the latter stages of the Phase II review process
 - [These videos](https://www.youtube.com/playlist?list=PLGhBP1C7iCOmI1p5UtqYCXzmUL9SzSApv) also explain the review processes and how to prepare for them.
 
 ## Proposal contents
