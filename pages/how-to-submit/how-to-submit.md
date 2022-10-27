@@ -6,11 +6,32 @@ sidenav: how-to-submit
 ---
 # Overview
 
-Read this guide to help you submit a Small Business Innovation Research (SBIR) or Small Business Technology Transfer (STTR) Phase I Proposal in FastLane. (A PDF version of this guide is also available for [download]({{ site.baseurl }}/assets/files/applicants/Phase_I_Proposal_Preparation_Booklet.pdf)).
+Use this guide to help you submit a Small Business Innovation Research (SBIR) or Small Business Technology Transfer (STTR) Phase I or Phase II proposal in Research.gov. (A PDF version of this guide is also available for [download]( {{ site.baseurl }}/assets/files/applicants/Phase_I_Proposal_Preparation_Booklet.pdf)).
 
-Please contact the FastLane Help Desk (1-800-673-6188 or [fastlane@nsf.gov](mailto:fastlane@nsf.gov)) for IT system or ADA and 508 compliance-related questions (7:00 AM – 9:00 PM Eastern Time; Monday – Friday except federal holidays). SBIR and STTR program-related questions should be directed to [sbir@nsf.gov](mailto:sbir@nsf.gov).  
+New in November 2022, NSF will only accept full proposals from startups and small businesses via Research.gov, a new proposal submission portal that allows applicants to create, submit, track and update full proposals.  (The system and process used to submit Project Pitches has not changed.)
 
-FastLane will not accept proposals after 5:00 PM submitter’s time on the submission window closing date. We encourage you to follow guidance from your program director about when and how to submit your proposal.
+Access [Research.gov](https://identity.research.gov/sso/UI/Login?realm=%2Fresearch&goto=https%3A%2F%2Fidentity.research.gov%3A443%2Fsso%2Foauth2%2Fauthorize%3Fresponse_type%3Dtoken%26scope%3Dprofile%26client_id%3Dpsm.prod.oauth%26redirect_uri%3Dhttps%253A%252F%252Fwww.research.gov%252Fproposalprep%252Fiam%252Fauth-response.html) to submit a full Phase I or Phase II SBIR/STTR proposal. Visit the [Research.gov About Page](https://www.research.gov/research-web/content/aboutpsm) to help you prepare and submit your proposal. 
 
-<span style="color:red">Proposals must be submitted in FastLane by October 26, 2022.  Beginning October 27, 2022, proposals will NOT be accepted in FastLane.</span>
+## Research.gov help desk
+Please contact the Research.gov Help Desk (1-800-381-1532 or [rgov@nsf.gov](mailto:rgov@nsf.gov) ) for IT system or accessibility-related questions (7:00 AM – 9:00 PM Eastern Time; Monday – Friday except federal holidays). 
 
+## Before you submit
+
+### Were you invited to submit a proposal?
+
+NSF SBIR/STTR Phase I applicants are REQUIRED to submit a “Project Pitch” that outlines the project objectives, technical innovation and associated technical risks. Projects that seem to be a good fit will be officially INVITED to submit a full proposal. 
+
+Only invited SBIR/STTR proposals will be reviewed by NSF. To learn more about the Project Pitch, please visit How It Works. 
+
+### Applying for Phase II? [h3] 
+
+Only NSF Phase I SBIR/STTR awardees are permitted to submit a Phase II proposal.  
+We encourage you to follow guidance from your program director about when and how to submit your Phase II proposal. 
+
+## Preparing your proposal
+
+### Read the SBIR/STTR Solicitation 
+The Phase I and Phase II SBIR/STTR Solicitations explains what information should go in thethe content needed in your proposal. We also encourage you to join an upcoming webinar to help you prepare your proposal or to reach out to the relevant SBIR/STTR program director if you have questions about the Phase I proposal and review process. 
+
+### Proposal content questions  
+SBIR and STTR program-related questions should be directed to sbir@nsf.gov. 
