@@ -6,8 +6,6 @@ sidenav: how-to-submit
 ---
 # Required Registrations
 
-### Do you have the required registrations?
-
  [NSF Research.gov](https://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_home_page) 
   
   Organizations new to NSF must register via the account management system in <a href="https://www.research.gov" target="_blank">Research.gov</a>.
