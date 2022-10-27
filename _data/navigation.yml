@@ -91,13 +91,12 @@ how-to-submit:
     href: /how-to-submit/new-organization/
   - text: Proposal Submission
     href: /how-to-submit/submission/proposal-submission/
-    links: 
-      - text: Access Research.gov
-        href: /how-to-submit/submission/access/
-      - text: Pick the solicitation
-        href: /how-to-submit/submission/solicitation/
-      - text: Find Research.gov help guides
-        href: /how-to-submit/submission/help-guides/
+  - text: Access Research.gov
+    href: /how-to-submit/submission/access/
+  - text: Pick the solicitation
+    href: /how-to-submit/submission/solicitation/
+  - text: Find Research.gov help guides
+    href: /how-to-submit/submission/help-guides/
   - text: Definitions
     href: /how-to-submit/definitions/
   - text: Fastlane guide
