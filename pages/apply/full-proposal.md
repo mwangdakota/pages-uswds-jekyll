@@ -16,7 +16,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 {% include apply-nav.html %}
 <section class="usa-section full-bleed-bg">
   <h2>Submission</h2>
-  <p>We recommend treating the submission window like a deadline, but you can submit anytime within a year of receiving an official invitation from NSF. (NSF uses quarterly submission windows to help gather and review proposals, but sometimes proposals are reviewed as they are received.)</p>
+  <p>We recommend treating the submission window like a deadline, but you can submit anytime within a year of receiving an official invitation from NSF. (NSF uses periodic submission windows to help gather and review proposals, but sometimes proposals are reviewed as they are received.)</p>
   <p>After a brief pause, new Phase I and Phase II SBIR/STTR solicitations are expected in early November.</p>
 </section>
 
@@ -24,7 +24,8 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
   <h2>Next steps</h2>
   <p>Ready to get started? You'll need to read the official policy document (the solicitation) which outlines the official requirements, key elements and supplemental information you'll need to draft your proposal. We also recommend that you start the registration process right away.</p>
   <p><b>Read the call for proposals (solicitation)</b>
-    <br>NSF has one Phase I solicitation: the Small Business Innovation Research (SBIR) and the Small Business Technology Transfer (STTR). SBIR proposals do not require that the startup partner with an eligible research institution. In an STTR proposal, the startup must perform a minimum of 40% of the research, as measured by the budget, and a minimum of 30% of the research must be performed by the partner research institution. NSF plans to issue new a new SBIR/STTR Phase I solicitation in early November. Read the last solicitation if you’d like to get a sense of what’s needed when you create your full proposal.</p>
+    <br>NSF has one Phase I solicitation: the Small Business Innovation Research (SBIR) and the Small Business Technology Transfer (STTR). SBIR proposals do not require that the startup partner with an eligible research institution. In an STTR proposal, the startup must perform a minimum of 40% of the research, as measured by the budget, and a minimum of 30% of the research must be performed by the partner research institution.</p>
+  <p>NSF plans to issue new a new SBIR/STTR Phase I solicitation in early November. Read the last solicitation if you’d like to get a sense of what’s needed when you create your full proposal.</p>
   <p>
     <a class="usa-button usa-button-secondary"
         href="{{ site.data.solicitations['SBIR_STTR'].url }}" target="_blank">Read the SBIR/STTR solicitation</a>
