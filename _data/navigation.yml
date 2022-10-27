@@ -79,18 +79,27 @@ review:
   - text: Virtual panels
     href: /resources/review/virtual-panelist/
 
-submission-guide:
+how-to-submit:
   - text: Overview
-    href: /submission-guide/
+    href: /how-to-submit/
   - text: Project Pitch Guide
     href: /project-pitch/guide/
     target: '_blank'
-  - text: Registrations
-    href: /submission-guide/registrations/
-  - text: Submission Guide
-    href: /submission-guide/details/
+  - text: Required Registrations
+    href: /how-to-submit/registrations/
+  - text: Research.gov
+    href: /how-to-submit/new-organization/
+  - text: Proposal Submission
+    section: submission
+    href: /how-to-submit/submission/proposal-submission/
+  - text: Access Research.gov
+    href: /how-to-submit/submission/access/
+  - text: Pick the solicitation
+    href: /how-to-submit/submission/solicitation/
+  - text: Find Research.gov help guides
+    href: /how-to-submit/submission/help-guides/
   - text: Definitions
-    href: /submission-guide/definitions/
+    href: /how-to-submit/definitions/
   - text: Fastlane guide
     href: /fastlane/
 
