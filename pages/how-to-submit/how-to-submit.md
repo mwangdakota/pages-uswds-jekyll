@@ -6,7 +6,7 @@ sidenav: how-to-submit
 ---
 # Overview
 
-Use this guide to help you submit a Small Business Innovation Research (SBIR) or Small Business Technology Transfer (STTR) Phase I or Phase II proposal in Research.gov. (A PDF version of this guide is also available for [download]( {{ site.baseurl }}/assets/files/applicants/Phase_I_Proposal_Preparation_Booklet.pdf)).
+Use this guide to help you submit a Small Business Innovation Research (SBIR) or Small Business Technology Transfer (STTR) Phase I or Phase II proposal in Research.gov. 
 
 New in November 2022, NSF will only accept full proposals from startups and small businesses via Research.gov, a new proposal submission portal that allows applicants to create, submit, track and update full proposals.  (The system and process used to submit Project Pitches has not changed.)
 
