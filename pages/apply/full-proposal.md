@@ -53,9 +53,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
                 target="_blank">Research.gov (Online Grant Management for the NSF Community)</a></h3>
             <p><strong>Processing time:</strong> Up to 48 hours</p>
            
-            <p>Before applying, you need to register your company with NSF in Research.gov. Only after registering
-              with Research.gov can you login to <a href="https://www.fastlane.nsf.gov/" target="_blank">FastLane</a>
-              and begin preparing your proposal. (SBIR and STTR proposals are not accepted in Research.gov). We
+            <p>Before applying, you must register your company with NSF in Research.gov. Only after registering with Research.gov can you login and begin preparing your proposal. (SBIR and STTR proposals are not accepted in Research.gov). We
               recommend you explore FastLane before submitting your application.
             </p>
             <h3 id="sbir-company-registry"><a href="http://sbir.gov/registration" target="_blank">SBIR Company
@@ -72,8 +70,9 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 
 <section class="usa-section full-bleed-bg">
   <h2>Ready to submit your proposal?</h2>
-   <p>
-      New proposals are not being accepted until the next SBIR/STTR solicitations are released in early November.
+   <p>Research.gov allows you to create your proposal piece by piece, so there’s no need to have everything ready before you start. See our <a href="{{ site.baseurl }}/how-to-submit/">proposal submission guide</a> to help you navigate the system.</p>
+  <p>
+    <a class="usa-button usa-button-secondary" href="https://www.research.gov/research-web/" target="_blank">Submit your proposal</a>
   </p>
   
 </section>
@@ -81,16 +80,13 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <section class="usa-section full-bleed-bg--lightblue">
   <h2>Submission resources</h2>
    <p><b>Frequently asked questions</b>
-    <br>Have lingering questions? <a href="https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22053">Visit our FAQ</a>, which cover the pre-application process to post-award reporting (and
-    everything in between).
+    <br>Have lingering questions? <a href="https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22053">Visit our FAQ</a>, which cover the pre-application process to post-award reporting (and everything in between).
   </p>
-  <p><b>FastLane guide</b>
-    <br>Read our step-by-step <a href="{{ site.baseurl }}/fastlane/">FastLane guide</a>. We have screenshots to help walk you through the submission process.
+  <p><b>Proposal submission guide</b>
+    <br>See our <a href="{{ site.baseurl }}/how-to-submit/">proposal submission guide</a> to help you navigate entering proposal data into the system.
   </p>
   <p><b>Understanding the review process</b>
-    <br>The merit review
-      process enables NSF to make wise investments in all fields of science and engineering research and
-    education. Please review information on our <a href="{{ site.baseurl }}/resources/review/merit-review/">merit review</a> criteria to understand what we mean by intellectual merit, broader impacts and commercial impacts. <br>
+    <br>The merit review process enables NSF to make wise investments in all fields of science and engineering research and education. Please review information on our <a href="{{ site.baseurl }}/resources/review/merit-review/">merit review</a> criteria to understand what we mean by intellectual merit, broader impacts and commercial impacts.<br>
   </p>
 </section>
 
