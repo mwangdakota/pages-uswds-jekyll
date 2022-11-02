@@ -51,7 +51,7 @@ Qualifying third party funds should meet these requirements:
 - The transfer of funds to the awardee could occur up-front or over a clearly defined contracted date-certain payment schedule to occur during the proposed Phase IIB project period (not to exceed 2 years), and proof of receipt of the third party money will need to be provided to NSF to receive matching Phase IIB funds.
 - The legal agreements in the Financial Package need to have been executed prior to formal NSF review of eligibility for Phase IIB supplemental funding.
 - Funds from multiple unrelated third parties may be presented in a combined Financial Package. This may be particularly the case where the third party money is the result of sales, licensing, etc.
-- Any third-party investment funds in excess of $500,000 must come from private-sector (non-governmental) sources. **Definition of a Third party investor:** [https://seedfund.nsf.gov/fastlane/definitions/#third-party-investor]({{ site.baseurl }}/how-to-guide/definitions/#third-party-investor)
+- Any third-party investment funds in excess of $500,000 must come from private-sector (non-governmental) sources. **Definition of a Third party investor:** [https://seedfund.nsf.gov//how-to-guide/definitions/#third-party-investor]({{ site.baseurl }}/how-to-guide/definitions/#third-party-investor)
 
 ### Amount of third party funds
 The Financial Package must include a minimum of $100,000 of qualifying funds. NSF will match up to 50% of qualifying funds received. Phase IIB supplemental awards will be made for a minimum of $50,000 and a maximum of $500,000.
