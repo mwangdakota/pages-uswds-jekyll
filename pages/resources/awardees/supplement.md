@@ -63,7 +63,7 @@ NSF does not place restrictions on how the awardee spends the third party funds.
 NSF match funds shall only be used for research & development activities that further build on the Phase II program and catalyze acceleration towards commercialization.
 
 ## Phase IIB Proposal Preparation
-Phase IIB proposals MUST be submitted using FastLane. The Phase IIB proposal shall not exceed 15 pages. The additional work proposed should be an expansion of the technical work being performed in the Phase II project and must fall within the scope of the present Phase II project. The proposal will contain the following:
+Phase IIB proposals MUST be submitted using Research.gov. The Phase IIB proposal shall not exceed 15 pages. The additional work proposed should be an expansion of the technical work being performed in the Phase II project and must fall within the scope of the present Phase II project. The proposal will contain the following:
 
 ### The following sections count toward the 15 pages
 
@@ -78,17 +78,10 @@ Phase IIB proposals MUST be submitted using FastLane. The Phase IIB proposal sha
 - A new [Certificate of Current Cost Pricing Data]({{site.baseurl}}/assets/files/awardees/Certificate_of_Current_Cost.docx)
 - A new budget for the portion of the funds requested from NSF for the Phase IIB project and budget line item justification
 
-### The following are the steps for preparing the proposal using the FastLane system.
+### Add/delete non Co-PI senior personnel
+Log into Research.gov and access the Account Management system. The system includes pages for Administrators to manage user and organization information and pages for users to self-manage their roles and profile information. Access these pages and the updated functionality by signing in to [Research.gov](https://www.research.gov/research-web/) and clicking on the “**My Profile**” link in the top right.  
 
-- Go to the FastLane Home Page (www.fastlane.nsf.gov)
-- Select the **"Proposals, Awards, & Status"** link
-- Provide "Log in" information
-- Select Award and Reporting Functions
-- The next screen provides you with 6 Award and Reporting Functions.
-- Select: **"Supplemental Funding Request"**
-- A List of Current Awards appears; highlight the award that you wish to prepare the supplement for; select: "Prepare Supplemental Funding Request.
-- The next screen Request for Supplemental Funding appears showing all the supplemental funding requests created for this award. Click on **"Create New Supplemental Funding Request"**.
-- The Form Preparation Screen Appears (also note the supplemental request has a temporary proposal number assigned). Prepare the selected supplement using the "GO" buttons. The following information MUST be provided for each "GO Button":
+Visit the [Research.gov Account Management About page](https://www.research.gov/research-web/content/aboutaccountmanagement) to download instructions and for navigating the system. 
 
 ### Summary of proposed work
 
@@ -103,48 +96,39 @@ Phase IIB proposals MUST be submitted using FastLane. The Phase IIB proposal sha
 
 Upload the following documents (combine the two word documents and upload as one file).
 
-- [New Milestone Chart](({{site.baseurl}}/assets/files/awardees/Blank_Milestone_Chart.xlsx))
+- [New Milestone Chart]({{site.baseurl}}/assets/files/awardees/Blank_Milestone_Chart.xlsx)
 - [Certificate of Current Cost Pricing Data]({{site.baseurl}}/assets/files/awardees/Certificate_of_Current_Cost.docx)
 
 ### Revised xxpiration date:
 
-Add 12 months (or **24 months for a Phase IIB over $250,000**) to your current expiration date.
+You may add 12 months (or **24 months for a Phase IIB request over $250,000**) to the duration of your existing Phase II project.  Please contact your cognizant PD to discuss if needed.  
+
+Budgets, budget justifications, and certifications
+
+Prepare new budget for the Phase IIB activities (only the NSF funding).  Provide complete line item justification for **ALL** budget items.
+
+Include the following statements/certifications (as part of the budget justification):
+
+- [NSF SBIR/STTR Funding Agreement Certification Form]({{site.baseurl}}/assets/files/awardees/SBIR_STTR_Funding_Agreement.pdf) **OR** a statement that “The certifications made under the Phase II award remain true and current, and the signed Funding Agreement Certification for the Phase II award was submitted with award XXXXXXX”, **OR** an updated NSF SBIR/STTR Funding Agreement Certification Form.
+- A statement that “The budget rates in the Phase IIB budget are identical or lower than those in the Phase II budget approved by NSF.” Rates include salaries, indirect costs, fringe benefits, overhead, G&A, unit cost rates, etc.
+- Only individuals that the company has designated as the “Authorized Organizational Representative” can submit the Phase IIB proposal.
+
+### Award and Payment Procedures
+A Phase IIB applicant will be notified of the funding recommendation within 60 days of submission.
+
+All third-party investment funds upon which the Phase IIB supplement is made must be transferred to the company by the end of the Phase IIB supplement. Additionally, the final payment for the original Phase II award will be held back and made only when the Phase II and Phase IIB projects are completed.
+
+The Phase IIB match will typically be released under the following schedule:
+
+For Phase IIB supplements up to $250,000 (12-month projects): 50% will be released as the advance payment and 50% with an approved 6-month interim report.
+
+For Phase IIB supplements greater than $250,000 (24-month projects): 25% will be released upon Phase IIB award; 25% with an approved 6-month interim report; 25% with an approved 12-month interim report and 25% with an approved 18-month interim report.
+
+- If the Phase IIB financial package included transactions for which some of the funds had not yet been received by the companyPayments will be released upon receipt of proof that the funds have been transferred from the third party to the NSF awardee, typically in the form of a bank statement. Therefore, the payment schedules above may be modified according to the details of the release schedule of the third party money if these funds are not provided up-front. That is, NSF funds (50% match) will only be disbursed at any given time according to the amount of third party funds for which NSF has been provided proof of receipt.
 
 ### Budgets, budget justifications, and certifications
 
-Prepare new budget for the Phase IIB activities (only the NSF funding). Make sure to budget one or two trips to the SBIR/STTR Phase II Awardees Conference depending on the length of the grant extension. Provide complete line item justification for **ALL** budget items.
+Prepare new budget for the Phase IIB activities (only the NSF funding). Make sure to budget one or two trips to the SBIR/STTR Phase II Awardees Conference depending on the length of the grant extension. Provide complete line item justification for ALL budget items.
 
-- [NSF SBIR/STTR Funding Agreement Certification Form]({{site.baseurl}}/assets/files/awardees/SBIR_STTR_Funding_Agreement.pdf) **OR** a statement that "The certifications made under the Phase II award remain true and current, and the signed Funding Agreement Certification for the Phase II award was submitted with award XXXXXXX", **OR** an updated NSF SBIR/STTR Funding Agreement Certification Form.
-- A statement that "The budget rates in the Phase IIB budget are identical or lower than those in the Phase II budget approved by NSF." Rates include salaries, indirect costs, fringe benefits, overhead, G&A, unit cost rates, etc.
-
-### Add/delete non Co-PI senior personnel
-Use this module if personnel for the Phase IIB activities will change from the present Phase II project
-- Complete all required forms and then click on "Go Back"
-- At the "Request for Supplemental Funding" screen click on "Allow SRO Access"
-- At the "Sponsored Research Office (SRO) Access Control" screen, select "Allow SRO to view, edit and submit proposal"
-- A confirmation message stating that the SRO has access to the proposal will appear.
-- To actually submit the Phase IIB proposal the following steps will need to be performed. This can only be done by the individual that the company has designated as the "Authorized Organizational Representative"
-  - Go to the FastLane Home Page.
-  - Select from the "Research Administration" tab
-  - Provide Log in information.
-  - From "Research Administration Functions" select the Submit Proposals to NSF GO button
-  - In the Proposals in Progress Window, select "Submit"
-
-If you have problems or questions please contact the **NSF FastLane Help Desk at 1-800-673-6188.** Make sure to inform the Help Desk that you are submitting a Supplemental Funding Request.
-
-## Award and Payment Procedures
-A Phase IIB applicant will be notified of the funding recommendation within 60 days of submission.
-
-All third party investment funds upon which the Phase IIB supplement is made must be transferred to the company by the end of the Phase IIB supplement. Additionally, final payment for the original Phase II will be made at the end of the Phase IIB supplement.
-
-### The Phase IIB match will typically be released under the following schedule:
-
-For Phase IIB supplements up to $250,000 (12 month extension) 50% will be released as the advance payment and 50% with an approved 6-month interim report.
-
-For Phase IIB supplements greater than $250,000 (24 month extension) 25% will be released as the advance payment; 25% with an approved 6-month interim report; 25% with an approved 12-month interim report and 25% with an approved 18-month interim report.
-
-* Payments will be released upon receipt of proof that the funds have been transferred from the third party to the NSF awardee, typically in the form of a bank statement. Therefore, the payment schedules above may be modified according to the details of the release schedule of the third party money if these funds are not provided up-front. That is, NSF funds (50% match) will only be disbursed at any given time according to the amount of third party funds for which NSF has been provided proof of receipt.
-
-## Reporting Requirements
-
-In updating the milestone chart, the reports due during the Phase IIB supplement period should reflect the progress of both the Phase II and IIB programs using the standard progress report format. Upon completion of the Phase IIB, complete documentation, including initial Phase II as well as Phase IIB supplemental activities must be reported.
+- NSF SBIR/STTR Funding Agreement Certification Form OR a statement that “The certifications made under the Phase II award remain true and current, and the signed Funding Agreement Certification for the Phase II award was submitted with award XXXXXXX”, OR an updated NSF SBIR/STTR Funding Agreement Certification Form.
+- A statement that “The budget rates in the Phase IIB budget are identical or lower than those in the Phase II budget approved by NSF.” Rates include salaries, indirect costs, fringe benefits, overhead, G&A, unit cost rates, etc.
