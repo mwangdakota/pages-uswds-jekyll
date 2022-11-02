@@ -53,9 +53,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
                 target="_blank">Research.gov (Online Grant Management for the NSF Community)</a></h3>
             <p><strong>Processing time:</strong> Up to 48 hours</p>
            
-            <p>Before applying, you must register your company with NSF in Research.gov. Only after registering with Research.gov can you login and begin preparing your proposal. (SBIR and STTR proposals are not accepted in Research.gov). We
-              recommend you explore FastLane before submitting your application.
-            </p>
+            <p>Before applying, you must register your company with NSF in Research.gov. Only after registering with Research.gov can you login and begin preparing your proposal.             </p>
             <h3 id="sbir-company-registry"><a href="http://sbir.gov/registration" target="_blank">SBIR Company
                 Registry</a></h3>
             <p>Finally, you need to register with the SBIR Company Registry (operated by the Small Business
