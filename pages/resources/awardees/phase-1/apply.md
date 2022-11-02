@@ -35,9 +35,9 @@ You must submit a technical narrative as a component of your Phase II proposal.
 
 ## Submission info
 
-- A company may submit a Phase II proposal anytime between six (6) months and two years (24 months) after the start date of the relevant Phase I award. The start date can be found on your Phase I award letter.
-- You’ll need to submit your Phase II SBIR or STTR proposal through FastLane.
-- If you’re an STTR Phase I awardee, you can now submit a SBIR Phase II proposal. [More information on switching from STTR to SBIR](http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf14103).
+- A company may generally submit a Phase II proposal anytime between six (6) months and two years (24 months) after the start date of the relevant Phase I award. Details can be found in the Phase II solicitation.
+- You’ll need to submit your Phase II SBIR or STTR proposal through Research.gov.
+- If you’re an STTR Phase I awardee, you can now submit a SBIR Phase II proposal (or vice-versa). [More information on switching from STTR to SBIR](http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf14103).
 
 ## Administrative and financial capability reviews
 
