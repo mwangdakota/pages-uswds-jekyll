@@ -99,7 +99,7 @@ Upload the following documents (combine the two word documents and upload as one
 - [New Milestone Chart]({{site.baseurl}}/assets/files/awardees/Blank_Milestone_Chart.xlsx)
 - [Certificate of Current Cost Pricing Data]({{site.baseurl}}/assets/files/awardees/Certificate_of_Current_Cost.docx)
 
-### Revised xxpiration date:
+### Revised expiration date:
 
 You may add 12 months (or **24 months for a Phase IIB request over $250,000**) to the duration of your existing Phase II project.  Please contact your cognizant PD to discuss if needed.  
 
@@ -124,7 +124,7 @@ For Phase IIB supplements up to $250,000 (12-month projects): 50% will be releas
 
 For Phase IIB supplements greater than $250,000 (24-month projects): 25% will be released upon Phase IIB award; 25% with an approved 6-month interim report; 25% with an approved 12-month interim report and 25% with an approved 18-month interim report.
 
-- If the Phase IIB financial package included transactions for which some of the funds had not yet been received by the companyPayments will be released upon receipt of proof that the funds have been transferred from the third party to the NSF awardee, typically in the form of a bank statement. Therefore, the payment schedules above may be modified according to the details of the release schedule of the third party money if these funds are not provided up-front. That is, NSF funds (50% match) will only be disbursed at any given time according to the amount of third party funds for which NSF has been provided proof of receipt.
+- If the Phase IIB financial package included transactions for which some of the funds had not yet been received by the company. Payments will be released upon receipt of proof that the funds have been transferred from the third party to the NSF awardee, typically in the form of a bank statement. Therefore, the payment schedules above may be modified according to the details of the release schedule of the third party money if these funds are not provided up-front. That is, NSF funds (50% match) will only be disbursed at any given time according to the amount of third party funds for which NSF has been provided proof of receipt.
 
 ### Budgets, budget justifications, and certifications
 
