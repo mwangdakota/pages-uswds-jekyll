@@ -21,10 +21,12 @@ Please contact the Research.gov Help Desk (1-800-381-1532 or [rgov@nsf.gov](ma
 
 NSF SBIR/STTR Phase I applicants are REQUIRED to submit a “Project Pitch” that outlines the project objectives, technical innovation and associated technical risks. Projects that seem to be a good fit will be officially INVITED to submit a full proposal. 
 
-Only invited SBIR/STTR proposals will be reviewed by NSF. To learn more about the Project Pitch, please visit How It Works. 
+Only invited SBIR/STTR proposals will be reviewed by NSF. To learn more about the Project Pitch, please visit [How It Works]({{ site.baseurl }}/apply/get-started/). 
+
 ### Applying for Phase II?
 
 Only NSF Phase I SBIR/STTR awardees are permitted to submit a Phase II proposal.  
+
 We encourage you to follow guidance from your program director about when and how to submit your Phase II proposal. 
 
 ## Preparing your proposal
