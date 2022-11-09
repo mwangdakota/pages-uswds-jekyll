@@ -58,14 +58,14 @@ SBIR and STTR program-related questions should be directed to sbir@nsf.gov.
   Step 2: Subrecipient(s) must register their organization with NSF:
   
   When the subrecipient(s) contacts the NSF Help Desk, inform the technician that this is an SBIR or STTR proposal requiring subrecipient organization registration. Please do not attempt to register the subrecipient organization with NSF in Research.gov because the system will generate an error and will not permit the subrecipient registration. To expediate the process, subrecipients should provide the following information for each unique subrecipient organization on the proposal:    
-    - Subrecipient UEI: Required
-    - Subrecipient Organization Name: Required
-    - Subrecipient Complete Address (Including City, State, and Zip): Required
-    - Subrecipient Phone Number: Optional
-    - Subrecipient POC: Optional
-    - Email of Subrecipient Organization: Optional   
+    - **Subrecipient UEI:** Required
+    - **Subrecipient Organization Name:** Required
+    - **Subrecipient Complete Address (Including City, State, and Zip):** Required
+    - **Subrecipient Phone Number:** Optional
+    - **Subrecipient POC:** Optional
+    - **Email of Subrecipient Organization:** Optional   
 
-Once these two steps are complete, the subrecipient organization may be added to the proposal with the UEI.
+  Once these two steps are complete, the subrecipient organization may be added to the proposal with the UEI.
 
 - [Small Business Administration (SBA) Company Registry](https://www.sbir.gov/registration)
   
