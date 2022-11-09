@@ -103,12 +103,12 @@ Follow the step-by-step process below to register a new organization in Research
 -	Click “Add Organizational Role” located in the “Add and Manage Organizations” box.
     -	Note: If an organization is new to NSF, you must start the process by setting yourself up as the Administrator for the new organization. You must have an NSF account to start this process. The system will automatically detect that the organization is new and will walk you through setting up the organization and Administrator role.
 
-![Add and manage organizations]({{ site.baseurl }}/assets/img/fastlane/Saveasarole.png)
+![Add and manage organizations]({{ site.baseurl }}/assets/img/submission/Saveasarole.png)
 
 -	If your organization is not already registered with NSF, a message will display to confirm that the organization is not found in NSF systems and you will be able to register the organization and become the first Administrator.
 -	If your organization is not already registered with NSF, a message will display to confirm that the organization is not found in NSF systems and you will be able to register the organization and become the first Administrator
 
-![Add a new role]({{ site.baseurl }}/assets/img/fastlane/Add_role.png)
+![Add a new role]({{ site.baseurl }}/assets/img/submission/Add_role.png)
 
 **Helpful Tip:** If a new organization is registered with NSF without an Administrator, the first user to request a role will become the organization’s first Administrator.
 
@@ -117,16 +117,16 @@ Follow the step-by-step process below to register a new organization in Research
 -	Review your organization’s information for accuracy and click “Submit.” (Figure 5)
 -	The request to register your organization with NSF will be forwarded via email to your organization’s SAM points of contact for their information only. The SAM points of contact will **not** need to approve the request. (Figure 6)
 
-![Add Information]({{ site.baseurl }}/assets/img/fastlane/Add_contact1A.png)
+![Add Information]({{ site.baseurl }}/assets/img/submission/Add_contact1A.png)
 
-![Select role confirmation]({{ site.baseurl }}/assets/img/fastlane/Add_contact1B.png)
+![Select role confirmation]({{ site.baseurl }}/assets/img/submission/Add_contact1B.png)
 
-![Add new role review]({{ site.baseurl }}/assets/img/fastlane/Add_contact1C.png)
+![Add new role review]({{ site.baseurl }}/assets/img/submission/Add_contact1C.png)
 
-![Role assignment confirmation]({{ site.baseurl }}/assets/img/fastlane/Add_contact1D.png)
+![Role assignment confirmation]({{ site.baseurl }}/assets/img/submission/Add_contact1D.png)
 
 **Helpful Tip:** Once an organization is registered with NSF, any updates to organizational information must be made by an organizational Administrator in SAM.gov.
 
-![Select administrator role]({{ site.baseurl }}/assets/img/fastlane/Select_role.png)
+![Select administrator role]({{ site.baseurl }}/assets/img/submission/Select_role.png)
 
 <span style="color:red;">It is recommended that the Principal Investigator (PI) also registers as an “Authorized Organizational Representative – AOR” for the organization. The PI creates and uploads all proposal components to Research.gov and the AOR formally submits the proposal to NSF. Only PIs with AOR privileges can submit the proposal. Failing to register as an AOR is not a valid excuse for missing the solicitation deadline.</span>
