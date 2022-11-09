@@ -10,7 +10,7 @@ sidenav: how-to-submit
   
   Organizations new to NSF must register via the account management system in <a href="https://www.research.gov" target="_blank">Research.gov</a>.
 
-  For additional information and step-by-step instructions, please see the "Register a New Organization" guide and [Account Management Guide](https://www.research.gov/common/attachment/Desktop/Single_ID_Help.pdf) section. 
+  For additional information and step-by-step instructions, please see the ["Register a New Organization" guide](https://www.research.gov/common/attachment/Desktop/Single_ID_Help.pdf#page=13) and [Account Management Guide](https://www.research.gov/common/attachment/Desktop/Single_ID_Help.pdf) section. 
 
   The [Account Management Guide](https://www.research.gov/common/attachment/Desktop/Single_ID_Help.pdf), [Frequently Asked Questions (FAQs)](https://www.research.gov/common/attachment/Desktop/Single_ID_FAQs.pdf), and multiple video tutorials are available on the Research.gov [About Account Management](https://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_node_display&_nodePath=/researchGov/Service/Desktop/InstitutionAndUserManagement.html) page.
 
