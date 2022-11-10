@@ -4,9 +4,9 @@ permalink: /how-to-submit/registration/
 layout: secondary-narrow
 sidenav: how-to-submit
 ---
-## Registration
+# Registration
 
-### Do you have the required registrations?
+## Do you have the required registrations?
 
 - [System for Award Management (SAM)](https://www.sam.gov/SAM/)
   Please allow sufficient time for a new SAM registration to be processed and active. New SAM registrations can take up to one month to become active. Sometimes SAM registrations can take longer if the registration information provided in SAM is incomplete or accurate.
