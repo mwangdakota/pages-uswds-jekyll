@@ -39,7 +39,7 @@ A joint venture is an association of people or business concerns who, either by 
 
 A joint venture has the capability to control its own management, has its own Employer Identification Number as assigned by the Internal Revenue Service (IRS), and is eligible under the SBIR Program, provided that it qualifies as a small business concern as defined in this glossary.
 
-##Non-Dilutive Funding
+## Non-Dilutive Funding
 Financing that does not involve equity, debt, or other elements of the business ownership structure.
 
 ## Overlapping proposals
