@@ -1,6 +1,6 @@
 ---
 title: Reuiqred Registrations
-permalink: /how-to-submit/registrations/
+permalink: /how-to-submit/registration/
 layout: secondary-narrow
 sidenav: how-to-submit
 ---
