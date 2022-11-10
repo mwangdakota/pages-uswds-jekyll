@@ -9,6 +9,7 @@ sidenav: how-to-submit
 ## Do you have the required registrations?
 
 - [System for Award Management (SAM)](https://www.sam.gov/SAM/)
+
   Please allow sufficient time for a new SAM registration to be processed and active. New SAM registrations can take up to one month to become active. Sometimes SAM registrations can take longer if the registration information provided in SAM is incomplete or accurate.
   
   NOTE: Once your new SAM registration is active, it takes up to two business days for NSF to receive and process your SAM information. New organizations cannot register with NSF until the organization’s active SAM registration information is processed by NSF.
