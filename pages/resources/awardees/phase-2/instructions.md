@@ -12,4 +12,4 @@ Submit supplement funding requests, updates and budget revisions in the Research
 * After entering credentials to sign in to Research.gov, you will be navigated to the My Desktop page.
 * From the Awards & Reporting tile, click the **“Supplemental Funding Requests”**.
 
-Have questions? Visit the topic-specific [Frequently Asked Questions (FAQs)](https://www.research.gov/research-web/content/aboutsfr#psm) which covers everything form uploading documents to checking submission status. You can also explore the [demo site](https://web.demo.research.gov/proposalprep/#/sfr) for more guidance. Please refer to [PAPPG](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22001) Chapter VI.E.5. for supplemental funding request policy guidance.
+Have questions? Visit the topic-specific [Frequently Asked Questions (FAQs)](https://www.research.gov/research-web/content/aboutsfr#psm) which covers everything form uploading documents to checking submission status. You can also explore the [demo site](https://web.demo.research.gov/proposalprep/#/sfr) for more guidance. 
