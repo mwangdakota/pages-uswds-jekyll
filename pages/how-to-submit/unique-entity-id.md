@@ -35,13 +35,13 @@ Any subrecipient(s) named in a proposal is also required to obtain a SAM.gov-iss
 
 *Subrecipient(s) named in the proposal, however, do not need to go through the full UEI registration in SAM.gov. Refer to the Proposal & Award Policies & Procedures Guide (PAPPG) Chapter I.G.2.*
 
-Step 1: Subrecipient must obtain a UEI:
+### Step 1: Subrecipient must obtain a UEI:
 
 A subrecipient without a UEI must go to [SAM.gov](https://sam.gov/content/home) and select the green Get Started button on the “Register Your Entity or Get a Unique Entity ID” section in the upper right side of the page. 
 
 Please note, the information required for obtaining a UEI is minimal (organization’s legal business name and address) and will be processed relatively quickly. 
 
-Step 2: Subrecipient(s) must register their organization with NSF:
+### Step 2: Subrecipient(s) must register their organization with NSF:
 
 Once the subrecipient obtains the UEI through [SAM.gov](https://sam.gov/content/home), the subrecipient must contact the NSF Help Desk at 1-800-381-1532 (7:00 AM - 9:00 PM ET; Monday - Friday except federal holidays) to register the organization with NSF.
 
