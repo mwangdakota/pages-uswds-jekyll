@@ -1,6 +1,6 @@
 ---
 title: Research.gov
-permalink: /how-to-submit/submission/research/
+permalink: /how-to-submit/research/
 layout: secondary-narrow
 sidenav: how-to-submit
 ---
