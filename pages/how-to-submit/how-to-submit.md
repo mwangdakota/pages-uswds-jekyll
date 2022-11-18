@@ -31,8 +31,8 @@ We encourage you to follow guidance from your program director about when and ho
 
 ## Preparing your proposal
 
-### Read the SBIR/STTR Solicitation 
-The Phase I and Phase II SBIR/STTR Solicitations explains the content needed in your proposal. We also encourage you to join an upcoming webinar to help you prepare your proposal or to reach out to the relevant SBIR/STTR program director if you have questions about the Phase I proposal and review process. 
+### Read the SBIR/STTR Solicitations 
+The Phase I and Phase II SBIR/STTR Solicitations explain the content needed in your proposal. We also encourage you to join an [upcoming webinar]({{ site.baseurl  }}/events/) to help you prepare your proposal or to reach out to the relevant [SBIR/STTR program director]({{ site.baseurl  }}/contact/) if you have questions about the proposal and review process. 
 ### Proposal content questions  
 SBIR and STTR program-related questions should be directed to sbir@nsf.gov. 
 
