@@ -1,6 +1,6 @@
 ---
 title: Pick the solicitation
-permalink: /how-to-submit/submission/pick-solicitation/
+permalink: /how-to-submit/pick-solicitation/
 layout: secondary-narrow
 sidenav: how-to-submit
 ---
