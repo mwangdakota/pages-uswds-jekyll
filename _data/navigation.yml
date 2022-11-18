@@ -84,17 +84,20 @@ how-to-submit:
     href: /how-to-submit/
   - text: Project Pitch Guide
     href: /project-pitch/guide/
-    target: '_blank'
-  - text: Register for Research.gov
-    href: /how-to-submit/registration/
-  - text: Proposal Submission
-    href: /how-to-submit/submission/proposal-submission/
-  - text: "         Access Research.gov"
-    href: /how-to-submit/submission/proposal-submission/#access-research
-  - text: "         Pick the solicitation"
-    href: /how-to-submit/submission/proposal-submission/#pick-the-solicitation
-  - text: "         Find Research.gov help guides"
-    href: /how-to-submit/submission/proposal-submission/#find-researchgov-help-guides
+  - text: Required Registrations
+    href: /how-to-submit/required-registrations/
+  - text: Unique Entity ID (SAM.gov)
+    href: /how-to-submit/unique-entity-id/
+  - text: Research.gov
+    href: /how-to-submit/research/
+  - text: SBA Company Registry
+    href: /how-to-submit/sba-company-registry/
+  - text: Proposal submission
+    href: /how-to-submit/proposal-submission/
+  - text: Pick the solicitation
+    href: /how-to-submit/pick-solicitation/  
+  - text: Find Research.gov help guides
+    href: /how-to-submit/help-guides/    
   - text: Definitions
     href: /how-to-submit/definitions/
   - text: Fastlane guide
