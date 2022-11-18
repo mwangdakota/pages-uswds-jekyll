@@ -11,7 +11,7 @@ If your company hasn’t worked with the government before, you’ll need to reg
 
 You **must** have completed your SAM registration **before** you can begin entering your proposal in Research.gov. We recommend completing the steps in this order and starting as soon as possible!
 
-**1. [Register in SAM.gov for a Unique Entity Identifier (UEI)]({{ site.baseurl }}/how-to-submit/unique-identity-id/)**
+**1. [Register in SAM.gov for a Unique Entity Identifier (UEI)]({{ site.baseurl }}/how-to-submit/unique-entity-id/)**
 
 **2. [Register in Research.gov]({{ site.baseurl }}/how-to-submit/research/)** 
 
