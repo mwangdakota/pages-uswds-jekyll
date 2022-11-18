@@ -1,6 +1,6 @@
 ---
 title: Fastlane Application Overview
-permalink: /project-pitch/guide/
+permalink: /how-to-submit/project-pitch-guide/
 layout: secondary-narrow
 sidenav: how-to-submit
 ---
