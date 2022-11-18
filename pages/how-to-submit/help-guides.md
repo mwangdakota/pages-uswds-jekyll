@@ -1,6 +1,6 @@
 ---
 title: Find Research.gov help guides
-permalink: /how-to-submit/submission/help-guides/
+permalink: /how-to-submit/help-guides/
 layout: secondary-narrow
 sidenav: how-to-submit
 ---
