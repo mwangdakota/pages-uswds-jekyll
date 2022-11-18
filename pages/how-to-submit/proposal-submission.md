@@ -1,6 +1,6 @@
 ---
 title: Proposal Submission
-permalink: /how-to-submit/submission/proposal-submission/
+permalink: /how-to-submit/proposal-submission/
 layout: secondary-narrow
 sidenav: how-to-submit
 ---
