@@ -17,20 +17,19 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <section class="usa-section full-bleed-bg">
   <h2>Submission</h2>
   <p>We recommend treating the submission window like a deadline, but you can submit anytime within a year of receiving an official invitation from NSF. (NSF uses quarterly submission windows to help gather and review proposals, but sometimes proposals are reviewed as they are received.)</p>
-  <p>After a brief pause, new Phase I and Phase II SBIR/STTR solicitations are expected in early November.</p>
 </section>
 
 <section class="usa-section full-bleed-bg--lightblue">
   <h2>Next steps</h2>
   <p>Ready to get started? You'll need to read the official policy document (the solicitation) which outlines the official requirements, key elements and supplemental information you'll need to draft your proposal. We also recommend that you start the registration process right away.</p>
   <p><b>Read the call for proposals (solicitation)</b>
-    <br>NSF has one Phase I solicitation: the Small Business Innovation Research (SBIR) and the Small Business Technology Transfer (STTR). SBIR proposals do not require that the startup partner with an eligible research institution. In an STTR proposal, the startup must perform a minimum of 40% of the research, as measured by the budget, and a minimum of 30% of the research must be performed by the partner research institution. NSF plans to issue new a new SBIR/STTR Phase I solicitation in early November. Read the last solicitation if you’d like to get a sense of what’s needed when you create your full proposal.</p>
+    <br>NSF has one Phase I solicitation: the Small Business Innovation Research (SBIR) and the Small Business Technology Transfer (STTR). SBIR proposals do not require that the startup partner with an eligible research institution. In an STTR proposal, the startup must perform a minimum of 40% of the research, as measured by the budget, and a minimum of 30% of the research must be performed by the partner research institution.</p>
   <p>
     <a class="usa-button usa-button-secondary"
         href="{{ site.data.solicitations['SBIR_STTR'].url }}" target="_blank">Read the SBIR/STTR solicitation</a>
   </p>
   <p><b>Register your company (FREE and required)</b>
-    <br>If your company hasn’t worked with the government before, you’ll need to register with these systems (we recommend the order listed below).  Every step in our process, including all of these registrations, is free.  You MUST have completed your SAM registration BEFORE you can begin entering your proposal in FastLane. Start as soon as possible!
+    <br>If your company hasn’t worked with the government before, you’ll need to register with these systems (we recommend the order listed below).  Every step in our process, including all of these registrations, is free.  You MUST have completed your SAM registration BEFORE you can begin entering your proposal in Research.gov. Start as soon as possible!
   </p>
   <ol class="timeline timeline__no-numbers">
     <li class="timeline-step">
@@ -47,7 +46,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
             <h3 id="system-for-award-management-sam"><a href="https://www.sam.gov/SAM/" target="_blank">System for
                 Award Management (SAM)</a></h3>
             <p><strong>Processing time:</strong> Up to three weeks</p>
-            <p>You MUST register to do business with the U.S. government through System for Award Management (SAM). When you register, you’ll have to share bank account information of the account where the NSF funds would be deposited. This registration process is free and takes only 10-15 minutes to initiate, but can take up to three weeks to complete. An active SAM.gov registration is needed to create a FastLane account and submit a proposal to NSF. To submit proposals to NSF SBIR/STTR, you only need to request “financial assistance” authority and do NOT need “contract” authority (which can be a much longer process to obtain).  SAM registration must be renewed annually. <br><br> <span style="color:red;">Note: Due to a large backload, SAM is currently experiencing delays in the creation and validation of Unique Entity Identifiers (UEI).</span></p>            
+            <p>You MUST register to do business with the U.S. government through System for Award Management (SAM). When you register, you’ll have to share bank account information of the account where the NSF funds would be deposited. This registration process is free and takes only 10-15 minutes to initiate, but can take up to three weeks to complete. An active SAM.gov registration is needed to submit a proposal to NSF. To submit proposals to NSF SBIR/STTR, you only need to request “financial assistance” authority and do NOT need “contract” authority (which can be a much longer process to obtain).  SAM registration must be renewed annually. <br><br> <span style="color:red;">Note: Due to a large backload, SAM is currently experiencing delays in the creation and validation of Unique Entity Identifiers (UEI).</span></p>            
             <h3 id="researchgov-online-grant-management-for-the-nsf-community"><a
                 href="https://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&amp;_pageLabel=research_home_page"
                 target="_blank">Research.gov (Online Grant Management for the NSF Community)</a></h3>
@@ -58,7 +57,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
                 Registry</a></h3>
             <p>Finally, you need to register with the SBIR Company Registry (operated by the Small Business
               Administration). Post-registration, you’ll receive a Business Concern Control ID (SBC ID), which you’ll
-              need to include in your FastLane application.</p>
+              need to include in your Research.gov application.</p>
           </div>
         </li>
       </ol>
