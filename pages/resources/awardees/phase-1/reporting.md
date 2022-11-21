@@ -40,7 +40,7 @@ The technical narrative documents your Phase I research accomplishments and can'
 
 ## 3. Submit your report via Research.gov
 
-- Use your FastLane UserID and password to [log in to Research.gov](https://identity.research.gov/sso/UI/Login?realm=/research&spEntityID=https%3A%2F%2Fwww.research.gov%2Fsso%2Fsp&module=nsf&goto=http%3A%2F%2Fidentity.research.gov%3A80%2Fsso%2Fidpssoinit%3FNameIDFormat%3Durn%3Aoasis%3Anames%3Atc%3ASAML%3A2.0%3Anameid-format%3Atransient%26metaAlias%3D%2Fresearch%2Fidp%26spEntityID%3Dhttps%3A%2F%2Fwww.research.gov%2Fsso%2Fsp%26binding%3Durn%3Aoasis%3Anames%3Atc%3ASAML%3A2.0%3Abindings%3AHTTP-POST%26RelayState%3Dhttps%3A%2F%2Fwww.research.gov%2Fresearch-portal%2Fredirect.jsp%3FTARGET%3Dproperty%3A%3ArpprApplicationUrl)
+- Use your Research.gov UserID and password to [log in to Research.gov](https://identity.research.gov/sso/UI/Login?realm=/research&spEntityID=https%3A%2F%2Fwww.research.gov%2Fsso%2Fsp&module=nsf&goto=http%3A%2F%2Fidentity.research.gov%3A80%2Fsso%2Fidpssoinit%3FNameIDFormat%3Durn%3Aoasis%3Anames%3Atc%3ASAML%3A2.0%3Anameid-format%3Atransient%26metaAlias%3D%2Fresearch%2Fidp%26spEntityID%3Dhttps%3A%2F%2Fwww.research.gov%2Fsso%2Fsp%26binding%3Durn%3Aoasis%3Anames%3Atc%3ASAML%3A2.0%3Abindings%3AHTTP-POST%26RelayState%3Dhttps%3A%2F%2Fwww.research.gov%2Fresearch-portal%2Fredirect.jsp%3FTARGET%3Dproperty%3A%3ArpprApplicationUrl)
 - From the Project Reporting Dashboard, navigate to the appropriate award and report. The Phase I Final Report should be listed in the *Reports Due* tab.
 - Provide the *Cover* information.
 - Complete the appropriate fields in the *Products* and *Participants* tabs.
@@ -53,6 +53,6 @@ This structured information is vital —-- please supply it using the HTML ques
 
 ## Reporting requirements: Phase II proposal submission
 
-If you're interested in seeking Phase II funding, you'll need to submit your Phase II proposal through FastLane during the Phase II proposal submission process, which may occur before or after your Phase I project ends.
+If you’re interested in seeking Phase II funding, you’ll need to submit your Phase II proposal through Research.gov.  Your Phase II proposal may be submitted either before or after your Phase I project ends.
 
 One requirement of this process is submitting an updated Technical Narrative (of no more than 15 pages) that follows the same format described above. Please include this narrative as a supplementary document to your Phase II proposal. See the [Phase II proposal preparation instructions page]({{ site.baseurl }}/resources/awardees/phase-2/instructions/) for more details.

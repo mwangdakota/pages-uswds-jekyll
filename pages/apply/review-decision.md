@@ -30,7 +30,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <section class="usa-section full-bleed-bg--lightblue">
   <h2>Proposal documents and status</h2>
   <p><b>Review your submission</b>
-    <br>To review your submitted Phase I proposal, login to <a href="https://www.fastlane.nsf.gov/">Fastlane</a> and navigate to the “Proposals, Awards, and Status” tab.  The proposal status is also found on this page and, once a final decision has been made, the full text of the written (anonymous) reviewer feedback is available to the Principal Investigator here.
+    <br>To review your submitted Phase I proposal, navigate to <a href="https://identity.research.gov/sso/UI/Login?module=nsf&env=prvw&app=portal">Research.gov</a> and log in to view the Proposal Status Dashboard page. 
   </p>
   </section>
 <section class="usa-section full-bleed-bg">
