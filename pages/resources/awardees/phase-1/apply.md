@@ -7,7 +7,7 @@ sidenav: phase-1
 
 # Apply for Phase II
 
-Interested in applying for Phase II funding? Review this information before starting your application. Please note: New SBIR/STTR Phase I proposals are not being accepted until the next solicitation is released in early November. Read the last solicitation if you’d like to get a sense of what’s needed when you create your full proposal.
+Interested in applying for Phase II funding? Review this information before starting your application. Please note: New SBIR/STTR Phase II proposals are not being accepted until the next solicitation is released in early November. Read the last solicitation if you’d like to get a sense of what’s needed when you create your full proposal.
 
 <a class="usa-button usa-button-primary button-arrow" href="{{ site.data.solicitations['PHASE_II'].url }}">
   Read the SBIR/STTR Phase II Solicitation</a>
@@ -41,7 +41,7 @@ You must submit a technical narrative as a component of your Phase II proposal.
 
 ## Administrative and financial capability reviews
 
-- At the start of your Phase I award, review [important information to know](http://www.nsf.gov/bfa/dias/caar/sbirrev.jsp) regarding Phase II SBIR/STTR administrative and financial capability reviews.
+- If your Phase II proposal is considered potentially meritorious for funding, you will be required to undergo an [administrative and financial capability review](http://www.nsf.gov/bfa/dias/caar/sbirrev.jsp) in the latter stages of the Phase II review process
 - [These videos](https://www.youtube.com/playlist?list=PLGhBP1C7iCOmI1p5UtqYCXzmUL9SzSApv) also explain the review processes and how to prepare for them.
 
 ## Proposal contents
@@ -53,5 +53,5 @@ You must submit a technical narrative as a component of your Phase II proposal.
 
 ## Terms and conditions and reporting requirements
 
-The Phase II award is now a fixed amount cooperative agreement with different award terms and conditions, and reporting requirements. More details regarding both award terms and reporting requirements will be available through the solicitation in the coming months.   
+The Phase II award is now a fixed amount cooperative agreement with different award [terms and conditions](https://www.nsf.gov/awards/managing/sbirsttr_conditions.jsp), and reporting requirements. More details regarding both award terms and reporting requirements will be available through the solicitation in the coming months.   
 

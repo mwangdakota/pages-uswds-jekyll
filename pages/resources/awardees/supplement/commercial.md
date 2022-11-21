@@ -11,13 +11,13 @@ sidenav: phase-2
     - **Max funding**: $500,000 per award, 50% of investment funds not to exceed $500,000 from NSF
     - **Requirements**: 3rd party investment/commitment of at least $100k.
     - **Deadline**: Must begin process at least 30 days prior to Phase II award expiration.
-    - [More information](https://www.nsf.gov/pubs/2022/nsf22064/nsf22064.jsp)
+    - [More information]({{ site.baseurl }}/resources/awardees/phase-2/supplement/#:~:text=NSF%20will%20match%20up%20to,and%20a%20maximum%20of%20%24500%2C000)
     - [Proposal / Budget submission instructions]({{ site.baseurl }}/resources/awardees/phase-2/instructions/)
 2. Commercial / Strategic Partnerships (TECP)
     - Funding for additional research that goes beyond the Phase II project’s objectives to meet the technical specifications or additional proof-of-concept requirements. Additional research is anticipated to enhance the commercial potential and lead to partnerships with industrial partners and venture and angel investors.
     - **Max funding**: 20% of the Phase II award
     - **Deadline**: Within 18 months of the effective start date of Phase II award
-    - [More information](https://www.nsf.gov/pubs/2013/nsf13132/nsf13132.jsp)
+    - [More information](https://www.nsf.gov/pubs/2022/nsf22064/nsf22064.jsp)
     - [Proposal / Budget submission instructions]({{ site.baseurl }}/resources/awardees/phase-2/instructions/)
 3. Technical and Business Assistance (TABA) <br/>
     <p>TABA supplemental funding enables the awardee business to secure the services of one or more third-party service providers that will assist with one or more of the following commercialization activities:</p>
