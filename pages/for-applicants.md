@@ -44,7 +44,7 @@ Get to know our awardees better — we’ve got [video profiles of startups and 
 Wondering if your idea is a good fit? The first step in the process is to submit your written [Project Pitch]({{site.baseurl}}/project-pitch/). Startups or entrepreneurs who submit a Project Pitch will learn if they meet the program’s objectives and be invited to submit a full proposal.
 
 # Apply
-Once you've received an invitation to submit a proposal (via the Project Pitch process), we encourage you to dig into the following resources to support you as you create your SBIR/STTR proposal.
+Once you’ve received an invitation to submit a proposal (via the Project Pitch process), we encourage you to dig into the following resources to support you as you create your SBIR/STTR proposal.
 <div style="margin-bottom:20px;">
 <a href="{{ site.baseurl }}/apply/" class="usa-button">APPLY</a>
  <br>
@@ -53,9 +53,9 @@ Once you've received an invitation to submit a proposal (via the Project Pitch p
 
 Have lingering questions? Visit our [FAQ](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22053), which covers the pre-application process to post-award reporting (and everything in between).
 
-## FastLane guide
+## Proposal submission guide
 
-Before you start your proposal, take a look at our [FastLane guide]({{ site.baseurl }}/fastlane/). 
+Before you start your proposal, take a look at our [proposal submission guide]({{ site.baseurl }}/how-to-submit/). 
 
 ## Review Guidelines
 
