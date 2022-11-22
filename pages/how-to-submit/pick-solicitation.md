@@ -8,8 +8,8 @@ sidenav: how-to-submit
 # Pick the solicitation
 
 * Select one of the following SBIR/STTR funding opportunities. 
-    - NSF 22-551: Small Business Innovation Research (SBIR)/Small Business Technology Transfer (STTR) Phase I 
-    - NSF 22-552: Small Business Innovation Research (SBIR)/Small Business Technology Transfer (STTR) Phase II 
+    - NSF 23-515: Small Business Innovation Research (SBIR)/Small Business Technology Transfer (STTR) Phase I 
+    - NSF 23-516: Small Business Innovation Research (SBIR)/Small Business Technology Transfer (STTR) Phase II 
 ![List of Funding opportunities]({{ site.baseurl }}/assets/img/submission/funding-opportunities.jpg)
 * Select the appropriate SBIR or STTR program and Phase.
 ![Where to Apply - Select Program]({{ site.baseurl }}/assets/img/submission/select-program.jpg)
