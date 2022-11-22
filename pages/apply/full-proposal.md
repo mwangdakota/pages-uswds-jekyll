@@ -16,7 +16,14 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 {% include apply-nav.html %}
 <section class="usa-section full-bleed-bg">
   <h2>Submission</h2>
-  <p>We recommend treating the submission window like a deadline, but you can submit anytime within a year of receiving an official invitation from NSF. (NSF uses quarterly submission windows to help gather and review proposals, but sometimes proposals are reviewed as they are received.)</p>
+  <p>We recommend treating the submission window like a deadline, but you can submit anytime within a year of receiving an official invitation from NSF. (NSF uses submission windows to help gather and review proposals, but sometimes proposals are reviewed as they are received.)</p>
+  <p><strong>Submission Window Date(s)</strong> (due by 5 p.m. submitter's local time):</p> 
+  <ul>
+    <li>{{ site.solicitation_window_1 }}</li>
+    <li>{{ site.solicitation_window_2 }}</li>
+    <li>{{ site.solicitation_window_3 }}</li>
+  </ul>
+  
 </section>
 
 <section class="usa-section full-bleed-bg--lightblue">
