@@ -11,7 +11,11 @@
 #
 primary:
   - text: About
-    href: /about/
+    links:
+      - text: Our Program
+        href: /our-program/
+      - text: Our Staff
+        href: /our-staff/  
   - text: Portfolio
     href: /portfolio/
   - text: Resources

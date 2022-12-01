@@ -9,7 +9,7 @@ layout: secondary
   <div class="usa-section usa-content usa-grid">
     <h1 id="portfolio">Portfolio</h1>
     <p>
-      NSF-funded startups and small businesses saw around 200 exits and more than $14 billion in private investments during fiscal years 2016 to 2021.
+      NSF-funded startups and small businesses saw around 300 exits and more than $20 billion in private investments during fiscal years 2016 to 2022.
       <span class="text-small" style="font-style:italic;">*</span>
     </p>
   </div>
@@ -84,7 +84,7 @@ layout: secondary
   </div>
   <div class="text-medium" style="font-style:italic;padding-bottom:6rem">
     <p style="margin:0 auto">
-      (*These figures were pulled from Pitchbook from 10/01/2015 to 09/30/2021<br>
+      (*These figures were pulled from Pitchbook from 10/01/2015 to 09/30/2022<br>
       and include companies that received NSF funding prior to 2016.)
     </p>
   </div>

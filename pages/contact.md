@@ -1,5 +1,5 @@
 ---
-title: Contact us
+title: Contact Us
 permalink: /contact/
 layout: secondary
 ---
@@ -22,10 +22,23 @@ Have a general question or concern? Call our help line at 703-292-8050 or email 
 <div class="usa-content usa-grid">
 <div class="usa-content usa-width-one-whole" markdown="1">
 
-## Program Directors
+## Submit a Project Pitch for feedback 
 
-{% include program-directors.html %}
+Are you hoping for feedback? We encourage you to submit a Project Pitch. It’s the first step in our process and the best way to learn more about whether your work would be a good fit for the National Science Foundation. Plus, it provides our staff with the information they need to guide you in the process. 
 
+<p>
+    <a class="usa-button usa-button-secondary"
+        href="{{ site.baseurl }}/apply/get-started/">Get Started</a>
+  </p>
+
+## Join a virtual event  
+
+We regularly host question and answer sessions or virtual office hours. 
+
+<p>
+    <a class="usa-button usa-button-secondary"
+        href="{{ site.baseurl }}/events">Events</a>
+  </p>
 </div>
 </div>
 </section>
