@@ -1,6 +1,6 @@
 ---
-title: Contact us
-permalink: /contact/
+title: Our Staff
+permalink: /about/our-staff/
 layout: secondary
 ---
 <section class="usa-section">
