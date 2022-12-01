@@ -1,6 +1,6 @@
 ---
 title: Our Staff
-permalink: /about/our-staff/
+permalink: /our-staff/
 layout: secondary
 ---
 <section class="usa-section">
