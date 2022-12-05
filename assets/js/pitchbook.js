@@ -20,7 +20,7 @@ if (window.sfPitchBook) {
 
     getData: function(data) {
       function val(v, opt) {
-        if (!v) return '';
+        if (!v) return 'N/A';
 
         return (opt && opt.prefix ? opt.prefix : '') +
           (opt && opt.protocol && !v.match(/^https?\:\/\//) ? 'http://' : '') +
