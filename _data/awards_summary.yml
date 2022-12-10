@@ -1,8 +1,8 @@
 ---
-funding_total: 422898807
-funding_per_company: 635938.06
-companies_total: 665
-applications_total: 668
+funding_total: 405270034
+funding_per_company: 656839.6
+companies_total: 617
+applications_total: 621
 states_count: 48
 states:
 - AK
@@ -54,26 +54,26 @@ states:
 - WI
 - WY
 awards_phase_1_recent:
-  applications_count: 335
-  funding: 85255939
-  companies: 335
+  applications_count: 292
+  funding: 74495608
+  companies: 292
   companies_unique_percent: 100
-  funding_per_company: 254495.34
-  funding_per_application: 254495.34
+  funding_per_company: 255121.95
+  funding_per_application: 255121.95
   states_count: 43
 awards_phase_2:
-  applications_count: 333
-  funding: 337642868
-  companies: 332
+  applications_count: 329
+  funding: 330774426
+  companies: 328
   companies_unique_percent: 99.7
-  funding_per_company: 1016996.59
-  funding_per_application: 1013942.55
+  funding_per_company: 1008458.62
+  funding_per_application: 1005393.39
   states_count: 39
 awards_phase_1:
-  applications_count: 335
-  funding: 85255939
-  companies: 335
+  applications_count: 292
+  funding: 74495608
+  companies: 292
   companies_unique_percent: 100
-  funding_per_company: 254495.34
-  funding_per_application: 254495.34
+  funding_per_company: 255121.95
+  funding_per_application: 255121.95
   states_count: 43
