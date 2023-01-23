@@ -27,19 +27,18 @@ css: /assets/css/slider.css
       <div class="content">
         <div class="innerScroll" style="background-image: url('/assets/img/bg/biomason-2c-mi.jpg');">
           <div class="image-margin">
-            <h1>GETTING</h1><h1>STARTED</h1>
+            <h1>THE</h1><h1>STARTED</h1>
           </div>
           <div class="inner-clip title">
-            <p><h4>GET YOUR HIGH-TECH INNOVATION FUNDED.</h4></p>
-            <p><h4> FOR WHAT’S NEXT.</h4></p>
+            <p><h4>WHAT WE LOOK FOR</h4></p>
           </div>
           <div class="inner-body">
             <div class="inner-centered">
               The America Seed Fund powered by The National Science Foundation invests up to $2 million in funding for startups that are developing technologies.
             </div>
-            <div class="blue-section">
+            <div>
               <div class="usa-width-one-half padded-block">
-              <p><h5>We help startups navigate the earliest stages of technology translation.</h5></p>
+              <p><h4>We help startups navigate the earliest stages of technology translation.</h4></p>
               <p>When determining which startups to fund, we look for the following:</p>
               </div>
               <div class="usa-width-one-half padded-block">
@@ -48,16 +47,55 @@ css: /assets/css/slider.css
                     <img src="/assets/img/globe.svg" alt="Global">
                   </span>
                   <span class="feature-text">
-                    <p><h6>Impact:</h6></p>
+                    <p><h5>Impact:</h5></p>
                     Make a difference to people worldwide or revolutionize an industry.
+                  </span>
+                </div>
+                <div class="feature-block">
+                  <span class="feature-image">
+                    <img src="/assets/img/lightbulb.svg" alt="Ideas">
+                  </span>
+                  <span class="feature-text">
+                    <p><h5>Technological Innovation:</h5></p>
+                    You need research and development funding to create new products, services, and other scalable solutions based on fundamental science or engineering. NSF does not fund straightforward engineering or incremental product development tasks.
+                  </span>
+                </div>
+                <div class="feature-block">
+                  <span class="feature-image">
+                    <img src="/assets/img/expand.svg" alt="Expansion">
+                  </span>
+                  <span class="feature-text">
+                    <p><h5>Scale:</h5></p>
+                    If you successfully bring your product or service to market, it could form the foundation for a scalable business and make a large impact in your target market.
+                  </span>
+                </div>
+                <div class="feature-block">
+                  <span class="feature-image">
+                    <img src="/assets/img/checkbox.svg" alt="Check">
+                  </span>
+                  <span class="feature-text">
+                    <p><h5>Market Pull:</h5></p>
+                    You have evidence that your product or service could meet an important, unmet need for your customers.
                   </span>
                 </div>
               </div>
             </div>
           </div>
+          <div class="blue-section">
+            <p><h3>AM I ELIGIBLE?</h3></p>
+            To be eligible for funding, your company must adhere to the following requirements:
+            <ul style="columns:2">
+              <li>Must be a small business (fewer than 500 employees) and located in the United States.</li>
+              <li> At least 50% of your company’s equity must be owned by U.S. citizens or permanent residents. NSF does not fund companies that are majority-owned by multiple venture capital firms, private equity firms, or hedge funds, to participate in SBIR and STTR. </li>
+              <li>All funded work, including work done by consultants and contractors, needs to take place in the United States.</li>
+              <li>The project’s principal investigator (tech lead) must be legally employed at least 20 hours a week by the company seeking funding. The PI doesn’t need any advanced degrees.</li> 
+              <li>The principal investigator needs to commit to at least one month (173 hours) of work on a funded project per six months of project duration.</li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>
+    
   </li>
   <li id="slide2">
     <!-- Using radio inputs means only one can be selected at a time-->
@@ -206,4 +244,5 @@ css: /assets/css/slider.css
     </div>
   </li>
 </ul>
+
 </section>

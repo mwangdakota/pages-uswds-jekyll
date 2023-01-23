@@ -1,6 +1,9 @@
-@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+@import url('https://fonts.cdnfonts.com/css/gotham');
 
 .slider {
+  max-width: 1920px;
+  margin: auto;
+  font-family: 'Gotham', sans-serif;
 }
 
 .slider * {
@@ -34,6 +37,12 @@ section.slider li {
     max-width: inherit;
 }
 
+
+.slider h4 {
+  padding-top: 20px;
+  padding-bottom: 20px;  
+}
+
 .slider label {
   display: block;
   float: left;
@@ -60,18 +69,55 @@ section.slider li {
   clip-path: polygon(80% 0, 100% 100%, 100% 100%, 0 100%, 0 0);
 }
 
+
 .slider .inner-centered {
   text-align: center;
   width:70%;
+  margin-left: auto;
+  margin-right: auto;
 }
 .slider .inner-body {
   padding:20px;
   height:inherit;
   background: #fff;
 }
+
+.slider .feature-image {
+  width: 20%;
+  float: left;
+}
+
+.slider .feature-text {
+  width: 75%;
+  float: left;
+  padding:15px;
+}
+
 .slider .padded-block {
   padding: 20px;
 }
+
+.slider .blue-section {
+  background: #E5F3F8 0% 0% no-repeat padding-box;
+  opacity: 1;
+  text-align: center;
+  padding: 40px;
+}
+
+.slider .blue-section .content {
+  width:70%;
+  margin:auto;
+  padding:40px;
+}
+.slider .blue-section h3 {
+  color: #123360;
+  padding:20px;
+}
+
+.slider .blue-section li {
+  margin-bottom: 10px;
+}
+
 .slider [type=radio]+label::after {
   content:none;
 }
@@ -86,14 +132,17 @@ section.slider li {
 
 .slider li#slide1 > input + label {
   background: #43A5E6;
+  box-shadow: 0px 0px 6px #00000033;
 }
 
 .slider li#slide2 > input + label {
   background: #5D73E6;
+  box-shadow: 0px 0px 6px #00000031;
 }
 
 .slider li#slide3 > input + label {
   background: #724EE6;
+  box-shadow: 0px 0px 6px #00000029;
 }
 
 .slider li#slide4 > input + label {
