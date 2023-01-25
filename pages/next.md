@@ -40,7 +40,9 @@ css: /assets/css/slider.css
             <div class="blue-section">
               <div class="usa-width-one-half padded-block">
               <p><h4>WE GOT FUNDED AND SO CAN YOUR STARTUP.</h4></p>
+              <br>
               <p><b>WATCH AWARDEE SUCCESS STORIES</b></p>
+              <br>
               <p>
               <button class="hollow-button">SEE MORE SUCCESS STORIES</button>
               </p>
@@ -48,13 +50,13 @@ css: /assets/css/slider.css
               <div class="usa-width-one-half padded-block">
                 <div class="feature-block">
                   <iframe width="560" height="315" src="https://www.youtube.com/embed/vS0TuIPoeBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                  <a href="#">Mango Technologies</a>
-                  funded 2021
+                  <p><a href="#">Mango Technologies</a></p>
+                  <p>funded 2021</p>
                 </div>
                 <div class="feature-block">
-                 <iframe width="560" height="315" src="https://www.youtube.com/embed/Znsa4Deavgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                <a href="#">Oregano Builds</a>
-                  funded 2012
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/Znsa4Deavgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                  <p><a href="#">Oregano Builds</a></p>
+                  <p>funded 2012</p>
                 </div>
               </div>
             </div>
@@ -125,7 +127,7 @@ css: /assets/css/slider.css
             </div>
           </div>
           <div class="blue-section">
-            <p><h3>AM I ELIGIBLE?</h3></p>
+            <p><h4>AM I ELIGIBLE?</h4></p>
             <b>To be eligible for funding, your company must adhere to the following requirements:</b>
             <ul style="columns:2" class="content">
               <li>Must be a small business (fewer than 500 employees) and located in the United States.</li>
@@ -201,11 +203,11 @@ css: /assets/css/slider.css
             </div>
           </div>
           <div class="blue-section">
-            <div class="content">
-              <h3>ROLLING SUBMISSIONS</h3>
-              <h3>+ DEADLINES </h3>
+              <h4>ROLLING SUBMISSIONS</h4>
+              <h4>+ DEADLINES </h4>
+              <div class="content-centered">
               <b>We accept Project Pitches at any time (24/7) and 365 days a year. Typically, it takes about one month to get an official response from NSF staff.</b>
-              <p><button class="yellow-button">SUBMIT YOUR PROJECT PITCH</button></p>
+              <br><button class="yellow-button">SUBMIT YOUR PROJECT PITCH</button>
             </div>
           </div>
         </div>
@@ -274,12 +276,14 @@ css: /assets/css/slider.css
             </div>
           </div>
           <div class="blue-section">
-            <h4>ROLLING SUBMISSIONS</h4>
-            <h4>+ DEADLINES </h4>
-            <b>We accept Project Pitches at any time (24/7) and 365 days a year. Typically, it takes about one month to get an official response from NSF staff.</b>
-            <p>
-            <button class="yellow-button">SUBMIT YOUR PROJECT PITCH</button>
-            </p>
+            <div class="content">
+              <h4>ROLLING SUBMISSIONS</h4>
+              <h4>+ DEADLINES </h4>
+              <b>We accept Project Pitches at any time (24/7) and 365 days a year. Typically, it takes about one month to get an official response from NSF staff.</b>
+              <p>
+              <button class="yellow-button">SUBMIT YOUR PROJECT PITCH</button>
+              </p>
+            </div>
           </div>
         </div>
       </div>

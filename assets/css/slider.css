@@ -61,12 +61,13 @@ section.slider li {
   background: none;
   color:#123360;
   cursor: pointer;
+  margin:10px;
 }
 .slider .yellow-button{
   background: #FDF060 0% 0% no-repeat padding-box;
   padding: 10px;
   border-radius: 25px;
-  opacity: 1;
+  margin:10px;
 }
 .slider h1 {
   color:#ffffff;
@@ -148,7 +149,13 @@ section.slider li {
   width:80%;
   margin:auto;
   text-align: left;
-  text-align: left;
+}
+
+.slider .blue-section .content-centered {
+  width:80%;
+  margin:auto;
+  padding:20px;
+  text-align: center;
 }
 
 .slider .blue-section ul {
@@ -156,9 +163,8 @@ section.slider li {
   padding:20px;
 }
 
-.slider .blue-section h3 {
+.slider .blue-section h4 {
   color: #123360;
-  padding:20px;
 }
 
 .slider .blue-section li {
