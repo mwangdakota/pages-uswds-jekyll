@@ -39,8 +39,7 @@ section.slider li {
 
 
 .slider h4 {
-  padding-top: 20px;
-  padding-bottom: 20px;  
+  letter-spacing: 1.5px;
 }
 
 .slider label {
@@ -55,9 +54,24 @@ section.slider li {
   line-height: 50px;
   transition: background 300ms ease;
 }
-
+.slider .hollow-button{
+  border-radius: 25px;
+  border: 2px solid #000;
+  padding: 10px;
+  background: none;
+  color:#123360;
+  cursor: pointer;
+}
+.slider .yellow-button{
+  background: #FDF060 0% 0% no-repeat padding-box;
+  padding: 10px;
+  border-radius: 25px;
+  opacity: 1;
+}
 .slider h1 {
   color:#ffffff;
+  font-size: 80px;
+  line-height: 75px;
 }
 .slider .inner-clip {
   position: relative;
@@ -78,7 +92,7 @@ section.slider li {
 }
 .slider .inner-body {
   padding:20px;
-  height:inherit;
+  overflow: auto;
   background: #fff;
 }
 
@@ -87,6 +101,27 @@ section.slider li {
   float: left;
 }
 
+.slider .feature-item {
+  width: 20%;
+  float: left;
+  letter-spacing: 1.38px;
+  text-align: center;
+  font-size: 40px;
+}
+
+.slider .item-1 {
+  color: #43A5E6;
+}
+
+.slider .item-2 {
+  color: #5D73E6;
+}
+.slider .item-3 {
+  color: #724EE6;
+}
+.slider .item-4 {
+  color: #8B1FE6;
+}
 .slider .feature-text {
   width: 75%;
   float: left;
@@ -95,26 +130,39 @@ section.slider li {
 
 .slider .padded-block {
   padding: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
 .slider .blue-section {
   background: #E5F3F8 0% 0% no-repeat padding-box;
   opacity: 1;
+  overflow: auto;
   text-align: center;
   padding: 40px;
+  padding-top:20px;
+  margin-top: 20px;
 }
 
 .slider .blue-section .content {
-  width:70%;
+  width:80%;
   margin:auto;
-  padding:40px;
+  text-align: left;
+  text-align: left;
 }
+
+.slider .blue-section ul {
+  column-gap: 8rem;
+  padding:20px;
+}
+
 .slider .blue-section h3 {
   color: #123360;
   padding:20px;
 }
 
 .slider .blue-section li {
+  break-inside: avoid-column;
   margin-bottom: 10px;
 }
 
@@ -147,6 +195,7 @@ section.slider li {
 
 .slider li#slide4 > input + label {
   background: #8B1FE6;
+  box-shadow: 0px 0px 6px #00000027;
 }
 
 .slider label:hover,

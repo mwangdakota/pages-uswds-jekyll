@@ -21,25 +21,68 @@ css: /assets/css/slider.css
     <!-- The ID must be unique so the label will point to the input-->
     <input id="rad1" type="radio" name="rad" checked="checked"/>
     <label for="rad1">
-      <div>Just keep going with longer text</div>
+      <div>GETTING STARTED</div>
     </label>
     <div class="accslide">
       <div class="content">
-        <div class="innerScroll" style="background-image: url('/assets/img/bg/biomason-2c-mi.jpg');">
+        <div class="innerScroll" style="background-image: url('/assets/img/bg/arable-2c-s-ph.jpg');">
           <div class="image-margin">
-            <h1>THE</h1><h1>STARTED</h1>
+            <h1>GETTING</h1><h1>STARTED</h1>
           </div>
           <div class="inner-clip title">
-            <p><h4>WHAT WE LOOK FOR</h4></p>
+            <p><h4>GET YOUR HIGH-TECH INNOVATION FUNDED.</h4></p>
+            <p><h4>FOR WHAT'S NEXT.</h4></p>
           </div>
           <div class="inner-body">
             <div class="inner-centered">
               The America Seed Fund powered by The National Science Foundation invests up to $2 million in funding for startups that are developing technologies.
             </div>
+            <div class="blue-section">
+              <div class="usa-width-one-half padded-block">
+              <p><h4>WE GOT FUNDED AND SO CAN YOUR STARTUP.</h4></p>
+              <p><b>WATCH AWARDEE SUCCESS STORIES</b></p>
+              <p>
+              <button class="hollow-button">SEE MORE SUCCESS STORIES</button>
+              </p>
+              </div>
+              <div class="usa-width-one-half padded-block">
+                <div class="feature-block">
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/vS0TuIPoeBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                  <a href="#">Mango Technologies</a>
+                  funded 2021
+                </div>
+                <div class="feature-block">
+                 <iframe width="560" height="315" src="https://www.youtube.com/embed/Znsa4Deavgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <a href="#">Oregano Builds</a>
+                  funded 2012
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li id="slide2">
+    <!-- Using radio inputs means only one can be selected at a time-->
+    <!-- The ID must be unique so the label will point to the input-->
+    <input id="rad2" type="radio" name="rad" checked="checked"/>
+    <label for="rad2">
+      <div>THE QUALIFICATIONS</div>
+    </label>
+    <div class="accslide">
+      <div class="content">
+        <div class="innerScroll" style="background-image: url('/assets/img/bg/altaeros.jpg');">
+          <div class="image-margin">
+            <h1>THE</h1><h1>QUALIFICATIONS</h1>
+          </div>
+          <div class="inner-clip title">
+            <p><h4>WHAT WE LOOK FOR</h4></p>
+          </div>
+          <div class="inner-body">
             <div>
               <div class="usa-width-one-half padded-block">
               <p><h4>We help startups navigate the earliest stages of technology translation.</h4></p>
-              <p>When determining which startups to fund, we look for the following:</p>
               </div>
               <div class="usa-width-one-half padded-block">
                 <div class="feature-block">
@@ -83,8 +126,8 @@ css: /assets/css/slider.css
           </div>
           <div class="blue-section">
             <p><h3>AM I ELIGIBLE?</h3></p>
-            To be eligible for funding, your company must adhere to the following requirements:
-            <ul style="columns:2">
+            <b>To be eligible for funding, your company must adhere to the following requirements:</b>
+            <ul style="columns:2" class="content">
               <li>Must be a small business (fewer than 500 employees) and located in the United States.</li>
               <li> At least 50% of your company’s equity must be owned by U.S. citizens or permanent residents. NSF does not fund companies that are majority-owned by multiple venture capital firms, private equity firms, or hedge funds, to participate in SBIR and STTR. </li>
               <li>All funded work, including work done by consultants and contractors, needs to take place in the United States.</li>
@@ -95,88 +138,76 @@ css: /assets/css/slider.css
         </div>
       </div>
     </div>
-    
-  </li>
-  <li id="slide2">
-    <!-- Using radio inputs means only one can be selected at a time-->
-    <!-- The ID must be unique so the label will point to the input-->
-    <input id="rad2" type="radio" name="rad"/>
-    <label for="rad2">
-      <div>Second panel</div>
-    </label>
-    <div class="accslide">
-      <div class="content">
-        <div class="innerScroll">
-          <h2>Second panel Heading</h2>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-        </div>
-      </div>
-    </div>
   </li>
   <li id="slide3">
     <!-- Using radio inputs means only one can be selected at a time-->
     <!-- The ID must be unique so the label will point to the input-->
     <input id="rad3" type="radio" name="rad"/>
     <label for="rad3">
-      <div>Third panel</div>
+      <div>SUBMIT YOUR PROJECT PITCH</div>
     </label>
     <div class="accslide">
       <div class="content">
-        <div class="innerScroll">
-          <h2>Third panel Heading</h2>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
+        <div class="innerScroll" style="background-image: url('/assets/img/bg/bolt.png');">
+          <div class="image-margin">
+            <h1>SUBMIT YOUR</h1><h1>PROJECT PITCH</h1>
+          </div>
+          <div class="inner-clip title">
+            <p><h4>YOUR BREAKTHROUGH IS ABOUT </h4><h4>TO HAVE A BREAKTHROUGH</h4></p>
+          </div>
+          <div class="inner-body">
+            <div>
+              <div class="usa-width-one-half padded-block">
+              <p><h4>Here are the four key questions you’ll be asked to answer when submitting your pitch:</h4></p>
+              </div>
+              <div class="usa-width-one-half padded-block">
+                <div class="feature-block">
+                  <span class="feature-item item-1">
+                    1.
+                  </span>
+                  <span class="feature-text">
+                    <p><h5>The Technology Innovation.</h5></p>
+                    (up to 500 words)
+                  </span>
+                </div>
+                <div class="feature-block">
+                  <span class="feature-item item-2">
+                    2.
+                  </span>
+                  <span class="feature-text">
+                    <p><h5>The Technical Objectives and Challenges.</h5></p>
+                    (up to 500 words)
+                  </span>
+                </div>
+                <div class="feature-block">
+                  <span class="feature-item item-3">
+                    3.
+                  </span>
+                  <span class="feature-text">
+                    <p><h5>The Market Opportunity.</h5></p>
+                    (up to 500 words)
+                  </span>
+                </div>
+                <div class="feature-block">
+                  <span class="feature-item item-4">
+                    4.
+                  </span>
+                  <span class="feature-text">
+                    <p><h5>The Company and Team.</h5></p>
+                    (up to 500 words)
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="blue-section">
+            <div class="content">
+              <h3>ROLLING SUBMISSIONS</h3>
+              <h3>+ DEADLINES </h3>
+              <b>We accept Project Pitches at any time (24/7) and 365 days a year. Typically, it takes about one month to get an official response from NSF staff.</b>
+              <p><button class="yellow-button">SUBMIT YOUR PROJECT PITCH</button></p>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -186,59 +217,70 @@ css: /assets/css/slider.css
     <!-- The ID must be unique so the label will point to the input-->
     <input id="rad4" type="radio" name="rad"/>
     <label for="rad4">
-      <div>Fourth panel</div>
+      <div>GET UPDATES</div>
     </label>
     <div class="accslide">
       <div class="content">
-        <div class="innerScroll">
-          <h2>Fourth panel Heading</h2>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
-          <p>Lorem ipsum...</p>
+        <div class="innerScroll" style="background-image: url('/assets/img/bg/bolt.png');">
+          <div class="image-margin">
+            <h1>SUBMIT YOUR</h1><h1>PROJECT PITCH</h1>
+          </div>
+          <div class="inner-clip title">
+            <p><h4>YOUR BREAKTHROUGH IS ABOUT </h4><h4>TO HAVE A BREAKTHROUGH</h4></p>
+          </div>
+          <div class="inner-body">
+            <div>
+              <div class="usa-width-one-half padded-block">
+              <p><h4>Here are the four key questions you’ll be asked to answer when submitting your pitch:</h4></p>
+              </div>
+              <div class="usa-width-one-half padded-block">
+                <div class="feature-block">
+                  <span class="feature-item item-1">
+                    1.
+                  </span>
+                  <span class="feature-text">
+                    <p><h5>The Technology Innovation.</h5></p>
+                    (up to 500 words)
+                  </span>
+                </div>
+                <div class="feature-block">
+                  <span class="feature-item item-2">
+                    2.
+                  </span>
+                  <span class="feature-text">
+                    <p><h5>The Technical Objectives and Challenges.</h5></p>
+                    (up to 500 words)
+                  </span>
+                </div>
+                <div class="feature-block">
+                  <span class="feature-item item-3">
+                    3.
+                  </span>
+                  <span class="feature-text">
+                    <p><h5>The Market Opportunity.</h5></p>
+                    (up to 500 words)
+                  </span>
+                </div>
+                <div class="feature-block">
+                  <span class="feature-item item-4">
+                    4.
+                  </span>
+                  <span class="feature-text">
+                    <p><h5>The Company and Team.</h5></p>
+                    (up to 500 words)
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="blue-section">
+            <h4>ROLLING SUBMISSIONS</h4>
+            <h4>+ DEADLINES </h4>
+            <b>We accept Project Pitches at any time (24/7) and 365 days a year. Typically, it takes about one month to get an official response from NSF staff.</b>
+            <p>
+            <button class="yellow-button">SUBMIT YOUR PROJECT PITCH</button>
+            </p>
+          </div>
         </div>
       </div>
     </div>
