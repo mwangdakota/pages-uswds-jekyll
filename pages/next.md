@@ -25,7 +25,7 @@ css: /assets/css/slider.css
     </label>
     <div class="accslide">
       <div class="content">
-        <div class="innerScroll" style="background-image: url('/assets/img/bg/arable-2c-s-ph.jpg');">
+        <div class="innerScroll" style="background-image: url('{{ site.baseurl }}/assets/img/bg/arable-2c-s-ph.jpg');">
           <div class="image-margin">
             <h1>GETTING</h1><h1>STARTED</h1>
           </div>
@@ -74,7 +74,7 @@ css: /assets/css/slider.css
     </label>
     <div class="accslide">
       <div class="content">
-        <div class="innerScroll" style="background-image: url('/assets/img/bg/altaeros.jpg');">
+        <div class="innerScroll" style="background-image: url('{{ site.baseurl }}/assets/img/bg/altaeros.jpg');">
           <div class="image-margin">
             <h1>THE</h1><h1>QUALIFICATIONS</h1>
           </div>
@@ -89,7 +89,7 @@ css: /assets/css/slider.css
               <div class="usa-width-one-half padded-block">
                 <div class="feature-block">
                   <span class="feature-image">
-                    <img src="/assets/img/globe.svg" alt="Global">
+                    <img src="{{ site.baseurl }}/assets/img/globe.svg" alt="Global">
                   </span>
                   <span class="feature-text">
                     <p><h5>Impact:</h5></p>
@@ -98,7 +98,7 @@ css: /assets/css/slider.css
                 </div>
                 <div class="feature-block">
                   <span class="feature-image">
-                    <img src="/assets/img/lightbulb.svg" alt="Ideas">
+                    <img src="{{ site.baseurl }}/assets/img/lightbulb.svg" alt="Ideas">
                   </span>
                   <span class="feature-text">
                     <p><h5>Technological Innovation:</h5></p>
@@ -107,7 +107,7 @@ css: /assets/css/slider.css
                 </div>
                 <div class="feature-block">
                   <span class="feature-image">
-                    <img src="/assets/img/expand.svg" alt="Expansion">
+                    <img src="{{ site.baseurl }}/assets/img/expand.svg" alt="Expansion">
                   </span>
                   <span class="feature-text">
                     <p><h5>Scale:</h5></p>
@@ -116,7 +116,7 @@ css: /assets/css/slider.css
                 </div>
                 <div class="feature-block">
                   <span class="feature-image">
-                    <img src="/assets/img/checkbox.svg" alt="Check">
+                    <img src="{{ site.baseurl }}/assets/img/checkbox.svg" alt="Check">
                   </span>
                   <span class="feature-text">
                     <p><h5>Market Pull:</h5></p>
@@ -150,7 +150,7 @@ css: /assets/css/slider.css
     </label>
     <div class="accslide">
       <div class="content">
-        <div class="innerScroll" style="background-image: url('/assets/img/bg/bolt.png');">
+        <div class="innerScroll" style="background-image: url('{{ site.baseurl }}/assets/img/bg/bolt.png');">
           <div class="image-margin">
             <h1>SUBMIT YOUR</h1><h1>PROJECT PITCH</h1>
           </div>
@@ -223,7 +223,7 @@ css: /assets/css/slider.css
     </label>
     <div class="accslide">
       <div class="content">
-        <div class="innerScroll" style="background-image: url('/assets/img/bg/bolt.png');">
+        <div class="innerScroll" style="background-image: url('{{ site.baseurl }}/assets/img/bg/bolt.png');">
           <div class="image-margin">
             <h1>SUBMIT YOUR</h1><h1>PROJECT PITCH</h1>
           </div>
