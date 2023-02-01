@@ -266,7 +266,7 @@ var myCarousel = (function() {
 
                     li.innerHTML = '<button ' + klass + 'data-slide="' + i + '" type="button" aria-controls="' + settings.id + '">' +
 
-                    	'<span class="usa-sr-only">' + (settings.slideLabel ? settings.slideLabel : 'News') + ' ' + (i + 1) + kurrent + '</span> ' +
+                    	'<span class="usa-sr-only" style="color:black;">' + (settings.slideLabel ? settings.slideLabel : 'News') + ' ' + (i + 1) + kurrent + '</span> ' +
 
                 	'</button>';
 
