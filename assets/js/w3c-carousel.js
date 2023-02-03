@@ -513,13 +513,13 @@ var myCarousel = (function() {
 
                 buttons[j].className = '';
 
-                buttons[j].innerHTML = '<span class="usa-sr-only">' + (settings.slideLabel ? settings.slideLabel : 'News') + ' ' + (j + 1) + '</span>';
+                buttons[j].innerHTML = '<span class="usa-sr-only" style="color:black;">' + (settings.slideLabel ? settings.slideLabel : 'News') + ' ' + (j + 1) + '</span>';
 
             }
 
             buttons[new_current].className = "current";
 
-            buttons[new_current].innerHTML = '<span class="usa-sr-only">' + (settings.slideLabel ? settings.slideLabel : 'News') + ' ' + (new_current + 1) + ' (Current)</span>';
+            buttons[new_current].innerHTML = '<span class="usa-sr-only" style="color:black;">' + (settings.slideLabel ? settings.slideLabel : 'News') + ' ' + (new_current + 1) + ' (Current)</span>';
 
         }
 
