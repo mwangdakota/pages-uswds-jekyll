@@ -1,0 +1,5 @@
+---
+title: Next
+permalink: /next/
+
+---
