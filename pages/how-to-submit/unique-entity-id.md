@@ -10,7 +10,7 @@ sidenav: how-to-submit
 You MUST register to do business with the U.S. government through [System for Award Management (SAM)](https://www.sam.gov/SAM/). An active SAM.gov registration is needed to receive a Unique Entity ID (UEI) to create an account in Research.gov and submit a proposal to NSF. 
 
 ## Timing
-This registration process is free and takes only 10-15 minutes to initiate but can take up to one month to complete. Sometimes SAM registrations can take longer if the registration information provided in SAM is incomplete or accurate.
+This registration process is free and takes only 10-15 minutes to initiate but can take up to one month to complete. Sometimes SAM registrations can take longer if the registration information provided in SAM is incomplete or not accurate.
 
 NOTE: Once your new SAM registration is active, it takes up to two business days for NSF to receive and process your SAM information. New organizations cannot register with NSF until the organization’s active SAM registration information is processed by NSF.
 
@@ -27,8 +27,7 @@ When you register, you’ll have to share bank account information of the accoun
 ## Financial assistance v. contract authority 
 To submit proposals to NSF SBIR/STTR, you only need to request “financial assistance” authority and do NOT need “contract” authority (which can be a much longer process to obtain). 
 
-##Important note about UEI numbers
-The Unique Entity ID Number does not expire. However, SAM registrations must be updated and renewed each year to remain in the “active registration” status. If you do not update or renew your registration, it will be in an “inactive” status, but your entity will still have its same UEI. If a registration is not active, an organization will not be able to submit a proposal. Additionally, if the registration is not revalidated annually, NSF will block any award approval actions. 
+** Important note about UEI numbers: The Unique Entity ID Number does not expire. However, SAM registrations must be updated and renewed each year to remain in the “active registration” status. If you do not update or renew your registration, it will be in an “inactive” status, but your entity will still have its same UEI. If a registration is not active, an organization will not be able to submit a proposal. Additionally, if the registration is not revalidated annually, NSF will block any award approval actions. 
 
 ## Subrecipients must obtain a UEI 
 Any subrecipient(s) named in a proposal is also required to obtain a SAM.gov-issued Unique Entity ID (UEI) and register the organization with NSF. Once these two steps are complete, the subrecipient organization may be added to the proposal with the UEI.
