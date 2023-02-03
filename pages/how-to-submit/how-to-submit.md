@@ -3,6 +3,7 @@ title: Overview
 permalink: /how-to-submit/
 layout: secondary-narrow
 sidenav: how-to-submit
+redirect_from: /next
 ---
 # Overview
 
