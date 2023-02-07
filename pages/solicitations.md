@@ -1,5 +1,5 @@
 ---
-title: Press
+title: Solicitations
 permalink: /solicitations/
 redirect_from:
 layout: secondary-narrow
