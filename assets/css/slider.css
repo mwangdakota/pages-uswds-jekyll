@@ -232,6 +232,7 @@ section.slider li {
 .slider .innerScroll {
   height: 100vh;
   overflow-y: scroll;
+  overflow-y: overlay;
   background-size: 100%;
   background-repeat: no-repeat;
 }
@@ -255,6 +256,10 @@ section.slider li {
 
 .slider ::-webkit-scrollbar-thumb:hover {
   background-color: #a8bbbf;
+}
+
+.slider .list-content {
+  columns: 2;
 }
 
 .slider .foot {

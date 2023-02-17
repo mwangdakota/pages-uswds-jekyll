@@ -1,0 +1,260 @@
+@import url('https://fonts.cdnfonts.com/css/gotham');
+
+.slider {
+  max-width: 1920px;
+  margin: auto;
+  font-family: 'Gotham', sans-serif;
+}
+
+.slider * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.slider li {
+  max-width: 100%;
+}
+.slider html, .slider body {
+  height: 100%;
+  margin: 0;
+}
+
+.slider body {
+  background: #1C1F2B;
+  color: #fff;
+  font-family: "Gotham", sans-serif;
+}
+
+
+.slider h4 {
+  letter-spacing: 1.5px;
+}
+
+.slider .image-margin {
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+}
+
+.slider .hollow-button{
+  border-radius: 25px;
+  border: 2px solid #000;
+  padding: 10px;
+  background: none;
+  color:#123360;
+  cursor: pointer;
+  margin:10px;
+}
+.slider .yellow-button{
+  background: #FDF060 0% 0% no-repeat padding-box;
+  padding: 10px;
+  border-radius: 25px;
+  margin:10px;
+}
+.slider h1 {
+  color:#ffffff;
+  font-size: 45px;
+  line-height: 75px;
+}
+.slider .inner-clip {
+  position: relative;
+  text-align: center;
+  bottom: -1px;
+  padding: 40px 40px 0px 40px;
+  background: #fff;
+  -webkit-clip-path: polygon(85% 0, 100% 30%, 100% 100%, 0 100%, 0 0);
+  clip-path: polygon(85% 0, 100% 30%, 100% 100%, 0 100%, 0 0);
+}
+
+.slider .inside-slide
+{
+  position:relative;
+}
+
+.slider .inner-centered {
+  text-align: center;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+.slider .inner-body {
+  overflow: auto;
+  background: #fff;
+}
+
+.slider .feature-image {
+  width: 20%;
+  float: left;
+  padding:20px;
+}
+
+.slider .feature-item {
+  width: 20%;
+  float: left;
+  letter-spacing: 1.38px;
+  text-align: center;
+  font-size: 40px;
+}
+
+.slider .item-1 {
+  color: #43A5E6;
+}
+
+.slider .item-2 {
+  color: #5D73E6;
+}
+.slider .item-3 {
+  color: #724EE6;
+}
+.slider .item-4 {
+  color: #8B1FE6;
+}
+.slider .feature-text {
+  width: 75%;
+  float: left;
+  padding:15px;
+}
+
+.slider .padded-block {
+  padding: 30px;
+}
+
+.slider .blue-section {
+  background: #E5F3F8 0% 0% no-repeat padding-box;
+  opacity: 1;
+  overflow: auto;
+
+.slider .blue-section .content {
+  width:80%;
+  margin:auto;
+}
+
+.slider .blue-section .content-centered {
+  width:80%;
+  margin:auto;
+  padding:20px;
+}
+
+.slider .blue-section ul {
+  column-gap: 8rem;
+  padding:20px;
+  list-style-type: none;
+}
+
+.slider .blue-section h4 {
+  color: #123360;
+}
+
+.slider .blue-section li {
+  break-inside: avoid-column;
+  margin-bottom: 10px;
+}
+/*mobile code*/
+.slider div.accslide{
+  max-height:0px;
+  overflow: hidden;
+  transition:max-height 0.5s;
+  background-color: white;
+  box-shadow:0 0 10px 0 rgba(0, 0, 0, 0.2);
+}
+.slider div.accslide p {
+  padding:2em;
+}
+
+.slider [type=checkbox]+label::before {
+  content:none;
+}
+
+.slider input + label {
+  text-align: right;
+  padding: 20px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.slider li#slide1 .inside-slide > input + label {
+  background: #43A5E6;
+  box-shadow: 0px 0px 6px #00000033;
+}
+
+.slider li#slide2 .inside-slide > input + label {
+  background: #5D73E6;
+  box-shadow: 0px 0px 6px #00000031;
+}
+
+.slider li#slide3 .inside-slide > input + label {
+  background: #724EE6;
+  box-shadow: 0px 0px 6px #00000029;
+}
+
+.slider li#slide4 .inside-slide > input + label {
+  background: #8B1FE6;
+  box-shadow: 0px 0px 6px #00000027;
+}
+
+.slider input:checked ~ h1 label::before{
+  border-left:15px solid transparent;
+  border-top:20px solid white;
+  margin-top:12px;
+  margin-right:10px;
+}
+.slider input:checked ~ div.accslide{
+  max-height:100%;
+}
+
+.slider .auto-resizable-iframe {
+  max-width: 560px;
+  margin: 0px auto;
+}
+
+.slider .auto-resizable-iframe > div {
+  position: relative;
+  padding-bottom: 75%;
+  height: 0px;
+}
+
+.slider .auto-resizable-iframe iframe {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+.slider .feature-videos {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  width: auto;
+  overscroll-behavior-x: contain;
+  scroll-snap-type: x mandatory;
+}
+
+.slider .feature-video {
+  scroll-snap-align: center;
+}
+.slider iframe {
+  max-width: inherit;
+}
+
+/* custom scrollbar */
+.slider ::-webkit-scrollbar {
+  width: 20px;
+}
+
+.slider ::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+.slider ::-webkit-scrollbar-thumb {
+  background-color: #d6dee1;
+  border-radius: 20px;
+  border: 6px solid transparent;
+  background-clip: content-box;
+}
+
+.slider ::-webkit-scrollbar-thumb:hover {
+  background-color: #a8bbbf;
+}
