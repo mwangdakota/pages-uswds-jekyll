@@ -151,7 +151,8 @@
   break-inside: avoid-column;
   margin-bottom: 10px;
 }
-/*mobile code*/
+
+
 .slider div.accslide{
   max-height:0px;
   overflow: hidden;
