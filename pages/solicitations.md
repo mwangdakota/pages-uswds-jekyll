@@ -1,7 +1,7 @@
 ---
 title: Solicitations
 permalink: /solicitations/
-redirect_from:
+redirect_from: /solicitation/
 layout: secondary-narrow
 ---
 
