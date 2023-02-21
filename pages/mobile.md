@@ -49,12 +49,12 @@ css: /assets/css/mobileslider.css
                 <div class="usa-width-one-half padded-block">
                   <div class="feature-videos">
                     <div class="feature-video">
-                          <iframe width="400" height="255" src="https://www.youtube.com/embed/vS0TuIPoeBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                          <iframe width="300" height="200" src="https://www.youtube.com/embed/vS0TuIPoeBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                       <p><a href="#">Mango Technologies</a></p>
                       <p>funded 2021</p>
                     </div>
                     <div class="feature-video">
-                          <iframe width="400" height="255" src="https://www.youtube.com/embed/Znsa4Deavgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                          <iframe width="300" height="200" src="https://www.youtube.com/embed/Znsa4Deavgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                       <p><a href="#">Oregano Builds</a></p>
                       <p>funded 2012</p>
                     </div>
