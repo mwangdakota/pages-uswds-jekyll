@@ -20,8 +20,12 @@ css: /assets/css/mobileslider.css
       <!-- Using radio inputs means only one can be selected at a time-->
       <!-- The ID must be unique so the label will point to the input-->
       <div class="inside-slide">
-        <input id="check1" type="checkbox"/>
-        <label for="check1">
+        <input id="check1" class="mobile-checkbox" type="checkbox"/>
+        <label class="mobile-checkbox" for="check1">
+          <div>GETTING STARTED</div>
+        </label>
+        <input class="desktop-radio" id="rad1" type="radio" class="desktop-radio" name="rad" checked="checked"/>
+        <label class="desktop-radio" for="rad1">
           <div>GETTING STARTED</div>
         </label>
         <div class="accslide">
@@ -62,7 +66,11 @@ css: /assets/css/mobileslider.css
                   </div>
                 </div>
               </div>
+              <div class="next-link">
+                <button class="next-button">THE QUALIFICATIONS</button>
+              </div>
             </div>
+            <div class="altTab">GETTING STARTED</div>
           </div>
         </div>
       </div>
@@ -71,8 +79,12 @@ css: /assets/css/mobileslider.css
       <!-- Using radio inputs means only one can be selected at a time-->
       <!-- The ID must be unique so the label will point to the input-->
       <div class="inside-slide">
-        <input id="check2" type="checkbox"/>
-        <label for="check2">
+        <input id="check2" class="mobile-checkbox" type="checkbox"/>
+        <label class="mobile-checkbox" for="check2">
+          <div>QUALIFICATIONS</div>
+        </label>
+        <input class="desktop-radio"  id="rad2" type="radio" class="desktop-radio" name="rad"/>
+        <label class="desktop-radio" for="rad2">
           <div>QUALIFICATIONS</div>
         </label>
         <div class="accslide">
@@ -140,7 +152,11 @@ css: /assets/css/mobileslider.css
                   <li>The principal investigator needs to commit to at least one month (173 hours) of work on a funded project per six months of project duration.</li>
                 </ul>
               </div>
+              <div class="next-link">
+                <button class="next-button">SUBMIT YOUR PROJECT PITCH</button>
+              </div>
             </div>
+            <div class="altTab">QUALIFICATIONS</div>
           </div>
         </div>
       </div>
@@ -149,8 +165,12 @@ css: /assets/css/mobileslider.css
       <!-- Using radio inputs means only one can be selected at a time-->
       <!-- The ID must be unique so the label will point to the input-->
       <div class="inside-slide">
-        <input id="check3" type="checkbox"/>
-        <label for="check3">
+        <input id="check3" class="mobile-checkbox" type="checkbox"/>
+        <label class="mobile-checkbox" for="check3">
+          <div>SUBMIT YOUR PROJECT PITCH</div>
+        </label>
+        <input class="desktop-radio" id="rad3" type="radio" class="desktop-radio" name="rad" />
+        <label class="desktop-radio" for="rad3">
           <div>GETTING STARTED</div>
         </label>
         <div class="accslide">
@@ -212,10 +232,14 @@ css: /assets/css/mobileslider.css
                 <h4>+ DEADLINES </h4>
                 <div class="content-centered">
                   <b>We accept Project Pitches at any time (24/7) and 365 days a year. Typically, it takes about one month to get an official response from NSF staff.</b>
-                  <br><button class="yellow-button">SUBMIT YOUR PROJECT PITCH</button>
+                  <div><button class="yellow-button">SUBMIT YOUR PROJECT PITCH</button></div>
                 </div>
               </div>
+              <div class="next-link">
+                <button class="next-button">GETTING UPDATES</button>
+              </div>
             </div>
+            <div class="altTab">SUBMIT YOUR PROJECT PITCH</div>
           </div>
         </div>
       </div>
@@ -224,88 +248,97 @@ css: /assets/css/mobileslider.css
       <!-- Using radio inputs means only one can be selected at a time-->
       <!-- The ID must be unique so the label will point to the input-->
       <div class="inside-slide">
-        <input id="check4" type="checkbox"/>
-        <label for="check4">
-          <div>GETTING STARTED</div>
+        <input id="check4" class="mobile-checkbox" type="checkbox"/>
+        <label class="mobile-checkbox" for="check4">
+          <div>GETTING UPDATES</div>
+        </label>
+        <input id="rad4" type="radio" class="desktop-radio" name="rad"/>
+        <label class="desktop-radio" for="rad4">
+          <div>GETTING UPDATES</div>
         </label>
         <div class="accslide">
           <div class="container">
-            <div id="home" role="main">
-              <div id="inner-content" class="panel panel-orange">
-                <div id="contentHead"><h1 class="pageheadline">Interested in more information from NSF?</h1></div>
+            <div class="innerScroll" style="background-image: url('{{ site.baseurl }}/assets/img/bg/hero-sigray.jpg');">
+              <div class="image-margin">
+                <h1>GET</h1>
+                <h1>UPDATES</h1>
+              </div>
+              <div class="inner-clip title">
+                <p><h3>YOUR BREAKTHROUGH IS ABOUT </h3><h3>TO HAVE A BREAKTHROUGH</h3></p>
+              </div>
+              <div class="inner-body" id="formContainer">
                 <p>
                   <strong>Learn more about NSF Innovation Programs</strong> <br>
                   NSF programs strengthen the innovation ecosystem and transform discoveries into innovative commercial technologies with societal benefits.<br>
                   <br>
                   Please complete the form below to receive emails from NSF. We will send you information about NSF innovation programs, events, highlights and more.
                 </p>
-                <div id="formContainer">
-                  <form action="https://cloud.go2.nsf.gov/NSF_Form_IFrame" method="post" class="form-inline" id="formC">
-                    <style type="text/css">
-                      form.form p label {
-                        color: #000000; 
-                      }
-                    </style>
-                    <p class="form-field first_name pd-text required">
-                      <label class="field-label" for="Firstname">First Name:</label>
-                      <input type="text" name="Firstname" id="Firstname" value="" class="text" size="30" maxlength="40" onchange="" onfocus="" style=" background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHklEQVQ4EaVTO26DQBD1ohQWaS2lg9JybZ+AK7hNwx2oIoVf4UPQ0Lj1FdKktevIpel8AKNUkDcWMxpgSaIEaTVv3sx7uztiTdu2s/98DywOw3Dued4Who/M2aIx5lZV1aEsy0+qiwHELyi+Ytl0PQ69SxAxkWIA4RMRTdNsKE59juMcuZd6xIAFeZ6fGCdJ8kY4y7KAuTRNGd7jyEBXsdOPE3a0QGPsniOnnYMO67LgSQN9T41F2QGrQRRFCwyzoIF2qyBuKKbcOgPXdVeY9rMWgNsjf9ccYesJhk3f5dYT1HX9gR0LLQR30TnjkUEcx2uIuS4RnI+aj6sJR0AM8AaumPaM/rRehyWhXqbFAA9kh3/8/NvHxAYGAsZ/il8IalkCLBfNVAAAAABJRU5ErkJggg=='); background-repeat: no-repeat; background-attachment: scroll; background-size: 16px 18px; background-position: 98% 50%; cursor: auto;">
-                    </p>
-                    <div id="error_for_392062_236360pi_392062_236360" style="display: none;"></div>
-                    <p class="form-field last_name pd-text required">
-                      <label class="field-label" for="Lastname">Last Name:</label>
-                      <input type="text" name="Lastname" id="Lastname" value="" class="text" size="30" maxlength="80" onchange="" onfocus="">
-                    </p>
-                    <div id="error_for_392062_236362pi_392062_236362" style="display: none;"></div>
-                    <p class="form-field email pd-text required">
-                      <label class="field-label" for="Email">Email:</label>
-                      <input type="text" name="Email" id="Email" value="" class="text" size="30" maxlength="255" onchange="" onfocus="">
-                    </p>
-                    <div id="error_for_392062_236364pi_392062_236364" style="display: none;"></div>
-                    <p class="form-field zip pd-text required">
-                      <label class="field-label" for="Zip">Zip Code:</label>
-                      <input type="text" name="Zip" id="Zip" value="" class="text" size="30" maxlength="32" onchange="" onfocus="">
-                    </p>
-                    <div id="error_for_392062_236366pi_392062_236366" style="display: none;"></div>
-                    <p class="form-field Persona pd-select required">
-                      <label class="" for="Information">Information For:</label>
-                      <select name="Information" id="Information" size="4" multiple="multiple" onchange="" style="width:350px;">
-                        <option value="Student in associate degree program">Student in associate degree program</option>
-                        <option value="Student in bachelor’s degree program">
-                          Student in bachelor’s degree program
-                        </option>
-                        <option value="Student in doctoral or master’s degree program">Student in doctoral or master’s degree program</option>
-                        <option value="Post-doctoral fellow">
-                          Post-doctoral fellow
-                        </option>
-                        <option value="Early-career faculty member">
-                          Early-career faculty member
-                        </option>
-                        <option value="Mid-career faculty member">
-                          Mid-career faculty member
-                        </option>
-                        <option value="Tenured or senior faculty member">
-                          Tenured or senior faculty member
-                        </option>
-                      </select>
-                    </p>
-                    <div id="error_for_392062_236368pi_392062_236368" style="display: none;"></div>
-                    <p class="form-field Tech_Bucket pd-select required">
-                      <label class="field-label" for="TechArea">Tech Area</label>
-                      <select name="TechArea" id="TechArea" class="select" onchange="">
-                        <option value="" selected="selected">--select--</option>
-                        <option value="Chemistry and Environment">
-                          Chemistry and Environment
-                        </option>
-                        <option value="Electronics, IoT, Robotics">
-                          Electronics, IoT, Robotics
-                        </option>
-                        <option value="Information Technologies">
-                          Information Technologies
-                        </option>
-                        <option value="Learning, Cognition, Social and Economic Sciences">
-                         Learning, Cognition, Social and Economic Sciences
-                       </option>
-                       <option value="Life Sciences">
+                <form action="https://cloud.go2.nsf.gov/NSF_Form_IFrame" method="post" class="form-inline" id="formC">
+                  <style type="text/css">
+                    form.form p label {
+                      color: #000000; 
+                    }
+                  </style>
+                  <p class="form-field first_name pd-text required">
+                    <label class="field-label" for="Firstname">First Name:</label>
+                    <input type="text" name="Firstname" id="Firstname" value="" class="text" size="30" maxlength="40" onchange="" onfocus="" style=" background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHklEQVQ4EaVTO26DQBD1ohQWaS2lg9JybZ+AK7hNwx2oIoVf4UPQ0Lj1FdKktevIpel8AKNUkDcWMxpgSaIEaTVv3sx7uztiTdu2s/98DywOw3Dued4Who/M2aIx5lZV1aEsy0+qiwHELyi+Ytl0PQ69SxAxkWIA4RMRTdNsKE59juMcuZd6xIAFeZ6fGCdJ8kY4y7KAuTRNGd7jyEBXsdOPE3a0QGPsniOnnYMO67LgSQN9T41F2QGrQRRFCwyzoIF2qyBuKKbcOgPXdVeY9rMWgNsjf9ccYesJhk3f5dYT1HX9gR0LLQR30TnjkUEcx2uIuS4RnI+aj6sJR0AM8AaumPaM/rRehyWhXqbFAA9kh3/8/NvHxAYGAsZ/il8IalkCLBfNVAAAAABJRU5ErkJggg=='); background-repeat: no-repeat; background-attachment: scroll; background-size: 16px 18px; background-position: 98% 50%; cursor: auto;">
+                  </p>
+                  <div id="error_for_392062_236360pi_392062_236360" style="display: none;"></div>
+                  <p class="form-field last_name pd-text required">
+                    <label class="field-label" for="Lastname">Last Name:</label>
+                    <input type="text" name="Lastname" id="Lastname" value="" class="text" size="30" maxlength="80" onchange="" onfocus="">
+                  </p>
+                  <div id="error_for_392062_236362pi_392062_236362" style="display: none;"></div>
+                  <p class="form-field email pd-text required">
+                    <label class="field-label" for="Email">Email:</label>
+                    <input type="text" name="Email" id="Email" value="" class="text" size="30" maxlength="255" onchange="" onfocus="">
+                  </p>
+                  <div id="error_for_392062_236364pi_392062_236364" style="display: none;"></div>
+                  <p class="form-field zip pd-text required">
+                    <label class="field-label" for="Zip">Zip Code:</label>
+                    <input type="text" name="Zip" id="Zip" value="" class="text" size="30" maxlength="32" onchange="" onfocus="">
+                  </p>
+                  <div id="error_for_392062_236366pi_392062_236366" style="display: none;"></div>
+                  <p class="form-field Persona pd-select required">
+                    <label class="" for="Information">Information For:</label>
+                    <select name="Information" id="Information" size="4" multiple="multiple" onchange="" style="width:350px;">
+                      <option value="Student in associate degree program">Student in associate degree program</option>
+                      <option value="Student in bachelor’s degree program">
+                        Student in bachelor’s degree program
+                      </option>
+                      <option value="Student in doctoral or master’s degree program">Student in doctoral or master’s degree program</option>
+                      <option value="Post-doctoral fellow">
+                        Post-doctoral fellow
+                      </option>
+                      <option value="Early-career faculty member">
+                        Early-career faculty member
+                      </option>
+                      <option value="Mid-career faculty member">
+                        Mid-career faculty member
+                      </option>
+                      <option value="Tenured or senior faculty member">
+                        Tenured or senior faculty member
+                      </option>
+                    </select>
+                  </p>
+                  <div id="error_for_392062_236368pi_392062_236368" style="display: none;"></div>
+                  <p class="form-field Tech_Bucket pd-select required">
+                    <label class="field-label" for="TechArea">Tech Area</label>
+                    <select name="TechArea" id="TechArea" class="select" onchange="">
+                      <option value="" selected="selected">--select--</option>
+                      <option value="Chemistry and Environment">
+                        Chemistry and Environment
+                      </option>
+                      <option value="Electronics, IoT, Robotics">
+                        Electronics, IoT, Robotics
+                      </option>
+                      <option value="Information Technologies">
+                        Information Technologies
+                      </option>
+                      <option value="Learning, Cognition, Social and Economic Sciences">
+                        Learning, Cognition, Social and Economic Sciences
+                      </option>
+                      <option value="Life Sciences">
                         Life Sciences
                       </option>                                                                                                                     
                       <option value="Materials and Manufacturing">
@@ -339,18 +372,18 @@ css: /assets/css/mobileslider.css
                     <button id="myButton" type="submit">Submit</button>
                   </div>
                 </form>
+                <p>
+                  <em>
+                    This email list is managed by the NSF’s Directorate for Technology, Innovation and Partnerships (TIP), which runs programs to help move discoveries out of the lab and into the market, such as America’s Seed Fund powered by NSF (SBIR/STTR) and Innovation Corps (I-Corps).                 
+                  </em>
+                </p>
+                <p><a href="https://beta.nsf.gov/tip/latest">Learn more about these programs by visiting the TIP webpage.</a></p>
               </div>
-              <p>
-                <em>
-                  This email list is managed by the NSF’s Directorate for Technology, Innovation and Partnerships (TIP), which runs programs to help move discoveries out of the lab and into the market, such as America’s Seed Fund powered by NSF (SBIR/STTR) and Innovation Corps (I-Corps).                 
-                </em>
-              </p>
-              <p><a href="https://beta.nsf.gov/tip/latest">Learn more about these programs by visiting the TIP webpage.</a></p>
             </div>
+            <div class="altTab">GET UPDATES</div>
           </div>
         </div>
       </div>
-    </div>
-  </li>
-</ul>
+    </li>
+  </ul>
 </section>
