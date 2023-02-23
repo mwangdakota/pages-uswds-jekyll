@@ -1,6 +1,7 @@
 ---
 title: Revised Budget
 permalink: /resources/awardees/phase-1/revised-budget/
+redirect_from: /fastlane/budget-changes/
 layout: resources-layout
 sidenav: phase-1
 ---
