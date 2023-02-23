@@ -10,7 +10,7 @@ sidenav: phase-1
 
 Phase I SBIR/STTR awardees must request permission from their program director to revise the budget. Please email your program director for permission.
  
-If your program director approves revising a budget, you can submit a revised budget in Research.gov. 
+If your program director approves revising a budget, you can submit a revised budget in <a href="https://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_home_page">Research.gov</a>. 
  
 Please note: A revised budget is not submitted to the NSF until both the company’s Principal Investigator (PI) and someone with Authorized Organizational Representative (AOR) privileges have also signed off in Research.gov.  This may require two separate logins and approvals in different locations in Research.gov.
  
