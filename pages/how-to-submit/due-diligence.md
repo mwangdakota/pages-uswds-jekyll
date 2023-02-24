@@ -18,129 +18,79 @@ Go to [https://nsfiip.force.com/mywork](https://nsfiip.force.com/mywork)
   - Fill in:<br>a. First Name<br>b. Last Name<br>c. Email<br>d. Create Password<br>e. Confirm Password
   - Click on <strong>“Sign Up”</strong> to be routed to the MyWork Communities Home page.
     ![Sign up]({{ site.baseurl }}/assets/img/submission/Duedil_2.signup.JPG)
-  
-  ### Existing Users
-  <ul>
-  <li>Go to the Salesforce link for UAT (User Acceptance Testing) environment: <br>
-    [https://uat-nsfiip.cs32.force.com/PIDashboard](https://uat-nsfiip.cs32.force.com/PIDashboard)</li>
-    
-  ![Log in]({{ site.baseurl }}/assets/img/submission/Duedil_3.Existing.JPG)
-  
-  <li>Enter <strong>“Username” and “Password”</strong> (existing credentials).</li>
-  
-  <li>Click on <strong>“Log In”</strong> to be routed to the MyWork Communities Home page.</li>
-       <li>Select <strong>SBIR/STTR Due Diligence</strong></li>
-        <li>Select <strong>Tasks</strong> from the drop-down menu.</li>
-        
-        ![Select task]({{ site.baseurl }}/assets/img/submission/Duedil_4.selectTask.JPG)
-        
-        <li>The Due Diligence screen is displayed.</li>
-        <li>Select <strong>View</strong> to view any record.</li>
-        
-         ![View record]({{ site.baseurl }}/assets/img/submission/Duedil_5.viewrecord.JPG)
-       
-        <li>The Due Diligence Forms screen is displayed.</li>
-        <li>Select <strong>View Submitted</strong> to view the submitted forms in a read only mode.</li>
-        <li>Select <strong>Continue</strong> to complete the form.</li>
-        <li>Enter the details.</li>
-        <li>Select <strong>Finish and Submit</strong>.</li>
-        
-        ![Forms]({{ site.baseurl }}/assets/img/submission/Duedil_6.forms.JPG)
-        ![Submit]({{ site.baseurl }}/assets/img/submission/Duedil_7.submit.JPG)
-  </ul>
-    
-## 2. Budget Proposal Submission
-  <ul>
-  <li>Select <strong>SBIR/STTR Due Diligence</strong>.</li>
-  <li>Select <strong>Tasks</strong> from the drop-down menu.</li>
-    
-  ![Budget proposal tasks]({{ site.baseurl }}/assets/img/submission/Duedil_8.budgettask.JPG)
-    
-  <li>The Due Diligence screen is displayed.</li>
-  <li>Select <strong>View</strong> to view any record.</li>
-  
-   ![Budget record]({{ site.baseurl }}/assets/img/submission/Duedil_9.budgetrecord.JPG)
-  
-  <li>The Due Diligence forms screen is displayed.</li>
-  <li>Select <strong>Start</strong> next to the Proposal Budget to begin submission OR select <strong>View Submitted</strong> to view the submitted Budget form.</li>
 
+### Existing Users
+  - Go to the Salesforce link for UAT (User Acceptance Testing) environment: <br>[https://uat-nsfiip.cs32.force.com/PIDashboard](https://uat-nsfiip.cs32.force.com/PIDashboard)    
+  ![Log in]({{ site.baseurl }}/assets/img/submission/Duedil_3.Existing.JPG)
+  - Enter <strong>“Username” and “Password”</strong> (existing credentials).
+  - Click on <strong>“Log In”</strong> to be routed to the MyWork Communities Home page.
+  - Select <strong>SBIR/STTR Due Diligence</strong>.
+  - Select <strong>Tasks</strong> from the drop-down menu.
+  ![Select task]({{ site.baseurl }}/assets/img/submission/Duedil_4.selectTask.JPG)
+  - The Due Diligence screen is displayed.
+  - Select <strong>View</strong> to view any record.
+  ![View record]({{ site.baseurl }}/assets/img/submission/Duedil_5.viewrecord.JPG)
+  - The Due Diligence Forms screen is displayed.
+  - Select <strong>View Submitted</strong> to view the submitted forms in a read only mode.
+  - Select <strong>Continue</strong> to complete the form.
+  - Enter the details.
+  - Select <strong>Finish and Submit</strong>.        
+   ![Forms]({{ site.baseurl }}/assets/img/submission/Duedil_6.forms.JPG)
+   ![Submit]({{ site.baseurl }}/assets/img/submission/Duedil_7.submit.JPG)
+      
+## 2. Budget Proposal Submission
+  - Select <strong>SBIR/STTR Due Diligence</strong>.
+  - Select <strong>Tasks</strong> from the drop-down menu.
+  ![Budget proposal tasks]({{ site.baseurl }}/assets/img/submission/Duedil_8.budgettask.JPG)
+  - The Due Diligence screen is displayed.
+  - Select <strong>View</strong> to view any record.
+  ![Budget record]({{ site.baseurl }}/assets/img/submission/Duedil_9.budgetrecord.JPG)
+  - The Due Diligence forms screen is displayed.
+  - Select <strong>Start</strong> next to the Proposal Budget to begin submission OR select <strong>View Submitted</strong> to view the submitted Budget form.
   ![Start budget]({{ site.baseurl }}/assets/img/submission/Duedil_10.startbudget.JPG)
-  
-  <li>Click on the <strong>organization name</strong>.</li>
-  
+  - Click on the <strong>organization name</strong>.
   ![View organization]({{ site.baseurl }}/assets/img/submission/Duedil_11.vieworg.JPG)
-  
-  <li>Enter all the financial information, upload any files as required.</li>
-  <li>Check the <strong>“consent box”</strong> and select <strong>“Save”</strong>.</li>
-  <li>The status on the Dashboard is updated.</li>
-  
+  - Enter all the financial information, upload any files as required.
+  - Check the <strong>“consent box”</strong> and select <strong>“Save”</strong>.
+  - The status on the Dashboard is updated.
   ![Enter info]({{ site.baseurl }}/assets/img/submission/Duedil_12.enterinfo.JPG)
-  
-  </ul>
 
 ## 3. E-Signature
   Follow the steps below to sign documents requested from the Program Director.
   
-  <ul>
-  <li>Select <strong>click here to sign</strong> from the email you have received from your Program Director</li>
-  
+  - Select <strong>click here to sign</strong> from the email you have received from your Program Director
   ![Click to sign]({{ site.baseurl }}/assets/img/submission/Duedil_13.clicktosign.JPG)
-  
-  <li>Users are navigated to the verification screen.</li>
-  <li>Select <strong>“Send Email”</strong> from the verification email.</li>
-  
+  - Users are navigated to the verification screen.
+  - Select <strong>“Send Email”</strong> from the verification email.
   ![Send email]({{ site.baseurl }}/assets/img/submission/Duedil_14.sendemail.JPG)
-
-  <li>User will receive one time verification code via email.</li>
-  <li>Enter the code received and check the box <em>“I consent to doing business electronically"</em>.</li>
-  <li>Select <strong>“Continue”</strong>.</li>
-  
+  - User will receive one time verification code via email.
+  - Enter the code received and check the box <em>“I consent to doing business electronically"</em>.
+  - Select <strong>“Continue”</strong>.
   ![Consent]({{ site.baseurl }}/assets/img/submission/Duedil_15.consent.JPG)
+   - Once completed, user will be asked to enter the second signer if needed.
+   - Enter the email address of the “Authorized Organizational Representative – AOR”.
+   - Click <strong>“Continue”</strong>.
+   ![Aurthorized Organizational Representative]({{ site.baseurl }}/assets/img/submission/Duedil_16.AOR.JPG)
+   - Signature document will open.
+   - Signer 1 must sign by clicking on Sign Here.
+   - Enter the name or draw your signature or decline your signature.
+   - Select Next and submit.
+   ![Sign here]({{ site.baseurl }}/assets/img/submission/Duedil_17.signheresubmit.JPG)
 
-  <li>Once completed, user will be asked to enter the second signer if needed.</li>
-  <li>Enter the email address of the “Authorized Organizational Representative – AOR”.</li>
-  <li>Click <strong>“Continue”</strong>.</li>
-
-  ![Aurthorized Organizational Representative]({{ site.baseurl }}/assets/img/submission/Duedil_16.AOR.JPG)
-  
-  <li>Signature document will open.</li>
-  <li>Signer 1 must sign by clicking on Sign Here.</li>
-  <li>Enter the name or draw your signature or decline your signature.</li>
-  <li>Select Next and submit.</li>
-
-  ![Sign here]({{ site.baseurl }}/assets/img/submission/Duedil_17.signheresubmit.JPG)
-
-  </ul>
-  
 ## 4. Submit Due Diligence Documents 
-The steps below will guide the user on how to access and view the Due Diligence Documents and allow the user to view and submit their respective forms assigned to them.
+The steps below will guide the user on how to access and view the Due Diligence Documents and allow the user to view and submit their respective forms assigned to them.<br> NOTE: The Due Diligence Tasks and Documents option on the navigation bar is only available if the users have Due Diligence initiated. 
 
-NOTE: The Due Diligence Tasks and Documents option on the navigation bar is only available if the users have Due Diligence initiated. 
-
-<ul>
-  <li>From the Home page, select <strong>SBIR/STTR Due Diligence</strong>.</li>
-  <li>Select <strong>Documents</strong> from the drop-down menu. </li>
-  
+  From the Home page, select <strong>SBIR/STTR Due Diligence</strong>.
+  - Select <strong>Documents</strong> from the drop-down menu. 
   ![Select documents]({{ site.baseurl }}/assets/img/submission/Duedil_18.selectdocuments.JPG)
-  
-  <li>User will be redirected to the DUE DILIGENCE Documents page.</li>
-  <li>Select “Download” to save the document.
-    <ul>
-      <li>The Form title column will list different forms (ex. Admin, Funding, or Custom) assigned and available to download.</li>
-    </ul>    
-  </li>
-  
+  - User will be redirected to the DUE DILIGENCE Documents page.
+  - <li>Select “Download” to save the document.
+    - The Form title column will list different forms (ex. Admin, Funding, or Custom) assigned and available to download.
   ![Select documents]({{ site.baseurl }}/assets/img/submission/Duedil_19.Download.JPG)
-      
-  <li>The user will be prompt to download the pdf file.</li>
-  <li>The pdf file will include the selected form details submitted.</li>
-  
+  - The user will be prompt to download the pdf file.
+  - The pdf file will include the selected form details submitted.
   ![PDF download]({{ site.baseurl }}/assets/img/submission/Duedil_20.PDFdownloaded.JPG)
-  
-  </ul>
 
-
-  
   
   
 
