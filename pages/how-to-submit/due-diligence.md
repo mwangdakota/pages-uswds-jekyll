@@ -121,6 +121,40 @@ Go to [https://nsfiip.force.com/mywork](https://nsfiip.force.com/mywork)
   <li>Enter the name or draw your signature or decline your signature.</li>
   <li>Select Next and submit.</li>
 
+  ![Sign here]({{ site.baseurl }}/assets/img/submission/Duedil_17.signheresubmit.JPG)
+
+  </ul>
+  
+## 4. Submit Due Diligence Documents 
+The steps below will guide the user on how to access and view the Due Diligence Documents and allow the user to view and submit their respective forms assigned to them.
+
+NOTE: The Due Diligence Tasks and Documents option on the navigation bar is only available if the users have Due Diligence initiated. 
+
+<ul>
+  <li>From the Home page, select <strong>SBIR/STTR Due Diligence</strong>.</li>
+  <li>Select <strong>Documents</strong> from the drop-down menu. </li>
+  
+  ![Select documents]({{ site.baseurl }}/assets/img/submission/Duedil_18.selectdocuments.JPG)
+  
+  <li>User will be redirected to the DUE DILIGENCE Documents page.</li>
+  <li>Select “Download” to save the document.
+    <ul>
+      <li>The Form title column will list different forms (ex. Admin, Funding, or Custom) assigned and available to download.</li>
+    </ul>    
+  </li>
+  
+  ![Select documents]({{ site.baseurl }}/assets/img/submission/Duedil_19.Download.JPG)
+      
+  <li>The user will be prompt to download the pdf file.</li>
+  <li>The pdf file will include the selected form details submitted.</li>
+  
+  ![PDF download]({{ site.baseurl }}/assets/img/submission/Duedil_20.PDFdownloaded.JPG)
+  
+  </ul>
+
+
+  
+  
   
 
   
