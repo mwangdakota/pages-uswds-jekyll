@@ -1,122 +1,89 @@
 ---
-title: Fastlane Application Overview
+title: Project Pitch Guide
 permalink: /how-to-submit/project-pitch-guide/
 layout: secondary-narrow
 sidenav: how-to-submit
 ---
-# Project Pitch: User Guide For Communities
+# Project Pitch: My Work Community Portal
 
-The National Science Foundation updated its [Project Pitch submission portal](https://nsfiip.force.com/sbir){:target="_blank"} to provide users with a more secure and private experience. Now, a user must create a user account to submit a Project Pitch. In addition, a user must use credentials to sign in to respond to any active Project Pitches and/or Program Director requests. This user guide is provided to assist new and existing users in creating and managing their accounts.
+America’s Seed Fund powered by NSF accepts project pitches from startups and small businesses through its [MyWork Community portal](https://nsfiip.force.com/mywork). 
 
-## 1 Account Creation
-
-### 1.1 SBIR/STTR communities’ sign in
-
-<div><strong>1.1.1 Sign in page</strong></div>
-- Go to [https://nsfiip.force.com/sbir](https://nsfiip.force.com/sbir){:target="_blank"}
-- Click on **“Create an account”**
-
-![Sign in box]({{ site.baseurl }}/assets/img/pitch/1-1-1.png)
-<div style="text-align:center;"><p><em>Figure 1 User sign in page for SBIR/STTR</em></p></div>
-<br><br><br>
-
-<div><strong>1.1.2 Create an account page</strong></div> <br>
-Fill in  
-- First Name 
-- Last Name 
-- A valid Email Address 
-- Alphanumeric Password (10 characters, 1 letter, 1 number, 1 special character) 
-
-![Sign up button]({{ site.baseurl }}/assets/img/pitch/1-1-2.png)
-<div style="text-align:center;"><p><em>Figure 2 Creating a new account for SBIR/STTR communities</em></p></div>
-<br><br><br>
-
-<div><strong>1.1.3 SBIR/STTR project pitch form</strong></div> 
-- Click on “Sign Up” to be routed to the Project Pitch form. 
-- Fill in the remaining fields. 
-
-![Project pitch form]({{ site.baseurl }}/assets/img/pitch/1-1-3.png)
-<div style="text-align:center;"><p><em>Figure 3 SBIR/STTR project pitch form page 1 (prepopulated)</em></p></div>
-<br><br>
-![Project pitch form continued]({{ site.baseurl }}/assets/img/pitch/1-1-3-2.png)
-<div style="text-align:center;"><p><em>Figure 4 SBIR/STTR project pitch form page 1 (prepopulated)</em></p></div>
-<br><br><br>
-
-<div><strong>1.1.4 Complete the Project Pitch</strong></div>
-- Fill in all the form details to submit a Project Pitch. 
-
-![Project pitch form filled out]({{ site.baseurl }}/assets/img/pitch/1-1-4.png)
-<div style="text-align:center;"><p><em>Figure 5 SBIR/STTR project pitch form page 1 (filled)</em></p></div>
-<br><br>
-![Project pitch form filled out]({{ site.baseurl }}/assets/img/pitch/1-1-4-2.png)
-<div style="text-align:center;"><p><em>Figure 6  SBIR/STTR project pitch form page 1 (filled)</em></p></div>
-<br><br>
-![Project pitch form filled out]({{ site.baseurl }}/assets/img/pitch/1-1-4-3.png)
-<div style="text-align:center;"><p><em>Figure 7 SBIR/STTR project pitch form page 1 (filled)</em></p></div>
-<br><br>
-![Project pitch form filled out]({{ site.baseurl }}/assets/img/pitch/1-1-4-4.png)
-<div style="text-align:center;"><p><em>Figure 8  SBIR/STTR project pitch form page 2 (filled)</em></p></div>
-<br><br>
-![Project pitch form filled out]({{ site.baseurl }}/assets/img/pitch/1-1-4-5.png)
-<div style="text-align:center;"><p><em>Figure 9  SBIR/STTR project pitch form page 2 (filled)</em></p></div>
-<br><br><br>
-
-<div><strong>1.1.5 Form submission</strong></div>
-- **Write down the Project Pitch case number. (Don’t forget!)**
-- Sign out once you have submitted the Project Pitch.  
-
-![After submission screen]({{ site.baseurl }}/assets/img/pitch/1-1-5.png)
-<div style="text-align:center;"><p><em>Figure 10 Project pitch submission page</em></p></div>
-<br><br><br>
-
-### 1.2 SBIR/STTR account recovery 
-<div><strong>1.2.1 Sign in page</strong></div>
-- Go to: [https://nsfiip.force.com/sbir](https://nsfiip.force.com/sbir){:target="_blank"}
-- Click on **“Forgot your password?”** 
-- For users who have forgotten their usernames or email address, email your first and last name to [tip-ti-tech-support@nsf.gov](mailto:tip-ti-tech-support@nsf.gov). 
-
-![Sign in screen]({{ site.baseurl }}/assets/img/pitch/1-2-1.png)
-<div style="text-align:center;"><p><em>Figure 11 NSF sign in page</em></p></div>
-<br><br><br>
-
-<div><strong>1.2.2 Password reset page</strong></div>
-- Enter the email address for which you want to recover the password and click on **“Reset Password”**. 
-
-![Password reset box]({{ site.baseurl }}/assets/img/pitch/1-2-2.png)
-<div style="text-align:center;"><p><em>Figure 12 Reset password page</em></p></div>
-<br><br><br>
-
-<div><strong>1.2.3 Password reset confirmation page</strong></div>
-- An email has been sent to reset the password for SBIR/STTR communities. 
-
-![Confirmation message]({{ site.baseurl }}/assets/img/pitch/1-2-3.png)
-<div style="text-align:center;"><p><em>Figure 13 Password reset email confirmation page</em></p></div>
-<br><br><br>
-
-<div><strong>1.2.4 Password reset link in the email alert</strong></div>
-- Use the password reset link in the inbox to reset the password. 
-
-![Email content]({{ site.baseurl }}/assets/img/pitch/1-2-4.png)
-<div style="text-align:center;"><p><em>Figure 14 Email for password reset</em></p></div>
-<br>
-
-The new password should contain: 
-- 10 characters 
-- 1 letter 
-- 1 number 
-- 1 special character <br><br><br>
+This user guide will provide information on accessing the portal and assist new and existing users in creating and submitting pitches and respond to any active Project Pitches and/or Program Director requests in the MyWork Community portal.
 
 
-<div><strong>1.2.5 Change Password Page</strong></div>
+## New User Account Creation
 
-![Password reset form]({{ site.baseurl }}/assets/img/pitch/1-2-5.png)
-<div style="text-align:center;"><p><em>Figure 15 Password reset page</em></p></div>
-<br><br><br>
+Go to [https://nsfiip.force.com/mywork](https://nsfiip.force.com/mywork)
+<ul>
+  <li>Select <strong>“Create an account”</strong> to register.</li>
+  
+  ![Create account]({{ site.baseurl }}/assets/img/submission/MyWork_1.createaccount.JPG)
+  
+  <li>Fill in:<br>
+    a.	First Name<br>
+    b.	Last Name<br>
+    c.	Email<br>
+    d.	Create Password<br>
+    e.	Confirm Password
+  </li>
+  
+  <li>Click on <strong>“Sign Up”</strong> to be routed to the MyWork Communities Home page.</li>
+  
+  ![Sign up]({{ site.baseurl }}/assets/img/submission/MyWork_2.signup.JPG)
+  
+  ## Existing Users
+    <ul>
+      <li>Go to the Salesforce link for UAT (User Acceptance Testing) environment: 
+        [https://uat-nsfiip.cs32.force.com/PIDashboard](https://uat-nsfiip.cs32.force.com/PIDashboard)</li>
+      
+      ![Existing login]({{ site.baseurl }}/assets/img/submission/MyWork_3.existingLogin.JPG)
+      
+      <li>Enter <strong>“Username” and “Password”</strong> (existing credentials).</li>
+      <li>Click on <strong>“Log In”</strong> to be routed to the MyWork Communities Home page.</li>
+  </ul>
+  
+  ## 1. Submit Pitch
+  <ul>
+    <li>On the Home page, select <strong>“SBIR/STTR Project Pitches”</strong> in the navigation bar.</li>
+    
+    ![SBIR pitch]({{ site.baseurl }}/assets/img/submission/MyWork_4.sbirpitch..JPG)
+    
+    <li>Select <strong>“Submit New Project Pitch”</strong> to submit a new pitch.</li>
+    <li>The new Pitch submission form is displayed.</li>
+    <li>Enter the required details.</li>
+    <li>Select <strong>“Next”</strong>.</li>
+    
+    ![New pitch]({{ site.baseurl }}/assets/img/submission/MyWork_5.newpitch.JPG)
+    
+    ![Complete form]({{ site.baseurl }}/assets/img/submission/MyWork_6.completeform.JPG)
+    
+    <li>Continue to enter the required details.</li>
+    <li>Select <strong>“Submit”</strong>.</li>
+    
+    ![Submit]({{ site.baseurl }}/assets/img/submission/MyWork_7.submit.JPG)
+    
+    <li>Upon submission, a confirmation information is displayed.</li>
+    <li>Select <strong>“Close”</strong>.</li>
+    
+    ![Close]({{ site.baseurl }}/assets/img/submission/Mywork_8. close.JPG)
+    
+  </ul>  
 
-<div><strong>1.2.6 SBIR/STTR Project Pitch page</strong></div>
-- Resetting the password takes users back to the Project Pitch form. 
-
-![Submit your project pitch form]({{ site.baseurl }}/assets/img/pitch/1-2-6.png)
-<div style="text-align:center;"><p><em>Figure 16 Project Pitch form for SBIR/STTR</em></p></div>
-<br>
-
+## Edit Existing Pitch
+  This step allows users to edit a Pitch that is only either in <em>New</em> or <em>Incomplete</em> status. 
+  <ul>
+    <li>Click on the <strong>Edit icon</strong> to edit the Pitch in <strong>“New”</strong> or <strong>“Incomplete”</strong> status.<br>
+      NOTE: The edit must be done within the same calendar date or else the Pitch is non-editable.</li>
+    
+    ![Edit]({{ site.baseurl }}/assets/img/submission/MyWork_9.edit.JPG)
+     
+    <li>The selected Pitch form is displayed.</li>
+    <li>If editing a pitch in the New status, edit any fields as needed.</li>
+    <li>If editing a pitch in the <em>Incomplete</em> status, enter the details in the <strong>“Request for more Information”</strong> field.</li>
+    <li>Select <strong>Next</strong>.</li>
+    <li>Select <strong>“Submit”</strong>.</li>
+    <li>Upon submission, a confirmation information is displayed.</li>
+    <li>Select <strong>Close</strong>.</li>
+  </ul>
+    
+  
