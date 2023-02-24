@@ -11,7 +11,7 @@ America’s Seed Fund powered by NSF accepts project pitches from startups and s
 This user guide will provide information on accessing the portal and assist new and existing users in creating and submitting pitches and respond to any active Project Pitches and/or Program Director requests in the MyWork Community portal.
 
 
-## New User Account Creation
+## New User<br>Account Creation
 Go to [https://nsfiip.force.com/mywork](https://nsfiip.force.com/mywork)
   - Select <strong>“Create an account”</strong> to register.
   ![Create account]({{ site.baseurl }}/assets/img/submission/MyWork_1.createaccount.JPG)
