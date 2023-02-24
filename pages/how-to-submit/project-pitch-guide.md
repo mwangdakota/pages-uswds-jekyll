@@ -14,20 +14,14 @@ This user guide will provide information on accessing the portal and assist new 
 ## New User Account Creation
 
 Go to [https://nsfiip.force.com/mywork](https://nsfiip.force.com/mywork)
-<ul>
-  <li>Select <strong>“Create an account”</strong> to register.</li>
+
+- Select <strong>“Create an account”</strong> to register.
   
   ![Create account]({{ site.baseurl }}/assets/img/submission/MyWork_1.createaccount.JPG)
-  
-  <li>Fill in:<br>
-    a.	First Name<br>
-    b.	Last Name<br>
-    c.	Email<br>
-    d.	Create Password<br>
-    e.	Confirm Password
-  </li>
-  
-  <li>Click on <strong>“Sign Up”</strong> to be routed to the MyWork Communities Home page.</li>
+
+- Fill in:<br>a. First Name<br>b.	Last Name<br>c.	Email<br>d.	Create Password<br>e.	Confirm Password
+
+- Click on <strong>“Sign Up”</strong> to be routed to the MyWork Communities Home page.</li>
   
   ![Sign up]({{ site.baseurl }}/assets/img/submission/MyWork_2.signup.JPG)
   
