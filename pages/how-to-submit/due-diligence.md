@@ -36,11 +36,10 @@ Go to [https://nsfiip.force.com/mywork](https://nsfiip.force.com/mywork)
     
   ![Log in]({{ site.baseurl }}/assets/img/submission/Duedil_3.Existing.JPG)
   
-  <li>Enter <strong>“Username” and “Password”</strong> (existing credentials).
+  <li>Enter <strong>“Username” and “Password”</strong> (existing credentials).</li>
   
-  <li>Click on <strong>“Log In”</strong> to be routed to the MyWork Communities Home page.
-      <ul>
-        <li>Select <strong>SBIR/STTR Due Diligence</strong></li>
+  <li>Click on <strong>“Log In”</strong> to be routed to the MyWork Communities Home page.</li>
+       <li>Select <strong>SBIR/STTR Due Diligence</strong></li>
         <li>Select <strong>Tasks</strong> from the drop-down menu.</li>
         
         ![Select task]({{ site.baseurl }}/assets/img/submission/Duedil_4.selectTask.JPG)
@@ -58,8 +57,6 @@ Go to [https://nsfiip.force.com/mywork](https://nsfiip.force.com/mywork)
         
         ![Forms]({{ site.baseurl }}/assets/img/submission/Duedil_6.forms.JPG)
         ![Submit]({{ site.baseurl }}/assets/img/submission/Duedil_7.submit.JPG)
-       </ul>
-    </li>
   </ul>
     
 ## 2. Budget Proposal Submission
