@@ -13,21 +13,11 @@ The Due Diligence Tasks and Documents option in the MyWork Community portal navi
 
 ### New User Account Creation
 Go to [https://nsfiip.force.com/mywork](https://nsfiip.force.com/mywork)
-  <ul>
-  <li>•	Select <strong>“Create an account”</strong> to register.</li>
+  - Select <strong>“Create an account”</strong> to register.
   ![Create account]({{ site.baseurl }}/assets/img/submission/Duedil_1.create.JPG)
-
-  <li>Fill in:<br>
-   a. First Name<br>
-   b. Last Name<br>
-   c. Email<br>
-   d. Create Password<br>
-   e. Confirm Password
-  </li>
-  
-  <li>Click on <strong>“Sign Up”</strong> to be routed to the MyWork Communities Home page.</li>
+  - Fill in:<br>a. First Name<br>b. Last Name<br>c. Email<br>d. Create Password<br>e. Confirm Password
+  - Click on <strong>“Sign Up”</strong> to be routed to the MyWork Communities Home page.
     ![Sign up]({{ site.baseurl }}/assets/img/submission/Duedil_2.signup.JPG)
-  </ul>
   
   ### Existing Users
   <ul>
