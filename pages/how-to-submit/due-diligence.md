@@ -11,7 +11,7 @@ This user guide will provide information on accessing the [MyWork Community port
 ## 1. Log in and access Diligence Tasks
 The Due Diligence Tasks and Documents option in the MyWork Community portal navigation bar is only available if the Program Investigator (PI) have Due Diligence initiated. 
 
-### New User Account Creation
+### New User<br>Account Creation
 Go to [https://nsfiip.force.com/mywork](https://nsfiip.force.com/mywork)
 - Select <strong>“Create an account”</strong> to register.
 ![Create account]({{ site.baseurl }}/assets/img/submission/Duedil_1.create.JPG)
