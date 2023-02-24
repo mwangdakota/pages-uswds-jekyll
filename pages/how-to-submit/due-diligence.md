@@ -67,8 +67,60 @@ Go to [https://nsfiip.force.com/mywork](https://nsfiip.force.com/mywork)
   <li>Select <strong>SBIR/STTR Due Diligence</strong>.</li>
   <li>Select <strong>Tasks</strong> from the drop-down menu.</li>
     
-    ![Budget proposal tasks]({{ site.baseurl }}/assets/img/submission/Duedil_8.budgettask.JPG)
+  ![Budget proposal tasks]({{ site.baseurl }}/assets/img/submission/Duedil_8.budgettask.JPG)
     
   <li>The Due Diligence screen is displayed.</li>
   <li>Select <strong>View</strong> to view any record.</li>
+  
+   ![Budget record]({{ site.baseurl }}/assets/img/submission/Duedil_9.budgetrecord.JPG)
+  
+  <li>The Due Diligence forms screen is displayed.</li>
+  <li>Select <strong>Start</strong> next to the Proposal Budget to begin submission OR select <strong>View Submitted</strong> to view the submitted Budget form.</li>
+
+  ![Start budget]({{ site.baseurl }}/assets/img/submission/Duedil_10.startbudget.JPG)
+  
+  <li>Click on the <strong>organization name</strong>.</li>
+  
+  ![View organization]({{ site.baseurl }}/assets/img/submission/Duedil_11.vieworg.JPG)
+  
+  <li>Enter all the financial information, upload any files as required.</li>
+  <li>Check the <strong>“consent box”</strong> and select <strong>“Save”</strong>.</li>
+  <li>The status on the Dashboard is updated.</li>
+  
+  ![Enter info]({{ site.baseurl }}/assets/img/submission/Duedil_12.enterinfo.JPG)
+  
+  </ul>
+
+## 3. E-Signature
+  Follow the steps below to sign documents requested from the Program Director.
+  
+  <ul>
+  <li>Select <strong>click here to sign</strong> from the email you have received from your Program Director</li>
+  
+  ![Click to sign]({{ site.baseurl }}/assets/img/submission/Duedil_13.clicktosign.JPG)
+  
+  <li>Users are navigated to the verification screen.</li>
+  <li>Select <strong>“Send Email”</strong> from the verification email.</li>
+  
+  ![Send email]({{ site.baseurl }}/assets/img/submission/Duedil_14.sendemail.JPG)
+
+  <li>User will receive one time verification code via email.</li>
+  <li>Enter the code received and check the box <em>“I consent to doing business electronically"</em>.</li>
+  <li>Select <strong>“Continue”</strong>.</li>
+  
+  ![Consent]({{ site.baseurl }}/assets/img/submission/Duedil_15.consent.JPG)
+
+  <li>Once completed, user will be asked to enter the second signer if needed.</li>
+  <li>Enter the email address of the “Authorized Organizational Representative – AOR”.</li>
+  <li>Click <strong>“Continue”</strong>.</li>
+
+  ![Aurthorized Organizational Representative]({{ site.baseurl }}/assets/img/submission/Duedil_16.AOR.JPG)
+  
+  <li>Signature document will open.</li>
+  <li>Signer 1 must sign by clicking on Sign Here.</li>
+  <li>Enter the name or draw your signature or decline your signature.</li>
+  <li>Select Next and submit.</li>
+
+  
+
   
