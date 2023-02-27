@@ -51,7 +51,7 @@ Go to [https://nsfiip.force.com/mywork](https://nsfiip.force.com/mywork)
 - Click on the <strong>organization name</strong>.
 ![View organization]({{ site.baseurl }}/assets/img/submission/Duedil_11.vieworg.JPG)
 - Enter all the financial information, upload any files as required.
-- Check the <strong>“consent box”</strong> and select <strong>“Save”</strong>.
+- Check the <strong>Consent box</strong> and select <strong>“Save”</strong>.
 - The status on the Dashboard is updated.
 ![Enter info]({{ site.baseurl }}/assets/img/submission/Duedil_12.enterinfo.JPG)
 
@@ -65,24 +65,24 @@ Follow the steps below to sign documents requested from the Program Director.
 ![Send email]({{ site.baseurl }}/assets/img/submission/Duedil_14.sendemail.JPG)
 - User will receive one time verification code via email.
 - Enter the code received and check the box <em>“I consent to doing business electronically"</em>.
-- Select <strong>“Continue”</strong>.
+- Select <strong>Continue</strong>.
 ![Consent]({{ site.baseurl }}/assets/img/submission/Duedil_15.consent.JPG)
 - Once completed, user will be asked to enter the second signer if needed.
 - Enter the email address of the “Authorized Organizational Representative – AOR”.
-- Click <strong>“Continue”</strong>.
+- Click <strong>Continue</strong>.
 ![Aurthorized Organizational Representative]({{ site.baseurl }}/assets/img/submission/Duedil_16.AOR.JPG)
 - Signature document will open.
-- Signer 1 must sign by clicking on Sign Here.
+- Signer 1 must sign by clicking on <strong>Sign Here</strong>.
 - Enter the name or draw your signature or decline your signature.
 - Select Next and submit.
 ![Sign here]({{ site.baseurl }}/assets/img/submission/Duedil_17.signheresubmit.JPG)
 
 ## 4. Submit Due Diligence Documents 
-The steps below will guide the user on how to access and view the Due Diligence Documents and allow the user to view and submit their respective forms assigned to them.<br> NOTE: The Due Diligence Tasks and Documents option on the navigation bar is only available if the users have Due Diligence initiated.<br>From the Home page, select <strong>SBIR/STTR Due Diligence</strong>.
+The steps below will guide the user on how to access and view the Due Diligence Documents and allow the user to view and submit their respective forms assigned to them.<br><strong>NOTE:</strong> The Due Diligence Tasks and Documents option on the navigation bar is only available if the users have Due Diligence initiated.<br><br>From the Home page, select <strong>SBIR/STTR Due Diligence</strong>.
 - Select <strong>Documents</strong> from the drop-down menu. 
 ![Select documents]({{ site.baseurl }}/assets/img/submission/Duedil_18.selectdocuments.JPG)
 - User will be redirected to the DUE DILIGENCE Documents page.
-- Select “Download” to save the document.
+- Select <strong>Download</strong> to save the document.
   - The Form title column will list different forms (ex. Admin, Funding, or Custom) assigned and available to download.
 ![Select documents]({{ site.baseurl }}/assets/img/submission/Duedil_19.Download.JPG)
 - The user will be prompt to download the pdf file.
