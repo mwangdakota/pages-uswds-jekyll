@@ -48,9 +48,9 @@ Go to [https://nsfiip.force.com/mywork](https://nsfiip.force.com/mywork)
   - The selected Pitch form is displayed.
   - If editing a pitch in the New status, edit any fields as needed.
   - If editing a pitch in the <em>Incomplete</em> status, enter the details in the <strong>“Request for more Information”</strong> field.
-  - Select <strong>Next</strong>.
+  - Select <strong>"Next"</strong>.
   - Select <strong>“Submit”</strong>.
   - Upon submission, a confirmation information is displayed.
-  - Select <strong>Close</strong>.
+  - Select <strong>"Close"</strong>.
   
   
