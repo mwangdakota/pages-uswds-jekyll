@@ -8,7 +8,7 @@ sidenav: how-to-submit
 
 America’s Seed Fund powered by NSF accepts project pitches from startups and small businesses through its [MyWork Community portal](https://nsfiip.force.com/mywork). 
 
-This user guide will provide information on accessing the portal and assist new and existing users in creating and submitting pitches and respond to any active Project Pitches and/or Program Director requests in the MyWork Community portal.
+This user guide will provide information on accessing the portal and assist new and existing users in creating and submitting pitches and respond to any active Project Pitches and/or Program Director requests in the MyWork Community portal. ([Download a PDF version of this guide.]({{ site.baseurl }}/assets/files/applicants/ProjectPitch.pdf))
 
 
 ## New User<br>Account Creation
