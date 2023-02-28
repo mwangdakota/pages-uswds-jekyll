@@ -10,7 +10,7 @@ section_image_caption: |
   [Anello Photonics]({{ site.baseurl}}/awardees/history/details/?company=anello-photonics-inc)'s silicon photonic optical gyroscope.
 ---
 {% capture tt_description %}
-The Photonics topic addresses the research and development of new materials, devices, components, and systems that have the potential for revolutionary change in the optics and photonics industries. Photonic technologies can include anything generally operating in or using photons in the electromagnetic spectrum from gamma rays down to long radio waves. Examples include lasers, various light emitting diode technologies (LED, OLED, QLED), radiation detectors, photonic integrated circuits, optical systems, and novel communications technologies.
+The Photonics topic addresses the research and development of new materials, devices, components, and systems that have the potential for revolutionary change in the optics and photonics industries. Photonic technologies can include anything generally operating in or using photons in the electromagnetic spectrum, from gamma rays down to long radio waves. Examples include lasers, various light emitting diode technologies (LED, OLED, QLED), radiation detectors, photonic integrated circuits, optical systems and novel communications technologies.
 {% endcapture %}
 
 
