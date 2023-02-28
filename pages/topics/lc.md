@@ -10,7 +10,7 @@ section_image_caption: |
   Showcasing [IOTAS]({{ site.baseurl }}/portfolio/details/?company=iotas-inc#iotas-inc)'s' Home app, featuring a unique floor plan view and Smart Stories™.
 ---
 {% capture tt_description %}
-The Learning and Cognition Technologies topic aims to cover all learning and cognitive innovations that require research and development to advance the field of STEM education. This topic supports the development of a prototype or proof-of-concept and does not support curriculum development or incremental work on existing technologies. Subtopics include but are not limited to:
+The Learning and Cognition Technologies topic aims to cover all learning and cognitive innovations that require research and development to advance the field of STEM education from "pre-K to gray." This topic supports the development of prototypes or proofs-of-concept and does not support curriculum development or incremental work on existing technologies. Subtopics include but are not limited to:
 {% endcapture %}
 
 {% capture tt_features %}
