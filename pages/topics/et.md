@@ -13,6 +13,21 @@ section_image_caption: |
 Environmental Technologies cover a range of innovations focused on sustainability, high commercial impacts and societal and environmental benefits. The topic covers a variety of technology areas of current and emerging commercial significance that improve environmental and or environmental health outcomes. Sensing, data, and advanced analytics technologies relevant to these fields are also appropriate. Please highlight any aspects of the proposed technology or approach that address a problem without a current solution, or one which is underdeveloped.
 {% endcapture %}
 
+<div class="usa-section usa-content usa-grid">
+  <h3>Sub-Topics</h3>
+ET1. Climate Change Adaptation, Mitigation and Reversal
+ET2. Digital Ecosystem for the Environment
+ET3. Emission or Waste Reduction and the Circular Economy
+ET4. Environmental and Societal Impact Measurement
+ET5. Environmental Technologies for Achieving <a href="https://sdgs.un.org/goals">Sustainable Development</a>
+ET6. Food, Regenerative Agriculture, and Energy
+ET7. Habitat Conservation, Adaptation and Restoration
+ET8. Social and Behavioral Science Based Environmental Technologies
+ET9. Sustainable Community Systems
+ET10. Water Treatment, Resilience, and Sanitation
+ET11. Other Environmental Technologies
+  </div>
+
 {% capture tt_features %}
 <div class="usa-section usa-content usa-grid">
   <div class="image-video">
