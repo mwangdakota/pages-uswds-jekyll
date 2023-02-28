@@ -10,7 +10,7 @@ section_image_caption: |
   [bioMASON Inc]({{ site.baseurl }}/portfolio/details/?company=biomason-inc#biomason-inc) interior and exterior façade tile made with biocement, which is less costly and more sustainable than its traditional counterpart
 ---
 {% capture tt_description %}
-The Augmented and Virtual Reality topic aims to support the early-stage development of technological innovations in the hardware, software, photonics, displays, communication processes and other enabling technologies. Additionally, innovations that bring evidence-based academic discoveries to the public sphere via augmented and virtual reality technologies are also appropriate. Since augmented and virtual reality technology is applicable to multiple industries, proposals to this topic should clearly identify target markets, potential paths to commercialization success as well as competitive analysis demonstrating the need for the proposed solution in advancing the entire field.
+The Augmented and Virtual Reality topic aims to support the early-stage development of technological innovations in hardware, software, photonics, displays, communication processes and other augmented and virtual reality technologies. It also supports innovations that bring evidence-based academic discoveries to the public sphere via augmented and virtual reality technologies. Since augmented and virtual reality technology is applicable to multiple industries, proposals should clearly identify target markets, potential paths to commercialization success and competitive analysis demonstrating the need for the proposed solution in advancing the entire field.
 {% endcapture %}
 
 {% capture tt_features___ignore %}
