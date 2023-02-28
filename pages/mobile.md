@@ -5,6 +5,7 @@ description:
 - For 40 years, America’s Seed Fund has provided funding to help startups transform ideas into marketable products and services.
 layout: secondary
 css: /assets/css/mobileslider.css
+scripts: /assets/js/slider.js
 ---
 <head>
   <script type="text/javascript"> setTimeout(function(){var a=document.createElement("script"); var b=document.getElementsByTagName("script")[0]; a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0041/5508.js?"+Math.floor(new Date().getTime()/3600000); a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1); </script>

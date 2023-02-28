@@ -169,13 +169,13 @@
 }
 
 
-.slider div.accslide{
+.slider .accslide{
   max-height:0px;
   overflow: hidden;
   transition:max-height 0.5s;
   background-color: white;
 }
-.slider div.accslide p {
+.slider .accslide p {
   padding:8px;
 }
 
@@ -454,6 +454,9 @@
   button.next-button {
     border: 0;
     font-size: 1em;
+  }
+  .next-link {
+    background: #fff;
   }
   .slider li#slide1 .next-button {
     color: #43A5E6;
