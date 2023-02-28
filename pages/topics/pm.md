@@ -10,7 +10,7 @@ section_image_caption: |
   SynTouch LLC BioTac Toccare provides tactile evaluations that are consistent, quantifiable, and reflective of human perceptions.
 ---
 {% capture tt_description %}
-The Power Management topic address the development of novel technologies that enable new power and thermal management solutions. Innovations supported could range from device-scale breakthroughs, to embedded or standalone systems, to grid-scale technologies.
+The Power Management topic address the development of novel technologies that enable new power and thermal management solutions. Innovations supported could range from device-scale breakthroughs to embedded or standalone systems or grid-scale technologies.
 {% endcapture %}
 
 {% capture tt_features %}
