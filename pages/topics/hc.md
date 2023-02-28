@@ -10,7 +10,7 @@ section_image_caption: |
   Development of OrganoBait synthetic bait, the NSF-Supported projected from Kepley BioSystems to provide an ocean-restorative alternative bait product
 ---
 {% capture tt_description %}
-The Human Computer Interaction (HC) topic aims to support the early-stage development and prototyping of unproven technologies to increase usability of high-intensity human-computer interactive tasks. Intradisciplinary approaches to sustainable products in this topic are encouraged as HCI is an intersection of multiple disciplines, including computer science, behavioral sciences, human-centered design, media studies, and several other fields of study. Subtopics include but are not limited to:
+The Human-Computer Interaction (HC) topic aims to support the early-stage development and prototyping of unproven technologies that increase the usability of high-intensity human-computer interactive tasks. Intradisciplinary approaches to sustainable products in this topic are encouraged as HC is an intersection of multiple disciplines, including computer science, behavioral sciences, human-centered design, media studies and several other fields of study. Subtopics include but are not limited to:
 {% endcapture %}
 
 {% capture tt_features %}
