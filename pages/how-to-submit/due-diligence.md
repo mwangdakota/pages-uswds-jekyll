@@ -6,7 +6,7 @@ sidenav: how-to-submit
 ---
 
 # Due Diligence: My Work Community Portal
-This user guide will provide information on accessing the [MyWork Community portal](https://nsfiip.force.com/mywork) and assist new and existing users on how to view the Due Diligence Tasks and submit their respective forms assigned to them.
+This user guide will provide information on accessing the [MyWork Community portal](https://nsfiip.force.com/mywork) and assist new and existing users on how to view the Due Diligence Tasks and submit their respective forms assigned to them. ([Download a PDF version of this guide.]({{ site.baseurl }}/assets/files/applicants/DueDiligence.pdf))
 
 ## 1. Log in and access Diligence Tasks
 The Due Diligence Tasks and Documents option in the MyWork Community portal navigation bar is only available if the Program Investigator (PI) have Due Diligence initiated. 
