@@ -1,29 +1,3 @@
-- topic: Advanced Analytics (AA)
-  permalink: /topics/advanced-analytics/
-  topic_code: aa
-  programDirector:
-  - name: Parvathi Chundi
-    last_name: Chundi
-    api_name: Parvathi Chundi
-    email: pchundi@nsf.gov
-    photo: chundi-compressed.jpg
-    ttopic: aa
-    bio: "Parvathi Chundi joined the National Science Foundation as a Program Director for the SBIR/STTR program in 2022. Parvathi is also a professor in the computer science department in the College of Information Science and Technology at the University of Nebraska-Omaha. Her research interests span the areas of data management and scalable machine learning technologies. Recently, she has been studying novel machine learning systems that learn from sparsely annotated data for semantic segmentation, object detection, and text summarization. Parvathi has chaired several department, college, and university level committees during her academic career, and has been a University Distinguished Professor since Fall 2021. Prior to joining academia, Parvathi also has extensive industrial experience including startup ventures and research labs such as the G.E. Corporate Research and Development Center, and HP and Agilent Labs. She holds six patents. Parvathi received her B.E in computer science from the College of Engineering, Guindy in India, and M.S and PhD in computer science from University at Albany - State University of New York." 
-  subtopics:
-    - Data Collection, Cleaning, Integration and Processing (AA1)
-    - Data Mining (AA2)
-    - Decision Modelling (AA3)
-    - Descriptive and Predictive Analytics (AA4)
-    - Deterministic Modelling (AA5)
-    - Optimization (AA6)
-    - Simulation (AA7)
-    - Statistical Modelling (AA8)
-    - Time Series Analysis and Forecasting (AA9)
-    - Visualization (AA10)
-    - Other Advanced Analytics Technologies (AA11)
-  companies:
-    - name: Temblor, Inc.
-    
 - topic: Advanced Manufacturing (M)
   permalink: /topics/advanced-manufacturing/
   topic_code: m
@@ -43,15 +17,15 @@
       ttopic: m
       bio: "joined the U.S. National Science Foundation in 2021. He serves as a program director for the SBIR/STTR program and the Partnerships for Innovation (PFI) program. Samir is also currently a professor of electrical engineering and department chair at the University of Texas Rio Grande Valley (UTRGV), a Minority-Serving Institution. Prior to UTRGV, Samir was an associate professor at the University of Texas at Arlington (UT-Arlington) where he spun off two companies from his NSF-funded research. Samir has also served as a mentor for several startups, bringing together academics and industrial partners. He was instrumental in developing programs that provided meaningful research and education experiences in STEM areas to women and students from underrepresented backgrounds. His research has focused on cancer nanotechnology, nano-bio interfaces, machine learning and developing measurement techniques for single molecule and single cell analysis. He was a Presidential Fellow at UT-Arlington in 2017, a Distinguished Lecturer for IEEE-EMBS and Nanotechnology Council for many years and is a Fellow of the Royal Society of Chemistry. Samir earned his Ph.D. from Purdue University in 2007." 
   subtopics:
-    - Additive Manufacturing Components and Systems (M1)
-    - Bio-Inspired Manufacturing (M2)
+    - Building and Infrastructure (M1)
+    - Carbon Sequestration (M2)
     - Cybermanufacturing (M3)
-    - Eco-Manufacturing and Circular Economy Technologies (M4)
-    - Infrastructure (M5)
-    - Manufacturing Technologies (M6)
-    - Modeling and Simulation (M7)
-    - Personalized Manufacturing, Maker Manufacturing, and Maker to Manufacturer (M8)
-    - Quantum Manufacturing (M9)
+    - Distributed Manufacturing (M4)
+    - Ecomanufacturing (M5)
+    - Modeling and Simulation (M6)
+    - Natural Resources and Critical Minerals (M7)
+    - Quantum Device Manufacturing (M8)
+    - Sustainable Chemical Manufacturing (M9)
     - Other Manufacturing Technologies (M10)
   companies:
     - name: Branch Technology LLC
@@ -73,10 +47,10 @@
       ttopic: am
       bio: "has been a SBIR/STTR Program Director since 2012. Prior to joining NSF in 2012, he was a senior research technologist at Kodak where his 26-year career spanned work at Kodak Research Laboratories, and Manufacturing Research and Engineering Organization. His work covered a broad range of materials science based technologies related to photographic film and paper manufacturing, thermal, inkjet, and electro-photographic printing, and OLED device manufacturing. He has a B. Tech. degree in Chemical Engineering from Indian Institute of Technology, Bombay, M.S. and Ph.D. degrees in Chemical Engineering from Penn State, a post-doctoral fellowship at Imperial College, and a M.S. degree in New Product Development from Rochester Institute of Technology." 
   subtopics:
-    - Coatings and Surface Modifications (AM1)
-    - Metals and Ceramics (AM2)
-    - Novel Advanced Materials-based Sensors  (AM3)
-    - Specialized Functional Materials (AM4)
+    - Advanced Engineering Materials (AM1)
+    - Coatings and Surface Modifications (AM2)
+    - Metals and Ceramics (AM3)
+    - Novel Advanced Materials-based Sensors (AM4)
     - Structural and Infrastructural Materials (AM5)
     - Other Advanced Materials Technologies (AM6)
   companies:
@@ -88,6 +62,50 @@
     - name: spotLESS Materials Inc.
     - name: Via Separations, LLC
 
+- topic: Advanced Systems for Scalable Analytics (AA)
+  permalink: /topics/advanced-analytics/
+  topic_code: aa
+  programDirector:
+  - name: Parvathi Chundi
+    last_name: Chundi
+    api_name: Parvathi Chundi
+    email: pchundi@nsf.gov
+    photo: chundi-compressed.jpg
+    ttopic: aa
+    bio: "Parvathi Chundi joined the National Science Foundation as a Program Director for the SBIR/STTR program in 2022. Parvathi is also a professor in the computer science department in the College of Information Science and Technology at the University of Nebraska-Omaha. Her research interests span the areas of data management and scalable machine learning technologies. Recently, she has been studying novel machine learning systems that learn from sparsely annotated data for semantic segmentation, object detection, and text summarization. Parvathi has chaired several department, college, and university level committees during her academic career, and has been a University Distinguished Professor since Fall 2021. Prior to joining academia, Parvathi also has extensive industrial experience including startup ventures and research labs such as the G.E. Corporate Research and Development Center, and HP and Agilent Labs. She holds six patents. Parvathi received her B.E in computer science from the College of Engineering, Guindy in India, and M.S and PhD in computer science from University at Albany - State University of New York." 
+  subtopics:
+    - Building Analytical System for Learning from Dynamic Environments (AA1)
+    - Data Mining, Machine Learning (Non-deep learning-based), and Reinforcement Learning (AA2)
+    - Decision Support and Optimization (AA3)
+    - Knowledge and Data Management Technologies (AA4)
+    - Marketplaces for Data and Models (AA5)
+    - Novel Visualization Technologies (AA6)
+    - Software Technologies for Scalable Analytical Systems (AA7)
+    - Other Novel Technologies (AA8)
+  companies:
+    - name: Temblor, Inc.
+
+- topic: Agricultural Technologies (AG)
+  permalink: /topics/agricultural-technologies/
+  topic_code: ag
+  programDirector:
+    - name: Elizabeth Mirowski
+      last_name: Mirowski
+      api_name: Elizabeth Mirowski
+      email: emirowsk@nsf.gov
+      photo: mirowski.jpg
+      ttopic: ag
+      bio: "started as an SBIR/STTR program director in May 2020. Before NSF, Ela was a Founder and CEO of Verellium, a medical device startup. At Verellium she built strong collaborative partnerships across industry, academia, and federal labs to develop novel solutions for clinical imaging that resulted in new products and new market segments. She also worked for High Precision Devices (HPD) where she successfully transferred several technologies into prototypes and commercialized them, creating a standalone, revenue-generating company, QalibreMD, in just three years. As a principal investigator on SBIR grants from various federal agencies, Ela led the program direction including research, engineering, manufacturing, and market development. In addition to these activities, she engaged in fundraising from venture capital and private equity sources. For more than 17 years, Ela worked for and consulted to small businesses managing the development of technologies involving photonics for displays, semiconductor electronics, renewable energies, nanomaterials, and lab-on-chip platforms for evaluating neural growth and biological processes at the single-molecule level. Ela holds a Ph.D. in Physical Chemistry from the University of Colorado, a B.A. in Chemistry from Columbia University, and completed a National Research Council post-doctorate at the National Institute of Standards and Technology." 
+  subtopics:
+    - Carbon Neutrality (AG1)
+    - Climate Resiliency (AG2)
+    - Farming in Underserved Communities (AG3)
+    - Food Waste Mitigation (AG4)
+    - Permaculture (AG5)
+    - Precision Agriculture (AG6)
+    - Resilient Supply & Distribution (AG7)
+    - Other Agricultural Technologies (AG8)    
+    
 - topic: Artificial Intelligence (AI)
   permalink: /topics/artificial-intelligence/
   topic_code: ai
@@ -107,11 +125,14 @@
     ttopic: ai
     bio: "joined NSF in 2013 with a broad background in the physical sciences, and extensive experience in technology development and commercialization. Before joining NSF, Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly-traded company that he founded in Sydney, Australia. While at MIKOH Corporation he was instrumental in developing and commercializing technologies in a range of fields including diffractive optics, laser-based marking, radio frequency identification, and internet-based personal authentication. Prior to MIKOH, he spent approximately seven years at the Overseas Telecommunications Commission (OTC Australia) where he managed optical fiber communications R&D, including approximately 14 months in the UK at British Telecom’s Martlesham Heath R&D laboratories. While at OTC his research group made world-leading advances in high-speed optical communications technologies, some of which were commercialized via spin-off companies. He also managed the externally contracted development and commercialization of several optical fiber and optoelectronic technologies and was instrumental in establishing a commercialization center for specialized optical fibers at the University of Sydney. He moved to the United States in 1998 to further develop the company’s technologies and markets. Peter holds a Ph.D. in physics (Quantum Optics), and a BEng (Mech) – both from the University of Queensland (Australia)."
   subtopics:
-    - AI-Optimized Hardware (AI1)
-    - Computer Vision (AI2)
-    - Language-Based AI (AI3)
-    - Machine Learning (AI4)
-    - Other Artificial Intelligence Technologies (AI5)
+    - Cognitive Science-based Technologies (AI1)
+    - Computer Vision Based AI Technologies (AI2)
+    - Conversational AI Technologies (AI3)
+    - Language-Based AI Technologies (AI4)
+    - Novel AI Hardware Technologies (e.g. Neuromorphic Computing, High-performance Technologies for AI, Smart and Secure Edge Devices, etc.) (AI5)
+    - Sustainable AI Technologies for Low Resource Environments (AI6)
+    - Technologies for Trustworthy AI (safe, fair, transparent, privacy-preserving, explainable, and/or secure) (AI7)
+    - Other Novel Technologies (AI8)
   companies:
     - name: Bay Labs, Inc.
     - name: GrokStyle Inc.
@@ -160,17 +181,16 @@
       bio: "joined the NSF as Program Director in November 2019. Prior to NSF, he was Chief of Operations and led Research and Development at O-Ray Pharma, where he focused on integrating biology and biomedical engineering for the goal of drug development and sustained drug delivery for the treatment of hearing loss and other ear disorders. During his time working at early stage companies, he helped secure both Angel investment and non-dilutive funding in the form of licensing and co-development deals. Additionally, he served as Principal Investigator on several Phase I, II and IIB SBIR grants from the National Institutes of Health and NSF. His research interests have focused on the intersection of the biotic and abiotic, spanning molecular and cell biology, materials science, gene therapy, nanomaterials and drug delivery. Erik has a Ph.D. in Molecular and Cell Biology from the University of California, Berkeley, and a B.S. in Biology from Emory University."  
   subtopics:
     - Animal Biotechnology (BT1)
-    - Bio-Inspired Technologies (BT2)
-    - Bioinstruments and Biosensors (BT3)
-    - Cell and Tissue Engineering (BT4)
-    - Computational Biology and Bioinformatics (BT5)
-    - Health in Underserved Communities (BT6)
+    - Aquaculture (BT2)
+    - Bio-Inspired Technologies (BT3)
+    - Bioinstruments and Biosensors (BT4)
+    - Cell and Tissue Engineering (BT5)
+    - Fermentation (BT6)
     - Life Science Research Tools (BT7)
-    - Materials for Biomedical Applications (BT8)
+    - Microbiome and Microbial Diversity (BT8)
     - Plant Biotechnology (BT9)
     - Synthetic Biology and Metabolic Engineering (BT10)
-    - Women’s Health (BT11)
-    - Other Biological Technologies (BT12)
+    - Other Biological Technologies (BT11)
   companies:
     - name: Lygos Inc.
     - name: ARZEDA Corp.
@@ -196,11 +216,13 @@
       bio: "joined the National Science Foundation in July 2016 as an SBIR/STTR Program Director. Prior to joining NSF, Henry managed seed/early stage investment programs for TEDCO for 12 years including Technology Commercialization Fund, TEDCO’s flagship seed funding program for technology-based companies in Maryland. During his time at TEDCO, Henry was actively involved with various entrepreneurs and entrepreneur support groups as a guest speaker, an advisory board member, a judge, a mentor, among others. Additionally, Henry was part of the licensing/supplier relations team at a biotechnology company called Upstate, where he successfully negotiated, licensed and commercialized approximately 190 biomedical research reagents from around the world. Henry has also done approximately five years of research, mostly in the field of immunology (including graduate work). Henry has an MBA from Rice University, an M.S. in biotechnology from the University of Tennessee, Knoxville and a B.S. in biomedical engineering from Boston University."
   subtopics:
     - Diagnostics (BM1)
-    - Health in Underserved Communities (BM2)
-    - Medical Imaging (BM3)
-    - Monitoring Devices (BM4)
-    - Women’s Health (BM5)
-    - Other Biomedical Technologies (BM6)
+    - Drug Delivery Methods (BM2)
+    - Health in Underserved Communities (BM3)
+    - Materials for Biomedical Applications (BM4)
+    - Medical Imaging (BM5)
+    - Monitoring Devices (BM6)
+    - Women's Health (BM7)
+    - Other Biomedical Technologies (BM8)
   companies:
     - name: Elektrofi Inc
     - name: ActivSignal, LLC
@@ -224,7 +246,7 @@
       api_name: Samir Iqbal
       email: smiqbal@nsf.gov
       photo: samir.jpg
-      ttopic: ph
+      ttopic: ct
       bio: "joined the U.S. National Science Foundation in 2021. He serves as a program director for the SBIR/STTR program and the Partnerships for Innovation (PFI) program. Samir is also currently a professor of electrical engineering and department chair at the University of Texas Rio Grande Valley (UTRGV), a Minority-Serving Institution. Prior to UTRGV, Samir was an associate professor at the University of Texas at Arlington (UT-Arlington) where he spun off two companies from his NSF-funded research. Samir has also served as a mentor for several startups, bringing together academics and industrial partners. He was instrumental in developing programs that provided meaningful research and education experiences in STEM areas to women and students from underrepresented backgrounds. His research has focused on cancer nanotechnology, nano-bio interfaces, machine learning and developing measurement techniques for single molecule and single cell analysis. He was a Presidential Fellow at UT-Arlington in 2017, a Distinguished Lecturer for IEEE-EMBS and Nanotechnology Council for many years and is a Fellow of the Royal Society of Chemistry. Samir earned his Ph.D. from Purdue University in 2007." 
   subtopics:
     - Biochemicals (CT1)
@@ -294,7 +316,7 @@
     - Personal Authentication (CA7)
     - Secure and Trusted Computing (CA8)
     - Secure Machine-to-Machine Communication (CA9)
-    - Security of Cloud and HPC Platforms (CA10)
+    - Security of Cloud and High Performance Computing (HPC) Platforms (CA10)
     - Other Cybersecurity and Authentication Technologies (CA11)
   companies:
     - name: PQSecure Technologies, LLC
@@ -311,12 +333,12 @@
     ttopic: dh
     bio: "joined the National Science Foundation as an SBIR/STTR program director in November 2019. Prior to NSF, Alastair was an active member of the startup ecosystem in Virginia as a mentor, judge, and entrepreneur. He has been directly involved in medical startups for the last 10 years. Most recently, Alastair was the Vice President of Medical Products at Cupron, Inc. where he led the development, protection, and commercialization of a platform copper antimicrobial technology. He also founded and ran Chrysalides Consultants, a consultancy firm mentoring and providing strategic support to medical startups. Prior to Cupron and Chrysalides Consultants, Alastair was Head Scientist at Biocontrol Ltd (now Armata Pharmaceuticals) developing and commercializing bacteriophage therapy for clinical applications. Alastair had an active academic life as a microbiology postdoc at Virginia Commonwealth University in Internal Medicine, and has authored a number of published papers, conference abstracts, and oral presentations. Alastair has a Ph.D. in microbiology from the University of Bath UK, and a BSc in microbiology from the University of Birmingham, UK."
   subtopics:
-    - Healthcare Informatics (DH1)
-    - Health in Underserved Communities (DH2)
-    - Healthcare Workflow and Delivery (DH3)
-    - Medical Diagnostics and Devices (DH4)
-    - Personal and Mental Health Digital Interventions (DH5)
-    - Women’s Health (DH6)
+    - Assistive, Enabling and Rehabilitative technologies (DH1)
+    - Health and Biomedical informatics (DH2)
+    - Health in Underserved Communities (DH3)
+    - Healthcare Workflow, Economics and Delivery (DH4)
+    - Medical Diagnostics and Devices (DH5)
+    - Physical, Mental and Behavioral Health (DH6)
     - Other Digital Health Technologies (DH7)
   companies:
     - name: Bioinfoexperts, LLC
@@ -343,23 +365,23 @@
     - Convergence with Big Data, and Artificial Intelligence (DL3)
     - Convergence with Internet of Things, Crowdsourcing and Crowdsensing (DL4)
     - Cryptography, Security, and Cybersecurity (DL5)
-    - Distributed Consensus and Fault Tolerance Mechanisms (DL6)
-    - Distributed Ledger in Edge and Cloud Computing (DL7)
-    - Distributed Ledger Interoperability (DL8)
-    - Distributed Ledger in Network Architecture and Management (DL9)
-    - Financial Technologies (DL10)
-    - Human-to-Technology Interface; Decentralized Applications (dApps) (DL11)
-    - Scalability Solutions and Accumulators (DL12)
-    - Trusted Identity and Identity Management (DL13)
-    - Other Distributed Ledger Technologies (DL14)
+    - Digital Assets (DL6)
+    - Distributed Consensus and Fault Tolerance Mechanisms (DL7)
+    - Distributed Ledger in Edge and Cloud Computing (DL8)
+    - Distributed Ledger Interoperability (DL9)
+    - Distributed Ledger in Network Architecture and Management (DL10)
+    - Financial Technologies (DL11)
+    - Human-to-Technology Interfaces and Decentralized Applications (dApps) (DL12)
+    - Scalability Solutions and Accumulators (DL13)
+    - Trusted Identity and Identity Management (DL14)
+    - Other Distributed Ledger Technologies (DL15)
   companies:
     - name: Runtime Verification, Inc.
     - name: GRID7 LLC
     - name: Onu Technology, Inc.
     - name: ENERGYXCHAIN, LLC
     - name: Simplyvital Health, Inc.
-    
-    
+      
 - topic: Energy Technologies (EN)
   permalink: /topics/energy-technologies/
   topic_code: en
@@ -372,12 +394,17 @@
       ttopic: en
       bio: "comes to the NSF with a broad background in the physical sciences, and extensive experience in technology development and commercialization. Before joining NSF Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly traded company that he founded in Sydney, Australia. While at MIKOH Corporation he was instrumental in developing and commercializing technologies in a range of fields including diffractive optics, laser-based marking, radio frequency identification and internet-based personal authentication.) Prior to MIKOH he spent approximately seven years at the Overseas Telecommunications Commission (OTC Australia) where he managed optical fiber communications R&D, including approximately 14 months in the UK at British Telecom’s Martlesham Heath R&D laboratories. (While at OTC his research group made world-leading advances in high-speed optical communications technologies, some of which were commercialized via spin-off companies. He also managed the externally contracted development and commercialization of a number of optical fiber and optoelectronic  technologies, and was instrumental in establishing a commercialization center for specialized optical fibers at the University of Sydney. He moved to the United States in 1998 to further develop the company’s technologies and markets. Peter holds a Ph.D. in physics (Quantum Optics), and a BEng (Mech) – both from the University of Queensland (Australia)." 
   subtopics:
-    - Energy Efficiencies and Data Technologies (EN1)
-    - Energy Production and Power Generation (EN2)
-    - Energy Storage (EN3)
-    - Hydrogen Technologies (EN4)
-    - Petrochemicals, Oil and Gas (EN5)
-    - Other Energy Technologies (EN6)
+    - Advanced Nuclear Energy Tech (EN1)
+    - CO2 and Methane Conversion, Petrochemicals, Oil and Gas (EN2)
+    - Directed Energy (EN3)
+    - Electromagnetics (EN4)
+    - Energy Efficiencies and Data Technologies (EN5)
+    - Energy Production and Power Generation (EN6)
+    - Energy Storage (EN7)
+    - Fusion (EN8)
+    - Hydrogen Technologies (EN9)
+    - Renewable Energy Generation & Storage (EN10)
+    - Other Energy Technologies (EN11)
   companies:
     - name: Proton Energy Systems, Inc.
     - name: Syzygy Plasmonics Inc
@@ -402,13 +429,13 @@
       bio: "has been a SBIR/STTR Program Director since 2012. Prior to joining NSF in 2012, he was a senior research technologist at Kodak where his 26-year career spanned work at Kodak Research Laboratories, and Manufacturing Research and Engineering Organization. His work covered a broad range of materials science based technologies related to photographic film and paper manufacturing, thermal, inkjet, and electro-photographic printing, and OLED device manufacturing. He has a B. Tech. degree in Chemical Engineering from Indian Institute of Technology, Bombay, M.S. and Ph.D. degrees in Chemical Engineering from Penn State, a post-doctoral fellowship at Imperial College, and a M.S. degree in New Product Development from Rochester Institute of Technology." 
   subtopics:
     - Climate Change Adaptation, Mitigation and Reversal (ET1)
-    - Computational Sustainability (ET2)
-    - Digital Ecosystem for the Environment (ET3)
-    - Emission/Waste Reduction and the Circular Economy (ET4)
-    - Environmental Health (ET5)
-    - Environmental and Societal Impact Measurement (ET6)
-    - Food, Regenerative Agriculture, and Energy (ET7)
-    - Habitat Conservation, Adaptation and Restoration (ET8)
+    - Digital Ecosystem for the Environment (ET2)
+    - Emission or Waste Reduction and the Circular Economy (ET3)
+    - Environmental and Societal Impact Measurement (ET4)
+    - Environmental Technologies for Achieving Sustainable Development (ET5)
+    - Food, Regenerative Agriculture, and Energy (ET6)
+    - Habitat Conservation, Adaptation and Restoration (ET7)
+    - Social and Behavioral Science Based Environmental Technologies (ET8)
     - Sustainable Community Systems (ET9)
     - Water Treatment, Resilience, and Sanitation (ET10)
     - Other Environmental Technologies (ET11)
@@ -516,8 +543,8 @@
     - Asynchronous and Remote Learning (LC1)
     - Collaborative Networking (LC2)
     - Digital Learning (LC3)
-    - Learning Disabilities and Difficulties (LC4)
-    - Learning and Workforce Development (LC5)
+    - Learning and Workforce Development (LC4)
+    - Learning Disabilities and Difficulties (LC5)
     - Learning Modalities (LC6)
     - Mental Health Assessment and Support (LC7)
     - Neuroscience-based Technologies (LC8)
@@ -541,15 +568,15 @@
       email: echincho@nsf.gov
       photo: chinchoy-compressed.jpg
       ttopic: md
-      bio: "joined the NSF in 2021 as an SBIR/STTR Program Director. Ed has more than two decades of experience in medical device research and development, and commercialization in startups and large global medical device manufacturers. Most recently, Ed founded and served as the CEO of 3VO Medical, and as Executive Vice President of VisCardia. Prior to those roles, Ed held various management positions with overall product division responsibilities for strategy, technology and product planning, and global commercialization at Abbott (St. Jude Medical) and Medtronic in cardiac rhythm management. He began his career as a scientist at Medtronic, and earned B.S. and M.S. degrees in Mechanical Engineering and Ph.D. in Biomedical Engineering, all from the University of Minnesota.
-"  
+      bio: "joined the NSF in 2021 as an SBIR/STTR Program Director. Ed has more than two decades of experience in medical device research and development, and commercialization in startups and large global medical device manufacturers. Most recently, Ed founded and served as the CEO of 3VO Medical, and as Executive Vice President of VisCardia. Prior to those roles, Ed held various management positions with overall product division responsibilities for strategy, technology and product planning, and global commercialization at Abbott (St. Jude Medical) and Medtronic in cardiac rhythm management. He began his career as a scientist at Medtronic, and earned B.S. and M.S. degrees in Mechanical Engineering and Ph.D. in Biomedical Engineering, all from the University of Minnesota."  
   subtopics:
-    - Implantables (MD1)
-    - Orthopedic (MD2)
-    - Rehabilitation Devices (MD3)
-    - Sensors (MD4)
-    - Wearables (MD5)
-    - Other Medical Devices (MD6)
+    - General Medical Devices (MD1)
+    - Implantables or Procedures (MD2)
+    - Materials, Processes, Prototyping Methods or Enablers (MD3)
+    - Monitoring or Instrumentation (MD4)
+    - Rehabilitation (MD5)
+    - Wearables and External Sensors (MD6)
+    - Women's Health (MD7)
   companies:
     - name: Sonavex, Inc.
     - name: Lapovations, LLC
@@ -569,12 +596,14 @@
       ttopic: mo
       bio: "started as an SBIR/STTR program director in May 2020. Before NSF, Ela was a Founder and CEO of Verellium, a medical device startup. At Verellium she built strong collaborative partnerships across industry, academia, and federal labs to develop novel solutions for clinical imaging that resulted in new products and new market segments. She also worked for High Precision Devices (HPD) where she successfully transferred several technologies into prototypes and commercialized them, creating a standalone, revenue-generating company, QalibreMD, in just three years. As a principal investigator on SBIR grants from various federal agencies, Ela led the program direction including research, engineering, manufacturing, and market development. In addition to these activities, she engaged in fundraising from venture capital and private equity sources. For more than 17 years, Ela worked for and consulted to small businesses managing the development of technologies involving photonics for displays, semiconductor electronics, renewable energies, nanomaterials, and lab-on-chip platforms for evaluating neural growth and biological processes at the single-molecule level. Ela holds a Ph.D. in Physical Chemistry from the University of Colorado, a B.A. in Chemistry from Columbia University, and completed a National Research Council post-doctorate at the National Institute of Standards and Technology." 
   subtopics:
-    - Behavioral (MO1)
-    - Hardware (MO2)
-    - Infrastructure and Flow (MO3)
-    - Resiliency and Sustainability (MO4)
-    - Software (MO5)
-    - Other Mobility Topics (MO6)
+    - Aviation (MO1)
+    - Behavioral Transitions (MO2)
+    - Hypersonic (MO3)
+    - Infrastructure and Flow (MO4)
+    - Marine (MO5)
+    - Personal Transportation (MO6)
+    - Resiliency and Sustainability (MO7)
+    - Other Mobility Topics (MO8)
   companies:
     - name: LUNEWAVE INC.
     - name: ClearFlame Engines, Inc.
@@ -596,7 +625,6 @@
       bio: "has been a SBIR/STTR Program Director since 2012. Prior to joining NSF in 2012, he was a senior research technologist at Kodak where his 26-year career spanned work at Kodak Research Laboratories, and Manufacturing Research and Engineering Organization. His work covered a broad range of materials science based technologies related to photographic film and paper manufacturing, thermal, inkjet, and electro-photographic printing, and OLED device manufacturing. He has a B. Tech. degree in Chemical Engineering from Indian Institute of Technology, Bombay, M.S. and Ph.D. degrees in Chemical Engineering from Penn State, a post-doctoral fellowship at Imperial College, and a M.S. degree in New Product Development from Rochester Institute of Technology." 
   subtopics:
     - Nanomanufacturing (N1)
-    - Other Nanotechnologies (N2)
   companies:
     
 - topic: Other Topics (OT)
@@ -626,11 +654,10 @@
       ttopic: pt
       bio: "joined the NSF as Program Director in November 2019. Prior to NSF, he was Chief of Operations and led Research and Development at O-Ray Pharma, where he focused on integrating biology and biomedical engineering for the goal of drug development and sustained drug delivery for the treatment of hearing loss and other ear disorders. During his time working at early stage companies, he helped secure both Angel investment and non-dilutive funding in the form of licensing and co-development deals. Additionally, he served as Principal Investigator on several Phase I, II and IIB SBIR grants from the National Institutes of Health and NSF. His research interests have focused on the intersection of the biotic and abiotic, spanning molecular and cell biology, materials science, gene therapy, nanomaterials and drug delivery. Erik has a Ph.D. in Molecular and Cell Biology from the University of California, Berkeley, and a B.S. in Biology from Emory University."  
   subtopics:
-    - Drug Delivery Methods (PT1)
-    - Drug Discovery (PT2)
-    - Pharmaceutical and Biologic Manufacturing (PT3)
-    - Therapeutic Molecules (PT4)
-    - Other Pharmaceutical Technologies (PT5)
+    - Drug Discovery (PT1)
+    - Pharmaceutical and Biologic Manufacturing (PT2)
+    - Therapeutic Molecules (PT3)
+    - Other Pharmaceutical Technologies (PT4)
   companies:
     - name: SQZ Biotechnologies Company
     - name: ConsortiEX, Inc
@@ -660,9 +687,9 @@
     - Photonic Devices (PH5)
     - Photonic Energy Conversion (PH6)
     - Photonic Materials (PH7)
-    - Silicon Photonics and Photonic Integrated Circuits (PH8)
-    - Photonic Metamaterials and Plasmonics (PH9)
-    - Quantum Optics and Nanophotonics (PH10)
+    - Photonic Metamaterials and Plasmonics (PH8)
+    - Quantum Optics and Nanophotonics (PH9)
+    - Silicon Photonics and Photonic Integrated Circuits (PH10)
     - Other Photonics Technologies (PH11)
   companies:
     - name: Clerio Vision, Inc.
@@ -749,7 +776,8 @@
     - Human-Machine Interfaces and Control/Architecture (R2)
     - Robotic Applications (R3)
     - Robotics in Agile Manufacturing, and Co-Robots (R4)
-    - Other Robotics Technologies (R5)
+    - Underground or Underwater Robotics for Low-Visibility, Poor-Connectivity or Hidden Topography (R5)
+    - Other Robotics Technologies (R6)
   companies:
     - name: TACTAI
     - name: Artaic LLC
@@ -774,7 +802,8 @@
     - Microelectronics Packaging and Systems Integration (S4)
     - Novel Semiconductor-based Sensors (S5)
     - Processing and Metrology Technology (S6)
-    - Wide Bandgap Power Devices and Materials (S7)
+    - Sustainable Semiconductor Manufacturing (S7)
+    - Wide Bandgap Power Devices and Materials (S8)
     - Other Semiconductor Technologies (S8)
   companies:
     - name: Uniqarta, Inc.
@@ -798,7 +827,7 @@
       api_name: Anna Brady
       email: abrady@nsf.gov
       photo: Anna-compressed.jpg
-      ttopic: ct
+      ttopic: sp
       bio: "joined the National Science Foundation as a SBIR/STTR Program Director in 2016. In this role she brings breadth of background across entrepreneurship and venture capital, innovative research, and direction of corporate strategy and investments. Anna has served as a collaborator with numerous startups having worked as an inventor for an early stage venture-backed start-up providing low-cost, low-energy portable water treatment, and a Principal Investor for an early stage venture firm. Anna’s contributions were recognized in 2009 when she was selected as one of  about 30 Kauffman Fellows from around the globe, for leadership in innovation and venture capital. She served as Director of Corporate Strategy for leading multinationals including The AES Corporation and Cummins Inc., and advised numerous clients while serving as a management consultant for The Boston Consulting Group. Anna’s work in these roles resulted in over $6B of infrastructure investments with enhanced returns, identification of $B+ cost reduction opportunities, contributing to a core transformation team of a $T+ entity in oil & gas, and the implementation of several new technologies spanning nanotechnology, advanced manufacturing, Big Data and Internet of Things, along with new equipment that enabled transforming energy economics. Earlier in her career, she performed research at the intersection of innovation and international relations with the Office of Naval Research at the U.S. Embassy in Chile. Anna holds a PhD from Yale University in Chemical and Environmental Engineering, where she held a National Science Foundation Graduate Research Fellowship; and a B.S. in Chemical Engineering and B.A. in Spanish from The Johns Hopkins University."
   subtopics:
     - Extra-terrestrial Resource Extraction (SP1)
@@ -809,9 +838,10 @@
     - On-Orbit Technologies (SP6)
     - Remote Sensing Technologies (SP7)
     - Spacecraft Development and Manufacturing (SP8)
-    - Space Transportation and Access (SP9)
-    - Telecommunications Technologies (SP10)
-    - Other Space-related Technologies (SP11)
+    - Space Technologies and Systems (SP9)
+    - Space Transportation and Access (SP10)
+    - Telecommunications Technologies (SP11)
+    - Other Space-related Technologies (SP12)
   companies:    
     - name: Swarm Technologies, LLC
     - name: UPSHOT VENTURES, LLC
@@ -837,9 +867,11 @@
       ttopic: w
       bio: "Parvathi Chundi joined the National Science Foundation as a Program Director for the SBIR/STTR program in 2022. Parvathi is also a professor in the computer science department in the College of Information Science and Technology at the University of Nebraska-Omaha. Her research interests span the areas of data management and scalable machine learning technologies. Recently, she has been studying novel machine learning systems that learn from sparsely annotated data for semantic segmentation, object detection, and text summarization. Parvathi has chaired several department, college, and university level committees during her academic career, and has been a University Distinguished Professor since Fall 2021. Prior to joining academia, Parvathi also has extensive industrial experience including startup ventures and research labs such as the G.E. Corporate Research and Development Center, and HP and Agilent Labs. She holds six patents. Parvathi received her B.E in computer science from the College of Engineering, Guindy in India, and M.S and PhD in computer science from University at Albany - State University of New York." 
   subtopics:
-    - Wireless Devices and Components (W1)
-    - Wireless Systems (W2)
-    - Other Wireless Technologies (W3)
+    - Communication and Networking Technologies (W1)
+    - Networked Sensors and Sensing (W2)
+    - Wireless Devices and Components (W3)
+    - Wireless Systems (W4)
+    - Other Wireless Technologies (W5)
   companies:
     - name: Altaeros Energies, Inc.
     - name: OceanComm Incorporated
