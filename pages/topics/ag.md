@@ -13,8 +13,8 @@ section_image_caption: |
 The Agricultural Technologies topic supports innovations enabling farm production ecosystems that support the proper utilization of natural resources. Such technologies may encompass systems-level and multidisciplinary solutions to enable complex agricultural practices that support increased biodiversity balanced with yield production.
 {% endcapture %}
 
-{% capture tt_features %}
-<!--<div class="usa-section usa-content usa-grid">
+<!--{% capture tt_features %}
+<div class="usa-section usa-content usa-grid">
   <div class="image-video">
     <div class="usa-width-one-half">
       <h3>Biodegradable plastic made from waste methane</h3>
@@ -25,7 +25,7 @@ The Agricultural Technologies topic supports innovations enabling farm productio
       <iframe sandbox="allow-same-origin allow-scripts" title="Mango Materials" width="100%" height="250" src="https://www.youtube.com/embed/vi-TZY-uU_4" frameborder="0" allowfullscreen=""></iframe>
     </div>
   </div>
-</div>-->
-{% endcapture %}
+</div>
+{% endcapture %}-->
 
 {% include tech-topic.html desc=tt_description features=tt_features %}
