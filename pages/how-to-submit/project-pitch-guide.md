@@ -6,7 +6,7 @@ sidenav: how-to-submit
 ---
 # Project Pitch: My Work Community Portal
 
-America’s Seed Fund powered by NSF accepts project pitches from startups and small businesses through its [MyWork Community portal](https://nsfiip.force.com/mywork). 
+America’s Seed Fund powered by NSF accepts Project Pitches from startups and small businesses through its [MyWork Community portal](https://nsfiip.force.com/mywork). 
 
 This user guide will provide information on accessing the portal and assist new and existing users in creating and submitting pitches and respond to any active Project Pitches and/or Program Director requests in the MyWork Community portal. ([Download a PDF version of this guide.]({{ site.baseurl }}/assets/files/applicants/ProjectPitch.pdf))
 
@@ -29,7 +29,7 @@ Go to [https://nsfiip.force.com/mywork](https://nsfiip.force.com/mywork)
   - On the Home page, select <strong>“SBIR/STTR Project Pitches”</strong> in the navigation bar.
   ![SBIR pitch]({{ site.baseurl }}/assets/img/submission/MyWork_4.sbirpitch..JPG)
   - Select <strong>“Submit New Project Pitch”</strong> to submit a new pitch.
-  - The new Pitch submission form is displayed.
+  - The new Project Pitch submission form is displayed.
   - Enter the required details.
   - Select <strong>“Next”</strong>.
   ![New pitch]({{ site.baseurl }}/assets/img/submission/MyWork_5.newpitch.JPG)
@@ -42,10 +42,10 @@ Go to [https://nsfiip.force.com/mywork](https://nsfiip.force.com/mywork)
   ![Close]({{ site.baseurl }}/assets/img/submission/Mywork_8. close.JPG)  
 
 ## 2. Edit Existing Pitch
-  This step allows users to edit a Pitch that is only either in <em>New</em> or <em>Incomplete</em> status. 
-  - Click on the <strong>Edit icon</strong> to edit the Pitch in <strong>“New”</strong> or <strong>“Incomplete”</strong> status.<br>NOTE: The edit must be done within the same calendar date or else the Pitch is non-editable.
+  This step allows users to edit a Project Pitch that is only either in <em>New</em> or <em>Incomplete</em> status. 
+  - Click on the <strong>Edit icon</strong> to edit the Project Pitch in <strong>“New”</strong> or <strong>“Incomplete”</strong> status.<br>NOTE: The edit must be done within the same calendar date or else the Project Pitch is non-editable.
   ![Edit]({{ site.baseurl }}/assets/img/submission/MyWork_9.edit.JPG)
-  - The selected Pitch form is displayed.
+  - The selected Project Pitch form is displayed.
   - If editing a pitch in the New status, edit any fields as needed.
   - If editing a pitch in the <em>Incomplete</em> status, enter the details in the <strong>“Request for more Information”</strong> field.
   - Select <strong>"Next"</strong>.
