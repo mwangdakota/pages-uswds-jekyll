@@ -259,8 +259,13 @@
 .slider iframe {
   max-width: inherit;
   padding:8px;
+  border: 0;
 }
 
+.slider .nsf-form {
+  width:100%;
+  height:110vh;
+}
 /* custom scrollbar */
 .slider ::-webkit-scrollbar {
   width: 20px;
@@ -664,5 +669,9 @@
   }
   .slider .accslide img {
     margin-top: 10px;
+  }
+
+  .slider .nsf-form {
+    height:90vh;
   }
 }
