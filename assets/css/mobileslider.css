@@ -310,6 +310,7 @@
     left: -9999px;
   }
   .slider h4 {
+    font-size: x-large;
     letter-spacing: 1.5px;
   }
   .slider label.desktop-radio {
@@ -362,7 +363,7 @@
     position: relative;
     text-align: center;
     bottom: -1px;
-    padding: 40px 40px 0px 40px;
+    padding: 25px 40px 0px 40px;
     background: #fff;
     -webkit-clip-path: polygon(80% 0, 100% 100%, 100% 100%, 0 100%, 0 0);
     clip-path: polygon(80% 0, 100% 100%, 100% 100%, 0 100%, 0 0);
@@ -404,6 +405,7 @@
     width: 75%;
     float: left;
     padding: 15px;
+    font-size: small;
   }
   .slider .padded-block {
     padding: 20px;
@@ -438,6 +440,8 @@
   .slider .blue-section li {
     break-inside: avoid-column;
     margin-bottom: 10px;
+    font-size: small;
+    text-align: left;
   }
   .slider [type=radio] + label::after {
     content: none;

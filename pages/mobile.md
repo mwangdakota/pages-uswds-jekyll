@@ -265,7 +265,7 @@ scripts: /assets/js/slider.js
                 <h1>UPDATES</h1>
               </div>
               <div class="inner-clip title">
-                <p><h3>YOUR BREAKTHROUGH IS ABOUT </h3><h3>TO HAVE A BREAKTHROUGH</h3></p>
+                <p><h3>FOR WHAT'S NEXT</h3></p>
               </div>
               <div class="inner-body" id="formContainer">
                 <iframe class="nsf-form" scrolling="no" src="https://cloud.go2.nsf.gov/NSF_Form_IFrame" title="W3Schools Free Online Web Tutorials"></iframe>
