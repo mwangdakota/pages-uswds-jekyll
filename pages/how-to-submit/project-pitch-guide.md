@@ -25,7 +25,7 @@ Go to [https://nsfiip.force.com/mywork](https://nsfiip.force.com/mywork)
   - Enter <strong>“Username” and “Password”</strong> (existing credentials).
   - Click on <strong>“Log In”</strong> to be routed to the MyWork Communities Home page.
 
-## 1. Submit Pitch
+## 1. Submit Project Pitch
   - On the Home page, select <strong>“SBIR/STTR Project Pitches”</strong> in the navigation bar.
   ![SBIR pitch]({{ site.baseurl }}/assets/img/submission/MyWork_4.sbirpitch..JPG)
   - Select <strong>“Submit New Project Pitch”</strong> to submit a new pitch.
@@ -41,7 +41,7 @@ Go to [https://nsfiip.force.com/mywork](https://nsfiip.force.com/mywork)
   - Select <strong>“Close”</strong>.
   ![Close]({{ site.baseurl }}/assets/img/submission/Mywork_8. close.JPG)  
 
-## 2. Edit Existing Pitch
+## 2. Edit Existing Project Pitch
   This step allows users to edit a Project Pitch that is only either in <em>New</em> or <em>Incomplete</em> status. 
   - Click on the <strong>Edit icon</strong> to edit the Project Pitch in <strong>“New”</strong> or <strong>“Incomplete”</strong> status.<br>NOTE: The edit must be done within the same calendar date or else the Project Pitch is non-editable.
   ![Edit]({{ site.baseurl }}/assets/img/submission/MyWork_9.edit.JPG)
