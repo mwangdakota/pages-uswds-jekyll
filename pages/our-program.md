@@ -1,6 +1,8 @@
 ---
 title: About NSF SBIR/STTR – Startup Funding
-permalink: /our-program/
+permalink: /about/
+redirect_from:
+  - /apply/
 description: 
   - For 40 years, America’s Seed Fund has provided funding to help startups transform ideas into marketable products and services.
 layout: secondary
