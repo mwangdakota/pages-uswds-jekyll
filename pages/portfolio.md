@@ -2,6 +2,7 @@
 title: Portfolio
 permalink: /portfolio/
 layout: secondary
+css: /assets/css/portfolio.css
 ---
 <script type="text/javascript"> setTimeout(function(){var a=document.createElement("script"); var b=document.getElementsByTagName("script")[0]; a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0041/5508.js?"+Math.floor(new Date().getTime()/3600000); a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);</script>
 
@@ -19,23 +20,30 @@ layout: secondary
   <div class="usa-section usa-content usa-grid">
     <h2>We fund almost all areas of technology</h2>
     <p class="text-medium">Between fiscal years 2016 and 2020, America’s Seed Fund powered by NSF made 2,200+ awards to startups and small businesses. Each year, we fund roughly 400 companies across nearly all technology areas and market sectors (with the exception of clinical trials and schedule I controlled substances). Select a topic area below to read more about the topic, see featured <b>Phase I and Phase II success stories</b>, and <b>find program director information</b>.</p>
-
     <p>Browse lists of our active Phase I and Phase II awardees, who are still completing the research outlined in their proposals, view a list of awards to combat COVID-19, and see all of the awards we've made over the last 10 years.</p>
-
     <p>
       <a href="{{ site.baseurl }}/awardees/phase-1/" class="usa-button usa-button-primary">ACTIVE PHASE I AWARDEES</a>
       <a href="{{ site.baseurl }}/awardees/phase-2/" class="usa-button usa-button-primary">ACTIVE PHASE II AWARDEES</a>
       <a href="{{ site.baseurl }}/covid-awards-phase-1/" class="usa-button usa-button-primary">COVID-19 RELATED AWARDS</a>
       <a href="{{ site.baseurl }}/awardees/history/" class="usa-button usa-button-secondary">VIEW ALL AWARDEES</a>
     </p>
-
     <div class="topic-grid">{% for topic in site.data.tech-topics %}
-      <a href="{{ site.baseurl }}{{ topic.permalink }}">
-        <div class="topic-grid__name">{{ topic.topic | split: " (" | first }}</div>
-        <div class="topic-grid__abbr">{{ topic.topic_code | upcase }}</div>
-      </a>
+      <div class="topic-container">
+        <a href="{{ site.baseurl }}{{ topic.permalink }}">
+          <div class="topic-grid__name">{{ topic.topic | split: " (" | first }}</div>
+          <div class="topic-grid__abbr">{{ topic.topic_code | upcase }}</div>
+        </a>
+        <div class="topic-grid-sub-hide">
+          <strong>{{ topic.topic | split: " (" | first }}: Sub-Topics</strong>
+          <ul>
+            {% for subtopic in topic.subtopics %}
+            <li>{{ subtopic }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
     {% endfor %}</div>
-
+    
     <p>Download a <a href="{{ site.baseurl }}/assets/files/applicants/combined-topics.pdf">searchable PDF</a> of the full list of technology topic areas that also includes descriptions of the subtopics.</p>
   </div>
 </section>
