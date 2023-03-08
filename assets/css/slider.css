@@ -272,9 +272,10 @@
 }
 
 .slider .nsf-form {
-  width:100%;
-  height:110vh;
+  height: 100vh;   
+  width: 100%;
 }
+
 /* custom scrollbar */
 .slider ::-webkit-scrollbar {
   width: 20px;
@@ -759,10 +760,6 @@
   }
   .slider .accslide img {
     margin-top: 10px;
-  }
-
-  .slider .nsf-form {
-    height:90vh;
   }
 
   .slider .altTab {
