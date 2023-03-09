@@ -1,8 +1,6 @@
 
   .page-portfolio .topic-grid {
-    width: 80vw;
     margin: 0 auto;
-    display: grid;
     grid-template-columns: auto auto auto auto auto auto;
     gap: 0;
   }
@@ -15,8 +13,8 @@
     z-index: 10;
     background: #E1F4F9;
     padding: 1em;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
-    white-space: nowrap;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);    
+    width: 400px;
   }
 
   .page-portfolio .topic-grid-sub-hide ul {
@@ -35,6 +33,7 @@
   }
 
   .page-portfolio .topic-container {
+    width: calc(100% / 6);
     display: inline-block;
     position: relative;
   }
