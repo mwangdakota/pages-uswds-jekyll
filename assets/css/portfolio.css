@@ -1,4 +1,8 @@
-
+  @media screen and (max-width: 481px) {
+    .page-portfolio .topic-grid .topic-container {
+        width: calc(100% / 2);
+    }
+  }
   .page-portfolio .topic-grid {
     margin: 0 auto;
     grid-template-columns: auto auto auto auto auto auto;
