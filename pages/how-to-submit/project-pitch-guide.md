@@ -38,19 +38,19 @@ Go to [https://nsfiip.force.com/mywork](https://nsfiip.force.com/mywork)
   - Select <strong>“Submit”</strong>.
   ![Submit]({{ site.baseurl }}/assets/img/submission/MyWork_7.submit.JPG)
   - Upon submission, a confirmation information is displayed.
-  - Select <strong>“Close”</strong>.
   ![Close]({{ site.baseurl }}/assets/img/submission/Mywork_8. close.JPG)  
 
 ## 2. Edit Existing Project Pitch
   This step allows users to edit a Project Pitch that is only either in <em>New</em> or <em>Incomplete</em> status. 
   - Click on the <strong>Edit icon</strong> to edit the Project Pitch in <strong>“New”</strong> or <strong>“Incomplete”</strong> status.<br>NOTE: The edit must be done within the same calendar date or else the Project Pitch is non-editable.
-  ![Edit]({{ site.baseurl }}/assets/img/submission/MyWork_9.edit.JPG)
+  ![Edit]({{ site.baseurl }}/assets/img/submission/MyWork_9b.edit.JPG)
+  ![Edit Incomplete]({{ site.baseurl }}/assets/img/submission/MyWork_9c_edit_incomplete.JPG)
   - The selected Project Pitch form is displayed.
-  - If editing a pitch in the New status, edit any fields as needed.
-  - If editing a pitch in the <em>Incomplete</em> status, enter the details in the <strong>“Request for more Information”</strong> field.
+  - If editing a pitch in the <em>New</em> status, edit any fields as needed.
+  - If editing a pitch in the <em>Incomplete</em> status, enter the details in the <strong>“Request for more Information”</strong> field. (Note: All other fields are non-editable.)
   - Select <strong>"Next"</strong>.
   - Select <strong>“Submit”</strong>.
   - Upon submission, a confirmation information is displayed.
-  - Select <strong>"Close"</strong>.
+  ![Confirmation]({{ site.baseurl }}/assets/img/submission/MyWork_10.JPG)
   
   
