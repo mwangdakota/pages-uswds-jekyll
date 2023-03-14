@@ -23,7 +23,7 @@ scripts: /assets/js/slider.js
       <div class="inside-slide">
         <input id="check1" class="mobile-checkbox" type="checkbox"/>
         <label class="mobile-checkbox" for="check1">
-          <div>GETTING STARTED</div>
+          GETTING STARTED
         </label>
         <input class="desktop-radio" id="rad1" type="radio" class="desktop-radio" name="rad" checked="checked"/>
         <label class="desktop-radio" for="rad1">
@@ -72,7 +72,8 @@ scripts: /assets/js/slider.js
                 </div>
               </div>
               <div class="next-link">
-                <button class="next-button">THE QUALIFICATIONS</button>
+                <button class="next-button">THE QUALIFICATIONS 
+                <span class="next-arrow"></span></button>
               </div>
             </div>
             <div class="altTab">GETTING STARTED</div>
@@ -86,7 +87,7 @@ scripts: /assets/js/slider.js
       <div class="inside-slide">
         <input id="check2" class="mobile-checkbox" type="checkbox"/>
         <label class="mobile-checkbox" for="check2">
-          <div>QUALIFICATIONS</div>
+          QUALIFICATIONS
         </label>
         <input class="desktop-radio"  id="rad2" type="radio" class="desktop-radio" name="rad"/>
         <label class="desktop-radio" for="rad2">
@@ -159,7 +160,8 @@ scripts: /assets/js/slider.js
                 </ul>
               </div>
               <div class="next-link">
-                <button class="next-button">SUBMIT YOUR PROJECT PITCH</button>
+                <button class="next-button">SUBMIT YOUR PROJECT PITCH
+                <span class="next-arrow"></span></button>
               </div>
             </div>
             <div class="altTab">QUALIFICATIONS</div>
@@ -173,7 +175,7 @@ scripts: /assets/js/slider.js
       <div class="inside-slide">
         <input id="check3" class="mobile-checkbox" type="checkbox"/>
         <label class="mobile-checkbox" for="check3">
-          <div>SUBMIT YOUR PROJECT PITCH</div>
+          SUBMIT YOUR PROJECT PITCH
         </label>
         <input class="desktop-radio" id="rad3" type="radio" class="desktop-radio" name="rad" />
         <label class="desktop-radio" for="rad3">
@@ -242,7 +244,8 @@ scripts: /assets/js/slider.js
                 </div>
               </div>
               <div class="next-link">
-                <button class="next-button">GETTING UPDATES</button>
+                <button class="next-button">GETTING UPDATES
+                <span class="next-arrow"></span></button>
               </div>
             </div>
             <div class="altTab">SUBMIT YOUR PROJECT PITCH</div>
@@ -256,7 +259,7 @@ scripts: /assets/js/slider.js
       <div class="inside-slide">
         <input id="check4" class="mobile-checkbox" type="checkbox"/>
         <label class="mobile-checkbox" for="check4">
-          <div>GETTING UPDATES</div>
+          GETTING UPDATES
         </label>
         <input id="rad4" type="radio" class="desktop-radio" name="rad"/>
         <label class="desktop-radio" for="rad4">
