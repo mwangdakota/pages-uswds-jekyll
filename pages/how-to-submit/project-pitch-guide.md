@@ -51,6 +51,6 @@ Go to [https://nsfiip.force.com/mywork](https://nsfiip.force.com/mywork)
   - Select <strong>"Next"</strong>.
   - Select <strong>“Submit”</strong>.
   - Upon submission, a confirmation information is displayed.
-  ![Confirmation]({{ site.baseurl }}/assets/img/submission/MyWork_10.JPG)
+  ![Confirmation]({{ site.baseurl }}/assets/img/submission/MyWork_10.png)
   
   
