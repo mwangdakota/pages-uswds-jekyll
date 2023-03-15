@@ -38,7 +38,7 @@ Go to [https://nsfiip.force.com/mywork](https://nsfiip.force.com/mywork)
   - Select <strong>“Submit”</strong>.
   ![Submit]({{ site.baseurl }}/assets/img/submission/MyWork_7.submit.JPG)
   - Upon submission, a confirmation information is displayed.
-  ![Close]({{ site.baseurl }}/assets/img/submission/Mywork_8. close.JPG)  
+  ![Close]({{ site.baseurl }}/assets/img/submission/Mywork_8. close.jpg)  
 
 ## 2. Edit Existing Project Pitch
   This step allows users to edit a Project Pitch that is only either in <em>New</em> or <em>Incomplete</em> status. 
