@@ -19,7 +19,7 @@ If you’re interested in applying for funding, we encourage you to watch our vi
 {% if site.app_process == "active" %}
 ## Virtual Office Hours
 
-Thinking of applying for Phase I funding? Ask all your application-related questions during our [Virtual Office Hours](https://seedfund.nsf.gov/events/) or watch a recorded [program overview](https://youtu.be/GQ-ZJMb3qfU) or a recorded [how to apply overview](https://youtu.be/X7jirpYWFZY). (We offer a [PDF version of program basics]({{site.baseurl}}/Seed_Fund_Webinar-How to Submit a Full Proposal_2022_11.30.2022.pptx), too.)
+Thinking of applying for Phase I funding? Ask all your application-related questions during our [Virtual Office Hours](https://seedfund.nsf.gov/events/) or watch a recorded [program overview](https://youtu.be/GQ-ZJMb3qfU) or a recorded [how to apply overview](https://youtu.be/X7jirpYWFZY). (We offer a [PDF version of program basics]({{ site.baseurl }}/assets/files/applicants/How%20to%20Submit%20a%20Full%20Proposal.pdf), too.)
 
 {% else %}
 ## Q&A videos
