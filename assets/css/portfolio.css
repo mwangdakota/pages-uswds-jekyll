@@ -12,8 +12,6 @@
   .page-portfolio .topic-grid-sub-hide {
     display: none;
     position: absolute;
-    top: 10%;
-    left: 95%;
     z-index: 10;
     background: #E1F4F9;
     padding: 1em;
