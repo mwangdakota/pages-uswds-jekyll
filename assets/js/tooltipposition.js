@@ -30,24 +30,24 @@ $(".page-portfolio .topic-grid a").hover(function () {
     if (topbottom == bottom && leftright == right) //done
     {
         var yPos = (linkHeight / 2);
-        var xPos = linkWidth + 5;
+        var xPos = linkWidth + 25;
         tooltip.css("top", yPos + "px");
         tooltip.css("left", xPos + "px");
     } else if (topbottom == bottom && leftright == left) //done
     {
         var yPos = (linkHeight / 2);
-        var xPos = linkWidth + 5;
+        var xPos = linkWidth + 25;
         tooltip.css("top", yPos + "px");
         tooltip.css("right", xPos + "px");
     } else if (topbottom == top && leftright == right) //done
     {
-        var xPos = linkWidth + 5;
+        var xPos = linkWidth + 25;
         var yPos = - tooltiph + (linkHeight / 2);
         tooltip.css("top", yPos + "px");
         tooltip.css("left", xPos + "px");
     } else if (topbottom == top && leftright == left) {
         var yPos = - tooltiph + (linkHeight / 2);
-        var xPos = linkWidth + 5;
+        var xPos = linkWidth + 25;
         tooltip.css("top", yPos + "px");
         tooltip.css("right", xPos + "px");
     } else {}
