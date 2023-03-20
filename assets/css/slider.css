@@ -236,7 +236,7 @@
   margin-top:12px;
   margin-right:10px;
 }
-.slider input[type='checkbox']:checked ~ div.accslide{
+.slider input:checked ~ div.accslide{
   max-height:100%;
 }
 
