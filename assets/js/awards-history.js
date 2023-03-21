@@ -315,6 +315,9 @@ $(document).ready(function () {
         { title: 'PI', data: 'pi_name', visible: false},
         { title: 'PI PHONE', data: 'pi_phone', visible: false}
       ],
+      columnDefs: [
+        {'max-width': '20%', 'targets': 2}
+      ],
       lengthMenu: [[50, 100, -1], [50, 100, 'All']],
       dom: '<"flbv-container"flB<"awards-history-grid-view"><"#copy-url">>r<"x-scrollable"t>ip',
       buttons: [
