@@ -346,9 +346,6 @@ $(document).ready(function () {
         }
       ],
       order: [[5, 'desc'], [0, 'asc']],
-      orderFixed: {
-        post: [[0, 'asc']]
-      },
       rowGroup: {
         dataSrc: awards_history_group_view ? 'company_id' : '',
         startRender: function(rows, group) {
