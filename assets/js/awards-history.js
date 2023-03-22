@@ -378,7 +378,6 @@ $(document).ready(function () {
         update_awards_history_url_with_filters();
       }
     });
-    dt.draw();
     // If the initial queryString contained a keyword search...
     if (awards_history_filters.keyword) {
       config.oSearch = {sSearch: awards_history_filters.keyword};
@@ -391,6 +390,7 @@ $(document).ready(function () {
 
     dt = $('#awards_history').DataTable(config);
 
+    dt.draw();
     if (awards_history_group_view) {
       dt.rowGroup().dataSrc('company_id').order([0, 'asc']);
       $('#group-view').addClass('active');
