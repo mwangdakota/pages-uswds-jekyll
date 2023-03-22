@@ -316,9 +316,9 @@ $(document).ready(function () {
         { title: 'PI PHONE', data: 'pi_phone', visible: false}
       ],
       columnDefs: [
-        {'max-width': '20%', 'targets': 2}
+        {'max-width': '20%', 'targets': 3}
       ],
-      lengthMenu: [[3, 10, 50, 100, -1], [3, 10, 50, 100, 'All']],
+      lengthMenu: [[50, 100, -1], [50, 100, 'All']],
       dom: '<"flbv-container"flB<"awards-history-grid-view"><"#copy-url">>r<"x-scrollable"t>ip',
       buttons: [
         {
@@ -390,7 +390,6 @@ $(document).ready(function () {
 
     dt = $('#awards_history').DataTable(config);
 
-    dt.draw();
     if (awards_history_group_view) {
       dt.rowGroup().dataSrc('company_id').order([0, 'asc']);
       $('#group-view').addClass('active');
