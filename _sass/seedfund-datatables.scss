@@ -36,7 +36,8 @@
           td {
             padding: 8px;
           }
-          td:nth-child(3)
+
+          td:nth-child(3) {
             word-wrap: break-word;
             word-break: break-word;
           }
