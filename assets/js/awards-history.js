@@ -318,7 +318,7 @@ $(document).ready(function () {
       columnDefs: [
         {'max-width': '20%', 'targets': 2}
       ],
-      lengthMenu: [[50, 100, -1], [50, 100, 'All']],
+      lengthMenu: [[3, 10, 50, 100, -1], [3, 10, 50, 100, 'All']],
       dom: '<"flbv-container"flB<"awards-history-grid-view"><"#copy-url">>r<"x-scrollable"t>ip',
       buttons: [
         {
