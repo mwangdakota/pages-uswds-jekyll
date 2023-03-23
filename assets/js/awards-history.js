@@ -315,6 +315,9 @@ $(document).ready(function () {
         { title: 'PI', data: 'pi_name', visible: false},
         { title: 'PI PHONE', data: 'pi_phone', visible: false}
       ],
+      columnDefs: [
+        {'width': '20%', 'targets': 3}
+      ],
       lengthMenu: [[50, 100, -1], [50, 100, 'All']],
       dom: '<"flbv-container"flB<"awards-history-grid-view"><"#copy-url">>r<"x-scrollable"t>ip',
       buttons: [
@@ -343,9 +346,6 @@ $(document).ready(function () {
         }
       ],
       order: [[5, 'desc'], [0, 'asc']],
-      orderFixed: {
-        post: [[0, 'asc']]
-      },
       rowGroup: {
         dataSrc: awards_history_group_view ? 'company_id' : '',
         startRender: function(rows, group) {
@@ -375,7 +375,6 @@ $(document).ready(function () {
         update_awards_history_url_with_filters();
       }
     });
-
     // If the initial queryString contained a keyword search...
     if (awards_history_filters.keyword) {
       config.oSearch = {sSearch: awards_history_filters.keyword};

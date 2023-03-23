@@ -1,5 +1,5 @@
 ---
-title: Advanced Analytics Grant – Apply Today
+title: Advanced Systems for Scalable Analytics Grant – Apply Today
 description:
   - NSF provides startups with grant funding for advanced analytics innovations.
 permalink: /topics/advanced-analytics/
@@ -10,7 +10,9 @@ section_image_caption: |
   [bioMASON Inc]({{ site.baseurl }}/portfolio/details/?company=biomason-inc#biomason-inc) interior and exterior façade tile made with biocement, which is less costly and more sustainable than its traditional counterpart
 ---
 {% capture tt_description %}
-The Advanced Analytics topic focuses on innovations that involve the mathematical or computational analysis of data or statistics. This topic does not include learning-based systems, which are covered under the Artificial Intelligence (AI) topic. These subtopic areas are meant to serve as examples; all proposals with technical innovation and significant commercial potential are welcome, regardless of the specific area of focus of the project.
+The Advanced Systems for Scalable Analytics topic focuses on innovations needed for building systems that organize and process large and ever-increasing volumes of structured, semi-structured and unstructured data to reveal actionable new insights. It also includes innovative knowledge management and data mining technologies that complement deep learning. Sample topics include data and knowledge management technologies for data acquisition, integration, annotation, governance and provenance; hardware and software for addressing the performance needs of analytical systems; technologies for continual learning in dynamic environments; technologies in data mining, visualization and optimization; and marketplaces for data and models. <br><br>
+These subtopics are only meant to serve as examples. All proposals focused on the development of a new high-risk technical innovation and significant potential commercial and societal impact are welcome to apply, regardless of subtopic.
+
 {% endcapture %}
 
 {% capture tt_features___ignore %}
