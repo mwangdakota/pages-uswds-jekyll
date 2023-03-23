@@ -7,7 +7,7 @@ sidenav: how-to-submit
 
 # Unique Entity ID (SAM.gov)   
 
-You MUST register to do business with the U.S. government through [System for Award Management (SAM)](https://www.sam.gov/SAM/). An active SAM.gov registration is needed to receive a Unique Entity ID (UEI) to create an account in Research.gov and submit a proposal to NSF. 
+You MUST register to do business with the U.S. government through [System for Award Management (SAM)](https://www.sam.gov/SAM/). An active SAM.gov registration is needed to receive a Unique Entity ID (UEI) to create an account in Research.gov and submit a proposal to NSF. This registration process is free.
 
 ## Timing
 This registration process is free and takes only 10-15 minutes to initiate but can take up to one month to complete. Sometimes SAM registrations can take longer if the registration information provided in SAM is incomplete or not accurate.

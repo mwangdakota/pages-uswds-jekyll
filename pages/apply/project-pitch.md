@@ -48,7 +48,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <section class="usa-section full-bleed-bg">
   <h2>Submit your pitch</h2>
   <p>When you're ready, you'll need to create an account to submit your Project Pitch.*</p>
-  <a class="usa-button usa-button-secondary" href="https://nsfiip.force.com/sbir/s/login/" target="_blank">
+  <a class="usa-button usa-button-secondary" href="https://nsfiip.force.com/mywork/s/login/?ec=302&startURL=%2Fmywork%2Fs%2F" target="_blank">
     Submit your Project Pitch
   </a>
   <br>
