@@ -10,7 +10,7 @@ section_image_caption: |
   [bioMASON Inc]({{ site.baseurl }}/portfolio/details/?company=biomason-inc#biomason-inc) interior and exterior façade tile made with biocement, which is less costly and more sustainable than its traditional counterpart
 ---
 {% capture tt_description %}
-The Advanced Materials topic addresses the development of new and improved materials for a wide variety of commercial and industrial applications. Proposals may focus on the creation of innovative material systems and/or on critical fabrication, processing, or manufacturing challenges involved in the successful commercialization of materials. A broad range of applications areas will be considered as part of this topic.
+The Advanced Materials topic addresses the development of new and improved materials for a wide variety of commercial and industrial applications. Proposals may focus on the creation of innovative material systems and/or on critical fabrication, processing or manufacturing challenges involved in the successful demonstration and commercialization of novel advanced materials. A broad range of applications areas will be considered as part of this topic.
 {% endcapture %}
 
 {% capture tt_features %}

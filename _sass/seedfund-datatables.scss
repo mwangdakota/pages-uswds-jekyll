@@ -7,18 +7,6 @@
       thead {
         border-bottom: 1px solid $color-gray-light;
 
-        .sorting {
-          background-image: url('../img/sort_both.png') !important;
-        }
-
-        .sorting_asc {
-          background-image: url('../img/sort_asc.png') !important;
-        }
-
-        .sorting_desc {
-          background-image: url('../img/sort_desc.png') !important;
-        }
-
         tr {
           th {
             border: 0;
@@ -47,6 +35,11 @@
 
           td {
             padding: 8px;
+          }
+
+          td:nth-child(4) {
+            word-wrap: break-word;
+            word-break: break-word;
           }
 
           &.odd, &.even {

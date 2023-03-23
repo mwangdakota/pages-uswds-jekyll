@@ -10,7 +10,9 @@ section_image_caption: |
   [bioMASON Inc]({{ site.baseurl }}/portfolio/details/?company=biomason-inc#biomason-inc) interior and exterior façade tile made with biocement, which is less costly and more sustainable than its traditional counterpart
 ---
 {% capture tt_description %}
-The Artificial Intelligence topic focuses on innovations in the field of artificial intelligence (AI), which refers to intelligence exhibited by machines or software. AI is not a specific technology or technical method – it is instead a field of study aimed at achieving machine-based intelligence. These subtopic areas are meant to serve as examples; all proposals with technical innovation and significant commercial potential are welcome, regardless of the specific area of focus of the project.  
+The Artificial Intelligence topic focuses on cutting-edge technologies in the field of deep learning-based AI systems and AI-based hardware. The recent successes in computer vision, machine translation, natural-language processing and speech recognition have led to widespread use of learning-based systems in production and an unprecedented growth in AI systems that interact frequently with and/or on behalf of humans in highly personalized contexts. This topic especially emphasizes next-generation AI technologies that are not only safe and reliable but also fair, robust against sophisticated adversaries, privacy preserving, and efficient in terms of computational resources, energy, training data size, etc. It also includes cutting-edge hardware technologies needed for sustainable AI (i.e., novel devices and architectures to support the tremendous processing power needed by AI technologies), edge devices (i.e., intelligent systems on a chip for applications such as voice assistants) and AI technologies that lead to better hardware systems.<br><br>
+These subtopics are only meant to serve as examples. All proposals that are focused on developing a new high-risk technical innovation and that have significant potential commercial and societal impact are welcome to apply, regardless of subtopic.
+ 
 {% endcapture %}
 
 {% capture tt_features %}
