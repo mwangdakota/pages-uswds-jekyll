@@ -34,6 +34,9 @@
   font-size:medium;
 }
 
+.slider .innerScroll {
+  background-size: contain;
+}
 .slider .image-margin {
     padding-top: 100px;
     padding-bottom: 50px;
@@ -386,6 +389,7 @@
   }
   .slider h1 {
     font: normal normal 900 107px/104px Gotham;
+    font-size: 7.83vw;
     letter-spacing: 3.21px;
     color: #FFFFFF;
     text-transform: uppercase;
@@ -741,6 +745,7 @@
     padding-left: 50px;
   }
   .slider .innerScroll {
+    background-size: contain;
     height: calc(100vh - 50px);
     overflow-y: scroll;
     overflow-y: overlay;
