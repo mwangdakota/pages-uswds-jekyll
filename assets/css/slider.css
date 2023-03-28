@@ -329,6 +329,9 @@
   #main-content.main-content-headroom {
     margin-top: 0 !important;
   }
+  .main-content-headroom .usa-layout-docs-main_content {
+    margin-top: 80 !important;
+  }
   .usa-header.linkless {
     background-color: #123360;
   }
