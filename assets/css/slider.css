@@ -326,7 +326,7 @@
 }
 
 @media only screen and (min-width: 769px) {
-  .linkless .main-content-headroom {
+  #main-content.main-content-headroom {
     margin-top: 0 !important;
   }
   .usa-header.linkless {
