@@ -330,10 +330,13 @@
     margin-top: 0 !important;
   }
   .main-content-headroom .usa-layout-docs-main_content {
-    margin-top: 80 !important;
+    margin-top: 80px !important;
   }
   .usa-header.linkless {
     background-color: #123360;
+  }
+  .linkless .usa-navbar {
+    padding-top:1rem;
   }
   .usa-nav-container {
     height: 60px;
