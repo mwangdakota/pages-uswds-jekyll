@@ -326,7 +326,10 @@
 }
 
 @media only screen and (min-width: 769px) {
-  .usa-header {
+  ..main-content-headroom {
+    margin-top: 0 !important;
+  }
+  .usa-header.linkless {
     background-color: #123360;
   }
   .usa-nav-container {
