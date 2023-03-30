@@ -1,11 +1,11 @@
 ---
-title: Taxes Information
-permalink: /resources/awardees/phase-1/taxes-information/
+title: Tax Information
+permalink: /resources/awardees/phase-1/tax-information/
 layout: resources-layout
 sidenav: phase-1
 ---
 
-# Taxes Information
+# Tax Information
 
 The Tax Cuts and Jobs Act of 2017 included major changes to Section 174 of the Internal Revenue Service (IRS) Code to take effect in 2022. These changes require businesses to amortize research and development (R&D) expenses over a five-year period instead of deducting them in the year they were incurred. 
 
