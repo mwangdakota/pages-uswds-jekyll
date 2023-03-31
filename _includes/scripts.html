@@ -86,6 +86,23 @@
   });
 
   $(document).ready(function () {
+
+      console.log("does this fire");
+      $("#divPhase1").hide();
+      $("#divPhase2").hide();
+      var phase1 = "/awardees/phase-1/";
+      var phase2 = "/awardees/phase-2/";
+
+      if (window.location.href.indexOf(phase1) > -1) {
+        $("#divPhase1").show();
+        console.log("div 1 shown");
+      }
+      if (window.location.href.indexOf(phase2) > -1) {
+
+        console.log("div 2shown");
+        $("#divPhase2").show();
+      }
+    });
     var menuButton = $('.usa-navbar .usa-menu-btn');
     var visibleSubMenu = null;
 
