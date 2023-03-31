@@ -133,5 +133,18 @@
   {% endif %}
 
 </header>
+<script type="text/javascript">
+  $(document).ready(function() {
+    $("#divPhase1").hide();
+    $("#divPhase2").hide();
+    var phase1 = "/awardees/phase-1/";
+    var phase2 = "/awardees/phase-2/";
 
+    if (window.location.href.indexOf(phase1) > -1) {
+      $("#divPhase1").show();
+    }
+    if (window.location.href.indexOf(phase2) > -1) {
+      $("#divPhase2").show();
+    }
+  });
 {% endif %}
