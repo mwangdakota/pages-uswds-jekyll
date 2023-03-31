@@ -341,7 +341,10 @@
   .usa-nav-container {
     height: 60px;
   }
-
+  .linkless .usa-header-basic .usa-logo {
+      bottom: 0;
+      position: absolute;
+  }
   .slider .desktop-radio {
     display:inherit;
   }
