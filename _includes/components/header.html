@@ -135,6 +135,7 @@
 </header>
 <script type="text/javascript">
   $(document).ready(function() {
+    console.log("does this fire");
     $("#divPhase1").hide();
     $("#divPhase2").hide();
     var phase1 = "/awardees/phase-1/";
@@ -142,8 +143,11 @@
 
     if (window.location.href.indexOf(phase1) > -1) {
       $("#divPhase1").show();
+      console.log("div 1 shown");
     }
     if (window.location.href.indexOf(phase2) > -1) {
+
+      console.log("div 2shown");
       $("#divPhase2").show();
     }
   });
