@@ -345,6 +345,18 @@
       bottom: 0;
       position: absolute;
   }
+  .linkless .usa-footer, .usa-footer-primary-section, .usa-footer-secondary_section {
+    background-color: #123360;
+  }
+  .linkless .usa-footer-secondary_section a {
+    color: #FFF;
+  }
+  .linkless .usa-footer-secondary_section h2 {
+    color: #FFF;
+  }
+  .linkless .usa-footer-nav .usa-footer-primary-link {
+    color: #FFF;
+  }
   .slider .desktop-radio {
     display:inherit;
   }
