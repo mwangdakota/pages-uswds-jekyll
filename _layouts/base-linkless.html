@@ -20,7 +20,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <!-- End Google Tag Manager -->
   </head>
 
-  <body class="{{ layout.class }} page-{{ page.title | slugify }} {{ page.class }} {% if background_image_url != '' %} page-background {% endif %}">
+  <body class="linkless {{ layout.class }} page-{{ page.title | slugify }} {{ page.class }} {% if background_image_url != '' %} page-background {% endif %}">
     {% if background_image_url != '' %}
     <div class="page-background-image" style="background-image: url('{{ background_image_url }}');"></div>
     {% endif %}
