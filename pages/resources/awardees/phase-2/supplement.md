@@ -71,13 +71,6 @@ Phase IIB proposals MUST be submitted using Research.gov. The Phase IIB proposal
 - A discussion of the "New" R&D Activities (including how the third-party funding will be used to accelerate and/or expand commercialization
 - A summary of the third party investment
 
-### The following sections do not count toward the 15 pages:
-
-- Executed third party documentation for the investment match for Phase IIB SBIR funding
-- An updated [milestone chart]({{site.baseurl}}/assets/files/awardees/Blank_Milestone_Chart.xlsx) reflecting the additional year of effort.
-- A new [Certificate of Current Cost Pricing Data]({{site.baseurl}}/assets/files/awardees/Certificate_of_Current_Cost.docx)
-- A new budget for the portion of the funds requested from NSF for the Phase IIB project and budget line item justification
-
 ### Add/delete non Co-PI senior personnel
 Log into Research.gov and access the Account Management system. The system includes pages for Administrators to manage user and organization information and pages for users to self-manage their roles and profile information. Access these pages and the updated functionality by signing in to [Research.gov](https://www.research.gov/research-web/) and clicking on the “My Profile” link in the top right.  
 
@@ -87,10 +80,6 @@ Visit the [Research.gov Account Management About page](https://www.research.gov/
 
 - Executive Summary of the Commercialization
 - "New" R&D Activities Proposed
-
-### Justification for supplement
-
-- Upload documentation of the Executed Third-Party Documentation, Purchase Orders, Licensing Agreements, etc.
 
 ### SupplementarydDocs
 
