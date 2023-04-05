@@ -1,5 +1,14 @@
 @import url('https://fonts.cdnfonts.com/css/gotham');
-.linkless .usa-header{
+  #main-content.main-content-headroom {
+    margin-top: 0 !important;
+  }
+  .main-content-headroom .usa-layout-docs-main_content {
+    margin-top: 85px !important;
+  }
+  .linkless .usa-layout-docs-main_content {
+    margin-bottom: inherit;
+  }
+  .linkless .usa-header{
     background-color: #123360;
   }
   .linkless .usa-navbar {
