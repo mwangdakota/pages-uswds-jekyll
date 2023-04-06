@@ -18,7 +18,7 @@
     height: 60px;
   }
   .linkless .usa-header-basic .usa-logo {
-      bottom: 4.5rem;
+      bottom: inherit;
       position: absolute;
   }
   .linkless .usa-footer-secondary_section {
@@ -373,6 +373,10 @@
     margin-top: 80px !important;
   }
   
+  .linkless .usa-header-basic .usa-logo {
+      bottom: inherit;
+      position: absolute;
+  }
   .slider .desktop-radio {
     display:inherit;
   }
