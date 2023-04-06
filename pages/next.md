@@ -21,7 +21,7 @@ scripts: /assets/js/slider.js
       <!-- Using radio inputs means only one can be selected at a time-->
       <!-- The ID must be unique so the label will point to the input-->
       <div class="inside-slide">
-        <input id="check1" class="mobile-checkbox" type="checkbox"/>
+        <input id="check1" class="mobile-checkbox" type="checkbox" checked="checked"/>
         <label class="mobile-checkbox" for="check1">
           GETTING STARTED
         </label>
