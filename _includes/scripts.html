@@ -86,6 +86,21 @@
   });
 
   $(document).ready(function () {
+    $("#divPhase1").css("visibility", "hidden");
+    $("#divPhase2").css("visibility", "hidden");
+    $("#divPhase1").hide();
+    $("#divPhase2").hide();
+    var phase1 = "/awardees/phase-1/";
+    var phase2 = "/awardees/phase-2/";
+
+    if (window.location.href.indexOf(phase1) > -1) {
+        $("#divPhase1").show();
+        $("#divPhase1").css("visibility", "visible");
+    }
+    if (window.location.href.indexOf(phase2) > -1) {
+        $("#divPhase2").show();
+        $("#divPhase2").css("visibility", "visible");
+    }
     var menuButton = $('.usa-navbar .usa-menu-btn');
     var visibleSubMenu = null;
 
