@@ -279,7 +279,7 @@
   margin-top:12px;
   margin-right:10px;
 }
-.slider input:checked ~ div.accslide{
+.slider input.mobile-checkbox:checked ~ div.accslide{
   max-height:100%;
 }
 
