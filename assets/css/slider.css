@@ -373,6 +373,10 @@
     margin-top: 80px !important;
   }
   
+  .slider input.desktop-radio:checked ~ div.accslide{
+    max-height:100%;
+  }
+
   .linkless .usa-header-basic .usa-logo {
       bottom: inherit;
       position: absolute;
