@@ -7,56 +7,62 @@
   events:
 - month: Apr
   events: 
-    - eventname: National Society of Black Engineers (NSBE)
-      href: http://convention.nsbe.org/  
-      desc: 4/5 - 4/9 (online)
+    - eventname: National Small Business Week 
+      href: https://www.sba.gov/national-small-business-week
+      desc: 4/30 - 5/6  
 - month: May
   events:
-    - eventname: Angel Capital Association Summit
-      href: https://events.angelcapitalassociation.org/2021summit
-      desc: 5/4 - 5/6
-    - eventname: Advanced Research Projects Agency-Energy (ARPA-E) Summit
-      href: https://www.arpae-summit.com/
-      desc: 5/24 - 5/27
+    - eventname: Emerging Tech and Venture Summit
+      href: https://youngstartup.com/events/etvs23/
+      desc: 5/10 - 5/11
+    - eventname: USPTO Invention-Con
+      href: https://www.uspto.gov/about-us/events/invention-con-2023-building-tomorrows-innovation
+      desc: 5/10 - 5/12
+    - eventname: America’s Seed Fund Week
+      href: https://www.americasseedfund.us/america-s-seed-fund-week
+      desc: 5/15 - 5/18  
 - month: Jun
   events:
+    - eventname: WEPAN Equity in STEM Community Convening
+      href: https://www.wepan.org/events/equity-in-stem-community-convening-2023
+      desc: 5/5 - 5/7
+    - eventname: NSF Virtual Grants Conference
+      href: https://beta.nsf.gov/events/nsf-virtual-grants-conference-june-5-8-2023/2023-06-05
+      desc: 5/5 - 5/8 
+    - eventname: SBIR/STTR Spring Conference at TechConnect
+      href: https://techconnectworld.com/SBIRSpring2023/
+      desc: 5/19 - 5/21 
+    - eventname: ASEE Conference
+      href: https://www.asee.org/events/Conferences-and-Meetings/2023-Annual-Conference
+      desc: 5/25 - 5/28   
 - month: Jul
   events:   
-    - eventname: American Society for Engineering Education (ASEE) Annual Conference
-      href: https://www.asee.org/annual-conference/2021  
-      desc: 7/26 -7/29
 - month: Aug
   events:
-    - eventname: National Society of Black Engineers (NSBE) Professional Development Conference
+    - eventname: NSBE Professional Development Conference
       href: https://pdc.nsbe.org/
-      desc: 8/12 - 8/14
+      desc: 8/23 - 8/27
 - month: Sep
   events:
     - eventname: National Organization for the Professional Advancement of Black Chemists and Chemical Engineers (NOBCCHE)
       href: https://www.nobcche.org/conference
-      desc: 9/16 - 9/18
-    - eventname: American Indian Science and Engineering Society (AISES) National Conference
-      href: https://www.aises.org/
-      desc: 9/23 - 9/25
+      desc: 9/11 - 9/14
 - month: Oct
   events:
-    - eventname: Society of Women Engineers (SWE) Conference
-      href: https://we21.swe.org/about/conference-schedule/ 
-      desc: 10/21 - 10/23
+    - eventname: AISES National Conference
+      href: https://www.aises.org/news/events/2023-aises-national-conference
+      desc: 10/19 - 10/21
     - eventname: Society for Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS) National Diversity in STEM Conference
-      href: https://www.sacnas.org/what-we-do/conference/
-      desc: 10/25 - 10/29   
+      href: https://www.sacnas.org/conference/2023-sacnas
+      desc: 10/26 - 10/28  
+    - eventname: SWE Conference
+      href: https://we23.swe.org/
+      desc: 10/26 - 10/28    
 - month: Nov
   events:
-    - eventname: National Society of Black Physicists (NSBP) Conference
-      href: http://www.nsbp.org/
-      desc: 11/04 - 11/07
-    - eventname: Women in Engineering ProActive Network (WEPAN) Virtual Women of Color Summit
-      href: https://www.wepan.org/     
-      desc: 11/09 - 11/10
     - eventname: Society of Hispanic Professional Engineers (SHPE) National Convention
-      href: https://www.shpe.org/events/nc2021 
-      desc: 11/10 - 11/14
+      href: https://shpe.org/2023-2/
+      desc: 11/1 - 11/5
 - month: Dec
   events:
 ---
