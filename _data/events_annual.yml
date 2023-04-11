@@ -1,10 +1,28 @@
 ---
 - month: Jan
   events:
+    - eventname: Consumer Electronic Show (CES) 
+      href: https://www.ces.tech/
+      desc: 1/5 - 1/8
 - month: Feb
   events:
+    - eventname: National Entrepreneurship Week
+      href: https://www.natleshipweek.org/#:~:text=February%2011%2D18%2C%202023.
+      desc: 2/11 - 2/18
+    - eventname: Association of University Technology Managers (AUTM) 2023
+      href: https://autm.net/events/previous-annual-meeting/2023-annual-meeting/schedule
+      desc: 2/19 - 2/22  
 - month: Mar
   events:
+    - eventname: South by Southwest --SWSX 2023
+      href: https://www.sxsw.com/
+      desc: 3/10 - 3/19
+    - eventname: VentureWell Open
+      href: https://venturewell.org/open/schedule/
+      desc: 3/21 - 3/23
+    - eventname: 2023 ARPA-E Summit - Government Agency Networking Program (GANP)
+      href: https://arpa-e.energy.gov/events/2023-arpa-e-energy-innovation-summit
+      desc: 3/22 - 3/24  
 - month: Apr
   events: 
     - eventname: National Small Business Week 
