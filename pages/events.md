@@ -14,7 +14,7 @@ layout: secondary
 
 We regularly host a virtual Question and Answer session for startups and small businesses to learn about our program and the Project Pitch process. Can’t make it? Watch an [Introduction to America's Seed Fund recording](https://www.youtube.com/watch?v=GQ-ZJMb3qfU) or a [How to Apply recording](https://www.youtube.com/watch?v=X7jirpYWFZY).
   
-You can often find NSF staff at major tradeshows and events throughout the year. [See some of the events that we hope to participate in over the course of 2023.]({{site.baseurl}}/events/#annual-events)
+[View a list of annual events.]({{site.baseurl}}/events/#annual-events)
   
 
 <!-- {% include events-table.html %} -->
@@ -30,7 +30,7 @@ You can often find NSF staff at major tradeshows and events throughout the year.
 
 ## Annual events
 
-You can often find NSF staff at major tradeshows and events throughout the year. See some of the events that we participated in over the course of 2021. Check back to see our plan for 2022.
+You can often find NSF staff at major tradeshows and events throughout the year. See some of the events that we hope to participate in over the course of 2023.
 
 {% include events-annual.html %}
 
