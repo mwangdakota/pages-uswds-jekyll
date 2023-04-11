@@ -12,7 +12,10 @@ layout: secondary
 
 ## Upcoming
 
-We regularly host a virtual Question and Answer session for startups and small businesses to learn about our program and the Project Pitch process. Can’t make it? Watch an [Introduction to America's Seed Fund recording](https://www.youtube.com/watch?v=GQ-ZJMb3qfU) or a [How to Apply recording](https://www.youtube.com/watch?v=X7jirpYWFZY). 
+We regularly host a virtual Question and Answer session for startups and small businesses to learn about our program and the Project Pitch process. Can’t make it? Watch an [Introduction to America's Seed Fund recording](https://www.youtube.com/watch?v=GQ-ZJMb3qfU) or a [How to Apply recording](https://www.youtube.com/watch?v=X7jirpYWFZY).
+  
+  [View a list of annual events.]({{site.baseurl}}/events/#annual-events)
+  
 
 <!-- {% include events-table.html %} -->
 
@@ -21,7 +24,7 @@ We regularly host a virtual Question and Answer session for startups and small b
 </div>
 </section>
 
-<section class="section-background-image">
+<section class="section-background-image" id="annual-events">
 <div class="usa-section-tight-top usa-content">
 <div class="usa-grid" markdown="1">
 
