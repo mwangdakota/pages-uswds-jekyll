@@ -117,6 +117,15 @@ Technical innovation indicates that the new product or service is differentiated
 ## Technical Risk 
 Technical risk assumes that the possibility of technical failure exists for an envisioned product, service, or solution to be successfully developed. This risk is present even to those suitably skilled in the art of the component, subsystem, method, technique, tool, or algorithm in question.
 
+## Third-party investor
+A third-party investor may include:
+*	Another company
+*	A venture capital firm
+*	An individual angel investor
+*	Federal (non-SBIR), state, or local government
+*	Any combinations of the above.
+This definition does not include owners of the small business, their family members, and/or affiliates of the small business, as defined in Title 13 of the Code of Federal Regulations (C.F.R.), Section 121.103. (Reference: [http://law.justia.com/us/cfr/title13/13-1.0.1.1.15.1.231.3.html](http://law.justia.com/us/cfr/title13/13-1.0.1.1.15.1.231.3.html))
+
 ## Women-owned small business
 A small business concern that is at least 51 percent owned by a woman or women. In the case of any publicly owned business, it must have at least 51 percent of its stock owned by women, who also control and operate it. In this context, _control_ means exercising the power to make policy decisions. _Operate_ means being actively involved in the day-to-day management of the organization.
 
