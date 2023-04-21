@@ -146,3 +146,7 @@ exclude:
   - PULL_REQUEST_TEMPLATE.md
   - package-lock.json
   - new-page
+
+redirection:
+  - from: /fastlane/form-prep-2/
+    to: https://resources.research.gov/common/attachment/Desktop/How to Enter Proposal Budgets_Final_508.pdf
