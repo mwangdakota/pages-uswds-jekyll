@@ -49,7 +49,7 @@ scripts: /assets/js/slider.js
                     <br>
                     <h6>WATCH AWARDEE SUCCESS STORIES</h6>
                     <br>
-                    <button class="hollow-button">SEE MORE SUCCESS STORIES</button>
+                    <button class="hollow-button" onclick="location.href='https://seedfund.nsf.gov/portfolio/'">SEE MORE SUCCESS STORIES</button>
                   </div>
                   <div class="usa-width-one-half padded-block">
                     <div class="feature-videos">
@@ -57,14 +57,14 @@ scripts: /assets/js/slider.js
                         <div class="feature-iframe-container">
                           <iframe width="100%" height="100%" src="https://www.youtube.com/embed/vi-TZY-uU_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                         </div>
-                        <p><a href="#">Mango Technologies</a></p>
+                        <p><a href="https://seedfund.nsf.gov/awardees/history/details/?company=mango-materials">Mango Materials</a></p>
                         <p>funded 2012</p>
                       </div>
                       <div class="feature-video">
                         <div class="feature-iframe-container">
                           <iframe width="100%" height="100%" src="https://www.youtube.com/embed/4e1lHRw6rAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                         </div>
-                        <p><a href="#">https://www.shasqi.com/</a></p>
+                        <p><a href="https://seedfund.nsf.gov/awardees/history/details/?company=tambo-inc">Tambo Inc</a></p>
                         <p>funded 2017</p>
                       </div>
                     </div>
@@ -100,7 +100,7 @@ scripts: /assets/js/slider.js
                 <h1>THE</h1><h1>QUALIFICATIONS</h1>
               </div>
               <div class="inner-clip title">
-                <p><h3>WHAT WE LOOK FOR</h3></p>
+                <h3>WHAT WE LOOK FOR</h3>
               </div>
               <div class="inner-body">
                 <div>
@@ -201,8 +201,8 @@ scripts: /assets/js/slider.js
                         1.
                       </span>
                       <span class="feature-text">
-                        <p><h5>The Technology Innovation.</h5></p>
-                        (up to 500 words)
+                        <h5>The Technology Innovation.</h5>
+                        <p>(up to 500 words)</p>
                       </span>
                     </div>
                     <div class="feature-block">
@@ -210,8 +210,8 @@ scripts: /assets/js/slider.js
                         2.
                       </span>
                       <span class="feature-text">
-                        <p><h5>The Technical Objectives and Challenges.</h5></p>
-                        (up to 500 words)
+                        <h5>The Technical Objectives and Challenges.</h5>
+                        <p>(up to 500 words)</p>
                       </span>
                     </div>
                     <div class="feature-block">
@@ -219,8 +219,8 @@ scripts: /assets/js/slider.js
                         3.
                       </span>
                       <span class="feature-text">
-                        <p><h5>The Market Opportunity.</h5></p>
-                        (up to 500 words)
+                        <h5>The Market Opportunity.</h5>
+                        <p>(up to 500 words)</p>
                       </span>
                     </div>
                     <div class="feature-block">
@@ -228,8 +228,8 @@ scripts: /assets/js/slider.js
                         4.
                       </span>
                       <span class="feature-text">
-                        <p><h5>The Company and Team.</h5></p>
-                        (up to 500 words)
+                        <h5>The Company and Team.</h5>
+                        <p>(up to 500 words)</p>
                       </span>
                     </div>
                   </div>
