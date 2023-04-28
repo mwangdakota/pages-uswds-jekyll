@@ -76,7 +76,7 @@ scripts: /assets/js/slider.js
                 <span class="next-arrow"></span></button>
               </div>
             </div>
-            <div class="altTab">GETTING STARTED</div>
+            <div class="altTab">“SUBMIT YOUR PROJECT PITCHD</div>
           </div>
         </div>
       </div>
@@ -179,7 +179,7 @@ scripts: /assets/js/slider.js
         </label>
         <input class="desktop-radio" id="rad3" type="radio" class="desktop-radio" name="rad" />
         <label class="desktop-radio" for="rad3">
-          <div>GETTING STARTED</div>
+          <div>SUBMIT YOUR PROJECT PITCH</div>
         </label>
         <div class="accslide">
           <div class="content">
@@ -244,7 +244,7 @@ scripts: /assets/js/slider.js
                 </div>
               </div>
               <div class="next-link">
-                <button class="next-button">GETTING UPDATES
+                <button class="next-button">GET UPDATES
                 <span class="next-arrow"></span></button>
               </div>
             </div>
@@ -259,11 +259,11 @@ scripts: /assets/js/slider.js
       <div class="inside-slide">
         <input id="check4" class="mobile-checkbox" type="checkbox"/>
         <label class="mobile-checkbox" for="check4">
-          GETTING UPDATES
+          GET UPDATES
         </label>
         <input id="rad4" type="radio" class="desktop-radio" name="rad"/>
         <label class="desktop-radio" for="rad4">
-          <div>GETTING UPDATES</div>
+          <div>GET UPDATES</div>
         </label>
         <div class="accslide">
           <div class="container">

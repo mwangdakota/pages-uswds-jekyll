@@ -78,8 +78,8 @@
   background-size: contain;
 }
 .slider .image-margin {
-    padding-top: 100px;
-    padding-bottom: 50px;
+    padding-top: 23vw;
+    padding-bottom: 5vw;
     padding-left: 20px;
 }
 
@@ -107,7 +107,6 @@
 .slider h1 {
   color:#ffffff;
   font-size: 45px;
-  line-height: 75px;
 }
 .slider .inner-clip {
   position: relative;
@@ -115,8 +114,8 @@
   bottom: -1px;
   padding: 40px 40px 0px 40px;
   background: #fff;
-  -webkit-clip-path: polygon(85% 0, 100% 30%, 100% 100%, 0 100%, 0 0);
-  clip-path: polygon(85% 0, 100% 30%, 100% 100%, 0 100%, 0 0);
+  -webkit-clip-path: polygon(85% 0, 100% 20%, 100% 100%, 0 100%, 0 0);
+  clip-path: polygon(85% 0, 100% 20%, 100% 100%, 0 100%, 0 0);
 }
 
 .slider .inside-slide
@@ -795,7 +794,7 @@
   }
   .slider .image-margin {
     height: 400px;
-    padding-top: 300px;
+    padding-top: 21vw;
     padding-bottom: 250px;
     padding-left: 50px;
   }
