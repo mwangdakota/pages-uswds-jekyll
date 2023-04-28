@@ -76,7 +76,7 @@ scripts: /assets/js/slider.js
                 <span class="next-arrow"></span></button>
               </div>
             </div>
-            <div class="altTab">“SUBMIT YOUR PROJECT PITCHD</div>
+            <div class="altTab">GETTING STARTED</div>
           </div>
         </div>
       </div>
