@@ -72,10 +72,10 @@
           {{ footer.contact.content | markdownify }}
         {% endif %}
         {% if footer.social.twitter_url %}
-          <a href="{{ footer.social.twitter_url }}" target="_blank"  class="social-link"><img src="{{site.baseurl}}/assets/uswds/img/social-icons/twitter_white.svg" alt="twitter logo"></a>
+          <a href="{{ footer.social.twitter_url }}" target="_blank"  class="social-link"><img src="{{site.baseurl}}/assets/img/icons/twitter_white.svg" alt="twitter logo"></a>
         {% endif %}
         {% if footer.social.youtube_url %}
-          <a href="{{ footer.social.youtube_url }}" target="_blank"  class="social-link"><img src="{{site.baseurl}}/assets/uswds/img/social-icons/youtube_white.svg" alt="youtube logo"></a>
+          <a href="{{ footer.social.youtube_url }}" target="_blank"  class="social-link"><img src="{{site.baseurl}}/assets/img/icons/youtube_white.svg" alt="youtube logo"></a>
         {% endif %}
         {% assign contact_links = site.data.navigation[footer.contact.links] | default: footer.contact.links %}
         {% for _link in contact_links %}

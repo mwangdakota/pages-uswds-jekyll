@@ -879,5 +879,7 @@
     width: 100%;
     height: 285px;
   }
-
+  .usa-footer-secondary_section .usa-footer-return-to-top {
+    .padding-top: 640px;
+  }
 }
