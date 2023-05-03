@@ -332,7 +332,7 @@
   display: none;
 }
 .slider .nsf-form {
-  height: 100vh;   
+  height: 100vmax;
   width: 100%;
 }
 
@@ -457,7 +457,7 @@
   }
   .slider h1 {
     font: normal normal 900 107px/104px Gotham;
-    font-size: 7.83vw;
+    font-size: 4vw;
     letter-spacing: 3.21px;
     color: #FFFFFF;
     text-transform: uppercase;
