@@ -332,7 +332,7 @@
   display: none;
 }
 .slider .nsf-form {
-  height: 100vmax;
+  height: 1120px;
   width: 100%;
 }
 
@@ -882,4 +882,9 @@
   .usa-footer-secondary_section .usa-footer-return-to-top {
     padding-top: 640px;
   }
+  .slider .nsf-form {
+    height: 1020px;
+    width: 100%;
+  }
+
 }

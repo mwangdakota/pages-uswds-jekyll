@@ -41,7 +41,7 @@ scripts: /assets/js/slider.js assets/js/iframeResizer.js
               </div>
               <div class="inner-body">
                 <div class="inner-centered">
-                  America’s Seed Fund, powered by The National Science Foundation invests up to $2 million in funding for startups that are developing technologies.
+                  America’s Seed Fund, powered by The NSF invests up to $2 million in funding for startups that are developing technologies.
                 </div>
                 <div class="blue-section">
                   <div class="usa-width-one-half padded-block">
@@ -57,15 +57,10 @@ scripts: /assets/js/slider.js assets/js/iframeResizer.js
                         <div class="feature-iframe-container">
                           <iframe width="100%" height="100%" src="https://www.youtube.com/embed/vi-TZY-uU_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                         </div>
-                        <p><a href="https://seedfund.nsf.gov/awardees/history/details/?company=mango-materials">Mango Materials</a></p>
-                        <p>funded 2012</p>
+                        <p><a href="https://seedfund.nsf.gov/awardees/history/details/?company=mango-materials">Mango Materials</a>, funded 2012</p>
                       </div>
                       <div class="feature-video">
-                        <div class="feature-iframe-container">
-                          <iframe width="100%" height="100%" src="https://www.youtube.com/embed/4e1lHRw6rAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                        </div>
-                        <p><a href="https://seedfund.nsf.gov/awardees/history/details/?company=tambo-inc">Tambo Inc</a></p>
-                        <p>funded 2017</p>
+                        <p><a href="https://seedfund.nsf.gov/awardees/history/details/?company=tambo-inc">Tambo Inc</a>, funded 2017</p>
                       </div>
                     </div>
                   </div>
@@ -240,7 +235,7 @@ scripts: /assets/js/slider.js assets/js/iframeResizer.js
                 <h4 class="centered">+ DEADLINES </h4>
                 <div class="content-centered">
                   <h5>We accept Project Pitches at any time (24/7) and 365 days a year. Typically, it takes about one month to get an official response from NSF staff.</h5>
-                  <div><button class="yellow-button">SUBMIT YOUR PROJECT PITCH</button></div>
+                  <div><button  onclick="location.href='https://nsfiip.force.com/mywork/s/login/?ec=302&startURL=%2Fmywork%2Fs%2F'" class="yellow-button">SUBMIT YOUR PROJECT PITCH</button></div>
                 </div>
               </div>
               <div class="next-link">
