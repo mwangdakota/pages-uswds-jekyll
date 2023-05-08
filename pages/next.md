@@ -36,7 +36,7 @@ scripts: /assets/js/slider.js assets/js/iframeResizer.js
                 <h1>GETTING</h1><h1>STARTED</h1>
               </div>
               <div class="inner-clip title">
-                <h3>GET YOUR HIGH-TECH INNOVATION FUNDED.</h3><br>
+                <h3>GET YOUR HIGH-TECH INNOVATION FUNDED.</h3>
                 <h3>FOR WHAT'S NEXT.</h3>
               </div>
               <div class="inner-body">
@@ -46,7 +46,6 @@ scripts: /assets/js/slider.js assets/js/iframeResizer.js
                 <div class="blue-section">
                   <div class="usa-width-one-half padded-block">
                     <h4>WE GOT FUNDED AND SO CAN YOUR STARTUP.</h4>
-                    <br>
                     <h6>WATCH AWARDEE SUCCESS STORIES</h6>
                     <br>
                     <button class="hollow-button" onclick="location.href='https://seedfund.nsf.gov/portfolio/'">SEE MORE SUCCESS STORIES</button>
