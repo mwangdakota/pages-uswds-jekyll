@@ -31,7 +31,7 @@ scripts: /assets/js/slider.js assets/js/iframeResizer.js
         </label>
         <div class="accslide">
           <div class="content">
-            <div class="innerScroll" style="background-image: url('{{ site.baseurl }}/assets/img/Photo 1@2x.png');">
+            <div class="innerScroll" style="background-image: url('{{ site.baseurl }}/assets/img/Photo 1.png');">
               <div class="image-margin">
                 <h1>GETTING</h1><h1>STARTED</h1>
               </div>
@@ -88,7 +88,7 @@ scripts: /assets/js/slider.js assets/js/iframeResizer.js
         </label>
         <div class="accslide">
           <div class="content">
-            <div class="innerScroll" style="background-image: url('{{ site.baseurl }}/assets/img/Photo 2@2x.png');">
+            <div class="innerScroll" style="background-image: url('{{ site.baseurl }}/assets/img/Photo 2.png');">
               <div class="image-margin">
                 <h1>THE</h1><h1>QUALIFICATIONS</h1>
               </div>
@@ -176,7 +176,7 @@ scripts: /assets/js/slider.js assets/js/iframeResizer.js
         </label>
         <div class="accslide">
           <div class="content">
-            <div class="innerScroll" style="background-image: url('{{ site.baseurl }}/assets/img/Photo 3@2x.png');">
+            <div class="innerScroll" style="background-image: url('{{ site.baseurl }}/assets/img/Photo 3.png');">
               <div class="image-margin">
                 <h1>SUBMIT YOUR</h1><h1>PROJECT PITCH</h1>
               </div>
@@ -260,7 +260,7 @@ scripts: /assets/js/slider.js assets/js/iframeResizer.js
         </label>
         <div class="accslide">
           <div class="container">
-            <div class="innerScroll" style="background-image: url('{{ site.baseurl }}/assets/img/Photo 4@2x.png');">
+            <div class="innerScroll" style="background-image: url('{{ site.baseurl }}/assets/img/Photo 4.png');">
               <div class="image-margin">
                 <h1>GET</h1>
                 <h1>UPDATES</h1>
