@@ -31,7 +31,7 @@ scripts: /assets/js/slider.js assets/js/iframeResizer.js
         </label>
         <div class="accslide">
           <div class="content">
-            <div class="innerScroll">
+            <div class="innerScroll" style="background-image: url('{{ site.baseurl }}/assets/img/Photo 1@2x.png');">
               <div class="image-margin">
                 <h1>GETTING</h1><h1>STARTED</h1>
               </div>
@@ -55,7 +55,7 @@ scripts: /assets/js/slider.js assets/js/iframeResizer.js
                     <div class="feature-videos">
                       <div class="feature-video">
                         <div class="feature-iframe-container">
-                          <iframe src="https://www.youtube.com/embed/vi-TZY-uU_4" title="YouTube video player" allowfullscreen></iframe>
+                          <iframe width="100%" height="100%" src="https://www.youtube.com/embed/vi-TZY-uU_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                         </div>
                         <p><a href="https://seedfund.nsf.gov/awardees/history/details/?company=mango-materials">Mango Materials</a>, funded 2012</p>
                         <p><a href="https://seedfund.nsf.gov/awardees/history/details/?company=tambo-inc">Tambo Inc</a>, funded 2017</p>
@@ -88,7 +88,7 @@ scripts: /assets/js/slider.js assets/js/iframeResizer.js
         </label>
         <div class="accslide">
           <div class="content">
-            <div class="innerScroll">
+            <div class="innerScroll" style="background-image: url('{{ site.baseurl }}/assets/img/Photo 2@2x.png');">
               <div class="image-margin">
                 <h1>THE</h1><h1>QUALIFICATIONS</h1>
               </div>
@@ -176,7 +176,7 @@ scripts: /assets/js/slider.js assets/js/iframeResizer.js
         </label>
         <div class="accslide">
           <div class="content">
-            <div class="innerScroll">
+            <div class="innerScroll" style="background-image: url('{{ site.baseurl }}/assets/img/Photo 3@2x.png');">
               <div class="image-margin">
                 <h1>SUBMIT YOUR</h1><h1>PROJECT PITCH</h1>
               </div>
@@ -260,7 +260,7 @@ scripts: /assets/js/slider.js assets/js/iframeResizer.js
         </label>
         <div class="accslide">
           <div class="container">
-            <div class="innerScroll">
+            <div class="innerScroll" style="background-image: url('{{ site.baseurl }}/assets/img/Photo 4@2x.png');">
               <div class="image-margin">
                 <h1>GET</h1>
                 <h1>UPDATES</h1>
