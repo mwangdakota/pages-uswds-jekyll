@@ -58,7 +58,6 @@ scripts: /assets/js/slider.js assets/js/iframeResizer.js
                           <iframe width="100%" height="100%" src="https://www.youtube.com/embed/vi-TZY-uU_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                         </div>
                         <p><a href="https://seedfund.nsf.gov/awardees/history/details/?company=mango-materials">Mango Materials</a>, funded 2012</p>
-                        <p><a href="https://seedfund.nsf.gov/awardees/history/details/?company=tambo-inc">Tambo Inc</a>, funded 2017</p>
                       </div>
                     </div>
                   </div>
