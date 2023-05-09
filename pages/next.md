@@ -41,7 +41,7 @@ scripts: /assets/js/slider.js assets/js/iframeResizer.js
               </div>
               <div class="inner-body">
                 <div class="inner-centered">
-                  America’s Seed Fund, powered by The NSF invests up to $2 million in funding for startups that are developing technologies.
+                  America’s Seed Fund, powered by NSF invests up to $2 million in funding for startups that are developing technologies.
                 </div>
                 <div class="blue-section">
                   <div class="usa-width-one-half padded-block">
