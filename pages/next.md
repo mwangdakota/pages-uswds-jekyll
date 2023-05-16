@@ -34,6 +34,7 @@ scripts: /assets/js/slider.js assets/js/iframeResizer.js
             <div class="innerScroll" style="background-image: url('{{ site.baseurl }}/assets/img/Photo 1.png');">
               <div class="image-margin">
                 <h1>GETTING</h1><h1>STARTED</h1>
+                <a class="scrollarrow" href="#"><span></span><span></span></a>
               </div>
               <div class="inner-clip title">
                 <h3>GET YOUR HIGH-TECH INNOVATION FUNDED.</h3>
@@ -89,6 +90,7 @@ scripts: /assets/js/slider.js assets/js/iframeResizer.js
             <div class="innerScroll" style="background-image: url('{{ site.baseurl }}/assets/img/Photo 2.png');">
               <div class="image-margin">
                 <h1>THE</h1><h1>QUALIFICATIONS</h1>
+                <a class="scrollarrow" href="#"><span></span><span></span></a>
               </div>
               <div class="inner-clip title">
                 <h3>WHAT WE LOOK FOR</h3>
@@ -177,6 +179,7 @@ scripts: /assets/js/slider.js assets/js/iframeResizer.js
             <div class="innerScroll" style="background-image: url('{{ site.baseurl }}/assets/img/Photo 3.png');">
               <div class="image-margin">
                 <h1>SUBMIT YOUR</h1><h1>PROJECT PITCH</h1>
+                <a class="scrollarrow" href="#"><span></span><span></span></a>
               </div>
               <div class="inner-clip title">
                 <p><h3>YOUR BREAKTHROUGH IS ABOUT </h3><h3>TO HAVE A BREAKTHROUGH</h3></p>
@@ -262,6 +265,7 @@ scripts: /assets/js/slider.js assets/js/iframeResizer.js
               <div class="image-margin">
                 <h1>GET</h1>
                 <h1>UPDATES</h1>
+                <a class="scrollarrow" href="#"><span></span><span></span></a>
               </div>
               <div class="inner-clip title">
                 <p><h3>FOR WHAT'S NEXT</h3></p>
