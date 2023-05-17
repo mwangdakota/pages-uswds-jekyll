@@ -14,6 +14,16 @@
   .linkless .usa-navbar {
     padding-top:1rem;
   }
+
+  .yellow-button {
+    background: #FDF060 0% 0% no-repeat padding-box;
+    padding: 10px;
+    border-radius: 25px;
+    border: none;
+    color: #123360;
+    font-weight: 800;
+    border: 1px solid #FDF060;
+  }
   .usa-nav-container {
     height: 60px;
   }
@@ -99,15 +109,6 @@
   font: normal normal bold 14px/20px Gotham;
   letter-spacing: 0.28px;
   text-transform: uppercase;
-}
-.slider .yellow-button {
-  background: #FDF060 0% 0% no-repeat padding-box;
-  padding: 10px;
-  border-radius: 25px;
-  border: none;
-  margin: 10px;
-  color: #123360;
-  font-weight: 800;
 }
 .slider h1 {
   color:#ffffff;
@@ -350,7 +351,7 @@
 }
 
 .slider ::-webkit-scrollbar-thumb {
-  background-color: #123360;
+  background-color: #FDF060;
   border-radius: 20px;
   border: 5px solid transparent;
   background-clip: content-box;
@@ -395,8 +396,20 @@
     clip-path: polygon(90% 0, 100% 100%, 100% 100%, 0 100%, 0 0);
   }
 
+
+  .linkless .usa-nav-container {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 3rem;
+    padding-left: 3rem;
+  }
 }
 @media only screen and (min-width: 769px) {
+
+  .yellow-button {
+    margin: 15px;
+  }
   #main-content.main-content-headroom {
     margin-top: 0 !important;
   }
@@ -919,7 +932,7 @@
     animation: arrowflicker 3s infinite;
     opacity: 0;
     box-sizing: border-box;
-    box-shadow: 0px 7px 6px #00000031;
+    box-shadow: -2px 2px 4px -2px #00000031;
   }
 
   a.scrollarrow span:nth-of-type(1) {
@@ -940,7 +953,7 @@
       opacity: 1;
     }
     100% {
-      opacity: 1;
+      opacity: 0;
     }
   }
   @keyframes arrowflicker {
@@ -951,7 +964,7 @@
       opacity: 1;
     }
     100% {
-      opacity: 1;
+      opacity: 0;
     }
   }
 }

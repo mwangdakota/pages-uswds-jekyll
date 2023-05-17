@@ -28,7 +28,13 @@ $(function() {
     $('input.mobile-checkbox').removeAttr('checked');
     $($('input.mobile-checkbox')[3]).click();
   });
-
+  //hides down arrows on scroll
+  $(".innerScroll").scroll(function() {
+    if ($(this).scrollTop() > 0) {
+      $('.scrollarrow').fadeOut();
+    }
+  });
   iFrameResize({ log: true }, '#myIframe');
+
 });
 
