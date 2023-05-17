@@ -23,6 +23,7 @@
     color: #123360;
     font-weight: 800;
     border: 1px solid #FDF060;
+    display:none;
   }
   .usa-nav-container {
     height: 60px;
@@ -408,6 +409,7 @@
 @media only screen and (min-width: 769px) {
 
   .yellow-button {
+    display:block;
     margin: 15px;
   }
   #main-content.main-content-headroom {
