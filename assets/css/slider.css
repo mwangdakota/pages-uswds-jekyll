@@ -396,6 +396,9 @@
 }
 
 @media only screen and (min-width: 426px) {
+  .mobile-yellow-button{
+    display:none;
+  }
   .slider h3{
     font-size: 35px;
   }
@@ -502,6 +505,8 @@
     letter-spacing: 0.28px;
     color: #123360;
     text-transform: uppercase;
+    margin-left: auto;
+    margin-right: auto;
   }
   .slider h1 {
     font-size: 6vw;
