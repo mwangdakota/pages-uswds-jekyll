@@ -3,7 +3,6 @@ title: How It Works - Get Started
 permalink: /apply/get-started/
 redirect_from:
   - /apply/
-  - /next/
 layout: secondary-narrow
 page-class: gdd-apply
 ---
