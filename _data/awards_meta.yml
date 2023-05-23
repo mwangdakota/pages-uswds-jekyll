@@ -1,7 +1,7 @@
 ---
 active_date_is_now: true
 fundProgramName: phase i
-reset: true
+reset: false
 recent_date: 2016-01-01
 printFields:
 - id
@@ -25,7 +25,7 @@ printFields:
 - piLastName
 - piPhone
 - piEmail
-last_updated: 03/04/2021
-active_date: 03/04/2021
+last_updated: 01/23/2023
+active_date: 01/23/2023
 ---
 
