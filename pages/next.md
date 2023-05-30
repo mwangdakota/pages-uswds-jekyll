@@ -3,7 +3,7 @@ title: America’s Seed Fund powered by NSF.
 permalink: /next/
 description: 
 - For 40 years, America’s Seed Fund has provided funding to help startups transform ideas into marketable products and services.
-layout: secondary
+layout: secondary-linkless
 css: /assets/css/slider.css
 scripts: /assets/js/slider.js assets/js/iframeResizer.js
 ---
