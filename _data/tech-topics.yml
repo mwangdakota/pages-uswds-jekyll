@@ -16,6 +16,13 @@
       photo: samir.jpg
       ttopic: m
       bio: "joined the U.S. National Science Foundation in 2021. He serves as a program director for the SBIR/STTR program and the Partnerships for Innovation (PFI) program. Samir is also currently a professor of electrical engineering and department chair at the University of Texas Rio Grande Valley (UTRGV), a Minority-Serving Institution. Prior to UTRGV, Samir was an associate professor at the University of Texas at Arlington (UT-Arlington) where he spun off two companies from his NSF-funded research. Samir has also served as a mentor for several startups, bringing together academics and industrial partners. He was instrumental in developing programs that provided meaningful research and education experiences in STEM areas to women and students from underrepresented backgrounds. His research has focused on cancer nanotechnology, nano-bio interfaces, machine learning and developing measurement techniques for single molecule and single cell analysis. He was a Presidential Fellow at UT-Arlington in 2017, a Distinguished Lecturer for IEEE-EMBS and Nanotechnology Council for many years and is a Fellow of the Royal Society of Chemistry. Samir earned his Ph.D. from Purdue University in 2007." 
+    - name: Vincent Lee
+      last_name: Lee
+      api_name: Vincent Lee
+      email: vinlee@nsf.gov
+      photo: Vincent_Lee.jpg
+      ttopic: m
+      bio: "joined the National Science Foundation as an SBIR/STTR Program Director in June 2023. Prior to the NSF, Vincent was a Co-Founder of Lumiode and worked to commercialize a semiconductor integration technology combining micro-LEDs with thin-film silicon transistors for display and micro-LED array applications. In his roles as CEO and CTO, he led venture financing rounds, customer and partner development, technology research and development, and hired a world-class team. In the formation of Lumiode, Vincent was the principal investigator for an NSF SBIR Phase I/II/IIB grant, and the entrepreneurial lead in the NSF I-Corps program. Vincent has a Ph.D. and M.S. in Electrical Engineering from Columbia University and a B.S. in Electrical and Computer Engineering from Rutgers University."  
   subtopics:
     - Building and Infrastructure (M1)
     - Carbon Sequestration (M2)
@@ -46,6 +53,13 @@
       photo: Rajesh-compressed.jpg
       ttopic: am
       bio: "has been a SBIR/STTR Program Director since 2012. Prior to joining NSF in 2012, he was a senior research technologist at Kodak where his 26-year career spanned work at Kodak Research Laboratories, and Manufacturing Research and Engineering Organization. His work covered a broad range of materials science based technologies related to photographic film and paper manufacturing, thermal, inkjet, and electro-photographic printing, and OLED device manufacturing. He has a B. Tech. degree in Chemical Engineering from Indian Institute of Technology, Bombay, M.S. and Ph.D. degrees in Chemical Engineering from Penn State, a post-doctoral fellowship at Imperial College, and a M.S. degree in New Product Development from Rochester Institute of Technology." 
+    - name: Vincent Lee
+      last_name: Lee
+      api_name: Vincent Lee
+      email: vinlee@nsf.gov
+      photo: Vincent_Lee.jpg
+      ttopic: am
+      bio: "joined the National Science Foundation as an SBIR/STTR Program Director in June 2023. Prior to the NSF, Vincent was a Co-Founder of Lumiode and worked to commercialize a semiconductor integration technology combining micro-LEDs with thin-film silicon transistors for display and micro-LED array applications. In his roles as CEO and CTO, he led venture financing rounds, customer and partner development, technology research and development, and hired a world-class team. In the formation of Lumiode, Vincent was the principal investigator for an NSF SBIR Phase I/II/IIB grant, and the entrepreneurial lead in the NSF I-Corps program. Vincent has a Ph.D. and M.S. in Electrical Engineering from Columbia University and a B.S. in Electrical and Computer Engineering from Rutgers University."  
   subtopics:
     - Advanced Engineering Materials (AM1)
     - Coatings and Surface Modifications (AM2)
@@ -852,6 +866,13 @@
       photo: chundi-compressed.jpg
       ttopic: w
       bio: "Parvathi Chundi joined the National Science Foundation as a Program Director for the SBIR/STTR program in 2022. Parvathi is also a professor in the computer science department in the College of Information Science and Technology at the University of Nebraska-Omaha. Her research interests span the areas of data management and scalable machine learning technologies. Recently, she has been studying novel machine learning systems that learn from sparsely annotated data for semantic segmentation, object detection, and text summarization. Parvathi has chaired several department, college, and university level committees during her academic career, and has been a University Distinguished Professor since Fall 2021. Prior to joining academia, Parvathi also has extensive industrial experience including startup ventures and research labs such as the G.E. Corporate Research and Development Center, and HP and Agilent Labs. She holds six patents. Parvathi received her B.E in computer science from the College of Engineering, Guindy in India, and M.S and PhD in computer science from University at Albany - State University of New York." 
+    - name: Vincent Lee
+      last_name: Lee
+      api_name: Vincent Lee
+      email: vinlee@nsf.gov
+      photo: Vincent_Lee.jpg
+      ttopic: w
+      bio: "joined the National Science Foundation as an SBIR/STTR Program Director in June 2023. Prior to the NSF, Vincent was a Co-Founder of Lumiode and worked to commercialize a semiconductor integration technology combining micro-LEDs with thin-film silicon transistors for display and micro-LED array applications. In his roles as CEO and CTO, he led venture financing rounds, customer and partner development, technology research and development, and hired a world-class team. In the formation of Lumiode, Vincent was the principal investigator for an NSF SBIR Phase I/II/IIB grant, and the entrepreneurial lead in the NSF I-Corps program. Vincent has a Ph.D. and M.S. in Electrical Engineering from Columbia University and a B.S. in Electrical and Computer Engineering from Rutgers University."  
   subtopics:
     - Communication and Networking Technologies (W1)
     - Networked Sensors and Sensing (W2)
