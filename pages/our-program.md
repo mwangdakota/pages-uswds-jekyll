@@ -39,7 +39,7 @@ We focus on transforming scientific and engineering discoveries into products an
  
   <p>Our goals are to foster innovation and help create businesses and jobs in all areas of the United States, and small businesses funded by our program have since gone on to tremendous success, changing industries, and helping people and the planet. </p>
     <p>We are a congressionally mandated program — Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR).</p>
-      <a class="usa-button usa-button-primary" href="{{site.baseurl}}/assets/files/press/overview.pdf">Download our flyer</a>      
+      <a class="usa-button usa-button-primary" href="{{site.baseurl}}/assets/files/press/overview.pdf">DOWNLOAD OUR FLYER</a>      
 </div>
 
 <div class="usa-width-one-half">
