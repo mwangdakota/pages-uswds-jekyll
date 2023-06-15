@@ -1,0 +1,20 @@
+---
+title: Requirements
+permalink: /requirements/
+layout: secondary-narrow
+sidenav: how-to-submit
+---
+
+# Requirements 
+
+Prior to receiving NSF funding, SBIR and STTR awardees must certify that they have watched and understand the key policy and legal requirements and related federal criminal statutes video. View the video here.
+
+<div id="stage">
+            <meta itemprop="height" content="360">
+            <meta itemprop="width" content="640">
+            <meta itemprop="thumbnail" content="//play.vidyard.com/a26iFrdJx3N54uzEAd87LX.jpg?">
+            <meta itemprop="duration" content="T992S">
+            <div class="aspect-ratio dom-ready">
+              <script type="text/javascript" async="" src="https://play.vidyard.com/embed/v4/untagged/29a4961c7e4ba95f8c30d4dd80196040388e76d1/v4.js" data-playbackurl="play.vidyard.com"></script><div class="vidyard-player-container" uuid="a26iFrdJx3N54uzEAd87LX" style="margin: auto; width: 100%; height: auto; overflow: hidden; display: block;"><div class="vidyard-div-a26iFrdJx3N54uzEAd87LX" role="application" aria-label="media player" style="position: absolute; padding-bottom: 56.25%; height: 0px; overflow: hidden; background-image: url(&quot;https://play.vidyard.com/a26iFrdJx3N54uzEAd87LX.jpg&quot;);" data-pl="false"><iframe allow="autoplay; fullscreen; picture-in-picture; camera; microphone; display-capture" allowfullscreen="" allowtransparency="true" aria-label="Video" class="vidyard-iframe-a26iFrdJx3N54uzEAd87LX" frameborder="0" height="100%" width="100%" scrolling="no" src="https://play.vidyard.com/a26iFrdJx3N54uzEAd87LX?disable_popouts=1&amp;disable_analytics=0&amp;preload=auto&amp;disable_larger_player=true&amp;controller=hubs&amp;action=show&amp;type=inline&amp;v=4.2.21" title="Video" style="opacity: 0; background-color: transparent; position: absolute; top: 0; left: 0;"></iframe></div></div><img style="margin: auto; display: block; width: 100%; " class="vidyard-player-embed" src="https://play.vidyard.com/a26iFrdJx3N54uzEAd87LX.jpg" data-disable_analytics="0" data-vyetoken="" data-preload="auto" data-disable_larger_player="true" data-controller="hubs" data-action="show" data-uuid="a26iFrdJx3N54uzEAd87LX" data-type="inline" data-rendered="true">
+            </div>
+          </div>
