@@ -63,11 +63,41 @@ View our portfolio
      <div class="usa-grid">
         <h2>Success Stories</h2>
       </div>
-
       <div class="usa-grid">
          <div class="usa-width-one-half">
           <div class="stories__media">
-            <iframe sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Mango Materials" width="100%" height="300" src="https://www.youtube.com/embed/vi-TZY-uU_4" frameborder="0" allowfullscreen></iframe>
+            <iframe srcdoc="
+              <style>
+                  body, .full {
+                      width: 100%;
+                      height: 100%;
+                      margin: 0;
+                      position: absolute;
+                      display: flex;
+                      justify-content: center;
+                      object-fit: cover;
+                  }
+              </style>
+              <a
+                  href='https://www.youtube.com/embed/vi-TZY-uU_4?autoplay=1'
+                  class='full'
+              >
+                  <img
+                      src='https://vumbnail.com/vi-TZY-uU_4.jpg'
+                      class='full'
+                  />
+                  <svg
+                      version='1.1'
+                      viewBox='0 0 68 48'
+                      width='68px'
+                      style='position: relative;'
+                  >
+                      <path d='M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z' fill='#f00'></path>
+                      <path d='M 45,24 27,14 27,34' fill='#fff'></path>
+                  </svg>
+              </a>
+            "
+            sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Mango Materials" width="100%" height="300" src="https://www.youtube.com/embed/vi-TZY-uU_4" frameborder="0" allowfullscreen></iframe>
           </div>
           <h3 class="text-large">Biodegradable plastic made from waste methane</h3>
           <p>Mango Material is developing a biodegradable plastic from waste methane gas. To learn more visit: <a href="https://www.mangomaterials.com" target="_blank" rel="noopener">https://www.mangomaterials.com/</a>.</p>
