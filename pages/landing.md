@@ -107,7 +107,38 @@ View our portfolio
         </div>
         <div class="usa-width-one-half">
           <div class="stories__media">
-            <iframe sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Tambo" width="100%" height="300" src="https://www.youtube.com/embed/4e1lHRw6rAI" frameborder="0" allowfullscreen></iframe>
+            <iframe srcdoc="
+              <style>
+                  body, .full {
+                      width: 100%;
+                      height: 100%;
+                      margin: 0;
+                      position: absolute;
+                      display: flex;
+                      justify-content: center;
+                      object-fit: cover;
+                  }
+              </style>
+              <a
+                  href='https://www.youtube.com/embed/4e1lHRw6rAI?autoplay=1'
+                  class='full'
+              >
+                  <img
+                      src='https://vumbnail.com/vi-TZY-uU_4.jpg'
+                      class='full'
+                  />
+                  <svg
+                      version='1.1'
+                      viewBox='0 0 68 48'
+                      width='68px'
+                      style='position: relative;'
+                  >
+                      <path d='M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z' fill='#f00'></path>
+                      <path d='M 45,24 27,14 27,34' fill='#fff'></path>
+                  </svg>
+              </a>
+            "
+             sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Tambo" width="100%" height="300" src="https://www.youtube.com/embed/4e1lHRw6rAI" frameborder="0" allowfullscreen></iframe>
           </div>
           <h3 class="text-large">New drug delivery technology for tumor treatment – Tambo</h3>
           <p>Tambo developed a new technology to activate drugs at specific locations within the body to treat diseases with lower doses of drugs and fewer toxic side effects. Learn more about Tambo’s technology at <a href="https://www.shasqi.com/" target="_blank" rel="noopener">https://www.shasqi.com/</a>.</p>
@@ -116,11 +147,40 @@ View our portfolio
             </a></p>
         </div>
       </div>   
-  
      <div class="usa-grid">
         <div class="usa-width-one-half">
           <div class="stories__media">
-            <iframe sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Dimensional Energy" width="100%" height="300" src="https://www.youtube.com/embed/SlVRqx6w3rQ" frameborder="0" allowfullscreen></iframe>
+            <iframe srcdoc="
+              <style>
+                  body, .full {
+                      width: 100%;
+                      height: 100%;
+                      margin: 0;
+                      position: absolute;
+                      display: flex;
+                      justify-content: center;
+                      object-fit: cover;
+                  }
+              </style>
+              <a
+                  href='https://www.youtube.com/embed/SlVRqx6w3rQ?autoplay=1'
+                  class='full'
+              >
+                  <img
+                      src='https://vumbnail.com/vi-TZY-uU_4.jpg'
+                      class='full'
+                  />
+                  <svg
+                      version='1.1'
+                      viewBox='0 0 68 48'
+                      width='68px'
+                      style='position: relative;'
+                  >
+                      <path d='M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z' fill='#f00'></path>
+                      <path d='M 45,24 27,14 27,34' fill='#fff'></path>
+                  </svg>
+              </a>
+            " sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Dimensional Energy" width="100%" height="300" src="https://www.youtube.com/embed/SlVRqx6w3rQ" frameborder="0" allowfullscreen></iframe>
           </div>
           <h3 class="text-large">Recycling carbon dioxide into fuels</h3>
           <p>Dimensional Energy uses sunlight to convert carbon dioxide into energy. To learn more visit: <a href="https://dimensionalenergy.com/" target="_blank" rel="noopener">https://dimensionalenergy.com/</a>.</p>
@@ -142,7 +202,37 @@ View our portfolio
       <div class="usa-grid">
         <div class="usa-width-one-half">
           <div class="stories__media">
-             <iframe sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Re:3D" width="100%" height="300" src="https://www.youtube.com/embed/XDEgLYwdKP4?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe>
+             <iframe srcdoc="
+              <style>
+                  body, .full {
+                      width: 100%;
+                      height: 100%;
+                      margin: 0;
+                      position: absolute;
+                      display: flex;
+                      justify-content: center;
+                      object-fit: cover;
+                  }
+              </style>
+              <a
+                  href='https://www.youtube.com/embed/XDEgLYwdKP4?autoplay=1'
+                  class='full'
+              >
+                  <img
+                      src='https://vumbnail.com/vi-TZY-uU_4.jpg'
+                      class='full'
+                  />
+                  <svg
+                      version='1.1'
+                      viewBox='0 0 68 48'
+                      width='68px'
+                      style='position: relative;'
+                  >
+                      <path d='M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z' fill='#f00'></path>
+                      <path d='M 45,24 27,14 27,34' fill='#fff'></path>
+                  </svg>
+              </a>
+            " sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Re:3D" width="100%" height="300" src="https://www.youtube.com/embed/XDEgLYwdKP4?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe>
           </div>
           <h3 class="text-large">From plastic trash to 3D printing</h3>
           <p>re:3D makes large-scale, industrial 3D printers that can print from plastic waste. To learn more visit: <a href="https://re3d.org/" target="_blank" rel="noopener">https://re3d.org/</a>.</p>
@@ -152,7 +242,37 @@ View our portfolio
         </div>
         <div class="usa-width-one-half">
           <div class="stories__media">
-            <iframe sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Muzology" width="100%" height="300" src="https://www.youtube.com/embed/rnUx5iRdHWk?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe>
+            <iframe srcdoc="
+              <style>
+                  body, .full {
+                      width: 100%;
+                      height: 100%;
+                      margin: 0;
+                      position: absolute;
+                      display: flex;
+                      justify-content: center;
+                      object-fit: cover;
+                  }
+              </style>
+              <a
+                  href='https://www.youtube.com/embed/rnUx5iRdHWk?autoplay=1'
+                  class='full'
+              >
+                  <img
+                      src='https://vumbnail.com/vi-TZY-uU_4.jpg'
+                      class='full'
+                  />
+                  <svg
+                      version='1.1'
+                      viewBox='0 0 68 48'
+                      width='68px'
+                      style='position: relative;'
+                  >
+                      <path d='M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z' fill='#f00'></path>
+                      <path d='M 45,24 27,14 27,34' fill='#fff'></path>
+                  </svg>
+              </a>
+            " sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Muzology" width="100%" height="300" src="https://www.youtube.com/embed/rnUx5iRdHWk?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe>
           </div>
           <h3 class="text-large">Muzology</h3>
           <p>Muzology is developing a learning platform to help students learn math. Grounded in psychology, Muzology’s platform helps students learn algebra concepts with music. To learn more visit: <a href="https://www.muzology.com/" target="_blank" rel="noopener">muzology.com</a>.</p>
