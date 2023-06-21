@@ -6,7 +6,56 @@ css: /assets/css/portfolio.css
 scripts: /assets/js/tooltipposition.js 
 ---
 <script type="text/javascript"> setTimeout(function(){var a=document.createElement("script"); var b=document.getElementsByTagName("script")[0]; a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0041/5508.js?"+Math.floor(new Date().getTime()/3600000); a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);</script>
+<style>
+    @media screen and (max-width: 481px) {
+    .page-portfolio .topic-grid .topic-container {
+        width: calc(100% / 2);
+    }
+  }
+  .page-portfolio .topic-grid {
+    margin: 0 auto;
+    grid-template-columns: auto auto auto auto auto auto;
+    gap: 0;
+  }
 
+  .page-portfolio .topic-grid-sub-hide {
+    display: none;
+    position: absolute;
+    z-index: 10;
+    background: #E1F4F9;
+    padding: 1em;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);    
+    width: 400px;
+    text-transform: none;
+  }
+
+  .page-portfolio .topic-grid-sub-hide ul {
+    padding-left: 1em;
+    margin: 0.5em 0 0 0;
+  }
+
+  .page-portfolio .topic-grid-sub-hide ul li {
+    margin: 0;
+    padding: 0;
+  }
+
+  .page-portfolio .topic-grid a:hover + .topic-grid-sub-hide {
+    display: block;
+    color: black;
+  }
+
+  .page-portfolio .topic-container {
+    width: calc(100% / 6);
+    display: inline-block;
+    position: relative;
+  }
+
+  .page-portfolio .topic-container a {
+    height: 100%;
+    height: 160px;
+    width: auto;
+  }
+</style>
 <section class="section-header full-bleed-bg--blue">
   <div class="usa-section usa-content usa-grid">
     <h1 id="portfolio">Portfolio</h1>
