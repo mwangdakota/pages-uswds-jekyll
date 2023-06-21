@@ -57,7 +57,38 @@ scripts: /assets/js/tooltipposition.js
 
     <div class="three-column-grid__columns">
       <div class="usa-width-one-third">
-        <iframe sandbox="allow-same-origin allow-scripts" title="New engine tech allows diesel engines to run on any fuel - ClearFlame Engine Technologies" width="100%" height="150" src="https://www.youtube.com/embed/wuXqAjPGldE?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe>
+        <iframe srcdoc="
+              <style>
+                  body, .full {
+                      width: 100%;
+                      height: 100%;
+                      margin: 0;
+                      position: absolute;
+                      display: flex;
+                      justify-content: center;
+                      object-fit: cover;
+                  }
+              </style>
+              <a
+                  href='https://www.youtube.com/embed/wuXqAjPGldE?autoplay=1'
+                  class='full'
+              >
+                  <img
+                      src='https://vumbnail.com/wuXqAjPGldE.jpg'
+                      class='full'
+                  />
+                  <svg
+                      version='1.1'
+                      viewBox='0 0 68 48'
+                      width='68px'
+                      style='position: relative;'
+                  >
+                      <path d='M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z' fill='#f00'></path>
+                      <path d='M 45,24 27,14 27,34' fill='#fff'></path>
+                  </svg>
+              </a>
+            "
+             sandbox="allow-same-origin allow-scripts" title="New engine tech allows diesel engines to run on any fuel - ClearFlame Engine Technologies" width="100%" height="150" src="https://www.youtube.com/embed/wuXqAjPGldE?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen></iframe>
 
         <h3 class="three-column-grid__title">New engine tech allows diesel engines to run on any fuel</h3>
         <p>
@@ -65,7 +96,38 @@ scripts: /assets/js/tooltipposition.js
        </p>
       </div>
       <div class="usa-width-one-third">
-        <iframe sandbox="allow-same-origin allow-scripts" title="Engineering bacteria to treat skin disease" width="100%" height="150" src="https://www.youtube.com/embed/mKWCoHlInZg?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen=""></iframe>
+        <iframe  srcdoc="
+              <style>
+                  body, .full {
+                      width: 100%;
+                      height: 100%;
+                      margin: 0;
+                      position: absolute;
+                      display: flex;
+                      justify-content: center;
+                      object-fit: cover;
+                  }
+              </style>
+              <a
+                  href='https://www.youtube.com/embed/mKWCoHlInZg?autoplay=1'
+                  class='full'
+              >
+                  <img
+                      src='https://vumbnail.com/mKWCoHlInZg.jpg'
+                      class='full'
+                  />
+                  <svg
+                      version='1.1'
+                      viewBox='0 0 68 48'
+                      width='68px'
+                      style='position: relative;'
+                  >
+                      <path d='M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z' fill='#f00'></path>
+                      <path d='M 45,24 27,14 27,34' fill='#fff'></path>
+                  </svg>
+              </a>
+            "
+            sandbox="allow-same-origin allow-scripts" title="Engineering bacteria to treat skin disease" width="100%" height="150" src="https://www.youtube.com/embed/mKWCoHlInZg?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen=""></iframe>
 
         <h3 class="three-column-grid__title">Engineering bacteria to treat skin disease</h3>
         <p>
@@ -75,7 +137,38 @@ scripts: /assets/js/tooltipposition.js
         </p>
       </div>
       <div class="usa-width-one-third">
-        <iframe sandbox="allow-same-origin allow-scripts" title="Shape-shifting robots" width="100%" height="150" src="https://www.youtube.com/embed/RcPFQJorwpc?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen=""></iframe>
+        <iframe srcdoc="
+              <style>
+                  body, .full {
+                      width: 100%;
+                      height: 100%;
+                      margin: 0;
+                      position: absolute;
+                      display: flex;
+                      justify-content: center;
+                      object-fit: cover;
+                  }
+              </style>
+              <a
+                  href='https://www.youtube.com/embed/RcPFQJorwpc?autoplay=1'
+                  class='full'
+              >
+                  <img
+                      src='https://vumbnail.com/RcPFQJorwpc.jpg'
+                      class='full'
+                  />
+                  <svg
+                      version='1.1'
+                      viewBox='0 0 68 48'
+                      width='68px'
+                      style='position: relative;'
+                  >
+                      <path d='M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z' fill='#f00'></path>
+                      <path d='M 45,24 27,14 27,34' fill='#fff'></path>
+                  </svg>
+              </a>
+            "
+             sandbox="allow-same-origin allow-scripts" title="Shape-shifting robots" width="100%" height="150" src="https://www.youtube.com/embed/RcPFQJorwpc?modestbranding=1&showinfo=0&fs=1" frameborder="0" allowfullscreen=""></iframe>
 
         <h3 class="three-column-grid__title">Squishy Robotics’ shape-shifting robots provide real-time data in disasters</h3>
         <p>
