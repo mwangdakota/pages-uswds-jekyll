@@ -180,7 +180,8 @@ View our portfolio
                       <path d='M 45,24 27,14 27,34' fill='#fff'></path>
                   </svg>
               </a>
-            " sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Dimensional Energy" width="100%" height="300" src="https://www.youtube.com/embed/SlVRqx6w3rQ" frameborder="0" allowfullscreen></iframe>
+            " 
+            sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Dimensional Energy" width="100%" height="300" src="https://www.youtube.com/embed/SlVRqx6w3rQ" frameborder="0" allowfullscreen></iframe>
           </div>
           <h3 class="text-large">Recycling carbon dioxide into fuels</h3>
           <p>Dimensional Energy uses sunlight to convert carbon dioxide into energy. To learn more visit: <a href="https://dimensionalenergy.com/" target="_blank" rel="noopener">https://dimensionalenergy.com/</a>.</p>
@@ -190,7 +191,37 @@ View our portfolio
         </div>
         <div class="usa-width-one-half">
           <div class="stories__media">
-            <iframe sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Path Ex" width="100%" height="300" src="https://www.youtube.com/embed/fnv-hdTCSPM" frameborder="0" allowfullscreen></iframe>
+            <iframe srcdoc="
+              <style>
+                  body, .full {
+                      width: 100%;
+                      height: 100%;
+                      margin: 0;
+                      position: absolute;
+                      display: flex;
+                      justify-content: center;
+                      object-fit: cover;
+                  }
+              </style>
+              <a
+                  href='https://www.youtube.com/embed/fnv-hdTCSPM?autoplay=1'
+                  class='full'
+              >
+                  <img
+                      src='https://vumbnail.com/fnv-hdTCSPM.jpg'
+                      class='full'
+                  />
+                  <svg
+                      version='1.1'
+                      viewBox='0 0 68 48'
+                      width='68px'
+                      style='position: relative;'
+                  >
+                      <path d='M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z' fill='#f00'></path>
+                      <path d='M 45,24 27,14 27,34' fill='#fff'></path>
+                  </svg>
+              </a>
+            "  sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-presentation" title="Path Ex" width="100%" height="300" src="https://www.youtube.com/embed/fnv-hdTCSPM" frameborder="0" allowfullscreen></iframe>
           </div>
           <h3 class="text-large">Blood cleansing device removes pathogens</h3>
           <p>Path Ex is developing a device to remove pathogens from blood. To learn more visit: <a href="https://pathex.co/" target="_blank" rel="noopener">https://pathex.co/</a>.</p>
