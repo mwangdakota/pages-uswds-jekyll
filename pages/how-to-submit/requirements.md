@@ -5,7 +5,7 @@ layout: secondary-narrow
 sidenav: how-to-submit
 ---
 
-# Requirements 
+# Awardee Requirements 
 
 NSF SBIR/STTR awardees are required to watch this video in its entirety because it contains important information about how small business can use their NSF funding. Please note that NSF monitors and documents awardee video completion.
 
