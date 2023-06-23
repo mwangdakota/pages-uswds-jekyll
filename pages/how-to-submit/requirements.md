@@ -3,7 +3,7 @@ title: Awardee Requirements
 permalink: /requirements/
 layout: secondary-narrow
 sidenav: how-to-submit
-<script type="text/javascript" async src="https://play.vidyard.com/embed/v4.js"></script>
+
 ---
 
 # Awardee Requirements 
@@ -20,7 +20,7 @@ NSF SBIR/STTR awardees are required to watch this video in its entirety because 
             </div>
           </div>-->
 
-
+<script type="text/javascript" async src="https://play.vidyard.com/embed/v4.js"></script>
 <img
   style="width: 100%; margin: auto; display: block;"
   class="vidyard-player-embed"
