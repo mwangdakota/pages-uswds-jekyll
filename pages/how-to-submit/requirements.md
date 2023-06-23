@@ -1,5 +1,5 @@
 ---
-title: Requirements
+title: Awardee Requirements
 permalink: /requirements/
 layout: secondary-narrow
 sidenav: how-to-submit
@@ -7,7 +7,7 @@ sidenav: how-to-submit
 
 # Requirements 
 
-Prior to receiving NSF funding, SBIR and STTR awardees must certify that they have watched and understand the key policy and legal requirements and related federal criminal statutes video. View the video here.
+NSF SBIR/STTR awardees are required to watch this video in its entirety because it contains important information about how small business can use their NSF funding. Please note that NSF monitors and documents awardee video completion.
 
 <div id="stage">
             <meta itemprop="height" content="360">
