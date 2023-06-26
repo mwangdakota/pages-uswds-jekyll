@@ -150,3 +150,5 @@ exclude:
 redirection:
   - from: /fastlane/form-prep-2/
     to: https://resources.research.gov/common/attachment/Desktop/How to Enter Proposal Budgets_Final_508.pdf
+  - from: /rulesvideo/
+    to: https://share.vidyard.com/watch/a26iFrdJx3N54uzEAd87LX
