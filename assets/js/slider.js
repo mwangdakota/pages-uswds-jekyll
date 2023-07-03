@@ -31,6 +31,7 @@ $(function() {
     }
   });
   $($('input.desktop-radio')[2]).click(function() {
+       console.log("buttoncheck");
     $('input.mobile-checkbox').removeAttr('checked');
     $($('input.mobile-checkbox')[2]).click();
     if (window.history.replaceState) {
@@ -44,6 +45,7 @@ $(function() {
     if (window.history.replaceState) {
        //prevents browser from storing history with each change:
        window.history.replaceState({}, null, "?page=getupdates");
+       console.log("replace");
     }
   });
   //hides down arrows on scroll
