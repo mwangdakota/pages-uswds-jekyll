@@ -12,8 +12,6 @@ $(function() {
     $($('input.desktop-radio')[3]).click();
   });
 
-  const urlParams = new getAllUrlParams(window.location.search);
-
   $($('input.desktop-radio')[0]).click(function() {
     $('input.mobile-checkbox').removeAttr('checked');
     $($('input.mobile-checkbox')[0]).click();
