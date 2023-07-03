@@ -17,22 +17,34 @@ $(function() {
   $($('input.desktop-radio')[0]).click(function() {
     $('input.mobile-checkbox').removeAttr('checked');
     $($('input.mobile-checkbox')[0]).click();
-    urlParams.searchParams.set('page', "GetStarted");
+    if (window.history.replaceState) {
+       //prevents browser from storing history with each change:
+       window.history.replaceState({}, null, "?page=getstarted");
+    }
   });
   $($('input.desktop-radio')[1]).click(function() {
     $('input.mobile-checkbox').removeAttr('checked');
     $($('input.mobile-checkbox')[1]).click();
-    urlParams.searchParams.set('page', "Qualifications");
+    if (window.history.replaceState) {
+       //prevents browser from storing history with each change:
+       window.history.replaceState({}, null, "?page=qualifications");
+    }
   });
   $($('input.desktop-radio')[2]).click(function() {
     $('input.mobile-checkbox').removeAttr('checked');
     $($('input.mobile-checkbox')[2]).click();
-    urlParams.searchParams.set('page', "Submit");
+    if (window.history.replaceState) {
+       //prevents browser from storing history with each change:
+       window.history.replaceState({}, null, "?page=submityourpitch");
+    }
   });
   $($('input.desktop-radio')[3]).click(function() {
     $('input.mobile-checkbox').removeAttr('checked');
     $($('input.mobile-checkbox')[3]).click();
-    urlParams.searchParams.set('page', "GetUpdates");
+    if (window.history.replaceState) {
+       //prevents browser from storing history with each change:
+       window.history.replaceState({}, null, "?page=getupdates");
+    }
   });
   //hides down arrows on scroll
   $(".innerScroll").scroll(function() {
