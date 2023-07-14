@@ -63,10 +63,7 @@ View our portfolio
      <div class="usa-grid">
         <h2>Success Stories</h2>
       </div>
-           <div class="usa-grid">
-        <h2>Success Stories</h2>
-      </div>
-	  
+          
 	  
       <div class="usa-grid">
          <div class="usa-width-one-half" id="voice-biomarkers">
