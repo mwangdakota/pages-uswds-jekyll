@@ -103,7 +103,7 @@ View our portfolio
           </div>
           <h3 class="text-large">Voice biomarkers identify mental health challenges </h3>
           <p>Kintsugi Mindful Wellness is using artificial intelligence to develop voice biomarker software to measure, predict, and scale access to mental healthcare. To learn more visit: <a href="https://www.kintsugihealth.com/" target="_blank" rel="noopener">https://www.kintsugihealth.com/</a>.</p>
-          <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}/awardees/history/details/?company=mango-materials">
+          <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}awardees/history/details/?company=kintsugi-mindful-wellness-inc">
               View Company Profile
             </a></p>
         </div>
