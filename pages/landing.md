@@ -63,8 +63,13 @@ View our portfolio
      <div class="usa-grid">
         <h2>Success Stories</h2>
       </div>
+           <div class="usa-grid">
+        <h2>Success Stories</h2>
+      </div>
+	  
+	  
       <div class="usa-grid">
-         <div class="usa-width-one-half">
+         <div class="usa-width-one-half" id="voice-biomarkers">
           <div class="stories__media">
             <iframe srcdoc="
               <style>
@@ -105,8 +110,7 @@ View our portfolio
               View Company Profile
             </a></p>
         </div>
-        
-        <div class="usa-width-one-half">
+         <div class="usa-width-one-half" id="mango-material">
           <div class="stories__media">
             <iframe srcdoc="
               <style>
@@ -146,8 +150,11 @@ View our portfolio
           <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}/awardees/history/details/?company=mango-materials">
               View Company Profile
             </a></p>
-        </div>
-        <div class="usa-width-one-half">
+        </div>  
+	  </div>  
+	  
+	  <div class="usa-grid">		
+		<div class="usa-width-one-half" id="tambo">
           <div class="stories__media">
             <iframe srcdoc="
               <style>
@@ -187,10 +194,8 @@ View our portfolio
           <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}awardees/history/details/?company=tambo-inc">
               View Company Profile
             </a></p>
-        </div>
-      </div>   
-     <div class="usa-grid">
-        <div class="usa-width-one-half">
+        </div>     
+	    <div class="usa-width-one-half" id="dimensional-energy">
           <div class="stories__media">
             <iframe srcdoc="
               <style>
@@ -231,7 +236,12 @@ View our portfolio
               View Company Profile
             </a></p>
         </div>
-        <div class="usa-width-one-half">
+	  </div>   
+	  
+	  
+	  
+     <div class="usa-grid">
+		<div class="usa-width-one-half" id="path-ex">
           <div class="stories__media">
             <iframe srcdoc="
               <style>
@@ -271,9 +281,7 @@ View our portfolio
               View Company Profile
             </a></p>
         </div>
-      </div>
-      <div class="usa-grid">
-        <div class="usa-width-one-half">
+        <div class="usa-width-one-half" id="re-3d">
           <div class="stories__media">
              <iframe srcdoc="
               <style>
@@ -313,7 +321,11 @@ View our portfolio
               View Company Profile
             </a></p>
         </div>
-        <div class="usa-width-one-half">
+	  
+	  </div>
+      
+	 <div class="usa-grid">
+		<div class="usa-width-one-half" id="muzology">
           <div class="stories__media">
             <iframe srcdoc="
               <style>
