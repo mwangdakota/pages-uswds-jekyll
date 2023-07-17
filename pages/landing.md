@@ -81,11 +81,11 @@ View our portfolio
                   }
               </style>
               <a
-                  href='https://www.youtube.com/embed/vi-TZY-uU_4?autoplay=1'
+                  href='https://www.youtube.com/embed/F8lr0hRbhpk'
                   class='full'
               >
                   <img
-                      src='https://vumbnail.com/vi-TZY-uU_4.jpg'
+                      src='https://vumbnail.com/F8lr0hRbhpk.jpg'
                       class='full'
                   />
                   <svg
@@ -103,7 +103,7 @@ View our portfolio
           </div>
           <h3 class="text-large">Voice biomarkers identify mental health challenges </h3>
           <p>Kintsugi Mindful Wellness is using artificial intelligence to develop voice biomarker software to measure, predict, and scale access to mental healthcare. To learn more visit: <a href="https://www.kintsugihealth.com/" target="_blank" rel="noopener">https://www.kintsugihealth.com/</a>.</p>
-          <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}awardees/history/details/?company=kintsugi-mindful-wellness-inc">
+          <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}/awardees/history/details/?company=kintsugi-mindful-wellness-inc">
               View Company Profile
             </a></p>
         </div>
@@ -188,7 +188,7 @@ View our portfolio
           </div>
           <h3 class="text-large">New drug delivery technology for tumor treatment</h3>
           <p>Tambo developed a new technology to activate drugs at specific locations within the body to treat diseases with lower doses of drugs and fewer toxic side effects. Learn more about Tambo’s technology at <a href="https://www.shasqi.com/" target="_blank" rel="noopener">https://www.shasqi.com/</a>.</p>
-          <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}awardees/history/details/?company=tambo-inc">
+          <p><a class="usa-button usa-button-primary" href="{{ site.baseurl }}/awardees/history/details/?company=tambo-inc">
               View Company Profile
             </a></p>
         </div>     
