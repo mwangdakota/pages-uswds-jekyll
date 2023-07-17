@@ -24,7 +24,7 @@ These subtopics are only meant to serve as examples. All proposals that are focu
      <div class="usa-width-one-half">
       <h3>Voice biomarkers identify mental health challenges</h3>
       <p>Kintsugi Mindful Wellness is using artificial intelligence to develop voice biomarker software to measure, predict, and scale access to mental healthcare.</p>
-      <p>To learn more visit: <a href="www.kintsugihealth.com">www.kintsugihealth.com</a></p>
+      <p>To learn more visit: <a href="https://www.kintsugihealth.com">https://www.kintsugihealth.com</a></p>
      </div>
   </div>
 </div>
