@@ -17,6 +17,19 @@ These subtopics are only meant to serve as examples. All proposals that are focu
 
 {% capture tt_features %}
 <div class="usa-section usa-content usa-grid">
+   <div class="image-video">
+    <div class="usa-width-one-half">
+      <iframe sandbox="allow-same-origin allow-scripts" title="Kintsugi" width="100%" height="250" src="https://www.youtube.com/embed/F8lr0hRbhpk" frameborder="0" allowfullscreen=""></iframe>
+    </div>
+     <div class="usa-width-one-half">
+      <h3>Voice biomarkers identify mental health challenges</h3>
+      <p>Kintsugi Mindful Wellness is using artificial intelligence to develop voice biomarker software to measure, predict, and scale access to mental healthcare.</p>
+      <p>To learn more visit: <a href="www.kintsugihealth.com">www.kintsugihealth.com</a></p>
+     </div>
+  </div>
+</div>
+<div class="background-light-blue">
+<div class="usa-section usa-content usa-grid">
   <div class="image-video">
     <div class="usa-width-one-half">
       <h3>AI helps medical professionals interpret, perform ultrasounds</h3>
@@ -28,8 +41,8 @@ These subtopics are only meant to serve as examples. All proposals that are focu
     </div>
   </div>
 </div>
+</div>
 
-<div class="background-light-blue">
   <div class="usa-section usa-content usa-grid">
    <div class="image-video">
     <div class="usa-width-one-half">
@@ -39,11 +52,11 @@ These subtopics are only meant to serve as examples. All proposals that are focu
       <h3>Improving surgical outcomes with machine learning</h3>
       <p>KelaHealth combines a patient’s data and machine learning to reduce surgical risks. Its platform reduces surgical complications by using patient data and predictive algorithms to create “tailored risk profiles” for patients before surgery.</p>
       <p>To learn more visit: <a href="https://www.kelahealth.com/">https://www.kelahealth.com/</a></p>
-    </div>
-    
-  </div>
+     </div>
   </div>
 </div>
+
+
 {% endcapture %}
 
 {% include tech-topic.html desc=tt_description features=tt_features %}
