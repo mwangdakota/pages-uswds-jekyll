@@ -17,7 +17,7 @@ The Boot Camp is held in a virtual format four times per year and lasts about tw
 
 - Phase I Awardees who participate in the Boot Camp should form a company team that will include the Principal Investigator (representing the technology) and the President/CEO (or other member of the team responsible for driving the commercial effort). 
 - Register for this free “[How to Build a Start Up](https://www.udacity.com/course/how-to-build-a-startup--ep245)” online course and watch all lectures. 
-- Complete the initial draft of your [Business Model Canvas](https://federalist-proxy.app.cloud.gov/preview/18f/nsf-sbir/assets/files/awardees/the-business-model-canvas.pdf) (click to download template).  
+- Complete the initial draft of your [Business Model Canvas]({{site.baseurl}}/assets/files/awardees/the-business-model-canvas.pdf) (click to download template).  
 - View customer discovery interviews ([http://venturewell.org/i-corps/llpvideos](http://venturewell.org/i-corps/llpvideos)), specifically those found under these sections: Before Leaving the Building, Outside the Building, Understanding What the Customer is Telling You, Back in the Building.
 - Identify a minimum of 30 prospective customers to interview.
 
