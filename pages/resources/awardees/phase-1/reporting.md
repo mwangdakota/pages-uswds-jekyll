@@ -38,7 +38,11 @@ The technical narrative documents your Phase I research accomplishments and can'
 - A description of problems you have yet to solve or unfilled research objectives.
 - The conclusions of your Phase I findings and how these conclusions support a Phase II proposal.
 
-## 3. Submit your report via Research.gov
+## 3. Complete your final report and project outcomes report
+
+You are required to submit a final report and a project outcomes report for the public. [View information] ( {{site.baseurl}}/resources/awardees/phase-1/final-report/) on what to include in your Final Report and Project Outcomes report.
+
+## 4. Submit your report via Research.gov
 
 - Use your Research.gov UserID and password to [log in to Research.gov](https://identity.research.gov/sso/UI/Login?realm=/research&spEntityID=https%3A%2F%2Fwww.research.gov%2Fsso%2Fsp&module=nsf&goto=http%3A%2F%2Fidentity.research.gov%3A80%2Fsso%2Fidpssoinit%3FNameIDFormat%3Durn%3Aoasis%3Anames%3Atc%3ASAML%3A2.0%3Anameid-format%3Atransient%26metaAlias%3D%2Fresearch%2Fidp%26spEntityID%3Dhttps%3A%2F%2Fwww.research.gov%2Fsso%2Fsp%26binding%3Durn%3Aoasis%3Anames%3Atc%3ASAML%3A2.0%3Abindings%3AHTTP-POST%26RelayState%3Dhttps%3A%2F%2Fwww.research.gov%2Fresearch-portal%2Fredirect.jsp%3FTARGET%3Dproperty%3A%3ArpprApplicationUrl)
 - From the Project Reporting Dashboard, navigate to the appropriate award and report. The Phase I Final Report should be listed in the *Reports Due* tab.
