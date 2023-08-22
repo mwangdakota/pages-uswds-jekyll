@@ -56,6 +56,16 @@ Each progress report must contain updated Project Milestone Information. A templ
 3. Problems encountered during the interim reporting period. (If NONE, so state.)
 4. Status of commercialization activities and a discussion of any commercialization challenges faced during the interim reporting period. Also provide insight into planned commercialization activities for the next reporting period.
 
+### Final report
+
+The report must be submitted via [research.gov](http://www.research.gov/) no later than 15 days after the end of your award. We encourage you to include not only the data you obtained during the project, but also discuss the results and how they may inform your future technical and commercialization plans. [Follow the guide]( {{site.baseurl}}/resources/awardees/phase-1/reporting/) to submit your final report.
+
+The final report must show your results and actual data for each research objective and task funded by NSF. You should also discuss progress made by your company during Phase I in other, non-NSF-funded aspects, such as business development, customer and partner engagements, fundraising, and building your team.
+
+### Project outcomes report
+
+At the conclusion of the Phase I award, you are also required to submit a brief (maximum-800-word) project outcomes report (via [research.gov](http://research.gov/)) which will be made available to the public on the outcomes of your NSF-funded work. The report is public and should not contain confidential or proprietary information. This report is not reviewed or approved by NSF. For more information on this report, please see here: [https://www.nsf.gov/pubs/policydocs/porfaqs.jsp](https://www.nsf.gov/pubs/policydocs/porfaqs.jsp).
+
 ### Research.gov information/submission
 
 1. Use your FastLane UserID and password to [log in to Research.gov](https://identity.research.gov/sso/UI/Login?realm=/research&spEntityID=https%3A%2F%2Fwww.research.gov%2Fsso%2Fsp&module=nsf&goto=http%3A%2F%2Fidentity.research.gov%3A80%2Fsso%2Fidpssoinit%3FNameIDFormat%3Durn%3Aoasis%3Anames%3Atc%3ASAML%3A2.0%3Anameid-format%3Atransient%26metaAlias%3D%2Fresearch%2Fidp%26spEntityID%3Dhttps%3A%2F%2Fwww.research.gov%2Fsso%2Fsp%26binding%3Durn%3Aoasis%3Anames%3Atc%3ASAML%3A2.0%3Abindings%3AHTTP-POST%26RelayState%3Dhttps%3A%2F%2Fwww.research.gov%2Fresearch-portal%2Fredirect.jsp%3FTARGET%3Dproperty%3A%3ArpprApplicationUrl)
