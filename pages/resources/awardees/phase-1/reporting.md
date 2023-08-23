@@ -40,7 +40,7 @@ The technical narrative documents your Phase I research accomplishments and can'
 
 ## 3. Complete your final report and project outcomes report
 
-You are required to submit a final report and a project outcomes report for the public. [View information]({{site.baseurl}}/resources/awardees/phase-1/final-report/) on what to include in your Final Report and Project Outcomes report.
+You are required to submit a final report and a project outcomes report for the public. [View information]({{site.baseurl}}/resources/awardees/phase-1/final-report/) on what to include in your reports.
 
 ## 4. Submit your report via Research.gov
 
