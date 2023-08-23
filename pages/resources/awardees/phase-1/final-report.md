@@ -17,7 +17,7 @@ The final report must show your results and actual data for each research object
 
 ## Project outcomes report 
 
-At the conclusion of the Phase I award, you are also required to submit a brief (maximum-800-word) project outcomes report (via [research.gov](http://research.gov/)) which will be made available to the public on the outcomes of your NSF-funded work. The report is public and should not contain confidential or proprietary information. This report is not reviewed or approved by NSF. For more information on this report, please see here: [https://www.nsf.gov/pubs/policydocs/porfaqs.jsp](https://www.nsf.gov/pubs/policydocs/porfaqs.jsp). 
+At the conclusion of the Phase I award, you are also required to submit a brief (maximum-800-word) project outcomes report (via [research.gov](http://research.gov/)) which will be made available to the public on the outcomes of your NSF-funded work. The report is public and should not contain confidential or proprietary information. This report is not reviewed or approved by NSF. For more information, view [NSF Report Your Progress and Outcomes page](https://new.nsf.gov/awards/report-your-outcomes#:~:text=Final%20annual%20project%20reports%20must%20be%20submitted%20in%20Research.gov.&text=This%20report%20serves%20as%20a,date%20of%20your%20NSF%20award). 
 
 ## Final payment 
 
