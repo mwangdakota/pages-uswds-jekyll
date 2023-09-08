@@ -142,13 +142,6 @@
   permalink: /topics/augmented-virtual-reality/
   topic_code: av
   programDirector:
-    - name: Lindsay Portnoy
-      last_name: Portnoy
-      api_name: Lindsay Portnoy
-      email: lportnoy@nsf.gov
-      photo: portnoy-compressed.jpg
-      ttopic: av
-      bio: ""
     - name: Rajesh Mehta
       last_name: Mehta
       api_name: Rajesh Mehta
@@ -454,13 +447,6 @@
   permalink: /topics/human-computer-interaction/
   topic_code: hc
   programDirector:
-    - name: Lindsay Portnoy
-      last_name: Portnoy
-      api_name: Lindsay Portnoy
-      email: lportnoy@nsf.gov
-      photo: portnoy-compressed.jpg
-      ttopic: hc
-      bio: ""
     - name: Rajesh Mehta
       last_name: Mehta
       api_name: Rajesh Mehta
@@ -539,13 +525,6 @@
   permalink: /topics/learning-cognition-technologies/
   topic_code: lc
   programDirector:
-    - name: Lindsay Portnoy
-      last_name: Portnoy
-      api_name: Lindsay Portnoy
-      email: lportnoy@nsf.gov
-      photo: portnoy-compressed.jpg
-      ttopic: lc
-      bio: ""
     - name: Rajesh Mehta
       last_name: Mehta
       api_name: Rajesh Mehta

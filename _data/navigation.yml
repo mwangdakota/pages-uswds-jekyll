@@ -101,9 +101,7 @@ how-to-submit:
   - text: Pick the solicitation
     href: /how-to-submit/pick-solicitation/ 
   - text: Due Diligence
-    href: /how-to-submit/due-diligence/
-  - text: Awardee Requirements
-    href: /requirements/
+    href: /how-to-submit/due-diligence/   
   - text: Find Research.gov help guides
     href: /how-to-submit/help-guides/    
   - text: Definitions
@@ -154,8 +152,6 @@ phase-1:
     href: /resources/awardees/phase-2/apply/
   - text: Ambassador
     href: /resources/awardees/phase-1/ambassador/
-  - text: Phishing Attempts
-    href: /resources/awardees/phishing/  
 
 
 phase-2:
@@ -192,8 +188,6 @@ phase-2:
     href: /resources/awardees/supplement/institutional/
   - text: Supplement submission instructions
     href: /resources/awardees/phase-2/instructions/
-  - text: Phishing Attempts
-    href: /resources/awardees/phishing/   
 
 footer:
   - text: About

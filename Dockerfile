@@ -1,18 +1,24 @@
-FROM ruby:2.3.1-alpine
+FROM ruby:3.1.3
 
-RUN mkdir -p /usr/src/app
-WORKDIR /usr/src/app
+RUN apt-get update && \
+  apt-get install --reinstall -y locales && \
+  sed -i 's/# en_US.UTF-8 UTF-8/en_US.UTF-8 UTF-8/' /etc/locale.gen && \
+  locale-gen en_US.UTF-8
 
-RUN apk add --update build-base git
-RUN gem update bundler
-COPY Gemfile /usr/src/app/
-COPY Gemfile.lock /usr/src/app/
+ENV LANG en_US.UTF-8
+ENV LANGUAGE en_US
+ENV LC_ALL en_US.UTF-8
+
+RUN mkdir -p /app
+
+WORKDIR /app
+
+COPY Gemfile /app
+COPY Gemfile.lock /app
+
+RUN apt-get update
+RUN apt-get install nodejs -y
+RUN gem install bundler:1.17.2
 RUN bundle install
 
-CMD LC_ALL="en_US.UTF-8" \
-    bundle exec jekyll serve \
-      --watch \
-      --incremental \
-      --host 0.0.0.0  \
-      --trace \
-      --baseurl /site \
+EXPOSE 4000

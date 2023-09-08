@@ -1,142 +1,236 @@
-# National Science Foundation SBIR Phase II (Build) Project
-This is the home of the NSF SBIR Phase II (Build) Project.
+<!--
+  Federalist recommends you use Continuous Integration to automatically test
+  and validate any new changes to your site. CircleCI is free for open source
+  projcets. You should replace this badge with your own.
 
-## Getting started
+  https://circleci.com/
+-->
+[![CircleCI](https://circleci.com/gh/18F/federalist-uswds-jekyll.svg?style=svg)](https://circleci.com/gh/18F/federalist-uswds-jekyll)
 
-Most of our documentation can be found in the **[wiki](https://github.com/engiip/nsf-sbir/wiki)**. You can also find us in the #nsf-sbir Slack channel.
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=18F/federalist-uswds-jekyll)](https://dependabot.com)
 
-### Set up the site locally
-To set up the site on your local machine, follow these steps:
+# Pages + U.S. Web Design System + Jekyll
 
-1. [Install and configure Git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup). If you're not comfortable with the command line, try [GitHub Desktop](https://desktop.github.com/).
-1. Download, install, and start [Docker Community Edition](https://www.docker.com/community-edition).
-1. Clone the site. [More detail on this](https://help.github.com/articles/cloning-a-repository/).
+This [Jekyll theme](https://jekyllrb.com/docs/themes/) is developed using the [U.S. Web Design System v 2.0](https://v2.designsystem.digital.gov) and is focused on providing developers a starter kit and reference implementation for cloud.gov Pages websites.
 
-    ```sh
-    git clone https://github.com/18F/nsf-sbir.git
-    ```
+This code uses the [Jekyll](https://jekyllrb.com) site engine and built with Ruby. If you prefer to use Javascript, check out [federalist-uswds-gatsby](https://github.com/18F/federalist-uswds-gatsby), which uses [Gatsby](https://gatsbyjs.org) site engine.
 
-1. Run the site!
+This project strives to be compliant with requirements set by [21st Century IDEA Act](https://www.meritalk.com/articles/senate-passes-idea-act/). The standards require that a website or digital service:
 
-    ```sh
-    ./serve
-    ```
+- is accessible to individuals with disabilities;
+- has a consistent appearance;
+- does not duplicate any legacy websites (the legislation also requires agencies to ensure that legacy websites are regularly reviewed, removed, and consolidated);
+- has a search function;
+- uses an industry standard secure connection;
+- “is designed around user needs with data-driven analysis influencing management and development decisions, using qualitative and quantitative data to determine user goals, needs, and behaviors, and continually test the website, web-based form, web-based application, or digital service to ensure that user needs are addressed;”
+- allows for user customization; and
+- is mobile-friendly.
 
-1. Visit at http://localhost:4000/site/
+## Comparison with [uswds-jekyll](https://github.com/18F/uswds-jekyll)
 
-### Creating new pages
+Both start off looking very similar, but differ in what use cases they are best for. Are you:
 
-You can create a new page by running the following command:
+- Wanting to have a starter template that you can highly customize?
+- Comfortable editing HTML and CSS source code?
 
-```bash
-./new-page [name-of-page]
+use federalist-uswds-jekyll (this repository). If you:
+
+- Want to use a theme that you can set and forget
+- Are ok with sticking with the general look and feel provided
+
+use uswds-jekyll.
+
+## Key Functionality
+This repository contains the following examples and functionality:
+ 
+✅  Publish blog posts, press releases, announcements, etc. To modify this code, check out `blog/index.html`, which manages how the posts are listed. You should then check out `_layouts/post.html` to see how individual posts are structured.
+
+✅ Publish single one-off pages. Instead of creating lots of folders throughout the root directory, you should put single pages in `_pages` folder and change the `permalink` at the top of each page. Use sub-folders only when you really need to.
+
+✅  Publish data (for example: job listings, links, references), you can use the template `_layouts/data.html`. Just create a file in you `_pages` folder with the following options:
+
+```
+---
+title: Collections Page
+layout: data
+permalink: /collections
+datafile: collections
+---
 ```
 
-It will then create a file in the pages directory with the essential Jekyll front matter needed to get the page up and running
+The reference to `datafile` referers to the name of the file in `_data/collections.yml` and loops through the values. Feel free to modify this as needed.
+
+✅  There are two different kinds of `pages`, one does not have a side bar navigation, and the other uses `_includes/sidenav.html`. You can enable this option by adding `sidenav: true` to your page front matter.
+
+```
+---
+title: Document with Sidenav
+layout: page
+sidenav: true
+permalink: /document-with-sidenav
+---
+```
+
+✅ [Search.gov](https://search.gov) integration - Once you have registered and configured Search.gov for your site by following [these instructions](https://federalist.18f.gov/documentation/search/), add your "affiliate" and "access key" to `_config.yml`. Ex.
+
+```
+searchgov:
+
+  # You should not change this.
+  endpoint: https://search.usa.gov
+
+  # replace this with your search.gov account
+  affiliate: federalist-uswds-example
+
+  # replace with your access key
+  access_key: xX1gtb2RcnLbIYkHAcB6IaTRr4ZfN-p16ofcyUebeko=
+
+  # this renders the results within the page instead of sending to user to search.gov
+  inline: true
+```
+
+The logic for using Search.gov can be found in `_includes/searchgov/form.html` and supports displaying the results inline or sending the user to Search.gov the view the results. This setting defaults to "inline" but can be changed by setting
+```
+searchgov:
+  inline: false
+```
+in `_config.yml`.
+
+✅ [Digital Analytics Program (DAP)](https://digital.gov/services/dap/) integration - Once you have registered your site with DAP add your "agency" and optionally, `subagency` to `_config.yml` and uncomment the appropriate lines. Ex.
+
+```
+dap:
+  # agency: your-agency
+
+  # Optional
+  # subagency: your-subagency
+```
+
+✅ [Google Analytics](https://analytics.google.com/analytics/web/) integration - If you have a Google Analytics account to use, add your "ua" to `_config.yml` and uncomment the appropriate lines. Ex.
+
+```
+ga:
+  # ua: your-ua
+```
+
+## How to edit
+- Non-developers should focus on editing markdown content in the `_posts` and `_pages` folder
+
+- We try to keep configuration options to a minimum so you can easily change functionality. You should review `_config.yml` to see the options that are available to you. There are a few values on top that you **need** to change. They refer to the agency name and contact information. The rest of `_config.yml` has a range of more advanced options.
+
+- The `assets/` folder stores your Javascript, CSS, images, and other media assets. Additional SASS partials should be added to the `_sass/` folder where they can be imported. USWDS assets are automatically copied into the `assets/` folder when running `jekyll serve` or `jekyll build`
+
+- If you look at `package.json` you will see that the `npm run federalist` command that will run when running on the Federalist platform.
+
+- Do not edit files in the `_site/` folder. These files are auto-generated, and any change you make in the folder will be overwritten.
+
+- To edit the look and feel of the site, you need to edit files in `_includes/` folder, which render key components, like the menu, side navigation, and logos.
+
+- `index.html` may not require much editing, depending on how you customize `hero.html` and `highlights.html`.
+
+- `_layouts/` may require the least amount of editing of all the files since they are primarily responsible for printing the content.
+
+- `blog/index.html` can be edited, but be careful. It will impact the pagination system for the posts. If you do edit the file, be prepared to edit `_config.yml`.  For example, you may need go change configurations for [jekyll-paginate-v2](https://github.com/sverrirs/jekyll-paginate-v2)
+
+- `search/index.html` is used by search.gov.
+
+## Getting Started
+
+### Easy mode
+
+#### From Federalist
+This will create a copy of this repo in a Github repository of your choice and add it to your Federalist dashboard.
+
+- From [Federalist](https://federalistapp.18f.gov/sites) click the "+ Add Site" button.
+- Click the "Use this template" button for the appropriate template
+- Follow the instructions
+
+#### From Github
+This will create a copy of this repo in a Github repository of your choice but you will need to add it your [Federalist dashboard](https://federalistapp.18f.gov/sites/new).
+
+- Click the "Use this template" button above or [here](https://github.com/18F/federalist-uswds-jekyll/generate).
+- Follow the instructions
+- Return to [Federalist](https://federalistapp.18f.gov/sites/new) and add the repository.
+
+### Hard mode
+
+#### With `npx` (requires node)
+    $ npx degit https://github.com/18F/federalist-uswds-jekyll#main <destination-folder>
+    $ cd <destination-folder>
+
+#### Push to your Github repository
+- [Create a new Github repository](https://help.github.com/en/github/getting-started-with-github/create-a-repo).
+- Follow the instructions form Github or
+```
+    $ git init
+    $ git symbolic-ref HEAD refs/heads/main
+    $ git add . && git commit -m 'Initial commit'
+    $ git remote add origin git@github.com:<your-org>/<your-repo>.git
+    (Make sure to replace `<your-org>` and `<your-repo>` above with the correct values)
+    $ git push -u origin main
+```
+
+### Installation for development
+    $ git clone https://github.com/18F/federalist-uswds-jekyll
+    $ cd federalist-uswds-jekyll
+
+### Running the application
+
+#### With locally installed `node` and `ruby`
+    $ npm install
+    $ bundle install
+    $ npm start 
+    OR
+    $ bundle exec jekyll serve
+
+To build but not serve the site, run `npm run build` or `bundle exec jekyll build`.
+
+#### With Docker
+    $ docker-compose run node npm install
+    $ docker-compose build
+    $ docker-compose up
+
+To build but not serve the site, run:
+```
+docker-compose run ruby bundle exec jekyll build
+```
+.
+
+Note that when built by Federalist, `npm run federalist` is used instead of
+`npm run build`.
+
+Open your web browser to [localhost:4000](http://localhost:4000/) to view your
+site.
+
+### Testing
+
+#### With locally installed `node` and `ruby`
+    $ npm test
+    OR
+    $ bundle exec htmlproofer _site; npx a11y '_site/**/*.html'
+
+#### With Docker
+    $ docker-compose run ruby bundle exec htmlproofer _site; npx a11y '_site/**/*.html'
+
+## Technologies you should be familiarize yourself with
+
+- [Jekyll](https://jekyllrb.com/docs/) - The primary site engine that builds your code and content.
+- [Front Matter](https://jekyllrb.com/docs/frontmatter) - The top of each page/post includes keywords within `--` tags. This is meta data that helps Jekyll build the site, but you can also use it to pass custom variables.
+- [U.S. Web Design System v 2.0](https://v2.designsystem.digital.gov) 
 
 
-## Accessibility
+## Contributing
 
-To check locally, we use [`pa11y-ci`](https://github.com/pa11y/ci).
+See [CONTRIBUTING](CONTRIBUTING.md) for additional information.
 
-To get it working, do the following:
+## Public domain
 
-1. Install `pa11y-ci` on the command line if you haven't already: `npm install pa11y-ci -g`
-2. In one terminal tab, get the site running:
-  a. `./serve` will create a local version of the site at http://localhost:4000/site/
-  a. `bundle exec jekyll serve` will create a local version of the site at http://localhost:4000/
-3. Then, in a new tab lint the site:
-  a. If you used the `./serve` command:
-    ```sh
-    pa11y-ci --sitemap http://localhost:4000/site/sitemap.xml --sitemap-exclude ".pdf"
-    ```
-  b. If you used the `bundle exec jekyll serve` command:
-    ```sh
-    pa11y-ci --sitemap http://localhost:4000/sitemap.xml --sitemap-exclude ".pdf"
-    ```
-4. Alternatively, to check a single url:
-  a. If you used the `./serve` command:
-    ```sh
-    pa11y-ci http://localhost:4000/site/[name of link]
-    ```
-  b. If you used the `bundle exec jekyll serve` command:
-    ```sh
-    pa11y-ci http://localhost:4000/[name of link]
-    ```
+This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
 
-## Awards History maintenance
-
-### Changing the awards history data through a local build
-
-This is the preferred method because it ultimately allows for faster builds.  The steps are as follows:
-
-  1. Update the awards history.
-
-     In the `data` directory (not `_data`), replace `awards-history.json` and/or `pitchbook.json` with the latest from the [shared drive](https://drive.google.com/drive/u/0/folders/1PrihQNKC98SbBR2u6q_pFRbAp1htn2c0).
-
-  2. Update the Jekyll config.
-
-     In `_config.yml`:
-     ```
-     awards_history:
-       generate_support_data: true
-       download_limit: 0
-       autocomplete:
-         use: true
-         suggestions: 10
-     ```
-
-  3. Build the site.
-
-     Run `bundle exec jekyll serve`. Before building, Jekyll will udpate the support data based on the latest awards history:
-
-     * _data/awards_history_ac_index.yml (autocomplete index - *usually changed*)
-     * _data/awards_history_years.yml (years spanned by the latest history - *occasionally changed*)
-     * _data/awards_history_state_codes.yml (state locations - *occasionally changed*)
-
-     Run `git status` to see which support data was changed.
-
-  4. Commit the changes.
-
-     * data/awards-history.json (and/or pitchbook.json)
-     * _config.yml
-     * _data/awards_history_*.yml
-
-  5. Revert the Jekyll config back to false (then commit change).
-
-     In `_config.yml`:
-     ```
-     awards_history:
-       generate_support_data: false
-       download_limit: 0
-       autocomplete:
-         use: true
-         suggestions: 10
-     ```
-
-     This **optimizes the build process** by causing Jekyll to skip the support data generation until necessary (when the awards history is changed).
-
-  6. Push the changes upstream.
-
-     Run `git push origin` and follow Github instructions if necessary.
-
-### Changing the awards history data directly in Github
-
-The steps are as follows:
-
-  1. Update the awards history and commit the change(s).
-
-     In the `data` directory (not `_data`), replace `awards-history.json` and/or `pitchbook.json` with the latest from the [shared drive](https://drive.google.com/drive/u/0/folders/1PrihQNKC98SbBR2u6q_pFRbAp1htn2c0).
-
-  2. Update the Jekyll config and commit the change.
-
-     In `_config.yml`:
-     ```
-     awards_history:
-       generate_support_data: true
-       download_limit: 0
-       autocomplete:
-         use: true
-         suggestions: 10
-     ```
-     Since there's no local build, the flag must remain `true` to ensure the support data is updated when building on Federalist.  Fortunately, the builds don't take much longer.
+> This project is in the public domain within the United States, and copyright
+> and related rights in the work worldwide are waived through the [CC0 1.0
+> Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+>
+> All contributions to this project will be released under the CC0 dedication.
+> By submitting a pull request, you are agreeing to comply with this waiver of
+> copyright interest.
