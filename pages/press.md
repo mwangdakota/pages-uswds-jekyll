@@ -1,0 +1,57 @@
+---
+title: Press
+permalink: /press/
+redirect_from:
+  - /SBIR-reauthorization/
+layout: secondary-narrow
+---
+
+# Press
+
+## Media inquiries
+
+For press questions about the program, please email [NSF Public Affairs](mailto:media@nsf.gov) with inquiries. 
+
+## Press release information
+
+Are you putting out a press release? If you'd like to mention your NSF award, use this approved description in your press releases and other publications:
+
+### About the NSF's Small Business Programs
+
+America’s Seed Fund powered by NSF awards $200 million annually to startups and small businesses, transforming scientific discovery into products and services with commercial and societal impact. Startups working across almost all areas of science and technology can receive up to $2 million to support research and development (R&D), helping de-risk technology for commercial success. America’s Seed Fund is congressionally mandated through the Small Business Innovation Research (SBIR) program. The NSF is an independent federal agency with a budget of about $9.5 billion that supports fundamental research and education across all fields of science and engineering. For more information, visit seedfund.nsf.gov.
+
+## The history of NSF SBIR
+
+After a career in the U.S Army Air Corps and 20 years of corporate experience, including serving as the VP of two small, high-tech firms, Roland Tibbetts was appointed as the Senior Program Officer at NSF in 1972. Tibbetts was known as a task master with well-honed instincts for enabling potentially game-changing projects. He also recognized the importance of small, high-tech firms to the economy and observed the fierce opposition they faced from other recipients when pursuing federal R&D funding.
+
+Tibbetts envisioned a three-phase structure in order to foster the research and development (R&D) in small, high-tech businesses and push them to realize their commercial potential. He believed these firms were instrumental in converting government R&D into public benefit through technological innovation and commercial applications, therefore stimulating aggregate economic growth.
+
+In 1977, NSF recognized the need for ongoing support for small business and instituted the Small Business Innovation Applied to National Needs program within the Engineering Division. The program was designed to tap the innovative capabilities of small firms and was the precursor to NSF’s Small Business Innovation Research program.  The program’s first solicitation attracted 329 proposals from small businesses, 42 of which were funded with awards of up to $25,000 each.  
+
+In 1982, President Ronald Reagan signed a government-wide SBIR program into law. Read more about the history of the SBIR program on the [SBA’s website](https://www.sbir.gov/birth-and-history-of-the-sbir-program).
+
+## Same program, new look
+
+We’re thrilled to announce that the NSF Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) program is now America’s Seed Fund powered by NSF. The details of our program haven’t changed — we’re still offering non-dilutive funding to startups and small businesses to help them commercialize their high-risk technologies — but our positioning has.
+
+Research revealed that our users wanted an experience that felt more modern and less academic; our choice to use the SBIR/STTR tag line  "America’s Seed Fund" more prominently reflects this user need and, we feel, more accurately conveys the benefits of our program. Likewise, our new visual identity, with its bold palette, engaging imagery, and clean typefaces, conveys our values of supporting high-risk technologies, mentoring diverse entrepreneurs, and promoting cutting-edge products and services that will improve Americans’ quality of life. We’ve also updated our site’s content, adopting a more conversational voice to reflect our organization’s openness, and reorganized our site to make information even easier to find.
+
+If you have suggestions, we’d love to hear them — share your feedback [via email](mailto:sbir@nsf.gov).
+
+## Additional resources
+
+[NSF newsroom](https://www.nsf.gov/news/newsroom.jsp): Our newsroom features news releases, media advisories, photo galleries, and other resources for the news media. Subscribe to [NSF news alerts](https://nsf.gov/news/) and see a list of all [NSF social media](https://www.nsf.gov/social/) accounts.
+
+[Bio: Sethuraman Panchanathan](https://nsf.gov/staff/staff_bio.jsp?lan=spanchan&org=EF&from_org=EF): The official bio of Sethuraman Panchanathan, NSF's 15th director.
+
+[Directorate for Technology, Innovation and Partnerships (TIP)](https://beta.nsf.gov/tip/about-tip): The directorate that houses America’s Seed Fund at NSF. TIP works closely with the entire agency to leverage ongoing research investments and to grow them at speed and scale. TIP invests in high-tech small businesses and collaborations between academia and industry to transform discoveries into innovative commercial technologies with economical and societal benefits.
+
+A team of nationally recognized leaders from academia, industry, the investment community, and public organizations participate in the [SBIR/STTR Subcommittee]({{ site.baseurl }}/sbir-sttr-subcommittee/). Members guide NSF’s SBIR/STTR program on emerging industries and the evolution of the deep-technology startup community, participating in strategic initiatives to support the NSF’s mission of accelerating the growth of the nation’s innovation ecosystem.
+
+For general NSF questions, please visit the [NSF's page here](https://www.nsf.gov/help/contact.jsp). You can also find contact information for other [NSF organizations here](https://www.nsf.gov/staff/orglist.jsp), and contact information for individuals through our [staff directory](https://www.nsf.gov/staff/).  
+
+The [NSF logo (and guidance for its use)](https://www.nsf.gov/policies/logos.jsp) is available for use by current and former NSF awardees.
+
+To learn more about the SBIR/STTR program at other government agencies, visit the [Small Business Administration's SBIR website](https://www.sbir.gov/#).
+
+We also have a [one sheet (PDF)]({{site.baseurl}}/assets/files/press/overview.pdf) covering program basics and points of interest.

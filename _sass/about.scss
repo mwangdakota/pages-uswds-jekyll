@@ -1,0 +1,19 @@
+.about-content-lede {
+
+  p {
+    font-size: $font-size-xs;
+    line-height: $leading-s;
+    border: 1px solid #f00;
+  }
+
+}
+
+.about__video {
+	margin: 25px 0 50px;
+}
+.about__funding {
+	h3 {
+		margin-bottom: 1rem;
+		font-size: $font-size-s;
+	}
+}

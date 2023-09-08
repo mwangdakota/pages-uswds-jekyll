@@ -16,6 +16,8 @@ WORKDIR /app
 COPY Gemfile /app
 COPY Gemfile.lock /app
 
+RUN apt-get update
+RUN apt-get install nodejs -y
 RUN gem install bundler:1.17.2
 RUN bundle install
 

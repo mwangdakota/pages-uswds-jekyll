@@ -1,0 +1,143 @@
+---
+layout: base
+title: Award History Details
+scripts: /assets/js/dateFormatter.js /assets/js/strFormatter.js /assets/js/services.js /assets/js/pitchbook.js
+permalink: /awardees/history/details/
+---
+<h1 style="display:none">Award(s) Details</h1>
+
+{% assign show_pitchbook = site['show']['pitchbook'] %}
+{% include loading.html msg='Loading company details...' %}
+
+<div id="awards-history-details" class="award-details" />
+
+<script>
+  const company_url = window.location.search.slice(1).split('&')[0].split('=')[1];
+
+  let award;
+  let pitchBook;
+
+  let getAward = async function() {
+    award = (await sfService.getAwardsHistory()).filter(
+      function (awrd) { return awrd.CompanyUrl == company_url }
+    );
+  }
+
+  let getPitchBookData = async function() {
+    pitchBook = (await sfService.getPitchbookData()).filter(
+      function (pb) { return pb.CompanyUrl == company_url }
+    )[0];
+  }
+
+  document.addEventListener("DOMContentLoaded", function () {
+    Promise.all([
+
+      getAward(),
+      getPitchBookData()
+
+    ]).then(function () {
+
+      const lastAwardIndex = award.length - 1;
+      let pitch_book_data = '';
+      let html = '';
+
+      for (let [awdIndex, awd] of award.entries()) {
+        console.log('AWD', awd, Date.now())
+        let isEstDate = dateFormatter.isEstimatedDate(awd.EndDate);
+
+        if (!pitch_book_data) {
+          pitch_book_data = sfPitchBook.dataExists(pitchBook) ? sfPitchBook.getData(pitchBook) : '';
+        }
+
+        let programDirector = awd.ProgramManager ? awd.ProgramManager.split(/,\s+/) : '';
+
+        html += '' +
+          '<div class="award' + (isEstDate ? ' estimated-end-date' : '') + '">' +
+            '<div class="usa-grid usa-section">' +
+              '<h1 class="h2 subhead uppercase results-phase" style="">' + awd.ProgramElementName + '</h2>' +
+              '<h2 class="h2 results-company-title" style="">' + awd.InstitutionName + '</h2>' +
+              '<div class="mb5 mt5">' +
+                '<h2 class="title h5 font-regular">' + awd.Title + '</h2>' +
+              '</div>' +
+              '<div class="usa-grid-full ">' +
+                '<div class="usa-width-one-fourth">' +
+                  '<div class="mb5">' +
+                    '<h4 class="subhead uppercase">Project Leader</h4>' +
+                    '<p class="piName font-bold">' +
+                      '<a href="mailto:' + awd.PIEmail + '">' + awd.PIFirstName + ' ' + awd.PILastName + '</a>' +
+                    '</p>' +
+                    '<p><a href="tel:' + awd.PIPhoneNumber + '">' + strFormatter.phone(awd.PIPhoneNumber) + '</a></p>' +
+                    '<p>Principal Investigator</p>' +
+                  '</div>' +
+
+                  '<div class="mb5">' +
+                    '<h4 class="subhead uppercase">Contact</h4>' +
+                    '<p aria-label="address">' + awd.StreetAddress + '</p>' +
+                    '<p class="city">' +
+                      awd.CityName + ', ' + awd.StateCode + ' ' + awd.ZipCode +
+                    '</p>' +
+                  '</div>' +
+
+                  '<div class="mb5">' +
+                    '<h4 class="subhead uppercase">NSF Award</h4>' +
+                    '<p class="id">' + awd.AwardNumber + ' – ' + awd.ProgramElementName + '</p>' +
+                  '</div>' +
+
+                  '<div class="mb5">' +
+                    '<h4 class="subhead uppercase">Award amount to date</h4>' +
+                    '<p class="amount">' + strFormatter.usd_pretty(awd.AwardAmount) + '</p>' +
+                  '</div>' +
+
+                  '<div class="mb5">' +
+                    '<h4 class="subhead uppercase">Start / end date</h4>' +
+                    '<p>' + dateFormatter.mmddyyyy(awd.StartDate) + ' – ' +
+                    dateFormatter.formatEndDate(isEstDate, awd.EndDate, dateFormatter.mmddyyyy) + '</p>' +
+                  '</div>' +
+
+                  (programDirector && programDirector[0] && programDirector[1] ? (
+                    '<div class="mb4 details-program-director">' +
+                      '<h4 class="subhead uppercase">NSF Program Director</h4>' +
+                      '<p class="program-director-name">' +
+                      programDirector[1] + ' ' + programDirector[0] + '</p>' +
+                    '</div>'
+                  ) : '') +
+
+                  '<div class="mb5-ignore">' +
+                    '<h4 class="subhead uppercase">Errata</h4>' +
+                    '<p class="abstractText">Please report errors in award information by writing to <a href="mailto:awardsearch@nsf.gov">awardsearch@nsf.gov</a>.</p>' +
+                  '</div>' +
+                '</div>' +
+                '<div class="usa-width-three-fourths">' +
+                  '<div>' +
+                    '<h4 class="subhead uppercase">Abstract</h4>' +
+                    '<div class="abstractText"><p>' +
+                    awd.Abstract.replaceAll(/\n/g, '<br>').replaceAll(/(<br>){3,}/g, '<br><br>') +
+                    '</p></div>' +
+                  '</div>' +
+                '</div>' +
+              '</div>' +
+            '</div>' +
+          '</div>';
+      }
+
+      {% if show_pitchbook['data'] %}
+        html += '' +
+          '<section class="full-bleed-bg full-bleed-bg--auto-margin awardee-profile" data-pitchbook-info="../../endpoints/awards-history.json">' +
+            '<section class="usa-grid usa-section">' +
+              '<div class="usa-width-one-fourth">' +
+                '<h3 class="h2">Company Profile</h3>' +
+              '</div>' +
+              '<div class="usa-width-three-fourths">' +
+                '<p>This information has been provided by <img class="pitchbook-logo" src="{{ site.baseurl }}/assets/img/pitch-book-logo.png" alt="PitchBook Logo"></p>' +
+                '<div class="pitch-book-data">' + sfPitchBook.showData(pitch_book_data) + '</div>' +
+                '<p>Disclaimer: Company Data presented by NSF: (1) is the property of and proprietary to PitchBook Data, Inc.; (2) may not be copied, reproduced, or distributed; and (3) is not warranted to be accurate, complete nor timely. Neither PitchBook Data nor the National Science Foundation are responsible for any damages or losses arising from any use of such Data.</p>' +
+              '</div>' +
+            '</section>' +
+          '</section>';
+      {% endif %}
+
+      document.querySelector('#awards-history-details').innerHTML = html;
+      document.querySelector('.results-loading').style.display = 'none';
+    });
+  });
+</script>

@@ -1,0 +1,51 @@
+---
+layout: base
+class: awardees-layout
+---
+<section class="usa-section">
+<div class="usa-content utility-content usa-grid">
+<div class="usa-width-one-whole">
+
+<h1>COVID-19 Phase II Awards</h1>
+<p class="text-medium" markdown="1">
+  These SBIR/STTR Phase II awardees received additional funding for projects designed to mitigate the COVID-19 crisis. For more information about how each awardee is addressing COVID-19, we recommend reaching out to the awardee company.<br><br>
+  <a href="../covid-awards-phase-1/">View COVID-19 Phase I Awards</a>
+</p>
+
+</div>
+</div>
+</section>
+
+<section class="usa-section background-white">
+    <div class="usa-grid">
+       {% assign t_covid = 'y' %}
+       {% assign matching_awards = site.data[page.dataset] | uniq | where:'covid', t_covid | sort_insensitive:'awardeeName' %}
+      {% if matching_awards.size > 0 %}  
+        
+ <ul class="table monospace">
+              <li class="table-row table-header">
+                <div class="table-row-item subhead">Company</div>
+                <div class="table-row-item subhead">Location</div>
+                <div class="table-row-item subhead narrow numeric">Award amount</div>
+                <div class="table-row-item subhead narrow numeric">Award date</div>
+              </li>
+              <div>
+              {% for matching in matching_awards %}
+                <li class="table-row">
+                  <div class="table-row-item" data-header="Company">
+                    {% assign awardeeSlug = matching.awardeeName | slugify %}
+                    <a href="{{ page.details_url | append: awardeeSlug | relative_url }}" alt="{{ matching.awardeeName }}">
+                    <span>{{ matching.awardeeName }}</span>
+                    </a>
+                  </div>
+                  <div class="table-row-item" data-header="Location">{{ matching.awardeeStateCode }}</div>
+                  <div class="table-row-item narrow numeric font-mono text-small" data-header="Award amount">{{ matching.fundsObligatedAmt | intcomma_dollar }}</div>
+                  <div class="table-row-item narrow numeric font-mono text-small" data-header="Award date">{{ matching.date }}</div>
+                </li>
+              {% endfor %}
+              </div>
+            </ul>
+
+  {% endif %}
+  </div>
+ </section>

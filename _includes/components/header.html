@@ -1,0 +1,136 @@
+{% if header %}
+<header class="usa-header usa-header-{{ header.type | default: 'extended' }}" role="banner">
+  <div class="usa-banner">
+    <div class="usa-accordion">
+      <header class="usa-banner-header">
+        <div class="usa-grid usa-banner-inner flex flex-center flex-column">
+          <p class="banner-left">
+            <img src="{{ site.baseurl }}/assets/uswds/img/favicons/favicon-57.png" alt="U.S. flag">
+            <span>An official website of the United States government.</span>
+          </p>
+        </div>
+      </header>
+    </div>
+  </div>
+  <div class="usa-banner" style="background-color:#fff039; text-align:center;padding:3px;">
+        <div class="usa-grid usa-banner-inner flex flex-center flex-column">
+          <p class="banner-left" style="font-weight:bold;font-size:14px;">Submit a <a href="{{site.baseurl}}/apply/get-started/">Project Pitch</a> anytime!</p>
+        </div>
+  </div>
+  <div class="usa-banner" id="divPhase1" style="background-color:#eee; text-align:center;padding:3px;visibility:hidden;">
+        <div class="usa-grid usa-banner-inner flex flex-center flex-column">
+          <p class="banner-left" style="font-weight:bold;font-size:14px;"><a href="{{site.baseurl}}/resources/awardees/phase-1/tax-information/">Please read important tax updates that took effect for tax years beginning after Dec. 31, 2021.</a> </p>
+        </div>
+  </div>
+  <div class="usa-banner" id="divPhase2" style="background-color:#eee; text-align:center;padding:3px;visibility:hidden;">
+        <div class="usa-grid usa-banner-inner flex flex-center flex-column">
+          <p class="banner-left" style="font-weight:bold;font-size:14px;"><a href="{{site.baseurl}}/resources/awardees/phase-2/tax-information/">Please read important tax updates that took effect for tax years beginning after Dec. 31, 2021.</a> </p>
+        </div>
+  </div>
+  {% if header %}
+  <div class="usa-nav-container">
+  <div class="usa-navbar">
+    <button class="usa-menu-btn">Menu</button>
+    <div class="usa-logo" id="logo">
+      <em class="usa-logo-text">
+        <a href="{{ site.baseurl }}/" accesskey="1" title="Home" aria-label="Home">
+            {% if page.layout == 'landing' %}
+              <img src="{{site.baseurl}}/assets/img/logo/logo-black-sbir-sttr.svg" alt="{{ header.title | default: site.title }}">
+            {% else %}
+              <img src="{{site.baseurl}}/assets/img/logo/logo-2c-sbir-sttr.svg" alt="{{ header.title | default: site.title }}">
+            {% endif %}
+          </a>
+      </em>
+    </div>
+  </div>
+  <div class="usa-overlay"></div>
+  <nav role="navigation" class="usa-nav" aria-label="primary">
+    <div class="usa-nav-inner">
+      <button class="usa-nav-close">
+        <img src="{{ site.baseurl }}/assets/uswds/img/close.svg" alt="close">
+      </button>
+
+      {% assign _primary = header.primary.links %}
+      {% assign primary_links = site.data.navigation[_primary] | default: _primary %}
+      {% if primary_links %}
+      <nav aria-label="primary links">
+      <ul class="usa-nav-primary usa-accordion">
+        {% for _section in primary_links %}
+        <li>
+          {% if _section.links %}
+            {% assign section_links = site.data.navigation[_section.links] | default: _section.links %}
+            {% assign _section_id = _section.id %}
+            {% unless _section_id %}{% assign _section_id = 'nav-' | append: forloop.index %}{% endunless %}
+          <button class="usa-accordion-button usa-nav-link {{ _section.class }}" aria-expanded="false" aria-controls="{{ _section_id }}">
+            <span>{{ _section.text }}</span>
+          </button>
+          <ul id="{{ _section_id }}" class="usa-nav-submenu">
+            {% for _link in section_links %}
+            <li>
+              <a href="{{ _link.href | relative_url }}">{{ _link.text }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+          {% else %}
+          <a class="usa-nav-link {{ _section.class }}" href="{{ _section.href | relative_url }}">
+            <span>{{ _section.text }}</span>
+          </a>
+          {% endif %}
+        </li>
+        {% endfor %}
+        <li>
+          <div id="sb-search" class="sb-search">
+            <form class="usa-search usa-search-small" accept-charset="UTF-8" action="https://search.usa.gov/search" id="search_form" method="get">
+             <div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+             <div role="search">
+               <input id="affiliate" name="affiliate" type="hidden" value="seedfund" />
+               <label for="query" class="usa-sr-only">Search</label>
+               <input autocomplete="off" class="usagov-search-autocomplete sb-search-input" id="query" name="query" type="search" placeholder="Search" />
+
+             </div>
+            </form>
+          </div>
+        </li>
+      </ul>
+      </nav>
+      {% endif %}
+
+      {% assign _secondary = header.secondary %}
+      {% if _secondary %}
+      <div class="usa-nav-secondary">
+        {% if _secondary.search %}
+          <form action="{{ _secondary.search.action | relative_url }}" class="usa-search usa-search-small js-search-form">
+          <div role="search">
+            <label class="usa-sr-only" for="search-field-small">Search small</label>
+            <input id="search-field-small" type="search" name="{{ _secondary.search.query | default: 'search' }}">
+            <button type="submit">
+              <span class="usa-sr-only">Search</span>
+            </button>
+          </div>
+        </form>
+        {% endif %}
+        <ul class="usa-unstyled-list usa-nav-secondary-links">
+          <nav aria-label="secondary">
+          {% if _secondary.search %}
+          <li class="js-search-button-container">
+            <button class="usa-header-search-button js-search-button">Search</button>
+          </li>
+          {% endif %}
+          {% assign secondary_links = site.data.navigation[_secondary.links] | default: _secondary.links %}
+          {% for _link in secondary_links %}
+          <li>
+            <a href="{{ _link.href | relative_url }}">{{ _link.text }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+          </nav>
+      </div>
+      {% endif %}
+
+    </div>
+  </nav>
+</div>
+  {% endif %}
+
+</header>
+{% endif %}

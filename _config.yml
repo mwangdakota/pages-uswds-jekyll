@@ -18,11 +18,10 @@
 # Be sure to edit the values below
 ##########################################################################################
 
-title: Agency Name
+title: NSF SBIR
 email: contact@example.gov
 description: >- # this means to ignore newlines until "baseurl:"
-  Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.
+  America’s Seed Fund powered by the National Science Foundation (NSF SBIR/STTR) supports startups with research and development funding to create technologies.
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://example.gov" # the base hostname & protocol for your site, e.g. https://example.com.
   # Required to support the jekyll-sitemap plugin below.
@@ -32,6 +31,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # Twitter handle. Only the handle, not the URL.
 twitter: 18F
 
+styles:
+  - /assets/css/styles.css
+sass:
+  style: compressed
 #################################################################
 #
 # Digital Analytics Program (DAP) configuration

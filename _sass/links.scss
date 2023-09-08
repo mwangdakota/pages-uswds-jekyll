@@ -1,0 +1,145 @@
+a { cursor: pointer; }
+
+@mixin focus-icon-linkstyle(){
+    box-shadow: 0 0 1px 0 $color-gray-medium-warm;
+    background-color: $color-secondary-lightest;
+}
+
+#main-content {
+  a {
+
+    &[href^='mailto']:not(.usa-button) {
+      background-image: url('../img/links/email.svg');
+      background-position: right center;
+      background-repeat: no-repeat;
+      background-size: 16px auto;
+      padding-right: 20px;
+      &:focus,
+      &:active {
+        @include focus-icon-linkstyle;
+      }
+    }
+
+    &[href^='tel']:not(.usa-button) {
+      background-image: url('../img/links/phone.svg');
+      background-position: right center;
+      background-repeat: no-repeat;
+      background-size: 10px auto;
+      padding-right: 16px;
+      &:focus,
+      &:active {
+        @include focus-icon-linkstyle;
+      }
+    }
+
+    &[href *='.doc']:not(.usa-button) {
+      background-image: url('../img/links/file-word.svg');
+      background-position: right center;
+      background-repeat: no-repeat;
+      background-size: 16px auto;
+      padding-right: 20px;
+      &:focus,
+      &:active {
+        @include focus-icon-linkstyle;
+      }
+    }
+
+    &[href $='.pdf']:not(.usa-button) {
+      background-image: url('../img/links/file-acrobat.svg');
+      background-position: right center;
+      background-repeat: no-repeat;
+      background-size: 16px auto;
+      padding-right: 20px;
+      &:focus,
+      &:active {
+        @include focus-icon-linkstyle;
+      }
+    }
+
+    &[href $='.ppt']:not(.usa-button) {
+      background-image: url('../img/links/file-powerpoint.svg');
+      background-position: right center;
+      background-repeat: no-repeat;
+      background-size: 16px auto;
+      padding-right: 20px;
+      &:focus,
+      &:active {
+        @include focus-icon-linkstyle;
+      }
+    }
+
+    &[href *='.xls']:not(.usa-button) {
+      background-image: url('../img/links/file-excel.svg');
+      background-position: right center;
+      background-repeat: no-repeat;
+      background-size: 16px auto;
+      padding-right: 20px;
+      &:focus,
+      &:active {
+        @include focus-icon-linkstyle;
+      }
+    }
+
+    &[href*='.com'],
+    &[href*='.org'],
+    &[href*='.net'],
+    &[href*='.co'],
+    &[href*='.tech'],
+    &[href*='.vc'],
+    &.external-link {
+      background-image: url('../img/links/external-link.svg');
+      background-position: right center;
+      background-repeat: no-repeat;
+      background-size: 16px auto;
+      padding-right: 18px;
+      &:focus,
+      &:active {
+        @include focus-icon-linkstyle;
+      }
+    }
+
+    &.usa-button {
+      background-position: 92% center;
+      padding-right: 3.5rem;
+    }
+}
+
+.usa-sidenav-list {
+  a {
+    &[href*='.com'],
+    &[href*='.org'],
+    &[href*='.net'],
+    &[href*='.co'],
+    &[href*='.tech'],
+    &.external-link {
+      &:focus,
+      &:active {
+        background-color: $color-primary-alt-lightest;
+      }
+    }
+  }
+}
+
+
+  .background-gray-dark {
+    a {
+      &[href*='.com'],
+      &[href*='.org'],
+      &[href*='.net'],
+      &[href*='.co'],
+      &.external-link {
+        background-image: url('../img/links/external-link-inverse.svg');
+        baackground-position: right center;
+        background-repeat: no-repeat;
+        background-size: 16px auto;
+        padding-right: 18px;
+      }
+    }
+  }
+}
+
+.step-banner__content {
+  &:visited {
+    color: $color-white;
+  }
+}

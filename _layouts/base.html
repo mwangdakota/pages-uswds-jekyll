@@ -1,24 +1,50 @@
-{% comment %}
-This is used for just about every page. It provides the border around the content.
-The home page uses wide.html layout, since it extends full width of page
-{% endcomment %}
-
+---
+---
+{% assign background_image_url = '' %}
+{% if page.section_image %}{% assign background_image_url = page.section_image | relative_url %}{% endif %}
+{% if page.hero.image %}{% assign background_image_url = page.hero.image | relative_url %}{% endif %}
 <!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}" class="no-js">
+  <head>
+    {% include meta.html %}
+    {% include styles.html %}
+    <!-- We participate in the US government's analytics program. See the data at analytics.usa.gov. -->
+    <script async type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NSF" id="_fed_an_ua_tag"></script>
 
-<html lang="en">
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PFT6WRB');</script>
+   <!-- End Google Tag Manager -->
+  </head>
 
-{% include meta.html %}
+  <body class="{{ layout.class }} page-{{ page.title | slugify }} {{ page.class }} {% if background_image_url != '' %} page-background {% endif %}">
+    {% if background_image_url != '' %}
+    <div class="page-background-image" style="background-image: url('{{ background_image_url }}');"></div>
+    {% endif %}
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PFT6WRB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+   <!-- End Google Tag Manager (noscript) -->
+   {% if page.layout == 'landing' %}
+   <div class="hero-treatment">
+   {% else %}
+   {% endif %}
+    {% include skipnav.html %}
+    {% include banner.html %}
+    {% include header.html %}
 
-<body>
-  {% include header.html %}
+    <main id="main-content"{% for _attr in layout.main %} {{ _attr[0] }}="{{ _attr[1] }}"{% endfor %}>
+    {{ content }}
+    </main>
 
-  {% include menu.html primary_navigation=site.primary_navigation  secondary_navigation=site.secondary_navigation %}
-
-  {{ content }}
-
-  {% include footer.html %}
-
-  {% include scripts.html %}
-</body>
-
+    {% include footer.html %}
+    {% include scripts.html %}
+    {% if page.layout == 'landing' %}
+  </div>
+    {% else %}
+    {% endif %}
+  </body>
 </html>
